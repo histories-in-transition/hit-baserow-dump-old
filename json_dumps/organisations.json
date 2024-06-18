@@ -1,0 +1,23 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "Name": "Erzabtei Sankt Peter (Salzburg)",
+    "Notes": "",
+    "place": [
+      {
+        "id": 3,
+        "value": "Salzburg"
+      }
+    ],
+    "gnd_url": "https://d-nb.info/gnd/2070551-7"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "Name": "",
+    "Notes": "",
+    "place": [],
+    "gnd_url": ""
+  }
+}

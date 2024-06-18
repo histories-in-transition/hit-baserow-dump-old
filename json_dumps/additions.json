@@ -1,0 +1,24 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "label": "Annotation",
+    "notes": "",
+    "hit_id": "hit_addition__1",
+    "related_text": [],
+    "type": [
+      {
+        "id": 14737,
+        "value": "Annotation",
+        "color": "light-brown"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "locus": "1r"
+  }
+}

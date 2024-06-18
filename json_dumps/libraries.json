@@ -1,0 +1,47 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "label": "ÖNB",
+    "hit_id": "hit_library__1",
+    "gnd_url": "https://d-nb.info/gnd/2020893-5",
+    "library_full": "Österreichische Nationalbibliothek",
+    "country": [
+      {
+        "id": 1,
+        "value": "Österreich"
+      }
+    ],
+    "library_website": "https://www.onb.ac.at/"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "label": "UBWÜ",
+    "hit_id": "hit_library__2",
+    "gnd_url": "https://d-nb.info/gnd/2025026-5",
+    "library_full": "Universitätsbibliothek Würzburg",
+    "country": [
+      {
+        "id": 2,
+        "value": "Deutschland"
+      }
+    ],
+    "library_website": ""
+  },
+  "4": {
+    "id": 4,
+    "order": "3.00000000000000000000",
+    "label": "BSB",
+    "hit_id": "hit_library__4",
+    "gnd_url": "https://d-nb.info/gnd/2031351-2",
+    "library_full": "Bayerische Staatsbibliothek",
+    "country": [
+      {
+        "id": 2,
+        "value": "Deutschland"
+      }
+    ],
+    "library_website": "https://www.bsb-muenchen.de/"
+  }
+}

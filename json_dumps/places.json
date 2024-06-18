@@ -1,0 +1,57 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "name": "Österreich",
+    "geonames_url": "https://www.geonames.org/2782113/republic-of-austria.html",
+    "hit_id": "hit_place__1",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q40",
+    "hands": []
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "name": "Deutschland",
+    "geonames_url": "",
+    "hit_id": "hit_place__2",
+    "wikidata_url": "",
+    "hands": []
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "name": "Salzburg",
+    "geonames_url": "",
+    "hit_id": "hit_place__3",
+    "wikidata_url": "",
+    "hands": [
+      {
+        "id": 5,
+        "value": "Cod. M. p. th. f. 46, Hand "
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "name": "Freising",
+    "geonames_url": "",
+    "hit_id": "hit_place__4",
+    "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+    "hands": []
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "name": "Saint-Amand",
+    "geonames_url": "https://www.geonames.org/12157096/abbaye-de-saint-amand.html",
+    "hit_id": "hit_place__5",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q334131",
+    "hands": [
+      {
+        "id": 6,
+        "value": "Cod. M. p. th. f. 46, Hand 1"
+      }
+    ]
+  }
+}

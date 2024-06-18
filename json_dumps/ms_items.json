@@ -1,0 +1,306 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "label": [
+      {
+        "id": 1,
+        "value": "cod_387__1"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "incipit": null,
+    "explicit": null,
+    "rubric": null,
+    "author": [],
+    "title_work": [
+      {
+        "id": 1,
+        "value": "De temporibus"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_ribric": null,
+    "version": null,
+    "hit_id": "hit_ms_items__1",
+    "locus_from": "",
+    "locus_to": "",
+    "locus": "-",
+    "filiation": [],
+    "cod_unit": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387, kod. Einheit 1"
+      }
+    ],
+    "excerpt": null,
+    "source_text": [
+      {
+        "id": 1,
+        "value": "De temporibus"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "order": "2.00000000000000000000",
+    "label": [
+      {
+        "id": 5,
+        "value": "clm_6326__3"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "author": [],
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_ribric": "",
+    "version": "",
+    "hit_id": "hit_ms_items__3",
+    "locus_from": "",
+    "locus_to": "",
+    "locus": "-",
+    "filiation": [],
+    "cod_unit": [],
+    "excerpt": null,
+    "source_text": []
+  },
+  "4": {
+    "id": 4,
+    "order": "3.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "author": [],
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_ribric": "",
+    "version": "",
+    "hit_id": "hit_ms_items__4",
+    "locus_from": "",
+    "locus_to": "",
+    "locus": "-",
+    "filiation": [],
+    "cod_unit": [],
+    "excerpt": "",
+    "source_text": []
+  },
+  "6": {
+    "id": 6,
+    "order": "3.50000000000000000000",
+    "label": [
+      {
+        "id": 2,
+        "value": "cod_m_p_th_f_46__6"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "author": [],
+    "title_work": [
+      {
+        "id": 5,
+        "value": "Argumentum descriptionis omnium terminorum singulis annis decemnovennalis cycli"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_ribric": "",
+    "version": "",
+    "hit_id": "hit_ms_items__6",
+    "locus_from": "1r",
+    "locus_to": "1r",
+    "locus": "1r-1r",
+    "filiation": [],
+    "cod_unit": [
+      {
+        "id": 3,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, kod. Einheit 1"
+      }
+    ],
+    "excerpt": "",
+    "source_text": []
+  },
+  "5": {
+    "id": 5,
+    "order": "4.00000000000000000000",
+    "label": [
+      {
+        "id": 2,
+        "value": "cod_m_p_th_f_46__5"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "author": [
+      {
+        "id": 5,
+        "value": "Ps.-Beda"
+      }
+    ],
+    "title_work": [
+      {
+        "id": 4,
+        "value": "De cyclo paschali"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_ribric": "",
+    "version": "",
+    "hit_id": "hit_ms_items__5",
+    "locus_from": "2r",
+    "locus_to": "21r",
+    "locus": "2r-21r",
+    "filiation": [],
+    "cod_unit": [
+      {
+        "id": 3,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, kod. Einheit 1"
+      }
+    ],
+    "excerpt": "",
+    "source_text": []
+  },
+  "7": {
+    "id": 7,
+    "order": "5.00000000000000000000",
+    "label": [
+      {
+        "id": 2,
+        "value": "cod_m_p_th_f_46__7"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "author": [],
+    "title_work": [
+      {
+        "id": 6,
+        "value": "Epactae lunae & solis"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_ribric": "",
+    "version": "",
+    "hit_id": "hit_ms_items__7",
+    "locus_from": "21v",
+    "locus_to": "22r",
+    "locus": "21v-22r",
+    "filiation": [],
+    "cod_unit": [
+      {
+        "id": 3,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, kod. Einheit 1"
+      }
+    ],
+    "excerpt": "",
+    "source_text": []
+  },
+  "8": {
+    "id": 8,
+    "order": "6.00000000000000000000",
+    "label": [
+      {
+        "id": 2,
+        "value": "cod_m_p_th_f_46__8"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "author": [
+      {
+        "id": 1,
+        "value": "Beda, Heiliger"
+      }
+    ],
+    "title_work": [
+      {
+        "id": 7,
+        "value": "De temporum ratione"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_ribric": "",
+    "version": "",
+    "hit_id": "hit_ms_items__8",
+    "locus_from": "23r",
+    "locus_to": "97v",
+    "locus": "23r-97v",
+    "filiation": [],
+    "cod_unit": [],
+    "excerpt": "",
+    "source_text": []
+  },
+  "9": {
+    "id": 9,
+    "order": "7.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "author": [],
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_ribric": "",
+    "version": "",
+    "hit_id": "hit_ms_items__9",
+    "locus_from": "",
+    "locus_to": "",
+    "locus": "-",
+    "filiation": [],
+    "cod_unit": [],
+    "excerpt": "",
+    "source_text": []
+  }
+}

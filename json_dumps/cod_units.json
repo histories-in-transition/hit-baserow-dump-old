@@ -1,0 +1,219 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387, kod. Einheit 1"
+      }
+    ],
+    "notes": "",
+    "locus_from": "1r",
+    "hit_id": "hit_cod_unit__1",
+    "locus_to": "8v",
+    "locus": "1r-8v",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "quire": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387, L. 1"
+      }
+    ],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB"
+      }
+    ],
+    "number": "1",
+    "prov_place": [],
+    "orig_date": []
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387, kod. Einheit 2"
+      }
+    ],
+    "notes": "",
+    "locus_from": "9r",
+    "hit_id": "hit_cod_unit__2",
+    "locus_to": null,
+    "locus": "9r-",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "quire": [
+      {
+        "id": 4,
+        "value": "ÖNB, Cod. 387, L. 2"
+      }
+    ],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB"
+      }
+    ],
+    "number": "2",
+    "prov_place": [],
+    "orig_date": []
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46, kod. Einheit 1"
+      }
+    ],
+    "notes": "",
+    "locus_from": "1r",
+    "hit_id": "hit_cod_unit__3",
+    "locus_to": "",
+    "locus": "1r-",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "quire": [
+      {
+        "id": 5,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 1"
+      },
+      {
+        "id": 7,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 2"
+      },
+      {
+        "id": 8,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 3"
+      }
+    ],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ"
+      }
+    ],
+    "number": "1",
+    "prov_place": [
+      {
+        "id": 5,
+        "value": "Saint-Amand"
+      }
+    ],
+    "orig_date": [
+      {
+        "id": 7,
+        "value": "9 c., first quarter"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "label": [],
+    "notes": "",
+    "locus_from": "",
+    "hit_id": "hit_cod_unit__4",
+    "locus_to": "",
+    "locus": "-",
+    "manuscript": [],
+    "quire": [
+      {
+        "id": 6,
+        "value": "BSB, Clm. 6326, L. "
+      },
+      {
+        "id": 9,
+        "value": "BSB, Clm. 6326, L. 1"
+      }
+    ],
+    "library": [],
+    "number": null,
+    "prov_place": [],
+    "orig_date": []
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "label": [],
+    "notes": "",
+    "locus_from": "",
+    "hit_id": "hit_cod_unit__5",
+    "locus_to": "",
+    "locus": "-",
+    "manuscript": [],
+    "quire": [],
+    "library": [],
+    "number": null,
+    "prov_place": [],
+    "orig_date": []
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "label": [],
+    "notes": "",
+    "locus_from": "",
+    "hit_id": "hit_cod_unit__6",
+    "locus_to": "",
+    "locus": "-",
+    "manuscript": [],
+    "quire": [],
+    "library": [],
+    "number": null,
+    "prov_place": [],
+    "orig_date": []
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "label": [],
+    "notes": "",
+    "locus_from": "",
+    "hit_id": "hit_cod_unit__8",
+    "locus_to": "",
+    "locus": "-",
+    "manuscript": [],
+    "quire": [],
+    "library": [],
+    "number": null,
+    "prov_place": [],
+    "orig_date": []
+  }
+}

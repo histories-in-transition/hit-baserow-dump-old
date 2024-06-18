@@ -1,0 +1,75 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "label": "s. IX",
+    "not_before": "0801-01-01",
+    "hit_id": "hit_date__1",
+    "not_after": "0900-12-31",
+    "bibliography": []
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "label": "s. IX 1/3",
+    "not_before": "0801-01-01",
+    "hit_id": "hit_date__2",
+    "not_after": "0800-12-31",
+    "bibliography": []
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "label": "Mitte 9. Jhdt.",
+    "not_before": null,
+    "hit_id": "hit_date__3",
+    "not_after": null,
+    "bibliography": []
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "label": "10 c., middle",
+    "not_before": "0940-01-01",
+    "hit_id": "hit_date__4",
+    "not_after": "0960-12-31",
+    "bibliography": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "label": "10 c., second half",
+    "not_before": "0950-01-01",
+    "hit_id": "hit_date__5",
+    "not_after": "0999-12-31",
+    "bibliography": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "label": "9 c., first half",
+    "not_before": "0801-01-01",
+    "hit_id": "hit_date__6",
+    "not_after": "0850-12-31",
+    "bibliography": []
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "label": "9 c., first quarter",
+    "not_before": "0801-01-01",
+    "hit_id": "hit_date__7",
+    "not_after": "0825-12-31",
+    "bibliography": []
+  }
+}

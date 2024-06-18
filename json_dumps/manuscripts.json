@@ -1,0 +1,904 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "shelfmark": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "hit_id": "hit_mansuscript__1",
+    "library": [
+      {
+        "id": 1,
+        "value": "ÖNB"
+      }
+    ],
+    "manuscripta_url": "https://manuscripta.at/?ID=5974",
+    "handschriftenportal_url": "https://resolver.staatsbibliothek-berlin.de/HSP0003F2AF00000000",
+    "catalog_url": "http://data.onb.ac.at/rec/AC13961630",
+    "digi_url": "http://data.onb.ac.at/dtl/3049329",
+    "idno": "Cod. 387",
+    "idno_former": null,
+    "provenance": "",
+    "quire_structure": null,
+    "library_full": [
+      {
+        "id": 1,
+        "value": "Österreichische Nationalbibliothek"
+      }
+    ],
+    "extent": "",
+    "foliation": null,
+    "acc_mat": null,
+    "binding": null,
+    "binding_date": null,
+    "origin": null,
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material": "",
+    "orig_place": [],
+    "orig_date": [
+      {
+        "id": 3,
+        "value": "Mitte 9. Jhdt."
+      }
+    ],
+    "catchwords": null
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "shelfmark": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "hit_id": "hit_mansuscript__2",
+    "library": [
+      {
+        "id": 2,
+        "value": "UBWÜ"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46",
+    "digi_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46",
+    "idno": "Cod. M. p. th. f. 46",
+    "idno_former": null,
+    "provenance": "Würzburg, Dombibliothek",
+    "quire_structure": "2 IV(16) + III(22) + 3 IV(46) + 2 III(58) + 2 IV(74) + IV und 1 Bl.(83) + III(89) + 4 IV(121) + II und 1Bl.(126) + IV(134) + 2 II und 2 Bl.(144) + I und 3 Bl.(149)",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Universitätsbibliothek Würzburg"
+      }
+    ],
+    "extent": "149",
+    "foliation": null,
+    "acc_mat": "Als Makulatur wurden Pergamentstreifen aus M. p. th. f. 188 verwendet.",
+    "binding": "Holzdeckel mit unregelmäßig beschnittenem Schaflederrücken. Titel auf Pergamentstreifen auf dem Vorderdeckel. Signaturschild auf dem Rücken. Reste einer Schließe. Spuren von Kettenbefestigung am Hinterdeckel oben. Restauriert. Der gesprungene Hintere Deckel wird von alten Metallklammern zusammengehalten",
+    "binding_date": "15. Jhdt.",
+    "origin": "In Zusammenarbeit der beiden Schriftzentren Saint-Amand und Salzburg entstanden. War im Jahr 976 noch in Salzburg. Signaturen: 1r (LXXXIII, 15. Jhdt), 2r (LXXXIII, 15. Jhdt), Buchrücken (81, 18. Jhdt).",
+    "bibliography": [],
+    "height": "235",
+    "width": "170",
+    "material": "sheep parchment",
+    "orig_place": [
+      {
+        "id": 3,
+        "value": "Salzburg"
+      },
+      {
+        "id": 5,
+        "value": "Saint-Amand"
+      }
+    ],
+    "orig_date": [
+      {
+        "id": 6,
+        "value": "9 c., first half"
+      }
+    ],
+    "catchwords": null
+  },
+  "4": {
+    "id": 4,
+    "order": "3.00000000000000000000",
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 210"
+      }
+    ],
+    "hit_id": "hit_mansuscript__4",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "Clm. 210",
+    "idno_former": "",
+    "provenance": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 4,
+        "value": "Bayerische Staatsbibliothek"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": "",
+    "origin": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material": "",
+    "orig_place": [],
+    "orig_date": [],
+    "catchwords": null
+  },
+  "5": {
+    "id": 5,
+    "order": "4.00000000000000000000",
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "hit_id": "hit_mansuscript__5",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "https://handschriftenportal.de/search?hspobjectid=HSP-92ca4fdc-c34d-33a5-a2a4-5a55eb2ec9ff",
+    "catalog_url": "https://handschriftenportal.de/search?hspobjectid=HSP-92ca4fdc-c34d-33a5-a2a4-5a55eb2ec9ff",
+    "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00006546?page=,1",
+    "idno": "Clm. 6326",
+    "idno_former": "Fris. 126",
+    "provenance": "Freising, Dombibliothek",
+    "quire_structure": "16 IV 127+ (IV - 1) 134",
+    "library_full": [
+      {
+        "id": 4,
+        "value": "Bayerische Staatsbibliothek"
+      }
+    ],
+    "extent": "I + 134",
+    "foliation": "19th c.",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": "",
+    "origin": "Written in Freising, already in the 12th c. in posession of the Dombibliothek. Posession marks: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (on the cover). Possibly bishop Abraham's personal book (N. Daniel).",
+    "bibliography": [],
+    "height": "195",
+    "width": "165",
+    "material": "parchment",
+    "orig_place": [
+      {
+        "id": 2,
+        "value": "Deutschland"
+      },
+      {
+        "id": 4,
+        "value": "Freising"
+      }
+    ],
+    "orig_date": [
+      {
+        "id": 4,
+        "value": "10 c., middle"
+      },
+      {
+        "id": 5,
+        "value": "10 c., second half"
+      }
+    ],
+    "catchwords": ""
+  },
+  "6": {
+    "id": 6,
+    "order": "5.00000000000000000000",
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6308"
+      }
+    ],
+    "hit_id": "hit_mansuscript__6",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "https://handschriftenportal.de/search?hspobjectid=HSP-964e5d99-4726-386f-b03c-c49ff177b56c&q=6308&hl=true",
+    "catalog_url": "https://handschriftenportal.de/search?hspobjectid=HSP-964e5d99-4726-386f-b03c-c49ff177b56c&q=6308&hl=true",
+    "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00065382?page=,1",
+    "idno": "Clm. 6308",
+    "idno_former": "",
+    "provenance": "",
+    "quire_structure": "(IV - 2?)6 + 17 IV142 + (IV - l)149; quires 16 and 17 are displaced",
+    "library_full": [
+      {
+        "id": 4,
+        "value": "Bayerische Staatsbibliothek"
+      }
+    ],
+    "extent": "149",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": "",
+    "origin": "",
+    "bibliography": [],
+    "height": "255",
+    "width": "160",
+    "material": "",
+    "orig_place": [],
+    "orig_date": [],
+    "catchwords": ""
+  },
+  "7": {
+    "id": 7,
+    "order": "6.00000000000000000000",
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6380"
+      }
+    ],
+    "hit_id": "hit_mansuscript__7",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "https://handschriftenportal.de/search?hspobjectid=HSP-ce06cb49-89ae-3b14-bb2a-988e21383270&q=6380&hl=true",
+    "catalog_url": "https://handschriftenportal.de/search?hspobjectid=HSP-ce06cb49-89ae-3b14-bb2a-988e21383270&q=6380&hl=true",
+    "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00115092?page=,1",
+    "idno": "Clm. 6380",
+    "idno_former": "",
+    "provenance": "",
+    "quire_structure": "(IV - 2) 6+ (VII - 4) 16+ 2 IV 32+ (V - 2) 40+ IV 48+ (VI - 4) 56+ 5 IV 96+ (IV - 1) 103",
+    "library_full": [
+      {
+        "id": 4,
+        "value": "Bayerische Staatsbibliothek"
+      }
+    ],
+    "extent": "103",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": "",
+    "origin": "",
+    "bibliography": [],
+    "height": "285",
+    "width": "225",
+    "material": "",
+    "orig_place": [],
+    "orig_date": [],
+    "catchwords": ""
+  },
+  "8": {
+    "id": 8,
+    "order": "7.00000000000000000000",
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6375"
+      }
+    ],
+    "hit_id": "hit_mansuscript__8",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "https://handschriftenportal.de/search?hspobjectid=HSP-ec691efa-fba1-3c33-a17b-18a4fbb2e305&q=6375&hl=true",
+    "catalog_url": "https://handschriftenportal.de/search?hspobjectid=HSP-ec691efa-fba1-3c33-a17b-18a4fbb2e305&q=6375&hl=true",
+    "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054504?page=,1",
+    "idno": "Clm. 6375",
+    "idno_former": "",
+    "provenance": "",
+    "quire_structure": "(V - 3) 7+ IV 15+ 2 (V - 2) 31+ IV 39+ (V - 2) 47+ IV 55+ (V - 2) 63+ 3 IV 87+ 5 (V - 2) 127+ (IV - 1) 134+ IV 142+ (IV + [I - 1] 144- 1) 150+ IV 158+ 2 (V - 2) 174+ IV 182+ (VI - 3) 191+ (IV - 2) 197+ (VIII - 7) 206+ (VI - 4) 214+ IV 222+ (III - 1) 227",
+    "library_full": [
+      {
+        "id": 4,
+        "value": "Bayerische Staatsbibliothek"
+      }
+    ],
+    "extent": "134",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": "",
+    "origin": "",
+    "bibliography": [],
+    "height": "325",
+    "width": "225",
+    "material": "",
+    "orig_place": [],
+    "orig_date": [],
+    "catchwords": ""
+  },
+  "9": {
+    "id": 9,
+    "order": "8.00000000000000000000",
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6381"
+      }
+    ],
+    "hit_id": "hit_mansuscript__9",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "https://handschriftenportal.de/search?hspobjectid=HSP-51d9be1f-4e6f-3476-884b-f48c5c3a096d&q=6381&hl=true",
+    "catalog_url": "https://handschriftenportal.de/search?hspobjectid=HSP-51d9be1f-4e6f-3476-884b-f48c5c3a096d&q=6381&hl=true",
+    "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054506?page=,1",
+    "idno": "Clm. 6381",
+    "idno_former": "",
+    "provenance": "",
+    "quire_structure": "II 4+ 11 IV 92+ III 98+ 12 IV 194+ 9 (!) III 248+ (II - 2) 250",
+    "library_full": [
+      {
+        "id": 4,
+        "value": "Bayerische Staatsbibliothek"
+      }
+    ],
+    "extent": "250",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": "",
+    "origin": "",
+    "bibliography": [],
+    "height": "280",
+    "width": "195",
+    "material": "",
+    "orig_place": [],
+    "orig_date": [],
+    "catchwords": ""
+  },
+  "10": {
+    "id": 10,
+    "order": "9.00000000000000000000",
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "hit_id": "hit_mansuscript__10",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "https://handschriftenportal.de/search?hspobjectid=HSP-f28875ec-7066-346b-84cd-3ca2af70351b&q=6382&hl=true",
+    "catalog_url": "https://handschriftenportal.de/search?hspobjectid=HSP-f28875ec-7066-346b-84cd-3ca2af70351b&q=6382&hl=true",
+    "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054507?page=,1",
+    "idno": "Clm. 6382",
+    "idno_former": "",
+    "provenance": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 4,
+        "value": "Bayerische Staatsbibliothek"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": "",
+    "origin": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material": "",
+    "orig_place": [],
+    "orig_date": [],
+    "catchwords": ""
+  },
+  "11": {
+    "id": 11,
+    "order": "10.00000000000000000000",
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6383"
+      }
+    ],
+    "hit_id": "hit_mansuscript__11",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "https://handschriftenportal.de/search?hspobjectid=HSP-befb7065-a984-361d-beb8-834976066dfa&q=6383&hl=true",
+    "catalog_url": "https://handschriftenportal.de/search?hspobjectid=HSP-befb7065-a984-361d-beb8-834976066dfa&q=6383&hl=true",
+    "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=,1",
+    "idno": "Clm. 6383",
+    "idno_former": "",
+    "provenance": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 4,
+        "value": "Bayerische Staatsbibliothek"
+      }
+    ],
+    "extent": "151",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": "",
+    "origin": "",
+    "bibliography": [],
+    "height": "260",
+    "width": "205",
+    "material": "",
+    "orig_place": [],
+    "orig_date": [],
+    "catchwords": ""
+  },
+  "12": {
+    "id": 12,
+    "order": "11.00000000000000000000",
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6388"
+      }
+    ],
+    "hit_id": "hit_mansuscript__12",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "https://handschriftenportal.de/search?hspobjectid=HSP-8e0b5733-33ec-3d2b-9b85-126b77052269&q=6388&hl=true",
+    "catalog_url": "https://handschriftenportal.de/search?hspobjectid=HSP-8e0b5733-33ec-3d2b-9b85-126b77052269&q=6388&hl=true",
+    "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00006691?page=,1",
+    "idno": "Clm. 6388",
+    "idno_former": "",
+    "provenance": "",
+    "quire_structure": "II 4+ (II - 1) 7; V 17+ 8 IV 81+ II 85; 13 IV 189+ (IV + 1) 198",
+    "library_full": [
+      {
+        "id": 4,
+        "value": "Bayerische Staatsbibliothek"
+      }
+    ],
+    "extent": "198",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": "",
+    "origin": "",
+    "bibliography": [],
+    "height": "250",
+    "width": "180",
+    "material": "",
+    "orig_place": [],
+    "orig_date": [],
+    "catchwords": ""
+  },
+  "13": {
+    "id": 13,
+    "order": "12.00000000000000000000",
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6391"
+      }
+    ],
+    "hit_id": "hit_mansuscript__13",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "https://handschriftenportal.de/search?hspobjectid=HSP-850b76bd-4da0-3479-9445-d47780e628d0&q=6391&hl=true",
+    "catalog_url": "https://handschriftenportal.de/search?hspobjectid=HSP-850b76bd-4da0-3479-9445-d47780e628d0&q=6391&hl=true",
+    "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00112045?page=,1",
+    "idno": "Clm. 6391",
+    "idno_former": "",
+    "provenance": "",
+    "quire_structure": "I II+ 6 IV 48+ (IV - 1) 55+ III 61+ 4 IV 93+ (IV - 3) 98+ 11 IV 186+ (IV - 1) 193",
+    "library_full": [
+      {
+        "id": 4,
+        "value": "Bayerische Staatsbibliothek"
+      }
+    ],
+    "extent": "II + 193",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": "",
+    "origin": "",
+    "bibliography": [],
+    "height": "185",
+    "width": "150",
+    "material": "",
+    "orig_place": [],
+    "orig_date": [],
+    "catchwords": ""
+  },
+  "14": {
+    "id": 14,
+    "order": "13.00000000000000000000",
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6392"
+      }
+    ],
+    "hit_id": "hit_mansuscript__14",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "https://handschriftenportal.de/search?hspobjectid=HSP-0d104037-8965-3e56-a0f1-72e1408161d3&q=6392&hl=true",
+    "catalog_url": "https://handschriftenportal.de/search?hspobjectid=HSP-0d104037-8965-3e56-a0f1-72e1408161d3&q=6392&hl=true",
+    "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00115093?page=,1",
+    "idno": "Clm. 6392",
+    "idno_former": "",
+    "provenance": "",
+    "quire_structure": "(V + 1) 10+ 2 IV 26+ III 32+ 2 IV 48+ (III + 1) 55",
+    "library_full": [
+      {
+        "id": 4,
+        "value": "Bayerische Staatsbibliothek"
+      }
+    ],
+    "extent": "I + 55",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": "",
+    "origin": "",
+    "bibliography": [],
+    "height": "180",
+    "width": "140",
+    "material": "",
+    "orig_place": [],
+    "orig_date": [],
+    "catchwords": ""
+  },
+  "15": {
+    "id": 15,
+    "order": "14.00000000000000000000",
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
+    "hit_id": "hit_mansuscript__15",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "https://handschriftenportal.de/search?hspobjectid=HSP-10afa26a-719b-3e4e-9cb2-c33d1fe86a0e&q=6393&hl=true",
+    "catalog_url": "https://handschriftenportal.de/search?hspobjectid=HSP-10afa26a-719b-3e4e-9cb2-c33d1fe86a0e&q=6393&hl=true",
+    "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00047273?page=,1",
+    "idno": "Clm. 6393",
+    "idno_former": "",
+    "provenance": "",
+    "quire_structure": "(IV - 1) 7+ III 13+ 2 IV 29+ (IV - 1) 36+ 11 IV 124+ (I + [IV - 1]) 133; 17 IV 269+ (IV - 1) 276",
+    "library_full": [
+      {
+        "id": 4,
+        "value": "Bayerische Staatsbibliothek"
+      }
+    ],
+    "extent": "276",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": "",
+    "origin": "",
+    "bibliography": [],
+    "height": "165",
+    "width": "105",
+    "material": "",
+    "orig_place": [],
+    "orig_date": [],
+    "catchwords": ""
+  },
+  "16": {
+    "id": 16,
+    "order": "15.00000000000000000000",
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6376"
+      }
+    ],
+    "hit_id": "hit_mansuscript__16",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "https://handschriftenportal.de/search?hspobjectid=HSP-c3bd1151-cd69-3c37-a27c-b3e124e11b68&q=6376&hl=true",
+    "catalog_url": "https://handschriftenportal.de/search?hspobjectid=HSP-c3bd1151-cd69-3c37-a27c-b3e124e11b68&q=6376&hl=true",
+    "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054505?page=,1",
+    "idno": "Clm. 6376",
+    "idno_former": "",
+    "provenance": "",
+    "quire_structure": "22 IV 175+ (IV - 1) 182+ IV 190+ (IV - 1) 197+ 2 IV 213",
+    "library_full": [
+      {
+        "id": 4,
+        "value": "Bayerische Staatsbibliothek"
+      }
+    ],
+    "extent": "I + 213",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": "",
+    "origin": "",
+    "bibliography": [],
+    "height": "335",
+    "width": "225",
+    "material": "",
+    "orig_place": [],
+    "orig_date": [],
+    "catchwords": ""
+  },
+  "17": {
+    "id": 17,
+    "order": "16.00000000000000000000",
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 1086"
+      }
+    ],
+    "hit_id": "hit_mansuscript__17",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "https://handschriftenportal.de/search?hspobjectid=HSP-b679cb6e-dd44-3848-a88b-6c4f30aab574&q=1086&hl=true",
+    "catalog_url": "https://handschriftenportal.de/search?hspobjectid=HSP-b679cb6e-dd44-3848-a88b-6c4f30aab574&q=1086&hl=true",
+    "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00064004?page=,1",
+    "idno": "Clm. 1086",
+    "idno_former": "",
+    "provenance": "",
+    "quire_structure": "(IV-1) 7 + 11 IV 94 + (IV-1) 103",
+    "library_full": [
+      {
+        "id": 4,
+        "value": "Bayerische Staatsbibliothek"
+      }
+    ],
+    "extent": "103",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": "",
+    "origin": "",
+    "bibliography": [],
+    "height": "205",
+    "width": "140",
+    "material": "",
+    "orig_place": [],
+    "orig_date": [],
+    "catchwords": ""
+  },
+  "18": {
+    "id": 18,
+    "order": "17.00000000000000000000",
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 29226"
+      }
+    ],
+    "hit_id": "hit_mansuscript__18",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "https://handschriftenportal.de/search?hspobjectid=HSP-1716b361-b8d6-3f55-8d9b-40366327a051&q=29226&hl=true",
+    "catalog_url": "",
+    "digi_url": "https://handschriftenportal.de/search?hspobjectid=HSP-1716b361-b8d6-3f55-8d9b-40366327a051&q=29226&hl=true",
+    "idno": "Clm. 29226",
+    "idno_former": "",
+    "provenance": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 4,
+        "value": "Bayerische Staatsbibliothek"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": "",
+    "origin": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material": "",
+    "orig_place": [],
+    "orig_date": [],
+    "catchwords": ""
+  },
+  "19": {
+    "id": 19,
+    "order": "18.00000000000000000000",
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6341"
+      }
+    ],
+    "hit_id": "hit_mansuscript__19",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "https://handschriftenportal.de/search?hspobjectid=HSP-f8f56640-3894-333c-8d2c-8ce9c5a8550e&q=6341&hl=true",
+    "catalog_url": "https://handschriftenportal.de/search?hspobjectid=HSP-f8f56640-3894-333c-8d2c-8ce9c5a8550e&q=6341&hl=true",
+    "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054502?page=,1",
+    "idno": "Clm. 6341",
+    "idno_former": "",
+    "provenance": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 4,
+        "value": "Bayerische Staatsbibliothek"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": "",
+    "origin": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material": "",
+    "orig_place": [],
+    "orig_date": [],
+    "catchwords": ""
+  },
+  "20": {
+    "id": 20,
+    "order": "19.00000000000000000000",
+    "shelfmark": [],
+    "hit_id": "hit_mansuscript__20",
+    "library": [],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "",
+    "idno_former": "",
+    "provenance": "",
+    "quire_structure": "",
+    "library_full": [],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": "",
+    "origin": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material": "",
+    "orig_place": [],
+    "orig_date": [],
+    "catchwords": ""
+  },
+  "21": {
+    "id": 21,
+    "order": "20.00000000000000000000",
+    "shelfmark": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "hit_id": "hit_mansuscript__21",
+    "library": [
+      {
+        "id": 1,
+        "value": "ÖNB"
+      }
+    ],
+    "manuscripta_url": "https://manuscripta.at/?ID=5187",
+    "handschriftenportal_url": "",
+    "catalog_url": "http://data.onb.ac.at/rec/AC13961404",
+    "digi_url": "",
+    "idno": "Cod. 2090",
+    "idno_former": "",
+    "provenance": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 1,
+        "value": "Österreichische Nationalbibliothek"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": "",
+    "origin": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material": "",
+    "orig_place": [],
+    "orig_date": [],
+    "catchwords": ""
+  }
+}

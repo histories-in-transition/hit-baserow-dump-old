@@ -1,0 +1,326 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387, L. 1"
+      }
+    ],
+    "hit_id": "hit_quire__1",
+    "number": "1",
+    "locus": "1r-8v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB"
+      }
+    ],
+    "locus_from": "1r",
+    "locus_to": "8v",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "catchwords": "4",
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": null,
+    "column": [
+      {
+        "id": 14743,
+        "value": "1",
+        "color": "darker-blue"
+      },
+      {
+        "id": 14744,
+        "value": "2",
+        "color": "dark-brown"
+      }
+    ],
+    "lacuna": "",
+    "decoration": null,
+    "Structrure": null,
+    "hands": []
+  },
+  "4": {
+    "id": 4,
+    "order": "2.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387, L. 2"
+      }
+    ],
+    "hit_id": "hit_quire__4",
+    "number": "2",
+    "locus": "-",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB"
+      }
+    ],
+    "locus_from": null,
+    "locus_to": null,
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "catchwords": "0",
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": null,
+    "column": [],
+    "lacuna": null,
+    "decoration": null,
+    "Structrure": null,
+    "hands": []
+  },
+  "5": {
+    "id": 5,
+    "order": "3.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 1"
+      }
+    ],
+    "hit_id": "hit_quire__5",
+    "number": "1",
+    "locus": "1r-8v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ"
+      }
+    ],
+    "locus_from": "1r",
+    "locus_to": "8v",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "catchwords": "5",
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": null,
+    "column": [],
+    "lacuna": "",
+    "decoration": "",
+    "Structrure": null,
+    "hands": []
+  },
+  "7": {
+    "id": 7,
+    "order": "3.50000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 2"
+      }
+    ],
+    "hit_id": "hit_quire__7",
+    "number": "2",
+    "locus": "9r-16v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ"
+      }
+    ],
+    "locus_from": "9r",
+    "locus_to": "16v",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "catchwords": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "lacuna": "",
+    "decoration": "",
+    "Structrure": null,
+    "hands": []
+  },
+  "8": {
+    "id": 8,
+    "order": "4.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 3"
+      }
+    ],
+    "hit_id": "hit_quire__8",
+    "number": "3",
+    "locus": "17r-22v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ"
+      }
+    ],
+    "locus_from": "17r",
+    "locus_to": "22v",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "catchwords": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "lacuna": "",
+    "decoration": "",
+    "Structrure": null,
+    "hands": []
+  },
+  "6": {
+    "id": 6,
+    "order": "5.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6326, L. "
+      }
+    ],
+    "hit_id": "hit_quire__6",
+    "number": "",
+    "locus": "-",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
+    "locus_from": "",
+    "locus_to": "",
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "catchwords": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "lacuna": "",
+    "decoration": "",
+    "Structrure": null,
+    "hands": [
+      {
+        "id": 4,
+        "value": "Clm. 210, Hand 3"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "order": "6.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6326, L. 1"
+      }
+    ],
+    "hit_id": "hit_quire__9",
+    "number": "1",
+    "locus": "-",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
+    "locus_from": "",
+    "locus_to": "",
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "catchwords": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "lacuna": "",
+    "decoration": "",
+    "Structrure": "IV - 1",
+    "hands": []
+  }
+}

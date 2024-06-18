@@ -1,0 +1,77 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "title": "De temporibus",
+    "gnd_url": "https://d-nb.info/gnd/7745328-1",
+    "note": "",
+    "hit_id": "hit_works__1",
+    "author": [],
+    "bibliography": []
+  },
+  "3": {
+    "id": 3,
+    "order": "2.00000000000000000000",
+    "title": "Historia contra paganos",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__3",
+    "author": [
+      {
+        "id": 4,
+        "value": "Orosius"
+      }
+    ],
+    "bibliography": []
+  },
+  "4": {
+    "id": 4,
+    "order": "3.00000000000000000000",
+    "title": "De cyclo paschali",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__4",
+    "author": [
+      {
+        "id": 5,
+        "value": "Ps.-Beda"
+      }
+    ],
+    "bibliography": []
+  },
+  "5": {
+    "id": 5,
+    "order": "4.00000000000000000000",
+    "title": "Argumentum descriptionis omnium terminorum singulis annis decemnovennalis cycli",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__5",
+    "author": [],
+    "bibliography": []
+  },
+  "6": {
+    "id": 6,
+    "order": "5.00000000000000000000",
+    "title": "Epactae lunae & solis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__6",
+    "author": [],
+    "bibliography": []
+  },
+  "7": {
+    "id": 7,
+    "order": "6.00000000000000000000",
+    "title": "De temporum ratione",
+    "gnd_url": "https://d-nb.info/gnd/4568817-5",
+    "note": "",
+    "hit_id": "hit_works__7",
+    "author": [
+      {
+        "id": 1,
+        "value": "Beda, Heiliger"
+      }
+    ],
+    "bibliography": []
+  }
+}

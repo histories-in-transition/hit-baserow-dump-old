@@ -8,6 +8,7 @@ Automagically export data from [Baserow](https://baserow.io/)
 * activate it `source venv/bin/activate`
 * update pip to latest version and install needed python packages `pip install -U pip && pip install -r requirements.txt`
 * copy/rename `dummy.env` to `secret.env` and add your Baserow credentials
+* `./export_env_variables.sh`
 
 ## export the data
 

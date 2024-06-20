@@ -2,18 +2,18 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "Name": "",
-    "Notes": "To be filled automatically from the ZOTERO library",
-    "Active": false,
-    "Datum": []
+    "name": "",
+    "short_title": "To be filled automatically from the ZOTERO library",
+    "zotero_id": "false",
+    "date": []
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "Name": "Bischoff",
-    "Notes": "Katalog",
-    "Active": false,
-    "Datum": [
+    "name": "Bischoff",
+    "short_title": "Katalog",
+    "zotero_id": "false",
+    "date": [
       {
         "id": 4,
         "value": "10 c., middle"
@@ -23,5 +23,13 @@
         "value": "10 c., second half"
       }
     ]
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "name": "Hofmann",
+    "short_title": "Superbuch",
+    "zotero_id": "false",
+    "date": []
   }
 }

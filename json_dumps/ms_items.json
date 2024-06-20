@@ -17,7 +17,6 @@
     "incipit": null,
     "explicit": null,
     "rubric": null,
-    "author": [],
     "title_work": [
       {
         "id": 1,
@@ -29,9 +28,6 @@
     "final_ribric": null,
     "version": null,
     "hit_id": "hit_ms_items__1",
-    "locus_from": "",
-    "locus_to": "",
-    "locus": "-",
     "filiation": [],
     "cod_unit": [
       {
@@ -45,7 +41,8 @@
         "id": 1,
         "value": "De temporibus"
       }
-    ]
+    ],
+    "locus_grp": null
   },
   "3": {
     "id": 3,
@@ -65,20 +62,17 @@
     "incipit": "",
     "explicit": "",
     "rubric": "",
-    "author": [],
     "title_work": [],
     "title_note": "",
     "bibl": [],
     "final_ribric": "",
     "version": "",
     "hit_id": "hit_ms_items__3",
-    "locus_from": "",
-    "locus_to": "",
-    "locus": "-",
     "filiation": [],
     "cod_unit": [],
     "excerpt": null,
-    "source_text": []
+    "source_text": [],
+    "locus_grp": null
   },
   "4": {
     "id": 4,
@@ -88,20 +82,17 @@
     "incipit": "",
     "explicit": "",
     "rubric": "",
-    "author": [],
     "title_work": [],
     "title_note": "",
     "bibl": [],
     "final_ribric": "",
     "version": "",
     "hit_id": "hit_ms_items__4",
-    "locus_from": "",
-    "locus_to": "",
-    "locus": "-",
     "filiation": [],
     "cod_unit": [],
     "excerpt": "",
-    "source_text": []
+    "source_text": [],
+    "locus_grp": null
   },
   "6": {
     "id": 6,
@@ -121,7 +112,6 @@
     "incipit": "",
     "explicit": "",
     "rubric": "",
-    "author": [],
     "title_work": [
       {
         "id": 5,
@@ -133,9 +123,6 @@
     "final_ribric": "",
     "version": "",
     "hit_id": "hit_ms_items__6",
-    "locus_from": "1r",
-    "locus_to": "1r",
-    "locus": "1r-1r",
     "filiation": [],
     "cod_unit": [
       {
@@ -144,7 +131,8 @@
       }
     ],
     "excerpt": "",
-    "source_text": []
+    "source_text": [],
+    "locus_grp": "1r-1r"
   },
   "5": {
     "id": 5,
@@ -164,12 +152,6 @@
     "incipit": "",
     "explicit": "",
     "rubric": "",
-    "author": [
-      {
-        "id": 5,
-        "value": "Ps.-Beda"
-      }
-    ],
     "title_work": [
       {
         "id": 4,
@@ -181,9 +163,6 @@
     "final_ribric": "",
     "version": "",
     "hit_id": "hit_ms_items__5",
-    "locus_from": "2r",
-    "locus_to": "21r",
-    "locus": "2r-21r",
     "filiation": [],
     "cod_unit": [
       {
@@ -192,7 +171,8 @@
       }
     ],
     "excerpt": "",
-    "source_text": []
+    "source_text": [],
+    "locus_grp": "2r-21r"
   },
   "7": {
     "id": 7,
@@ -212,7 +192,6 @@
     "incipit": "",
     "explicit": "",
     "rubric": "",
-    "author": [],
     "title_work": [
       {
         "id": 6,
@@ -224,9 +203,6 @@
     "final_ribric": "",
     "version": "",
     "hit_id": "hit_ms_items__7",
-    "locus_from": "21v",
-    "locus_to": "22r",
-    "locus": "21v-22r",
     "filiation": [],
     "cod_unit": [
       {
@@ -235,7 +211,8 @@
       }
     ],
     "excerpt": "",
-    "source_text": []
+    "source_text": [],
+    "locus_grp": "21v-22r"
   },
   "8": {
     "id": 8,
@@ -255,12 +232,6 @@
     "incipit": "",
     "explicit": "",
     "rubric": "",
-    "author": [
-      {
-        "id": 1,
-        "value": "Beda, Heiliger"
-      }
-    ],
     "title_work": [
       {
         "id": 7,
@@ -272,13 +243,11 @@
     "final_ribric": "",
     "version": "",
     "hit_id": "hit_ms_items__8",
-    "locus_from": "23r",
-    "locus_to": "97v",
-    "locus": "23r-97v",
     "filiation": [],
     "cod_unit": [],
     "excerpt": "",
-    "source_text": []
+    "source_text": [],
+    "locus_grp": "23r-97v"
   },
   "9": {
     "id": 9,
@@ -288,19 +257,36 @@
     "incipit": "",
     "explicit": "",
     "rubric": "",
-    "author": [],
     "title_work": [],
     "title_note": "",
     "bibl": [],
     "final_ribric": "",
     "version": "",
     "hit_id": "hit_ms_items__9",
-    "locus_from": "",
-    "locus_to": "",
-    "locus": "-",
     "filiation": [],
     "cod_unit": [],
     "excerpt": "",
-    "source_text": []
+    "source_text": [],
+    "locus_grp": null
+  },
+  "10": {
+    "id": 10,
+    "order": "8.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_ribric": "",
+    "version": "",
+    "hit_id": "hit_ms_items__10",
+    "filiation": [],
+    "cod_unit": [],
+    "excerpt": "",
+    "source_text": [],
+    "locus_grp": ""
   }
 }

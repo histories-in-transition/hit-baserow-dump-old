@@ -7,7 +7,8 @@
     "note": "",
     "hit_id": "hit_works__1",
     "author": [],
-    "bibliography": []
+    "bibliography": [],
+    "source_text": []
   },
   "3": {
     "id": 3,
@@ -22,7 +23,8 @@
         "value": "Orosius"
       }
     ],
-    "bibliography": []
+    "bibliography": [],
+    "source_text": []
   },
   "4": {
     "id": 4,
@@ -37,7 +39,8 @@
         "value": "Ps.-Beda"
       }
     ],
-    "bibliography": []
+    "bibliography": [],
+    "source_text": []
   },
   "5": {
     "id": 5,
@@ -47,7 +50,8 @@
     "note": "",
     "hit_id": "hit_works__5",
     "author": [],
-    "bibliography": []
+    "bibliography": [],
+    "source_text": []
   },
   "6": {
     "id": 6,
@@ -57,7 +61,8 @@
     "note": "",
     "hit_id": "hit_works__6",
     "author": [],
-    "bibliography": []
+    "bibliography": [],
+    "source_text": []
   },
   "7": {
     "id": 7,
@@ -72,6 +77,23 @@
         "value": "Beda, Heiliger"
       }
     ],
-    "bibliography": []
+    "bibliography": [],
+    "source_text": []
+  },
+  "8": {
+    "id": 8,
+    "order": "7.00000000000000000000",
+    "title": "computistical texts",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__8",
+    "author": [],
+    "bibliography": [],
+    "source_text": [
+      {
+        "id": 1,
+        "value": "De temporibus"
+      }
+    ]
   }
 }

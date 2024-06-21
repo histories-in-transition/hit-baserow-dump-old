@@ -272,12 +272,7 @@
     "lacuna": "",
     "decoration": "",
     "Structrure": null,
-    "hands": [
-      {
-        "id": 4,
-        "value": "Clm. 210, Hand 3"
-      }
-    ]
+    "hands": []
   },
   "9": {
     "id": 9,
@@ -321,6 +316,446 @@
     "lacuna": "",
     "decoration": "",
     "Structrure": "IV - 1",
+    "hands": []
+  },
+  "10": {
+    "id": 10,
+    "order": "7.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 4"
+      }
+    ],
+    "hit_id": "hit_quire__10",
+    "number": "4",
+    "locus": "23r-30v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ"
+      }
+    ],
+    "locus_from": "23r",
+    "locus_to": "30v",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "catchwords": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "lacuna": "",
+    "decoration": "",
+    "Structrure": "",
+    "hands": []
+  },
+  "11": {
+    "id": 11,
+    "order": "8.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 5"
+      }
+    ],
+    "hit_id": "hit_quire__11",
+    "number": "5",
+    "locus": "31r-38v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ"
+      }
+    ],
+    "locus_from": "31r",
+    "locus_to": "38v",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "catchwords": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "lacuna": "",
+    "decoration": "",
+    "Structrure": "",
+    "hands": []
+  },
+  "12": {
+    "id": 12,
+    "order": "9.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 6"
+      }
+    ],
+    "hit_id": "hit_quire__12",
+    "number": "6",
+    "locus": "39r-46v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ"
+      }
+    ],
+    "locus_from": "39r",
+    "locus_to": "46v",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "catchwords": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "lacuna": "",
+    "decoration": "",
+    "Structrure": "",
+    "hands": []
+  },
+  "13": {
+    "id": 13,
+    "order": "10.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 7"
+      }
+    ],
+    "hit_id": "hit_quire__13",
+    "number": "7",
+    "locus": "47r-52v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ"
+      }
+    ],
+    "locus_from": "47r",
+    "locus_to": "52v",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "catchwords": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "lacuna": "",
+    "decoration": "",
+    "Structrure": "",
+    "hands": []
+  },
+  "14": {
+    "id": 14,
+    "order": "11.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 8"
+      }
+    ],
+    "hit_id": "hit_quire__14",
+    "number": "8",
+    "locus": "53r-58v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ"
+      }
+    ],
+    "locus_from": "53r",
+    "locus_to": "58v",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "catchwords": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "lacuna": "",
+    "decoration": "",
+    "Structrure": "",
+    "hands": []
+  },
+  "15": {
+    "id": 15,
+    "order": "12.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 9"
+      }
+    ],
+    "hit_id": "hit_quire__15",
+    "number": "9",
+    "locus": "59r-66v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ"
+      }
+    ],
+    "locus_from": "59r",
+    "locus_to": "66v",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "catchwords": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "lacuna": "",
+    "decoration": "",
+    "Structrure": "",
+    "hands": []
+  },
+  "16": {
+    "id": 16,
+    "order": "13.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 10"
+      }
+    ],
+    "hit_id": "hit_quire__16",
+    "number": "10",
+    "locus": "67r-74v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ"
+      }
+    ],
+    "locus_from": "67r",
+    "locus_to": "74v",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "catchwords": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "lacuna": "",
+    "decoration": "",
+    "Structrure": "",
+    "hands": []
+  },
+  "17": {
+    "id": 17,
+    "order": "14.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 11"
+      }
+    ],
+    "hit_id": "hit_quire__17",
+    "number": "11",
+    "locus": "75r-83v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ"
+      }
+    ],
+    "locus_from": "75r",
+    "locus_to": "83v",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "catchwords": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "lacuna": "",
+    "decoration": "",
+    "Structrure": "",
+    "hands": []
+  },
+  "18": {
+    "id": 18,
+    "order": "15.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 12"
+      }
+    ],
+    "hit_id": "hit_quire__18",
+    "number": "12",
+    "locus": "84r-89v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ"
+      }
+    ],
+    "locus_from": "84r",
+    "locus_to": "89v",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "catchwords": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "lacuna": "",
+    "decoration": "",
+    "Structrure": "",
+    "hands": []
+  },
+  "19": {
+    "id": 19,
+    "order": "16.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 13"
+      }
+    ],
+    "hit_id": "hit_quire__19",
+    "number": "13",
+    "locus": "90r-97v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ"
+      }
+    ],
+    "locus_from": "90r",
+    "locus_to": "97v",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "catchwords": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "lacuna": "",
+    "decoration": "",
+    "Structrure": "",
     "hands": []
   }
 }

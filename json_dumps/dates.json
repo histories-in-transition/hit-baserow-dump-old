@@ -5,8 +5,7 @@
     "label": "s. IX",
     "not_before": "0801-01-01",
     "hit_id": "hit_date__1",
-    "not_after": "0900-12-31",
-    "bibliography": []
+    "not_after": "0900-12-31"
   },
   "2": {
     "id": 2,
@@ -14,8 +13,7 @@
     "label": "s. IX 1/3",
     "not_before": "0801-01-01",
     "hit_id": "hit_date__2",
-    "not_after": "0800-12-31",
-    "bibliography": []
+    "not_after": "0800-12-31"
   },
   "3": {
     "id": 3,
@@ -23,8 +21,7 @@
     "label": "Mitte 9. Jhdt.",
     "not_before": null,
     "hit_id": "hit_date__3",
-    "not_after": null,
-    "bibliography": []
+    "not_after": null
   },
   "4": {
     "id": 4,
@@ -32,13 +29,7 @@
     "label": "10 c., middle",
     "not_before": "0940-01-01",
     "hit_id": "hit_date__4",
-    "not_after": "0960-12-31",
-    "bibliography": [
-      {
-        "id": 2,
-        "value": "Bischoff"
-      }
-    ]
+    "not_after": "0960-12-31"
   },
   "5": {
     "id": 5,
@@ -46,13 +37,7 @@
     "label": "10 c., second half",
     "not_before": "0950-01-01",
     "hit_id": "hit_date__5",
-    "not_after": "0999-12-31",
-    "bibliography": [
-      {
-        "id": 2,
-        "value": "Bischoff"
-      }
-    ]
+    "not_after": "0999-12-31"
   },
   "6": {
     "id": 6,
@@ -60,8 +45,7 @@
     "label": "9 c., first half",
     "not_before": "0801-01-01",
     "hit_id": "hit_date__6",
-    "not_after": "0850-12-31",
-    "bibliography": []
+    "not_after": "0850-12-31"
   },
   "7": {
     "id": 7,
@@ -69,8 +53,7 @@
     "label": "9 c., first quarter",
     "not_before": "0801-01-01",
     "hit_id": "hit_date__7",
-    "not_after": "0825-12-31",
-    "bibliography": []
+    "not_after": "0825-12-31"
   },
   "8": {
     "id": 8,
@@ -78,7 +61,6 @@
     "label": "15 c.",
     "not_before": "1400-01-01",
     "hit_id": "hit_date__8",
-    "not_after": "1499-12-31",
-    "bibliography": []
+    "not_after": "1499-12-31"
   }
 }

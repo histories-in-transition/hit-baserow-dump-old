@@ -1,0 +1,59 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "hit_id": "hit_hands_dated__1",
+    "hand": [
+      {
+        "id": 5,
+        "value": "Cod. M. p. th. f. 46, Hand Baldo"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ],
+    "page": "",
+    "dated": [
+      {
+        "id": 7,
+        "value": "9 c., first quarter"
+      }
+    ],
+    "place": [
+      {
+        "id": 3,
+        "value": "Salzburg"
+      }
+    ],
+    "organisation": []
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "hit_id": "hit_hands_dated__2",
+    "hand": [
+      {
+        "id": 6,
+        "value": "Cod. M. p. th. f. 46, Hand 1"
+      }
+    ],
+    "authority": [],
+    "page": null,
+    "dated": [
+      {
+        "id": 7,
+        "value": "9 c., first quarter"
+      }
+    ],
+    "place": [
+      {
+        "id": 5,
+        "value": "Saint-Amand"
+      }
+    ],
+    "organisation": []
+  }
+}

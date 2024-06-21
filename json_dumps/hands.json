@@ -1,94 +1,11 @@
 {
-  "1": {
-    "id": 1,
-    "order": "1.00000000000000000000",
-    "label": [
-      {
-        "id": 1,
-        "value": "Cod. 387, Hand A"
-      }
-    ],
-    "description": "",
-    "manuscript": [
-      {
-        "id": 1,
-        "value": "ÖNB, Cod. 387"
-      }
-    ],
-    "quires": [
-      {
-        "id": 1,
-        "value": "ÖNB, Cod. 387, L. 1"
-      }
-    ],
-    "scribe": [
-      {
-        "id": 1,
-        "value": "Beda, Heiliger"
-      }
-    ],
-    "hit_id": "hit_hands__1",
-    "date": [
-      {
-        "id": 1,
-        "value": "s. IX"
-      },
-      {
-        "id": 2,
-        "value": "s. IX 1/3"
-      }
-    ],
-    "place": [],
-    "name_number": "A",
-    "addition": [],
-    "date_authority": [],
-    "organisation": [],
-    "quires - hands": []
-  },
-  "4": {
-    "id": 4,
-    "order": "2.00000000000000000000",
-    "label": [
-      {
-        "id": 4,
-        "value": "Clm. 210, Hand 3"
-      }
-    ],
-    "description": "",
-    "manuscript": [
-      {
-        "id": 4,
-        "value": "BSB, Clm. 210"
-      }
-    ],
-    "quires": [],
-    "scribe": [
-      {
-        "id": 1,
-        "value": "Beda, Heiliger"
-      }
-    ],
-    "hit_id": "hit_hands__4",
-    "date": [],
-    "place": [],
-    "name_number": "3",
-    "addition": [],
-    "date_authority": [],
-    "organisation": [],
-    "quires - hands": [
-      {
-        "id": 6,
-        "value": "BSB, Clm. 6326, L. "
-      }
-    ]
-  },
   "5": {
     "id": 5,
     "order": "3.00000000000000000000",
     "label": [
       {
         "id": 2,
-        "value": "Cod. M. p. th. f. 46, Hand "
+        "value": "Cod. M. p. th. f. 46, Hand Baldo"
       }
     ],
     "description": "",
@@ -111,23 +28,16 @@
       }
     ],
     "hit_id": "hit_hands__5",
-    "date": [
-      {
-        "id": 7,
-        "value": "9 c., first quarter"
-      }
-    ],
     "place": [
       {
         "id": 3,
         "value": "Salzburg"
       }
     ],
-    "name_number": "",
+    "name_number": "Baldo",
     "addition": [],
-    "date_authority": [],
     "organisation": [],
-    "quires - hands": []
+    "quires_hands": []
   },
   "6": {
     "id": 6,
@@ -161,12 +71,6 @@
     ],
     "scribe": [],
     "hit_id": "hit_hands__6",
-    "date": [
-      {
-        "id": 7,
-        "value": "9 c., first quarter"
-      }
-    ],
     "place": [
       {
         "id": 5,
@@ -175,9 +79,8 @@
     ],
     "name_number": "1",
     "addition": [],
-    "date_authority": [],
     "organisation": [],
-    "quires - hands": []
+    "quires_hands": []
   },
   "7": {
     "id": 7,
@@ -188,13 +91,11 @@
     "quires": [],
     "scribe": [],
     "hit_id": "hit_hands__7",
-    "date": [],
     "place": [],
     "name_number": "",
     "addition": [],
-    "date_authority": [],
     "organisation": [],
-    "quires - hands": []
+    "quires_hands": []
   },
   "8": {
     "id": 8,
@@ -205,12 +106,10 @@
     "quires": [],
     "scribe": [],
     "hit_id": "hit_hands__8",
-    "date": [],
     "place": [],
     "name_number": "",
     "addition": [],
-    "date_authority": [],
     "organisation": [],
-    "quires - hands": []
+    "quires_hands": []
   }
 }

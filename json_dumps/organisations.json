@@ -2,22 +2,22 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "Name": "Erzabtei Sankt Peter (Salzburg)",
-    "Notes": "",
+    "name": "Erzabtei Sankt Peter (Salzburg)",
     "place": [
       {
         "id": 3,
         "value": "Salzburg"
       }
     ],
-    "gnd_url": "https://d-nb.info/gnd/2070551-7"
+    "gnd_url": "https://d-nb.info/gnd/2070551-7",
+    "hit_id": "hit_organisations__1"
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "Name": "",
-    "Notes": "",
+    "name": "",
     "place": [],
-    "gnd_url": ""
+    "gnd_url": "",
+    "hit_id": "hit_organisations__2"
   }
 }

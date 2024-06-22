@@ -2,19 +2,51 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "label": "",
+    "label": [
+      {
+        "id": 2,
+        "value": "Cod. M. p. th. f. 46, 1"
+      }
+    ],
     "notes": "",
-    "cod_units": [],
-    "additions": [],
-    "hands": []
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "hands": [
+      {
+        "id": 6,
+        "value": "Cod. M. p. th. f. 46, Hand 1"
+      }
+    ],
+    "number": "1",
+    "hit_id": "hit_strata__1"
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "label": "",
+    "label": [
+      {
+        "id": 2,
+        "value": "Cod. M. p. th. f. 46, 2"
+      }
+    ],
     "notes": "",
-    "cod_units": [],
-    "additions": [],
-    "hands": []
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "hands": [
+      {
+        "id": 5,
+        "value": "Cod. M. p. th. f. 46, Hand Baldo"
+      }
+    ],
+    "number": "2",
+    "hit_id": "hit_strata__2"
   }
 }

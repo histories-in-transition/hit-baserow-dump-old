@@ -35,8 +35,14 @@
       }
     ],
     "name_number": "Baldo",
-    "addition": [],
-    "organisation": []
+    "organisation": [],
+    "strata": [
+      {
+        "id": 2,
+        "value": "Cod. M. p. th. f. 46, 2"
+      }
+    ],
+    "similar_hands": []
   },
   "6": {
     "id": 6,
@@ -77,8 +83,14 @@
       }
     ],
     "name_number": "1",
-    "addition": [],
-    "organisation": []
+    "organisation": [],
+    "strata": [
+      {
+        "id": 1,
+        "value": "Cod. M. p. th. f. 46, 1"
+      }
+    ],
+    "similar_hands": []
   },
   "7": {
     "id": 7,
@@ -91,8 +103,9 @@
     "hit_id": "hit_hands__7",
     "place": [],
     "name_number": "",
-    "addition": [],
-    "organisation": []
+    "organisation": [],
+    "strata": [],
+    "similar_hands": []
   },
   "8": {
     "id": 8,
@@ -105,7 +118,23 @@
     "hit_id": "hit_hands__8",
     "place": [],
     "name_number": "",
-    "addition": [],
-    "organisation": []
+    "organisation": [],
+    "strata": [],
+    "similar_hands": []
+  },
+  "9": {
+    "id": 9,
+    "order": "7.00000000000000000000",
+    "label": [],
+    "description": "",
+    "manuscript": [],
+    "quires": [],
+    "scribe": [],
+    "hit_id": "hit_hands__9",
+    "place": [],
+    "name_number": "",
+    "organisation": [],
+    "strata": [],
+    "similar_hands": []
   }
 }

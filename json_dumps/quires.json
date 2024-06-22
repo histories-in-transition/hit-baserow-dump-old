@@ -50,7 +50,7 @@
       }
     ],
     "lacuna": "",
-    "decoration": null,
+    "decoration": "",
     "Structrure": null,
     "hands": []
   },
@@ -140,7 +140,12 @@
     "lacuna": "",
     "decoration": "",
     "Structrure": null,
-    "hands": []
+    "hands": [
+      {
+        "id": 6,
+        "value": "Cod. M. p. th. f. 46, Hand 1"
+      }
+    ]
   },
   "7": {
     "id": 7,

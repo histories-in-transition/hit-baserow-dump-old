@@ -2,25 +2,8 @@
   "5": {
     "id": 5,
     "order": "3.00000000000000000000",
-    "label": [
-      {
-        "id": 2,
-        "value": "Cod. M. p. th. f. 46, Hand Baldo"
-      }
-    ],
+    "label": "Baldo",
     "description": "",
-    "manuscript": [
-      {
-        "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
-      }
-    ],
-    "quires": [
-      {
-        "id": 5,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 1"
-      }
-    ],
     "scribe": [
       {
         "id": 6,
@@ -28,113 +11,24 @@
       }
     ],
     "hit_id": "hit_hands__5",
-    "place": [
-      {
-        "id": 3,
-        "value": "Salzburg"
-      }
-    ],
-    "name_number": "Baldo",
-    "organisation": [],
-    "strata": [
-      {
-        "id": 2,
-        "value": "Cod. M. p. th. f. 46, 2"
-      }
-    ],
     "similar_hands": []
   },
   "6": {
     "id": 6,
     "order": "4.00000000000000000000",
-    "label": [
-      {
-        "id": 2,
-        "value": "Cod. M. p. th. f. 46, Hand 1"
-      }
-    ],
+    "label": "Saint-Amand 1",
     "description": "",
-    "manuscript": [
-      {
-        "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
-      }
-    ],
-    "quires": [
-      {
-        "id": 5,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 1"
-      },
-      {
-        "id": 7,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 2"
-      },
-      {
-        "id": 8,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 3"
-      }
-    ],
     "scribe": [],
     "hit_id": "hit_hands__6",
-    "place": [
-      {
-        "id": 5,
-        "value": "Saint-Amand"
-      }
-    ],
-    "name_number": "1",
-    "organisation": [],
-    "strata": [
-      {
-        "id": 1,
-        "value": "Cod. M. p. th. f. 46, 1"
-      }
-    ],
     "similar_hands": []
   },
-  "7": {
-    "id": 7,
-    "order": "5.00000000000000000000",
-    "label": [],
+  "10": {
+    "id": 10,
+    "order": "8.00000000000000000000",
+    "label": "Sankt Amand 2",
     "description": "",
-    "manuscript": [],
-    "quires": [],
     "scribe": [],
-    "hit_id": "hit_hands__7",
-    "place": [],
-    "name_number": "",
-    "organisation": [],
-    "strata": [],
-    "similar_hands": []
-  },
-  "8": {
-    "id": 8,
-    "order": "6.00000000000000000000",
-    "label": [],
-    "description": "",
-    "manuscript": [],
-    "quires": [],
-    "scribe": [],
-    "hit_id": "hit_hands__8",
-    "place": [],
-    "name_number": "",
-    "organisation": [],
-    "strata": [],
-    "similar_hands": []
-  },
-  "9": {
-    "id": 9,
-    "order": "7.00000000000000000000",
-    "label": [],
-    "description": "",
-    "manuscript": [],
-    "quires": [],
-    "scribe": [],
-    "hit_id": "hit_hands__9",
-    "place": [],
-    "name_number": "",
-    "organisation": [],
-    "strata": [],
+    "hit_id": "hit_hands__10",
     "similar_hands": []
   }
 }

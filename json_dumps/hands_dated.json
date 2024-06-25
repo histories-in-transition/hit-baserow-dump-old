@@ -3,57 +3,70 @@
     "id": 1,
     "order": "1.00000000000000000000",
     "hit_id": "hit_hands_dated__1",
-    "hand": [
-      {
-        "id": 5,
-        "value": "Cod. M. p. th. f. 46, Hand Baldo"
-      }
-    ],
     "authority": [
       {
         "id": 2,
         "value": "Bischoff"
       }
     ],
-    "page": "",
+    "page": "21",
     "dated": [
       {
         "id": 7,
         "value": "9 c., first quarter"
       }
     ],
-    "place": [
+    "hand": [
       {
-        "id": 3,
-        "value": "Salzburg"
+        "id": 6,
+        "value": "Saint-Amand 1"
       }
     ],
-    "organisation": []
+    "new_dating": false
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
     "hit_id": "hit_hands_dated__2",
+    "authority": [
+      {
+        "id": 3,
+        "value": "Hofmann"
+      }
+    ],
+    "page": "21",
+    "dated": [
+      {
+        "id": 5,
+        "value": "10 c., second half"
+      }
+    ],
     "hand": [
       {
         "id": 6,
-        "value": "Cod. M. p. th. f. 46, Hand 1"
+        "value": "Saint-Amand 1"
       }
     ],
+    "new_dating": false
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "hit_id": "hit_hands_dated__3",
     "authority": [],
-    "page": null,
+    "page": "",
     "dated": [
       {
-        "id": 7,
-        "value": "9 c., first quarter"
+        "id": 4,
+        "value": "10 c., middle"
       }
     ],
-    "place": [
+    "hand": [
       {
-        "id": 5,
-        "value": "Saint-Amand"
+        "id": 6,
+        "value": "Saint-Amand 1"
       }
     ],
-    "organisation": []
+    "new_dating": true
   }
 }

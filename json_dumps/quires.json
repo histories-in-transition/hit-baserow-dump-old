@@ -31,7 +31,7 @@
         "value": "ÖNB, Cod. 387"
       }
     ],
-    "catchwords": "4",
+    "quiremark": "4",
     "written_height": null,
     "written_width": null,
     "written": "×",
@@ -49,10 +49,14 @@
         "color": "dark-brown"
       }
     ],
-    "lacuna": "",
+    "note": "",
     "decoration": "",
-    "Structrure": null,
-    "hands": []
+    "qurie_structrure": "",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
   },
   "4": {
     "id": 4,
@@ -86,17 +90,21 @@
         "value": "ÖNB, Cod. 387"
       }
     ],
-    "catchwords": "0",
+    "quiremark": null,
     "written_height": null,
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
     "ruling": null,
     "column": [],
-    "lacuna": null,
+    "note": null,
     "decoration": null,
-    "Structrure": null,
-    "hands": []
+    "qurie_structrure": null,
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
   },
   "5": {
     "id": 5,
@@ -130,22 +138,21 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46"
       }
     ],
-    "catchwords": "5",
+    "quiremark": "5",
     "written_height": null,
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
     "ruling": null,
     "column": [],
-    "lacuna": "",
+    "note": "",
     "decoration": "",
-    "Structrure": null,
-    "hands": [
-      {
-        "id": 6,
-        "value": "Cod. M. p. th. f. 46, Hand 1"
-      }
-    ]
+    "qurie_structrure": null,
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
   },
   "7": {
     "id": 7,
@@ -179,17 +186,21 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46"
       }
     ],
-    "catchwords": null,
+    "quiremark": null,
     "written_height": null,
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
     "ruling": "",
     "column": [],
-    "lacuna": "",
+    "note": "",
     "decoration": "",
-    "Structrure": null,
-    "hands": []
+    "qurie_structrure": null,
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
   },
   "8": {
     "id": 8,
@@ -223,17 +234,21 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46"
       }
     ],
-    "catchwords": null,
+    "quiremark": null,
     "written_height": null,
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
     "ruling": "",
     "column": [],
-    "lacuna": "",
+    "note": "",
     "decoration": "",
-    "Structrure": null,
-    "hands": []
+    "qurie_structrure": null,
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
   },
   "10": {
     "id": 10,
@@ -267,17 +282,21 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46"
       }
     ],
-    "catchwords": null,
+    "quiremark": null,
     "written_height": null,
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
     "ruling": "",
     "column": [],
-    "lacuna": "",
+    "note": "",
     "decoration": "",
-    "Structrure": "",
-    "hands": []
+    "qurie_structrure": "",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
   },
   "11": {
     "id": 11,
@@ -311,17 +330,21 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46"
       }
     ],
-    "catchwords": null,
+    "quiremark": null,
     "written_height": null,
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
     "ruling": "",
     "column": [],
-    "lacuna": "",
+    "note": "",
     "decoration": "",
-    "Structrure": "",
-    "hands": []
+    "qurie_structrure": "",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
   },
   "12": {
     "id": 12,
@@ -355,17 +378,21 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46"
       }
     ],
-    "catchwords": null,
+    "quiremark": null,
     "written_height": null,
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
     "ruling": "",
     "column": [],
-    "lacuna": "",
+    "note": "",
     "decoration": "",
-    "Structrure": "",
-    "hands": []
+    "qurie_structrure": "",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
   },
   "13": {
     "id": 13,
@@ -399,17 +426,21 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46"
       }
     ],
-    "catchwords": null,
+    "quiremark": null,
     "written_height": null,
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
     "ruling": "",
     "column": [],
-    "lacuna": "",
+    "note": "",
     "decoration": "",
-    "Structrure": "",
-    "hands": []
+    "qurie_structrure": "",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
   },
   "14": {
     "id": 14,
@@ -443,17 +474,21 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46"
       }
     ],
-    "catchwords": null,
+    "quiremark": null,
     "written_height": null,
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
     "ruling": "",
     "column": [],
-    "lacuna": "",
+    "note": "",
     "decoration": "",
-    "Structrure": "",
-    "hands": []
+    "qurie_structrure": "",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
   },
   "15": {
     "id": 15,
@@ -487,17 +522,21 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46"
       }
     ],
-    "catchwords": null,
+    "quiremark": null,
     "written_height": null,
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
     "ruling": "",
     "column": [],
-    "lacuna": "",
+    "note": "",
     "decoration": "",
-    "Structrure": "",
-    "hands": []
+    "qurie_structrure": "",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
   },
   "16": {
     "id": 16,
@@ -531,17 +570,21 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46"
       }
     ],
-    "catchwords": null,
+    "quiremark": null,
     "written_height": null,
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
     "ruling": "",
     "column": [],
-    "lacuna": "",
+    "note": "",
     "decoration": "",
-    "Structrure": "",
-    "hands": []
+    "qurie_structrure": "",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
   },
   "17": {
     "id": 17,
@@ -575,17 +618,21 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46"
       }
     ],
-    "catchwords": null,
+    "quiremark": null,
     "written_height": null,
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
     "ruling": "",
     "column": [],
-    "lacuna": "",
+    "note": "",
     "decoration": "",
-    "Structrure": "",
-    "hands": []
+    "qurie_structrure": "",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
   },
   "18": {
     "id": 18,
@@ -619,17 +666,21 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46"
       }
     ],
-    "catchwords": null,
+    "quiremark": null,
     "written_height": null,
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
     "ruling": "",
     "column": [],
-    "lacuna": "",
+    "note": "",
     "decoration": "",
-    "Structrure": "",
-    "hands": []
+    "qurie_structrure": "",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
   },
   "19": {
     "id": 19,
@@ -663,17 +714,21 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46"
       }
     ],
-    "catchwords": null,
+    "quiremark": null,
     "written_height": null,
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
     "ruling": "",
     "column": [],
-    "lacuna": "",
+    "note": "",
     "decoration": "",
-    "Structrure": "",
-    "hands": []
+    "qurie_structrure": "",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
   },
   "6": {
     "id": 6,
@@ -707,17 +762,21 @@
         "value": "BSB, Clm. 6326"
       }
     ],
-    "catchwords": null,
+    "quiremark": null,
     "written_height": null,
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
     "ruling": "",
     "column": [],
-    "lacuna": "",
+    "note": "",
     "decoration": "",
-    "Structrure": null,
-    "hands": []
+    "qurie_structrure": null,
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
   },
   "9": {
     "id": 9,
@@ -751,16 +810,20 @@
         "value": "BSB, Clm. 6326"
       }
     ],
-    "catchwords": null,
+    "quiremark": null,
     "written_height": null,
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
     "ruling": "",
     "column": [],
-    "lacuna": "",
+    "note": "",
     "decoration": "",
-    "Structrure": "IV - 1",
-    "hands": []
+    "qurie_structrure": "IV - 1",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
   }
 }

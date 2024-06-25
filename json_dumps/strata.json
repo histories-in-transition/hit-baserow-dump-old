@@ -5,24 +5,62 @@
     "label": [
       {
         "id": 2,
-        "value": "Cod. M. p. th. f. 46, 1"
+        "value": "Cod. M. p. th. f. 46, Stratum 1"
       }
     ],
-    "notes": "",
+    "character": [
+      {
+        "id": 14761,
+        "value": "base",
+        "color": "yellow"
+      }
+    ],
     "manuscript": [
       {
         "id": 2,
         "value": "UBWÜ, Cod. M. p. th. f. 46"
       }
     ],
-    "hands": [
+    "number": "1",
+    "hit_id": "hit_strata__1",
+    "hand_role": [
       {
-        "id": 6,
-        "value": "Cod. M. p. th. f. 46, Hand 1"
+        "id": 3,
+        "value": "hit_hands_role__3"
+      },
+      {
+        "id": 4,
+        "value": "hit_hands_role__4"
       }
     ],
-    "number": "1",
-    "hit_id": "hit_strata__1"
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 5,
+          "database_table_3491": 6
+        },
+        "value": "Argumentum descriptionis omnium terminorum singulis annis decemnovennalis cycli"
+      },
+      {
+        "ids": {
+          "database_table_3489": 4,
+          "database_table_3491": 5
+        },
+        "value": "De cyclo paschali"
+      }
+    ],
+    "quires": [],
+    "locus": [
+      {
+        "id": 6,
+        "value": "1r-1r"
+      },
+      {
+        "id": 5,
+        "value": "2r-21r"
+      }
+    ],
+    "notes": null
   },
   "2": {
     "id": 2,
@@ -30,23 +68,46 @@
     "label": [
       {
         "id": 2,
-        "value": "Cod. M. p. th. f. 46, 2"
+        "value": "Cod. M. p. th. f. 46, Stratum 2"
       }
     ],
-    "notes": "",
+    "character": [
+      {
+        "id": 14762,
+        "value": "commentary",
+        "color": "darker-pink"
+      }
+    ],
     "manuscript": [
       {
         "id": 2,
         "value": "UBWÜ, Cod. M. p. th. f. 46"
       }
     ],
-    "hands": [
+    "number": "2",
+    "hit_id": "hit_strata__2",
+    "hand_role": [
       {
-        "id": 5,
-        "value": "Cod. M. p. th. f. 46, Hand Baldo"
+        "id": 1,
+        "value": "hit_hands_role__1"
       }
     ],
-    "number": "2",
-    "hit_id": "hit_strata__2"
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 4,
+          "database_table_3491": 5
+        },
+        "value": "De cyclo paschali"
+      }
+    ],
+    "quires": [],
+    "locus": [
+      {
+        "id": 5,
+        "value": "2r-21r"
+      }
+    ],
+    "notes": null
   }
 }

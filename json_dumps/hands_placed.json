@@ -1,0 +1,47 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "hit_id": "hit_hands_placed__1",
+    "hand": [
+      {
+        "id": 5,
+        "value": "Baldo"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ],
+    "page": "",
+    "place": [
+      {
+        "id": 3,
+        "value": "Salzburg"
+      }
+    ],
+    "organisation": []
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "hit_id": "hit_hands_placed__2",
+    "hand": [
+      {
+        "id": 6,
+        "value": "Saint-Amand 1"
+      }
+    ],
+    "authority": [],
+    "page": null,
+    "place": [
+      {
+        "id": 5,
+        "value": "Saint-Amand"
+      }
+    ],
+    "organisation": []
+  }
+}

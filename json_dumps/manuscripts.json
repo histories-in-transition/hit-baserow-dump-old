@@ -72,7 +72,7 @@
     "idno": "Cod. M. p. th. f. 46",
     "idno_former": null,
     "provenance": "Würzburg, Dombibliothek",
-    "quire_structure": "2 **IV**(16) + III(22) + 3 IV(46) + 2 III(58) + 2 IV(74) + IV und 1 Bl.(83) + III(89) + 4 IV(121) + II und 1Bl.(126) + IV(134) + 2 II und 2 Bl.(144) + I und 3 Bl.(149)",
+    "quire_structure": "2 IV**16** + III(22) + 3 IV(46) + 2 III(58) + 2 IV(74) + IV und 1 Bl.(83) + III(89) + 4 IV(121) + II und 1Bl.(126) + IV(134) + 2 II und 2 Bl.(144) + I und 3 Bl.(149)",
     "library_full": [
       {
         "id": 2,
@@ -87,6 +87,10 @@
       {
         "id": 8,
         "value": "15 c."
+      },
+      {
+        "id": 9,
+        "value": "800-850"
       }
     ],
     "origin": "In Zusammenarbeit der beiden Schriftzentren Saint-Amand und Salzburg entstanden. War im Jahr 976 noch in Salzburg. Signaturen: 1r (LXXXIII, 15. Jhdt), 2r (LXXXIII, 15. Jhdt), Buchrücken (81, 18. Jhdt).",
@@ -199,10 +203,6 @@
     "width": "165",
     "material": "parchment",
     "orig_place": [
-      {
-        "id": 2,
-        "value": "Deutschland"
-      },
       {
         "id": 4,
         "value": "Freising"

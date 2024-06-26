@@ -120,7 +120,7 @@
     "author": [
       {
         "id": 7,
-        "value": "Gregor, Tours, Bischof, Heiliger"
+        "value": "Gregory of Tours"
       }
     ],
     "bibliography": [],
@@ -130,7 +130,12 @@
         "value": "Historia francorum"
       }
     ],
-    "genre": [],
+    "genre": [
+      {
+        "id": 3,
+        "value": "Annals"
+      }
+    ],
     "note_source": null
   },
   "10": {

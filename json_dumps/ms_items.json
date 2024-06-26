@@ -25,7 +25,7 @@
     ],
     "title_note": "",
     "bibl": [],
-    "final_ribric": null,
+    "final_rubric": null,
     "siglum": "",
     "hit_id": "hit_ms_items__1",
     "filiation": [],
@@ -53,7 +53,7 @@
     "title_work": [],
     "title_note": "",
     "bibl": [],
-    "final_ribric": "",
+    "final_rubric": "",
     "siglum": "",
     "hit_id": "hit_ms_items__3",
     "filiation": [],
@@ -71,7 +71,7 @@
     "title_work": [],
     "title_note": "",
     "bibl": [],
-    "final_ribric": "",
+    "final_rubric": "",
     "siglum": "",
     "hit_id": "hit_ms_items__4",
     "filiation": [],
@@ -104,7 +104,7 @@
     ],
     "title_note": "",
     "bibl": [],
-    "final_ribric": "",
+    "final_rubric": "",
     "siglum": "",
     "hit_id": "hit_ms_items__6",
     "filiation": [],
@@ -113,10 +113,6 @@
       {
         "id": 2,
         "value": "hit_hands_role__2"
-      },
-      {
-        "id": 3,
-        "value": "hit_hands_role__3"
       }
     ]
   },
@@ -146,19 +142,23 @@
     ],
     "title_note": "",
     "bibl": [],
-    "final_ribric": "",
+    "final_rubric": "",
     "siglum": "",
     "hit_id": "hit_ms_items__5",
     "filiation": [],
     "locus_grp": "2r-21r",
     "hands_role": [
       {
-        "id": 1,
-        "value": "hit_hands_role__1"
+        "id": 2,
+        "value": "hit_hands_role__2"
       },
       {
         "id": 4,
         "value": "hit_hands_role__4"
+      },
+      {
+        "id": 6,
+        "value": "hit_hands_role__6"
       }
     ]
   },
@@ -188,7 +188,7 @@
     ],
     "title_note": "",
     "bibl": [],
-    "final_ribric": "",
+    "final_rubric": "",
     "siglum": "",
     "hit_id": "hit_ms_items__7",
     "filiation": [],
@@ -221,45 +221,17 @@
     ],
     "title_note": "",
     "bibl": [],
-    "final_ribric": "",
+    "final_rubric": "",
     "siglum": "",
     "hit_id": "hit_ms_items__8",
     "filiation": [],
     "locus_grp": "23r-97v",
-    "hands_role": []
-  },
-  "9": {
-    "id": 9,
-    "order": "7.00000000000000000000",
-    "label": [
+    "hands_role": [
       {
-        "id": 1,
-        "value": "cod_387__9"
+        "id": 5,
+        "value": "hit_hands_role__5"
       }
-    ],
-    "manuscript": [
-      {
-        "id": 1,
-        "value": "ÖNB, Cod. 387"
-      }
-    ],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [
-      {
-        "id": 8,
-        "value": "computistical texts"
-      }
-    ],
-    "title_note": "",
-    "bibl": [],
-    "final_ribric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__9",
-    "filiation": [],
-    "locus_grp": "3r",
-    "hands_role": []
+    ]
   },
   "10": {
     "id": 10,
@@ -272,7 +244,7 @@
     "title_work": [],
     "title_note": "",
     "bibl": [],
-    "final_ribric": "",
+    "final_rubric": "",
     "siglum": "",
     "hit_id": "hit_ms_items__10",
     "filiation": [],

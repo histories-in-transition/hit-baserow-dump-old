@@ -25,41 +25,13 @@
     "hit_id": "hit_strata__1",
     "hand_role": [
       {
-        "id": 3,
-        "value": "hit_hands_role__3"
-      },
-      {
-        "id": 4,
-        "value": "hit_hands_role__4"
+        "id": 1,
+        "value": "hit_hands_role__1"
       }
     ],
-    "ms_items": [
-      {
-        "ids": {
-          "database_table_3489": 5,
-          "database_table_3491": 6
-        },
-        "value": "Argumentum descriptionis omnium terminorum singulis annis decemnovennalis cycli"
-      },
-      {
-        "ids": {
-          "database_table_3489": 4,
-          "database_table_3491": 5
-        },
-        "value": "De cyclo paschali"
-      }
-    ],
+    "ms_items": [],
     "quires": [],
-    "locus": [
-      {
-        "id": 6,
-        "value": "1r-1r"
-      },
-      {
-        "id": 5,
-        "value": "2r-21r"
-      }
-    ],
+    "locus": [],
     "notes": null
   },
   "2": {
@@ -71,13 +43,7 @@
         "value": "Cod. M. p. th. f. 46, Stratum 2"
       }
     ],
-    "character": [
-      {
-        "id": 14762,
-        "value": "commentary",
-        "color": "darker-pink"
-      }
-    ],
+    "character": [],
     "manuscript": [
       {
         "id": 2,
@@ -86,28 +52,10 @@
     ],
     "number": "2",
     "hit_id": "hit_strata__2",
-    "hand_role": [
-      {
-        "id": 1,
-        "value": "hit_hands_role__1"
-      }
-    ],
-    "ms_items": [
-      {
-        "ids": {
-          "database_table_3489": 4,
-          "database_table_3491": 5
-        },
-        "value": "De cyclo paschali"
-      }
-    ],
+    "hand_role": [],
+    "ms_items": [],
     "quires": [],
-    "locus": [
-      {
-        "id": 5,
-        "value": "2r-21r"
-      }
-    ],
+    "locus": [],
     "notes": null
   }
 }

@@ -3,23 +3,57 @@
     "id": 1,
     "order": "1.00000000000000000000",
     "hit_id": "hit_hands_role__1",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": []
+  },
+  "6": {
+    "id": 6,
+    "order": "1.50000000000000000000",
+    "hit_id": "hit_hands_role__6",
     "hand": [
       {
         "id": 5,
         "value": "Baldo"
       }
     ],
-    "ms_item": [],
+    "ms_item": [
+      {
+        "id": 10,
+        "value": "cod_m_p_th_f_46__10"
+      }
+    ],
     "role": [
       {
-        "id": 14759,
-        "value": "commentator",
-        "color": "darker-green"
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      },
+      {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
       }
     ],
     "locus": "",
-    "text": [],
-    "locus_text": []
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 11,
+          "database_table_3491": 10
+        },
+        "value": "hieronymi chronicon"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 10,
+        "value": "1r-2r"
+      }
+    ]
   },
   "2": {
     "id": 2,
@@ -35,10 +69,6 @@
       {
         "id": 6,
         "value": "cod_m_p_th_f_46__6"
-      },
-      {
-        "id": 5,
-        "value": "cod_m_p_th_f_46__5"
       }
     ],
     "role": [
@@ -52,13 +82,6 @@
     "text": [
       {
         "ids": {
-          "database_table_3489": 4,
-          "database_table_3491": 5
-        },
-        "value": "De cyclo paschali"
-      },
-      {
-        "ids": {
           "database_table_3489": 5,
           "database_table_3491": 6
         },
@@ -69,10 +92,6 @@
       {
         "id": 6,
         "value": "1r-1r"
-      },
-      {
-        "id": 5,
-        "value": "2r-21r"
       }
     ]
   },
@@ -80,8 +99,18 @@
     "id": 3,
     "order": "3.00000000000000000000",
     "hit_id": "hit_hands_role__3",
-    "hand": [],
-    "ms_item": [],
+    "hand": [
+      {
+        "id": 12,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_2"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 5,
+        "value": "cod_m_p_th_f_46__5"
+      }
+    ],
     "role": [
       {
         "id": 14758,
@@ -90,118 +119,43 @@
       }
     ],
     "locus": "",
-    "text": [],
-    "locus_text": []
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 4,
+          "database_table_3491": 5
+        },
+        "value": "De cyclo paschali"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 5,
+        "value": "1v-21r"
+      }
+    ]
   },
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
     "hit_id": "hit_hands_role__4",
     "hand": [],
-    "ms_item": [
-      {
-        "id": 5,
-        "value": "cod_m_p_th_f_46__5"
-      }
-    ],
-    "role": [
-      {
-        "id": 14758,
-        "value": "scribe",
-        "color": "darker-red"
-      }
-    ],
+    "ms_item": [],
+    "role": [],
     "locus": "",
-    "text": [
-      {
-        "ids": {
-          "database_table_3489": 4,
-          "database_table_3491": 5
-        },
-        "value": "De cyclo paschali"
-      }
-    ],
-    "locus_text": [
-      {
-        "id": 5,
-        "value": "2r-21r"
-      }
-    ]
+    "text": [],
+    "locus_text": []
   },
   "5": {
     "id": 5,
     "order": "5.00000000000000000000",
     "hit_id": "hit_hands_role__5",
     "hand": [],
-    "ms_item": [
-      {
-        "id": 8,
-        "value": "cod_m_p_th_f_46__8"
-      }
-    ],
-    "role": [
-      {
-        "id": 14760,
-        "value": "corrector",
-        "color": "darker-blue"
-      }
-    ],
+    "ms_item": [],
+    "role": [],
     "locus": "",
-    "text": [
-      {
-        "ids": {
-          "database_table_3489": 7,
-          "database_table_3491": 8
-        },
-        "value": "De temporum ratione"
-      }
-    ],
-    "locus_text": [
-      {
-        "id": 8,
-        "value": "23r-97v"
-      }
-    ]
-  },
-  "6": {
-    "id": 6,
-    "order": "6.00000000000000000000",
-    "hit_id": "hit_hands_role__6",
-    "hand": [
-      {
-        "id": 5,
-        "value": "Baldo"
-      }
-    ],
-    "ms_item": [
-      {
-        "id": 5,
-        "value": "cod_m_p_th_f_46__5"
-      }
-    ],
-    "role": [
-      {
-        "id": 14758,
-        "value": "scribe",
-        "color": "darker-red"
-      }
-    ],
-    "locus": "",
-    "text": [
-      {
-        "ids": {
-          "database_table_3489": 4,
-          "database_table_3491": 5
-        },
-        "value": "De cyclo paschali"
-      }
-    ],
-    "locus_text": [
-      {
-        "id": 5,
-        "value": "2r-21r"
-      }
-    ]
+    "text": [],
+    "locus_text": []
   },
   "7": {
     "id": 7,

@@ -25,14 +25,32 @@
     "hit_id": "hit_strata__1",
     "hand_role": [
       {
-        "id": 1,
-        "value": "hit_hands_role__1"
+        "id": 3,
+        "value": "hit_hands_role__3"
       }
     ],
-    "ms_items": [],
-    "quires": [],
-    "locus": [],
-    "notes": null
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 4,
+          "database_table_3491": 5
+        },
+        "value": "De cyclo paschali"
+      }
+    ],
+    "quires": [
+      {
+        "id": 5,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 1"
+      }
+    ],
+    "locus": [
+      {
+        "id": 5,
+        "value": "1v-21r"
+      }
+    ],
+    "note": "PLATZHALTER: Anlage der Handschrift"
   },
   "2": {
     "id": 2,
@@ -43,7 +61,13 @@
         "value": "Cod. M. p. th. f. 46, Stratum 2"
       }
     ],
-    "character": [],
+    "character": [
+      {
+        "id": 14765,
+        "value": "annotation",
+        "color": "light-brown"
+      }
+    ],
     "manuscript": [
       {
         "id": 2,
@@ -52,10 +76,33 @@
     ],
     "number": "2",
     "hit_id": "hit_strata__2",
-    "hand_role": [],
-    "ms_items": [],
-    "quires": [],
-    "locus": [],
-    "notes": null
+    "hand_role": [
+      {
+        "id": 6,
+        "value": "hit_hands_role__6"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 11,
+          "database_table_3491": 10
+        },
+        "value": "hieronymi chronicon"
+      }
+    ],
+    "quires": [
+      {
+        "id": 5,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 1"
+      }
+    ],
+    "locus": [
+      {
+        "id": 10,
+        "value": "1r-2r"
+      }
+    ],
+    "note": "PLATZHALTER: Several scribes contributed to Stratum 0 in two ways: 1) additions of texts to  texts of Stratum 0 with no codicological change & 2) addition of folia; according to Bischoff parts of this stratum were written in Saint Amand by a scribe adding more informations after he returned to Salzburg; The connection between 1) and 2) is established by the work of magister Baldo whno not only added text 5 to fol. 1, wrote text 6 & 7 but also added notes on foll. 147v and 148v."
   }
 }

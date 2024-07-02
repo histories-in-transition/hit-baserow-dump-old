@@ -67,12 +67,12 @@
     ],
     "manuscripta_url": "",
     "handschriftenportal_url": "",
-    "catalog_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46",
+    "catalog_url": "http://vb.uni-wuerzburg.de/ub/mpthf46/ueber.html",
     "digi_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46",
     "idno": "Cod. M. p. th. f. 46",
     "idno_former": null,
     "provenance": "Würzburg, Dombibliothek",
-    "quire_structure": "2 IV**16** + III(22) + 3 IV(46) + 2 III(58) + 2 IV(74) + IV und 1 Bl.(83) + III(89) + 4 IV(121) + II und 1Bl.(126) + IV(134) + 2 II und 2 Bl.(144) + I und 3 Bl.(149)",
+    "quire_structure": "2 IV**16** + III**22** + 3 IV**46** + 2 III**58** + 2 IV**74** + IV**82** und 1 Bl.**83** + III**89** + 4 IV**121** + II**125** und 1Bl.**126** + IV**134** + 2 II**142** und 2 Bl.**144** + I und 3 Bl.**149**",
     "library_full": [
       {
         "id": 2,
@@ -82,22 +82,18 @@
     "extent": "149",
     "foliation": null,
     "acc_mat": "Als Makulatur wurden Pergamentstreifen aus M. p. th. f. 188 verwendet.",
-    "binding": "Holzdeckel mit unregelmäßig beschnittenem Schaflederrücken. Titel auf Pergamentstreifen auf dem Vorderdeckel. Signaturschild auf dem Rücken. Reste einer Schließe. Spuren von Kettenbefestigung am Hinterdeckel oben. Restauriert. Der gesprungene Hintere Deckel wird von alten Metallklammern zusammengehalten",
+    "binding": "Würzburger Dombibliothekseinband. Holzdeckel mit unregelmäßig beschnittenem Schaflederrücken. Titel auf Pergamentstreifen auf dem Vorderdeckel. Signaturschild auf dem Rücken. Reste einer Schließe. Spuren von Kettenbefestigung am Hinterdeckel oben. Restauriert. Der gesprungene Hintere Deckel wird von alten Metallklammern zusammengehalten",
     "binding_date": [
       {
         "id": 8,
         "value": "15 c."
-      },
-      {
-        "id": 9,
-        "value": "800-850"
       }
     ],
-    "origin": "In Zusammenarbeit der beiden Schriftzentren Saint-Amand und Salzburg entstanden. War im Jahr 976 noch in Salzburg. Signaturen: 1r (LXXXIII, 15. Jhdt), 2r (LXXXIII, 15. Jhdt), Buchrücken (81, 18. Jhdt).",
+    "origin": "In Zusammenarbeit der beiden Schriftzentren Saint-Amand und Salzburg entstanden. Befand sich im Jahr 976 noch in Salzburg. Signaturen: 1r (LXXXIII, 15. Jhdt), 2r (LXXXIII, 15. Jhdt), Buchrücken (81, 18. Jhdt).",
     "bibliography": [],
     "height": "235",
     "width": "170",
-    "material": "sheep parchment",
+    "material": "Schafpergament",
     "orig_place": [
       {
         "id": 3,
@@ -114,7 +110,7 @@
         "value": "9 c., first half"
       }
     ],
-    "catchwords": null,
+    "catchwords": "In römischen Zahlen",
     "orig_organisation": []
   },
   "4": {
@@ -911,6 +907,36 @@
         "value": "Österreichische Nationalbibliothek"
       }
     ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "origin": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material": "",
+    "orig_place": [],
+    "orig_date": [],
+    "catchwords": "",
+    "orig_organisation": []
+  },
+  "22": {
+    "id": 22,
+    "order": "21.00000000000000000000",
+    "shelfmark": [],
+    "hit_id": "hit_mansuscript__22",
+    "library": [],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "",
+    "idno_former": "",
+    "provenance": "",
+    "quire_structure": "",
+    "library_full": [],
     "extent": "",
     "foliation": "",
     "acc_mat": "",

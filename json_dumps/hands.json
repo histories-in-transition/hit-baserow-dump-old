@@ -1,19 +1,4 @@
 {
-  "5": {
-    "id": 5,
-    "order": "3.00000000000000000000",
-    "label": "Baldo",
-    "description": "",
-    "scribe": [
-      {
-        "id": 6,
-        "value": "Magister Baldo"
-      }
-    ],
-    "hit_id": "hit_hands__5",
-    "similar_hands": [],
-    "nr_daniel": null
-  },
   "6": {
     "id": 6,
     "order": "4.00000000000000000000",
@@ -47,11 +32,26 @@
   "12": {
     "id": 12,
     "order": "10.00000000000000000000",
-    "label": "",
+    "label": "UBWÜ, Cod. M. p. th. f. 46_2",
     "description": "",
     "scribe": [],
     "hit_id": "hit_hands__12",
     "similar_hands": [],
     "nr_daniel": ""
+  },
+  "5": {
+    "id": 5,
+    "order": "11.00000000000000000000",
+    "label": "Baldo",
+    "description": "",
+    "scribe": [
+      {
+        "id": 6,
+        "value": "Magister Baldo"
+      }
+    ],
+    "hit_id": "hit_hands__5",
+    "similar_hands": [],
+    "nr_daniel": null
   }
 }

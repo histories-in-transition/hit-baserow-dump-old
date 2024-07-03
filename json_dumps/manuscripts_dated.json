@@ -48,5 +48,20 @@
     ],
     "page": "33",
     "preferred_date": true
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "hit_id": "hit_dated__3",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "date": [],
+    "authority": [],
+    "page": "",
+    "preferred_date": false
   }
 }

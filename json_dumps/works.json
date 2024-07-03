@@ -110,52 +110,11 @@
     "genre": [],
     "note_source": "Lib. 2"
   },
-  "9": {
-    "id": 9,
-    "order": "8.00000000000000000000",
-    "title": "Vita heilige Blabla",
-    "gnd_url": "",
-    "note": "",
-    "hit_id": "hit_works__9",
-    "author": [
-      {
-        "id": 7,
-        "value": "Gregory of Tours"
-      }
-    ],
-    "bibliography": [],
-    "source_text": [
-      {
-        "id": 10,
-        "value": "Historia francorum"
-      }
-    ],
-    "genre": [
-      {
-        "id": 3,
-        "value": "Annals"
-      }
-    ],
-    "note_source": null
-  },
-  "10": {
-    "id": 10,
-    "order": "9.00000000000000000000",
-    "title": "Historia francorum",
-    "gnd_url": "",
-    "note": "",
-    "hit_id": "hit_works__10",
-    "author": [],
-    "bibliography": [],
-    "source_text": [],
-    "genre": [],
-    "note_source": null
-  },
   "11": {
     "id": 11,
     "order": "10.00000000000000000000",
     "title": "hieronymi chronicon",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/1088065325",
     "note": "",
     "hit_id": "hit_works__11",
     "author": [
@@ -166,7 +125,12 @@
     ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Historiographie (Chronik)"
+      }
+    ],
     "note_source": ""
   }
 }

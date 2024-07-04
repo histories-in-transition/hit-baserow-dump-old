@@ -12,7 +12,13 @@
         "value": "Österreich"
       }
     ],
-    "library_website": "https://www.onb.ac.at/"
+    "library_website": "https://www.onb.ac.at/",
+    "settlement": [
+      {
+        "id": 6,
+        "value": "Vienna"
+      }
+    ]
   },
   "2": {
     "id": 2,
@@ -27,7 +33,13 @@
         "value": "Deutschland"
       }
     ],
-    "library_website": ""
+    "library_website": "",
+    "settlement": [
+      {
+        "id": 7,
+        "value": "Würzburg"
+      }
+    ]
   },
   "4": {
     "id": 4,
@@ -42,6 +54,12 @@
         "value": "Deutschland"
       }
     ],
-    "library_website": "https://www.bsb-muenchen.de/"
+    "library_website": "https://www.bsb-muenchen.de/",
+    "settlement": [
+      {
+        "id": 8,
+        "value": "München"
+      }
+    ]
   }
 }

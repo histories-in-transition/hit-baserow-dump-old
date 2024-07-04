@@ -132,5 +132,54 @@
       }
     ],
     "note_source": ""
+  },
+  "13": {
+    "id": 13,
+    "order": "12.00000000000000000000",
+    "title": "Annales Iuvavenses maiores",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__13",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 3,
+        "value": "Historiographie (Annalen)"
+      }
+    ],
+    "note_source": ""
+  },
+  "14": {
+    "id": 14,
+    "order": "13.00000000000000000000",
+    "title": "Annales Iuvavenses minores",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__14",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 3,
+        "value": "Historiographie (Annalen)"
+      }
+    ],
+    "note_source": ""
+  },
+  "15": {
+    "id": 15,
+    "order": "14.00000000000000000000",
+    "title": "",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__15",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
   }
 }

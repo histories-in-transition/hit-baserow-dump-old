@@ -31,7 +31,7 @@
     "id": 4,
     "order": "3.00000000000000000000",
     "name": "Orosius",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/118590251",
     "hit_id": "hit_people__4",
     "role": [
       {
@@ -89,6 +89,384 @@
     "name": "Hieronymus, Sophronius Eusebius",
     "gnd_url": "https://d-nb.info/gnd/118550853",
     "hit_id": "hit_people__8",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "order": "8.00000000000000000000",
+    "name": "Paulus Diaconus",
+    "gnd_url": "https://d-nb.info/gnd/118789961",
+    "hit_id": "hit_people__9",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "order": "9.00000000000000000000",
+    "name": "Liutprand of Cremona",
+    "gnd_url": "https://d-nb.info/gnd/118575171",
+    "hit_id": "hit_people__10",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "order": "10.00000000000000000000",
+    "name": "Regino of Prüm",
+    "gnd_url": "https://d-nb.info/gnd/118598996",
+    "hit_id": "hit_people__11",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "order": "11.00000000000000000000",
+    "name": "Eusebius",
+    "gnd_url": "https://d-nb.info/gnd/118531425",
+    "hit_id": "hit_people__12",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "order": "12.00000000000000000000",
+    "name": "Rufinus",
+    "gnd_url": "https://d-nb.info/gnd/118750313",
+    "hit_id": "hit_people__13",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "order": "13.00000000000000000000",
+    "name": "Imperator Caesar Galerius Maximianus Inuictus",
+    "gnd_url": "https://d-nb.info/gnd/102393834",
+    "hit_id": "hit_people__14",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "order": "14.00000000000000000000",
+    "name": "Cassiodor",
+    "gnd_url": "https://d-nb.info/gnd/118519514",
+    "hit_id": "hit_people__15",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ]
+  },
+  "16": {
+    "id": 16,
+    "order": "15.00000000000000000000",
+    "name": "Alcuinus",
+    "gnd_url": "https://d-nb.info/gnd/118502026",
+    "hit_id": "hit_people__16",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ]
+  },
+  "17": {
+    "id": 17,
+    "order": "16.00000000000000000000",
+    "name": "Justinianus",
+    "gnd_url": "https://d-nb.info/gnd/11855896X",
+    "hit_id": "hit_people__17",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ]
+  },
+  "18": {
+    "id": 18,
+    "order": "17.00000000000000000000",
+    "name": "Publius Annius Florus",
+    "gnd_url": "https://d-nb.info/gnd/100136907",
+    "hit_id": "hit_people__18",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ]
+  },
+  "19": {
+    "id": 19,
+    "order": "18.00000000000000000000",
+    "name": "Athanasius Alexandrinus",
+    "gnd_url": "https://d-nb.info/gnd/118504843",
+    "hit_id": "hit_people__19",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ]
+  },
+  "20": {
+    "id": 20,
+    "order": "19.00000000000000000000",
+    "name": "Willibaldus Moguntinensis",
+    "gnd_url": "https://d-nb.info/gnd/118633341",
+    "hit_id": "hit_people__20",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ]
+  },
+  "21": {
+    "id": 21,
+    "order": "20.00000000000000000000",
+    "name": "Hugeburc Heidenheimensis",
+    "gnd_url": "https://d-nb.info/gnd/118707892",
+    "hit_id": "hit_people__21",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ]
+  },
+  "22": {
+    "id": 22,
+    "order": "21.00000000000000000000",
+    "name": "Adamnanus de Iona",
+    "gnd_url": "https://d-nb.info/gnd/119394030",
+    "hit_id": "hit_people__22",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ]
+  },
+  "23": {
+    "id": 23,
+    "order": "22.00000000000000000000",
+    "name": "Sulpicius Severus",
+    "gnd_url": "https://d-nb.info/gnd/118757806",
+    "hit_id": "hit_people__23",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ]
+  },
+  "24": {
+    "id": 24,
+    "order": "23.00000000000000000000",
+    "name": "Ps.-Livius",
+    "gnd_url": "",
+    "hit_id": "hit_people__24",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ]
+  },
+  "25": {
+    "id": 25,
+    "order": "24.00000000000000000000",
+    "name": "Gregorius Magnus",
+    "gnd_url": "https://d-nb.info/gnd/118541838",
+    "hit_id": "hit_people__25",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ]
+  },
+  "26": {
+    "id": 26,
+    "order": "25.00000000000000000000",
+    "name": "Ps.-Gregorius Magnus",
+    "gnd_url": "",
+    "hit_id": "hit_people__26",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ]
+  },
+  "27": {
+    "id": 27,
+    "order": "26.00000000000000000000",
+    "name": "Ps.- Augustinus",
+    "gnd_url": "",
+    "hit_id": "hit_people__27",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ]
+  },
+  "28": {
+    "id": 28,
+    "order": "27.00000000000000000000",
+    "name": "Isidorus Hispalensis",
+    "gnd_url": "https://d-nb.info/gnd/118555995",
+    "hit_id": "hit_people__28",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ]
+  },
+  "29": {
+    "id": 29,
+    "order": "28.00000000000000000000",
+    "name": "Boethius",
+    "gnd_url": "",
+    "hit_id": "hit_people__29",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ]
+  },
+  "30": {
+    "id": 30,
+    "order": "29.00000000000000000000",
+    "name": "Esdra",
+    "gnd_url": "",
+    "hit_id": "hit_people__30",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ]
+  },
+  "31": {
+    "id": 31,
+    "order": "30.00000000000000000000",
+    "name": "Anonymus 1",
+    "gnd_url": "",
+    "hit_id": "hit_people__31",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ]
+  },
+  "32": {
+    "id": 32,
+    "order": "31.00000000000000000000",
+    "name": "Anonymus 2",
+    "gnd_url": "",
+    "hit_id": "hit_people__32",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ]
+  },
+  "33": {
+    "id": 33,
+    "order": "32.00000000000000000000",
+    "name": "Anonymus 3",
+    "gnd_url": "",
+    "hit_id": "hit_people__33",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ]
+  },
+  "34": {
+    "id": 34,
+    "order": "33.00000000000000000000",
+    "name": "Anonymus 4",
+    "gnd_url": "",
+    "hit_id": "hit_people__34",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ]
+  },
+  "35": {
+    "id": 35,
+    "order": "34.00000000000000000000",
+    "name": "",
+    "gnd_url": "",
+    "hit_id": "hit_people__35",
     "role": []
   }
 }

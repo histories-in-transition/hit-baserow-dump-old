@@ -51,5 +51,66 @@
       "value": "France",
       "color": "red"
     }
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "name": "Vienna",
+    "geonames_url": "https://www.geonames.org/2761369/vienna.html",
+    "hit_id": "hit_place__6",
+    "wikidata_url": "",
+    "country": {
+      "id": 14768,
+      "value": "Austria",
+      "color": "deep-dark-green"
+    }
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "name": "Würzburg",
+    "geonames_url": "https://www.geonames.org/2805615/wuerzburg.html",
+    "hit_id": "hit_place__7",
+    "wikidata_url": "",
+    "country": {
+      "id": 14767,
+      "value": "Germany",
+      "color": "darker-gray"
+    }
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "name": "München",
+    "geonames_url": "https://www.geonames.org/2867714/munich.html",
+    "hit_id": "hit_place__8",
+    "wikidata_url": "",
+    "country": {
+      "id": 14767,
+      "value": "Germany",
+      "color": "darker-gray"
+    }
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "name": "North Italy",
+    "geonames_url": "",
+    "hit_id": "hit_place__9",
+    "wikidata_url": "",
+    "country": null
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "name": "Bistum Eichstätt",
+    "geonames_url": "https://www.geonames.org/2932069/eichstaett.html",
+    "hit_id": "hit_place__10",
+    "wikidata_url": "https://de.wikipedia.org/wiki/Bistum_Eichstätt",
+    "country": {
+      "id": 14767,
+      "value": "Germany",
+      "color": "darker-gray"
+    }
   }
 }

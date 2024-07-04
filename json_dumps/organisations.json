@@ -15,9 +15,27 @@
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "name": "",
-    "place": [],
-    "gnd_url": "",
+    "name": "Dombibliothek Würzburg",
+    "place": [
+      {
+        "id": 7,
+        "value": "Würzburg"
+      }
+    ],
+    "gnd_url": "https://d-nb.info/gnd/16186778-9",
     "hit_id": "hit_organisations__2"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "name": "Dombibliothek Freising",
+    "place": [
+      {
+        "id": 4,
+        "value": "Freising"
+      }
+    ],
+    "gnd_url": "https://d-nb.info/gnd/1052539-7",
+    "hit_id": "hit_organisations__3"
   }
 }

@@ -2,7 +2,7 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "label": "s. IX",
+    "label": "9 J.",
     "not_before": "0801-01-01",
     "hit_id": "hit_date__1",
     "not_after": "0900-12-31"
@@ -10,7 +10,7 @@
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "label": "s. IX 1/3",
+    "label": "9 J., erstes Drittel",
     "not_before": "0801-01-01",
     "hit_id": "hit_date__2",
     "not_after": "0800-12-31"
@@ -18,15 +18,15 @@
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "label": "Mitte 9. Jhdt.",
-    "not_before": null,
+    "label": "9 J., Mitte",
+    "not_before": "0840-01-01",
     "hit_id": "hit_date__3",
-    "not_after": null
+    "not_after": "0860-12-31"
   },
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
-    "label": "10 c., middle",
+    "label": "10 J., Mitte",
     "not_before": "0940-01-01",
     "hit_id": "hit_date__4",
     "not_after": "0960-12-31"
@@ -34,7 +34,7 @@
   "5": {
     "id": 5,
     "order": "5.00000000000000000000",
-    "label": "10 c., second half",
+    "label": "10 J., zweite Hälfte",
     "not_before": "0950-01-01",
     "hit_id": "hit_date__5",
     "not_after": "0999-12-31"
@@ -42,7 +42,7 @@
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
-    "label": "9 c., first half",
+    "label": "9 J., erste Hälfte",
     "not_before": "0801-01-01",
     "hit_id": "hit_date__6",
     "not_after": "0850-12-31"
@@ -50,7 +50,7 @@
   "7": {
     "id": 7,
     "order": "7.00000000000000000000",
-    "label": "9 c., first quarter",
+    "label": "9 J., erstes Viertel",
     "not_before": "0801-01-01",
     "hit_id": "hit_date__7",
     "not_after": "0825-12-31"
@@ -58,7 +58,7 @@
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
-    "label": "15 c.",
+    "label": "15 J.",
     "not_before": "1400-01-01",
     "hit_id": "hit_date__8",
     "not_after": "1499-12-31"
@@ -67,14 +67,14 @@
     "id": 9,
     "order": "9.00000000000000000000",
     "label": "800-850",
-    "not_before": null,
+    "not_before": "0800-01-01",
     "hit_id": "hit_date__9",
-    "not_after": null
+    "not_after": "0850-12-31"
   },
   "10": {
     "id": 10,
     "order": "10.00000000000000000000",
-    "label": "before 784",
+    "label": "vor 784",
     "not_before": null,
     "hit_id": "hit_date__10",
     "not_after": "0783-12-31"
@@ -82,7 +82,7 @@
   "11": {
     "id": 11,
     "order": "11.00000000000000000000",
-    "label": "10 c., late",
+    "label": "10 J., spät",
     "not_before": null,
     "hit_id": "hit_date__11",
     "not_after": null
@@ -90,7 +90,7 @@
   "12": {
     "id": 12,
     "order": "12.00000000000000000000",
-    "label": "8 c., end",
+    "label": "8J., Ende",
     "not_before": null,
     "hit_id": "hit_date__12",
     "not_after": null
@@ -98,7 +98,7 @@
   "13": {
     "id": 13,
     "order": "13.00000000000000000000",
-    "label": "11 c.",
+    "label": "11 J.",
     "not_before": "1000-01-01",
     "hit_id": "hit_date__13",
     "not_after": "1099-12-31"
@@ -106,7 +106,7 @@
   "14": {
     "id": 14,
     "order": "14.00000000000000000000",
-    "label": "8 c., late",
+    "label": "8 J., spät",
     "not_before": null,
     "hit_id": "hit_date__14",
     "not_after": null
@@ -114,7 +114,7 @@
   "15": {
     "id": 15,
     "order": "15.00000000000000000000",
-    "label": "after 800",
+    "label": "nach 800",
     "not_before": "0800-01-01",
     "hit_id": "hit_date__15",
     "not_after": "0825-01-01"

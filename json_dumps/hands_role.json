@@ -26,6 +26,10 @@
         "value": "cod_m_p_th_f_46__10"
       },
       {
+        "id": 5,
+        "value": "cod_m_p_th_f_46__5"
+      },
+      {
         "id": 12,
         "value": "cod_m_p_th_f_46__12"
       }
@@ -39,6 +43,13 @@
     ],
     "locus": "",
     "text": [
+      {
+        "ids": {
+          "database_table_3489": 4,
+          "database_table_3491": 5
+        },
+        "value": "De cyclo paschali"
+      },
       {
         "ids": {
           "database_table_3489": 11,
@@ -58,6 +69,10 @@
       {
         "id": 10,
         "value": "1r-2r"
+      },
+      {
+        "id": 5,
+        "value": "1v-21r"
       },
       {
         "id": 12,

@@ -6,7 +6,7 @@
     "geonames_url": "https://www.geonames.org/2782113/republic-of-austria.html",
     "hit_id": "hit_place__1",
     "wikidata_url": "https://www.wikidata.org/wiki/Q40",
-    "country": null
+    "country": []
   },
   "2": {
     "id": 2,
@@ -15,7 +15,7 @@
     "geonames_url": "",
     "hit_id": "hit_place__2",
     "wikidata_url": "",
-    "country": null
+    "country": []
   },
   "3": {
     "id": 3,
@@ -24,7 +24,12 @@
     "geonames_url": "",
     "hit_id": "hit_place__3",
     "wikidata_url": "",
-    "country": null
+    "country": [
+      {
+        "id": 1,
+        "value": "Österreich"
+      }
+    ]
   },
   "4": {
     "id": 4,
@@ -33,11 +38,7 @@
     "geonames_url": "",
     "hit_id": "hit_place__4",
     "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
-    "country": {
-      "id": 14767,
-      "value": "Germany",
-      "color": "darker-gray"
-    }
+    "country": []
   },
   "5": {
     "id": 5,
@@ -46,24 +47,16 @@
     "geonames_url": "https://www.geonames.org/12157096/abbaye-de-saint-amand.html",
     "hit_id": "hit_place__5",
     "wikidata_url": "https://www.wikidata.org/wiki/Q334131",
-    "country": {
-      "id": 14769,
-      "value": "France",
-      "color": "red"
-    }
+    "country": []
   },
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
-    "name": "Vienna",
+    "name": "Wien",
     "geonames_url": "https://www.geonames.org/2761369/vienna.html",
     "hit_id": "hit_place__6",
     "wikidata_url": "",
-    "country": {
-      "id": 14768,
-      "value": "Austria",
-      "color": "deep-dark-green"
-    }
+    "country": []
   },
   "7": {
     "id": 7,
@@ -72,11 +65,7 @@
     "geonames_url": "https://www.geonames.org/2805615/wuerzburg.html",
     "hit_id": "hit_place__7",
     "wikidata_url": "",
-    "country": {
-      "id": 14767,
-      "value": "Germany",
-      "color": "darker-gray"
-    }
+    "country": []
   },
   "8": {
     "id": 8,
@@ -85,20 +74,16 @@
     "geonames_url": "https://www.geonames.org/2867714/munich.html",
     "hit_id": "hit_place__8",
     "wikidata_url": "",
-    "country": {
-      "id": 14767,
-      "value": "Germany",
-      "color": "darker-gray"
-    }
+    "country": []
   },
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
-    "name": "North Italy",
+    "name": "Norditalien",
     "geonames_url": "",
     "hit_id": "hit_place__9",
     "wikidata_url": "",
-    "country": null
+    "country": []
   },
   "10": {
     "id": 10,
@@ -107,10 +92,11 @@
     "geonames_url": "https://www.geonames.org/2932069/eichstaett.html",
     "hit_id": "hit_place__10",
     "wikidata_url": "https://de.wikipedia.org/wiki/Bistum_Eichstätt",
-    "country": {
-      "id": 14767,
-      "value": "Germany",
-      "color": "darker-gray"
-    }
+    "country": [
+      {
+        "id": 2,
+        "value": "Deutschland"
+      }
+    ]
   }
 }

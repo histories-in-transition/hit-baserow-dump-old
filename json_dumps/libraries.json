@@ -6,17 +6,11 @@
     "hit_id": "hit_library__1",
     "gnd_url": "https://d-nb.info/gnd/2020893-5",
     "library_full": "Österreichische Nationalbibliothek",
-    "country": [
-      {
-        "id": 1,
-        "value": "Österreich"
-      }
-    ],
     "library_website": "https://www.onb.ac.at/",
     "settlement": [
       {
         "id": 6,
-        "value": "Vienna"
+        "value": "Wien"
       }
     ]
   },
@@ -27,12 +21,6 @@
     "hit_id": "hit_library__2",
     "gnd_url": "https://d-nb.info/gnd/2025026-5",
     "library_full": "Universitätsbibliothek Würzburg",
-    "country": [
-      {
-        "id": 2,
-        "value": "Deutschland"
-      }
-    ],
     "library_website": "",
     "settlement": [
       {
@@ -48,12 +36,6 @@
     "hit_id": "hit_library__4",
     "gnd_url": "https://d-nb.info/gnd/2031351-2",
     "library_full": "Bayerische Staatsbibliothek",
-    "country": [
-      {
-        "id": 2,
-        "value": "Deutschland"
-      }
-    ],
     "library_website": "https://www.bsb-muenchen.de/",
     "settlement": [
       {

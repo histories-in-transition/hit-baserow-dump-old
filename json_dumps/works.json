@@ -181,5 +181,728 @@
     "source_text": [],
     "genre": [],
     "note_source": ""
+  },
+  "16": {
+    "id": 16,
+    "order": "15.00000000000000000000",
+    "title": "Synchrone Tafeln über das Alter der Patriarchen von Noe bis Jakob",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__16",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "17": {
+    "id": 17,
+    "order": "16.00000000000000000000",
+    "title": "Vita sancti Martini",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__17",
+    "author": [
+      {
+        "id": 23,
+        "value": "Sulpicius Severus"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "18": {
+    "id": 18,
+    "order": "17.00000000000000000000",
+    "title": "Epistulae",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__18",
+    "author": [
+      {
+        "id": 23,
+        "value": "Sulpicius Severus"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "19": {
+    "id": 19,
+    "order": "18.00000000000000000000",
+    "title": "Dialogi",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__19",
+    "author": [
+      {
+        "id": 23,
+        "value": "Sulpicius Severus"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "20": {
+    "id": 20,
+    "order": "19.00000000000000000000",
+    "title": "Historia Francorum",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__20",
+    "author": [
+      {
+        "id": 7,
+        "value": "Gregory of Tours"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "21": {
+    "id": 21,
+    "order": "20.00000000000000000000",
+    "title": "Tituli metrici de sancto Martino",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__21",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "22": {
+    "id": 22,
+    "order": "21.00000000000000000000",
+    "title": "De basilica sancti Martini et sollemnitatibus",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__22",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "23": {
+    "id": 23,
+    "order": "22.00000000000000000000",
+    "title": "Confessio sancti Martini",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__23",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "24": {
+    "id": 24,
+    "order": "23.00000000000000000000",
+    "title": "Miraculum de puella ab ortu nativitatis suae muta et surda",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__24",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "25": {
+    "id": 25,
+    "order": "24.00000000000000000000",
+    "title": "De orthographia",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__25",
+    "author": [
+      {
+        "id": 16,
+        "value": "Alcuinus"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "26": {
+    "id": 26,
+    "order": "25.00000000000000000000",
+    "title": "Codex juris civilis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__26",
+    "author": [
+      {
+        "id": 17,
+        "value": "Justinianus"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "27": {
+    "id": 27,
+    "order": "26.00000000000000000000",
+    "title": "Historia tripartita ab Epiphanio scholastico translata",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__27",
+    "author": [
+      {
+        "id": 15,
+        "value": "Cassiodor"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "28": {
+    "id": 28,
+    "order": "27.00000000000000000000",
+    "title": "De septem gradibus consanguinitatis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__28",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "29": {
+    "id": 29,
+    "order": "28.00000000000000000000",
+    "title": "Historia ecclesiastica cum Rufini continuatione",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__29",
+    "author": [
+      {
+        "id": 12,
+        "value": "Eusebius"
+      },
+      {
+        "id": 13,
+        "value": "Rufinus"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "30": {
+    "id": 30,
+    "order": "29.00000000000000000000",
+    "title": "Historia Ottonis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__30",
+    "author": [
+      {
+        "id": 10,
+        "value": "Liutprand of Cremona"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "31": {
+    "id": 31,
+    "order": "30.00000000000000000000",
+    "title": "Antapodosis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__31",
+    "author": [
+      {
+        "id": 10,
+        "value": "Liutprand of Cremona"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "32": {
+    "id": 32,
+    "order": "31.00000000000000000000",
+    "title": "Chronica cum Adalberti continuatione",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__32",
+    "author": [
+      {
+        "id": 11,
+        "value": "Regino of Prüm"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "33": {
+    "id": 33,
+    "order": "32.00000000000000000000",
+    "title": "Historia Langobardorum",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__33",
+    "author": [
+      {
+        "id": 9,
+        "value": "Paulus Diaconus"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "34": {
+    "id": 34,
+    "order": "33.00000000000000000000",
+    "title": "Vita sancti Hilarionis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__34",
+    "author": [
+      {
+        "id": 8,
+        "value": "Hieronymus, Sophronius Eusebius"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "35": {
+    "id": 35,
+    "order": "34.00000000000000000000",
+    "title": "Vita sancti Malchi",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__35",
+    "author": [
+      {
+        "id": 8,
+        "value": "Hieronymus, Sophronius Eusebius"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "36": {
+    "id": 36,
+    "order": "35.00000000000000000000",
+    "title": "Vita sancti Pauli",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__36",
+    "author": [
+      {
+        "id": 8,
+        "value": "Hieronymus, Sophronius Eusebius"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "37": {
+    "id": 37,
+    "order": "36.00000000000000000000",
+    "title": "Vita beati Antonii abbatis, Euagrio interprete",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__37",
+    "author": [
+      {
+        "id": 19,
+        "value": "Athanasius Alexandrinus"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "38": {
+    "id": 38,
+    "order": "37.00000000000000000000",
+    "title": "Vita sancti Bonifatii",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__38",
+    "author": [
+      {
+        "id": 20,
+        "value": "Willibaldus Moguntinensis"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "39": {
+    "id": 39,
+    "order": "38.00000000000000000000",
+    "title": "Vita sancti Wunebaldi",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__39",
+    "author": [
+      {
+        "id": 21,
+        "value": "Hugeburc Heidenheimensis"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "40": {
+    "id": 40,
+    "order": "39.00000000000000000000",
+    "title": "Vita sancti Willibaldi",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__40",
+    "author": [
+      {
+        "id": 21,
+        "value": "Hugeburc Heidenheimensis"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "41": {
+    "id": 41,
+    "order": "40.00000000000000000000",
+    "title": "Vita sanctae Euphrosinae",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__41",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "42": {
+    "id": 42,
+    "order": "41.00000000000000000000",
+    "title": "Synonyma",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__42",
+    "author": [
+      {
+        "id": 28,
+        "value": "Isidorus Hispalensis"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "43": {
+    "id": 43,
+    "order": "42.00000000000000000000",
+    "title": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__43",
+    "author": [
+      {
+        "id": 28,
+        "value": "Isidorus Hispalensis"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "44": {
+    "id": 44,
+    "order": "43.00000000000000000000",
+    "title": "De natura rerum",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__44",
+    "author": [
+      {
+        "id": 28,
+        "value": "Isidorus Hispalensis"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "45": {
+    "id": 45,
+    "order": "44.00000000000000000000",
+    "title": "Breviarium apostolorum",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__45",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "46": {
+    "id": 46,
+    "order": "45.00000000000000000000",
+    "title": "Concordia testimoniorum",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__46",
+    "author": [
+      {
+        "id": 26,
+        "value": "Ps.-Gregorius Magnus"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "47": {
+    "id": 47,
+    "order": "46.00000000000000000000",
+    "title": "De unitate sanctae trinitatis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__47",
+    "author": [
+      {
+        "id": 27,
+        "value": "Ps.- Augustinus"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "48": {
+    "id": 48,
+    "order": "47.00000000000000000000",
+    "title": "Moralia in Job",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__48",
+    "author": [
+      {
+        "id": 25,
+        "value": "Gregorius Magnus"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "49": {
+    "id": 49,
+    "order": "48.00000000000000000000",
+    "title": "Vita sancti Columbae recensio brevior",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__49",
+    "author": [
+      {
+        "id": 22,
+        "value": "Adamnanus de Iona"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "50": {
+    "id": 50,
+    "order": "49.00000000000000000000",
+    "title": "Historiae duae de sancta cruce",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__50",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "51": {
+    "id": 51,
+    "order": "50.00000000000000000000",
+    "title": "Commentarii in Ciceronis Topica",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__51",
+    "author": [
+      {
+        "id": 29,
+        "value": "Boethius"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "52": {
+    "id": 52,
+    "order": "51.00000000000000000000",
+    "title": "Revelatio Esdrae de qualitatibus anni",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__52",
+    "author": [
+      {
+        "id": 30,
+        "value": "Esdra"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "53": {
+    "id": 53,
+    "order": "52.00000000000000000000",
+    "title": "Epitoma de Tito Livio",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__53",
+    "author": [
+      {
+        "id": 18,
+        "value": "Publius Annius Florus"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "54": {
+    "id": 54,
+    "order": "53.00000000000000000000",
+    "title": "Periochae",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__54",
+    "author": [
+      {
+        "id": 24,
+        "value": "Ps.-Livius"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "55": {
+    "id": 55,
+    "order": "54.00000000000000000000",
+    "title": "Historia monachorum",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__55",
+    "author": [
+      {
+        "id": 13,
+        "value": "Rufinus"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "56": {
+    "id": 56,
+    "order": "55.00000000000000000000",
+    "title": "Catalogus regum et imperatorum Frisingensis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__56",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "57": {
+    "id": 57,
+    "order": "56.00000000000000000000",
+    "title": "Galerius Maximianus Inuictus",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__57",
+    "author": [
+      {
+        "id": 14,
+        "value": "Imperator Caesar Galerius Maximianus Inuictus"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "58": {
+    "id": 58,
+    "order": "57.00000000000000000000",
+    "title": "",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__58",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
   }
 }

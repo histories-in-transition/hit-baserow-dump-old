@@ -43,7 +43,7 @@
     "orig_date": [
       {
         "id": 3,
-        "value": "Mitte 9. Jhdt."
+        "value": "9 J., Mitte"
       }
     ],
     "catchwords": "",
@@ -93,7 +93,7 @@
     "binding_date": [
       {
         "id": 8,
-        "value": "15 c."
+        "value": "15 J."
       }
     ],
     "history": "In Zusammenarbeit der beiden Schriftzentren Saint-Amand und Salzburg entstanden. Befand sich im Jahr 976 noch in Salzburg. Signaturen: 1r (LXXXIII, 15. Jhdt), 2r (LXXXIII, 15. Jhdt), Buchrücken (81, 18. Jhdt).",
@@ -114,7 +114,7 @@
     "orig_date": [
       {
         "id": 7,
-        "value": "9 c., first quarter"
+        "value": "9 J., erstes Viertel"
       }
     ],
     "catchwords": "",
@@ -209,11 +209,11 @@
       }
     ],
     "extent": "I + 134",
-    "foliation": "19th c.",
+    "foliation": "19 J.",
     "acc_mat": "",
     "binding": "",
     "binding_date": [],
-    "history": "Written in Freising, already in the 12th c. in posession of the Dombibliothek. Posession marks: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (on the cover). Possibly bishop Abraham's personal book (N. Daniel).",
+    "history": "Geschrieben in Freising,  seit 12 J. in Besitz der Dombibliothek. Besitzmarke: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (on the cover). Möglicherweise diente als Handbuch des Bischofs Abraham (N. Daniel).",
     "bibliography": [],
     "height": "195",
     "width": "165",
@@ -227,11 +227,11 @@
     "orig_date": [
       {
         "id": 4,
-        "value": "10 c., middle"
+        "value": "10 J., Mitte"
       },
       {
         "id": 5,
-        "value": "10 c., second half"
+        "value": "10 J., zweite Hälfte"
       }
     ],
     "catchwords": "",
@@ -297,7 +297,7 @@
     "orig_date": [
       {
         "id": 10,
-        "value": "before 784"
+        "value": "vor 784"
       }
     ],
     "catchwords": "",
@@ -363,7 +363,7 @@
     "orig_date": [
       {
         "id": 11,
-        "value": "10 c., late"
+        "value": "10 J., spät"
       }
     ],
     "catchwords": "",
@@ -429,7 +429,7 @@
     "orig_date": [
       {
         "id": 6,
-        "value": "9 c., first half"
+        "value": "9 J., erste Hälfte"
       }
     ],
     "catchwords": "",
@@ -495,7 +495,7 @@
     "orig_date": [
       {
         "id": 3,
-        "value": "Mitte 9. Jhdt."
+        "value": "9 J., Mitte"
       }
     ],
     "catchwords": "",
@@ -552,7 +552,11 @@
     "catchwords": "",
     "orig_organisation": [],
     "quiremarks": null,
-    "material": null
+    "material": {
+      "id": 14782,
+      "value": "parchment",
+      "color": "darker-orange"
+    }
   },
   "11": {
     "id": 11,
@@ -608,7 +612,7 @@
     "orig_date": [
       {
         "id": 12,
-        "value": "8 c., end"
+        "value": "8J., Ende"
       }
     ],
     "catchwords": "",
@@ -672,13 +676,13 @@
       },
       {
         "id": 9,
-        "value": "North Italy"
+        "value": "Norditalien"
       }
     ],
     "orig_date": [
       {
         "id": 5,
-        "value": "10 c., second half"
+        "value": "10 J., zweite Hälfte"
       }
     ],
     "catchwords": "",
@@ -744,7 +748,7 @@
     "orig_date": [
       {
         "id": 11,
-        "value": "10 c., late"
+        "value": "10 J., spät"
       }
     ],
     "catchwords": "",
@@ -810,7 +814,7 @@
     "orig_date": [
       {
         "id": 13,
-        "value": "11 c."
+        "value": "11 J."
       }
     ],
     "catchwords": "",
@@ -876,7 +880,7 @@
     "orig_date": [
       {
         "id": 14,
-        "value": "8 c., late"
+        "value": "8 J., spät"
       }
     ],
     "catchwords": "",
@@ -942,7 +946,7 @@
     "orig_date": [
       {
         "id": 3,
-        "value": "Mitte 9. Jhdt."
+        "value": "9 J., Mitte"
       }
     ],
     "catchwords": "",
@@ -1008,7 +1012,7 @@
     "orig_date": [
       {
         "id": 15,
-        "value": "after 800"
+        "value": "nach 800"
       }
     ],
     "catchwords": "",
@@ -1065,7 +1069,11 @@
     "catchwords": "",
     "orig_organisation": [],
     "quiremarks": null,
-    "material": null
+    "material": {
+      "id": 14782,
+      "value": "parchment",
+      "color": "darker-orange"
+    }
   },
   "19": {
     "id": 19,
@@ -1112,7 +1120,11 @@
     "catchwords": "",
     "orig_organisation": [],
     "quiremarks": null,
-    "material": null
+    "material": {
+      "id": 14782,
+      "value": "parchment",
+      "color": "darker-orange"
+    }
   },
   "20": {
     "id": 20,

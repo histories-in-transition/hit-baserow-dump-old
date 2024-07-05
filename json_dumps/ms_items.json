@@ -202,6 +202,10 @@
     "locus_grp": "1v-21r",
     "hands_role": [
       {
+        "id": 6,
+        "value": "hit_hands_role__6"
+      },
+      {
         "id": 5,
         "value": "hit_hands_role__5"
       },
@@ -459,6 +463,40 @@
   "15": {
     "id": 15,
     "order": "9.00000000000000000000",
+    "label": [
+      {
+        "id": 2,
+        "value": "cod_m_p_th_f_46__15"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 16,
+        "value": "Synchrone Tafeln über das Alter der Patriarchen von Noe bis Jakob"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__15",
+    "filiation": [],
+    "locus_grp": "145r-146r",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "16": {
+    "id": 16,
+    "order": "10.00000000000000000000",
     "label": [],
     "manuscript": [],
     "incipit": "",
@@ -469,7 +507,7 @@
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
-    "hit_id": "hit_ms_items__15",
+    "hit_id": "hit_ms_items__16",
     "filiation": [],
     "locus_grp": "",
     "hands_role": [],

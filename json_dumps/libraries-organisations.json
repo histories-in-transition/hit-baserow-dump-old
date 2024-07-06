@@ -1,0 +1,92 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "label": "ÖNB",
+    "hit_id": "hit_org__1",
+    "gnd_url": "https://d-nb.info/gnd/2020893-5",
+    "library_full": "Österreichische Nationalbibliothek",
+    "library_website": "https://www.onb.ac.at/",
+    "settlement": [
+      {
+        "id": 6,
+        "value": "Wien"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "label": "UBWÜ",
+    "hit_id": "hit_org__2",
+    "gnd_url": "https://d-nb.info/gnd/2025026-5",
+    "library_full": "Universitätsbibliothek Würzburg",
+    "library_website": "",
+    "settlement": [
+      {
+        "id": 7,
+        "value": "Würzburg"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "order": "3.00000000000000000000",
+    "label": "BSB",
+    "hit_id": "hit_org__4",
+    "gnd_url": "https://d-nb.info/gnd/2031351-2",
+    "library_full": "Bayerische Staatsbibliothek",
+    "library_website": "https://www.bsb-muenchen.de/",
+    "settlement": [
+      {
+        "id": 8,
+        "value": "München"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "order": "4.00000000000000000000",
+    "label": "Dombibliothek Würzburg",
+    "hit_id": "hit_org__5",
+    "gnd_url": "https://d-nb.info/gnd/16186778-9",
+    "library_full": "Dombibliothek Würzburg",
+    "library_website": "",
+    "settlement": [
+      {
+        "id": 7,
+        "value": "Würzburg"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "order": "5.00000000000000000000",
+    "label": "Dombibliothek Freising",
+    "hit_id": "hit_org__6",
+    "gnd_url": "https://d-nb.info/gnd/1052539-7",
+    "library_full": "Dombibliothek Freising",
+    "library_website": "",
+    "settlement": [
+      {
+        "id": 4,
+        "value": "Freising"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "order": "6.00000000000000000000",
+    "label": "Erzabtei Sankt Peter (Salzburg)",
+    "hit_id": "hit_org__7",
+    "gnd_url": "https://d-nb.info/gnd/2070551-7",
+    "library_full": "Erzabtei Sankt Peter (Salzburg)",
+    "library_website": "",
+    "settlement": [
+      {
+        "id": 3,
+        "value": "Salzburg"
+      }
+    ]
+  }
+}

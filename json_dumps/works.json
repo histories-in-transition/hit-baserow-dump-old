@@ -199,7 +199,7 @@
     "id": 17,
     "order": "16.00000000000000000000",
     "title": "Vita sancti Martini",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/4361966-6",
     "note": "",
     "hit_id": "hit_works__17",
     "author": [
@@ -210,14 +210,19 @@
     ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Vita"
+      }
+    ],
     "note_source": ""
   },
   "18": {
     "id": 18,
     "order": "17.00000000000000000000",
     "title": "Epistulae",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/4495081-0",
     "note": "",
     "hit_id": "hit_works__18",
     "author": [
@@ -235,7 +240,7 @@
     "id": 19,
     "order": "18.00000000000000000000",
     "title": "Dialogi",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/4495079-2",
     "note": "",
     "hit_id": "hit_works__19",
     "author": [
@@ -252,8 +257,8 @@
   "20": {
     "id": 20,
     "order": "19.00000000000000000000",
-    "title": "Historia Francorum",
-    "gnd_url": "",
+    "title": "Liber historiae Francorum",
+    "gnd_url": "https://d-nb.info/gnd/4227883-1",
     "note": "",
     "hit_id": "hit_works__20",
     "author": [
@@ -264,14 +269,19 @@
     ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Historiographie (Chronik)"
+      }
+    ],
     "note_source": ""
   },
   "21": {
     "id": 21,
     "order": "20.00000000000000000000",
     "title": "Tituli metrici de sancto Martino",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/4495088-3",
     "note": "",
     "hit_id": "hit_works__21",
     "author": [],
@@ -316,14 +326,19 @@
     "author": [],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 2,
+        "value": "Miracula"
+      }
+    ],
     "note_source": ""
   },
   "25": {
     "id": 25,
     "order": "24.00000000000000000000",
     "title": "De orthographia",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/4537632-3",
     "note": "",
     "hit_id": "hit_works__25",
     "author": [
@@ -340,8 +355,8 @@
   "26": {
     "id": 26,
     "order": "25.00000000000000000000",
-    "title": "Codex juris civilis",
-    "gnd_url": "",
+    "title": "Corpus juris civilis",
+    "gnd_url": "https://d-nb.info/gnd/4113244-0",
     "note": "",
     "hit_id": "hit_works__26",
     "author": [
@@ -359,7 +374,7 @@
     "id": 27,
     "order": "26.00000000000000000000",
     "title": "Historia tripartita ab Epiphanio scholastico translata",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/4245457-8",
     "note": "",
     "hit_id": "hit_works__27",
     "author": [
@@ -370,7 +385,12 @@
     ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Historiographie (Chronik)"
+      }
+    ],
     "note_source": ""
   },
   "28": {
@@ -390,7 +410,7 @@
     "id": 29,
     "order": "28.00000000000000000000",
     "title": "Historia ecclesiastica cum Rufini continuatione",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/4192312-1",
     "note": "",
     "hit_id": "hit_works__29",
     "author": [
@@ -405,14 +425,19 @@
     ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Historiographie (Chronik)"
+      }
+    ],
     "note_source": ""
   },
   "30": {
     "id": 30,
     "order": "29.00000000000000000000",
     "title": "Historia Ottonis",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/4399950-5",
     "note": "",
     "hit_id": "hit_works__30",
     "author": [
@@ -423,14 +448,19 @@
     ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Historiographie (Chronik)"
+      }
+    ],
     "note_source": ""
   },
   "31": {
     "id": 31,
     "order": "30.00000000000000000000",
     "title": "Antapodosis",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/4369757-4",
     "note": "",
     "hit_id": "hit_works__31",
     "author": [
@@ -441,14 +471,19 @@
     ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Historiographie (Chronik)"
+      }
+    ],
     "note_source": ""
   },
   "32": {
     "id": 32,
     "order": "31.00000000000000000000",
     "title": "Chronica cum Adalberti continuatione",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/4227884-3",
     "note": "",
     "hit_id": "hit_works__32",
     "author": [
@@ -459,14 +494,19 @@
     ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Historiographie (Chronik)"
+      }
+    ],
     "note_source": ""
   },
   "33": {
     "id": 33,
     "order": "32.00000000000000000000",
     "title": "Historia Langobardorum",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/4316387-7",
     "note": "",
     "hit_id": "hit_works__33",
     "author": [
@@ -477,14 +517,19 @@
     ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Historiographie (Chronik)"
+      }
+    ],
     "note_source": ""
   },
   "34": {
     "id": 34,
     "order": "33.00000000000000000000",
     "title": "Vita sancti Hilarionis",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/4354839-8",
     "note": "",
     "hit_id": "hit_works__34",
     "author": [
@@ -495,14 +540,19 @@
     ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Vita"
+      }
+    ],
     "note_source": ""
   },
   "35": {
     "id": 35,
     "order": "34.00000000000000000000",
     "title": "Vita sancti Malchi",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/4354848-9",
     "note": "",
     "hit_id": "hit_works__35",
     "author": [
@@ -513,14 +563,19 @@
     ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Vita"
+      }
+    ],
     "note_source": ""
   },
   "36": {
     "id": 36,
     "order": "35.00000000000000000000",
     "title": "Vita sancti Pauli",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/4305837-1",
     "note": "",
     "hit_id": "hit_works__36",
     "author": [
@@ -531,14 +586,19 @@
     ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Vita"
+      }
+    ],
     "note_source": ""
   },
   "37": {
     "id": 37,
     "order": "36.00000000000000000000",
     "title": "Vita beati Antonii abbatis, Euagrio interprete",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/4355381-3",
     "note": "",
     "hit_id": "hit_works__37",
     "author": [
@@ -549,14 +609,19 @@
     ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Vita"
+      }
+    ],
     "note_source": ""
   },
   "38": {
     "id": 38,
     "order": "37.00000000000000000000",
     "title": "Vita sancti Bonifatii",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/7558701-4",
     "note": "",
     "hit_id": "hit_works__38",
     "author": [
@@ -567,7 +632,12 @@
     ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Vita"
+      }
+    ],
     "note_source": ""
   },
   "39": {
@@ -585,14 +655,19 @@
     ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Vita"
+      }
+    ],
     "note_source": ""
   },
   "40": {
     "id": 40,
     "order": "39.00000000000000000000",
     "title": "Vita sancti Willibaldi",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/7863127-0",
     "note": "",
     "hit_id": "hit_works__40",
     "author": [
@@ -603,7 +678,12 @@
     ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Vita"
+      }
+    ],
     "note_source": ""
   },
   "41": {
@@ -616,14 +696,19 @@
     "author": [],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Vita"
+      }
+    ],
     "note_source": ""
   },
   "42": {
     "id": 42,
     "order": "41.00000000000000000000",
     "title": "Synonyma",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/7645345-5",
     "note": "",
     "hit_id": "hit_works__42",
     "author": [
@@ -641,7 +726,7 @@
     "id": 43,
     "order": "42.00000000000000000000",
     "title": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/4406765-3",
     "note": "",
     "hit_id": "hit_works__43",
     "author": [
@@ -659,7 +744,7 @@
     "id": 44,
     "order": "43.00000000000000000000",
     "title": "De natura rerum",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/4721386-3",
     "note": "",
     "hit_id": "hit_works__44",
     "author": [
@@ -726,7 +811,7 @@
     "id": 48,
     "order": "47.00000000000000000000",
     "title": "Moralia in Job",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/4230993-1",
     "note": "",
     "hit_id": "hit_works__48",
     "author": [
@@ -743,8 +828,8 @@
   "49": {
     "id": 49,
     "order": "48.00000000000000000000",
-    "title": "Vita sancti Columbae recensio brevior",
-    "gnd_url": "",
+    "title": "Vita sancti Columbae",
+    "gnd_url": "https://d-nb.info/gnd/4832207-6",
     "note": "",
     "hit_id": "hit_works__49",
     "author": [
@@ -755,8 +840,13 @@
     ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
-    "note_source": ""
+    "genre": [
+      {
+        "id": 1,
+        "value": "Vita"
+      }
+    ],
+    "note_source": "recencio brevior"
   },
   "50": {
     "id": 50,
@@ -811,7 +901,7 @@
     "id": 53,
     "order": "52.00000000000000000000",
     "title": "Epitoma de Tito Livio",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/4294894-0",
     "note": "",
     "hit_id": "hit_works__53",
     "author": [
@@ -822,14 +912,19 @@
     ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Historiographie (Chronik)"
+      }
+    ],
     "note_source": ""
   },
   "54": {
     "id": 54,
     "order": "53.00000000000000000000",
     "title": "Periochae",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/4504491-0",
     "note": "",
     "hit_id": "hit_works__54",
     "author": [
@@ -847,7 +942,7 @@
     "id": 55,
     "order": "54.00000000000000000000",
     "title": "Historia monachorum",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/4230645-0",
     "note": "",
     "hit_id": "hit_works__55",
     "author": [
@@ -858,7 +953,12 @@
     ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Historiographie (Chronik)"
+      }
+    ],
     "note_source": ""
   },
   "56": {
@@ -895,8 +995,8 @@
   "58": {
     "id": 58,
     "order": "57.00000000000000000000",
-    "title": "",
-    "gnd_url": "",
+    "title": "Ab urbe condita",
+    "gnd_url": "https://d-nb.info/gnd/4125765-0",
     "note": "",
     "hit_id": "hit_works__58",
     "author": [],

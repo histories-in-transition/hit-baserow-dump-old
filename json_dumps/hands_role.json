@@ -1,15 +1,4 @@
 {
-  "1": {
-    "id": 1,
-    "order": "1.00000000000000000000",
-    "hit_id": "hit_hands_role__1",
-    "hand": [],
-    "ms_item": [],
-    "role": [],
-    "locus": "",
-    "text": [],
-    "locus_text": []
-  },
   "6": {
     "id": 6,
     "order": "1.50000000000000000000",
@@ -17,7 +6,7 @@
     "hand": [
       {
         "id": 5,
-        "value": "Baldo"
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
       }
     ],
     "ms_item": [
@@ -87,7 +76,7 @@
     "hand": [
       {
         "id": 5,
-        "value": "Baldo"
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
       }
     ],
     "ms_item": [
@@ -127,7 +116,7 @@
     "hand": [
       {
         "id": 5,
-        "value": "Baldo"
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
       }
     ],
     "ms_item": [
@@ -182,7 +171,7 @@
     "hand": [
       {
         "id": 11,
-        "value": "UBWÜ, Cod. M. p. th. f. 46_H.1"
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 1"
       }
     ],
     "ms_item": [
@@ -222,7 +211,7 @@
     "hand": [
       {
         "id": 12,
-        "value": "UBWÜ, Cod. M. p. th. f. 46_H.2"
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 2"
       }
     ],
     "ms_item": [
@@ -254,38 +243,5 @@
         "value": "1v-21r"
       }
     ]
-  },
-  "7": {
-    "id": 7,
-    "order": "7.00000000000000000000",
-    "hit_id": "hit_hands_role__7",
-    "hand": [],
-    "ms_item": [],
-    "role": [],
-    "locus": "",
-    "text": [],
-    "locus_text": []
-  },
-  "8": {
-    "id": 8,
-    "order": "8.00000000000000000000",
-    "hit_id": "hit_hands_role__8",
-    "hand": [],
-    "ms_item": [],
-    "role": [],
-    "locus": "",
-    "text": [],
-    "locus_text": []
-  },
-  "9": {
-    "id": 9,
-    "order": "9.00000000000000000000",
-    "hit_id": "hit_hands_role__9",
-    "hand": [],
-    "ms_item": [],
-    "role": [],
-    "locus": "",
-    "text": [],
-    "locus_text": []
   }
 }

@@ -6,23 +6,17 @@
     "hand": [
       {
         "id": 5,
-        "value": "Baldo"
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
       }
     ],
-    "authority": [
-      {
-        "id": 2,
-        "value": ""
-      }
-    ],
+    "authority": [],
     "page": "",
     "place": [
       {
         "id": 3,
         "value": "Salzburg"
       }
-    ],
-    "organisation": []
+    ]
   },
   "2": {
     "id": 2,
@@ -31,8 +25,7 @@
     "hand": [],
     "authority": [],
     "page": null,
-    "place": [],
-    "organisation": []
+    "place": []
   },
   "3": {
     "id": 3,
@@ -41,13 +34,12 @@
     "hand": [
       {
         "id": 11,
-        "value": "UBWÜ, Cod. M. p. th. f. 46_H.1"
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 1"
       }
     ],
     "authority": [],
     "page": "",
-    "place": [],
-    "organisation": []
+    "place": []
   },
   "4": {
     "id": 4,
@@ -56,7 +48,7 @@
     "hand": [
       {
         "id": 12,
-        "value": "UBWÜ, Cod. M. p. th. f. 46_H.2"
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 2"
       }
     ],
     "authority": [],
@@ -66,7 +58,6 @@
         "id": 5,
         "value": "Saint-Amand"
       }
-    ],
-    "organisation": []
+    ]
   }
 }

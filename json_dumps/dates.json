@@ -126,5 +126,29 @@
     "not_before": null,
     "hit_id": "hit_date__16",
     "not_after": null
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "label": "nach 840",
+    "not_before": "0820-01-01",
+    "hit_id": "hit_date__17",
+    "not_after": "0840-12-31"
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "label": "820-840",
+    "not_before": "0820-01-01",
+    "hit_id": "hit_date__18",
+    "not_after": "0840-12-31"
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "label": "vor 850",
+    "not_before": null,
+    "hit_id": "hit_date__19",
+    "not_after": "0850-12-31"
   }
 }

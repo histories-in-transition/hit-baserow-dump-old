@@ -48,7 +48,17 @@
     "catchwords": "",
     "quiremarks": null,
     "material": null,
-    "provenance": []
+    "provenance": [],
+    "manuscripts_dated": [
+      {
+        "id": 1,
+        "value": "hit_dated__1"
+      },
+      {
+        "id": 2,
+        "value": "hit_dated__2"
+      }
+    ]
   },
   "2": {
     "id": 2,
@@ -122,6 +132,12 @@
         "id": 5,
         "value": "Dombibliothek Würzburg"
       }
+    ],
+    "manuscripts_dated": [
+      {
+        "id": 3,
+        "value": "hit_dated__3"
+      }
     ]
   },
   "4": {
@@ -168,7 +184,8 @@
     "catchwords": null,
     "quiremarks": null,
     "material": null,
-    "provenance": []
+    "provenance": [],
+    "manuscripts_dated": []
   },
   "5": {
     "id": 5,
@@ -226,7 +243,7 @@
       }
     ],
     "catchwords": "",
-    "quiremarks": null,
+    "quiremarks": "am Ende, I**7**– XVI**127**",
     "material": {
       "id": 14782,
       "value": "parchment",
@@ -236,6 +253,16 @@
       {
         "id": 6,
         "value": "Dombibliothek Freising"
+      }
+    ],
+    "manuscripts_dated": [
+      {
+        "id": 4,
+        "value": "hit_dated__4"
+      },
+      {
+        "id": 5,
+        "value": "hit_dated__5"
       }
     ]
   },
@@ -291,7 +318,7 @@
       }
     ],
     "catchwords": "",
-    "quiremarks": null,
+    "quiremarks": "am Ende, I**6** - XIIII **110**, III wurde ausgelassen",
     "material": {
       "id": 14782,
       "value": "parchment",
@@ -302,7 +329,8 @@
         "id": 6,
         "value": "Dombibliothek Freising"
       }
-    ]
+    ],
+    "manuscripts_dated": []
   },
   "7": {
     "id": 7,
@@ -367,7 +395,8 @@
         "id": 6,
         "value": "Dombibliothek Freising"
       }
-    ]
+    ],
+    "manuscripts_dated": []
   },
   "8": {
     "id": 8,
@@ -432,7 +461,8 @@
         "id": 6,
         "value": "Dombibliothek Freising"
       }
-    ]
+    ],
+    "manuscripts_dated": []
   },
   "9": {
     "id": 9,
@@ -467,7 +497,12 @@
     "foliation": "",
     "acc_mat": "",
     "binding": "",
-    "binding_date": [],
+    "binding_date": [
+      {
+        "id": 1,
+        "value": "9 J."
+      }
+    ],
     "history": "",
     "bibliography": [],
     "height": "280",
@@ -477,16 +512,28 @@
       {
         "id": 4,
         "value": "Freising"
+      },
+      {
+        "id": 11,
+        "value": "Benediktbeuern"
+      },
+      {
+        "id": 12,
+        "value": "Bodensee"
       }
     ],
     "orig_date": [
       {
-        "id": 3,
-        "value": "9 J., Mitte"
+        "id": 18,
+        "value": "820-840"
+      },
+      {
+        "id": 19,
+        "value": "vor 850"
       }
     ],
     "catchwords": "",
-    "quiremarks": null,
+    "quiremarks": "am Ende, I**12**– XVI**130** (zwischen Punkten und Strichen, mit Ligatur für *qt*), XX**170**– XXXII**248** (unter Winkel)",
     "material": {
       "id": 14782,
       "value": "parchment",
@@ -496,6 +543,16 @@
       {
         "id": 6,
         "value": "Dombibliothek Freising"
+      }
+    ],
+    "manuscripts_dated": [
+      {
+        "id": 6,
+        "value": "hit_dated__6"
+      },
+      {
+        "id": 7,
+        "value": "hit_dated__7"
       }
     ]
   },
@@ -547,7 +604,8 @@
       "value": "parchment",
       "color": "darker-orange"
     },
-    "provenance": []
+    "provenance": [],
+    "manuscripts_dated": []
   },
   "11": {
     "id": 11,
@@ -601,7 +659,7 @@
       }
     ],
     "catchwords": "",
-    "quiremarks": null,
+    "quiremarks": "am Ende, I**8**– XVII**137,** zwischen Bündeln von Strichen",
     "material": {
       "id": 14782,
       "value": "parchment",
@@ -612,7 +670,8 @@
         "id": 6,
         "value": "Dombibliothek Freising"
       }
-    ]
+    ],
+    "manuscripts_dated": []
   },
   "12": {
     "id": 12,
@@ -670,7 +729,7 @@
       }
     ],
     "catchwords": "",
-    "quiremarks": null,
+    "quiremarks": "am Ende, I**17**– VIIII**81**, VIII**65** und VII**73**fehlerhaft signiert –Textfolge dennoch richtig; I**93**und V**101,** zwischen Punkten und Strichen (10.Jh.), VI**109**– XVI**189** (15.Jh.)",
     "material": {
       "id": 14782,
       "value": "parchment",
@@ -681,7 +740,8 @@
         "id": 6,
         "value": "Dombibliothek Freising"
       }
-    ]
+    ],
+    "manuscripts_dated": []
   },
   "13": {
     "id": 13,
@@ -746,7 +806,8 @@
         "id": 6,
         "value": "Dombibliothek Freising"
       }
-    ]
+    ],
+    "manuscripts_dated": []
   },
   "14": {
     "id": 14,
@@ -811,7 +872,8 @@
         "id": 6,
         "value": "Dombibliothek Freising"
       }
-    ]
+    ],
+    "manuscripts_dated": []
   },
   "15": {
     "id": 15,
@@ -876,7 +938,8 @@
         "id": 6,
         "value": "Dombibliothek Freising"
       }
-    ]
+    ],
+    "manuscripts_dated": []
   },
   "16": {
     "id": 16,
@@ -941,7 +1004,8 @@
         "id": 6,
         "value": "Dombibliothek Freising"
       }
-    ]
+    ],
+    "manuscripts_dated": []
   },
   "17": {
     "id": 17,
@@ -1006,7 +1070,8 @@
         "id": 6,
         "value": "Dombibliothek Freising"
       }
-    ]
+    ],
+    "manuscripts_dated": []
   },
   "18": {
     "id": 18,
@@ -1056,7 +1121,8 @@
       "value": "parchment",
       "color": "darker-orange"
     },
-    "provenance": []
+    "provenance": [],
+    "manuscripts_dated": []
   },
   "19": {
     "id": 19,
@@ -1106,7 +1172,8 @@
       "value": "parchment",
       "color": "darker-orange"
     },
-    "provenance": []
+    "provenance": [],
+    "manuscripts_dated": []
   },
   "20": {
     "id": 20,
@@ -1137,7 +1204,8 @@
     "catchwords": "",
     "quiremarks": null,
     "material": null,
-    "provenance": []
+    "provenance": [],
+    "manuscripts_dated": []
   },
   "21": {
     "id": 21,
@@ -1183,7 +1251,8 @@
     "catchwords": "",
     "quiremarks": null,
     "material": null,
-    "provenance": []
+    "provenance": [],
+    "manuscripts_dated": []
   },
   "22": {
     "id": 22,
@@ -1214,7 +1283,8 @@
     "catchwords": "",
     "quiremarks": null,
     "material": null,
-    "provenance": []
+    "provenance": [],
+    "manuscripts_dated": []
   },
   "23": {
     "id": 23,
@@ -1245,6 +1315,7 @@
     "catchwords": "",
     "quiremarks": "",
     "material": null,
-    "provenance": []
+    "provenance": [],
+    "manuscripts_dated": []
   }
 }

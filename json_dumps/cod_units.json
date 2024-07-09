@@ -128,45 +128,129 @@
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
-    "label": [],
-    "notes": "",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 6,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6308, cod. unit 1"
+      }
+    ],
+    "notes": "Ob die Hs. und Wien 366, Ende 8. Jh. aus Salzburg näher verwandt sind, wie etwa die beiden gleichzeitigen Exemplare des >Opus imperfectum in Matthaeum« Clm 6282 und Wien 1007 mit dem Freisinger Skriptorium als Vorlagengeber für Salzburg, ist auf Anhieb nicht zu lösen; vgl. dazu vorerst H. Löwe, Arbeo von Freising. Eine Studie ... Rhein. Vierteljahresblätter 15/16 (1950/51), S. 103. (Glauche)",
     "hit_id": "hit_cod_unit__4",
     "locus": "-",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 6,
+        "value": "BSB, Clm. 6308"
+      }
+    ],
     "quire": [],
-    "number": null,
-    "prov_place": []
+    "number": "1",
+    "prov_place": [
+      {
+        "id": 4,
+        "value": "Freising"
+      }
+    ]
   },
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 12,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6388, cod. unit 1"
+      }
+    ],
     "notes": "",
     "hit_id": "hit_cod_unit__6",
-    "locus": "-",
-    "manuscript": [],
+    "locus": "1r-7v",
+    "manuscript": [
+      {
+        "id": 12,
+        "value": "BSB, Clm. 6388"
+      }
+    ],
     "quire": [],
-    "number": null,
-    "prov_place": []
+    "number": "1",
+    "prov_place": [
+      {
+        "id": 4,
+        "value": "Freising"
+      }
+    ]
   },
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 12,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6388, cod. unit 2"
+      }
+    ],
     "notes": "",
     "hit_id": "hit_cod_unit__8",
-    "locus": "-",
-    "manuscript": [],
+    "locus": "8r-85v",
+    "manuscript": [
+      {
+        "id": 12,
+        "value": "BSB, Clm. 6388"
+      }
+    ],
     "quire": [],
-    "number": null,
-    "prov_place": []
+    "number": "2",
+    "prov_place": [
+      {
+        "id": 9,
+        "value": "Norditalien"
+      }
+    ]
   },
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 12,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6388, cod. unit 3"
+      }
+    ],
     "notes": "",
     "hit_id": "hit_cod_unit__9",
+    "locus": "86r-198v",
+    "manuscript": [
+      {
+        "id": 12,
+        "value": "BSB, Clm. 6388"
+      }
+    ],
+    "quire": [],
+    "number": "3",
+    "prov_place": [
+      {
+        "id": 4,
+        "value": "Freising"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "label": [],
+    "notes": "",
+    "hit_id": "hit_cod_unit__10",
     "locus": "",
     "manuscript": [],
     "quire": [],

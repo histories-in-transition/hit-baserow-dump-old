@@ -98,5 +98,33 @@
         "value": "Deutschland"
       }
     ]
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "name": "Benediktbeuern",
+    "geonames_url": "",
+    "hit_id": "hit_place__11",
+    "wikidata_url": "",
+    "country": [
+      {
+        "id": 2,
+        "value": "Deutschland"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "name": "Bodensee",
+    "geonames_url": "",
+    "hit_id": "hit_place__12",
+    "wikidata_url": "",
+    "country": [
+      {
+        "id": 2,
+        "value": "Deutschland"
+      }
+    ]
   }
 }

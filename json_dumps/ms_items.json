@@ -512,5 +512,510 @@
     "locus_grp": "",
     "hands_role": [],
     "cod_unit": []
+  },
+  "17": {
+    "id": 17,
+    "order": "11.00000000000000000000",
+    "label": [
+      {
+        "id": 6,
+        "value": "clm_6308__17"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 6,
+        "value": "BSB, Clm. 6308"
+      }
+    ],
+    "incipit": "[…factum de]beat totumque tuum sit….quod libens feci",
+    "explicit": "quoniam obiectu protente linguae",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 3,
+        "value": "Historia contra paganos"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__17",
+    "filiation": [],
+    "locus_grp": "1r-149r",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "18": {
+    "id": 18,
+    "order": "12.00000000000000000000",
+    "label": [
+      {
+        "id": 5,
+        "value": "clm_6326__18"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "incipit": "In Christi nomine incipit vita sancti Martini episcopi",
+    "explicit": "Explicit liber primus",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 17,
+        "value": "Vita sancti Martini"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__18",
+    "filiation": [],
+    "locus_grp": "1r-32r",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "19": {
+    "id": 19,
+    "order": "13.00000000000000000000",
+    "label": [
+      {
+        "id": 5,
+        "value": "clm_6326__19"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "incipit": "Incipit epistola Severi ad Eusebium (32r); Incipit alia eiusdem ad Aurelianum diaconum (36r);  Incipit epistola Severi Sulpici ad socrum suam Basulam (40r)",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 18,
+        "value": "Epistulae"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__19",
+    "filiation": [],
+    "locus_grp": "32v-45r",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "20": {
+    "id": 20,
+    "order": "14.00000000000000000000",
+    "label": [
+      {
+        "id": 5,
+        "value": "clm_6326__20"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "incipit": "…dialogus Severi",
+    "explicit": "Explicit dialogus secundus de vita sancti Martini",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 19,
+        "value": "Dialogi"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__20",
+    "filiation": [],
+    "locus_grp": "45v-117v",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "21": {
+    "id": 21,
+    "order": "15.00000000000000000000",
+    "label": [
+      {
+        "id": 5,
+        "value": "clm_6326__21"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "incipit": "Incipit epistola de obitu eius",
+    "explicit": "Item versiculus de transitu sancti Martini",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 20,
+        "value": "Liber historiae Francorum"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__21",
+    "filiation": [],
+    "locus_grp": "117v-122r",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "22": {
+    "id": 22,
+    "order": "16.00000000000000000000",
+    "label": [
+      {
+        "id": 5,
+        "value": "clm_6326__22"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "incipit": "Incipit uita sancti ac beatissimi Prictii episcopi et confessoris",
+    "explicit": "Igitur post excessum beati Martini Turonicae ciuitatis episcopi…",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 20,
+        "value": "Liber historiae Francorum"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__22",
+    "filiation": [],
+    "locus_grp": "122r-125r",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "23": {
+    "id": 23,
+    "order": "17.00000000000000000000",
+    "label": [
+      {
+        "id": 5,
+        "value": "clm_6326__23"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "incipit": "Incipiunt uersus in foribus primê cellulae sancti Martini episcopi",
+    "explicit": "Venimus en istuc, hic ne personat[e] heu/ … etc.; angehängt (129 r) Abschnitt De basilica s. Martini et sollemnitatibus eius. Basilica sancti Martini abest e ciuitate passos(!) quinquaginta … patrocinia eius promereberis. Lege, ut credas; crede, ut uiuas in aeternum.",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 21,
+        "value": "Tituli metrici de sancto Martino"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__23",
+    "filiation": [],
+    "locus_grp": "125r-129r",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "24": {
+    "id": 24,
+    "order": "18.00000000000000000000",
+    "label": [
+      {
+        "id": 5,
+        "value": "clm_6326__24"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "incipit": "Item incipit liber sancti Martini de sancta trinitate",
+    "explicit": "Clemens trinitas est una diuinitas, ut autem per sacramentum cognoscatur…",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 23,
+        "value": "Confessio sancti Martini"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__24",
+    "filiation": [],
+    "locus_grp": "129rv-130v",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "25": {
+    "id": 25,
+    "order": "19.00000000000000000000",
+    "label": [
+      {
+        "id": 5,
+        "value": "clm_6326__25"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "incipit": "Aliud‹ Dominus ac saluator noster Jesus Christus redemptor scilicet humani generis… –… ad recolendam uenerabilem uirtutem beati Martini.",
+    "explicit": "Explicit liber beati Martini episcopi",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 24,
+        "value": "Miraculum de puella ab ortu nativitatis suae muta et surda"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__25",
+    "filiation": [],
+    "locus_grp": "130v-133r",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "26": {
+    "id": 26,
+    "order": "20.00000000000000000000",
+    "label": [
+      {
+        "id": 8,
+        "value": "clm_6375__26"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 8,
+        "value": "BSB, Clm. 6375"
+      }
+    ],
+    "incipit": "ulcero ... reuinco Robor arbor est. Robur uirtutis. Rubor coloris... seras portarum suarum",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 25,
+        "value": "De orthographia"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__26",
+    "filiation": [],
+    "locus_grp": "1r",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "27": {
+    "id": 27,
+    "order": "20.00000000000000000000",
+    "label": [
+      {
+        "id": 8,
+        "value": "clm_6375__27"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 8,
+        "value": "BSB, Clm. 6375"
+      }
+    ],
+    "incipit": "Impp. Diocletianus et Maximianus AA. et CC. Alexandro",
+    "explicit": "Iuris ordinem conuertipostulas ... dubitari non oportet, pp. (= proposita) VIII. [kal. Sept. ...]",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 26,
+        "value": "Corpus juris civilis"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__27",
+    "filiation": [],
+    "locus_grp": "1v-2v",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "28": {
+    "id": 28,
+    "order": "21.00000000000000000000",
+    "label": [
+      {
+        "id": 8,
+        "value": "clm_6375__28"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 8,
+        "value": "BSB, Clm. 6375"
+      }
+    ],
+    "incipit": "Peritorum dicunt esse medicorum ubi inmine‹ re urbibus…",
+    "explicit": "Explicit liber XI mus . Finit utcumque hoc officium. Deo gratias.",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 29,
+        "value": "Historia ecclesiastica cum Rufini continuatione"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__28",
+    "filiation": [],
+    "locus_grp": "2v-227r",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "29": {
+    "id": 29,
+    "order": "22.00000000000000000000",
+    "label": [
+      {
+        "id": 8,
+        "value": "clm_6375__29"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 8,
+        "value": "BSB, Clm. 6375"
+      }
+    ],
+    "incipit": "",
+    "explicit": "Robor arbor est. Robur uirtutis. Rubor coloris... seras portarum suarum ualido",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 25,
+        "value": "De orthographia"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__29",
+    "filiation": [],
+    "locus_grp": "227v",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "30": {
+    "id": 30,
+    "order": "23.00000000000000000000",
+    "label": [
+      {
+        "id": 16,
+        "value": "clm_6376__30"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 16,
+        "value": "BSB, Clm. 6376"
+      }
+    ],
+    "incipit": "Praefatio senatoris serui dei‹ Vtiliter nimis in capite libri praefatio ponitur… – Perlegi per…",
+    "explicit": "Historiae ecclesiasticae liber XII explicit",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 27,
+        "value": "Historia tripartita ab Epiphanio scholastico translata"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__30",
+    "filiation": [],
+    "locus_grp": "Iv-213r",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "31": {
+    "id": 31,
+    "order": "24.00000000000000000000",
+    "label": [
+      {
+        "id": 7,
+        "value": "clm_6380__31"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 7,
+        "value": "BSB, Clm. 6380"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__31",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": []
   }
 }

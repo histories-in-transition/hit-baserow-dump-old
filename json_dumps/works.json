@@ -1026,13 +1026,136 @@
   "60": {
     "id": 60,
     "order": "59.00000000000000000000",
-    "title": "",
+    "title": "Miracula sancti Martini",
     "gnd_url": "",
     "note": "",
     "hit_id": "hit_works__60",
+    "author": [
+      {
+        "id": 7,
+        "value": "Gregory of Tours"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [
+      {
+        "id": 20,
+        "value": "Liber historiae Francorum"
+      }
+    ],
+    "genre": [
+      {
+        "id": 2,
+        "value": "Miracula"
+      }
+    ],
+    "note_source": ""
+  },
+  "61": {
+    "id": 61,
+    "order": "60.00000000000000000000",
+    "title": "Vita sancti Briccii",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__61",
+    "author": [
+      {
+        "id": 7,
+        "value": "Gregory of Tours"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [
+      {
+        "id": 20,
+        "value": "Liber historiae Francorum"
+      }
+    ],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Vita"
+      }
+    ],
+    "note_source": ""
+  },
+  "62": {
+    "id": 62,
+    "order": "61.00000000000000000000",
+    "title": "De somnis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__62",
     "author": [],
     "bibliography": [],
     "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "63": {
+    "id": 63,
+    "order": "62.00000000000000000000",
+    "title": "Capitulare evangeliorum",
+    "gnd_url": "https://d-nb.info/540041394",
+    "note": "",
+    "hit_id": "hit_works__63",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "64": {
+    "id": 64,
+    "order": "63.00000000000000000000",
+    "title": "Epistola de reliquiis sancti Bartholomaei apostoli nuper in Baioariam allatis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__64",
+    "author": [
+      {
+        "id": 36,
+        "value": "Erchanbertus Frisingensis"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": ""
+  },
+  "65": {
+    "id": 65,
+    "order": "64.00000000000000000000",
+    "title": "De inventione",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__65",
+    "author": [],
+    "bibliography": [],
+    "source_text": [
+      {
+        "id": 50,
+        "value": "Historiae duae de sancta cruce"
+      }
+    ],
+    "genre": [],
+    "note_source": ""
+  },
+  "66": {
+    "id": 66,
+    "order": "65.00000000000000000000",
+    "title": "De exaltatione",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__66",
+    "author": [],
+    "bibliography": [],
+    "source_text": [
+      {
+        "id": 50,
+        "value": "Historiae duae de sancta cruce"
+      }
+    ],
     "genre": [],
     "note_source": ""
   }

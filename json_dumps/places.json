@@ -38,7 +38,12 @@
     "geonames_url": "",
     "hit_id": "hit_place__4",
     "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
-    "country": []
+    "country": [
+      {
+        "id": 2,
+        "value": "Deutschland"
+      }
+    ]
   },
   "5": {
     "id": 5,
@@ -56,7 +61,12 @@
     "geonames_url": "https://www.geonames.org/2761369/vienna.html",
     "hit_id": "hit_place__6",
     "wikidata_url": "",
-    "country": []
+    "country": [
+      {
+        "id": 1,
+        "value": "Österreich"
+      }
+    ]
   },
   "7": {
     "id": 7,
@@ -65,7 +75,12 @@
     "geonames_url": "https://www.geonames.org/2805615/wuerzburg.html",
     "hit_id": "hit_place__7",
     "wikidata_url": "",
-    "country": []
+    "country": [
+      {
+        "id": 2,
+        "value": "Deutschland"
+      }
+    ]
   },
   "8": {
     "id": 8,
@@ -74,7 +89,12 @@
     "geonames_url": "https://www.geonames.org/2867714/munich.html",
     "hit_id": "hit_place__8",
     "wikidata_url": "",
-    "country": []
+    "country": [
+      {
+        "id": 2,
+        "value": "Deutschland"
+      }
+    ]
   },
   "9": {
     "id": 9,

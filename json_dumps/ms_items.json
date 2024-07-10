@@ -202,16 +202,16 @@
     "locus_grp": "1v-21r",
     "hands_role": [
       {
-        "id": 6,
-        "value": "hit_hands_role__6"
-      },
-      {
         "id": 5,
         "value": "hit_hands_role__5"
       },
       {
         "id": 3,
         "value": "hit_hands_role__3"
+      },
+      {
+        "id": 10,
+        "value": "hit_hands_role__10"
       }
     ],
     "cod_unit": [
@@ -254,8 +254,8 @@
     "locus_grp": "11v-16v",
     "hands_role": [
       {
-        "id": 6,
-        "value": "hit_hands_role__6"
+        "id": 11,
+        "value": "hit_hands_role__11"
       }
     ],
     "cod_unit": [
@@ -562,9 +562,9 @@
         "value": "BSB, Clm. 6326"
       }
     ],
-    "incipit": "In Christi nomine incipit vita sancti Martini episcopi",
-    "explicit": "Explicit liber primus",
-    "rubric": "",
+    "incipit": "Ego quidem frater unanimis…",
+    "explicit": "",
+    "rubric": "[I]n Christi nomine incipit uita sancti Martini episcopi. Prologus, Seuerus Desiderio",
     "title_work": [
       {
         "id": 17,
@@ -573,7 +573,7 @@
     ],
     "title_note": "",
     "bibl": [],
-    "final_rubric": "",
+    "final_rubric": "Explicit liber primus",
     "siglum": "",
     "hit_id": "hit_ms_items__18",
     "filiation": [],
@@ -596,9 +596,9 @@
         "value": "BSB, Clm. 6326"
       }
     ],
-    "incipit": "Incipit epistola Severi ad Eusebium (32r); Incipit alia eiusdem ad Aurelianum diaconum (36r);  Incipit epistola Severi Sulpici ad socrum suam Basulam (40r)",
+    "incipit": "",
     "explicit": "",
-    "rubric": "",
+    "rubric": "Incipit epistola Seueri ad Eusebium presbiterum postea episcopum",
     "title_work": [
       {
         "id": 18,
@@ -630,9 +630,9 @@
         "value": "BSB, Clm. 6326"
       }
     ],
-    "incipit": "…dialogus Severi",
-    "explicit": "Explicit dialogus secundus de vita sancti Martini",
-    "rubric": "",
+    "incipit": "",
+    "explicit": "… cêna debetur.",
+    "rubric": "… dialogus Seueri",
     "title_work": [
       {
         "id": 19,
@@ -641,7 +641,7 @@
     ],
     "title_note": "",
     "bibl": [],
-    "final_rubric": "",
+    "final_rubric": "Explicit dialogus secundus de vita sancti Martini",
     "siglum": "",
     "hit_id": "hit_ms_items__20",
     "filiation": [],
@@ -664,13 +664,13 @@
         "value": "BSB, Clm. 6326"
       }
     ],
-    "incipit": "Incipit epistola de obitu eius",
+    "incipit": "Archadio uero et Honorio sanctus Martinus Turonum episcopus…",
     "explicit": "Item versiculus de transitu sancti Martini",
-    "rubric": "",
+    "rubric": "Incipit epistola de obitu eius",
     "title_work": [
       {
-        "id": 20,
-        "value": "Liber historiae Francorum"
+        "id": 60,
+        "value": "Miracula sancti Martini"
       }
     ],
     "title_note": "",
@@ -698,13 +698,13 @@
         "value": "BSB, Clm. 6326"
       }
     ],
-    "incipit": "Incipit uita sancti ac beatissimi Prictii episcopi et confessoris",
+    "incipit": "Igitur post excessum beati Martini Turonicae ciuitatis episcopi…",
     "explicit": "Igitur post excessum beati Martini Turonicae ciuitatis episcopi…",
-    "rubric": "",
+    "rubric": "Incipit uita sancti ac beatissimi Prictii episcopi et confessoris",
     "title_work": [
       {
-        "id": 20,
-        "value": "Liber historiae Francorum"
+        "id": 61,
+        "value": "Vita sancti Briccii"
       }
     ],
     "title_note": "",
@@ -732,9 +732,9 @@
         "value": "BSB, Clm. 6326"
       }
     ],
-    "incipit": "Incipiunt uersus in foribus primê cellulae sancti Martini episcopi",
-    "explicit": "Venimus en istuc, hic ne personat[e] heu/ … etc.; angehängt (129 r) Abschnitt De basilica s. Martini et sollemnitatibus eius. Basilica sancti Martini abest e ciuitate passos(!) quinquaginta … patrocinia eius promereberis. Lege, ut credas; crede, ut uiuas in aeternum.",
-    "rubric": "",
+    "incipit": "Venimus en istuc, hic ne personat[e] heu/ …",
+    "explicit": "",
+    "rubric": "Incipiunt uersus in foribus primê cellulae sancti Martini episcopi",
     "title_work": [
       {
         "id": 21,
@@ -766,9 +766,9 @@
         "value": "BSB, Clm. 6326"
       }
     ],
-    "incipit": "Item incipit liber sancti Martini de sancta trinitate",
-    "explicit": "Clemens trinitas est una diuinitas, ut autem per sacramentum cognoscatur…",
-    "rubric": "",
+    "incipit": "Clemens trinitas est una diuinitas, ut autem per sacramentum cognoscatur…",
+    "explicit": "",
+    "rubric": "Item incipit liber sancti Martini de sancta trinitate",
     "title_work": [
       {
         "id": 23,
@@ -800,9 +800,9 @@
         "value": "BSB, Clm. 6326"
       }
     ],
-    "incipit": "Aliud‹ Dominus ac saluator noster Jesus Christus redemptor scilicet humani generis… –… ad recolendam uenerabilem uirtutem beati Martini.",
-    "explicit": "Explicit liber beati Martini episcopi",
-    "rubric": "",
+    "incipit": "Dominus ac saluator noster Jesus Christus redemptor scilicet humani generis…",
+    "explicit": "… ad recolendam uenerabilem uirtutem beati Martini.",
+    "rubric": "Aliud",
     "title_work": [
       {
         "id": 24,
@@ -811,7 +811,7 @@
     ],
     "title_note": "",
     "bibl": [],
-    "final_rubric": "",
+    "final_rubric": "Explicit liber beati Martini episcopi",
     "siglum": "",
     "hit_id": "hit_ms_items__25",
     "filiation": [],
@@ -834,9 +834,9 @@
         "value": "BSB, Clm. 6375"
       }
     ],
-    "incipit": "ulcero ... reuinco Robor arbor est. Robur uirtutis. Rubor coloris... seras portarum suarum",
+    "incipit": "Robor arbor est. Robur uirtutis. Rubor coloris... seras portarum suarum",
     "explicit": "",
-    "rubric": "",
+    "rubric": "[ … ut] vlcero … reuinco",
     "title_work": [
       {
         "id": 25,
@@ -868,9 +868,9 @@
         "value": "BSB, Clm. 6375"
       }
     ],
-    "incipit": "Impp. Diocletianus et Maximianus AA. et CC. Alexandro",
-    "explicit": "Iuris ordinem conuertipostulas ... dubitari non oportet, pp. (= proposita) VIII. [kal. Sept. ...]",
-    "rubric": "",
+    "incipit": "Iuris ordinem conuerti postulas …",
+    "explicit": "dubitari non oportet. pp. (= proposita) VIII. [kal. Sept….]",
+    "rubric": "Impp. Diocletianus et Maximianus AA. et CC. Alexandro",
     "title_work": [
       {
         "id": 26,
@@ -903,7 +903,7 @@
       }
     ],
     "incipit": "Peritorum dicunt esse medicorum ubi inmine‹ re urbibus…",
-    "explicit": "Explicit liber XI mus . Finit utcumque hoc officium. Deo gratias.",
+    "explicit": "",
     "rubric": "",
     "title_work": [
       {
@@ -913,7 +913,7 @@
     ],
     "title_note": "",
     "bibl": [],
-    "final_rubric": "",
+    "final_rubric": "Explicit liber XI mus . Finit utcumque hoc officium. Deo gratias.",
     "siglum": "",
     "hit_id": "hit_ms_items__28",
     "filiation": [],
@@ -937,7 +937,7 @@
       }
     ],
     "incipit": "",
-    "explicit": "Robor arbor est. Robur uirtutis. Rubor coloris... seras portarum suarum ualido",
+    "explicit": "Ualde aduerbium a ualido‖",
     "rubric": "",
     "title_work": [
       {
@@ -970,9 +970,9 @@
         "value": "BSB, Clm. 6376"
       }
     ],
-    "incipit": "Praefatio senatoris serui dei‹ Vtiliter nimis in capite libri praefatio ponitur… – Perlegi per…",
-    "explicit": "Historiae ecclesiasticae liber XII explicit",
-    "rubric": "",
+    "incipit": "Vtiliter nimis in capite libri praefatio ponitur…",
+    "explicit": "consulatu septies decies(scil. decimo septimo) imperatoris Theodosii. Percontuli.",
+    "rubric": "Praefatio senatoris serui dei",
     "title_work": [
       {
         "id": 27,
@@ -981,7 +981,7 @@
     ],
     "title_note": "",
     "bibl": [],
-    "final_rubric": "",
+    "final_rubric": "Historiae ecclesiasticae liber XII explicit",
     "siglum": "",
     "hit_id": "hit_ms_items__30",
     "filiation": [],
@@ -1004,17 +1004,1212 @@
         "value": "BSB, Clm. 6380"
       }
     ],
-    "incipit": "",
+    "incipit": "Dictvrvs igitvr…",
     "explicit": "",
-    "rubric": "",
-    "title_work": [],
+    "rubric": "Prologvs Orosii de tripert[it] a mvndi divisione",
+    "title_work": [
+      {
+        "id": 3,
+        "value": "Historia contra paganos"
+      }
+    ],
     "title_note": "",
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
     "hit_id": "hit_ms_items__31",
     "filiation": [],
-    "locus_grp": "",
+    "locus_grp": "1r-102r",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "32": {
+    "id": 32,
+    "order": "25.00000000000000000000",
+    "label": [
+      {
+        "id": 7,
+        "value": "clm_6380__32"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 7,
+        "value": "BSB, Clm. 6380"
+      }
+    ],
+    "incipit": "Primo gradu superiori linea continentur pater mater, inferiori filius filia …",
+    "explicit": "… nec successio potest amplius prerogari",
+    "rubric": "De gradibus",
+    "title_work": [
+      {
+        "id": 28,
+        "value": "De septem gradibus consanguinitatis"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__32",
+    "filiation": [],
+    "locus_grp": "102v-103r",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "33": {
+    "id": 33,
+    "order": "26.00000000000000000000",
+    "label": [
+      {
+        "id": 9,
+        "value": "clm_6381__33"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 9,
+        "value": "BSB, Clm. 6381"
+      }
+    ],
+    "incipit": "",
+    "explicit": "Peritorum dicunt esse medicorum…",
+    "rubric": "Incipit prologus in libris historiarum Eusebii Caesariensis",
+    "title_work": [
+      {
+        "id": 29,
+        "value": "Historia ecclesiastica cum Rufini continuatione"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "Explicit liber XI ecclesiasticae[h?] istoriae",
+    "siglum": "",
+    "hit_id": "hit_ms_items__33",
+    "filiation": [],
+    "locus_grp": "1v-250v",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "34": {
+    "id": 34,
+    "order": "27.00000000000000000000",
+    "label": [
+      {
+        "id": 10,
+        "value": "clm_6382__34"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "incipit": "Fuit uir in Alexandria nomine Pafnutius honorabilis omnibus…",
+    "explicit": "… usque in pręsentem diem, glorificantes deum patrem … Cui est honor…",
+    "rubric": "Incipit vita sanctae Evfrosinę virginis",
+    "title_work": [
+      {
+        "id": 41,
+        "value": "Vita sanctae Euphrosinae"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__34",
+    "filiation": [],
+    "locus_grp": "1r-7r",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "35": {
+    "id": 35,
+    "order": "28.00000000000000000000",
+    "label": [
+      {
+        "id": 10,
+        "value": "clm_6382__35"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "incipit": "Venit nuper ad manus meas…",
+    "explicit": "quod ęternum est, sua(lies: supra) modum est, pondus excellens gloriae‖",
+    "rubric": "Incipit libellus sinonima",
+    "title_work": [
+      {
+        "id": 42,
+        "value": "Synonyma"
+      }
+    ],
+    "title_note": "lib. I (fragmentum)",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__35",
+    "filiation": [],
+    "locus_grp": "7r-9v",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "36": {
+    "id": 36,
+    "order": "29.00000000000000000000",
+    "label": [
+      {
+        "id": 10,
+        "value": "clm_6382__36"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "incipit": "Paulus seruus … Non dico uos‹ seruos…",
+    "explicit": "aliis gentibus ueram penitentiam anteacta non inputarentur.",
+    "rubric": "Incipit concordia testimoniorum sancti Gregorii papae urbis Romae",
+    "title_work": [
+      {
+        "id": 46,
+        "value": "Concordia testimoniorum"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "Explicit liber…",
+    "siglum": "",
+    "hit_id": "hit_ms_items__36",
+    "filiation": [],
+    "locus_grp": "10r-20v",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "37": {
+    "id": 37,
+    "order": "30.00000000000000000000",
+    "label": [
+      {
+        "id": 10,
+        "value": "clm_6382__37"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "incipit": "Cum me peruigil cura fecisset exsomnem his me questionibus interrogaui… –… ut quod homines carnalibus caecati curis uidere non possunt, saltim fidei conpendio nanciscantur. – Contuli ut potui cum omni solertia. Qui legis ora pro me.",
+    "explicit": "Contuli ut potui cum omni solertia. Qui legis ora pro me.",
+    "rubric": "Incipit tractatus sancti Agustini episcopi a semetipso ad semetipsum feliciter",
+    "title_work": [
+      {
+        "id": 47,
+        "value": "De unitate sanctae trinitatis"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "Explicit",
+    "siglum": "",
+    "hit_id": "hit_ms_items__37",
+    "filiation": [],
+    "locus_grp": "20v-23v",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "38": {
+    "id": 38,
+    "order": "31.00000000000000000000",
+    "label": [
+      {
+        "id": 10,
+        "value": "clm_6382__38"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "incipit": "Inter deum et dominum quid interest.",
+    "explicit": "Quod dona propriae(proprie!) diuina dicuntur … Hostiae … antequam ad hostes pergerent, unde ab hostando(!) dictae. Victimae uero sacrificia‖",
+    "rubric": "Interrogatio",
+    "title_work": [
+      {
+        "id": 43,
+        "value": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "Explicit feliciter",
+    "siglum": "",
+    "hit_id": "hit_ms_items__38",
+    "filiation": [],
+    "locus_grp": "23v-41r",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "39": {
+    "id": 39,
+    "order": "32.00000000000000000000",
+    "label": [
+      {
+        "id": 10,
+        "value": "clm_6382__39"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "incipit": "Symon qui interpretatur obędiens, Petrus agnoscens, filius Johannis, frater Andreę…",
+    "explicit": "Mathias … electus sorte et solus sine cognamento(!); cui datur euangelium(evangelii!) predicatio in Judea",
+    "rubric": "Incipit breuiarium apostolorum et nomina(lies: ex nomine) vel locis ubi predicauerunt, orti vel obiti sunt",
+    "title_work": [
+      {
+        "id": 45,
+        "value": "Breviarium apostolorum"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__39",
+    "filiation": [],
+    "locus_grp": "41v-42v",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "40": {
+    "id": 40,
+    "order": "33.00000000000000000000",
+    "label": [
+      {
+        "id": 10,
+        "value": "clm_6382__40"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "incipit": "Kalendae Januarii si fuerint dominico die hiems bona erit et uernus(= ver) uentuosus",
+    "explicit": "et auguria ad domus ignis periculum pacientur",
+    "rubric": "Incipit supputatio Esdrae",
+    "title_work": [
+      {
+        "id": 52,
+        "value": "Revelatio Esdrae de qualitatibus anni"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__40",
+    "filiation": [],
+    "locus_grp": "42v",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "41": {
+    "id": 41,
+    "order": "34.00000000000000000000",
+    "label": [
+      {
+        "id": 10,
+        "value": "clm_6382__41"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "incipit": "Vernus exoritur VIII. Kal. Martii permanens diebus XCI…",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 44,
+        "value": "De natura rerum"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__41",
+    "filiation": [],
+    "locus_grp": "42v",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "42": {
+    "id": 42,
+    "order": "35.00000000000000000000",
+    "label": [
+      {
+        "id": 10,
+        "value": "clm_6382__42"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "incipit": "Luna prima quicquid uideris in gaudium conuertitur nec in malum…",
+    "explicit": "Luna intra triduum huius ętatis lunaris somnium peritia est(im Sinn von expertum est?).",
+    "rubric": "Incipit de somni (aus somno korrigiert) veris et mendosis quidam incipiunt in aetatibus lunae exploratis",
+    "title_work": [
+      {
+        "id": 62,
+        "value": "De somnis"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "Somnialis hic finitur",
+    "siglum": "",
+    "hit_id": "hit_ms_items__42",
+    "filiation": [],
+    "locus_grp": "42v-43r",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "43": {
+    "id": 43,
+    "order": "36.00000000000000000000",
+    "label": [
+      {
+        "id": 10,
+        "value": "clm_6382__43"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 63,
+        "value": "Capitulare evangeliorum"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__43",
+    "filiation": [],
+    "locus_grp": "43v",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "44": {
+    "id": 44,
+    "order": "37.00000000000000000000",
+    "label": [
+      {
+        "id": 10,
+        "value": "clm_6382__44"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "incipit": "Denique cognoscat beniuolentia uestra quod quidam uir nomine Felix …",
+    "explicit": "ut istam noticiam aliis inantea non neglegatis transmittere.",
+    "rubric": "Erchanbertus dei gratia donante humilis episcopus omnibus fratribus Christo militantibus domino salutem",
+    "title_work": [
+      {
+        "id": 64,
+        "value": "Epistola de reliquiis sancti Bartholomaei apostoli nuper in Baioariam allatis"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__44",
+    "filiation": [],
+    "locus_grp": "44r",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "45": {
+    "id": 45,
+    "order": "38.00000000000000000000",
+    "label": [
+      {
+        "id": 10,
+        "value": "clm_6382__45"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "Liber moralium super Job",
+    "title_work": [
+      {
+        "id": 48,
+        "value": "Moralia in Job"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__45",
+    "filiation": [],
+    "locus_grp": "44r-44v",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "46": {
+    "id": 46,
+    "order": "39.00000000000000000000",
+    "label": [
+      {
+        "id": 10,
+        "value": "clm_6382__46"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "incipit": "Sancti uiri quo (aus quod korrigiert) apud deum…",
+    "explicit": "Deo domino donante atqve avxiliante moraliorum(!) libri nvmero XXXV expliciunt.",
+    "rubric": "Incipit moralivm liber tricisimus II(!). Lege feliciter",
+    "title_work": [
+      {
+        "id": 48,
+        "value": "Moralia in Job"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "Lege feliciter. Deo gratias.",
+    "siglum": "",
+    "hit_id": "hit_ms_items__46",
+    "filiation": [],
+    "locus_grp": "45ra-172rb",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "47": {
+    "id": 47,
+    "order": "40.00000000000000000000",
+    "label": [
+      {
+        "id": 11,
+        "value": "clm_6383__47"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383"
+      }
+    ],
+    "incipit": "Peritorum dicunt esse medicorum…",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 29,
+        "value": "Historia ecclesiastica cum Rufini continuatione"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "Finit liber XI. Sancta trinitas qui es unus deus te conlavdo. Deo gratia",
+    "siglum": "",
+    "hit_id": "hit_ms_items__47",
+    "filiation": [],
+    "locus_grp": "1r-151r",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "48": {
+    "id": 48,
+    "order": "41.00000000000000000000",
+    "label": [
+      {
+        "id": 12,
+        "value": "clm_6388__48"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 12,
+        "value": "BSB, Clm. 6388"
+      }
+    ],
+    "incipit": "",
+    "explicit": "… et non iam Romae sed in exilium ad quod destina‖[mus? …]",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 30,
+        "value": "Historia Ottonis"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__48",
+    "filiation": [],
+    "locus_grp": "1r-8r",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "49": {
+    "id": 49,
+    "order": "42.00000000000000000000",
+    "label": [
+      {
+        "id": 12,
+        "value": "clm_6388__49"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 12,
+        "value": "BSB, Clm. 6388"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "In nomine patris … incipit liber Antapodoseos(über der Zeile retributionis) Aνταποδόσεως regum atque principum partis Europae a Liudprando Ticinensis eclesia(!) diacone(!) en ti echmalosia autù(darüber in ar\\u-4085 ?[= articulus] peregrinatione euius[eius!]) ἔ ν τ ᾐ ἐ χμαλοσί ᾳ α ὐ το ῦ ad Recemundum Hispanie provintie Liberritanae ecclesię episcopum editus",
+    "title_work": [
+      {
+        "id": 31,
+        "value": "Antapodosis"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__49",
+    "filiation": [],
+    "locus_grp": "8v-85v",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "50": {
+    "id": 50,
+    "order": "43.00000000000000000000",
+    "label": [
+      {
+        "id": 12,
+        "value": "clm_6388__50"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 12,
+        "value": "BSB, Clm. 6388"
+      }
+    ],
+    "incipit": "",
+    "explicit": "‖ in quem suas iniurias … Marsana iuxta Mosam",
+    "rubric": "Incipit praefatio operis subsequentis chronicae uidelicet quam Regino quondam abbas Prumiensis composuit",
+    "title_work": [
+      {
+        "id": 32,
+        "value": "Chronica cum Adalberti continuatione"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__50",
+    "filiation": [],
+    "locus_grp": "86r-198r",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "51": {
+    "id": 51,
+    "order": "44.00000000000000000000",
+    "label": [
+      {
+        "id": 12,
+        "value": "clm_6388__51"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 12,
+        "value": "BSB, Clm. 6388"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 56,
+        "value": "Catalogus regum et imperatorum Frisingensis"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__51",
+    "filiation": [],
+    "locus_grp": "86v",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "52": {
+    "id": 52,
+    "order": "45.00000000000000000000",
+    "label": [
+      {
+        "id": 13,
+        "value": "clm_6391__52"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 13,
+        "value": "BSB, Clm. 6391"
+      }
+    ],
+    "incipit": "‖ ipsoque pauore premortuus se illuc ruiturum expectaret…",
+    "explicit": "multisque eum‖[ditatum … remisit]",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 33,
+        "value": "Historia Langobardorum"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__52",
+    "filiation": [],
+    "locus_grp": "1r-193v",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "53": {
+    "id": 53,
+    "order": "46.00000000000000000000",
+    "label": [
+      {
+        "id": 14,
+        "value": "clm_6392__53"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 14,
+        "value": "BSB, Clm. 6392"
+      }
+    ],
+    "incipit": "Populvs Romanus a rege Romulo…",
+    "explicit": "",
+    "rubric": "L. Annaei Flori epitoma de Tito Liuio",
+    "title_work": [
+      {
+        "id": 53,
+        "value": "Epitoma de Tito Livio"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__53",
+    "filiation": [],
+    "locus_grp": "1r-50v",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "54": {
+    "id": 54,
+    "order": "47.00000000000000000000",
+    "label": [
+      {
+        "id": 14,
+        "value": "clm_6392__54"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 14,
+        "value": "BSB, Clm. 6392"
+      }
+    ],
+    "incipit": "Aduentus Ęnee in Italiam et res gestę …",
+    "explicit": "… patrie restituti sunt.",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 54,
+        "value": "Periochae"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "Liber octauvs explicit",
+    "siglum": "",
+    "hit_id": "hit_ms_items__54",
+    "filiation": [],
+    "locus_grp": "50v-55r",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "55": {
+    "id": 55,
+    "order": "48.00000000000000000000",
+    "label": [
+      {
+        "id": 15,
+        "value": "clm_6393__55"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
+    "incipit": "Benedictus dominus qui uult…",
+    "explicit": "",
+    "rubric": "In nomine dei summi.",
+    "title_work": [
+      {
+        "id": 55,
+        "value": "Historia monachorum"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "Explicit liber sanctorvm",
+    "siglum": "",
+    "hit_id": "hit_ms_items__55",
+    "filiation": [],
+    "locus_grp": "1r-133r",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "56": {
+    "id": 56,
+    "order": "49.00000000000000000000",
+    "label": [
+      {
+        "id": 15,
+        "value": "clm_6393__56"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
+    "incipit": "In sanctis orationibus tuis memento mei decus ac dignitas uirginum, nonna Asella. Scripturus uitam…",
+    "explicit": "… obturata aure transibo. Opto, ut in Christo permaneas et memor in orationibus tuis sis mei, uirgo sacratissima",
+    "rubric": "Incipit uita sancti Hilarionis monachi",
+    "title_work": [
+      {
+        "id": 34,
+        "value": "Vita sancti Hilarionis"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "Explicit uita et acta cum mirabilibus…",
+    "siglum": "",
+    "hit_id": "hit_ms_items__56",
+    "filiation": [],
+    "locus_grp": "134r-176r",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "57": {
+    "id": 57,
+    "order": "50.00000000000000000000",
+    "label": [
+      {
+        "id": 15,
+        "value": "clm_6393__57"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "Incipit sancti Mal[c] hi captiui",
+    "title_work": [
+      {
+        "id": 35,
+        "value": "Vita sancti Malchi"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "Explicit uita uel captiuitas beati Malchi",
+    "siglum": "",
+    "hit_id": "hit_ms_items__57",
+    "filiation": [],
+    "locus_grp": "176r-188r",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "58": {
+    "id": 58,
+    "order": "51.00000000000000000000",
+    "label": [
+      {
+        "id": 15,
+        "value": "clm_6393__58"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "Incipit uita sancti Pauli",
+    "title_work": [
+      {
+        "id": 36,
+        "value": "Vita sancti Pauli"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "Explicit…",
+    "siglum": "",
+    "hit_id": "hit_ms_items__58",
+    "filiation": [],
+    "locus_grp": "188r-203r",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "59": {
+    "id": 59,
+    "order": "52.00000000000000000000",
+    "label": [
+      {
+        "id": 15,
+        "value": "clm_6393__59"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
+    "incipit": "",
+    "explicit": "… similis pecodum(!) eorum expraess[us est animus]",
+    "rubric": "Incipit uita sancti Antonii",
+    "title_work": [
+      {
+        "id": 37,
+        "value": "Vita beati Antonii abbatis, Euagrio interprete"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__59",
+    "filiation": [],
+    "locus_grp": "203r-276v",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "60": {
+    "id": 60,
+    "order": "53.00000000000000000000",
+    "label": [
+      {
+        "id": 17,
+        "value": "clm_1086__60"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 17,
+        "value": "BSB, Clm. 1086"
+      }
+    ],
+    "incipit": "Percepto (korrigiert aus precepto) pie paternitatis …",
+    "explicit": "… plebibus deuulgarunt.",
+    "rubric": "Dominis sanctis et uere in Christo caryssimis Lullo et Megingozo coepiscopis uuillibaldus licet indignus in domino presbyter.",
+    "title_work": [
+      {
+        "id": 38,
+        "value": "Vita sancti Bonifatii"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__60",
+    "filiation": [],
+    "locus_grp": "1r-44v",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "61": {
+    "id": 61,
+    "order": "54.00000000000000000000",
+    "label": [
+      {
+        "id": 17,
+        "value": "clm_1086__61"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 17,
+        "value": "BSB, Clm. 1086"
+      }
+    ],
+    "incipit": "O‹riginem uite exordiumque uirtutum beati Vuynnebaldi Christi confessoris atque abbatis ordinare edissereque me libet …",
+    "explicit": "… cuius miracula cottidie cunctis choruscant in cosmo cui est honor et imperium et potestas in secula seculorum.",
+    "rubric": "Incipit uita germanuum VVillibaldi et UUynnebaldi. Ad omnibus presbiteris seu diaconis et omnibus ecclesiastici regiminis proceribus",
+    "title_work": [
+      {
+        "id": 39,
+        "value": "Vita sancti Wunebaldi"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "Amen. Finit.",
+    "siglum": "",
+    "hit_id": "hit_ms_items__61",
+    "filiation": [],
+    "locus_grp": "44v-71v",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "62": {
+    "id": 62,
+    "order": "55.00000000000000000000",
+    "label": [
+      {
+        "id": 17,
+        "value": "clm_1086__62"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 17,
+        "value": "BSB, Clm. 1086"
+      }
+    ],
+    "incipit": "Uenerandis immoque in Christo carissimis omnibus sacerdotalis infule honore ditatis presbiteris …",
+    "explicit": "… qui secundum apostolum: Qui glorietur, in domino glorietur.",
+    "rubric": "Incipit prologus",
+    "title_work": [
+      {
+        "id": 40,
+        "value": "Vita sancti Willibaldi"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__62",
+    "filiation": [],
+    "locus_grp": "71v-102v",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "63": {
+    "id": 63,
+    "order": "56.00000000000000000000",
+    "label": [
+      {
+        "id": 19,
+        "value": "clm_6341__63"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 19,
+        "value": "BSB, Clm. 6341"
+      }
+    ],
+    "incipit": "Incipit prima prefatio apologiaque Adamnani abbatis sancti scriptoris",
+    "explicit": "",
+    "rubric": "V. Idus Junias celebratur depositio sancti Columbae presbyteri at[qu] e confessoris",
+    "title_work": [
+      {
+        "id": 49,
+        "value": "Vita sancti Columbae"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__63",
+    "filiation": [],
+    "locus_grp": "1v-50v",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "64": {
+    "id": 64,
+    "order": "57.00000000000000000000",
+    "label": [
+      {
+        "id": 19,
+        "value": "clm_6341__64"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 19,
+        "value": "BSB, Clm. 6341"
+      }
+    ],
+    "incipit": "Anno ducentesimo tricesimo tertio regnante uenerabili dei cultore magno uiro Constantino…",
+    "explicit": "",
+    "rubric": "Incipit relatio de inuentione sanctae crucis quod est V. Nonas Maias",
+    "title_work": [
+      {
+        "id": 65,
+        "value": "De inventione"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__64",
+    "filiation": [],
+    "locus_grp": "51r-56v",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "65": {
+    "id": 65,
+    "order": "58.00000000000000000000",
+    "label": [
+      {
+        "id": 19,
+        "value": "clm_6341__65"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 19,
+        "value": "BSB, Clm. 6341"
+      }
+    ],
+    "incipit": "Tempore illo postquam Constantino Augusto contra Maxentium tyrannum properante ad bellum…",
+    "explicit": "",
+    "rubric": "Incipit de exaltatione sanctae crucis quod est XVIII. Kal. Octobr..",
+    "title_work": [
+      {
+        "id": 66,
+        "value": "De exaltatione"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__65",
+    "filiation": [],
+    "locus_grp": "57r-60r",
+    "hands_role": [],
+    "cod_unit": []
+  },
+  "66": {
+    "id": 66,
+    "order": "59.00000000000000000000",
+    "label": [
+      {
+        "id": 19,
+        "value": "clm_6341__66"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 19,
+        "value": "BSB, Clm. 6341"
+      }
+    ],
+    "incipit": "[Exhortatione tua] Patrici rethorum peritissime quae…",
+    "explicit": "[Hinc dicit Cicero:] Talis etiam[concursio] fortuitarum rerum.",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 51,
+        "value": "Commentarii in Ciceronis Topica"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__66",
+    "filiation": [],
+    "locus_grp": "61v-139r",
     "hands_role": [],
     "cod_unit": []
   }

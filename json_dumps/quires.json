@@ -855,12 +855,12 @@
           "database_table_3487": 5,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6326, L. "
+        "value": "BSB, Clm. 6326, L. 1"
       }
     ],
     "hit_id": "hit_quire__6",
-    "number": "",
-    "locus": "-",
+    "number": "1",
+    "locus": "1r-8v",
     "library": [
       {
         "ids": {
@@ -870,8 +870,8 @@
         "value": "BSB"
       }
     ],
-    "locus_from": "",
-    "locus_to": "",
+    "locus_from": "1r",
+    "locus_to": "8v",
     "manuscript": [
       {
         "id": 5,
@@ -887,7 +887,7 @@
     "column": [],
     "note": "",
     "decoration": "",
-    "quire_structrure": "",
+    "quire_structrure": "IV",
     "correct_number": null,
     "height": null,
     "width": null,
@@ -903,12 +903,12 @@
           "database_table_3487": 5,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6326, L. 1"
+        "value": "BSB, Clm. 6326, L. 2"
       }
     ],
     "hit_id": "hit_quire__9",
-    "number": "1",
-    "locus": "-",
+    "number": "2",
+    "locus": "9r-16v",
     "library": [
       {
         "ids": {
@@ -918,8 +918,8 @@
         "value": "BSB"
       }
     ],
-    "locus_from": "",
-    "locus_to": "",
+    "locus_from": "9r",
+    "locus_to": "16v",
     "manuscript": [
       {
         "id": 5,
@@ -935,7 +935,7 @@
     "column": [],
     "note": "",
     "decoration": "",
-    "quire_structrure": "IV - 1",
+    "quire_structrure": "IV",
     "correct_number": null,
     "height": null,
     "width": null,
@@ -945,8 +945,728 @@
   "23": {
     "id": 23,
     "order": "22.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6326, L. 3"
+      }
+    ],
     "hit_id": "hit_quire__23",
+    "number": "3",
+    "locus": "17r-24v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
+    "locus_from": "17r",
+    "locus_to": "24v",
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "IV",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
+  },
+  "24": {
+    "id": 24,
+    "order": "23.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6326, L. 4"
+      }
+    ],
+    "hit_id": "hit_quire__24",
+    "number": "4",
+    "locus": "25r-32v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
+    "locus_from": "25r",
+    "locus_to": "32v",
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "IV",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
+  },
+  "25": {
+    "id": 25,
+    "order": "24.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6326, L. 5"
+      }
+    ],
+    "hit_id": "hit_quire__25",
+    "number": "5",
+    "locus": "33r-40v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
+    "locus_from": "33r",
+    "locus_to": "40v",
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "IV",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
+  },
+  "37": {
+    "id": 37,
+    "order": "24.50000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6326, L. 6"
+      }
+    ],
+    "hit_id": "hit_quire__37",
+    "number": "6",
+    "locus": "41r-48v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
+    "locus_from": "41r",
+    "locus_to": "48v",
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "IV",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
+  },
+  "26": {
+    "id": 26,
+    "order": "25.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6326, L. 7"
+      }
+    ],
+    "hit_id": "hit_quire__26",
+    "number": "7",
+    "locus": "49r-56v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
+    "locus_from": "49r",
+    "locus_to": "56v",
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "IV",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
+  },
+  "27": {
+    "id": 27,
+    "order": "26.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6326, L. 8"
+      }
+    ],
+    "hit_id": "hit_quire__27",
+    "number": "8",
+    "locus": "57r-64v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
+    "locus_from": "57r",
+    "locus_to": "64v",
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "IV",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
+  },
+  "28": {
+    "id": 28,
+    "order": "27.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6326, L. 9"
+      }
+    ],
+    "hit_id": "hit_quire__28",
+    "number": "9",
+    "locus": "65r-72v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
+    "locus_from": "65r",
+    "locus_to": "72v",
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "IV",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
+  },
+  "29": {
+    "id": 29,
+    "order": "28.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6326, L. 10"
+      }
+    ],
+    "hit_id": "hit_quire__29",
+    "number": "10",
+    "locus": "73r-80v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
+    "locus_from": "73r",
+    "locus_to": "80v",
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "IV",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
+  },
+  "30": {
+    "id": 30,
+    "order": "29.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6326, L. 11"
+      }
+    ],
+    "hit_id": "hit_quire__30",
+    "number": "11",
+    "locus": "81r-88v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
+    "locus_from": "81r",
+    "locus_to": "88v",
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "IV",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
+  },
+  "31": {
+    "id": 31,
+    "order": "30.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6326, L. 12"
+      }
+    ],
+    "hit_id": "hit_quire__31",
+    "number": "12",
+    "locus": "89r-96v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
+    "locus_from": "89r",
+    "locus_to": "96v",
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "IV",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
+  },
+  "32": {
+    "id": 32,
+    "order": "31.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6326, L. 13"
+      }
+    ],
+    "hit_id": "hit_quire__32",
+    "number": "13",
+    "locus": "97r-104v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
+    "locus_from": "97r",
+    "locus_to": "104v",
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "IV",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
+  },
+  "33": {
+    "id": 33,
+    "order": "32.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6326, L. 14"
+      }
+    ],
+    "hit_id": "hit_quire__33",
+    "number": "14",
+    "locus": "105r-112v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
+    "locus_from": "105r",
+    "locus_to": "112v",
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "IV",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
+  },
+  "34": {
+    "id": 34,
+    "order": "33.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6326, L. 15"
+      }
+    ],
+    "hit_id": "hit_quire__34",
+    "number": "15",
+    "locus": "113r-120v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
+    "locus_from": "113r",
+    "locus_to": "120v",
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "IV",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
+  },
+  "35": {
+    "id": 35,
+    "order": "34.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6326, L. 16"
+      }
+    ],
+    "hit_id": "hit_quire__35",
+    "number": "16",
+    "locus": "121r-127v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
+    "locus_from": "121r",
+    "locus_to": "127v",
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "IV",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
+  },
+  "36": {
+    "id": 36,
+    "order": "35.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6326, L. 17"
+      }
+    ],
+    "hit_id": "hit_quire__36",
+    "number": "17",
+    "locus": "128r-134v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
+    "locus_from": "128r",
+    "locus_to": "134v",
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "IV-1",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": []
+  },
+  "38": {
+    "id": 38,
+    "order": "36.00000000000000000000",
+    "label": [],
+    "hit_id": "hit_quire__38",
     "number": "",
     "locus": "-",
     "library": [],

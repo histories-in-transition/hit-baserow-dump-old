@@ -60,11 +60,11 @@
     "hit_id": "hit_hands_dated__4",
     "authority": [
       {
-        "id": 4,
-        "value": "Bierbauer"
+        "id": 2,
+        "value": "Bischoff"
       }
     ],
-    "page": "",
+    "page": "133-134",
     "dated": [
       {
         "id": 7,
@@ -83,10 +83,115 @@
     "id": 5,
     "order": "5.00000000000000000000",
     "hit_id": "hit_hands_dated__5",
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ],
+    "page": "134",
+    "dated": [
+      {
+        "id": 23,
+        "value": "821-828"
+      }
+    ],
+    "hand": [
+      {
+        "id": 5,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
+      }
+    ],
+    "new_dating": false
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "hit_id": "hit_hands_dated__6",
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ],
+    "page": "134",
+    "dated": [
+      {
+        "id": 23,
+        "value": "821-828"
+      }
+    ],
+    "hand": [
+      {
+        "id": 15,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 6"
+      }
+    ],
+    "new_dating": false
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "hit_id": "hit_hands_dated__7",
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ],
+    "page": "134",
+    "dated": [
+      {
+        "id": 24,
+        "value": "nach 821"
+      }
+    ],
+    "hand": [
+      {
+        "id": 13,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 4"
+      }
+    ],
+    "new_dating": true
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "hit_id": "hit_hands_dated__8",
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ],
+    "page": "134",
+    "dated": [
+      {
+        "id": 25,
+        "value": "vor 828"
+      }
+    ],
+    "hand": [
+      {
+        "id": 14,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 5"
+      }
+    ],
+    "new_dating": true
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "hit_id": "hit_hands_dated__9",
     "authority": [],
     "page": "",
     "dated": [],
-    "hand": [],
+    "hand": [
+      {
+        "id": 16,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 7"
+      }
+    ],
     "new_dating": false
   }
 }

@@ -27,7 +27,8 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46"
       }
     ],
-    "number": "1"
+    "number": "1",
+    "notes": null
   },
   "12": {
     "id": 12,
@@ -52,7 +53,8 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46"
       }
     ],
-    "number": "2"
+    "number": "2",
+    "notes": null
   },
   "5": {
     "id": 5,
@@ -82,6 +84,111 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46"
       }
     ],
-    "number": "3"
+    "number": "3",
+    "notes": null
+  },
+  "13": {
+    "id": 13,
+    "order": "12.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 4"
+      }
+    ],
+    "description": "\"Neue Kalligraphie\" unter Adalram",
+    "scribe": [],
+    "hit_id": "hit_hands__13",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "number": "4",
+    "notes": null
+  },
+  "14": {
+    "id": 14,
+    "order": "13.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 5"
+      }
+    ],
+    "description": "Lothar-Zeit",
+    "scribe": [],
+    "hit_id": "hit_hands__14",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "number": "5",
+    "notes": "Laut Bischoff 2 verschiedene Hände"
+  },
+  "15": {
+    "id": 15,
+    "order": "14.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 6"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__15",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "number": "6",
+    "notes": "PLATZHALTER: Schreibergruppe, verschiedene Hände"
+  },
+  "16": {
+    "id": 16,
+    "order": "15.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 7"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__16",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "number": "7",
+    "notes": "Korrektur (Saint-Amand)"
   }
 }

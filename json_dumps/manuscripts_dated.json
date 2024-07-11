@@ -49,10 +49,20 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46"
       }
     ],
-    "date": [],
-    "authority": [],
-    "page": "",
-    "preferred_date": false
+    "date": [
+      {
+        "id": 7,
+        "value": "9 J., erstes Viertel"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ],
+    "page": "133-134",
+    "preferred_date": true
   },
   "4": {
     "id": 4,
@@ -153,5 +163,45 @@
     ],
     "page": "152",
     "preferred_date": false
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "hit_id": "hit_dated__8",
+    "manuscript": [
+      {
+        "id": 6,
+        "value": "BSB, Clm. 6308"
+      }
+    ],
+    "date": [],
+    "authority": [],
+    "page": "",
+    "preferred_date": false
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "hit_id": "hit_dated__9",
+    "manuscript": [
+      {
+        "id": 22,
+        "value": "ÖNB, Cod. 366"
+      }
+    ],
+    "date": [
+      {
+        "id": 22,
+        "value": "780-800"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ],
+    "page": "86-87",
+    "preferred_date": true
   }
 }

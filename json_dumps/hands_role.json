@@ -293,5 +293,45 @@
         "value": "11v-16v"
       }
     ]
+  },
+  "12": {
+    "id": 12,
+    "order": "6.00000000000000000000",
+    "hit_id": "hit_hands_role__12",
+    "hand": [
+      {
+        "id": 16,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 7"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 11,
+        "value": "cod_m_p_th_f_46__11"
+      }
+    ],
+    "role": [
+      {
+        "id": 14760,
+        "value": "corrector",
+        "color": "darker-blue"
+      }
+    ],
+    "locus": "98v",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 7,
+          "database_table_3491": 11
+        },
+        "value": "De temporum ratione"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 11,
+        "value": "98r-144v"
+      }
+    ]
   }
 }

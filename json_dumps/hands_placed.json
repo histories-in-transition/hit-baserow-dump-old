@@ -9,8 +9,13 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
       }
     ],
-    "authority": [],
-    "page": "",
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ],
+    "page": "134",
     "place": [
       {
         "id": 3,
@@ -22,10 +27,29 @@
     "id": 2,
     "order": "2.00000000000000000000",
     "hit_id": "hit_hands_placed__2",
-    "hand": [],
-    "authority": [],
-    "page": null,
-    "place": []
+    "hand": [
+      {
+        "id": 13,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 4"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ],
+    "page": "134",
+    "place": [
+      {
+        "id": 3,
+        "value": "Salzburg"
+      },
+      {
+        "id": 5,
+        "value": "Saint-Amand"
+      }
+    ]
   },
   "3": {
     "id": 3,
@@ -51,8 +75,85 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46_H. 2"
       }
     ],
-    "authority": [],
-    "page": "",
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ],
+    "page": "133-134",
+    "place": [
+      {
+        "id": 5,
+        "value": "Saint-Amand"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "hit_id": "hit_hands_placed__5",
+    "hand": [
+      {
+        "id": 14,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 5"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ],
+    "page": "134",
+    "place": [
+      {
+        "id": 5,
+        "value": "Saint-Amand"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "hit_id": "hit_hands_placed__6",
+    "hand": [
+      {
+        "id": 15,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 6"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ],
+    "page": "134",
+    "place": [
+      {
+        "id": 3,
+        "value": "Salzburg"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "hit_id": "hit_hands_placed__7",
+    "hand": [
+      {
+        "id": 16,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 7"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ],
+    "page": "134",
     "place": [
       {
         "id": 5,

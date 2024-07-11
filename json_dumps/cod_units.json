@@ -248,13 +248,31 @@
   "10": {
     "id": 10,
     "order": "10.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6326, cod. unit 1"
+      }
+    ],
     "notes": "",
     "hit_id": "hit_cod_unit__10",
-    "locus": "",
-    "manuscript": [],
+    "locus": "1r-134v",
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
     "quire": [],
-    "number": null,
-    "prov_place": []
+    "number": "1",
+    "prov_place": [
+      {
+        "id": 4,
+        "value": "Freising"
+      }
+    ]
   }
 }

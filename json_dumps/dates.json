@@ -150,5 +150,53 @@
     "not_before": null,
     "hit_id": "hit_date__19",
     "not_after": "0850-12-31"
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "label": "14-15 J.",
+    "not_before": "1300-01-01",
+    "hit_id": "hit_date__20",
+    "not_after": "1500-12-31"
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "label": "um 1433",
+    "not_before": "1433-01-01",
+    "hit_id": "hit_date__21",
+    "not_after": "1433-12-31"
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "label": "780-800",
+    "not_before": "0780-01-01",
+    "hit_id": "hit_date__22",
+    "not_after": "0800-12-31"
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "label": "821-828",
+    "not_before": "0821-01-01",
+    "hit_id": "hit_date__23",
+    "not_after": "0828-12-31"
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "label": "nach 821",
+    "not_before": "0821-01-01",
+    "hit_id": "hit_date__24",
+    "not_after": null
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "label": "vor 828",
+    "not_before": "0828-01-01",
+    "hit_id": "hit_date__25",
+    "not_after": null
   }
 }

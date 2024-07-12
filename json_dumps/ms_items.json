@@ -1,89 +1,4 @@
 {
-  "1": {
-    "id": 1,
-    "order": "1.00000000000000000000",
-    "label": [
-      {
-        "id": 1,
-        "value": "cod_387__1"
-      }
-    ],
-    "manuscript": [
-      {
-        "id": 1,
-        "value": "ÖNB, Cod. 387"
-      }
-    ],
-    "incipit": null,
-    "explicit": null,
-    "rubric": null,
-    "title_work": [
-      {
-        "id": 1,
-        "value": "De temporibus"
-      }
-    ],
-    "title_note": "",
-    "bibl": [],
-    "final_rubric": null,
-    "siglum": "",
-    "hit_id": "hit_ms_items__1",
-    "filiation": [],
-    "locus_grp": null,
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-06-24"
-  },
-  "3": {
-    "id": 3,
-    "order": "2.00000000000000000000",
-    "label": [
-      {
-        "id": 5,
-        "value": "clm_6326__3"
-      }
-    ],
-    "manuscript": [
-      {
-        "id": 5,
-        "value": "BSB, Clm. 6326"
-      }
-    ],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [],
-    "title_note": "",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__3",
-    "filiation": [],
-    "locus_grp": null,
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-06-17"
-  },
-  "4": {
-    "id": 4,
-    "order": "3.00000000000000000000",
-    "label": [],
-    "manuscript": [],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [],
-    "title_note": "",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__4",
-    "filiation": [],
-    "locus_grp": null,
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-06-12"
-  },
   "6": {
     "id": 6,
     "order": "3.50000000000000000000",
@@ -127,7 +42,70 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
       }
     ],
-    "Last modified": "2024-07-03"
+    "Last modified": "2024-07-03",
+    "Created on": "2024-06-17",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "68": {
+    "id": 68,
+    "order": "3.60000000000000008882",
+    "label": [
+      {
+        "id": 2,
+        "value": "cod_m_p_th_f_46__68"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "incipit": "[...] unius anni cum regnare coepisset",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 67,
+        "value": "Bibelauszug"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__68",
+    "filiation": [],
+    "locus_grp": "1r",
+    "hands_role": [
+      {
+        "id": 14,
+        "value": "hit_hands_role__14"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 3,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-11",
+    "Created on": "2024-07-11",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
   },
   "10": {
     "id": 10,
@@ -159,7 +137,7 @@
     "siglum": "",
     "hit_id": "hit_ms_items__10",
     "filiation": [],
-    "locus_grp": "1r-2r",
+    "locus_grp": "1v-2r",
     "hands_role": [
       {
         "id": 6,
@@ -172,7 +150,16 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
       }
     ],
-    "Last modified": "2024-07-03"
+    "Last modified": "2024-07-11",
+    "Created on": "2024-06-19",
+    "Created by": {
+      "id": 3,
+      "name": "Peter Andorfer"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
   },
   "5": {
     "id": 5,
@@ -217,6 +204,10 @@
       {
         "id": 10,
         "value": "hit_hands_role__10"
+      },
+      {
+        "id": 17,
+        "value": "hit_hands_role__17"
       }
     ],
     "cod_unit": [
@@ -225,7 +216,16 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
       }
     ],
-    "Last modified": "2024-07-03"
+    "Last modified": "2024-07-03",
+    "Created on": "2024-06-17",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
   },
   "12": {
     "id": 12,
@@ -262,6 +262,10 @@
       {
         "id": 11,
         "value": "hit_hands_role__11"
+      },
+      {
+        "id": 16,
+        "value": "hit_hands_role__16"
       }
     ],
     "cod_unit": [
@@ -270,7 +274,16 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
       }
     ],
-    "Last modified": "2024-07-03"
+    "Last modified": "2024-07-03",
+    "Created on": "2024-07-03",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
   },
   "7": {
     "id": 7,
@@ -303,14 +316,28 @@
     "hit_id": "hit_ms_items__7",
     "filiation": [],
     "locus_grp": "21v-22r",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 24,
+        "value": "hit_hands_role__24"
+      }
+    ],
     "cod_unit": [
       {
         "id": 3,
         "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
       }
     ],
-    "Last modified": "2024-07-03"
+    "Last modified": "2024-07-03",
+    "Created on": "2024-06-17",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
   },
   "13": {
     "id": 13,
@@ -355,7 +382,16 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
       }
     ],
-    "Last modified": "2024-07-03"
+    "Last modified": "2024-07-03",
+    "Created on": "2024-07-03",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
   },
   "8": {
     "id": 8,
@@ -388,14 +424,36 @@
     "hit_id": "hit_ms_items__8",
     "filiation": [],
     "locus_grp": "23r-97v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 18,
+        "value": "hit_hands_role__18"
+      },
+      {
+        "id": 19,
+        "value": "hit_hands_role__19"
+      },
+      {
+        "id": 20,
+        "value": "hit_hands_role__20"
+      }
+    ],
     "cod_unit": [
       {
         "id": 3,
         "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
       }
     ],
-    "Last modified": "2024-07-03"
+    "Last modified": "2024-07-03",
+    "Created on": "2024-06-17",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
   },
   "11": {
     "id": 11,
@@ -430,12 +488,16 @@
     "locus_grp": "98r-144v",
     "hands_role": [
       {
-        "id": 5,
-        "value": "hit_hands_role__5"
-      },
-      {
         "id": 12,
         "value": "hit_hands_role__12"
+      },
+      {
+        "id": 15,
+        "value": "hit_hands_role__15"
+      },
+      {
+        "id": 22,
+        "value": "hit_hands_role__22"
       }
     ],
     "cod_unit": [
@@ -444,7 +506,16 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 2"
       }
     ],
-    "Last modified": "2024-07-03"
+    "Last modified": "2024-07-03",
+    "Created on": "2024-07-03",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
   },
   "14": {
     "id": 14,
@@ -464,7 +535,12 @@
     "incipit": "",
     "explicit": "",
     "rubric": "",
-    "title_work": [],
+    "title_work": [
+      {
+        "id": 68,
+        "value": "Nachträge"
+      }
+    ],
     "title_note": "PLATZHALTER: Nachträge: Responsorien, Versikel, Antiphonen der Quadragesimalzeit, z.T. mit Neumen (11. Jh.).",
     "bibl": [],
     "final_rubric": "",
@@ -474,7 +550,16 @@
     "locus_grp": "145r",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-03"
+    "Last modified": "2024-07-11",
+    "Created on": "2024-07-03",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
   },
   "15": {
     "id": 15,
@@ -509,27 +594,212 @@
     "locus_grp": "145r-146r",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-04"
+    "Last modified": "2024-07-04",
+    "Created on": "2024-07-03",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
   },
-  "16": {
-    "id": 16,
+  "72": {
+    "id": 72,
     "order": "10.00000000000000000000",
-    "label": [],
-    "manuscript": [],
+    "label": [
+      {
+        "id": 2,
+        "value": "cod_m_p_th_f_46__72"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
     "incipit": "",
     "explicit": "",
     "rubric": "",
-    "title_work": [],
+    "title_work": [
+      {
+        "id": 69,
+        "value": "Ephemeris"
+      }
+    ],
+    "title_note": "Auszug",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__72",
+    "filiation": [],
+    "locus_grp": "146r-147r",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-07-11",
+    "Created on": "2024-07-11",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "73": {
+    "id": 73,
+    "order": "10.33333333333333392545",
+    "label": [
+      {
+        "id": 2,
+        "value": "cod_m_p_th_f_46__73"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "Quota sit luna in kalendis per circulum decemnovenalem",
+    "title_work": [
+      {
+        "id": 70,
+        "value": "Tabelle mit Loca embolismorum und Concordia maris et lunae"
+      }
+    ],
+    "title_note": "TBD wohl aufteilen",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__73",
+    "filiation": [],
+    "locus_grp": "147v-148v",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-07-11",
+    "Created on": "2024-07-11",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "75": {
+    "id": 75,
+    "order": "10.50000000000000000000",
+    "label": [
+      {
+        "id": 2,
+        "value": "cod_m_p_th_f_46__75"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "incipit": "Auditum, fratres karissimi, et divulgatum est per multa loca.",
+    "explicit": "et coepiscopis nostris inponam",
+    "rubric": "Sacramentum, quod Leo papa iuravit",
+    "title_work": [
+      {
+        "id": 71,
+        "value": "Eidesformel Papst Leos III."
+      }
+    ],
     "title_note": "",
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
-    "hit_id": "hit_ms_items__16",
+    "hit_id": "hit_ms_items__75",
     "filiation": [],
-    "locus_grp": "",
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-07-04"
+    "locus_grp": "149r",
+    "hands_role": [
+      {
+        "id": 21,
+        "value": "hit_hands_role__21"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 11,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 3"
+      }
+    ],
+    "Last modified": "2024-07-11",
+    "Created on": "2024-07-11",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "77": {
+    "id": 77,
+    "order": "10.66666666666666607455",
+    "label": [
+      {
+        "id": 2,
+        "value": "cod_m_p_th_f_46__77"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "incipit": "Asia ab oriente",
+    "explicit": "margaritas uniones  pullulat",
+    "rubric": "De globo mundi et coniecture orbis versus",
+    "title_work": [
+      {
+        "id": 72,
+        "value": "De globo mundi et coniecture orbis versus"
+      }
+    ],
+    "title_note": "Str. 1-7",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__77",
+    "filiation": [],
+    "locus_grp": "149v",
+    "hands_role": [
+      {
+        "id": 23,
+        "value": "hit_hands_role__23"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 11,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 3"
+      }
+    ],
+    "Last modified": "2024-07-11",
+    "Created on": "2024-07-11",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
   },
   "17": {
     "id": 17,
@@ -564,7 +834,16 @@
     "locus_grp": "1r-149r",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-08"
+    "Last modified": "2024-07-08",
+    "Created on": "2024-07-08",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "18": {
     "id": 18,
@@ -598,8 +877,22 @@
     "filiation": [],
     "locus_grp": "1r-32r",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "cod_unit": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6326, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-11",
+    "Created on": "2024-07-08",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "19": {
     "id": 19,
@@ -633,8 +926,22 @@
     "filiation": [],
     "locus_grp": "32v-45r",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "cod_unit": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6326, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-11",
+    "Created on": "2024-07-08",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "20": {
     "id": 20,
@@ -668,8 +975,22 @@
     "filiation": [],
     "locus_grp": "45v-117v",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "cod_unit": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6326, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-11",
+    "Created on": "2024-07-08",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "21": {
     "id": 21,
@@ -703,8 +1024,22 @@
     "filiation": [],
     "locus_grp": "117v-122r",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "cod_unit": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6326, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-11",
+    "Created on": "2024-07-08",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "22": {
     "id": 22,
@@ -726,8 +1061,8 @@
     "rubric": "Incipit uita sancti ac beatissimi Prictii episcopi et confessoris",
     "title_work": [
       {
-        "id": 61,
-        "value": "Vita sancti Briccii"
+        "id": 74,
+        "value": "Vita sancti Bricii"
       }
     ],
     "title_note": "",
@@ -738,8 +1073,22 @@
     "filiation": [],
     "locus_grp": "122r-125r",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "cod_unit": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6326, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-11",
+    "Created on": "2024-07-08",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "23": {
     "id": 23,
@@ -773,8 +1122,71 @@
     "filiation": [],
     "locus_grp": "125r-129r",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "cod_unit": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6326, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-11",
+    "Created on": "2024-07-08",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
+  },
+  "79": {
+    "id": 79,
+    "order": "17.50000000000000000000",
+    "label": [
+      {
+        "id": 5,
+        "value": "clm_6326__79"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "incipit": "Basilica sancti Martini abest e civitate passos quingentos",
+    "explicit": "..patrocinia eius promereberis. Lege, ut credas; crede, ut uiuas in aeternum",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 22,
+        "value": "De basilica sancti Martini et sollemnitatibus"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__79",
+    "filiation": [],
+    "locus_grp": "129v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6326, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-11",
+    "Created on": "2024-07-11",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "24": {
     "id": 24,
@@ -792,7 +1204,7 @@
       }
     ],
     "incipit": "Clemens trinitas est una diuinitas, ut autem per sacramentum cognoscatur…",
-    "explicit": "",
+    "explicit": "Pater in filio, filius in patre in sancto spiritu in sancta aecclesia, nunc et inmortalia saecula saeculorum. Amen.",
     "rubric": "Item incipit liber sancti Martini de sancta trinitate",
     "title_work": [
       {
@@ -808,8 +1220,22 @@
     "filiation": [],
     "locus_grp": "129rv-130v",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "cod_unit": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6326, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-11",
+    "Created on": "2024-07-08",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "25": {
     "id": 25,
@@ -843,8 +1269,22 @@
     "filiation": [],
     "locus_grp": "130v-133r",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "cod_unit": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6326, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-11",
+    "Created on": "2024-07-08",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "26": {
     "id": 26,
@@ -879,7 +1319,16 @@
     "locus_grp": "1r",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-08",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "27": {
     "id": 27,
@@ -914,7 +1363,16 @@
     "locus_grp": "1v-2v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-08",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "28": {
     "id": 28,
@@ -949,7 +1407,16 @@
     "locus_grp": "2v-227r",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-08",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "29": {
     "id": 29,
@@ -984,7 +1451,16 @@
     "locus_grp": "227v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-08",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "30": {
     "id": 30,
@@ -1019,7 +1495,16 @@
     "locus_grp": "Iv-213r",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-08",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "31": {
     "id": 31,
@@ -1054,7 +1539,16 @@
     "locus_grp": "1r-102r",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-08",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "32": {
     "id": 32,
@@ -1089,7 +1583,16 @@
     "locus_grp": "102v-103r",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "33": {
     "id": 33,
@@ -1124,7 +1627,16 @@
     "locus_grp": "1v-250v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "34": {
     "id": 34,
@@ -1159,7 +1671,16 @@
     "locus_grp": "1r-7r",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "35": {
     "id": 35,
@@ -1194,7 +1715,16 @@
     "locus_grp": "7r-9v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "36": {
     "id": 36,
@@ -1229,7 +1759,16 @@
     "locus_grp": "10r-20v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "37": {
     "id": 37,
@@ -1264,7 +1803,16 @@
     "locus_grp": "20v-23v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "38": {
     "id": 38,
@@ -1299,7 +1847,16 @@
     "locus_grp": "23v-41r",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "39": {
     "id": 39,
@@ -1334,7 +1891,16 @@
     "locus_grp": "41v-42v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "40": {
     "id": 40,
@@ -1369,7 +1935,16 @@
     "locus_grp": "42v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "41": {
     "id": 41,
@@ -1404,7 +1979,16 @@
     "locus_grp": "42v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "42": {
     "id": 42,
@@ -1439,7 +2023,16 @@
     "locus_grp": "42v-43r",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-10"
+    "Last modified": "2024-07-10",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "43": {
     "id": 43,
@@ -1474,7 +2067,16 @@
     "locus_grp": "43v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "44": {
     "id": 44,
@@ -1509,7 +2111,16 @@
     "locus_grp": "44r",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "45": {
     "id": 45,
@@ -1544,7 +2155,16 @@
     "locus_grp": "44r-44v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "46": {
     "id": 46,
@@ -1579,7 +2199,16 @@
     "locus_grp": "45ra-172rb",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "47": {
     "id": 47,
@@ -1614,7 +2243,16 @@
     "locus_grp": "1r-151r",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "48": {
     "id": 48,
@@ -1649,7 +2287,16 @@
     "locus_grp": "1r-8r",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "49": {
     "id": 49,
@@ -1684,7 +2331,16 @@
     "locus_grp": "8v-85v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "50": {
     "id": 50,
@@ -1719,7 +2375,16 @@
     "locus_grp": "86r-198r",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "51": {
     "id": 51,
@@ -1754,7 +2419,16 @@
     "locus_grp": "86v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "52": {
     "id": 52,
@@ -1789,7 +2463,16 @@
     "locus_grp": "1r-193v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "53": {
     "id": 53,
@@ -1824,7 +2507,16 @@
     "locus_grp": "1r-50v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "54": {
     "id": 54,
@@ -1859,7 +2551,16 @@
     "locus_grp": "50v-55r",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "55": {
     "id": 55,
@@ -1894,7 +2595,16 @@
     "locus_grp": "1r-133r",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "56": {
     "id": 56,
@@ -1929,7 +2639,16 @@
     "locus_grp": "134r-176r",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "57": {
     "id": 57,
@@ -1964,7 +2683,16 @@
     "locus_grp": "176r-188r",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "58": {
     "id": 58,
@@ -1999,7 +2727,16 @@
     "locus_grp": "188r-203r",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "59": {
     "id": 59,
@@ -2034,7 +2771,16 @@
     "locus_grp": "203r-276v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "60": {
     "id": 60,
@@ -2069,7 +2815,16 @@
     "locus_grp": "1r-44v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "61": {
     "id": 61,
@@ -2086,7 +2841,7 @@
         "value": "BSB, Clm. 1086"
       }
     ],
-    "incipit": "O‹riginem uite exordiumque uirtutum beati Vuynnebaldi Christi confessoris atque abbatis ordinare edissereque me libet …",
+    "incipit": "Originem uite exordiumque uirtutum beati Vuynnebaldi Christi confessoris atque abbatis ordinare edissereque me libet …",
     "explicit": "… cuius miracula cottidie cunctis choruscant in cosmo cui est honor et imperium et potestas in secula seculorum.",
     "rubric": "Incipit uita germanuum VVillibaldi et UUynnebaldi. Ad omnibus presbiteris seu diaconis et omnibus ecclesiastici regiminis proceribus",
     "title_work": [
@@ -2104,7 +2859,16 @@
     "locus_grp": "44v-71v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-11",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    }
   },
   "62": {
     "id": 62,
@@ -2139,7 +2903,16 @@
     "locus_grp": "71v-102v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "63": {
     "id": 63,
@@ -2174,7 +2947,16 @@
     "locus_grp": "1v-50v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "64": {
     "id": 64,
@@ -2209,7 +2991,16 @@
     "locus_grp": "51r-56v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "65": {
     "id": 65,
@@ -2244,7 +3035,16 @@
     "locus_grp": "57r-60r",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "66": {
     "id": 66,
@@ -2279,7 +3079,16 @@
     "locus_grp": "61v-139r",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "Created on": "2024-07-09",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   },
   "67": {
     "id": 67,
@@ -2299,6 +3108,175 @@
     "locus_grp": "",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-10"
+    "Last modified": "2024-07-10",
+    "Created on": "2024-07-10",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
+  },
+  "69": {
+    "id": 69,
+    "order": "62.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__69",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-07-11",
+    "Created on": "2024-07-11",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "70": {
+    "id": 70,
+    "order": "63.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__70",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-07-11",
+    "Created on": "2024-07-11",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "71": {
+    "id": 71,
+    "order": "64.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__71",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-07-11",
+    "Created on": "2024-07-11",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "74": {
+    "id": 74,
+    "order": "67.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__74",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-07-11",
+    "Created on": "2024-07-11",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "76": {
+    "id": 76,
+    "order": "69.00000000000000000000",
+    "label": [
+      {
+        "id": 5,
+        "value": "clm_6326__76"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__76",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6326, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-11",
+    "Created on": "2024-07-11",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   }
 }

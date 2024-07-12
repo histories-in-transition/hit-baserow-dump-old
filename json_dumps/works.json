@@ -6,11 +6,26 @@
     "gnd_url": "https://d-nb.info/gnd/7745328-1",
     "note": "",
     "hit_id": "hit_works__1",
-    "author": [],
+    "author": [
+      {
+        "id": 1,
+        "value": "Beda, Heiliger"
+      }
+    ],
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": null
+    "note_source": null,
+    "Created by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Created on": "2024-06-05",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-07-11"
   },
   "3": {
     "id": 3,
@@ -28,7 +43,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": null
+    "note_source": null,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-06-17",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-06-17"
   },
   "4": {
     "id": 4,
@@ -46,7 +71,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": null
+    "note_source": null,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-06-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-06-17"
   },
   "5": {
     "id": 5,
@@ -59,7 +94,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": null
+    "note_source": null,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-06-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-06-17"
   },
   "6": {
     "id": 6,
@@ -72,7 +117,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": null
+    "note_source": null,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-06-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-06-17"
   },
   "7": {
     "id": 7,
@@ -90,7 +145,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": null
+    "note_source": null,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-06-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-06-17"
   },
   "8": {
     "id": 8,
@@ -108,7 +173,17 @@
       }
     ],
     "genre": [],
-    "note_source": "Lib. 2"
+    "note_source": "Lib. 2",
+    "Created by": {
+      "id": 3,
+      "name": "Peter Andorfer"
+    },
+    "Created on": "2024-06-19",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-06-24"
   },
   "11": {
     "id": 11,
@@ -128,10 +203,20 @@
     "genre": [
       {
         "id": 4,
-        "value": "Historiographie (Chronik)"
+        "value": "Chronik"
       }
     ],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-01",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-02"
   },
   "13": {
     "id": 13,
@@ -146,10 +231,20 @@
     "genre": [
       {
         "id": 3,
-        "value": "Historiographie (Annalen)"
+        "value": "Annalen"
       }
     ],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-03"
   },
   "14": {
     "id": 14,
@@ -164,10 +259,20 @@
     "genre": [
       {
         "id": 3,
-        "value": "Historiographie (Annalen)"
+        "value": "Annalen"
       }
     ],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-03"
   },
   "15": {
     "id": 15,
@@ -180,7 +285,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-03"
   },
   "16": {
     "id": 16,
@@ -193,7 +308,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-04"
   },
   "17": {
     "id": 17,
@@ -216,7 +341,17 @@
         "value": "Vita"
       }
     ],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "18": {
     "id": 18,
@@ -234,7 +369,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "19": {
     "id": 19,
@@ -252,13 +397,23 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "20": {
     "id": 20,
     "order": "19.00000000000000000000",
-    "title": "Liber historiae Francorum",
-    "gnd_url": "https://d-nb.info/gnd/4227883-1",
+    "title": "Miracula sancti Martini",
+    "gnd_url": "https://portal.dnb.de/opac/showFullRecord?currentResultId=Gregor+and+Tours%26any&currentPosition=6",
     "note": "",
     "hit_id": "hit_works__20",
     "author": [
@@ -268,14 +423,29 @@
       }
     ],
     "bibliography": [],
-    "source_text": [],
-    "genre": [
+    "source_text": [
       {
-        "id": 4,
-        "value": "Historiographie (Chronik)"
+        "id": 73,
+        "value": "Historiae Francorum libri decem"
       }
     ],
-    "note_source": ""
+    "genre": [
+      {
+        "id": 2,
+        "value": "Miracula"
+      }
+    ],
+    "note_source": "I, 48",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-11"
   },
   "21": {
     "id": 21,
@@ -284,11 +454,31 @@
     "gnd_url": "https://d-nb.info/gnd/4495088-3",
     "note": "",
     "hit_id": "hit_works__21",
-    "author": [],
+    "author": [
+      {
+        "id": 23,
+        "value": "Sulpicius Severus"
+      }
+    ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
-    "note_source": ""
+    "genre": [
+      {
+        "id": 7,
+        "value": "Hymnus"
+      }
+    ],
+    "note_source": "Autorschaft umstritten",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-11"
   },
   "22": {
     "id": 22,
@@ -297,11 +487,69 @@
     "gnd_url": "",
     "note": "",
     "hit_id": "hit_works__22",
-    "author": [],
+    "author": [
+      {
+        "id": 7,
+        "value": "Gregory of Tours"
+      }
+    ],
     "bibliography": [],
-    "source_text": [],
+    "source_text": [
+      {
+        "id": 73,
+        "value": "Historiae Francorum libri decem"
+      }
+    ],
     "genre": [],
-    "note_source": ""
+    "note_source": "II, 14",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-11"
+  },
+  "74": {
+    "id": 74,
+    "order": "21.50000000000000000000",
+    "title": "Vita sancti Bricii",
+    "gnd_url": "https://portal.dnb.de/opac/showFullRecord?currentResultId=Gregor+and+Tours%26any&currentPosition=6",
+    "note": "",
+    "hit_id": "hit_works__74",
+    "author": [
+      {
+        "id": 7,
+        "value": "Gregory of Tours"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [
+      {
+        "id": 73,
+        "value": "Historiae Francorum libri decem"
+      }
+    ],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Vita"
+      }
+    ],
+    "note_source": "II, 1",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-11"
   },
   "23": {
     "id": 23,
@@ -310,11 +558,26 @@
     "gnd_url": "",
     "note": "",
     "hit_id": "hit_works__23",
-    "author": [],
+    "author": [
+      {
+        "id": 38,
+        "value": "Ps.-Hilarius von Poitiers"
+      }
+    ],
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-11"
   },
   "24": {
     "id": 24,
@@ -332,7 +595,17 @@
         "value": "Miracula"
       }
     ],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "25": {
     "id": 25,
@@ -350,7 +623,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "26": {
     "id": 26,
@@ -368,7 +651,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "27": {
     "id": 27,
@@ -388,10 +681,20 @@
     "genre": [
       {
         "id": 4,
-        "value": "Historiographie (Chronik)"
+        "value": "Chronik"
       }
     ],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "28": {
     "id": 28,
@@ -404,7 +707,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-04"
   },
   "29": {
     "id": 29,
@@ -428,10 +741,20 @@
     "genre": [
       {
         "id": 4,
-        "value": "Historiographie (Chronik)"
+        "value": "Chronik"
       }
     ],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "30": {
     "id": 30,
@@ -451,10 +774,20 @@
     "genre": [
       {
         "id": 4,
-        "value": "Historiographie (Chronik)"
+        "value": "Chronik"
       }
     ],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "31": {
     "id": 31,
@@ -474,10 +807,20 @@
     "genre": [
       {
         "id": 4,
-        "value": "Historiographie (Chronik)"
+        "value": "Chronik"
       }
     ],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "32": {
     "id": 32,
@@ -497,10 +840,20 @@
     "genre": [
       {
         "id": 4,
-        "value": "Historiographie (Chronik)"
+        "value": "Chronik"
       }
     ],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "33": {
     "id": 33,
@@ -520,10 +873,20 @@
     "genre": [
       {
         "id": 4,
-        "value": "Historiographie (Chronik)"
+        "value": "Chronik"
       }
     ],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "34": {
     "id": 34,
@@ -546,7 +909,17 @@
         "value": "Vita"
       }
     ],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "35": {
     "id": 35,
@@ -569,7 +942,17 @@
         "value": "Vita"
       }
     ],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "36": {
     "id": 36,
@@ -592,7 +975,17 @@
         "value": "Vita"
       }
     ],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "37": {
     "id": 37,
@@ -615,7 +1008,17 @@
         "value": "Vita"
       }
     ],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "38": {
     "id": 38,
@@ -638,7 +1041,17 @@
         "value": "Vita"
       }
     ],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "39": {
     "id": 39,
@@ -661,7 +1074,17 @@
         "value": "Vita"
       }
     ],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "40": {
     "id": 40,
@@ -684,7 +1107,17 @@
         "value": "Vita"
       }
     ],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "41": {
     "id": 41,
@@ -702,7 +1135,17 @@
         "value": "Vita"
       }
     ],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "42": {
     "id": 42,
@@ -720,7 +1163,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "43": {
     "id": 43,
@@ -738,7 +1191,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "44": {
     "id": 44,
@@ -756,7 +1219,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "45": {
     "id": 45,
@@ -769,7 +1242,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-04"
   },
   "46": {
     "id": 46,
@@ -787,7 +1270,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-04"
   },
   "47": {
     "id": 47,
@@ -805,7 +1298,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-04"
   },
   "48": {
     "id": 48,
@@ -823,7 +1326,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "49": {
     "id": 49,
@@ -846,7 +1359,17 @@
         "value": "Vita"
       }
     ],
-    "note_source": "recencio brevior"
+    "note_source": "recencio brevior",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "50": {
     "id": 50,
@@ -859,7 +1382,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-04"
   },
   "51": {
     "id": 51,
@@ -877,7 +1410,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-04"
   },
   "52": {
     "id": 52,
@@ -895,7 +1438,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-04"
   },
   "53": {
     "id": 53,
@@ -915,10 +1468,20 @@
     "genre": [
       {
         "id": 4,
-        "value": "Historiographie (Chronik)"
+        "value": "Chronik"
       }
     ],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "54": {
     "id": 54,
@@ -936,7 +1499,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "55": {
     "id": 55,
@@ -956,10 +1529,20 @@
     "genre": [
       {
         "id": 4,
-        "value": "Historiographie (Chronik)"
+        "value": "Chronik"
       }
     ],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "56": {
     "id": 56,
@@ -972,7 +1555,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-04"
   },
   "57": {
     "id": 57,
@@ -990,7 +1583,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-04"
   },
   "58": {
     "id": 58,
@@ -1003,7 +1606,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
   },
   "59": {
     "id": 59,
@@ -1021,7 +1634,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-08",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-08"
   },
   "60": {
     "id": 60,
@@ -1040,7 +1663,7 @@
     "source_text": [
       {
         "id": 20,
-        "value": "Liber historiae Francorum"
+        "value": "Miracula sancti Martini"
       }
     ],
     "genre": [
@@ -1049,7 +1672,17 @@
         "value": "Miracula"
       }
     ],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-08",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-09"
   },
   "61": {
     "id": 61,
@@ -1068,7 +1701,7 @@
     "source_text": [
       {
         "id": 20,
-        "value": "Liber historiae Francorum"
+        "value": "Miracula sancti Martini"
       }
     ],
     "genre": [
@@ -1077,7 +1710,17 @@
         "value": "Vita"
       }
     ],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-09",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-09"
   },
   "62": {
     "id": 62,
@@ -1090,7 +1733,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-09",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-09"
   },
   "63": {
     "id": 63,
@@ -1103,7 +1756,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-09",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-09"
   },
   "64": {
     "id": 64,
@@ -1121,7 +1784,17 @@
     "bibliography": [],
     "source_text": [],
     "genre": [],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-09",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-09"
   },
   "65": {
     "id": 65,
@@ -1139,7 +1812,17 @@
       }
     ],
     "genre": [],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-09",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-09"
   },
   "66": {
     "id": 66,
@@ -1157,6 +1840,192 @@
       }
     ],
     "genre": [],
-    "note_source": ""
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-09",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-09"
+  },
+  "67": {
+    "id": 67,
+    "order": "66.00000000000000000000",
+    "title": "Bibelauszug",
+    "gnd_url": "",
+    "note": "TBD! Lesbar: unius anni cum regnare coepisset, ev. aus Samuel 13:1, 2. Buch der Könige 16:2 oder 2. Buch der Chronik 25:1",
+    "hit_id": "hit_works__67",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-11"
+  },
+  "68": {
+    "id": 68,
+    "order": "67.00000000000000000000",
+    "title": "Nachträge",
+    "gnd_url": "",
+    "note": "Responsorien, Versikel, Antiphonen der Quadragesimalzeit, z.T. mit Neumen (11. Jh.).",
+    "hit_id": "hit_works__68",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-11"
+  },
+  "69": {
+    "id": 69,
+    "order": "68.00000000000000000000",
+    "title": "Ephemeris",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__69",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-11"
+  },
+  "70": {
+    "id": 70,
+    "order": "69.00000000000000000000",
+    "title": "Tabelle mit Loca embolismorum und Concordia maris et lunae",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__70",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-11"
+  },
+  "71": {
+    "id": 71,
+    "order": "70.00000000000000000000",
+    "title": "Eidesformel Papst Leos III.",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__71",
+    "author": [
+      {
+        "id": 37,
+        "value": "Leo III., Papst"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-11"
+  },
+  "72": {
+    "id": 72,
+    "order": "71.00000000000000000000",
+    "title": "De globo mundi et coniecture orbis versus",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__72",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-11"
+  },
+  "73": {
+    "id": 73,
+    "order": "72.00000000000000000000",
+    "title": "Historiae Francorum libri decem",
+    "gnd_url": "https://portal.dnb.de/opac/showFullRecord?currentResultId=Gregor+and+Tours%26any&currentPosition=6",
+    "note": "",
+    "hit_id": "hit_works__73",
+    "author": [
+      {
+        "id": 7,
+        "value": "Gregory of Tours"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 5,
+        "value": "Historiographie"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-11"
   }
 }

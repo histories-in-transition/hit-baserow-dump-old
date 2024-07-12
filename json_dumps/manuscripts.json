@@ -49,32 +49,8 @@
     "quiremarks": null,
     "material": null,
     "provenance": [],
-    "manuscripts_dated": [
-      {
-        "id": 1,
-        "value": "hit_dated__1"
-      },
-      {
-        "id": 2,
-        "value": "hit_dated__2"
-      }
-    ],
-    "orig_dated": [
-      {
-        "ids": {
-          "database_table_3512": 5,
-          "database_table_3516": 1
-        },
-        "value": "10 J., zweite Hälfte"
-      },
-      {
-        "ids": {
-          "database_table_3512": 8,
-          "database_table_3516": 2
-        },
-        "value": "15 J."
-      }
-    ],
+    "manuscripts_dated": [],
+    "orig_dated": [],
     "Created by": {
       "id": 3,
       "name": "Peter Andorfer"
@@ -137,7 +113,7 @@
       },
       {
         "id": 5,
-        "value": "Saint-Amand"
+        "value": "Saint-Amand-les-Eaux"
       }
     ],
     "orig_date": [
@@ -286,7 +262,7 @@
     "bibliography": [],
     "height": "195",
     "width": "165",
-    "material_spec": "parchment",
+    "material_spec": "Pergament von anderer Handschrift benutzt",
     "orig_place": [
       {
         "id": 4,
@@ -351,7 +327,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-13",
-    "Last modified": "2024-07-10"
+    "Last modified": "2024-07-11"
   },
   "6": {
     "id": 6,
@@ -466,10 +442,10 @@
     ],
     "extent": "103",
     "foliation": "",
-    "acc_mat": "",
+    "acc_mat": "am Anfang ein Verzeichnis der Kirchensachen und Bücher der Kirche von Hl. Primus und Hl. Felicianus",
     "binding": "",
     "binding_date": [],
-    "history": "",
+    "history": "Gemäß Schriftbefund in Freising entstanden. Besitzvermerk Iste liber est sancte Marie et sancti Corbiniani Frisinge(12.Jh., 1 r). (Glauche)",
     "bibliography": [],
     "height": "285",
     "width": "225",
@@ -499,18 +475,31 @@
         "value": "Dombibliothek Freising"
       }
     ],
-    "manuscripts_dated": [],
-    "orig_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 10,
+        "value": "hit_dated__10"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 11,
+          "database_table_3516": 10
+        },
+        "value": "10 J., spät"
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
     },
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-13",
-    "Last modified": "2024-07-05"
+    "Last modified": "2024-07-11"
   },
   "8": {
     "id": 8,
@@ -576,8 +565,32 @@
         "value": "Dombibliothek Freising"
       }
     ],
-    "manuscripts_dated": [],
-    "orig_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 11,
+        "value": "hit_dated__11"
+      },
+      {
+        "id": 19,
+        "value": "hit_dated__19"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 2,
+          "database_table_3516": 19
+        },
+        "value": "9 J., erstes Drittel"
+      },
+      {
+        "ids": {
+          "database_table_3512": 6,
+          "database_table_3516": 11
+        },
+        "value": "9 J., erste Hälfte"
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -833,8 +846,21 @@
         "value": "Dombibliothek Freising"
       }
     ],
-    "manuscripts_dated": [],
-    "orig_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 12,
+        "value": "hit_dated__12"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 12,
+          "database_table_3516": 12
+        },
+        "value": "8J., Ende"
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -914,8 +940,21 @@
         "value": "Dombibliothek Freising"
       }
     ],
-    "manuscripts_dated": [],
-    "orig_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 13,
+        "value": "hit_dated__13"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 5,
+          "database_table_3516": 13
+        },
+        "value": "10 J., zweite Hälfte"
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -991,8 +1030,21 @@
         "value": "Dombibliothek Freising"
       }
     ],
-    "manuscripts_dated": [],
-    "orig_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 14,
+        "value": "hit_dated__14"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 11,
+          "database_table_3516": 14
+        },
+        "value": "10 J., spät"
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -1068,8 +1120,21 @@
         "value": "Dombibliothek Freising"
       }
     ],
-    "manuscripts_dated": [],
-    "orig_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 15,
+        "value": "hit_dated__15"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 13,
+          "database_table_3516": 15
+        },
+        "value": "11 J."
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -1145,8 +1210,21 @@
         "value": "Dombibliothek Freising"
       }
     ],
-    "manuscripts_dated": [],
-    "orig_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 16,
+        "value": "hit_dated__16"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 14,
+          "database_table_3516": 16
+        },
+        "value": "8 J., spät"
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -1222,8 +1300,32 @@
         "value": "Dombibliothek Freising"
       }
     ],
-    "manuscripts_dated": [],
-    "orig_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 17,
+        "value": "hit_dated__17"
+      },
+      {
+        "id": 20,
+        "value": "hit_dated__20"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 3,
+          "database_table_3516": 17
+        },
+        "value": "9 J., Mitte"
+      },
+      {
+        "ids": {
+          "database_table_3512": 26,
+          "database_table_3516": 20
+        },
+        "value": "9 J., zweites Viertel"
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -1299,8 +1401,32 @@
         "value": "Dombibliothek Freising"
       }
     ],
-    "manuscripts_dated": [],
-    "orig_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 18,
+        "value": "hit_dated__18"
+      },
+      {
+        "id": 21,
+        "value": "hit_dated__21"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 7,
+          "database_table_3516": 21
+        },
+        "value": "9 J., erstes Viertel"
+      },
+      {
+        "ids": {
+          "database_table_3512": 15,
+          "database_table_3516": 18
+        },
+        "value": "nach 800"
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -1602,7 +1728,7 @@
     "provenance": [
       {
         "id": 8,
-        "value": "Salzburg, Domkapitelbibliothek"
+        "value": "Domkapitel. Bibliothek Salzburg"
       }
     ],
     "manuscripts_dated": [

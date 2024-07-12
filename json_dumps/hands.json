@@ -28,7 +28,17 @@
       }
     ],
     "number": "1",
-    "notes": null
+    "notes": null,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-06-25",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-07"
   },
   "12": {
     "id": 12,
@@ -54,7 +64,17 @@
       }
     ],
     "number": "2",
-    "notes": null
+    "notes": null,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-06-25",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-07-05"
   },
   "5": {
     "id": 5,
@@ -85,7 +105,17 @@
       }
     ],
     "number": "3",
-    "notes": null
+    "notes": null,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-06-17",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-07-05"
   },
   "13": {
     "id": 13,
@@ -111,7 +141,17 @@
       }
     ],
     "number": "4",
-    "notes": null
+    "notes": null,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-10",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-10"
   },
   "14": {
     "id": 14,
@@ -137,7 +177,17 @@
       }
     ],
     "number": "5",
-    "notes": "Laut Bischoff 2 verschiedene Hände"
+    "notes": "Laut Bischoff 2 verschiedene Hände",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-10",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-10"
   },
   "15": {
     "id": 15,
@@ -163,7 +213,17 @@
       }
     ],
     "number": "6",
-    "notes": "PLATZHALTER: Schreibergruppe, verschiedene Hände"
+    "notes": "PLATZHALTER: Schreibergruppe, verschiedene Hände",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-10",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-10"
   },
   "16": {
     "id": 16,
@@ -189,6 +249,124 @@
       }
     ],
     "number": "7",
-    "notes": "Korrektur (Saint-Amand)"
+    "notes": "Korrektur (Saint-Amand)",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-10",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-10"
+  },
+  "17": {
+    "id": 17,
+    "order": "16.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 8"
+      }
+    ],
+    "description": "\"Weniger geschmeidige Schrift\" mit schräg abgeschnittenen Oberlängen",
+    "scribe": [],
+    "hit_id": "hit_hands__17",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "number": "8",
+    "notes": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-11"
+  },
+  "18": {
+    "id": 18,
+    "order": "17.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 9"
+      }
+    ],
+    "description": "Arn-Stil",
+    "scribe": [],
+    "hit_id": "hit_hands__18",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "number": "9",
+    "notes": "Platzhalter: Schreibergruppe drei oder mehr, einer davon ist H.2.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-11"
+  },
+  "19": {
+    "id": 19,
+    "order": "18.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6326_H. 1"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__19",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "number": "1",
+    "notes": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-11"
   }
 }

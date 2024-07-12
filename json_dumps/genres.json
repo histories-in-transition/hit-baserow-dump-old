@@ -3,24 +3,134 @@
     "id": 1,
     "order": "1.00000000000000000000",
     "genre": "Vita",
-    "hit_id": "hit_genres__1"
+    "hit_id": "hit_genres__1",
+    "main_genre": [],
+    "Created by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Created on": "2024-06-21",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-06-21"
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
     "genre": "Miracula",
-    "hit_id": "hit_genres__2"
+    "hit_id": "hit_genres__2",
+    "main_genre": [],
+    "Created by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Created on": "2024-06-21",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-06-21"
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "genre": "Historiographie (Annalen)",
-    "hit_id": "hit_genres__3"
+    "genre": "Annalen",
+    "hit_id": "hit_genres__3",
+    "main_genre": [
+      {
+        "id": 5,
+        "value": "Historiographie"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-06-25",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-07-11"
   },
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
-    "genre": "Historiographie (Chronik)",
-    "hit_id": "hit_genres__4"
+    "genre": "Chronik",
+    "hit_id": "hit_genres__4",
+    "main_genre": [
+      {
+        "id": 5,
+        "value": "Historiographie"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-02",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-07-11"
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "genre": "Historiographie",
+    "hit_id": "hit_genres__5",
+    "main_genre": [],
+    "Created by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-07-11"
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "genre": "Lyrik",
+    "hit_id": "hit_genres__6",
+    "main_genre": [],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-11"
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "genre": "Hymnus",
+    "hit_id": "hit_genres__7",
+    "main_genre": [
+      {
+        "id": 6,
+        "value": "Lyrik"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-11"
   }
 }

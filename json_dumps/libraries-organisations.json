@@ -12,7 +12,18 @@
         "id": 6,
         "value": "Wien"
       }
-    ]
+    ],
+    "wikidata": "",
+    "Created by": {
+      "id": 3,
+      "name": "Peter Andorfer"
+    },
+    "Created on": "2024-06-04",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-07-03"
   },
   "2": {
     "id": 2,
@@ -21,13 +32,24 @@
     "hit_id": "hit_org__2",
     "gnd_url": "https://d-nb.info/gnd/2025026-5",
     "library_full": "Universitätsbibliothek Würzburg",
-    "library_website": "",
+    "library_website": "https://www.bibliothek.uni-wuerzburg.de/",
     "settlement": [
       {
         "id": 7,
         "value": "Würzburg"
       }
-    ]
+    ],
+    "wikidata": "",
+    "Created by": {
+      "id": 3,
+      "name": "Peter Andorfer"
+    },
+    "Created on": "2024-06-04",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-07-11"
   },
   "4": {
     "id": 4,
@@ -42,7 +64,18 @@
         "id": 8,
         "value": "München"
       }
-    ]
+    ],
+    "wikidata": "",
+    "Created by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Created on": "2024-06-12",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-07-03"
   },
   "5": {
     "id": 5,
@@ -57,7 +90,18 @@
         "id": 7,
         "value": "Würzburg"
       }
-    ]
+    ],
+    "wikidata": "",
+    "Created by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Created on": "2024-07-05",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-07-05"
   },
   "6": {
     "id": 6,
@@ -72,7 +116,18 @@
         "id": 4,
         "value": "Freising"
       }
-    ]
+    ],
+    "wikidata": "",
+    "Created by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Created on": "2024-07-05",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-07-05"
   },
   "7": {
     "id": 7,
@@ -87,16 +142,69 @@
         "id": 3,
         "value": "Salzburg"
       }
-    ]
+    ],
+    "wikidata": "",
+    "Created by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Created on": "2024-07-05",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-07-05"
   },
   "8": {
     "id": 8,
     "order": "7.00000000000000000000",
-    "label": "Salzburg, Domkapitelbibliothek",
+    "label": "Domkapitel. Bibliothek Salzburg",
     "hit_id": "hit_org__8",
-    "gnd_url": "",
-    "library_full": "",
+    "gnd_url": "https://d-nb.info/gnd/4220685-6",
+    "library_full": "Domkapitelbibliothek Salzburg",
     "library_website": "",
-    "settlement": []
+    "settlement": [
+      {
+        "id": 3,
+        "value": "Salzburg"
+      }
+    ],
+    "wikidata": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-10",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-07-11"
+  },
+  "9": {
+    "id": 9,
+    "order": "8.00000000000000000000",
+    "label": "Kloster Saint-Amand-les-Eaux",
+    "hit_id": "hit_org__9",
+    "gnd_url": "https://d-nb.info/gnd/4727200-4",
+    "library_full": "Kloster Saint-Amand-les-Eaux",
+    "library_website": "",
+    "settlement": [
+      {
+        "id": 5,
+        "value": "Saint-Amand-les-Eaux"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/wiki/Q334131",
+    "Created by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-07-11"
   }
 }

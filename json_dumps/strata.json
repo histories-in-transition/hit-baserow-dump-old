@@ -50,7 +50,17 @@
         "value": "1v-21r"
       }
     ],
-    "note": "PLATZHALTER: Anlage der Handschrift"
+    "note": "PLATZHALTER: Anlage der Handschrift",
+    "Created by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Created on": "2024-06-05",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-01"
   },
   "2": {
     "id": 2,
@@ -100,10 +110,20 @@
     "locus": [
       {
         "id": 10,
-        "value": "1r-2r"
+        "value": "1v-2r"
       }
     ],
-    "note": "PLATZHALTER: Several scribes contributed to Stratum 0 in two ways: 1) additions of texts to  texts of Stratum 0 with no codicological change & 2) addition of folia; according to Bischoff parts of this stratum were written in Saint Amand by a scribe adding more informations after he returned to Salzburg; The connection between 1) and 2) is established by the work of magister Baldo whno not only added text 5 to fol. 1, wrote text 6 & 7 but also added notes on foll. 147v and 148v."
+    "note": "PLATZHALTER: Several scribes contributed to Stratum 0 in two ways: 1) additions of texts to  texts of Stratum 0 with no codicological change & 2) addition of folia; according to Bischoff parts of this stratum were written in Saint Amand by a scribe adding more informations after he returned to Salzburg; The connection between 1) and 2) is established by the work of magister Baldo whno not only added text 5 to fol. 1, wrote text 6 & 7 but also added notes on foll. 147v and 148v.",
+    "Created by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Created on": "2024-06-05",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-01"
   },
   "3": {
     "id": 3,
@@ -127,7 +147,17 @@
     "ms_items": [],
     "quires": [],
     "locus": [],
-    "note": ""
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-08"
   },
   "4": {
     "id": 4,
@@ -141,6 +171,16 @@
     "ms_items": [],
     "quires": [],
     "locus": [],
-    "note": ""
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-08",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-08"
   }
 }

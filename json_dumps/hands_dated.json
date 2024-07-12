@@ -1,59 +1,4 @@
 {
-  "1": {
-    "id": 1,
-    "order": "1.00000000000000000000",
-    "hit_id": "hit_hands_dated__1",
-    "authority": [
-      {
-        "id": 2,
-        "value": "Bischoff"
-      }
-    ],
-    "page": "21",
-    "dated": [
-      {
-        "id": 7,
-        "value": "9 J., erstes Viertel"
-      }
-    ],
-    "hand": [],
-    "new_dating": false
-  },
-  "2": {
-    "id": 2,
-    "order": "2.00000000000000000000",
-    "hit_id": "hit_hands_dated__2",
-    "authority": [
-      {
-        "id": 3,
-        "value": "Glauche"
-      }
-    ],
-    "page": "21",
-    "dated": [
-      {
-        "id": 5,
-        "value": "10 J., zweite Hälfte"
-      }
-    ],
-    "hand": [],
-    "new_dating": false
-  },
-  "3": {
-    "id": 3,
-    "order": "3.00000000000000000000",
-    "hit_id": "hit_hands_dated__3",
-    "authority": [],
-    "page": "",
-    "dated": [
-      {
-        "id": 4,
-        "value": "10 J., Mitte"
-      }
-    ],
-    "hand": [],
-    "new_dating": true
-  },
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
@@ -77,7 +22,17 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46_H. 2"
       }
     ],
-    "new_dating": true
+    "new_dating": true,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-10",
+    "Created on": "2024-06-25"
   },
   "5": {
     "id": 5,
@@ -102,7 +57,17 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
       }
     ],
-    "new_dating": false
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-10",
+    "Created on": "2024-06-25"
   },
   "6": {
     "id": 6,
@@ -127,7 +92,17 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46_H. 6"
       }
     ],
-    "new_dating": false
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-10",
+    "Created on": "2024-07-10"
   },
   "7": {
     "id": 7,
@@ -152,7 +127,17 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46_H. 4"
       }
     ],
-    "new_dating": true
+    "new_dating": true,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-10",
+    "Created on": "2024-07-10"
   },
   "8": {
     "id": 8,
@@ -177,7 +162,17 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46_H. 5"
       }
     ],
-    "new_dating": true
+    "new_dating": true,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-10",
+    "Created on": "2024-07-10"
   },
   "9": {
     "id": 9,
@@ -192,6 +187,16 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46_H. 7"
       }
     ],
-    "new_dating": false
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-10",
+    "Created on": "2024-07-10"
   }
 }

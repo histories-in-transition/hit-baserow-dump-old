@@ -27,6 +27,26 @@
       {
         "id": 3,
         "value": "hit_hands_role__3"
+      },
+      {
+        "id": 17,
+        "value": "hit_hands_role__17"
+      },
+      {
+        "id": 18,
+        "value": "hit_hands_role__18"
+      },
+      {
+        "id": 19,
+        "value": "hit_hands_role__19"
+      },
+      {
+        "id": 20,
+        "value": "hit_hands_role__20"
+      },
+      {
+        "id": 24,
+        "value": "hit_hands_role__24"
       }
     ],
     "ms_items": [
@@ -36,21 +56,124 @@
           "database_table_3491": 5
         },
         "value": "De cyclo paschali"
+      },
+      {
+        "ids": {
+          "database_table_3489": 7,
+          "database_table_3491": 8
+        },
+        "value": "De temporum ratione"
+      },
+      {
+        "ids": {
+          "database_table_3489": 4,
+          "database_table_3491": 5
+        },
+        "value": "De cyclo paschali"
+      },
+      {
+        "ids": {
+          "database_table_3489": 7,
+          "database_table_3491": 8
+        },
+        "value": "De temporum ratione"
+      },
+      {
+        "ids": {
+          "database_table_3489": 7,
+          "database_table_3491": 8
+        },
+        "value": "De temporum ratione"
+      },
+      {
+        "ids": {
+          "database_table_3489": 6,
+          "database_table_3491": 7
+        },
+        "value": "Epactae lunae & solis"
       }
     ],
     "quires": [
       {
         "id": 5,
         "value": "UBWÜ, Cod. M. p. th. f. 46, L. 1"
+      },
+      {
+        "id": 7,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 2"
+      },
+      {
+        "id": 8,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 3"
+      },
+      {
+        "id": 10,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 4"
+      },
+      {
+        "id": 11,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 5"
+      },
+      {
+        "id": 12,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 6"
+      },
+      {
+        "id": 13,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 7"
+      },
+      {
+        "id": 14,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 8"
+      },
+      {
+        "id": 15,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 9"
+      },
+      {
+        "id": 16,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 10"
+      },
+      {
+        "id": 17,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 11"
+      },
+      {
+        "id": 18,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 12"
+      },
+      {
+        "id": 19,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 13"
       }
     ],
     "locus": [
       {
         "id": 5,
         "value": "1v-21r"
+      },
+      {
+        "id": 8,
+        "value": "23r-97v"
+      },
+      {
+        "id": 5,
+        "value": "1v-21r"
+      },
+      {
+        "id": 8,
+        "value": "23r-97v"
+      },
+      {
+        "id": 8,
+        "value": "23r-97v"
+      },
+      {
+        "id": 7,
+        "value": "21v-22r"
       }
     ],
-    "note": "PLATZHALTER: Anlage der Handschrift",
+    "note": "Dieses Stratum beschreibt die Anlage der Handschrift und besteht aus den Ostertafeln, den Mondtabellen und Bedas De temporum ratione ohne den Chronik-Abschnitt",
     "Created by": {
       "id": 36,
       "name": "Ivana Dobcheva"
@@ -60,7 +183,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-01"
+    "Last modified": "2024-07-12"
   },
   "2": {
     "id": 2,
@@ -76,6 +199,16 @@
         "id": 14765,
         "value": "annotation",
         "color": "light-brown"
+      },
+      {
+        "id": 14764,
+        "value": "correction",
+        "color": "blue"
+      },
+      {
+        "id": 14766,
+        "value": "addition",
+        "color": "dark-green"
       }
     ],
     "manuscript": [
@@ -90,30 +223,98 @@
       {
         "id": 6,
         "value": "hit_hands_role__6"
+      },
+      {
+        "id": 14,
+        "value": "hit_hands_role__14"
+      },
+      {
+        "id": 4,
+        "value": "hit_hands_role__4"
+      },
+      {
+        "id": 11,
+        "value": "hit_hands_role__11"
+      },
+      {
+        "id": 16,
+        "value": "hit_hands_role__16"
       }
     ],
     "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 14,
+          "database_table_3491": 13
+        },
+        "value": "Annales Iuvavenses minores"
+      },
       {
         "ids": {
           "database_table_3489": 11,
           "database_table_3491": 10
         },
         "value": "hieronymi chronicon"
+      },
+      {
+        "ids": {
+          "database_table_3489": 67,
+          "database_table_3491": 68
+        },
+        "value": "Bibelauszug"
+      },
+      {
+        "ids": {
+          "database_table_3489": 13,
+          "database_table_3491": 12
+        },
+        "value": "Annales Iuvavenses maiores"
+      },
+      {
+        "ids": {
+          "database_table_3489": 13,
+          "database_table_3491": 12
+        },
+        "value": "Annales Iuvavenses maiores"
       }
     ],
     "quires": [
       {
         "id": 5,
         "value": "UBWÜ, Cod. M. p. th. f. 46, L. 1"
+      },
+      {
+        "id": 7,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 2"
+      },
+      {
+        "id": 8,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 3"
       }
     ],
     "locus": [
       {
+        "id": 13,
+        "value": "22v-22v"
+      },
+      {
         "id": 10,
         "value": "1v-2r"
+      },
+      {
+        "id": 68,
+        "value": "1r"
+      },
+      {
+        "id": 12,
+        "value": "11v-16v"
+      },
+      {
+        "id": 12,
+        "value": "11v-16v"
       }
     ],
-    "note": "PLATZHALTER: Several scribes contributed to Stratum 0 in two ways: 1) additions of texts to  texts of Stratum 0 with no codicological change & 2) addition of folia; according to Bischoff parts of this stratum were written in Saint Amand by a scribe adding more informations after he returned to Salzburg; The connection between 1) and 2) is established by the work of magister Baldo whno not only added text 5 to fol. 1, wrote text 6 & 7 but also added notes on foll. 147v and 148v.",
+    "note": "Diverse Schreiber haben in Salzburg Annotationen, Korrekturen und Marginaltexte eingefügt. Das Gros dieser Bearbeitungen wurde durch den magister Baldo vorgenommen.",
     "Created by": {
       "id": 36,
       "name": "Ivana Dobcheva"
@@ -123,7 +324,172 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-01"
+    "Last modified": "2024-07-12"
+  },
+  "4": {
+    "id": 4,
+    "order": "2.50000000000000000000",
+    "label": [
+      {
+        "id": 2,
+        "value": "Cod. M. p. th. f. 46, Stratum 3"
+      }
+    ],
+    "character": [
+      {
+        "id": 14766,
+        "value": "addition",
+        "color": "dark-green"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "number": "3",
+    "hit_id": "hit_strata__4",
+    "hand_role": [
+      {
+        "id": 22,
+        "value": "hit_hands_role__22"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 7,
+          "database_table_3491": 11
+        },
+        "value": "De temporum ratione"
+      }
+    ],
+    "quires": [
+      {
+        "id": 20,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 14"
+      },
+      {
+        "id": 21,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 15"
+      },
+      {
+        "id": 22,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 16"
+      },
+      {
+        "id": 38,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 17"
+      },
+      {
+        "id": 39,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 18"
+      },
+      {
+        "id": 40,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 19"
+      },
+      {
+        "id": 41,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 20"
+      }
+    ],
+    "locus": [
+      {
+        "id": 11,
+        "value": "98r-144v"
+      }
+    ],
+    "note": "Dieses Stratum umfasst die Arbeit eines einziges Schreibers, der den Chronik-Abschnitt von Bedas De temporum ratione anfertigt.",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-08",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "5": {
+    "id": 5,
+    "order": "2.66666666666666651864",
+    "label": [
+      {
+        "id": 2,
+        "value": "Cod. M. p. th. f. 46, Stratum 4"
+      }
+    ],
+    "character": [
+      {
+        "id": 14766,
+        "value": "addition",
+        "color": "dark-green"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "number": "4",
+    "hit_id": "hit_strata__5",
+    "hand_role": [
+      {
+        "id": 21,
+        "value": "hit_hands_role__21"
+      },
+      {
+        "id": 23,
+        "value": "hit_hands_role__23"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 72,
+          "database_table_3491": 77
+        },
+        "value": "De globo mundi et coniecture orbis versus"
+      },
+      {
+        "ids": {
+          "database_table_3489": 71,
+          "database_table_3491": 75
+        },
+        "value": "Eidesformel Papst Leos III."
+      }
+    ],
+    "quires": [
+      {
+        "id": 42,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 21"
+      }
+    ],
+    "locus": [
+      {
+        "id": 77,
+        "value": "149v"
+      },
+      {
+        "id": 75,
+        "value": "149r"
+      }
+    ],
+    "note": "Ein einzelnes, in Saint-Amand beschriebenes Blatt wurde der Handschrift nach Fertigstellung des primären Textbestandes entweder noch in Saint-Amand oder bereits in Salzburg hinzugefügt.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-12",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-12"
   },
   "3": {
     "id": 3,
@@ -154,33 +520,33 @@
     },
     "Created on": "2024-07-03",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-08"
+    "Last modified": "2024-07-12"
   },
-  "4": {
-    "id": 4,
-    "order": "4.00000000000000000000",
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
     "label": [],
     "character": [],
     "manuscript": [],
     "number": null,
-    "hit_id": "hit_strata__4",
+    "hit_id": "hit_strata__6",
     "hand_role": [],
     "ms_items": [],
     "quires": [],
     "locus": [],
     "note": "",
     "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Created on": "2024-07-08",
+    "Created on": "2024-07-12",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-08"
+    "Last modified": "2024-07-12"
   }
 }

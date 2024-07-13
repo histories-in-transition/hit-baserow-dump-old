@@ -150,7 +150,7 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
       }
     ],
-    "Last modified": "2024-07-11",
+    "Last modified": "2024-07-12",
     "Created on": "2024-06-19",
     "Created by": {
       "id": 3,
@@ -517,6 +517,55 @@
       "name": "Leon Pürstinger"
     }
   },
+  "69": {
+    "id": 69,
+    "order": "7.50000000000000000000",
+    "label": [
+      {
+        "id": 2,
+        "value": "cod_m_p_th_f_46__69"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 11,
+        "value": "hieronymi chronicon"
+      }
+    ],
+    "title_note": "TEST: Locus nur Platzhalter. Auszüge der Jahre...",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__69",
+    "filiation": [],
+    "locus_grp": "117v",
+    "hands_role": [
+      {
+        "id": 26,
+        "value": "hit_hands_role__26"
+      }
+    ],
+    "cod_unit": [],
+    "Last modified": "2024-07-12",
+    "Created on": "2024-07-11",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
   "14": {
     "id": 14,
     "order": "8.00000000000000000000",
@@ -548,7 +597,12 @@
     "hit_id": "hit_ms_items__14",
     "filiation": [],
     "locus_grp": "145r",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 31,
+        "value": "hit_hands_role__31"
+      }
+    ],
     "cod_unit": [],
     "Last modified": "2024-07-11",
     "Created on": "2024-07-03",
@@ -592,7 +646,12 @@
     "hit_id": "hit_ms_items__15",
     "filiation": [],
     "locus_grp": "145r-146r",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 28,
+        "value": "hit_hands_role__28"
+      }
+    ],
     "cod_unit": [],
     "Last modified": "2024-07-04",
     "Created on": "2024-07-03",
@@ -636,7 +695,12 @@
     "hit_id": "hit_ms_items__72",
     "filiation": [],
     "locus_grp": "146r-147r",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 29,
+        "value": "hit_hands_role__29"
+      }
+    ],
     "cod_unit": [],
     "Last modified": "2024-07-11",
     "Created on": "2024-07-11",
@@ -680,7 +744,12 @@
     "hit_id": "hit_ms_items__73",
     "filiation": [],
     "locus_grp": "147v-148v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 30,
+        "value": "hit_hands_role__30"
+      }
+    ],
     "cod_unit": [],
     "Last modified": "2024-07-11",
     "Created on": "2024-07-11",
@@ -876,7 +945,12 @@
     "hit_id": "hit_ms_items__18",
     "filiation": [],
     "locus_grp": "1r-32r",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 27,
+        "value": "hit_hands_role__27"
+      }
+    ],
     "cod_unit": [
       {
         "id": 10,
@@ -3119,35 +3193,6 @@
       "name": "Ksenia Borisova"
     }
   },
-  "69": {
-    "id": 69,
-    "order": "62.00000000000000000000",
-    "label": [],
-    "manuscript": [],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [],
-    "title_note": "",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__69",
-    "filiation": [],
-    "locus_grp": "",
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-07-11",
-    "Created on": "2024-07-11",
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    }
-  },
   "70": {
     "id": 70,
     "order": "63.00000000000000000000",
@@ -3277,6 +3322,55 @@
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
+    }
+  },
+  "80": {
+    "id": 80,
+    "order": "70.00000000000000000000",
+    "label": [
+      {
+        "id": 22,
+        "value": "cod_366__80"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 22,
+        "value": "ÖNB, Cod. 366"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 3,
+        "value": "Historia contra paganos"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__80",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 13,
+        "value": "ÖNB, Cod. 366, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-12",
+    "Created on": "2024-07-12",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
     }
   }
 }

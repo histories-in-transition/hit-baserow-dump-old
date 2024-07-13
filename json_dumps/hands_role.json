@@ -948,5 +948,315 @@
     },
     "Created on": "2024-07-11",
     "Last modified": "2024-07-11"
+  },
+  "25": {
+    "id": 25,
+    "order": "17.00000000000000000000",
+    "hit_id": "hit_hands_role__25",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-12",
+    "Last modified": "2024-07-12"
+  },
+  "26": {
+    "id": 26,
+    "order": "18.00000000000000000000",
+    "hit_id": "hit_hands_role__26",
+    "hand": [
+      {
+        "id": 5,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 69,
+        "value": "cod_m_p_th_f_46__69"
+      }
+    ],
+    "role": [
+      {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
+      }
+    ],
+    "locus": "TBD",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 11,
+          "database_table_3491": 69
+        },
+        "value": "hieronymi chronicon"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 69,
+        "value": "117v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-12",
+    "Last modified": "2024-07-12"
+  },
+  "27": {
+    "id": 27,
+    "order": "19.00000000000000000000",
+    "hit_id": "hit_hands_role__27",
+    "hand": [
+      {
+        "id": 20,
+        "value": "BSB, Clm. 6326_H. 2"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 18,
+        "value": "clm_6326__18"
+      }
+    ],
+    "role": [
+      {
+        "id": 14760,
+        "value": "corrector",
+        "color": "darker-blue"
+      }
+    ],
+    "locus": "25r",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 17,
+          "database_table_3491": 18
+        },
+        "value": "Vita sancti Martini"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 18,
+        "value": "1r-32r"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-12",
+    "Last modified": "2024-07-12"
+  },
+  "28": {
+    "id": 28,
+    "order": "20.00000000000000000000",
+    "hit_id": "hit_hands_role__28",
+    "hand": [
+      {
+        "id": 18,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 9"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 15,
+        "value": "cod_m_p_th_f_46__15"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 16,
+          "database_table_3491": 15
+        },
+        "value": "Synchrone Tafeln über das Alter der Patriarchen von Noe bis Jakob"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 15,
+        "value": "145r-146r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-12",
+    "Last modified": "2024-07-12"
+  },
+  "29": {
+    "id": 29,
+    "order": "21.00000000000000000000",
+    "hit_id": "hit_hands_role__29",
+    "hand": [
+      {
+        "id": 18,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 9"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 72,
+        "value": "cod_m_p_th_f_46__72"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 69,
+          "database_table_3491": 72
+        },
+        "value": "Ephemeris"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 72,
+        "value": "146r-147r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-12",
+    "Last modified": "2024-07-12"
+  },
+  "30": {
+    "id": 30,
+    "order": "22.00000000000000000000",
+    "hit_id": "hit_hands_role__30",
+    "hand": [
+      {
+        "id": 18,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 9"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 73,
+        "value": "cod_m_p_th_f_46__73"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 70,
+          "database_table_3491": 73
+        },
+        "value": "Tabelle mit Loca embolismorum und Concordia maris et lunae"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 73,
+        "value": "147v-148v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-12",
+    "Last modified": "2024-07-12"
+  },
+  "31": {
+    "id": 31,
+    "order": "23.00000000000000000000",
+    "hit_id": "hit_hands_role__31",
+    "hand": [],
+    "ms_item": [
+      {
+        "id": 14,
+        "value": "cod_m_p_th_f_46__14"
+      }
+    ],
+    "role": [],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 68,
+          "database_table_3491": 14
+        },
+        "value": "Nachträge"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 14,
+        "value": "145r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-12",
+    "Last modified": "2024-07-12"
   }
 }

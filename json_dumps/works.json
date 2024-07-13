@@ -113,7 +113,12 @@
     "gnd_url": "",
     "note": "",
     "hit_id": "hit_works__6",
-    "author": [],
+    "author": [
+      {
+        "id": 5,
+        "value": "Ps.-Beda"
+      }
+    ],
     "bibliography": [],
     "source_text": [],
     "genre": [],
@@ -127,7 +132,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-06-17"
+    "Last modified": "2024-07-12"
   },
   "7": {
     "id": 7,
@@ -253,7 +258,12 @@
     "gnd_url": "",
     "note": "",
     "hit_id": "hit_works__14",
-    "author": [],
+    "author": [
+      {
+        "id": 6,
+        "value": "Magister Baldo"
+      }
+    ],
     "bibliography": [],
     "source_text": [],
     "genre": [
@@ -272,7 +282,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-03"
+    "Last modified": "2024-07-12"
   },
   "15": {
     "id": 15,
@@ -304,7 +314,12 @@
     "gnd_url": "",
     "note": "",
     "hit_id": "hit_works__16",
-    "author": [],
+    "author": [
+      {
+        "id": 39,
+        "value": "Anonymus"
+      }
+    ],
     "bibliography": [],
     "source_text": [],
     "genre": [],
@@ -318,7 +333,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-04"
+    "Last modified": "2024-07-12"
   },
   "17": {
     "id": 17,
@@ -330,7 +345,7 @@
     "author": [
       {
         "id": 23,
-        "value": "Sulpicius Severus"
+        "value": "Sulpicius, Severus"
       }
     ],
     "bibliography": [],
@@ -363,12 +378,17 @@
     "author": [
       {
         "id": 23,
-        "value": "Sulpicius Severus"
+        "value": "Sulpicius, Severus"
       }
     ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 11,
+        "value": "Briefe"
+      }
+    ],
     "note_source": "",
     "Created by": {
       "id": 87,
@@ -379,7 +399,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-05"
+    "Last modified": "2024-07-12"
   },
   "19": {
     "id": 19,
@@ -391,7 +411,7 @@
     "author": [
       {
         "id": 23,
-        "value": "Sulpicius Severus"
+        "value": "Sulpicius, Severus"
       }
     ],
     "bibliography": [],
@@ -419,7 +439,7 @@
     "author": [
       {
         "id": 7,
-        "value": "Gregory of Tours"
+        "value": "Gregor, Tours"
       }
     ],
     "bibliography": [],
@@ -457,15 +477,15 @@
     "author": [
       {
         "id": 23,
-        "value": "Sulpicius Severus"
+        "value": "Sulpicius, Severus"
       }
     ],
     "bibliography": [],
     "source_text": [],
     "genre": [
       {
-        "id": 7,
-        "value": "Hymnus"
+        "id": 6,
+        "value": "Lyrik"
       }
     ],
     "note_source": "Autorschaft umstritten",
@@ -478,7 +498,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2024-07-12"
   },
   "22": {
     "id": 22,
@@ -490,7 +510,7 @@
     "author": [
       {
         "id": 7,
-        "value": "Gregory of Tours"
+        "value": "Gregor, Tours"
       }
     ],
     "bibliography": [],
@@ -500,7 +520,12 @@
         "value": "Historiae Francorum libri decem"
       }
     ],
-    "genre": [],
+    "genre": [
+      {
+        "id": 8,
+        "value": "Topographische Beschreibung"
+      }
+    ],
     "note_source": "II, 14",
     "Created by": {
       "id": 87,
@@ -511,7 +536,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2024-07-12"
   },
   "74": {
     "id": 74,
@@ -523,7 +548,7 @@
     "author": [
       {
         "id": 7,
-        "value": "Gregory of Tours"
+        "value": "Gregor, Tours"
       }
     ],
     "bibliography": [],
@@ -566,7 +591,12 @@
     ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 10,
+        "value": "Confessio"
+      }
+    ],
     "note_source": "",
     "Created by": {
       "id": 87,
@@ -577,7 +607,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2024-07-12"
   },
   "24": {
     "id": 24,
@@ -617,7 +647,7 @@
     "author": [
       {
         "id": 16,
-        "value": "Alcuinus"
+        "value": "Alkuin"
       }
     ],
     "bibliography": [],
@@ -645,12 +675,17 @@
     "author": [
       {
         "id": 17,
-        "value": "Justinianus"
+        "value": "Justinian I"
       }
     ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 12,
+        "value": "Recht"
+      }
+    ],
     "note_source": "",
     "Created by": {
       "id": 87,
@@ -661,7 +696,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-05"
+    "Last modified": "2024-07-12"
   },
   "27": {
     "id": 27,
@@ -673,7 +708,7 @@
     "author": [
       {
         "id": 15,
-        "value": "Cassiodor"
+        "value": "Cassiodorus, Flavius Magnus Aurelius"
       }
     ],
     "bibliography": [],
@@ -706,7 +741,12 @@
     "author": [],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 9,
+        "value": "Theologische Literatur"
+      }
+    ],
     "note_source": "",
     "Created by": {
       "id": 87,
@@ -717,7 +757,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-04"
+    "Last modified": "2024-07-12"
   },
   "29": {
     "id": 29,
@@ -729,11 +769,11 @@
     "author": [
       {
         "id": 12,
-        "value": "Eusebius"
+        "value": "Eusebius, Caesariensis"
       },
       {
         "id": 13,
-        "value": "Rufinus"
+        "value": "Rufinus, Aquileiensis"
       }
     ],
     "bibliography": [],
@@ -766,7 +806,7 @@
     "author": [
       {
         "id": 10,
-        "value": "Liutprand of Cremona"
+        "value": "Liutprand, Cremona"
       }
     ],
     "bibliography": [],
@@ -799,7 +839,7 @@
     "author": [
       {
         "id": 10,
-        "value": "Liutprand of Cremona"
+        "value": "Liutprand, Cremona"
       }
     ],
     "bibliography": [],
@@ -832,7 +872,7 @@
     "author": [
       {
         "id": 11,
-        "value": "Regino of Prüm"
+        "value": "Regino, Prüm"
       }
     ],
     "bibliography": [],
@@ -997,7 +1037,7 @@
     "author": [
       {
         "id": 19,
-        "value": "Athanasius Alexandrinus"
+        "value": "Athanasius, Alexandrinus"
       }
     ],
     "bibliography": [],
@@ -1030,7 +1070,7 @@
     "author": [
       {
         "id": 20,
-        "value": "Willibaldus Moguntinensis"
+        "value": "Willibaldus, Moguntinensis"
       }
     ],
     "bibliography": [],
@@ -1063,7 +1103,7 @@
     "author": [
       {
         "id": 21,
-        "value": "Hugeburc Heidenheimensis"
+        "value": "Hugeburc, Heidenheimensis"
       }
     ],
     "bibliography": [],
@@ -1096,7 +1136,7 @@
     "author": [
       {
         "id": 21,
-        "value": "Hugeburc Heidenheimensis"
+        "value": "Hugeburc, Heidenheimensis"
       }
     ],
     "bibliography": [],
@@ -1157,7 +1197,7 @@
     "author": [
       {
         "id": 28,
-        "value": "Isidorus Hispalensis"
+        "value": "Isidor, Sevilla"
       }
     ],
     "bibliography": [],
@@ -1185,7 +1225,7 @@
     "author": [
       {
         "id": 28,
-        "value": "Isidorus Hispalensis"
+        "value": "Isidor, Sevilla"
       }
     ],
     "bibliography": [],
@@ -1213,7 +1253,7 @@
     "author": [
       {
         "id": 28,
-        "value": "Isidorus Hispalensis"
+        "value": "Isidor, Sevilla"
       }
     ],
     "bibliography": [],
@@ -1264,7 +1304,7 @@
     "author": [
       {
         "id": 26,
-        "value": "Ps.-Gregorius Magnus"
+        "value": "Ps.-Gregor I"
       }
     ],
     "bibliography": [],
@@ -1297,7 +1337,12 @@
     ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 9,
+        "value": "Theologische Literatur"
+      }
+    ],
     "note_source": "",
     "Created by": {
       "id": 87,
@@ -1308,7 +1353,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-04"
+    "Last modified": "2024-07-12"
   },
   "48": {
     "id": 48,
@@ -1320,12 +1365,17 @@
     "author": [
       {
         "id": 25,
-        "value": "Gregorius Magnus"
+        "value": "Gregor I"
       }
     ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 13,
+        "value": "Biblische Kommentare"
+      }
+    ],
     "note_source": "",
     "Created by": {
       "id": 87,
@@ -1336,7 +1386,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-05"
+    "Last modified": "2024-07-12"
   },
   "49": {
     "id": 49,
@@ -1348,7 +1398,7 @@
     "author": [
       {
         "id": 22,
-        "value": "Adamnanus de Iona"
+        "value": "Adamnanus, de Iona"
       }
     ],
     "bibliography": [],
@@ -1404,7 +1454,7 @@
     "author": [
       {
         "id": 29,
-        "value": "Boethius"
+        "value": "Boethius, Anicius Manlius Severinus"
       }
     ],
     "bibliography": [],
@@ -1432,12 +1482,17 @@
     "author": [
       {
         "id": 30,
-        "value": "Esdra"
+        "value": "Esra"
       }
     ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 14,
+        "value": "Kalandologion"
+      }
+    ],
     "note_source": "",
     "Created by": {
       "id": 87,
@@ -1448,7 +1503,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-04"
+    "Last modified": "2024-07-12"
   },
   "53": {
     "id": 53,
@@ -1460,7 +1515,7 @@
     "author": [
       {
         "id": 18,
-        "value": "Publius Annius Florus"
+        "value": "Florus, Publius Annius"
       }
     ],
     "bibliography": [],
@@ -1521,7 +1576,7 @@
     "author": [
       {
         "id": 13,
-        "value": "Rufinus"
+        "value": "Rufinus, Aquileiensis"
       }
     ],
     "bibliography": [],
@@ -1656,7 +1711,7 @@
     "author": [
       {
         "id": 7,
-        "value": "Gregory of Tours"
+        "value": "Gregor, Tours"
       }
     ],
     "bibliography": [],
@@ -1694,7 +1749,7 @@
     "author": [
       {
         "id": 7,
-        "value": "Gregory of Tours"
+        "value": "Gregor, Tours"
       }
     ],
     "bibliography": [],
@@ -1778,7 +1833,7 @@
     "author": [
       {
         "id": 36,
-        "value": "Erchanbertus Frisingensis"
+        "value": "Erchanbertus, Frisingensis"
       }
     ],
     "bibliography": [],
@@ -1979,7 +2034,12 @@
     "gnd_url": "",
     "note": "",
     "hit_id": "hit_works__72",
-    "author": [],
+    "author": [
+      {
+        "id": 39,
+        "value": "Anonymus"
+      }
+    ],
     "bibliography": [],
     "source_text": [],
     "genre": [],
@@ -1993,7 +2053,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2024-07-12"
   },
   "73": {
     "id": 73,
@@ -2005,7 +2065,7 @@
     "author": [
       {
         "id": 7,
-        "value": "Gregory of Tours"
+        "value": "Gregor, Tours"
       }
     ],
     "bibliography": [],

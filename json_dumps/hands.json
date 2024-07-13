@@ -28,7 +28,7 @@
       }
     ],
     "number": "1",
-    "notes": null,
+    "note": null,
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -38,7 +38,8 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-07"
+    "Last modified": "2024-07-07",
+    "identical_hands": []
   },
   "12": {
     "id": 12,
@@ -64,7 +65,7 @@
       }
     ],
     "number": "2",
-    "notes": null,
+    "note": null,
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -74,7 +75,8 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-05"
+    "Last modified": "2024-07-05",
+    "identical_hands": []
   },
   "5": {
     "id": 5,
@@ -105,7 +107,7 @@
       }
     ],
     "number": "3",
-    "notes": null,
+    "note": null,
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -115,7 +117,8 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-05"
+    "Last modified": "2024-07-05",
+    "identical_hands": []
   },
   "13": {
     "id": 13,
@@ -141,7 +144,7 @@
       }
     ],
     "number": "4",
-    "notes": null,
+    "note": null,
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -151,7 +154,8 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-10"
+    "Last modified": "2024-07-10",
+    "identical_hands": []
   },
   "14": {
     "id": 14,
@@ -177,7 +181,7 @@
       }
     ],
     "number": "5",
-    "notes": "Laut Bischoff 2 verschiedene Hände",
+    "note": "Laut Bischoff 2 verschiedene Hände",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -187,7 +191,8 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-10"
+    "Last modified": "2024-07-12",
+    "identical_hands": []
   },
   "15": {
     "id": 15,
@@ -213,7 +218,7 @@
       }
     ],
     "number": "6",
-    "notes": "PLATZHALTER: Schreibergruppe, verschiedene Hände",
+    "note": "PLATZHALTER: Schreibergruppe, verschiedene Hände",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -223,7 +228,8 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-10"
+    "Last modified": "2024-07-10",
+    "identical_hands": []
   },
   "16": {
     "id": 16,
@@ -249,7 +255,7 @@
       }
     ],
     "number": "7",
-    "notes": "Korrektur (Saint-Amand)",
+    "note": "Korrektur (Saint-Amand)",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -259,7 +265,8 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-10"
+    "Last modified": "2024-07-10",
+    "identical_hands": []
   },
   "17": {
     "id": 17,
@@ -285,7 +292,7 @@
       }
     ],
     "number": "8",
-    "notes": "",
+    "note": "",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -295,7 +302,8 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2024-07-11",
+    "identical_hands": []
   },
   "18": {
     "id": 18,
@@ -321,7 +329,7 @@
       }
     ],
     "number": "9",
-    "notes": "Platzhalter: Schreibergruppe drei oder mehr, einer davon ist H.2.",
+    "note": "Platzhalter: Schreibergruppe drei oder mehr, einer davon ist H.2.",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -331,7 +339,8 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2024-07-12",
+    "identical_hands": []
   },
   "19": {
     "id": 19,
@@ -357,7 +366,7 @@
       }
     ],
     "number": "1",
-    "notes": "",
+    "note": "",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -367,6 +376,44 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2024-07-11",
+    "identical_hands": []
+  },
+  "20": {
+    "id": 20,
+    "order": "19.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6326_H. 2"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__20",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "number": "2",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-12",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12",
+    "identical_hands": []
   }
 }

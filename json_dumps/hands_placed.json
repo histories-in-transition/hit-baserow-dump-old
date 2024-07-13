@@ -188,5 +188,61 @@
       "id": 86,
       "name": "Leon Pürstinger"
     }
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "hit_id": "hit_hands_placed__8",
+    "hand": [
+      {
+        "id": 17,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 8"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ],
+    "page": "133-134",
+    "place": [
+      {
+        "id": 5,
+        "value": "Saint-Amand-les-Eaux"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "hit_id": "hit_hands_placed__9",
+    "hand": [
+      {
+        "id": 18,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 9"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ],
+    "page": "133-134",
+    "place": [
+      {
+        "id": 5,
+        "value": "Saint-Amand-les-Eaux"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
   }
 }

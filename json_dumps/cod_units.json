@@ -496,5 +496,45 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-11"
+  },
+  "13": {
+    "id": 13,
+    "order": "12.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 22,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 366, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__13",
+    "locus": "",
+    "manuscript": [
+      {
+        "id": 22,
+        "value": "ÖNB, Cod. 366"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "prov_place": [
+      {
+        "id": 3,
+        "value": "Salzburg"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-12",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-12"
   }
 }

@@ -111,26 +111,133 @@
     },
     "Last modified": "2024-07-11"
   },
-  "7": {
-    "id": 7,
+  "8": {
+    "id": 8,
     "order": "7.00000000000000000000",
-    "genre": "Hymnus",
-    "hit_id": "hit_genres__7",
+    "genre": "Topographische Beschreibung",
+    "hit_id": "hit_genres__8",
+    "main_genre": [],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-12",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "9": {
+    "id": 9,
+    "order": "8.00000000000000000000",
+    "genre": "Theologische Literatur",
+    "hit_id": "hit_genres__9",
+    "main_genre": [],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-12",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "10": {
+    "id": 10,
+    "order": "9.00000000000000000000",
+    "genre": "Confessio",
+    "hit_id": "hit_genres__10",
     "main_genre": [
       {
-        "id": 6,
-        "value": "Lyrik"
+        "id": 9,
+        "value": "Theologische Literatur"
       }
     ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Created on": "2024-07-11",
+    "Created on": "2024-07-12",
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2024-07-12"
+  },
+  "11": {
+    "id": 11,
+    "order": "10.00000000000000000000",
+    "genre": "Briefe",
+    "hit_id": "hit_genres__11",
+    "main_genre": [],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-12",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "12": {
+    "id": 12,
+    "order": "11.00000000000000000000",
+    "genre": "Recht",
+    "hit_id": "hit_genres__12",
+    "main_genre": [],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-12",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "13": {
+    "id": 13,
+    "order": "12.00000000000000000000",
+    "genre": "Biblische Kommentare",
+    "hit_id": "hit_genres__13",
+    "main_genre": [
+      {
+        "id": 9,
+        "value": "Theologische Literatur"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-12",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "14": {
+    "id": 14,
+    "order": "13.00000000000000000000",
+    "genre": "Kalandologion",
+    "hit_id": "hit_genres__14",
+    "main_genre": [],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-12",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12"
   }
 }

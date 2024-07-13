@@ -42,7 +42,7 @@
     "orig_date": [
       {
         "id": 3,
-        "value": "9 J., Mitte"
+        "value": "9 Jh., Mitte"
       }
     ],
     "catchwords": "",
@@ -98,7 +98,7 @@
     "binding_date": [
       {
         "id": 8,
-        "value": "15 J."
+        "value": "15 Jh."
       }
     ],
     "history": "In Zusammenarbeit der beiden Schriftzentren Saint-Amand und Salzburg entstanden. Befand sich im Jahr 976 noch in Salzburg. Signaturen: 1r (LXXXIII, 15. Jhdt), 2r (LXXXIII, 15. Jhdt), Buchrücken (81, 18. Jhdt).",
@@ -119,7 +119,7 @@
     "orig_date": [
       {
         "id": 7,
-        "value": "9 J., erstes Viertel"
+        "value": "9 Jh., erstes Viertel"
       }
     ],
     "catchwords": "",
@@ -147,7 +147,7 @@
           "database_table_3512": 7,
           "database_table_3516": 3
         },
-        "value": "9 J., erstes Viertel"
+        "value": "9 Jh., erstes Viertel"
       }
     ],
     "Created by": {
@@ -255,7 +255,7 @@
     "binding_date": [
       {
         "id": 20,
-        "value": "14-15 J."
+        "value": "14-15 Jh."
       }
     ],
     "history": "Geschrieben in Freising,  seit 12 J. in Besitz der Dombibliothek. Besitzmarke: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (on the cover). Möglicherweise diente als Handbuch des Bischofs Abraham (N. Daniel).",
@@ -272,11 +272,11 @@
     "orig_date": [
       {
         "id": 4,
-        "value": "10 J., Mitte"
+        "value": "10 Jh., Mitte"
       },
       {
         "id": 5,
-        "value": "10 J., zweite Hälfte"
+        "value": "10 Jh., zweite Hälfte"
       }
     ],
     "catchwords": "",
@@ -308,14 +308,14 @@
           "database_table_3512": 4,
           "database_table_3516": 5
         },
-        "value": "10 J., Mitte"
+        "value": "10 Jh., Mitte"
       },
       {
         "ids": {
           "database_table_3512": 5,
           "database_table_3516": 4
         },
-        "value": "10 J., zweite Hälfte"
+        "value": "10 Jh., zweite Hälfte"
       }
     ],
     "Created by": {
@@ -459,7 +459,7 @@
     "orig_date": [
       {
         "id": 11,
-        "value": "10 J., spät"
+        "value": "10 Jh., spät"
       }
     ],
     "catchwords": "",
@@ -487,7 +487,7 @@
           "database_table_3512": 11,
           "database_table_3516": 10
         },
-        "value": "10 J., spät"
+        "value": "10 Jh., spät"
       }
     ],
     "Created by": {
@@ -522,7 +522,7 @@
     "catalog_url": "https://handschriftenportal.de/search?hspobjectid=HSP-ec691efa-fba1-3c33-a17b-18a4fbb2e305&q=6375&hl=true",
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054504?page=,1",
     "idno": "Clm. 6375",
-    "idno_former": "",
+    "idno_former": "Fris. 175",
     "quire_structure": "(V - 3) 7+ IV 15+ 2 (V - 2) 31+ IV 39+ (V - 2) 47+ IV 55+ (V - 2) 63+ 3 IV 87+ 5 (V - 2) 127+ (IV - 1) 134+ IV 142+ (IV + [I - 1] 144- 1) 150+ IV 158+ 2 (V - 2) 174+ IV 182+ (VI - 3) 191+ (IV - 2) 197+ (VIII - 7) 206+ (VI - 4) 214+ IV 222+ (III - 1) 227",
     "library_full": [
       {
@@ -549,7 +549,7 @@
     "orig_date": [
       {
         "id": 6,
-        "value": "9 J., erste Hälfte"
+        "value": "9 Jh., erste Hälfte"
       }
     ],
     "catchwords": "",
@@ -581,14 +581,14 @@
           "database_table_3512": 2,
           "database_table_3516": 19
         },
-        "value": "9 J., erstes Drittel"
+        "value": "9 Jh., erstes Drittel"
       },
       {
         "ids": {
           "database_table_3512": 6,
           "database_table_3516": 11
         },
-        "value": "9 J., erste Hälfte"
+        "value": "9 Jh., erste Hälfte"
       }
     ],
     "Created by": {
@@ -596,11 +596,11 @@
       "name": "Ksenia Borisova"
     },
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-13",
-    "Last modified": "2024-07-05"
+    "Last modified": "2024-07-12"
   },
   "9": {
     "id": 9,
@@ -638,7 +638,7 @@
     "binding_date": [
       {
         "id": 1,
-        "value": "9 J."
+        "value": "9 Jh."
       }
     ],
     "history": "",
@@ -830,7 +830,7 @@
     "orig_date": [
       {
         "id": 12,
-        "value": "8J., Ende"
+        "value": "8 Jh., Ende"
       }
     ],
     "catchwords": "",
@@ -858,7 +858,7 @@
           "database_table_3512": 12,
           "database_table_3516": 12
         },
-        "value": "8J., Ende"
+        "value": "8 Jh., Ende"
       }
     ],
     "Created by": {
@@ -924,7 +924,7 @@
     "orig_date": [
       {
         "id": 5,
-        "value": "10 J., zweite Hälfte"
+        "value": "10 Jh., zweite Hälfte"
       }
     ],
     "catchwords": "",
@@ -952,7 +952,7 @@
           "database_table_3512": 5,
           "database_table_3516": 13
         },
-        "value": "10 J., zweite Hälfte"
+        "value": "10 Jh., zweite Hälfte"
       }
     ],
     "Created by": {
@@ -1014,7 +1014,7 @@
     "orig_date": [
       {
         "id": 11,
-        "value": "10 J., spät"
+        "value": "10 Jh., spät"
       }
     ],
     "catchwords": "",
@@ -1042,7 +1042,7 @@
           "database_table_3512": 11,
           "database_table_3516": 14
         },
-        "value": "10 J., spät"
+        "value": "10 Jh., spät"
       }
     ],
     "Created by": {
@@ -1104,7 +1104,7 @@
     "orig_date": [
       {
         "id": 13,
-        "value": "11 J."
+        "value": "11 Jh."
       }
     ],
     "catchwords": "",
@@ -1132,7 +1132,7 @@
           "database_table_3512": 13,
           "database_table_3516": 15
         },
-        "value": "11 J."
+        "value": "11 Jh."
       }
     ],
     "Created by": {
@@ -1194,7 +1194,7 @@
     "orig_date": [
       {
         "id": 14,
-        "value": "8 J., spät"
+        "value": "8 Jh., spät"
       }
     ],
     "catchwords": "",
@@ -1222,7 +1222,7 @@
           "database_table_3512": 14,
           "database_table_3516": 16
         },
-        "value": "8 J., spät"
+        "value": "8 Jh., spät"
       }
     ],
     "Created by": {
@@ -1284,7 +1284,7 @@
     "orig_date": [
       {
         "id": 3,
-        "value": "9 J., Mitte"
+        "value": "9 Jh., Mitte"
       }
     ],
     "catchwords": "",
@@ -1316,14 +1316,14 @@
           "database_table_3512": 3,
           "database_table_3516": 17
         },
-        "value": "9 J., Mitte"
+        "value": "9 Jh., Mitte"
       },
       {
         "ids": {
           "database_table_3512": 26,
           "database_table_3516": 20
         },
-        "value": "9 J., zweites Viertel"
+        "value": "9 Jh., zweites Viertel"
       }
     ],
     "Created by": {
@@ -1417,7 +1417,7 @@
           "database_table_3512": 7,
           "database_table_3516": 21
         },
-        "value": "9 J., erstes Viertel"
+        "value": "9 Jh., erstes Viertel"
       },
       {
         "ids": {

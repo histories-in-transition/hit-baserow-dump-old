@@ -1,0 +1,30 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "label": [
+      {
+        "id": 11,
+        "value": "hieronymi chronicon, (?)"
+      }
+    ],
+    "work": [
+      {
+        "id": 11,
+        "value": "hieronymi chronicon"
+      }
+    ],
+    "scope": "(?)",
+    "hit_id": "hit_excerpts__1",
+    "description": "Auszug der Jahre 47, 56 und 70 n. Chr"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "label": [],
+    "work": [],
+    "scope": "",
+    "hit_id": "hit_excerpts__2",
+    "description": null
+  }
+}

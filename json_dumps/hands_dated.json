@@ -48,8 +48,8 @@
     "page": "134",
     "dated": [
       {
-        "id": 23,
-        "value": "821-828"
+        "id": 24,
+        "value": "nach 821"
       }
     ],
     "hand": [
@@ -67,9 +67,9 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-10",
+    "Last modified": "2024-07-15",
     "Created on": "2024-06-25",
-    "note": null
+    "note": ""
   },
   "7": {
     "id": 7,
@@ -156,8 +156,8 @@
     "page": "134",
     "dated": [
       {
-        "id": 23,
-        "value": "821-828"
+        "id": 24,
+        "value": "nach 821"
       }
     ],
     "hand": [
@@ -175,7 +175,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-12",
+    "Last modified": "2024-07-15",
     "Created on": "2024-07-10",
     "note": null
   },
@@ -285,6 +285,109 @@
     },
     "Last modified": "2024-07-12",
     "Created on": "2024-07-12",
+    "note": ""
+  },
+  "13": {
+    "id": 13,
+    "order": "12.00000000000000000000",
+    "hit_id": "hit_hands_dated__13",
+    "authority": [
+      {
+        "id": 6,
+        "value": "Daniel, N."
+      }
+    ],
+    "page": "92-93",
+    "dated": [],
+    "hand": [
+      {
+        "id": 19,
+        "value": "BSB, Clm. 6326_H. 1"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-15",
+    "Created on": "2024-07-15",
+    "note": ""
+  },
+  "14": {
+    "id": 14,
+    "order": "13.00000000000000000000",
+    "hit_id": "hit_hands_dated__14",
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ],
+    "page": "134",
+    "dated": [
+      {
+        "id": 13,
+        "value": "11 Jh."
+      }
+    ],
+    "hand": [
+      {
+        "id": 21,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 10"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-15",
+    "Created on": "2024-07-15",
+    "note": ""
+  },
+  "15": {
+    "id": 15,
+    "order": "14.00000000000000000000",
+    "hit_id": "hit_hands_dated__15",
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ],
+    "page": "134",
+    "dated": [
+      {
+        "id": 27,
+        "value": "10. Jh."
+      }
+    ],
+    "hand": [
+      {
+        "id": 22,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 11"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-15",
+    "Created on": "2024-07-15",
     "note": ""
   }
 }

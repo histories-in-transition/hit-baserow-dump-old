@@ -38,8 +38,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-07",
-    "identical_hands": []
+    "Last modified": "2024-07-07"
   },
   "12": {
     "id": 12,
@@ -54,7 +53,12 @@
       }
     ],
     "description": "Arn-Stil",
-    "scribe": [],
+    "scribe": [
+      {
+        "id": 40,
+        "value": "Salzburg_1_Test"
+      }
+    ],
     "hit_id": "hit_hands__12",
     "similar_hands": [],
     "nr_daniel": "",
@@ -72,11 +76,10 @@
     },
     "Created on": "2024-06-25",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-05",
-    "identical_hands": []
+    "Last modified": "2024-07-15"
   },
   "5": {
     "id": 5,
@@ -90,7 +93,7 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
       }
     ],
-    "description": "",
+    "description": "Kleine Buchstaben ohne schulmäßige Stilisierung, charakteristische Doppelung des langen s; cc-a möglich; großes T im Wortinneren; g oftmals oben offen, bogen geschlossen.",
     "scribe": [
       {
         "id": 6,
@@ -98,7 +101,12 @@
       }
     ],
     "hit_id": "hit_hands__5",
-    "similar_hands": [],
+    "similar_hands": [
+      {
+        "id": 11,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 1"
+      }
+    ],
     "nr_daniel": null,
     "manuscript": [
       {
@@ -114,11 +122,10 @@
     },
     "Created on": "2024-06-17",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-05",
-    "identical_hands": []
+    "Last modified": "2024-07-15"
   },
   "13": {
     "id": 13,
@@ -154,8 +161,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-10",
-    "identical_hands": []
+    "Last modified": "2024-07-10"
   },
   "14": {
     "id": 14,
@@ -170,7 +176,12 @@
       }
     ],
     "description": "Lothar-Zeit",
-    "scribe": [],
+    "scribe": [
+      {
+        "id": 40,
+        "value": "Salzburg_1_Test"
+      }
+    ],
     "hit_id": "hit_hands__14",
     "similar_hands": [],
     "nr_daniel": "",
@@ -191,8 +202,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-12",
-    "identical_hands": []
+    "Last modified": "2024-07-15"
   },
   "15": {
     "id": 15,
@@ -228,8 +238,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-10",
-    "identical_hands": []
+    "Last modified": "2024-07-10"
   },
   "16": {
     "id": 16,
@@ -265,8 +274,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-10",
-    "identical_hands": []
+    "Last modified": "2024-07-10"
   },
   "17": {
     "id": 17,
@@ -302,8 +310,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-11",
-    "identical_hands": []
+    "Last modified": "2024-07-11"
   },
   "18": {
     "id": 18,
@@ -339,8 +346,79 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-12",
-    "identical_hands": []
+    "Last modified": "2024-07-12"
+  },
+  "21": {
+    "id": 21,
+    "order": "17.50000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 10"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__21",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "number": "10",
+    "note": "Schreibt im 11. Jahrhundert einen liturgischen Nachtrag",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-15"
+  },
+  "22": {
+    "id": 22,
+    "order": "17.66666666666666785090",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 11"
+      }
+    ],
+    "description": "Charakteristisch sind das oben geschlossene und unten offene g, dessen markanter Bogen in der Unterlänge einen auffälligen Knick aufweist, das spezifisch gebildete et und das stark rechts geneigte und spitze s.",
+    "scribe": [],
+    "hit_id": "hit_hands__22",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "number": "11",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-15"
   },
   "19": {
     "id": 19,
@@ -358,7 +436,7 @@
     "scribe": [],
     "hit_id": "hit_hands__19",
     "similar_hands": [],
-    "nr_daniel": "",
+    "nr_daniel": "22",
     "manuscript": [
       {
         "id": 5,
@@ -366,7 +444,7 @@
       }
     ],
     "number": "1",
-    "note": "",
+    "note": "Nah zur Hand in Kollektar 27305: ff. 61r-113v, 149r-214v, 251r-261v. Beide Handschriften stellen ein Mertinellus dar und könnten als Reisebücher des Bischofs Abraham gedient haben.",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -376,8 +454,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-11",
-    "identical_hands": []
+    "Last modified": "2024-07-15"
   },
   "20": {
     "id": 20,
@@ -413,7 +490,6 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-12",
-    "identical_hands": []
+    "Last modified": "2024-07-15"
   }
 }

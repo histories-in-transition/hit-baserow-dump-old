@@ -1224,14 +1224,25 @@
     "id": 31,
     "order": "23.00000000000000000000",
     "hit_id": "hit_hands_role__31",
-    "hand": [],
+    "hand": [
+      {
+        "id": 21,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 10"
+      }
+    ],
     "ms_item": [
       {
         "id": 14,
         "value": "cod_m_p_th_f_46__14"
       }
     ],
-    "role": [],
+    "role": [
+      {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
+      }
+    ],
     "locus": "",
     "text": [
       {
@@ -1239,7 +1250,7 @@
           "database_table_3489": 68,
           "database_table_3491": 14
         },
-        "value": "Nachträge"
+        "value": "Responsorien, Versikel, Antiphonen der Quadragesimalzeit"
       }
     ],
     "locus_text": [
@@ -1257,6 +1268,206 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-12",
-    "Last modified": "2024-07-12"
+    "Last modified": "2024-07-15"
+  },
+  "32": {
+    "id": 32,
+    "order": "24.00000000000000000000",
+    "hit_id": "hit_hands_role__32",
+    "hand": [
+      {
+        "id": 22,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 11"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 81,
+        "value": "cod_m_p_th_f_46__81"
+      }
+    ],
+    "role": [
+      {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 75,
+          "database_table_3491": 81
+        },
+        "value": "Tintenrezept"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 81,
+        "value": "19v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-15",
+    "Last modified": "2024-07-15"
+  },
+  "33": {
+    "id": 33,
+    "order": "25.00000000000000000000",
+    "hit_id": "hit_hands_role__33",
+    "hand": [
+      {
+        "id": 22,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 11"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 83,
+        "value": "cod_m_p_th_f_46__83"
+      }
+    ],
+    "role": [
+      {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 77,
+          "database_table_3491": 83
+        },
+        "value": "Rezept"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 83,
+        "value": "98r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-15",
+    "Last modified": "2024-07-15"
+  },
+  "34": {
+    "id": 34,
+    "order": "26.00000000000000000000",
+    "hit_id": "hit_hands_role__34",
+    "hand": [
+      {
+        "id": 22,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 11"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 82,
+        "value": "cod_m_p_th_f_46__82"
+      }
+    ],
+    "role": [
+      {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 76,
+          "database_table_3491": 82
+        },
+        "value": "Abergläubische Segen"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 82,
+        "value": "20v; 21r; 98v (?)"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-15",
+    "Last modified": "2024-07-15"
+  },
+  "35": {
+    "id": 35,
+    "order": "27.00000000000000000000",
+    "hit_id": "hit_hands_role__35",
+    "hand": [
+      {
+        "id": 5,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 84,
+        "value": "cod_m_p_th_f_46__84"
+      }
+    ],
+    "role": [
+      {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
+      }
+    ],
+    "locus": "117v; 118v; 147v; 148r",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 78,
+          "database_table_3491": 84
+        },
+        "value": "Historische und komputistische Zusätze"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 84,
+        "value": "98r-148v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-15",
+    "Last modified": "2024-07-15"
   }
 }

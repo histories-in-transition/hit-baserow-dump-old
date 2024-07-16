@@ -1933,9 +1933,9 @@
   "68": {
     "id": 68,
     "order": "67.00000000000000000000",
-    "title": "Nachträge",
+    "title": "Responsorien, Versikel, Antiphonen der Quadragesimalzeit",
     "gnd_url": "",
-    "note": "Responsorien, Versikel, Antiphonen der Quadragesimalzeit, z.T. mit Neumen (11. Jh.).",
+    "note": "",
     "hit_id": "hit_works__68",
     "author": [],
     "bibliography": [],
@@ -1951,7 +1951,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2024-07-15"
   },
   "69": {
     "id": 69,
@@ -2087,5 +2087,97 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-11"
+  },
+  "75": {
+    "id": 75,
+    "order": "73.00000000000000000000",
+    "title": "Tintenrezept",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__75",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-15"
+  },
+  "76": {
+    "id": 76,
+    "order": "74.00000000000000000000",
+    "title": "Abergläubische Segen",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__76",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-15"
+  },
+  "77": {
+    "id": 77,
+    "order": "75.00000000000000000000",
+    "title": "Rezept",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__77",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-15"
+  },
+  "78": {
+    "id": 78,
+    "order": "76.00000000000000000000",
+    "title": "Historische und komputistische Zusätze",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__78",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-15"
   }
 }

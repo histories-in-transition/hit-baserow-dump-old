@@ -38,7 +38,25 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-07"
+    "Last modified": "2024-07-07",
+    "hands_role": [
+      {
+        "id": 2,
+        "value": "hit_hands_role__2"
+      }
+    ],
+    "role": [
+      {
+        "id": 2,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ]
   },
   "12": {
     "id": 12,
@@ -53,12 +71,7 @@
       }
     ],
     "description": "Arn-Stil",
-    "scribe": [
-      {
-        "id": 40,
-        "value": "Salzburg_1_Test"
-      }
-    ],
+    "scribe": [],
     "hit_id": "hit_hands__12",
     "similar_hands": [],
     "nr_daniel": "",
@@ -79,7 +92,53 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-15"
+    "Last modified": "2024-07-16",
+    "hands_role": [
+      {
+        "id": 3,
+        "value": "hit_hands_role__3"
+      },
+      {
+        "id": 17,
+        "value": "hit_hands_role__17"
+      },
+      {
+        "id": 20,
+        "value": "hit_hands_role__20"
+      }
+    ],
+    "role": [
+      {
+        "id": 3,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ]
   },
   "5": {
     "id": 5,
@@ -125,7 +184,151 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-15"
+    "Last modified": "2024-07-15",
+    "hands_role": [
+      {
+        "id": 6,
+        "value": "hit_hands_role__6"
+      },
+      {
+        "id": 14,
+        "value": "hit_hands_role__14"
+      },
+      {
+        "id": 4,
+        "value": "hit_hands_role__4"
+      },
+      {
+        "id": 5,
+        "value": "hit_hands_role__5"
+      },
+      {
+        "id": 10,
+        "value": "hit_hands_role__10"
+      },
+      {
+        "id": 11,
+        "value": "hit_hands_role__11"
+      },
+      {
+        "id": 15,
+        "value": "hit_hands_role__15"
+      },
+      {
+        "id": 26,
+        "value": "hit_hands_role__26"
+      },
+      {
+        "id": 35,
+        "value": "hit_hands_role__35"
+      },
+      {
+        "id": 40,
+        "value": "hit_hands_role__40"
+      }
+    ],
+    "role": [
+      {
+        "id": 6,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "value": [
+          {
+            "id": 14760,
+            "value": "corrector",
+            "color": "darker-blue"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "value": [
+          {
+            "id": 14760,
+            "value": "corrector",
+            "color": "darker-blue"
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "value": [
+          {
+            "id": 14759,
+            "value": "commentator",
+            "color": "darker-green"
+          }
+        ]
+      }
+    ]
   },
   "13": {
     "id": 13,
@@ -161,7 +364,25 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-10"
+    "Last modified": "2024-07-10",
+    "hands_role": [
+      {
+        "id": 22,
+        "value": "hit_hands_role__22"
+      }
+    ],
+    "role": [
+      {
+        "id": 22,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ]
   },
   "14": {
     "id": 14,
@@ -176,12 +397,7 @@
       }
     ],
     "description": "Lothar-Zeit",
-    "scribe": [
-      {
-        "id": 40,
-        "value": "Salzburg_1_Test"
-      }
-    ],
+    "scribe": [],
     "hit_id": "hit_hands__14",
     "similar_hands": [],
     "nr_daniel": "",
@@ -202,7 +418,39 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-15"
+    "Last modified": "2024-07-16",
+    "hands_role": [
+      {
+        "id": 21,
+        "value": "hit_hands_role__21"
+      },
+      {
+        "id": 23,
+        "value": "hit_hands_role__23"
+      }
+    ],
+    "role": [
+      {
+        "id": 21,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ]
   },
   "15": {
     "id": 15,
@@ -238,7 +486,25 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-10"
+    "Last modified": "2024-07-10",
+    "hands_role": [
+      {
+        "id": 16,
+        "value": "hit_hands_role__16"
+      }
+    ],
+    "role": [
+      {
+        "id": 16,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ]
   },
   "16": {
     "id": 16,
@@ -274,7 +540,25 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-10"
+    "Last modified": "2024-07-10",
+    "hands_role": [
+      {
+        "id": 12,
+        "value": "hit_hands_role__12"
+      }
+    ],
+    "role": [
+      {
+        "id": 12,
+        "value": [
+          {
+            "id": 14760,
+            "value": "corrector",
+            "color": "darker-blue"
+          }
+        ]
+      }
+    ]
   },
   "17": {
     "id": 17,
@@ -288,7 +572,7 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46_H. 8"
       }
     ],
-    "description": "\"Weniger geschmeidige Schrift\" mit schräg abgeschnittenen Oberlängen",
+    "description": "\"Weniger geschmeidige Schrift\" (Bischoff, 133) des Arn-Stils mit schräg abgeschnittenen Oberlängen. Verwendet am Wortanfang und -ende oftmals ein halbunziales g. Ansonsten kann der Bogen des g in der Unterlänge sowohl offen als auch annähernd geschlossen sein. Zahlreiche r-Ligaturen und st-, ct- sowie et-Ligaturen. Der Schaft des am Kopf stehenden T wird lang und steil in die Oberlänge geführt. Auf 95r füllt er die Zeile mit Fragenzeichen, was bis in die Lotharius-Zeit in Saint-Amand und gelegentlich in Salzburg praktiziert wurde.",
     "scribe": [],
     "hit_id": "hit_hands__17",
     "similar_hands": [],
@@ -310,7 +594,25 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2024-07-16",
+    "hands_role": [
+      {
+        "id": 18,
+        "value": "hit_hands_role__18"
+      }
+    ],
+    "role": [
+      {
+        "id": 18,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ]
   },
   "18": {
     "id": 18,
@@ -346,7 +648,81 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-12"
+    "Last modified": "2024-07-12",
+    "hands_role": [
+      {
+        "id": 19,
+        "value": "hit_hands_role__19"
+      },
+      {
+        "id": 24,
+        "value": "hit_hands_role__24"
+      },
+      {
+        "id": 28,
+        "value": "hit_hands_role__28"
+      },
+      {
+        "id": 29,
+        "value": "hit_hands_role__29"
+      },
+      {
+        "id": 30,
+        "value": "hit_hands_role__30"
+      }
+    ],
+    "role": [
+      {
+        "id": 19,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ]
   },
   "21": {
     "id": 21,
@@ -382,7 +758,25 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-15"
+    "Last modified": "2024-07-15",
+    "hands_role": [
+      {
+        "id": 31,
+        "value": "hit_hands_role__31"
+      }
+    ],
+    "role": [
+      {
+        "id": 31,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ]
   },
   "22": {
     "id": 22,
@@ -418,7 +812,107 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-15"
+    "Last modified": "2024-07-15",
+    "hands_role": [
+      {
+        "id": 32,
+        "value": "hit_hands_role__32"
+      },
+      {
+        "id": 33,
+        "value": "hit_hands_role__33"
+      },
+      {
+        "id": 34,
+        "value": "hit_hands_role__34"
+      }
+    ],
+    "role": [
+      {
+        "id": 32,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ]
+  },
+  "25": {
+    "id": 25,
+    "order": "17.75000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 12"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__25",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "number": "12",
+    "note": "Fügt im 11. Jahrhundert einen neumierten Eintrag am unteren Rand der Ostertafel über die Entzündung der Osterkerze ein.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-16",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-16",
+    "hands_role": [
+      {
+        "id": 25,
+        "value": "hit_hands_role__25"
+      }
+    ],
+    "role": [
+      {
+        "id": 25,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ]
   },
   "19": {
     "id": 19,
@@ -454,7 +948,9 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-15"
+    "Last modified": "2024-07-15",
+    "hands_role": [],
+    "role": []
   },
   "20": {
     "id": 20,
@@ -490,6 +986,353 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-15"
+    "Last modified": "2024-07-15",
+    "hands_role": [
+      {
+        "id": 27,
+        "value": "hit_hands_role__27"
+      }
+    ],
+    "role": [
+      {
+        "id": 27,
+        "value": [
+          {
+            "id": 14760,
+            "value": "corrector",
+            "color": "darker-blue"
+          }
+        ]
+      }
+    ]
+  },
+  "23": {
+    "id": 23,
+    "order": "20.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 6,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6308_H. 1"
+      }
+    ],
+    "description": "\"Mitglied der ersten bodenständigen Freisinger Schreibergruppe und bediente sich in ausgereifter Übereinstimmung einer vor- oder frühkarolingischen Schrift, die in ursprünglicher Weise frei von insu- laren Zügen ist\" (Bischoff 1960:63); \"alemanische Schriftmerkmale\" (Bischoff (1960: 77), Traube (1898: 52), Maag (2014: 121f. und Abb. 78))",
+    "scribe": [
+      {
+        "id": 41,
+        "value": "Freising_1"
+      }
+    ],
+    "hit_id": "hit_hands__23",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 6,
+        "value": "BSB, Clm. 6308"
+      }
+    ],
+    "number": "1",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-16",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-16",
+    "hands_role": [
+      {
+        "id": 36,
+        "value": "hit_hands_role__36"
+      }
+    ],
+    "role": [
+      {
+        "id": 36,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ]
+  },
+  "24": {
+    "id": 24,
+    "order": "21.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 6,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6308_H. 2"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__24",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 6,
+        "value": "BSB, Clm. 6308"
+      }
+    ],
+    "number": "2",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-16",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-16",
+    "hands_role": [
+      {
+        "id": 38,
+        "value": "hit_hands_role__38"
+      }
+    ],
+    "role": [
+      {
+        "id": 38,
+        "value": [
+          {
+            "id": 14760,
+            "value": "corrector",
+            "color": "darker-blue"
+          }
+        ]
+      }
+    ]
+  },
+  "26": {
+    "id": 26,
+    "order": "22.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 22,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 366_H. 1"
+      }
+    ],
+    "description": "Eines der \"besten Beispiele des frühen Stils I mit verhältnismäßig hohen Buchstaben\" (Bischoff 86). Diese Hand verwendet sowohl a als auch ein offenes a mit zwei Spitzen und d sowie rundes d. Charakteristische Ligaturen z.B. as, nt, ti (insular).",
+    "scribe": [],
+    "hit_id": "hit_hands__26",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 22,
+        "value": "ÖNB, Cod. 366"
+      }
+    ],
+    "number": "1",
+    "note": "Haupthand",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-16",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-16",
+    "hands_role": [
+      {
+        "id": 39,
+        "value": "hit_hands_role__39"
+      }
+    ],
+    "role": [
+      {
+        "id": 39,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ]
+  },
+  "27": {
+    "id": 27,
+    "order": "23.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 22,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 366_H. 2"
+      }
+    ],
+    "description": "Stil II",
+    "scribe": [],
+    "hit_id": "hit_hands__27",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 22,
+        "value": "ÖNB, Cod. 366"
+      }
+    ],
+    "number": "2",
+    "note": "Ev. mit dem Fragment in Clm 5447 identisch (Bischoff 86)",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-16",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-16",
+    "hands_role": [
+      {
+        "id": 41,
+        "value": "hit_hands_role__41"
+      }
+    ],
+    "role": [
+      {
+        "id": 41,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ]
+  },
+  "28": {
+    "id": 28,
+    "order": "24.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 22,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 366_H. 3"
+      }
+    ],
+    "description": "Stil II mit häufigen Zierstrichen an a und am unteren Bogen des g sowie an einem äußerst niedrigen Bogen des langen s.",
+    "scribe": [],
+    "hit_id": "hit_hands__28",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 22,
+        "value": "ÖNB, Cod. 366"
+      }
+    ],
+    "number": "3",
+    "note": "Nach Bischoff mit Schriftbildern in St. Peter a VII 2, Salzburg, Univ.-Bibl. M I 477, ÖNB Cod. 1007 und ÖNB Cod. 1332 ident.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-16",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-16",
+    "hands_role": [
+      {
+        "id": 42,
+        "value": "hit_hands_role__42"
+      }
+    ],
+    "role": [
+      {
+        "id": 42,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ]
+  },
+  "29": {
+    "id": 29,
+    "order": "25.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 22,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 366_H. 4"
+      }
+    ],
+    "description": "Kalligraphische Hand des Stils II, aber in gemilderter Ausführung.",
+    "scribe": [],
+    "hit_id": "hit_hands__29",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 22,
+        "value": "ÖNB, Cod. 366"
+      }
+    ],
+    "number": "4",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-16",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-16",
+    "hands_role": [
+      {
+        "id": 43,
+        "value": "hit_hands_role__43"
+      }
+    ],
+    "role": [
+      {
+        "id": 43,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ]
   }
 }

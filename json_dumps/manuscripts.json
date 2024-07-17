@@ -111,7 +111,7 @@
       }
     ],
     "catchwords": "",
-    "quiremarks": "In römischen Zahlen",
+    "quiremarks": "Nicht durchgehend; in römischen Zahlen.",
     "material": {
       "id": 14782,
       "value": "parchment",
@@ -143,11 +143,11 @@
       "name": "Peter Andorfer"
     },
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "Created on": "2024-06-04",
-    "Last modified": "2024-07-05"
+    "Last modified": "2024-07-16"
   },
   "4": {
     "id": 4,
@@ -249,7 +249,7 @@
     "bibliography": [],
     "height": "195",
     "width": "165",
-    "material_spec": "Pergament von anderer Handschrift benutzt",
+    "material_spec": "Pergament von anderer Handschrift des 9 Jh. benutzt, dadurch von geringer Qualität",
     "orig_place": [
       {
         "id": 4,
@@ -304,7 +304,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-13",
-    "Last modified": "2024-07-11"
+    "Last modified": "2024-07-16"
   },
   "6": {
     "id": 6,
@@ -328,7 +328,7 @@
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00065382?page=,1",
     "idno": "Clm. 6308",
     "idno_former": "",
-    "quire_structure": "(IV - 2?)6 + 17 IV142 + (IV - l)149",
+    "quire_structure": "(IV - 2?)**6** + 17 IV**142** + (IV - l)**149**",
     "library_full": [
       {
         "id": 4,
@@ -380,7 +380,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-13",
-    "Last modified": "2024-07-10"
+    "Last modified": "2024-07-16"
   },
   "7": {
     "id": 7,
@@ -1591,7 +1591,7 @@
     "digi_url": "",
     "idno": "Cod. 366",
     "idno_former": "",
-    "quire_structure": "",
+    "quire_structure": "TBD",
     "library_full": [
       {
         "id": 1,
@@ -1600,7 +1600,7 @@
     ],
     "extent": "208",
     "foliation": "",
-    "acc_mat": "",
+    "acc_mat": "Decretales: Fragmenta.",
     "binding": "Helles Leder mit Streicheisenlinien über Holzdeckeln aus Salzburg.",
     "binding_date": [
       {
@@ -1612,7 +1612,7 @@
     "bibliography": [],
     "height": "340",
     "width": "240",
-    "material_spec": "",
+    "material_spec": "Mehrere Blätter aus Kalbspergament. Haarseiten sind teils sehr dunkel.",
     "orig_place": [
       {
         "id": 3,
@@ -1656,7 +1656,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-01",
-    "Last modified": "2024-07-10"
+    "Last modified": "2024-07-16"
   },
   "23": {
     "id": 23,

@@ -511,14 +511,23 @@
     ],
     "notes": "",
     "hit_id": "hit_cod_unit__13",
-    "locus": "",
+    "locus": "1r-208v",
     "manuscript": [
       {
         "id": 22,
         "value": "ÖNB, Cod. 366"
       }
     ],
-    "quire": [],
+    "quire": [
+      {
+        "id": 75,
+        "value": "ÖNB, Cod. 366, L. 1"
+      },
+      {
+        "id": 76,
+        "value": "ÖNB, Cod. 366, L. 2"
+      }
+    ],
     "number": "1",
     "prov_place": [
       {
@@ -535,6 +544,6 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-12"
+    "Last modified": "2024-07-16"
   }
 }

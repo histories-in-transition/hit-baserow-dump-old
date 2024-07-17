@@ -953,12 +953,41 @@
     "id": 25,
     "order": "17.00000000000000000000",
     "hit_id": "hit_hands_role__25",
-    "hand": [],
-    "ms_item": [],
-    "role": [],
+    "hand": [
+      {
+        "id": 25,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 12"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 85,
+        "value": "cod_m_p_th_f_46__85"
+      }
+    ],
+    "role": [
+      {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
+      }
+    ],
     "locus": "",
-    "text": [],
-    "locus_text": [],
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 79,
+          "database_table_3491": 85
+        },
+        "value": "Hymnus Ad Incensum Lucernae"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 85,
+        "value": "6r"
+      }
+    ],
     "Last modified by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -968,7 +997,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-12",
-    "Last modified": "2024-07-12"
+    "Last modified": "2024-07-16"
   },
   "26": {
     "id": 26,
@@ -1469,5 +1498,376 @@
     },
     "Created on": "2024-07-15",
     "Last modified": "2024-07-15"
+  },
+  "36": {
+    "id": 36,
+    "order": "28.00000000000000000000",
+    "hit_id": "hit_hands_role__36",
+    "hand": [
+      {
+        "id": 23,
+        "value": "BSB, Clm. 6308_H. 1"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 17,
+        "value": "clm_6308__17"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 17
+        },
+        "value": "Historia contra paganos"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 17,
+        "value": "1r-149r"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-16",
+    "Last modified": "2024-07-16"
+  },
+  "37": {
+    "id": 37,
+    "order": "29.00000000000000000000",
+    "hit_id": "hit_hands_role__37",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-16",
+    "Last modified": "2024-07-16"
+  },
+  "38": {
+    "id": 38,
+    "order": "30.00000000000000000000",
+    "hit_id": "hit_hands_role__38",
+    "hand": [
+      {
+        "id": 24,
+        "value": "BSB, Clm. 6308_H. 2"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 17,
+        "value": "clm_6308__17"
+      }
+    ],
+    "role": [
+      {
+        "id": 14760,
+        "value": "corrector",
+        "color": "darker-blue"
+      }
+    ],
+    "locus": "8r; 114v-115r",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 17
+        },
+        "value": "Historia contra paganos"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 17,
+        "value": "1r-149r"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-16",
+    "Last modified": "2024-07-16"
+  },
+  "39": {
+    "id": 39,
+    "order": "31.00000000000000000000",
+    "hit_id": "hit_hands_role__39",
+    "hand": [
+      {
+        "id": 26,
+        "value": "ÖNB, Cod. 366_H. 1"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 80,
+        "value": "cod_366__80"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 80
+        },
+        "value": "Historia contra paganos"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 80,
+        "value": "1-207 (?)"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-16",
+    "Last modified": "2024-07-16"
+  },
+  "40": {
+    "id": 40,
+    "order": "32.00000000000000000000",
+    "hit_id": "hit_hands_role__40",
+    "hand": [
+      {
+        "id": 5,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 11,
+        "value": "cod_m_p_th_f_46__11"
+      }
+    ],
+    "role": [
+      {
+        "id": 14759,
+        "value": "commentator",
+        "color": "darker-green"
+      }
+    ],
+    "locus": "107v",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 7,
+          "database_table_3491": 11
+        },
+        "value": "De temporum ratione"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 11,
+        "value": "98r-144v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-16",
+    "Last modified": "2024-07-16"
+  },
+  "41": {
+    "id": 41,
+    "order": "33.00000000000000000000",
+    "hit_id": "hit_hands_role__41",
+    "hand": [
+      {
+        "id": 27,
+        "value": "ÖNB, Cod. 366_H. 2"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 80,
+        "value": "cod_366__80"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "146v, Z. 4ff",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 80
+        },
+        "value": "Historia contra paganos"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 80,
+        "value": "1-207 (?)"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-16",
+    "Last modified": "2024-07-16"
+  },
+  "42": {
+    "id": 42,
+    "order": "34.00000000000000000000",
+    "hit_id": "hit_hands_role__42",
+    "hand": [
+      {
+        "id": 28,
+        "value": "ÖNB, Cod. 366_H. 3"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 80,
+        "value": "cod_366__80"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "135v, 174v-176r",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 80
+        },
+        "value": "Historia contra paganos"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 80,
+        "value": "1-207 (?)"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-16",
+    "Last modified": "2024-07-16"
+  },
+  "43": {
+    "id": 43,
+    "order": "35.00000000000000000000",
+    "hit_id": "hit_hands_role__43",
+    "hand": [
+      {
+        "id": 29,
+        "value": "ÖNB, Cod. 366_H. 4"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 80,
+        "value": "cod_366__80"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "18va, Z. 1-13",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 80
+        },
+        "value": "Historia contra paganos"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 80,
+        "value": "1-207 (?)"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-16",
+    "Last modified": "2024-07-16"
   }
 }

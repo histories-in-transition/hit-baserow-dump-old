@@ -528,10 +528,20 @@
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "id": 6,
+        "value": "Clm. 6308, Stratum 1"
+      }
+    ],
     "character": [],
-    "manuscript": [],
-    "number": null,
+    "manuscript": [
+      {
+        "id": 6,
+        "value": "BSB, Clm. 6308"
+      }
+    ],
+    "number": "1",
     "hit_id": "hit_strata__6",
     "hand_role": [],
     "ms_items": [],
@@ -544,9 +554,146 @@
     },
     "Created on": "2024-07-12",
     "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-16"
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "label": [
+      {
+        "id": 6,
+        "value": "Clm. 6308, Stratum 2"
+      }
+    ],
+    "character": [],
+    "manuscript": [
+      {
+        "id": 6,
+        "value": "BSB, Clm. 6308"
+      }
+    ],
+    "number": "2",
+    "hit_id": "hit_strata__7",
+    "hand_role": [],
+    "ms_items": [],
+    "quires": [],
+    "locus": [],
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-16",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-16"
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "label": [
+      {
+        "id": 22,
+        "value": "Cod. 366, Stratum 1"
+      }
+    ],
+    "character": [
+      {
+        "id": 14761,
+        "value": "base",
+        "color": "yellow"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 22,
+        "value": "ÖNB, Cod. 366"
+      }
+    ],
+    "number": "1",
+    "hit_id": "hit_strata__8",
+    "hand_role": [
+      {
+        "id": 39,
+        "value": "hit_hands_role__39"
+      },
+      {
+        "id": 41,
+        "value": "hit_hands_role__41"
+      },
+      {
+        "id": 42,
+        "value": "hit_hands_role__42"
+      },
+      {
+        "id": 43,
+        "value": "hit_hands_role__43"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 80
+        },
+        "value": "Historia contra paganos"
+      },
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 80
+        },
+        "value": "Historia contra paganos"
+      },
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 80
+        },
+        "value": "Historia contra paganos"
+      },
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 80
+        },
+        "value": "Historia contra paganos"
+      }
+    ],
+    "quires": [],
+    "locus": [
+      {
+        "id": 80,
+        "value": "1-207 (?)"
+      },
+      {
+        "id": 80,
+        "value": "1-207 (?)"
+      },
+      {
+        "id": 80,
+        "value": "1-207 (?)"
+      },
+      {
+        "id": 80,
+        "value": "1-207 (?)"
+      }
+    ],
+    "note": "Hauptstratum",
+    "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-12"
+    "Created on": "2024-07-16",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-16"
   }
 }

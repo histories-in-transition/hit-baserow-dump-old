@@ -179,6 +179,42 @@
     "Last modified": "2024-07-08T18:44:30.207761Z",
     "note": null
   },
+  "25": {
+    "id": 25,
+    "order": "7.50000000000000000000",
+    "hit_id": "hit_dated__25",
+    "manuscript": [
+      {
+        "id": 6,
+        "value": "BSB, Clm. 6308"
+      }
+    ],
+    "date": [
+      {
+        "id": 28,
+        "value": "8 Jh."
+      }
+    ],
+    "authority": [
+      {
+        "id": 9,
+        "value": "Loewe"
+      }
+    ],
+    "page": "12",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-18T12:43:33.765141Z",
+    "note": ""
+  },
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
@@ -189,9 +225,19 @@
         "value": "BSB, Clm. 6308"
       }
     ],
-    "date": [],
-    "authority": [],
-    "page": "",
+    "date": [
+      {
+        "id": 10,
+        "value": "vor 784"
+      }
+    ],
+    "authority": [
+      {
+        "id": 3,
+        "value": "Glauche"
+      }
+    ],
+    "page": "187",
     "preferred_date": false,
     "Created by": {
       "id": 87,
@@ -202,7 +248,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-10T09:27:26.485743Z",
+    "Last modified": "2024-07-18T11:38:54.933423Z",
     "note": null
   },
   "9": {
@@ -672,5 +718,185 @@
     },
     "Last modified": "2024-07-11T13:21:23.076057Z",
     "note": null
+  },
+  "22": {
+    "id": 22,
+    "order": "20.00000000000000000000",
+    "hit_id": "hit_dated__22",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "date": [
+      {
+        "id": 30,
+        "value": "809-818"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ],
+    "page": "96",
+    "preferred_date": true,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18T10:21:18.121577Z",
+    "note": ""
+  },
+  "23": {
+    "id": 23,
+    "order": "21.00000000000000000000",
+    "hit_id": "hit_dated__23",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "date": [
+      {
+        "id": 31,
+        "value": "818"
+      }
+    ],
+    "authority": [
+      {
+        "id": 8,
+        "value": "Hermann"
+      }
+    ],
+    "page": "145",
+    "preferred_date": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18T10:19:08.107349Z",
+    "note": ""
+  },
+  "24": {
+    "id": 24,
+    "order": "22.00000000000000000000",
+    "hit_id": "hit_dated__24",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "date": [
+      {
+        "id": 32,
+        "value": "vor 821"
+      }
+    ],
+    "authority": [
+      {
+        "id": 7,
+        "value": "Unterkircher"
+      }
+    ],
+    "page": "22-23",
+    "preferred_date": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18T10:20:25.969219Z",
+    "note": ""
+  },
+  "26": {
+    "id": 26,
+    "order": "23.00000000000000000000",
+    "hit_id": "hit_dated__26",
+    "manuscript": [
+      {
+        "id": 20,
+        "value": "BSB, Clm 27305"
+      }
+    ],
+    "date": [
+      {
+        "id": 33,
+        "value": "10/11 Jh."
+      }
+    ],
+    "authority": [
+      {
+        "id": 10,
+        "value": "Hauke, Remak-Honeff"
+      }
+    ],
+    "page": "23",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-18T13:47:10.161311Z",
+    "note": ""
+  },
+  "27": {
+    "id": 27,
+    "order": "24.00000000000000000000",
+    "hit_id": "hit_dated__27",
+    "manuscript": [
+      {
+        "id": 20,
+        "value": "BSB, Clm 27305"
+      }
+    ],
+    "date": [
+      {
+        "id": 5,
+        "value": "10 Jh., zweite Hälfte"
+      }
+    ],
+    "authority": [
+      {
+        "id": 3,
+        "value": "Glauche"
+      }
+    ],
+    "page": "317",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-18T13:48:52.129377Z",
+    "note": ""
   }
 }

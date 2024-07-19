@@ -206,6 +206,90 @@
     },
     "Last modified": "2024-07-11"
   },
+  "13": {
+    "id": 13,
+    "order": "3.75000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 22,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 366, cod. unit 1"
+      }
+    ],
+    "notes": "TBD",
+    "hit_id": "hit_cod_unit__13",
+    "locus": "1r-208v",
+    "manuscript": [
+      {
+        "id": 22,
+        "value": "ÖNB, Cod. 366"
+      }
+    ],
+    "quire": [
+      {
+        "id": 75,
+        "value": "ÖNB, Cod. 366, L. 1"
+      },
+      {
+        "id": 76,
+        "value": "ÖNB, Cod. 366, L. 2"
+      }
+    ],
+    "number": "1",
+    "prov_place": [
+      {
+        "id": 3,
+        "value": "Salzburg"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-12",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18"
+  },
+  "12": {
+    "id": 12,
+    "order": "3.79999999999999982236",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 22,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 366, cod. unit 2"
+      }
+    ],
+    "notes": "Fragment",
+    "hit_id": "hit_cod_unit__12",
+    "locus": "",
+    "manuscript": [
+      {
+        "id": 22,
+        "value": "ÖNB, Cod. 366"
+      }
+    ],
+    "quire": [],
+    "number": "2",
+    "prov_place": [],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18"
+  },
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
@@ -220,14 +304,91 @@
     ],
     "notes": "Ob die Hs. und Wien 366, Ende 8. Jh. aus Salzburg näher verwandt sind, wie etwa die beiden gleichzeitigen Exemplare des >Opus imperfectum in Matthaeum« Clm 6282 und Wien 1007 mit dem Freisinger Skriptorium als Vorlagengeber für Salzburg, ist auf Anhieb nicht zu lösen; vgl. dazu vorerst H. Löwe, Arbeo von Freising. Eine Studie ... Rhein. Vierteljahresblätter 15/16 (1950/51), S. 103. (Glauche)",
     "hit_id": "hit_cod_unit__4",
-    "locus": "-",
+    "locus": "1r-149v",
     "manuscript": [
       {
         "id": 6,
         "value": "BSB, Clm. 6308"
       }
     ],
-    "quire": [],
+    "quire": [
+      {
+        "id": 56,
+        "value": "BSB, Clm. 6308, L. 1"
+      },
+      {
+        "id": 57,
+        "value": "BSB, Clm. 6308, L. 2"
+      },
+      {
+        "id": 58,
+        "value": "BSB, Clm. 6308, L. 3"
+      },
+      {
+        "id": 59,
+        "value": "BSB, Clm. 6308, L. 4"
+      },
+      {
+        "id": 60,
+        "value": "BSB, Clm. 6308, L. 5"
+      },
+      {
+        "id": 61,
+        "value": "BSB, Clm. 6308, L. 6"
+      },
+      {
+        "id": 62,
+        "value": "BSB, Clm. 6308, L. 7"
+      },
+      {
+        "id": 63,
+        "value": "BSB, Clm. 6308, L. 8"
+      },
+      {
+        "id": 64,
+        "value": "BSB, Clm. 6308, L. 9"
+      },
+      {
+        "id": 65,
+        "value": "BSB, Clm. 6308, L. 10"
+      },
+      {
+        "id": 66,
+        "value": "BSB, Clm. 6308, L. 11"
+      },
+      {
+        "id": 67,
+        "value": "BSB, Clm. 6308, L. 12"
+      },
+      {
+        "id": 68,
+        "value": "BSB, Clm. 6308, L. 13"
+      },
+      {
+        "id": 69,
+        "value": "BSB, Clm. 6308, L. 14"
+      },
+      {
+        "id": 70,
+        "value": "BSB, Clm. 6308, L. 15"
+      },
+      {
+        "id": 71,
+        "value": "BSB, Clm. 6308, L. 16"
+      },
+      {
+        "id": 72,
+        "value": "BSB, Clm. 6308, L. 17"
+      },
+      {
+        "id": 73,
+        "value": "BSB, Clm. 6308, L. 18"
+      },
+      {
+        "id": 74,
+        "value": "BSB, Clm. 6308, L. 19"
+      }
+    ],
     "number": "1",
     "prov_place": [
       {
@@ -244,7 +405,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-08"
+    "Last modified": "2024-07-18"
   },
   "6": {
     "id": 6,
@@ -475,12 +636,34 @@
     },
     "Last modified": "2024-07-11"
   },
-  "12": {
-    "id": 12,
-    "order": "11.00000000000000000000",
+  "14": {
+    "id": 14,
+    "order": "12.00000000000000000000",
     "label": [],
     "notes": "",
-    "hit_id": "hit_cod_unit__12",
+    "hit_id": "hit_cod_unit__14",
+    "locus": "",
+    "manuscript": [],
+    "quire": [],
+    "number": null,
+    "prov_place": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18"
+  },
+  "15": {
+    "id": 15,
+    "order": "13.00000000000000000000",
+    "label": [],
+    "notes": "",
+    "hit_id": "hit_cod_unit__15",
     "locus": "",
     "manuscript": [],
     "quire": [],
@@ -490,60 +673,11 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Created on": "2024-07-11",
+    "Created on": "2024-07-18",
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-11"
-  },
-  "13": {
-    "id": 13,
-    "order": "12.00000000000000000000",
-    "label": [
-      {
-        "ids": {
-          "database_table_3487": 22,
-          "database_table_3488": 1
-        },
-        "value": "ÖNB, Cod. 366, cod. unit 1"
-      }
-    ],
-    "notes": "",
-    "hit_id": "hit_cod_unit__13",
-    "locus": "1r-208v",
-    "manuscript": [
-      {
-        "id": 22,
-        "value": "ÖNB, Cod. 366"
-      }
-    ],
-    "quire": [
-      {
-        "id": 75,
-        "value": "ÖNB, Cod. 366, L. 1"
-      },
-      {
-        "id": 76,
-        "value": "ÖNB, Cod. 366, L. 2"
-      }
-    ],
-    "number": "1",
-    "prov_place": [
-      {
-        "id": 3,
-        "value": "Salzburg"
-      }
-    ],
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Created on": "2024-07-12",
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified": "2024-07-16"
+    "Last modified": "2024-07-18"
   }
 }

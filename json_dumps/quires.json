@@ -13,7 +13,7 @@
     ],
     "hit_id": "hit_quire__1",
     "number": "1",
-    "locus": "1r-8v",
+    "locus": "1r-3v",
     "library": [
       {
         "ids": {
@@ -24,7 +24,7 @@
       }
     ],
     "locus_from": "1r",
-    "locus_to": "8v",
+    "locus_to": "3v",
     "manuscript": [
       {
         "id": 1,
@@ -37,21 +37,10 @@
     "written": "×",
     "hair_flesh": [],
     "ruling": "",
-    "column": [
-      {
-        "id": 14743,
-        "value": "1",
-        "color": "darker-blue"
-      },
-      {
-        "id": 14744,
-        "value": "2",
-        "color": "dark-brown"
-      }
-    ],
+    "column": [],
     "note": "",
     "decoration": "",
-    "quire_structrure": "",
+    "quire_structrure": "II-1",
     "correct_number": null,
     "height": null,
     "width": null,
@@ -66,7 +55,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-16T08:38:00.750635Z"
+    "Last modified": "2024-07-18T11:21:36.713637Z"
   },
   "5": {
     "id": 5,
@@ -3529,9 +3518,21 @@
     "written_height": null,
     "written_width": null,
     "written": "×",
-    "hair_flesh": [],
-    "ruling": "",
-    "column": [],
+    "hair_flesh": [
+      {
+        "id": 14742,
+        "value": "FHHF",
+        "color": "pink"
+      }
+    ],
+    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+    "column": [
+      {
+        "id": 14743,
+        "value": "1",
+        "color": "darker-blue"
+      }
+    ],
     "note": "",
     "decoration": "",
     "quire_structrure": "IV-2",
@@ -3549,7 +3550,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-16T10:03:13.063864Z"
+    "Last modified": "2024-07-18T11:51:22.181864Z"
   },
   "57": {
     "id": 57,
@@ -3587,9 +3588,21 @@
     "written_height": null,
     "written_width": null,
     "written": "×",
-    "hair_flesh": [],
-    "ruling": "",
-    "column": [],
+    "hair_flesh": [
+      {
+        "id": 14742,
+        "value": "FHHF",
+        "color": "pink"
+      }
+    ],
+    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+    "column": [
+      {
+        "id": 14743,
+        "value": "1",
+        "color": "darker-blue"
+      }
+    ],
     "note": "",
     "decoration": "",
     "quire_structrure": "IV",
@@ -3607,7 +3620,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-16T10:01:13.946404Z"
+    "Last modified": "2024-07-18T11:51:24.608883Z"
   },
   "58": {
     "id": 58,
@@ -3645,9 +3658,21 @@
     "written_height": null,
     "written_width": null,
     "written": "×",
-    "hair_flesh": [],
-    "ruling": "",
-    "column": [],
+    "hair_flesh": [
+      {
+        "id": 14742,
+        "value": "FHHF",
+        "color": "pink"
+      }
+    ],
+    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+    "column": [
+      {
+        "id": 14743,
+        "value": "1",
+        "color": "darker-blue"
+      }
+    ],
     "note": "",
     "decoration": "",
     "quire_structrure": "IV",
@@ -3665,7 +3690,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-16T10:01:11.841522Z"
+    "Last modified": "2024-07-18T11:51:26.768905Z"
   },
   "59": {
     "id": 59,
@@ -3703,9 +3728,21 @@
     "written_height": null,
     "written_width": null,
     "written": "×",
-    "hair_flesh": [],
-    "ruling": "",
-    "column": [],
+    "hair_flesh": [
+      {
+        "id": 14742,
+        "value": "FHHF",
+        "color": "pink"
+      }
+    ],
+    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+    "column": [
+      {
+        "id": 14743,
+        "value": "1",
+        "color": "darker-blue"
+      }
+    ],
     "note": "",
     "decoration": "",
     "quire_structrure": "IV",
@@ -3723,7 +3760,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-16T10:01:09.548015Z"
+    "Last modified": "2024-07-18T11:51:29.007124Z"
   },
   "60": {
     "id": 60,
@@ -3761,9 +3798,21 @@
     "written_height": null,
     "written_width": null,
     "written": "×",
-    "hair_flesh": [],
-    "ruling": "",
-    "column": [],
+    "hair_flesh": [
+      {
+        "id": 14742,
+        "value": "FHHF",
+        "color": "pink"
+      }
+    ],
+    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+    "column": [
+      {
+        "id": 14743,
+        "value": "1",
+        "color": "darker-blue"
+      }
+    ],
     "note": "",
     "decoration": "",
     "quire_structrure": "IV",
@@ -3781,7 +3830,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-16T10:01:04.493170Z"
+    "Last modified": "2024-07-18T11:51:31.757787Z"
   },
   "61": {
     "id": 61,
@@ -3819,9 +3868,21 @@
     "written_height": null,
     "written_width": null,
     "written": "×",
-    "hair_flesh": [],
-    "ruling": "",
-    "column": [],
+    "hair_flesh": [
+      {
+        "id": 14742,
+        "value": "FHHF",
+        "color": "pink"
+      }
+    ],
+    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+    "column": [
+      {
+        "id": 14743,
+        "value": "1",
+        "color": "darker-blue"
+      }
+    ],
     "note": "",
     "decoration": "",
     "quire_structrure": "IV",
@@ -3839,7 +3900,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-16T10:01:01.730643Z"
+    "Last modified": "2024-07-18T11:51:34.215188Z"
   },
   "62": {
     "id": 62,
@@ -3877,9 +3938,21 @@
     "written_height": null,
     "written_width": null,
     "written": "×",
-    "hair_flesh": [],
-    "ruling": "",
-    "column": [],
+    "hair_flesh": [
+      {
+        "id": 14742,
+        "value": "FHHF",
+        "color": "pink"
+      }
+    ],
+    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+    "column": [
+      {
+        "id": 14743,
+        "value": "1",
+        "color": "darker-blue"
+      }
+    ],
     "note": "",
     "decoration": "",
     "quire_structrure": "IV",
@@ -3897,7 +3970,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-16T10:00:59.202964Z"
+    "Last modified": "2024-07-18T11:51:40.197319Z"
   },
   "63": {
     "id": 63,
@@ -3935,9 +4008,21 @@
     "written_height": null,
     "written_width": null,
     "written": "×",
-    "hair_flesh": [],
-    "ruling": "",
-    "column": [],
+    "hair_flesh": [
+      {
+        "id": 14742,
+        "value": "FHHF",
+        "color": "pink"
+      }
+    ],
+    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+    "column": [
+      {
+        "id": 14743,
+        "value": "1",
+        "color": "darker-blue"
+      }
+    ],
     "note": "",
     "decoration": "",
     "quire_structrure": "IV",
@@ -3955,7 +4040,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-16T10:00:56.553793Z"
+    "Last modified": "2024-07-18T11:51:42.869889Z"
   },
   "64": {
     "id": 64,
@@ -3993,9 +4078,21 @@
     "written_height": null,
     "written_width": null,
     "written": "×",
-    "hair_flesh": [],
-    "ruling": "",
-    "column": [],
+    "hair_flesh": [
+      {
+        "id": 14742,
+        "value": "FHHF",
+        "color": "pink"
+      }
+    ],
+    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+    "column": [
+      {
+        "id": 14743,
+        "value": "1",
+        "color": "darker-blue"
+      }
+    ],
     "note": "",
     "decoration": "",
     "quire_structrure": "IV",
@@ -4013,7 +4110,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-16T10:00:53.590045Z"
+    "Last modified": "2024-07-18T11:51:45.110348Z"
   },
   "65": {
     "id": 65,
@@ -4051,9 +4148,21 @@
     "written_height": null,
     "written_width": null,
     "written": "×",
-    "hair_flesh": [],
-    "ruling": "",
-    "column": [],
+    "hair_flesh": [
+      {
+        "id": 14742,
+        "value": "FHHF",
+        "color": "pink"
+      }
+    ],
+    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+    "column": [
+      {
+        "id": 14743,
+        "value": "1",
+        "color": "darker-blue"
+      }
+    ],
     "note": "",
     "decoration": "",
     "quire_structrure": "IV",
@@ -4071,7 +4180,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-16T10:00:51.297710Z"
+    "Last modified": "2024-07-18T11:51:47.406757Z"
   },
   "66": {
     "id": 66,
@@ -4109,9 +4218,21 @@
     "written_height": null,
     "written_width": null,
     "written": "×",
-    "hair_flesh": [],
-    "ruling": "",
-    "column": [],
+    "hair_flesh": [
+      {
+        "id": 14742,
+        "value": "FHHF",
+        "color": "pink"
+      }
+    ],
+    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+    "column": [
+      {
+        "id": 14743,
+        "value": "1",
+        "color": "darker-blue"
+      }
+    ],
     "note": "",
     "decoration": "",
     "quire_structrure": "IV",
@@ -4129,7 +4250,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-16T10:00:49.230239Z"
+    "Last modified": "2024-07-18T11:51:50.252694Z"
   },
   "67": {
     "id": 67,
@@ -4167,9 +4288,21 @@
     "written_height": null,
     "written_width": null,
     "written": "×",
-    "hair_flesh": [],
-    "ruling": "",
-    "column": [],
+    "hair_flesh": [
+      {
+        "id": 14742,
+        "value": "FHHF",
+        "color": "pink"
+      }
+    ],
+    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+    "column": [
+      {
+        "id": 14743,
+        "value": "1",
+        "color": "darker-blue"
+      }
+    ],
     "note": "",
     "decoration": "",
     "quire_structrure": "IV",
@@ -4187,7 +4320,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-16T10:00:46.685042Z"
+    "Last modified": "2024-07-18T11:51:52.237697Z"
   },
   "68": {
     "id": 68,
@@ -4225,9 +4358,21 @@
     "written_height": null,
     "written_width": null,
     "written": "×",
-    "hair_flesh": [],
-    "ruling": "",
-    "column": [],
+    "hair_flesh": [
+      {
+        "id": 14742,
+        "value": "FHHF",
+        "color": "pink"
+      }
+    ],
+    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+    "column": [
+      {
+        "id": 14743,
+        "value": "1",
+        "color": "darker-blue"
+      }
+    ],
     "note": "",
     "decoration": "",
     "quire_structrure": "IV",
@@ -4245,7 +4390,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-16T10:00:44.231525Z"
+    "Last modified": "2024-07-18T11:51:13.065312Z"
   },
   "69": {
     "id": 69,
@@ -4283,9 +4428,21 @@
     "written_height": null,
     "written_width": null,
     "written": "×",
-    "hair_flesh": [],
-    "ruling": "",
-    "column": [],
+    "hair_flesh": [
+      {
+        "id": 14742,
+        "value": "FHHF",
+        "color": "pink"
+      }
+    ],
+    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+    "column": [
+      {
+        "id": 14743,
+        "value": "1",
+        "color": "darker-blue"
+      }
+    ],
     "note": "",
     "decoration": "",
     "quire_structrure": "IV",
@@ -4303,7 +4460,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-16T10:00:41.926481Z"
+    "Last modified": "2024-07-18T11:51:10.347117Z"
   },
   "70": {
     "id": 70,
@@ -4341,9 +4498,21 @@
     "written_height": null,
     "written_width": null,
     "written": "×",
-    "hair_flesh": [],
-    "ruling": "",
-    "column": [],
+    "hair_flesh": [
+      {
+        "id": 14742,
+        "value": "FHHF",
+        "color": "pink"
+      }
+    ],
+    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+    "column": [
+      {
+        "id": 14743,
+        "value": "1",
+        "color": "darker-blue"
+      }
+    ],
     "note": "",
     "decoration": "",
     "quire_structrure": "IV",
@@ -4361,7 +4530,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-16T10:00:39.656189Z"
+    "Last modified": "2024-07-18T11:51:07.684902Z"
   },
   "71": {
     "id": 71,
@@ -4399,9 +4568,21 @@
     "written_height": null,
     "written_width": null,
     "written": "×",
-    "hair_flesh": [],
-    "ruling": "",
-    "column": [],
+    "hair_flesh": [
+      {
+        "id": 14742,
+        "value": "FHHF",
+        "color": "pink"
+      }
+    ],
+    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+    "column": [
+      {
+        "id": 14743,
+        "value": "1",
+        "color": "darker-blue"
+      }
+    ],
     "note": "",
     "decoration": "",
     "quire_structrure": "IV",
@@ -4419,7 +4600,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-16T10:00:37.301405Z"
+    "Last modified": "2024-07-18T11:51:05.519359Z"
   },
   "72": {
     "id": 72,
@@ -4457,9 +4638,21 @@
     "written_height": null,
     "written_width": null,
     "written": "×",
-    "hair_flesh": [],
-    "ruling": "",
-    "column": [],
+    "hair_flesh": [
+      {
+        "id": 14742,
+        "value": "FHHF",
+        "color": "pink"
+      }
+    ],
+    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+    "column": [
+      {
+        "id": 14743,
+        "value": "1",
+        "color": "darker-blue"
+      }
+    ],
     "note": "",
     "decoration": "",
     "quire_structrure": "IV",
@@ -4477,7 +4670,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-16T10:00:34.898608Z"
+    "Last modified": "2024-07-18T11:50:59.997668Z"
   },
   "73": {
     "id": 73,
@@ -4515,9 +4708,21 @@
     "written_height": null,
     "written_width": null,
     "written": "×",
-    "hair_flesh": [],
-    "ruling": "",
-    "column": [],
+    "hair_flesh": [
+      {
+        "id": 14742,
+        "value": "FHHF",
+        "color": "pink"
+      }
+    ],
+    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+    "column": [
+      {
+        "id": 14743,
+        "value": "1",
+        "color": "darker-blue"
+      }
+    ],
     "note": "",
     "decoration": "",
     "quire_structrure": "IV",
@@ -4535,7 +4740,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-16T10:00:33.715475Z"
+    "Last modified": "2024-07-18T11:51:02.289701Z"
   },
   "74": {
     "id": 74,
@@ -4573,9 +4778,21 @@
     "written_height": null,
     "written_width": null,
     "written": "×",
-    "hair_flesh": [],
-    "ruling": "",
-    "column": [],
+    "hair_flesh": [
+      {
+        "id": 14742,
+        "value": "FHHF",
+        "color": "pink"
+      }
+    ],
+    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+    "column": [
+      {
+        "id": 14743,
+        "value": "1",
+        "color": "darker-blue"
+      }
+    ],
     "note": "",
     "decoration": "",
     "quire_structrure": "IV-1",
@@ -4593,7 +4810,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-16T10:00:25.441612Z"
+    "Last modified": "2024-07-18T11:50:53.533927Z"
   },
   "75": {
     "id": 75,
@@ -4628,20 +4845,31 @@
       }
     ],
     "quiremark": null,
-    "written_height": null,
-    "written_width": null,
-    "written": "×",
+    "written_height": "265",
+    "written_width": "275",
+    "written": "265×275",
     "hair_flesh": [],
-    "ruling": "",
-    "column": [],
-    "note": "",
-    "decoration": "",
+    "ruling": "26",
+    "column": [
+      {
+        "id": 14744,
+        "value": "2",
+        "color": "dark-brown"
+      }
+    ],
+    "note": "TBD",
+    "decoration": "Rote und schwarze Überschriften in gemischter Unziale. Initialen (rot, schwarz) sind schlicht gehalten.",
     "quire_structrure": "",
     "correct_number": null,
-    "height": null,
-    "width": null,
+    "height": "340",
+    "width": "240",
     "catchwords": false,
-    "stratum": [],
+    "stratum": [
+      {
+        "id": 8,
+        "value": "Cod. 366, Stratum 1"
+      }
+    ],
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -4651,7 +4879,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-16T12:36:56.838102Z"
+    "Last modified": "2024-07-18T09:19:49.843902Z"
   },
   "76": {
     "id": 76,
@@ -4686,6 +4914,112 @@
       }
     ],
     "quiremark": null,
+    "written_height": "265",
+    "written_width": "275",
+    "written": "265×275",
+    "hair_flesh": [],
+    "ruling": "26",
+    "column": [
+      {
+        "id": 14744,
+        "value": "2",
+        "color": "dark-brown"
+      }
+    ],
+    "note": "",
+    "decoration": "Rote und schwarze Überschriften in gemischter Unziale. Initialen (rot, schwarz) sind schlicht gehalten.",
+    "quire_structrure": "",
+    "correct_number": null,
+    "height": "340",
+    "width": "240",
+    "catchwords": false,
+    "stratum": [
+      {
+        "id": 8,
+        "value": "Cod. 366, Stratum 1"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-16",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18T09:20:03.340498Z"
+  },
+  "77": {
+    "id": 77,
+    "order": "71.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387, L. 2"
+      }
+    ],
+    "hit_id": "hit_quire__77",
+    "number": "2",
+    "locus": "4r-11v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB"
+      }
+    ],
+    "locus_from": "4r",
+    "locus_to": "11v",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "IV",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18T11:11:08.538668Z"
+  },
+  "78": {
+    "id": 78,
+    "order": "72.00000000000000000000",
+    "label": [],
+    "hit_id": "hit_quire__78",
+    "number": "",
+    "locus": "-",
+    "library": [],
+    "locus_from": "",
+    "locus_to": "",
+    "manuscript": [],
+    "quiremark": null,
     "written_height": null,
     "written_width": null,
     "written": "×",
@@ -4704,11 +5038,1108 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Created on": "2024-07-16",
+    "Created on": "2024-07-18",
     "Last modified by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-16T12:37:09.275888Z"
+    "Last modified": "2024-07-18T11:08:57.332672Z"
+  },
+  "79": {
+    "id": 79,
+    "order": "73.00000000000000000000",
+    "label": [],
+    "hit_id": "hit_quire__79",
+    "number": "",
+    "locus": "-",
+    "library": [],
+    "locus_from": "",
+    "locus_to": "",
+    "manuscript": [],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18T11:08:59.455629Z"
+  },
+  "80": {
+    "id": 80,
+    "order": "74.00000000000000000000",
+    "label": [],
+    "hit_id": "hit_quire__80",
+    "number": "",
+    "locus": "-",
+    "library": [],
+    "locus_from": "",
+    "locus_to": "",
+    "manuscript": [],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18T11:09:12.067708Z"
+  },
+  "81": {
+    "id": 81,
+    "order": "75.00000000000000000000",
+    "label": [],
+    "hit_id": "hit_quire__81",
+    "number": "",
+    "locus": "-",
+    "library": [],
+    "locus_from": "",
+    "locus_to": "",
+    "manuscript": [],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18T11:09:14.911121Z"
+  },
+  "82": {
+    "id": 82,
+    "order": "76.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387, L. 3"
+      }
+    ],
+    "hit_id": "hit_quire__82",
+    "number": "3",
+    "locus": "12r-19v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB"
+      }
+    ],
+    "locus_from": "12r",
+    "locus_to": "19v",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "IV",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18T11:11:12.125816Z"
+  },
+  "83": {
+    "id": 83,
+    "order": "77.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387, L. 4"
+      }
+    ],
+    "hit_id": "hit_quire__83",
+    "number": "4",
+    "locus": "20r-27v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB"
+      }
+    ],
+    "locus_from": "20r",
+    "locus_to": "27v",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "IV",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18T11:11:22.822983Z"
+  },
+  "84": {
+    "id": 84,
+    "order": "78.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387, L. 5"
+      }
+    ],
+    "hit_id": "hit_quire__84",
+    "number": "5",
+    "locus": "28r-35v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB"
+      }
+    ],
+    "locus_from": "28r",
+    "locus_to": "35v",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "IV",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18T11:11:37.163752Z"
+  },
+  "85": {
+    "id": 85,
+    "order": "79.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387, L. 6"
+      }
+    ],
+    "hit_id": "hit_quire__85",
+    "number": "6",
+    "locus": "36r-42v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB"
+      }
+    ],
+    "locus_from": "36r",
+    "locus_to": "42v",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "1 Blatt wurde bei der Foliierung übersprungen, nunmehr 41a.",
+    "decoration": "",
+    "quire_structrure": "IV",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18T11:29:02.885867Z"
+  },
+  "86": {
+    "id": 86,
+    "order": "80.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387, L. 7"
+      }
+    ],
+    "hit_id": "hit_quire__86",
+    "number": "7",
+    "locus": "43r-50v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB"
+      }
+    ],
+    "locus_from": "43r",
+    "locus_to": "50v",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "IV",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18T11:29:30.330164Z"
+  },
+  "87": {
+    "id": 87,
+    "order": "81.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387, L. 8"
+      }
+    ],
+    "hit_id": "hit_quire__87",
+    "number": "8",
+    "locus": "51r-58v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB"
+      }
+    ],
+    "locus_from": "51r",
+    "locus_to": "58v",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "IV",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18T11:29:40.613039Z"
+  },
+  "88": {
+    "id": 88,
+    "order": "82.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387, L. 9"
+      }
+    ],
+    "hit_id": "hit_quire__88",
+    "number": "9",
+    "locus": "52r-66v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB"
+      }
+    ],
+    "locus_from": "52r",
+    "locus_to": "66v",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "IV",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18T11:29:55.004622Z"
+  },
+  "89": {
+    "id": 89,
+    "order": "83.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387, L. 10"
+      }
+    ],
+    "hit_id": "hit_quire__89",
+    "number": "10",
+    "locus": "67r-74v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB"
+      }
+    ],
+    "locus_from": "67r",
+    "locus_to": "74v",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "1 Blatt wurde bei der Foliierung übersprungen, nunmehr 73a.",
+    "decoration": "",
+    "quire_structrure": "(V-1)",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18T11:36:11.587051Z"
+  },
+  "90": {
+    "id": 90,
+    "order": "84.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387, L. 11"
+      }
+    ],
+    "hit_id": "hit_quire__90",
+    "number": "11",
+    "locus": "75r-86v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB"
+      }
+    ],
+    "locus_from": "75r",
+    "locus_to": "86v",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "VI",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18T11:36:26.685159Z"
+  },
+  "91": {
+    "id": 91,
+    "order": "85.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387, L. 12"
+      }
+    ],
+    "hit_id": "hit_quire__91",
+    "number": "12",
+    "locus": "87r-98v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB"
+      }
+    ],
+    "locus_from": "87r",
+    "locus_to": "98v",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "VI",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18T11:36:33.850263Z"
+  },
+  "92": {
+    "id": 92,
+    "order": "86.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387, L. 13"
+      }
+    ],
+    "hit_id": "hit_quire__92",
+    "number": "13",
+    "locus": "99r-110v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB"
+      }
+    ],
+    "locus_from": "99r",
+    "locus_to": "110v",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "VI",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18T11:36:41.310289Z"
+  },
+  "93": {
+    "id": 93,
+    "order": "87.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387, L. 14"
+      }
+    ],
+    "hit_id": "hit_quire__93",
+    "number": "14",
+    "locus": "-",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB"
+      }
+    ],
+    "locus_from": "",
+    "locus_to": "",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "VI",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18T11:35:58.673470Z"
+  },
+  "94": {
+    "id": 94,
+    "order": "88.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387, L. 15"
+      }
+    ],
+    "hit_id": "hit_quire__94",
+    "number": "15",
+    "locus": "-",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB"
+      }
+    ],
+    "locus_from": "",
+    "locus_to": "",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "VI",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18T11:35:59.255703Z"
+  },
+  "95": {
+    "id": 95,
+    "order": "89.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387, L. 16"
+      }
+    ],
+    "hit_id": "hit_quire__95",
+    "number": "16",
+    "locus": "-",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB"
+      }
+    ],
+    "locus_from": "",
+    "locus_to": "",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18T11:30:32.014014Z"
+  },
+  "96": {
+    "id": 96,
+    "order": "90.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387, L. 17"
+      }
+    ],
+    "hit_id": "hit_quire__96",
+    "number": "17",
+    "locus": "-",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB"
+      }
+    ],
+    "locus_from": "",
+    "locus_to": "",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18T11:30:33.720833Z"
+  },
+  "97": {
+    "id": 97,
+    "order": "91.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387, L. 18"
+      }
+    ],
+    "hit_id": "hit_quire__97",
+    "number": "18",
+    "locus": "-",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB"
+      }
+    ],
+    "locus_from": "",
+    "locus_to": "",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18T11:30:34.949115Z"
+  },
+  "98": {
+    "id": 98,
+    "order": "92.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 20,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 27305, L. 1"
+      }
+    ],
+    "hit_id": "hit_quire__98",
+    "number": "1",
+    "locus": "-",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 20,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
+    "locus_from": "",
+    "locus_to": "",
+    "manuscript": [
+      {
+        "id": 20,
+        "value": "BSB, Clm 27305"
+      }
+    ],
+    "quiremark": null,
+    "written_height": "160",
+    "written_width": "130",
+    "written": "160×130",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "",
+    "correct_number": null,
+    "height": "225",
+    "width": "185",
+    "catchwords": false,
+    "stratum": [],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-18T14:10:17.910906Z"
   }
 }

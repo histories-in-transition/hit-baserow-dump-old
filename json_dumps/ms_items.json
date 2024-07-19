@@ -633,10 +633,6 @@
       {
         "id": 22,
         "value": "hit_hands_role__22"
-      },
-      {
-        "id": 40,
-        "value": "hit_hands_role__40"
       }
     ],
     "cod_unit": [
@@ -678,13 +674,6 @@
           "database_table_3488": 2
         },
         "value": "UBWÜ, Cod. M. p. th. f. 46_H. 4"
-      },
-      {
-        "ids": {
-          "database_table_3487": 2,
-          "database_table_3488": 2
-        },
-        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
       }
     ]
   },
@@ -1139,7 +1128,7 @@
     "title_work": [
       {
         "id": 3,
-        "value": "Historia contra paganos"
+        "value": "Historiae adversus paganos"
       }
     ],
     "title_note": "",
@@ -1926,7 +1915,7 @@
     "title_work": [
       {
         "id": 3,
-        "value": "Historia contra paganos"
+        "value": "Historiae adversus paganos"
       }
     ],
     "title_note": "",
@@ -3793,7 +3782,7 @@
     "title_work": [
       {
         "id": 3,
-        "value": "Historia contra paganos"
+        "value": "Historiae adversus paganos"
       }
     ],
     "title_note": "",
@@ -4194,5 +4183,181 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46_H. 12"
       }
     ]
+  },
+  "86": {
+    "id": 86,
+    "order": "76.00000000000000000000",
+    "label": [
+      {
+        "id": 22,
+        "value": "cod_366__86"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 22,
+        "value": "ÖNB, Cod. 366"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 80,
+        "value": "Decretales"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__86",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [
+      {
+        "id": 44,
+        "value": "hit_hands_role__44"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 12,
+        "value": "ÖNB, Cod. 366, cod. unit 2"
+      }
+    ],
+    "Last modified": "2024-07-18",
+    "Created on": "2024-07-18",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 22,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 366_H. 5"
+      }
+    ]
+  },
+  "87": {
+    "id": 87,
+    "order": "77.00000000000000000000",
+    "label": [
+      {
+        "id": 20,
+        "value": "clm 27305__87"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 20,
+        "value": "BSB, Clm 27305"
+      }
+    ],
+    "incipit": "sanctus Gregorius in libro d[ia]logorum cuius corpus translatum de Rauenna.",
+    "explicit": "Depositio sancti Siluestri papae et passio sanctae Columbae uirginis Depositio sancti Siluestri papae et passio sanctae Columbae uirginis Senonis sub Aureliano imperatore quae superato igne caesa est. Amen.",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 81,
+        "value": "Martyrologium"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "Explicit martyrologium",
+    "siglum": "",
+    "hit_id": "hit_ms_items__87",
+    "filiation": [],
+    "locus_grp": "1r-28v",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-07-18",
+    "Created on": "2024-07-18",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "excerpt": [],
+    "note": "Fragment",
+    "hand": []
+  },
+  "88": {
+    "id": 88,
+    "order": "78.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__88",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-07-18",
+    "Created on": "2024-07-18",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "excerpt": [],
+    "note": "",
+    "hand": []
+  },
+  "89": {
+    "id": 89,
+    "order": "79.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__89",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-07-18",
+    "Created on": "2024-07-18",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "excerpt": [],
+    "note": "",
+    "hand": []
   }
 }

@@ -221,10 +221,6 @@
       {
         "id": 35,
         "value": "hit_hands_role__35"
-      },
-      {
-        "id": 40,
-        "value": "hit_hands_role__40"
       }
     ],
     "role": [
@@ -315,16 +311,6 @@
             "id": 14763,
             "value": "annotator",
             "color": "cyan"
-          }
-        ]
-      },
-      {
-        "id": 40,
-        "value": [
-          {
-            "id": 14759,
-            "value": "commentator",
-            "color": "darker-green"
           }
         ]
       }
@@ -1035,7 +1021,7 @@
       }
     ],
     "number": "1",
-    "note": "",
+    "note": "Die ähnlichen Hände in Clm 6279, Clm 6299 (I), Clm 29045(a)",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -1045,7 +1031,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-16",
+    "Last modified": "2024-07-18",
     "hands_role": [
       {
         "id": 36,
@@ -1325,6 +1311,60 @@
     "role": [
       {
         "id": 43,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ]
+  },
+  "30": {
+    "id": 30,
+    "order": "26.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 22,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 366_H. 5"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__30",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 22,
+        "value": "ÖNB, Cod. 366"
+      }
+    ],
+    "number": "5",
+    "note": "Fragmenthand TBD",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18",
+    "hands_role": [
+      {
+        "id": 44,
+        "value": "hit_hands_role__44"
+      }
+    ],
+    "role": [
+      {
+        "id": 44,
         "value": [
           {
             "id": 14758,

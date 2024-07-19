@@ -461,10 +461,10 @@
   "28": {
     "id": 28,
     "order": "28.00000000000000000000",
-    "label": "",
-    "not_before": null,
+    "label": "8 Jh.",
+    "not_before": "0700-01-01",
     "hit_id": "hit_date__28",
-    "not_after": null,
+    "not_after": "0799-12-31",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -473,6 +473,91 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-16"
+    "Last modified": "2024-07-18"
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "label": "15. Jh., erstes Viertel",
+    "not_before": "1400-01-01",
+    "hit_id": "hit_date__29",
+    "not_after": "1424-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18"
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "label": "809-818",
+    "not_before": "0809-01-01",
+    "hit_id": "hit_date__30",
+    "not_after": "0818-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18"
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "label": "818",
+    "not_before": "0818-01-01",
+    "hit_id": "hit_date__31",
+    "not_after": "0818-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18"
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "label": "vor 821",
+    "not_before": null,
+    "hit_id": "hit_date__32",
+    "not_after": "0820-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18"
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "label": "10/11 Jh.",
+    "not_before": "0900-01-01",
+    "hit_id": "hit_date__33",
+    "not_after": "1099-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-18"
   }
 }

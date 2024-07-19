@@ -30,8 +30,8 @@
   "3": {
     "id": 3,
     "order": "2.00000000000000000000",
-    "title": "Historia contra paganos",
-    "gnd_url": "",
+    "title": "Historiae adversus paganos",
+    "gnd_url": "https://d-nb.info/gnd/4484677-0",
     "note": "",
     "hit_id": "hit_works__3",
     "author": [
@@ -50,10 +50,10 @@
     },
     "Created on": "2024-06-17",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-06-17"
+    "Last modified": "2024-07-18"
   },
   "4": {
     "id": 4,
@@ -2212,5 +2212,56 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-16"
+  },
+  "80": {
+    "id": 80,
+    "order": "78.00000000000000000000",
+    "title": "Decretales",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__80",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18"
+  },
+  "81": {
+    "id": 81,
+    "order": "79.00000000000000000000",
+    "title": "Martyrologium",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__81",
+    "author": [
+      {
+        "id": 1,
+        "value": "Beda, Heiliger"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-18"
   }
 }

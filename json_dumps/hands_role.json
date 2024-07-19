@@ -1472,7 +1472,7 @@
         "color": "cyan"
       }
     ],
-    "locus": "117v; 118v; 147v; 148r",
+    "locus": "107v; 117v; 118v; 147v; 148r",
     "text": [
       {
         "ids": {
@@ -1497,7 +1497,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-15",
-    "Last modified": "2024-07-15"
+    "Last modified": "2024-07-18"
   },
   "36": {
     "id": 36,
@@ -1529,7 +1529,7 @@
           "database_table_3489": 3,
           "database_table_3491": 17
         },
-        "value": "Historia contra paganos"
+        "value": "Historiae adversus paganos"
       }
     ],
     "locus_text": [
@@ -1600,7 +1600,7 @@
           "database_table_3489": 3,
           "database_table_3491": 17
         },
-        "value": "Historia contra paganos"
+        "value": "Historiae adversus paganos"
       }
     ],
     "locus_text": [
@@ -1650,7 +1650,7 @@
           "database_table_3489": 3,
           "database_table_3491": 80
         },
-        "value": "Historia contra paganos"
+        "value": "Historiae adversus paganos"
       }
     ],
     "locus_text": [
@@ -1674,41 +1674,12 @@
     "id": 40,
     "order": "32.00000000000000000000",
     "hit_id": "hit_hands_role__40",
-    "hand": [
-      {
-        "id": 5,
-        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
-      }
-    ],
-    "ms_item": [
-      {
-        "id": 11,
-        "value": "cod_m_p_th_f_46__11"
-      }
-    ],
-    "role": [
-      {
-        "id": 14759,
-        "value": "commentator",
-        "color": "darker-green"
-      }
-    ],
-    "locus": "107v",
-    "text": [
-      {
-        "ids": {
-          "database_table_3489": 7,
-          "database_table_3491": 11
-        },
-        "value": "De temporum ratione"
-      }
-    ],
-    "locus_text": [
-      {
-        "id": 11,
-        "value": "98r-144v"
-      }
-    ],
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
     "Last modified by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -1718,7 +1689,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-16",
-    "Last modified": "2024-07-16"
+    "Last modified": "2024-07-18"
   },
   "41": {
     "id": 41,
@@ -1750,7 +1721,7 @@
           "database_table_3489": 3,
           "database_table_3491": 80
         },
-        "value": "Historia contra paganos"
+        "value": "Historiae adversus paganos"
       }
     ],
     "locus_text": [
@@ -1800,7 +1771,7 @@
           "database_table_3489": 3,
           "database_table_3491": 80
         },
-        "value": "Historia contra paganos"
+        "value": "Historiae adversus paganos"
       }
     ],
     "locus_text": [
@@ -1850,7 +1821,7 @@
           "database_table_3489": 3,
           "database_table_3491": 80
         },
-        "value": "Historia contra paganos"
+        "value": "Historiae adversus paganos"
       }
     ],
     "locus_text": [
@@ -1869,5 +1840,97 @@
     },
     "Created on": "2024-07-16",
     "Last modified": "2024-07-16"
+  },
+  "44": {
+    "id": 44,
+    "order": "36.00000000000000000000",
+    "hit_id": "hit_hands_role__44",
+    "hand": [
+      {
+        "id": 30,
+        "value": "ÖNB, Cod. 366_H. 5"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 86,
+        "value": "cod_366__86"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 80,
+          "database_table_3491": 86
+        },
+        "value": "Decretales"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 86,
+        "value": ""
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified": "2024-07-18"
+  },
+  "45": {
+    "id": 45,
+    "order": "37.00000000000000000000",
+    "hit_id": "hit_hands_role__45",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified": "2024-07-18"
+  },
+  "46": {
+    "id": 46,
+    "order": "38.00000000000000000000",
+    "hit_id": "hit_hands_role__46",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified": "2024-07-18"
   }
 }

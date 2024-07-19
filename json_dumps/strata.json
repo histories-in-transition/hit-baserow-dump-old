@@ -547,7 +547,7 @@
     "ms_items": [],
     "quires": [],
     "locus": [],
-    "note": "",
+    "note": "Hauptstratum",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -557,7 +557,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-16"
+    "Last modified": "2024-07-18"
   },
   "7": {
     "id": 7,
@@ -641,31 +641,40 @@
           "database_table_3489": 3,
           "database_table_3491": 80
         },
-        "value": "Historia contra paganos"
+        "value": "Historiae adversus paganos"
       },
       {
         "ids": {
           "database_table_3489": 3,
           "database_table_3491": 80
         },
-        "value": "Historia contra paganos"
+        "value": "Historiae adversus paganos"
       },
       {
         "ids": {
           "database_table_3489": 3,
           "database_table_3491": 80
         },
-        "value": "Historia contra paganos"
+        "value": "Historiae adversus paganos"
       },
       {
         "ids": {
           "database_table_3489": 3,
           "database_table_3491": 80
         },
-        "value": "Historia contra paganos"
+        "value": "Historiae adversus paganos"
       }
     ],
-    "quires": [],
+    "quires": [
+      {
+        "id": 75,
+        "value": "ÖNB, Cod. 366, L. 1"
+      },
+      {
+        "id": 76,
+        "value": "ÖNB, Cod. 366, L. 2"
+      }
+    ],
     "locus": [
       {
         "id": 80,

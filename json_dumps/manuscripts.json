@@ -20,8 +20,119 @@
     "catalog_url": "http://data.onb.ac.at/rec/AC13961630",
     "digi_url": "http://data.onb.ac.at/dtl/3049329",
     "idno": "Cod. 387",
-    "idno_former": null,
-    "quire_structure": null,
+    "idno_former": "Salisb. 421",
+    "quire_structure": "(II-1)**3** + 5 IV**42** + 3 IV**66** + (V-1)**74** + 5 V**I114** + III**120** + 2 IV**136** + (VI-2)**146** + V**156** + (VI-3)**165**",
+    "library_full": [
+      {
+        "id": 1,
+        "value": "Österreichische Nationalbibliothek"
+      }
+    ],
+    "extent": "165",
+    "foliation": "",
+    "acc_mat": null,
+    "binding": "Starker Holzdeckel umfasst von einem weißen, gebräunten Ledereinband.",
+    "binding_date": [
+      {
+        "id": 29,
+        "value": "15. Jh., erstes Viertel"
+      }
+    ],
+    "history": "Die Handschrift verblieb bis zum Jahr 1806 in der Salzburger Dombibliothek und kam anschließend in den Besitz der damaligen Hofbibliothek.",
+    "bibliography": [],
+    "height": "320",
+    "width": "252",
+    "material_spec": "",
+    "orig_place": [
+      {
+        "id": 3,
+        "value": "Salzburg"
+      }
+    ],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": {
+      "id": 14782,
+      "value": "parchment",
+      "color": "darker-orange"
+    },
+    "provenance": [
+      {
+        "id": 8,
+        "value": "Dombibliothek Salzburg"
+      }
+    ],
+    "manuscripts_dated": [
+      {
+        "id": 22,
+        "value": "hit_dated__22"
+      },
+      {
+        "id": 23,
+        "value": "hit_dated__23"
+      },
+      {
+        "id": 24,
+        "value": "hit_dated__24"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 30,
+          "database_table_3516": 22
+        },
+        "value": "809-818"
+      },
+      {
+        "ids": {
+          "database_table_3512": 31,
+          "database_table_3516": 23
+        },
+        "value": "818"
+      },
+      {
+        "ids": {
+          "database_table_3512": 32,
+          "database_table_3516": 24
+        },
+        "value": "vor 821"
+      }
+    ],
+    "Created by": {
+      "id": 3,
+      "name": "Peter Andorfer"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-06-04",
+    "Last modified": "2024-07-18"
+  },
+  "21": {
+    "id": 21,
+    "order": "1.50000000000000000000",
+    "shelfmark": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "hit_id": "hit_mansuscript__21",
+    "library": [
+      {
+        "id": 1,
+        "value": "ÖNB"
+      }
+    ],
+    "manuscripta_url": "https://manuscripta.at/?ID=5187",
+    "handschriftenportal_url": "",
+    "catalog_url": "http://data.onb.ac.at/rec/AC13961404",
+    "digi_url": "",
+    "idno": "Cod. 2090",
+    "idno_former": "",
+    "quire_structure": "",
     "library_full": [
       {
         "id": 1,
@@ -29,11 +140,11 @@
       }
     ],
     "extent": "",
-    "foliation": null,
-    "acc_mat": null,
-    "binding": null,
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
     "binding_date": [],
-    "history": null,
+    "history": "",
     "bibliography": [],
     "height": null,
     "width": null,
@@ -41,20 +152,113 @@
     "orig_place": [],
     "catchwords": "",
     "quiremarks": null,
-    "material": null,
+    "material": {
+      "id": 14782,
+      "value": "parchment",
+      "color": "darker-orange"
+    },
     "provenance": [],
     "manuscripts_dated": [],
     "orig_dated": [],
     "Created by": {
-      "id": 3,
-      "name": "Peter Andorfer"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Created on": "2024-06-04",
-    "Last modified": "2024-07-08"
+    "Created on": "2024-06-17",
+    "Last modified": "2024-07-18"
+  },
+  "22": {
+    "id": 22,
+    "order": "1.66666666666666674068",
+    "shelfmark": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 366"
+      }
+    ],
+    "hit_id": "hit_mansuscript__22",
+    "library": [
+      {
+        "id": 1,
+        "value": "ÖNB"
+      }
+    ],
+    "manuscripta_url": "https://manuscripta.at/?ID=9750",
+    "handschriftenportal_url": "",
+    "catalog_url": "https://search.onb.ac.at/permalink/f/sb7jht/ONB_alma21302410040003338",
+    "digi_url": "",
+    "idno": "Cod. 366",
+    "idno_former": "",
+    "quire_structure": "TBD",
+    "library_full": [
+      {
+        "id": 1,
+        "value": "Österreichische Nationalbibliothek"
+      }
+    ],
+    "extent": "208",
+    "foliation": "",
+    "acc_mat": "Decretales: Fragmenta.",
+    "binding": "Helles Leder mit Streicheisenlinien über Holzdeckeln aus Salzburg.",
+    "binding_date": [
+      {
+        "id": 21,
+        "value": "um 1433"
+      }
+    ],
+    "history": "",
+    "bibliography": [],
+    "height": "340",
+    "width": "240",
+    "material_spec": "Mehrere Blätter aus Kalbspergament. Haarseiten sind teils sehr dunkel.",
+    "orig_place": [
+      {
+        "id": 3,
+        "value": "Salzburg"
+      }
+    ],
+    "catchwords": "",
+    "quiremarks": "Lagenzählung zunächst mit Majuskeln, später mit Zählen.",
+    "material": {
+      "id": 14782,
+      "value": "parchment",
+      "color": "darker-orange"
+    },
+    "provenance": [
+      {
+        "id": 8,
+        "value": "Dombibliothek Salzburg"
+      }
+    ],
+    "manuscripts_dated": [
+      {
+        "id": 9,
+        "value": "hit_dated__9"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 22,
+          "database_table_3516": 9
+        },
+        "value": "780-800"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-01",
+    "Last modified": "2024-07-18"
   },
   "2": {
     "id": 2,
@@ -304,7 +508,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-13",
-    "Last modified": "2024-07-16"
+    "Last modified": "2024-07-18"
   },
   "6": {
     "id": 6,
@@ -328,7 +532,7 @@
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00065382?page=,1",
     "idno": "Clm. 6308",
     "idno_former": "Fris. 108",
-    "quire_structure": "(IV - 2?)**6** + 17 IV**142** + (IV - l)**149**",
+    "quire_structure": "(IV - 2)**6** + 17 IV**142** + (IV - l)**149**",
     "library_full": [
       {
         "id": 4,
@@ -366,11 +570,30 @@
     ],
     "manuscripts_dated": [
       {
+        "id": 25,
+        "value": "hit_dated__25"
+      },
+      {
         "id": 8,
         "value": "hit_dated__8"
       }
     ],
-    "orig_dated": [],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 10,
+          "database_table_3516": 8
+        },
+        "value": "vor 784"
+      },
+      {
+        "ids": {
+          "database_table_3512": 28,
+          "database_table_3516": 25
+        },
+        "value": "8 Jh."
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -380,7 +603,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-13",
-    "Last modified": "2024-07-17"
+    "Last modified": "2024-07-18"
   },
   "7": {
     "id": 7,
@@ -404,7 +627,7 @@
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00115092?page=,1",
     "idno": "Clm. 6380",
     "idno_former": "",
-    "quire_structure": "(IV - 2) 6+ (VII - 4) 16+ 2 IV 32+ (V - 2) 40+ IV 48+ (VI - 4) 56+ 5 IV 96+ (IV - 1) 103",
+    "quire_structure": "(IV - 2) **6**+ (VII - 4) **16**+ 2 IV **32**+ (V - 2) **40**+ IV **48**+ (VI - 4) **56**+ 5 IV **96**+ (IV - 1) **103**",
     "library_full": [
       {
         "id": 4,
@@ -464,7 +687,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-13",
-    "Last modified": "2024-07-11"
+    "Last modified": "2024-07-18"
   },
   "8": {
     "id": 8,
@@ -488,7 +711,7 @@
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054504?page=,1",
     "idno": "Clm. 6375",
     "idno_former": "Fris. 175",
-    "quire_structure": "(V - 3) 7+ IV 15+ 2 (V - 2) 31+ IV 39+ (V - 2) 47+ IV 55+ (V - 2) 63+ 3 IV 87+ 5 (V - 2) 127+ (IV - 1) 134+ IV 142+ (IV + [I - 1] 144- 1) 150+ IV 158+ 2 (V - 2) 174+ IV 182+ (VI - 3) 191+ (IV - 2) 197+ (VIII - 7) 206+ (VI - 4) 214+ IV 222+ (III - 1) 227",
+    "quire_structure": "(V - 3) **7**+ IV **15**+ 2 (V - 2) **31**+ IV **39**+ (V - 2) **47**+ IV **55**+ (V - 2) **63**+ 3 IV **87**+ 5 (V - 2) **127**+ (IV - 1) **134**+ IV **142**+ (IV + \\[I - 1\\] 144- 1) **150**+ IV **158**+ 2 (V - 2) **174**+ IV **182**+ (VI - 3) **191**+ (IV - 2) **197**+ (VIII - 7) **206**+ (VI - 4) **214**+ IV **222**+ (III - 1) **227**",
     "library_full": [
       {
         "id": 4,
@@ -559,7 +782,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-13",
-    "Last modified": "2024-07-12"
+    "Last modified": "2024-07-18"
   },
   "9": {
     "id": 9,
@@ -583,7 +806,7 @@
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054506?page=,1",
     "idno": "Clm. 6381",
     "idno_former": "",
-    "quire_structure": "II 4+ 11 IV 92+ III 98+ 12 IV 194+ 9 (!) III 248+ (II - 2) 250",
+    "quire_structure": "II **4**+ 11 IV **92**+ III **98**+ 12 IV **194**+ 9 (!) III **248**+ (II - 2) **250**",
     "library_full": [
       {
         "id": 4,
@@ -667,7 +890,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-13",
-    "Last modified": "2024-07-08"
+    "Last modified": "2024-07-18"
   },
   "10": {
     "id": 10,
@@ -836,7 +1059,7 @@
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00006691?page=,1",
     "idno": "Clm. 6388",
     "idno_former": "",
-    "quire_structure": "II 4+ (II - 1) 7; V 17+ 8 IV 81+ II 85; 13 IV 189+ (IV + 1) 198",
+    "quire_structure": "II **4**+ (II - 1) **7**; V **17**+ 8 IV **81**+ II **85**; 13 IV **189**+ (IV + 1) **198**",
     "library_full": [
       {
         "id": 4,
@@ -900,7 +1123,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-14",
-    "Last modified": "2024-07-08"
+    "Last modified": "2024-07-18"
   },
   "13": {
     "id": 13,
@@ -924,7 +1147,7 @@
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00112045?page=,1",
     "idno": "Clm. 6391",
     "idno_former": "",
-    "quire_structure": "I II+ 6 IV 48+ (IV - 1) 55+ III 61+ 4 IV 93+ (IV - 3) 98+ 11 IV 186+ (IV - 1) 193",
+    "quire_structure": "I II+ 6 IV **48**+ (IV - 1) **55**+ III **61**+ 4 IV **93**+ (IV - 3) **98**+ 11 IV **186**+ (IV - 1) **193**",
     "library_full": [
       {
         "id": 4,
@@ -980,11 +1203,11 @@
       "name": "Ksenia Borisova"
     },
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-14",
-    "Last modified": "2024-07-05"
+    "Last modified": "2024-07-18"
   },
   "14": {
     "id": 14,
@@ -1008,7 +1231,7 @@
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00115093?page=,1",
     "idno": "Clm. 6392",
     "idno_former": "",
-    "quire_structure": "(V + 1) 10+ 2 IV 26+ III 32+ 2 IV 48+ (III + 1) 55",
+    "quire_structure": "(V + 1) **10**+ 2 IV **26**+ III **32**+ 2 IV **48**+ (III + 1) **55**",
     "library_full": [
       {
         "id": 4,
@@ -1064,11 +1287,11 @@
       "name": "Ksenia Borisova"
     },
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-14",
-    "Last modified": "2024-07-05"
+    "Last modified": "2024-07-18"
   },
   "15": {
     "id": 15,
@@ -1092,7 +1315,7 @@
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00047273?page=,1",
     "idno": "Clm. 6393",
     "idno_former": "",
-    "quire_structure": "(IV - 1) 7+ III 13+ 2 IV 29+ (IV - 1) 36+ 11 IV 124+ (I + [IV - 1]) 133; 17 IV 269+ (IV - 1) 276",
+    "quire_structure": "(IV - 1) **7**+ III **13**+ 2 IV **29**+ (IV - 1) **36**+ 11 IV **124**+ (I + \\[IV - 1\\]) **133**; 17 IV **269**+ (IV - 1) **276**",
     "library_full": [
       {
         "id": 4,
@@ -1148,11 +1371,11 @@
       "name": "Ksenia Borisova"
     },
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-14",
-    "Last modified": "2024-07-05"
+    "Last modified": "2024-07-18"
   },
   "16": {
     "id": 16,
@@ -1176,7 +1399,7 @@
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054505?page=,1",
     "idno": "Clm. 6376",
     "idno_former": "",
-    "quire_structure": "22 IV 175+ (IV - 1) 182+ IV 190+ (IV - 1) 197+ 2 IV 213",
+    "quire_structure": "22 IV **175**+ (IV - 1) **182**+ IV **190**+ (IV - 1) **197**+ 2 IV **213**",
     "library_full": [
       {
         "id": 4,
@@ -1243,11 +1466,11 @@
       "name": "Ksenia Borisova"
     },
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-14",
-    "Last modified": "2024-07-05"
+    "Last modified": "2024-07-18"
   },
   "17": {
     "id": 17,
@@ -1271,7 +1494,7 @@
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00064004?page=,1",
     "idno": "Clm. 1086",
     "idno_former": "",
-    "quire_structure": "(IV-1) 7 + 11 IV 94 + (IV-1) 103",
+    "quire_structure": "(IV-1) **7** + 11 IV **94** + (IV-1) **103**",
     "library_full": [
       {
         "id": 4,
@@ -1338,11 +1561,11 @@
       "name": "Ksenia Borisova"
     },
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-14",
-    "Last modified": "2024-07-05"
+    "Last modified": "2024-07-18"
   },
   "18": {
     "id": 18,
@@ -1469,158 +1692,54 @@
   "20": {
     "id": 20,
     "order": "19.00000000000000000000",
-    "shelfmark": [],
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm 27305"
+      }
+    ],
     "hit_id": "hit_mansuscript__20",
-    "library": [],
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
     "manuscripta_url": "",
-    "handschriftenportal_url": "",
-    "catalog_url": "",
+    "handschriftenportal_url": "https://handschriftenportal.de/search?hspobjectid=HSP-60678be8-e5fa-3174-a84a-3e9224096153&q=27305&hl=true",
+    "catalog_url": "https://handschriftencensus.de/15743",
     "digi_url": "",
-    "idno": "",
-    "idno_former": "",
-    "quire_structure": "",
-    "library_full": [],
-    "extent": "",
-    "foliation": "",
+    "idno": "Clm 27305",
+    "idno_former": "Kollektar 27305",
+    "quire_structure": "2 II**16** + 4 IV**80** + (IV + l)**98** + III**110** + I**114** + 5IV**194** - I**198** + 4 IV**262**.",
+    "library_full": [
+      {
+        "id": 4,
+        "value": "Bayerische Staatsbibliothek"
+      }
+    ],
+    "extent": "131",
+    "foliation": "19 Jh.",
     "acc_mat": "",
     "binding": "",
     "binding_date": [],
     "history": "",
     "bibliography": [],
-    "height": null,
-    "width": null,
+    "height": "225",
+    "width": "185",
     "material_spec": "",
-    "orig_place": [],
-    "catchwords": "",
-    "quiremarks": null,
-    "material": null,
-    "provenance": [],
-    "manuscripts_dated": [],
-    "orig_dated": [],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-06-17",
-    "Last modified": "2024-06-17"
-  },
-  "21": {
-    "id": 21,
-    "order": "20.00000000000000000000",
-    "shelfmark": [
-      {
-        "id": 1,
-        "value": "ÖNB, Cod. 2090"
-      }
-    ],
-    "hit_id": "hit_mansuscript__21",
-    "library": [
-      {
-        "id": 1,
-        "value": "ÖNB"
-      }
-    ],
-    "manuscripta_url": "https://manuscripta.at/?ID=5187",
-    "handschriftenportal_url": "",
-    "catalog_url": "http://data.onb.ac.at/rec/AC13961404",
-    "digi_url": "",
-    "idno": "Cod. 2090",
-    "idno_former": "",
-    "quire_structure": "",
-    "library_full": [
-      {
-        "id": 1,
-        "value": "Österreichische Nationalbibliothek"
-      }
-    ],
-    "extent": "",
-    "foliation": "",
-    "acc_mat": "",
-    "binding": "",
-    "binding_date": [],
-    "history": "",
-    "bibliography": [],
-    "height": null,
-    "width": null,
-    "material_spec": "",
-    "orig_place": [],
-    "catchwords": "",
-    "quiremarks": null,
-    "material": {
-      "id": 14782,
-      "value": "parchment",
-      "color": "darker-orange"
-    },
-    "provenance": [],
-    "manuscripts_dated": [],
-    "orig_dated": [],
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Created on": "2024-06-17",
-    "Last modified": "2024-07-10"
-  },
-  "22": {
-    "id": 22,
-    "order": "21.00000000000000000000",
-    "shelfmark": [
-      {
-        "id": 1,
-        "value": "ÖNB, Cod. 366"
-      }
-    ],
-    "hit_id": "hit_mansuscript__22",
-    "library": [
-      {
-        "id": 1,
-        "value": "ÖNB"
-      }
-    ],
-    "manuscripta_url": "https://manuscripta.at/?ID=9750",
-    "handschriftenportal_url": "",
-    "catalog_url": "https://search.onb.ac.at/permalink/f/sb7jht/ONB_alma21302410040003338",
-    "digi_url": "",
-    "idno": "Cod. 366",
-    "idno_former": "",
-    "quire_structure": "TBD",
-    "library_full": [
-      {
-        "id": 1,
-        "value": "Österreichische Nationalbibliothek"
-      }
-    ],
-    "extent": "208",
-    "foliation": "",
-    "acc_mat": "Decretales: Fragmenta.",
-    "binding": "Helles Leder mit Streicheisenlinien über Holzdeckeln aus Salzburg.",
-    "binding_date": [
-      {
-        "id": 21,
-        "value": "um 1433"
-      }
-    ],
-    "history": "",
-    "bibliography": [],
-    "height": "340",
-    "width": "240",
-    "material_spec": "Mehrere Blätter aus Kalbspergament. Haarseiten sind teils sehr dunkel.",
     "orig_place": [
       {
-        "id": 3,
-        "value": "Salzburg"
+        "id": 4,
+        "value": "Freising"
+      },
+      {
+        "id": 15,
+        "value": "Schwabien"
       }
     ],
     "catchwords": "",
-    "quiremarks": "",
+    "quiremarks": null,
     "material": {
       "id": 14782,
       "value": "parchment",
@@ -1628,35 +1747,46 @@
     },
     "provenance": [
       {
-        "id": 8,
-        "value": "Domkapitel. Bibliothek Salzburg"
+        "id": 6,
+        "value": "Dombibliothek Freising"
       }
     ],
     "manuscripts_dated": [
       {
-        "id": 9,
-        "value": "hit_dated__9"
+        "id": 26,
+        "value": "hit_dated__26"
+      },
+      {
+        "id": 27,
+        "value": "hit_dated__27"
       }
     ],
     "orig_dated": [
       {
         "ids": {
-          "database_table_3512": 22,
-          "database_table_3516": 9
+          "database_table_3512": 5,
+          "database_table_3516": 27
         },
-        "value": "780-800"
+        "value": "10 Jh., zweite Hälfte"
+      },
+      {
+        "ids": {
+          "database_table_3512": 33,
+          "database_table_3516": 26
+        },
+        "value": "10/11 Jh."
       }
     ],
     "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Created on": "2024-07-01",
-    "Last modified": "2024-07-16"
+    "Created on": "2024-06-17",
+    "Last modified": "2024-07-18"
   },
   "23": {
     "id": 23,
@@ -1698,7 +1828,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-07-03",
-    "Last modified": "2024-07-03"
+    "Last modified": "2024-07-18"
   },
   "24": {
     "id": 24,

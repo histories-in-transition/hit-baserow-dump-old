@@ -707,15 +707,20 @@
     "siglum": "",
     "hit_id": "hit_ms_items__69",
     "filiation": [],
-    "locus_grp": "117v",
+    "locus_grp": "107v; 117v",
     "hands_role": [
       {
         "id": 26,
         "value": "hit_hands_role__26"
       }
     ],
-    "cod_unit": [],
-    "Last modified": "2024-07-15",
+    "cod_unit": [
+      {
+        "id": 5,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 2"
+      }
+    ],
+    "Last modified": "2024-07-19",
     "Created on": "2024-07-11",
     "Created by": {
       "id": 86,
@@ -725,8 +730,13 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "excerpt": [],
-    "note": "TEST: Locus nur Platzhalter. Auszüge der Jahre...",
+    "excerpt": [
+      {
+        "id": 3,
+        "value": ""
+      }
+    ],
+    "note": "TEST. Auszüge der Jahre...",
     "hand": [
       {
         "ids": {
@@ -4299,8 +4309,18 @@
   "88": {
     "id": 88,
     "order": "78.00000000000000000000",
-    "label": [],
-    "manuscript": [],
+    "label": [
+      {
+        "id": 20,
+        "value": "clm 27305__88"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 20,
+        "value": "BSB, Clm 27305"
+      }
+    ],
     "incipit": "",
     "explicit": "",
     "rubric": "",
@@ -4311,10 +4331,10 @@
     "siglum": "",
     "hit_id": "hit_ms_items__88",
     "filiation": [],
-    "locus_grp": "",
+    "locus_grp": "29r-33v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-18",
+    "Last modified": "2024-07-19",
     "Created on": "2024-07-18",
     "Created by": {
       "id": 87,

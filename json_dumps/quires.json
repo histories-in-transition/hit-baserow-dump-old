@@ -32,18 +32,30 @@
       }
     ],
     "quiremark": null,
-    "written_height": null,
-    "written_width": null,
-    "written": "×",
-    "hair_flesh": [],
-    "ruling": "",
-    "column": [],
+    "written_height": "245",
+    "written_width": "173",
+    "written": "245×173",
+    "hair_flesh": [
+      {
+        "id": 14740,
+        "value": "HFFH",
+        "color": "darker-purple"
+      }
+    ],
+    "ruling": "25 Zeilen",
+    "column": [
+      {
+        "id": 14744,
+        "value": "2",
+        "color": "dark-brown"
+      }
+    ],
     "note": "",
-    "decoration": "",
+    "decoration": "Überschriften in roter Auszeichnugschrift (Rustica) und rot-schwarze Kapitelzahlen.",
     "quire_structrure": "II-1",
     "correct_number": null,
-    "height": null,
-    "width": null,
+    "height": "324",
+    "width": "256",
     "catchwords": false,
     "stratum": [],
     "Created by": {
@@ -55,7 +67,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-18T11:21:36.713637Z"
+    "Last modified": "2024-07-19T10:19:09.819039Z"
   },
   "5": {
     "id": 5,
@@ -4986,11 +4998,28 @@
     "written_height": null,
     "written_width": null,
     "written": "×",
-    "hair_flesh": [],
-    "ruling": "",
-    "column": [],
-    "note": "",
-    "decoration": "",
+    "hair_flesh": [
+      {
+        "id": 14740,
+        "value": "HFFH",
+        "color": "darker-purple"
+      }
+    ],
+    "ruling": "25-27 Zeilen",
+    "column": [
+      {
+        "id": 14743,
+        "value": "1",
+        "color": "darker-blue"
+      },
+      {
+        "id": 14781,
+        "value": "5",
+        "color": "red"
+      }
+    ],
+    "note": "Zeilen- und Spaltenzahl variiert aufgrund der Gestaltung der komputistischen Tabellen und Texte.",
+    "decoration": "Kapitelzahlen und Überschriften sowohl Unziale als auch Rustica in verschiedenen Rotstufen und Graublau. Rote Rahmung der Tabellen.",
     "quire_structrure": "IV",
     "correct_number": null,
     "height": null,
@@ -5006,7 +5035,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-18T11:11:08.538668Z"
+    "Last modified": "2024-07-19T10:22:17.485072Z"
   },
   "78": {
     "id": 78,
@@ -5192,11 +5221,28 @@
     "written_height": null,
     "written_width": null,
     "written": "×",
-    "hair_flesh": [],
-    "ruling": "",
-    "column": [],
-    "note": "",
-    "decoration": "",
+    "hair_flesh": [
+      {
+        "id": 14740,
+        "value": "HFFH",
+        "color": "darker-purple"
+      }
+    ],
+    "ruling": "25-25",
+    "column": [
+      {
+        "id": 14743,
+        "value": "1",
+        "color": "darker-blue"
+      },
+      {
+        "id": 14781,
+        "value": "5",
+        "color": "red"
+      }
+    ],
+    "note": "Zeilen- und Spaltenzahl variiert aufgrund der Gestaltung der komputistischen Tabellen und Texte.",
+    "decoration": "Kapitelzahlen und Überschriften sowohl Unziale als auch Rustica in verschiedenen Rotstufen und Graublau. Rote Rahmung der Tabellen.",
     "quire_structrure": "IV",
     "correct_number": null,
     "height": null,
@@ -5212,7 +5258,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-18T11:11:12.125816Z"
+    "Last modified": "2024-07-19T10:25:22.990726Z"
   },
   "83": {
     "id": 83,
@@ -5250,11 +5296,23 @@
     "written_height": null,
     "written_width": null,
     "written": "×",
-    "hair_flesh": [],
+    "hair_flesh": [
+      {
+        "id": 14740,
+        "value": "HFFH",
+        "color": "darker-purple"
+      }
+    ],
     "ruling": "",
-    "column": [],
+    "column": [
+      {
+        "id": 14743,
+        "value": "1",
+        "color": "darker-blue"
+      }
+    ],
     "note": "",
-    "decoration": "",
+    "decoration": "Kapitelzahlen und Überschriften sowohl Unziale als auch Rustica in roter Farbe.",
     "quire_structrure": "IV",
     "correct_number": null,
     "height": null,
@@ -5270,7 +5328,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-18T11:11:22.822983Z"
+    "Last modified": "2024-07-19T10:25:31.377364Z"
   },
   "84": {
     "id": 84,
@@ -5308,7 +5366,18 @@
     "written_height": null,
     "written_width": null,
     "written": "×",
-    "hair_flesh": [],
+    "hair_flesh": [
+      {
+        "id": 14740,
+        "value": "HFFH",
+        "color": "darker-purple"
+      },
+      {
+        "id": 14742,
+        "value": "FHHF",
+        "color": "pink"
+      }
+    ],
     "ruling": "",
     "column": [],
     "note": "",
@@ -5328,7 +5397,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-18T11:11:37.163752Z"
+    "Last modified": "2024-07-19T09:53:18.473171Z"
   },
   "85": {
     "id": 85,
@@ -5634,7 +5703,7 @@
     ],
     "hit_id": "hit_quire__90",
     "number": "11",
-    "locus": "75r-86v",
+    "locus": "75r-82v",
     "library": [
       {
         "ids": {
@@ -5645,7 +5714,7 @@
       }
     ],
     "locus_from": "75r",
-    "locus_to": "86v",
+    "locus_to": "82v",
     "manuscript": [
       {
         "id": 1,
@@ -5659,9 +5728,9 @@
     "hair_flesh": [],
     "ruling": "",
     "column": [],
-    "note": "",
+    "note": "In ÖNB Lagenformel als VI angegeben.",
     "decoration": "",
-    "quire_structrure": "VI",
+    "quire_structrure": "V",
     "correct_number": null,
     "height": null,
     "width": null,
@@ -5676,7 +5745,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-18T11:36:26.685159Z"
+    "Last modified": "2024-07-19T08:45:35.184055Z"
   },
   "91": {
     "id": 91,
@@ -5692,7 +5761,7 @@
     ],
     "hit_id": "hit_quire__91",
     "number": "12",
-    "locus": "87r-98v",
+    "locus": "83r-90v",
     "library": [
       {
         "ids": {
@@ -5702,8 +5771,8 @@
         "value": "ÖNB"
       }
     ],
-    "locus_from": "87r",
-    "locus_to": "98v",
+    "locus_from": "83r",
+    "locus_to": "90v",
     "manuscript": [
       {
         "id": 1,
@@ -5717,9 +5786,9 @@
     "hair_flesh": [],
     "ruling": "",
     "column": [],
-    "note": "",
+    "note": "In ÖNB Lagenformel als VI angegeben.",
     "decoration": "",
-    "quire_structrure": "VI",
+    "quire_structrure": "V",
     "correct_number": null,
     "height": null,
     "width": null,
@@ -5734,7 +5803,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-18T11:36:33.850263Z"
+    "Last modified": "2024-07-19T08:45:35.207956Z"
   },
   "92": {
     "id": 92,
@@ -5750,7 +5819,7 @@
     ],
     "hit_id": "hit_quire__92",
     "number": "13",
-    "locus": "99r-110v",
+    "locus": "91r-98v",
     "library": [
       {
         "ids": {
@@ -5760,8 +5829,8 @@
         "value": "ÖNB"
       }
     ],
-    "locus_from": "99r",
-    "locus_to": "110v",
+    "locus_from": "91r",
+    "locus_to": "98v",
     "manuscript": [
       {
         "id": 1,
@@ -5775,9 +5844,9 @@
     "hair_flesh": [],
     "ruling": "",
     "column": [],
-    "note": "",
+    "note": "In ÖNB Lagenformel als VI angegeben.",
     "decoration": "",
-    "quire_structrure": "VI",
+    "quire_structrure": "V",
     "correct_number": null,
     "height": null,
     "width": null,
@@ -5792,7 +5861,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-18T11:36:41.310289Z"
+    "Last modified": "2024-07-19T08:45:35.215462Z"
   },
   "93": {
     "id": 93,
@@ -5808,7 +5877,7 @@
     ],
     "hit_id": "hit_quire__93",
     "number": "14",
-    "locus": "-",
+    "locus": "99r-106v",
     "library": [
       {
         "ids": {
@@ -5818,8 +5887,8 @@
         "value": "ÖNB"
       }
     ],
-    "locus_from": "",
-    "locus_to": "",
+    "locus_from": "99r",
+    "locus_to": "106v",
     "manuscript": [
       {
         "id": 1,
@@ -5833,9 +5902,9 @@
     "hair_flesh": [],
     "ruling": "",
     "column": [],
-    "note": "",
+    "note": "In ÖNB Lagenformel als VI angegeben.",
     "decoration": "",
-    "quire_structrure": "VI",
+    "quire_structrure": "V",
     "correct_number": null,
     "height": null,
     "width": null,
@@ -5850,7 +5919,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-18T11:35:58.673470Z"
+    "Last modified": "2024-07-19T08:45:35.223243Z"
   },
   "94": {
     "id": 94,
@@ -5866,7 +5935,7 @@
     ],
     "hit_id": "hit_quire__94",
     "number": "15",
-    "locus": "-",
+    "locus": "107r-114v",
     "library": [
       {
         "ids": {
@@ -5876,8 +5945,8 @@
         "value": "ÖNB"
       }
     ],
-    "locus_from": "",
-    "locus_to": "",
+    "locus_from": "107r",
+    "locus_to": "114v",
     "manuscript": [
       {
         "id": 1,
@@ -5891,9 +5960,9 @@
     "hair_flesh": [],
     "ruling": "",
     "column": [],
-    "note": "",
+    "note": "In ÖNB Lagenformel als VI angegeben.",
     "decoration": "",
-    "quire_structrure": "VI",
+    "quire_structrure": "V",
     "correct_number": null,
     "height": null,
     "width": null,
@@ -5908,7 +5977,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-18T11:35:59.255703Z"
+    "Last modified": "2024-07-19T08:45:35.234385Z"
   },
   "95": {
     "id": 95,
@@ -5924,7 +5993,7 @@
     ],
     "hit_id": "hit_quire__95",
     "number": "16",
-    "locus": "-",
+    "locus": "115r-120v",
     "library": [
       {
         "ids": {
@@ -5934,8 +6003,8 @@
         "value": "ÖNB"
       }
     ],
-    "locus_from": "",
-    "locus_to": "",
+    "locus_from": "115r",
+    "locus_to": "120v",
     "manuscript": [
       {
         "id": 1,
@@ -5949,9 +6018,9 @@
     "hair_flesh": [],
     "ruling": "",
     "column": [],
-    "note": "",
+    "note": "Zwischen f. 117 und 118 fehlt ein Doppelblatt.",
     "decoration": "",
-    "quire_structrure": "",
+    "quire_structrure": "III od. (IV-2)",
     "correct_number": null,
     "height": null,
     "width": null,
@@ -5966,7 +6035,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-18T11:30:32.014014Z"
+    "Last modified": "2024-07-19T08:44:17.318664Z"
   },
   "96": {
     "id": 96,
@@ -5982,7 +6051,7 @@
     ],
     "hit_id": "hit_quire__96",
     "number": "17",
-    "locus": "-",
+    "locus": "121r-128v",
     "library": [
       {
         "ids": {
@@ -5992,8 +6061,8 @@
         "value": "ÖNB"
       }
     ],
-    "locus_from": "",
-    "locus_to": "",
+    "locus_from": "121r",
+    "locus_to": "128v",
     "manuscript": [
       {
         "id": 1,
@@ -6009,7 +6078,7 @@
     "column": [],
     "note": "",
     "decoration": "",
-    "quire_structrure": "",
+    "quire_structrure": "IV",
     "correct_number": null,
     "height": null,
     "width": null,
@@ -6024,7 +6093,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-18T11:30:33.720833Z"
+    "Last modified": "2024-07-19T08:44:35.619795Z"
   },
   "97": {
     "id": 97,
@@ -6040,7 +6109,7 @@
     ],
     "hit_id": "hit_quire__97",
     "number": "18",
-    "locus": "-",
+    "locus": "129r-136v",
     "library": [
       {
         "ids": {
@@ -6050,8 +6119,8 @@
         "value": "ÖNB"
       }
     ],
-    "locus_from": "",
-    "locus_to": "",
+    "locus_from": "129r",
+    "locus_to": "136v",
     "manuscript": [
       {
         "id": 1,
@@ -6067,7 +6136,7 @@
     "column": [],
     "note": "",
     "decoration": "",
-    "quire_structrure": "",
+    "quire_structrure": "IV",
     "correct_number": null,
     "height": null,
     "width": null,
@@ -6082,7 +6151,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-18T11:30:34.949115Z"
+    "Last modified": "2024-07-19T08:44:58.265467Z"
   },
   "98": {
     "id": 98,
@@ -6141,5 +6210,179 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-18T14:10:17.910906Z"
+  },
+  "99": {
+    "id": 99,
+    "order": "93.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387, L. 19"
+      }
+    ],
+    "hit_id": "hit_quire__99",
+    "number": "19",
+    "locus": "137r-146v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB"
+      }
+    ],
+    "locus_from": "137r",
+    "locus_to": "146v",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "(VI-2)",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-19",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-19T08:49:19.431159Z"
+  },
+  "100": {
+    "id": 100,
+    "order": "94.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387, L. 20"
+      }
+    ],
+    "hit_id": "hit_quire__100",
+    "number": "20",
+    "locus": "147r-156v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB"
+      }
+    ],
+    "locus_from": "147r",
+    "locus_to": "156v",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "V",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-19",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-19T08:49:55.299738Z"
+  },
+  "101": {
+    "id": 101,
+    "order": "95.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387, L. 21"
+      }
+    ],
+    "hit_id": "hit_quire__101",
+    "number": "21",
+    "locus": "157r-165v",
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB"
+      }
+    ],
+    "locus_from": "157r",
+    "locus_to": "165v",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structrure": "(VI-3)",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-19",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-19T08:50:44.756187Z"
   }
 }

@@ -30,10 +30,20 @@
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "label": [],
-    "work": [],
+    "label": [
+      {
+        "id": 11,
+        "value": "hieronymi chronicon, TBD"
+      }
+    ],
+    "work": [
+      {
+        "id": 11,
+        "value": "hieronymi chronicon"
+      }
+    ],
     "scope": "TBD",
     "hit_id": "hit_excerpts__3",
-    "description": ""
+    "description": "Zusatz aus"
   }
 }

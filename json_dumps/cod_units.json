@@ -639,14 +639,49 @@
   "14": {
     "id": 14,
     "order": "12.00000000000000000000",
-    "label": [],
-    "notes": "",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387, cod. unit 1"
+      }
+    ],
+    "notes": "TBD",
     "hit_id": "hit_cod_unit__14",
-    "locus": "",
-    "manuscript": [],
-    "quire": [],
-    "number": null,
-    "prov_place": [],
+    "locus": "4r-",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "quire": [
+      {
+        "id": 77,
+        "value": "ÖNB, Cod. 387, L. 2"
+      },
+      {
+        "id": 82,
+        "value": "ÖNB, Cod. 387, L. 3"
+      },
+      {
+        "id": 83,
+        "value": "ÖNB, Cod. 387, L. 4"
+      },
+      {
+        "id": 84,
+        "value": "ÖNB, Cod. 387, L. 5"
+      }
+    ],
+    "number": "1",
+    "prov_place": [
+      {
+        "id": 3,
+        "value": "Salzburg"
+      }
+    ],
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -656,7 +691,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-18"
+    "Last modified": "2024-07-20"
   },
   "15": {
     "id": 15,

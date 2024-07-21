@@ -733,7 +733,7 @@
     "excerpt": [
       {
         "id": 3,
-        "value": ""
+        "value": "hieronymi chronicon, TBD"
       }
     ],
     "note": "TEST. Auszüge der Jahre...",
@@ -4379,5 +4379,631 @@
     "excerpt": [],
     "note": "",
     "hand": []
+  },
+  "90": {
+    "id": 90,
+    "order": "80.00000000000000000000",
+    "label": [
+      {
+        "id": 1,
+        "value": "cod_387__90"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "incipit": "I Adbreviatio chronicae",
+    "explicit": "De mensuris in liquidis",
+    "rubric": "In nomine Domini potentis. Hic capitularium libri incipit calculationis.",
+    "title_work": [
+      {
+        "id": 82,
+        "value": "Inhaltsverzeichnis"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__90",
+    "filiation": [],
+    "locus_grp": "1r-3r",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-07-20",
+    "Created on": "2024-07-20",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "",
+    "hand": []
+  },
+  "91": {
+    "id": 91,
+    "order": "81.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__91",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-07-20",
+    "Created on": "2024-07-20",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "",
+    "hand": []
+  },
+  "93": {
+    "id": 93,
+    "order": "81.50000000000000000000",
+    "label": [
+      {
+        "id": 1,
+        "value": "cod_387__93"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "incipit": "nuscelihiu",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 84,
+        "value": "Althochdeutscher Eintrag"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__93",
+    "filiation": [],
+    "locus_grp": "3r",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-07-20",
+    "Created on": "2024-07-20",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "Althochdeutsches Wort im Stile eines Titels über einem lateinischen Bienensegen ohne erkennbaren Textbezug.",
+    "hand": []
+  },
+  "92": {
+    "id": 92,
+    "order": "82.00000000000000000000",
+    "label": [
+      {
+        "id": 1,
+        "value": "cod_387__92"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "incipit": "Apis modicula mater matricula",
+    "explicit": "Iohannes vos custodiant",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 83,
+        "value": "Bienensegen"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__92",
+    "filiation": [],
+    "locus_grp": "3r",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-07-20",
+    "Created on": "2024-07-20",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "",
+    "hand": []
+  },
+  "94": {
+    "id": 94,
+    "order": "84.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__94",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-07-20",
+    "Created on": "2024-07-20",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "",
+    "hand": []
+  },
+  "95": {
+    "id": 95,
+    "order": "85.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__95",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-07-20",
+    "Created on": "2024-07-20",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "",
+    "hand": []
+  },
+  "96": {
+    "id": 96,
+    "order": "86.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__96",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-07-20",
+    "Created on": "2024-07-20",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "",
+    "hand": []
+  },
+  "97": {
+    "id": 97,
+    "order": "87.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__97",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-07-20",
+    "Created on": "2024-07-20",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "",
+    "hand": []
+  },
+  "98": {
+    "id": 98,
+    "order": "88.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__98",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-07-20",
+    "Created on": "2024-07-20",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "",
+    "hand": []
+  },
+  "99": {
+    "id": 99,
+    "order": "89.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__99",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-07-20",
+    "Created on": "2024-07-20",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "",
+    "hand": []
+  },
+  "100": {
+    "id": 100,
+    "order": "90.00000000000000000000",
+    "label": [
+      {
+        "id": 1,
+        "value": "cod_387__100"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 85,
+        "value": "Komputistische Anweisungen"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__100",
+    "filiation": [],
+    "locus_grp": "1r",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-07-20",
+    "Created on": "2024-07-20",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "",
+    "hand": []
+  },
+  "101": {
+    "id": 101,
+    "order": "91.00000000000000000000",
+    "label": [
+      {
+        "id": 1,
+        "value": "cod_387__101"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 85,
+        "value": "Komputistische Anweisungen"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__101",
+    "filiation": [],
+    "locus_grp": "3r",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-07-20",
+    "Created on": "2024-07-20",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "10. Jh.",
+    "hand": []
+  },
+  "102": {
+    "id": 102,
+    "order": "92.00000000000000000000",
+    "label": [
+      {
+        "id": 1,
+        "value": "cod_387__102"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "incipit": "Ave maris stella Dei mater alma",
+    "explicit": "Vitam praesta puram",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 86,
+        "value": "Ave maris stella"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__102",
+    "filiation": [],
+    "locus_grp": "3v",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-07-20",
+    "Created on": "2024-07-20",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "",
+    "hand": []
+  },
+  "103": {
+    "id": 103,
+    "order": "93.00000000000000000000",
+    "label": [
+      {
+        "id": 1,
+        "value": "cod_387__103"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "incipit": "Adam cum esset",
+    "explicit": "incarnationis Domini IIII DCCLXXXIII",
+    "rubric": "I. Ad breviatio chronicae",
+    "title_work": [
+      {
+        "id": 87,
+        "value": "Abbreviatio chronicae a mundo condito usque ad Carolum Magnum"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__103",
+    "filiation": [],
+    "locus_grp": "4r-7r",
+    "hands_role": [
+      {
+        "id": 40,
+        "value": "hit_hands_role__40"
+      }
+    ],
+    "cod_unit": [],
+    "Last modified": "2024-07-20",
+    "Created on": "2024-07-20",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387_H. 1"
+      }
+    ]
+  },
+  "104": {
+    "id": 104,
+    "order": "94.00000000000000000000",
+    "label": [
+      {
+        "id": 1,
+        "value": "cod_387__104"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 78,
+        "value": "Historische und komputistische Zusätze"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__104",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [
+      {
+        "id": 45,
+        "value": "hit_hands_role__45"
+      }
+    ],
+    "cod_unit": [],
+    "Last modified": "2024-07-20",
+    "Created on": "2024-07-20",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "Baldo",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387_H. 2"
+      }
+    ]
   }
 }

@@ -1674,12 +1674,41 @@
     "id": 40,
     "order": "32.00000000000000000000",
     "hit_id": "hit_hands_role__40",
-    "hand": [],
-    "ms_item": [],
-    "role": [],
+    "hand": [
+      {
+        "id": 31,
+        "value": "ÖNB, Cod. 387_H. 1"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 103,
+        "value": "cod_387__103"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
     "locus": "",
-    "text": [],
-    "locus_text": [],
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 87,
+          "database_table_3491": 103
+        },
+        "value": "Abbreviatio chronicae a mundo condito usque ad Carolum Magnum"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 103,
+        "value": "4r-7r"
+      }
+    ],
     "Last modified by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -1689,7 +1718,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-16",
-    "Last modified": "2024-07-18"
+    "Last modified": "2024-07-20"
   },
   "41": {
     "id": 41,
@@ -1895,12 +1924,41 @@
     "id": 45,
     "order": "37.00000000000000000000",
     "hit_id": "hit_hands_role__45",
-    "hand": [],
-    "ms_item": [],
-    "role": [],
-    "locus": "",
-    "text": [],
-    "locus_text": [],
+    "hand": [
+      {
+        "id": 32,
+        "value": "ÖNB, Cod. 387_H. 2"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 104,
+        "value": "cod_387__104"
+      }
+    ],
+    "role": [
+      {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
+      }
+    ],
+    "locus": "15r",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 78,
+          "database_table_3491": 104
+        },
+        "value": "Historische und komputistische Zusätze"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 104,
+        "value": ""
+      }
+    ],
     "Last modified by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -1910,7 +1968,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-18",
-    "Last modified": "2024-07-18"
+    "Last modified": "2024-07-20"
   },
   "46": {
     "id": 46,

@@ -908,8 +908,21 @@
     ],
     "number": "1",
     "hit_id": "hit_strata__9",
-    "hand_role": [],
-    "ms_items": [],
+    "hand_role": [
+      {
+        "id": 40,
+        "value": "hit_hands_role__40"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 87,
+          "database_table_3491": 103
+        },
+        "value": "Abbreviatio chronicae a mundo condito usque ad Carolum Magnum"
+      }
+    ],
     "quires": [
       {
         "id": 77,
@@ -928,7 +941,12 @@
         "value": "ÖNB, Cod. 387, L. 5"
       }
     ],
-    "locus": [],
+    "locus": [
+      {
+        "id": 103,
+        "value": "4r-7r"
+      }
+    ],
     "note": "",
     "Created by": {
       "id": 86,
@@ -939,6 +957,6 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-20"
+    "Last modified": "2024-07-21"
   }
 }

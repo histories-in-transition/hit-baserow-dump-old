@@ -379,13 +379,51 @@
     "id": 15,
     "order": "15.00000000000000000000",
     "hit_id": "hit_hands_placed__15",
-    "hand": [],
+    "hand": [
+      {
+        "id": 31,
+        "value": "ÖNB, Cod. 387_H. 1"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ],
+    "page": "96",
+    "place": [
+      {
+        "id": 3,
+        "value": "Salzburg"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "hit_id": "hit_hands_placed__16",
+    "hand": [
+      {
+        "id": 32,
+        "value": "ÖNB, Cod. 387_H. 2"
+      }
+    ],
     "authority": [],
     "page": "",
-    "place": [],
+    "place": [
+      {
+        "id": 3,
+        "value": "Salzburg"
+      }
+    ],
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 86,
+      "name": "Leon Pürstinger"
     }
   }
 }

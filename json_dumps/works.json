@@ -2160,14 +2160,23 @@
   "78": {
     "id": 78,
     "order": "76.00000000000000000000",
-    "title": "Historische und komputistische Zusätze",
+    "title": "Historiographische und komputistische Zusätze",
     "gnd_url": "",
     "note": "",
     "hit_id": "hit_works__78",
     "author": [],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 5,
+        "value": "Historiographie"
+      },
+      {
+        "id": 16,
+        "value": "Komputistik"
+      }
+    ],
     "note_source": "",
     "Created by": {
       "id": 86,
@@ -2178,7 +2187,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-15"
+    "Last modified": "2024-07-23"
   },
   "79": {
     "id": 79,
@@ -2411,5 +2420,229 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-20"
+  },
+  "88": {
+    "id": 88,
+    "order": "86.00000000000000000000",
+    "title": "Argumentum ad annum mundi inveniendum",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__88",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 16,
+        "value": "Komputistik"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-23"
+  },
+  "89": {
+    "id": 89,
+    "order": "87.00000000000000000000",
+    "title": "Argumentum quomodo concurrentes sint inveniendi",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__89",
+    "author": [],
+    "bibliography": [],
+    "source_text": [
+      {
+        "id": 90,
+        "value": "De argumentis lunae"
+      }
+    ],
+    "genre": [
+      {
+        "id": 16,
+        "value": "Komputistik"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-23"
+  },
+  "90": {
+    "id": 90,
+    "order": "88.00000000000000000000",
+    "title": "De argumentis lunae",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__90",
+    "author": [
+      {
+        "id": 5,
+        "value": "Ps.-Beda"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-23"
+  },
+  "91": {
+    "id": 91,
+    "order": "89.00000000000000000000",
+    "title": "Argumentum de cursu lunae",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__91",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 16,
+        "value": "Komputistik"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-23"
+  },
+  "92": {
+    "id": 92,
+    "order": "90.00000000000000000000",
+    "title": "Martyrologium excarpsatum cum alphabetis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__92",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-23"
+  },
+  "93": {
+    "id": 93,
+    "order": "91.00000000000000000000",
+    "title": "Ratio de lunae discursu per signa que ad alphabetum pertinet priorem",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__93",
+    "author": [],
+    "bibliography": [],
+    "source_text": [
+      {
+        "id": 7,
+        "value": "De temporum ratione"
+      }
+    ],
+    "genre": [
+      {
+        "id": 16,
+        "value": "Komputistik"
+      }
+    ],
+    "note_source": "Kapitel 19",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-23"
+  },
+  "94": {
+    "id": 94,
+    "order": "92.00000000000000000000",
+    "title": "Notitiae chronologicae",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__94",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-23"
+  },
+  "95": {
+    "id": 95,
+    "order": "93.00000000000000000000",
+    "title": "Annales Salisburgenses",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__95",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 5,
+        "value": "Historiographie"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-23"
   }
 }

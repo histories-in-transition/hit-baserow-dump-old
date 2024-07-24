@@ -1414,11 +1414,109 @@
       {
         "id": 40,
         "value": "hit_hands_role__40"
+      },
+      {
+        "id": 46,
+        "value": "hit_hands_role__46"
+      },
+      {
+        "id": 49,
+        "value": "hit_hands_role__49"
+      },
+      {
+        "id": 51,
+        "value": "hit_hands_role__51"
+      },
+      {
+        "id": 52,
+        "value": "hit_hands_role__52"
+      },
+      {
+        "id": 53,
+        "value": "hit_hands_role__53"
+      },
+      {
+        "id": 54,
+        "value": "hit_hands_role__54"
+      },
+      {
+        "id": 56,
+        "value": "hit_hands_role__56"
       }
     ],
     "role": [
       {
         "id": 40,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 46,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 49,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 51,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 52,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 53,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 54,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 56,
         "value": [
           {
             "id": 14758,
@@ -1468,7 +1566,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-20",
+    "Last modified": "2024-07-23",
     "hands_role": [
       {
         "id": 45,
@@ -1487,5 +1585,295 @@
         ]
       }
     ]
+  },
+  "33": {
+    "id": 33,
+    "order": "29.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387_H. 3"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__33",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "number": "3",
+    "note": "Nachtrag 10. Jh.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-23",
+    "hands_role": [
+      {
+        "id": 47,
+        "value": "hit_hands_role__47"
+      },
+      {
+        "id": 48,
+        "value": "hit_hands_role__48"
+      }
+    ],
+    "role": [
+      {
+        "id": 47,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      },
+      {
+        "id": 48,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ]
+  },
+  "34": {
+    "id": 34,
+    "order": "30.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387_H. 4"
+      }
+    ],
+    "description": "Schräg abgeschnittene Oberlängen. Geschlossenes g.",
+    "scribe": [],
+    "hit_id": "hit_hands__34",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "number": "4",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-23",
+    "hands_role": [
+      {
+        "id": 50,
+        "value": "hit_hands_role__50"
+      }
+    ],
+    "role": [
+      {
+        "id": 50,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ]
+  },
+  "35": {
+    "id": 35,
+    "order": "31.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387_H. 5"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__35",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "number": "5",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-23",
+    "hands_role": [
+      {
+        "id": 55,
+        "value": "hit_hands_role__55"
+      }
+    ],
+    "role": [
+      {
+        "id": 55,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ]
+  },
+  "36": {
+    "id": 36,
+    "order": "32.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387_H. 6"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__36",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "number": "6",
+    "note": "Platzhalter: Schreibergruppe 12. Jh.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-23",
+    "hands_role": [],
+    "role": []
+  },
+  "37": {
+    "id": 37,
+    "order": "33.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387_H. 7"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__37",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "number": "7",
+    "note": "Platzhalter: Schreibergruppe 10. Jh.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-23",
+    "hands_role": [],
+    "role": []
+  },
+  "38": {
+    "id": 38,
+    "order": "34.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387_H. 8"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__38",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "number": "8",
+    "note": "Karolus imperator natus est",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-23",
+    "hands_role": [],
+    "role": []
   }
 }

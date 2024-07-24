@@ -1479,7 +1479,7 @@
           "database_table_3489": 78,
           "database_table_3491": 84
         },
-        "value": "Historische und komputistische Zusätze"
+        "value": "Historiographische und komputistische Zusätze"
       }
     ],
     "locus_text": [
@@ -1943,6 +1943,506 @@
         "color": "cyan"
       }
     ],
+    "locus": "7r, 9v, 10r, 10v, 15v",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 78,
+          "database_table_3491": 104
+        },
+        "value": "Historiographische und komputistische Zusätze"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 104,
+        "value": "7r, 9v, 10r, 10v, 11r, 15r, 15v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified": "2024-07-23"
+  },
+  "46": {
+    "id": 46,
+    "order": "38.00000000000000000000",
+    "hit_id": "hit_hands_role__46",
+    "hand": [
+      {
+        "id": 31,
+        "value": "ÖNB, Cod. 387_H. 1"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 111,
+        "value": "cod_387__111"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 93,
+          "database_table_3491": 111
+        },
+        "value": "Ratio de lunae discursu per signa que ad alphabetum pertinet priorem"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 111,
+        "value": "16r-16v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified": "2024-07-23"
+  },
+  "47": {
+    "id": 47,
+    "order": "39.00000000000000000000",
+    "hit_id": "hit_hands_role__47",
+    "hand": [
+      {
+        "id": 33,
+        "value": "ÖNB, Cod. 387_H. 3"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 92,
+        "value": "cod_387__92"
+      }
+    ],
+    "role": [
+      {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 83,
+          "database_table_3491": 92
+        },
+        "value": "Bienensegen"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 92,
+        "value": "3r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified": "2024-07-23"
+  },
+  "48": {
+    "id": 48,
+    "order": "40.00000000000000000000",
+    "hit_id": "hit_hands_role__48",
+    "hand": [
+      {
+        "id": 33,
+        "value": "ÖNB, Cod. 387_H. 3"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 93,
+        "value": "cod_387__93"
+      }
+    ],
+    "role": [
+      {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 84,
+          "database_table_3491": 93
+        },
+        "value": "Althochdeutscher Eintrag"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 93,
+        "value": "3r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified": "2024-07-23"
+  },
+  "49": {
+    "id": 49,
+    "order": "41.00000000000000000000",
+    "hit_id": "hit_hands_role__49",
+    "hand": [
+      {
+        "id": 31,
+        "value": "ÖNB, Cod. 387_H. 1"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 90,
+        "value": "cod_387__90"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 82,
+          "database_table_3491": 90
+        },
+        "value": "Inhaltsverzeichnis"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 90,
+        "value": "1r-3r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified": "2024-07-23"
+  },
+  "50": {
+    "id": 50,
+    "order": "42.00000000000000000000",
+    "hit_id": "hit_hands_role__50",
+    "hand": [
+      {
+        "id": 34,
+        "value": "ÖNB, Cod. 387_H. 4"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 104,
+        "value": "cod_387__104"
+      }
+    ],
+    "role": [
+      {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
+      }
+    ],
+    "locus": "11r",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 78,
+          "database_table_3491": 104
+        },
+        "value": "Historiographische und komputistische Zusätze"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 104,
+        "value": "7r, 9v, 10r, 10v, 11r, 15r, 15v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified": "2024-07-23"
+  },
+  "51": {
+    "id": 51,
+    "order": "43.00000000000000000000",
+    "hit_id": "hit_hands_role__51",
+    "hand": [
+      {
+        "id": 31,
+        "value": "ÖNB, Cod. 387_H. 1"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 110,
+        "value": "cod_387__110"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 92,
+          "database_table_3491": 110
+        },
+        "value": "Martyrologium excarpsatum cum alphabetis"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 110,
+        "value": "8v-15v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified": "2024-07-23"
+  },
+  "52": {
+    "id": 52,
+    "order": "44.00000000000000000000",
+    "hit_id": "hit_hands_role__52",
+    "hand": [
+      {
+        "id": 31,
+        "value": "ÖNB, Cod. 387_H. 1"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 109,
+        "value": "cod_387__109"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 91,
+          "database_table_3491": 109
+        },
+        "value": "Argumentum de cursu lunae"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 109,
+        "value": "7r-8r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified": "2024-07-23"
+  },
+  "53": {
+    "id": 53,
+    "order": "45.00000000000000000000",
+    "hit_id": "hit_hands_role__53",
+    "hand": [
+      {
+        "id": 31,
+        "value": "ÖNB, Cod. 387_H. 1"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 107,
+        "value": "cod_387__107"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 89,
+          "database_table_3491": 107
+        },
+        "value": "Argumentum quomodo concurrentes sint inveniendi"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 107,
+        "value": "7r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified": "2024-07-23"
+  },
+  "54": {
+    "id": 54,
+    "order": "46.00000000000000000000",
+    "hit_id": "hit_hands_role__54",
+    "hand": [
+      {
+        "id": 31,
+        "value": "ÖNB, Cod. 387_H. 1"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 105,
+        "value": "cod_387__105"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 88,
+          "database_table_3491": 105
+        },
+        "value": "Argumentum ad annum mundi inveniendum"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 105,
+        "value": "7r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified": "2024-07-23"
+  },
+  "55": {
+    "id": 55,
+    "order": "47.00000000000000000000",
+    "hit_id": "hit_hands_role__55",
+    "hand": [
+      {
+        "id": 35,
+        "value": "ÖNB, Cod. 387_H. 5"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 104,
+        "value": "cod_387__104"
+      }
+    ],
+    "role": [
+      {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
+      }
+    ],
     "locus": "15r",
     "text": [
       {
@@ -1950,13 +2450,13 @@
           "database_table_3489": 78,
           "database_table_3491": 104
         },
-        "value": "Historische und komputistische Zusätze"
+        "value": "Historiographische und komputistische Zusätze"
       }
     ],
     "locus_text": [
       {
         "id": 104,
-        "value": ""
+        "value": "7r, 9v, 10r, 10v, 11r, 15r, 15v"
       }
     ],
     "Last modified by": {
@@ -1967,19 +2467,48 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Created on": "2024-07-18",
-    "Last modified": "2024-07-20"
+    "Created on": "2024-07-23",
+    "Last modified": "2024-07-23"
   },
-  "46": {
-    "id": 46,
-    "order": "38.00000000000000000000",
-    "hit_id": "hit_hands_role__46",
-    "hand": [],
-    "ms_item": [],
-    "role": [],
+  "56": {
+    "id": 56,
+    "order": "48.00000000000000000000",
+    "hit_id": "hit_hands_role__56",
+    "hand": [
+      {
+        "id": 31,
+        "value": "ÖNB, Cod. 387_H. 1"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 112,
+        "value": "cod_387__112"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
     "locus": "",
-    "text": [],
-    "locus_text": [],
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 94,
+          "database_table_3491": 112
+        },
+        "value": "Notitiae chronologicae"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 112,
+        "value": "17r-58r"
+      }
+    ],
     "Last modified by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -1988,7 +2517,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Created on": "2024-07-18",
-    "Last modified": "2024-07-18"
+    "Created on": "2024-07-23",
+    "Last modified": "2024-07-23"
   }
 }

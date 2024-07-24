@@ -4085,7 +4085,7 @@
     "title_work": [
       {
         "id": 78,
-        "value": "Historische und komputistische Zusätze"
+        "value": "Historiographische und komputistische Zusätze"
       }
     ],
     "title_note": "",
@@ -4411,9 +4411,19 @@
     "hit_id": "hit_ms_items__90",
     "filiation": [],
     "locus_grp": "1r-3r",
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-07-20",
+    "hands_role": [
+      {
+        "id": 49,
+        "value": "hit_hands_role__49"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 14,
+        "value": "ÖNB, Cod. 387, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-23",
     "Created on": "2024-07-20",
     "Created by": {
       "id": 86,
@@ -4425,7 +4435,15 @@
     },
     "excerpt": [],
     "note": "",
-    "hand": []
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387_H. 1"
+      }
+    ]
   },
   "91": {
     "id": 91,
@@ -4446,6 +4464,58 @@
     "hands_role": [],
     "cod_unit": [],
     "Last modified": "2024-07-20",
+    "Created on": "2024-07-20",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "",
+    "hand": []
+  },
+  "100": {
+    "id": 100,
+    "order": "81.33333333333332859638",
+    "label": [
+      {
+        "id": 1,
+        "value": "cod_387__100"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 85,
+        "value": "Komputistische Anweisungen"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__100",
+    "filiation": [],
+    "locus_grp": "1r",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 14,
+        "value": "ÖNB, Cod. 387, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-23",
     "Created on": "2024-07-20",
     "Created by": {
       "id": 86,
@@ -4490,9 +4560,19 @@
     "hit_id": "hit_ms_items__93",
     "filiation": [],
     "locus_grp": "3r",
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-07-20",
+    "hands_role": [
+      {
+        "id": 48,
+        "value": "hit_hands_role__48"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 14,
+        "value": "ÖNB, Cod. 387, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-23",
     "Created on": "2024-07-20",
     "Created by": {
       "id": 86,
@@ -4504,7 +4584,15 @@
     },
     "excerpt": [],
     "note": "Althochdeutsches Wort im Stile eines Titels über einem lateinischen Bienensegen ohne erkennbaren Textbezug.",
-    "hand": []
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387_H. 3"
+      }
+    ]
   },
   "92": {
     "id": 92,
@@ -4537,9 +4625,19 @@
     "hit_id": "hit_ms_items__92",
     "filiation": [],
     "locus_grp": "3r",
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-07-20",
+    "hands_role": [
+      {
+        "id": 47,
+        "value": "hit_hands_role__47"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 14,
+        "value": "ÖNB, Cod. 387, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-23",
     "Created on": "2024-07-20",
     "Created by": {
       "id": 86,
@@ -4551,7 +4649,15 @@
     },
     "excerpt": [],
     "note": "",
-    "hand": []
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387_H. 3"
+      }
+    ]
   },
   "94": {
     "id": 94,
@@ -4745,53 +4851,6 @@
     "note": "",
     "hand": []
   },
-  "100": {
-    "id": 100,
-    "order": "90.00000000000000000000",
-    "label": [
-      {
-        "id": 1,
-        "value": "cod_387__100"
-      }
-    ],
-    "manuscript": [
-      {
-        "id": 1,
-        "value": "ÖNB, Cod. 387"
-      }
-    ],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [
-      {
-        "id": 85,
-        "value": "Komputistische Anweisungen"
-      }
-    ],
-    "title_note": "",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__100",
-    "filiation": [],
-    "locus_grp": "1r",
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-07-20",
-    "Created on": "2024-07-20",
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "excerpt": [],
-    "note": "",
-    "hand": []
-  },
   "101": {
     "id": 101,
     "order": "91.00000000000000000000",
@@ -4824,8 +4883,13 @@
     "filiation": [],
     "locus_grp": "3r",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-07-20",
+    "cod_unit": [
+      {
+        "id": 14,
+        "value": "ÖNB, Cod. 387, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-23",
     "Created on": "2024-07-20",
     "Created by": {
       "id": 86,
@@ -4871,8 +4935,13 @@
     "filiation": [],
     "locus_grp": "3v",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-07-20",
+    "cod_unit": [
+      {
+        "id": 14,
+        "value": "ÖNB, Cod. 387, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-23",
     "Created on": "2024-07-20",
     "Created by": {
       "id": 86,
@@ -4903,7 +4972,7 @@
     ],
     "incipit": "Adam cum esset",
     "explicit": "incarnationis Domini IIII DCCLXXXIII",
-    "rubric": "I. Ad breviatio chronicae",
+    "rubric": "I Ad breviatio chronicae",
     "title_work": [
       {
         "id": 87,
@@ -4923,8 +4992,13 @@
         "value": "hit_hands_role__40"
       }
     ],
-    "cod_unit": [],
-    "Last modified": "2024-07-20",
+    "cod_unit": [
+      {
+        "id": 14,
+        "value": "ÖNB, Cod. 387, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-23",
     "Created on": "2024-07-20",
     "Created by": {
       "id": 86,
@@ -4967,7 +5041,7 @@
     "title_work": [
       {
         "id": 78,
-        "value": "Historische und komputistische Zusätze"
+        "value": "Historiographische und komputistische Zusätze"
       }
     ],
     "title_note": "",
@@ -4976,15 +5050,28 @@
     "siglum": "",
     "hit_id": "hit_ms_items__104",
     "filiation": [],
-    "locus_grp": "",
+    "locus_grp": "7r, 9v, 10r, 10v, 11r, 15r, 15v",
     "hands_role": [
       {
         "id": 45,
         "value": "hit_hands_role__45"
+      },
+      {
+        "id": 50,
+        "value": "hit_hands_role__50"
+      },
+      {
+        "id": 55,
+        "value": "hit_hands_role__55"
       }
     ],
-    "cod_unit": [],
-    "Last modified": "2024-07-20",
+    "cod_unit": [
+      {
+        "id": 14,
+        "value": "ÖNB, Cod. 387, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-23",
     "Created on": "2024-07-20",
     "Created by": {
       "id": 86,
@@ -4995,7 +5082,7 @@
       "name": "Leon Pürstinger"
     },
     "excerpt": [],
-    "note": "Baldo",
+    "note": "",
     "hand": [
       {
         "ids": {
@@ -5003,7 +5090,527 @@
           "database_table_3488": 1
         },
         "value": "ÖNB, Cod. 387_H. 2"
+      },
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387_H. 4"
+      },
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387_H. 5"
       }
     ]
+  },
+  "105": {
+    "id": 105,
+    "order": "95.00000000000000000000",
+    "label": [
+      {
+        "id": 1,
+        "value": "cod_387__105"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "incipit": "Si scire cupis annos ab initio mundi",
+    "explicit": "annos mundi sine errore repperies",
+    "rubric": "II Argumentum ad annum mundi inveniendum",
+    "title_work": [
+      {
+        "id": 88,
+        "value": "Argumentum ad annum mundi inveniendum"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__105",
+    "filiation": [],
+    "locus_grp": "7r",
+    "hands_role": [
+      {
+        "id": 54,
+        "value": "hit_hands_role__54"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 14,
+        "value": "ÖNB, Cod. 387, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-23",
+    "Created on": "2024-07-23",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387_H. 1"
+      }
+    ]
+  },
+  "106": {
+    "id": 106,
+    "order": "96.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__106",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-07-23",
+    "Created on": "2024-07-23",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "",
+    "hand": []
+  },
+  "107": {
+    "id": 107,
+    "order": "97.00000000000000000000",
+    "label": [
+      {
+        "id": 1,
+        "value": "cod_387__107"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "incipit": "Si concurrentes invenire cupis sume annos",
+    "explicit": "si nihil remanserit vii erit",
+    "rubric": "III Argumentum quomodo concurrentes sint inveniendi",
+    "title_work": [
+      {
+        "id": 89,
+        "value": "Argumentum quomodo concurrentes sint inveniendi"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__107",
+    "filiation": [],
+    "locus_grp": "7r",
+    "hands_role": [
+      {
+        "id": 53,
+        "value": "hit_hands_role__53"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 14,
+        "value": "ÖNB, Cod. 387, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-23",
+    "Created on": "2024-07-23",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387_H. 1"
+      }
+    ]
+  },
+  "108": {
+    "id": 108,
+    "order": "98.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__108",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-07-23",
+    "Created on": "2024-07-23",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "",
+    "hand": []
+  },
+  "109": {
+    "id": 109,
+    "order": "99.00000000000000000000",
+    "label": [
+      {
+        "id": 1,
+        "value": "cod_387__109"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "IIII Argumentum de cursu lunae per XII signa in cyclo decennovennali",
+    "title_work": [
+      {
+        "id": 91,
+        "value": "Argumentum de cursu lunae"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__109",
+    "filiation": [],
+    "locus_grp": "7r-8r",
+    "hands_role": [
+      {
+        "id": 52,
+        "value": "hit_hands_role__52"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 14,
+        "value": "ÖNB, Cod. 387, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-23",
+    "Created on": "2024-07-23",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "mit einer Tabelle",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387_H. 1"
+      }
+    ]
+  },
+  "110": {
+    "id": 110,
+    "order": "100.00000000000000000000",
+    "label": [
+      {
+        "id": 1,
+        "value": "cod_387__110"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "V Martyrologium excarpsatum cum alphabetis",
+    "title_work": [
+      {
+        "id": 92,
+        "value": "Martyrologium excarpsatum cum alphabetis"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__110",
+    "filiation": [],
+    "locus_grp": "8v-15v",
+    "hands_role": [
+      {
+        "id": 51,
+        "value": "hit_hands_role__51"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 14,
+        "value": "ÖNB, Cod. 387, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-23",
+    "Created on": "2024-07-23",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387_H. 1"
+      }
+    ]
+  },
+  "111": {
+    "id": 111,
+    "order": "101.00000000000000000000",
+    "label": [
+      {
+        "id": 1,
+        "value": "cod_387__111"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "incipit": "Si qui vero etiam calculandi minus idoneus",
+    "explicit": "vetusta aegyptiorim observatione traditum",
+    "rubric": "VI Ratio de lunae discursu per signa que ad alphabetum pertinet priorem",
+    "title_work": [
+      {
+        "id": 93,
+        "value": "Ratio de lunae discursu per signa que ad alphabetum pertinet priorem"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__111",
+    "filiation": [],
+    "locus_grp": "16r-16v",
+    "hands_role": [
+      {
+        "id": 46,
+        "value": "hit_hands_role__46"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 14,
+        "value": "ÖNB, Cod. 387, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-23",
+    "Created on": "2024-07-23",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387_H. 1"
+      }
+    ]
+  },
+  "112": {
+    "id": 112,
+    "order": "102.00000000000000000000",
+    "label": [
+      {
+        "id": 1,
+        "value": "cod_387__112"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "VII Argumentum ad inveniendam qua XIIII luna paschalis annis singulis feria occurrit cum adscriptis regularibus sive concurrentibus",
+    "title_work": [
+      {
+        "id": 94,
+        "value": "Notitiae chronologicae"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__112",
+    "filiation": [],
+    "locus_grp": "17r-58r",
+    "hands_role": [
+      {
+        "id": 56,
+        "value": "hit_hands_role__56"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 14,
+        "value": "ÖNB, Cod. 387, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-23",
+    "Created on": "2024-07-23",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387_H. 1"
+      }
+    ]
+  },
+  "113": {
+    "id": 113,
+    "order": "103.00000000000000000000",
+    "label": [
+      {
+        "id": 1,
+        "value": "cod_387__113"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "incipit": "Iustinus minor regnavit",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 95,
+        "value": "Annales Salisburgenses"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__113",
+    "filiation": [],
+    "locus_grp": "30v-57v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 14,
+        "value": "ÖNB, Cod. 387, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-23",
+    "Created on": "2024-07-23",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "",
+    "hand": []
   }
 }

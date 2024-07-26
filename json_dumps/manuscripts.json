@@ -38,7 +38,7 @@
         "value": "15. Jh., erstes Viertel"
       }
     ],
-    "history": "Die Handschrift verblieb bis zum Jahr 1806 in der Salzburger Dombibliothek und kam anschließend in den Besitz der damaligen Hofbibliothek.",
+    "history": "Die Handschrift wurde wohl zusammen mit der Zwillingshandschrift Clm 210 zwischen 810 und 821 (nach Arno Borst 830) in Salzburg angefertigt. Während Clm 210 wahrscheinlich noch im 9. Jahrhundert nach Regensburg gebracht wurde, verblieb der Codex 387 bis zum Jahr 1806 in der Salzburger Dombibliothek und kam anschließend in den Besitz der damaligen Hofbibliothek.\n\nEinordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt.\n\nAuf 3r ein Bienensegen samt einem althochdeutschen Wort im Stile einer Überschrift ohne erkennaren Textbezug aus dem 10. Jahrhundert; auf der leer gebliebenen Seite 3v findet sich das Ave maris stella.",
     "bibliography": [],
     "height": "324",
     "width": "256",
@@ -74,6 +74,10 @@
       {
         "id": 24,
         "value": "hit_dated__24"
+      },
+      {
+        "id": 29,
+        "value": "hit_dated__29"
       }
     ],
     "orig_dated": [
@@ -97,6 +101,13 @@
           "database_table_3516": 24
         },
         "value": "vor 821"
+      },
+      {
+        "ids": {
+          "database_table_3512": 35,
+          "database_table_3516": 29
+        },
+        "value": "810-830"
       }
     ],
     "Created by": {
@@ -108,7 +119,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-06-04",
-    "Last modified": "2024-07-19"
+    "Last modified": "2024-07-25"
   },
   "21": {
     "id": 21,

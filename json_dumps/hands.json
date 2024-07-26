@@ -1442,6 +1442,10 @@
       {
         "id": 56,
         "value": "hit_hands_role__56"
+      },
+      {
+        "id": 57,
+        "value": "hit_hands_role__57"
       }
     ],
     "role": [
@@ -1524,6 +1528,16 @@
             "color": "darker-red"
           }
         ]
+      },
+      {
+        "id": 57,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
       }
     ]
   },
@@ -1598,7 +1612,7 @@
         "value": "ÖNB, Cod. 387_H. 3"
       }
     ],
-    "description": "",
+    "description": "Kleine Buchstaben, wesentlich feiner gebaut. Der Kopf des g kann geschlossen sein, wobei der Bogen in der Unterlänge im Vergleich zur Haupthand keinen markanten \"Knicks\" aufweist. Zudem häufige e-Ligaturen (en, ec)",
     "scribe": [],
     "hit_id": "hit_hands__33",
     "similar_hands": [],
@@ -1610,7 +1624,7 @@
       }
     ],
     "number": "3",
-    "note": "Nachtrag 10. Jh.",
+    "note": "",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -1620,15 +1634,11 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-23",
+    "Last modified": "2024-07-25",
     "hands_role": [
       {
         "id": 47,
         "value": "hit_hands_role__47"
-      },
-      {
-        "id": 48,
-        "value": "hit_hands_role__48"
       }
     ],
     "role": [
@@ -1636,19 +1646,9 @@
         "id": 47,
         "value": [
           {
-            "id": 14763,
-            "value": "annotator",
-            "color": "cyan"
-          }
-        ]
-      },
-      {
-        "id": 48,
-        "value": [
-          {
-            "id": 14763,
-            "value": "annotator",
-            "color": "cyan"
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
           }
         ]
       }
@@ -1797,8 +1797,24 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-23",
-    "hands_role": [],
-    "role": []
+    "hands_role": [
+      {
+        "id": 58,
+        "value": "hit_hands_role__58"
+      }
+    ],
+    "role": [
+      {
+        "id": 58,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ]
   },
   "37": {
     "id": 37,
@@ -1835,8 +1851,24 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-23",
-    "hands_role": [],
-    "role": []
+    "hands_role": [
+      {
+        "id": 59,
+        "value": "hit_hands_role__59"
+      }
+    ],
+    "role": [
+      {
+        "id": 59,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ]
   },
   "38": {
     "id": 38,
@@ -1862,7 +1894,7 @@
       }
     ],
     "number": "8",
-    "note": "Karolus imperator natus est",
+    "note": "Karolus imperator natus est. Siehe auch Clm 210.",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -1872,8 +1904,62 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-23",
+    "Last modified": "2024-07-25",
     "hands_role": [],
     "role": []
+  },
+  "39": {
+    "id": 39,
+    "order": "35.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387_H. 9"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__39",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "number": "9",
+    "note": "Schreibergruppe. Komputistische Nachträge von 1-2 Händen.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-25",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-25",
+    "hands_role": [
+      {
+        "id": 60,
+        "value": "hit_hands_role__60"
+      }
+    ],
+    "role": [
+      {
+        "id": 60,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ]
   }
 }

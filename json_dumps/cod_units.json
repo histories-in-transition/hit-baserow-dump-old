@@ -650,7 +650,7 @@
     ],
     "notes": "TBD",
     "hit_id": "hit_cod_unit__14",
-    "locus": "4r-",
+    "locus": "1r-",
     "manuscript": [
       {
         "id": 1,
@@ -658,6 +658,10 @@
       }
     ],
     "quire": [
+      {
+        "id": 75,
+        "value": "ÖNB, Cod. 366, L. 1"
+      },
       {
         "id": 77,
         "value": "ÖNB, Cod. 387, L. 2"
@@ -691,7 +695,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-20"
+    "Last modified": "2024-07-25"
   },
   "15": {
     "id": 15,
@@ -714,5 +718,27 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-18"
+  },
+  "16": {
+    "id": 16,
+    "order": "14.00000000000000000000",
+    "label": [],
+    "notes": "",
+    "hit_id": "hit_cod_unit__16",
+    "locus": "",
+    "manuscript": [],
+    "quire": [],
+    "number": null,
+    "prov_place": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-25",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-25"
   }
 }

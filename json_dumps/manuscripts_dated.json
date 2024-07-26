@@ -742,7 +742,7 @@
       }
     ],
     "page": "96",
-    "preferred_date": true,
+    "preferred_date": false,
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -752,7 +752,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-18T10:21:18.121577Z",
+    "Last modified": "2024-07-25T13:31:51.306158Z",
     "note": ""
   },
   "23": {
@@ -919,5 +919,41 @@
     },
     "Last modified": "2024-07-22T15:54:27.418737Z",
     "note": ""
+  },
+  "29": {
+    "id": 29,
+    "order": "26.00000000000000000000",
+    "hit_id": "hit_dated__29",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "date": [
+      {
+        "id": 35,
+        "value": "810-830"
+      }
+    ],
+    "authority": [
+      {
+        "id": 11,
+        "value": "Borst"
+      }
+    ],
+    "page": "198",
+    "preferred_date": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-25",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-25T13:31:46.388733Z",
+    "note": "\"Er wurde von einer einzigen Hand zwischen 810 und 830 angelegt, vielleicht erst im letzteren Jahr\"."
   }
 }

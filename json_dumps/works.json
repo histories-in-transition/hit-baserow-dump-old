@@ -2597,7 +2597,7 @@
   "94": {
     "id": 94,
     "order": "92.00000000000000000000",
-    "title": "Notitiae chronologicae",
+    "title": "Notitiae chronologicae (Ostertafel)",
     "gnd_url": "",
     "note": "",
     "hit_id": "hit_works__94",
@@ -2615,7 +2615,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-23"
+    "Last modified": "2024-07-25"
   },
   "95": {
     "id": 95,
@@ -2644,5 +2644,139 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-23"
+  },
+  "96": {
+    "id": 96,
+    "order": "94.00000000000000000000",
+    "title": "Liber calculationis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__96",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 5,
+        "value": "Historiographie"
+      },
+      {
+        "id": 16,
+        "value": "Komputistik"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-25",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-25"
+  },
+  "97": {
+    "id": 97,
+    "order": "95.00000000000000000000",
+    "title": "Astronomische Schriften",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__97",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-25",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-25"
+  },
+  "98": {
+    "id": 98,
+    "order": "96.00000000000000000000",
+    "title": "De natura rerum",
+    "gnd_url": "https://d-nb.info/gnd/7745329-3",
+    "note": "",
+    "hit_id": "hit_works__98",
+    "author": [
+      {
+        "id": 1,
+        "value": "Beda, Heiliger"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-25",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-25"
+  },
+  "99": {
+    "id": 99,
+    "order": "97.00000000000000000000",
+    "title": "Mondkalender",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__99",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-25",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-25"
+  },
+  "100": {
+    "id": 100,
+    "order": "98.00000000000000000000",
+    "title": "Komputistische Schriften",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__100",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 16,
+        "value": "Komputistik"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-25",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-25"
   }
 }

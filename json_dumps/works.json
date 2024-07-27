@@ -2778,5 +2778,163 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-25"
+  },
+  "101": {
+    "id": 101,
+    "order": "99.00000000000000000000",
+    "title": "Catalogus praesulum Iuvavensium",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__101",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-26",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-26"
+  },
+  "102": {
+    "id": 102,
+    "order": "100.00000000000000000000",
+    "title": "Nomina regum Francorum",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__102",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 5,
+        "value": "Historiographie"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-26",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-26"
+  },
+  "103": {
+    "id": 103,
+    "order": "101.00000000000000000000",
+    "title": "Traditionsnotizen des Salzburger Domstiftes",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__103",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-26",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-26"
+  },
+  "104": {
+    "id": 104,
+    "order": "102.00000000000000000000",
+    "title": "Epistola ad Eberhardum de electione eius in archiepiscopum Salisburgensem a. 1147",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__104",
+    "author": [
+      {
+        "id": 43,
+        "value": "Heinrich I., Regensburg, Bischof"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 11,
+        "value": "Briefe"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-26",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-26"
+  },
+  "105": {
+    "id": 105,
+    "order": "103.00000000000000000000",
+    "title": "De ecclesiasticis officiis",
+    "gnd_url": "https://d-nb.info/gnd/4242648-0",
+    "note": "",
+    "hit_id": "hit_works__105",
+    "author": [
+      {
+        "id": 28,
+        "value": "Isidor, Sevilla"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-26",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-26"
+  },
+  "106": {
+    "id": 106,
+    "order": "104.00000000000000000000",
+    "title": "",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__106",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-26",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-26"
   }
 }

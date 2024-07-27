@@ -45,5 +45,24 @@
     "scope": "TBD",
     "hit_id": "hit_excerpts__3",
     "description": "Zusatz aus"
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "label": [
+      {
+        "id": 105,
+        "value": "De ecclesiasticis officiis, ?!"
+      }
+    ],
+    "work": [
+      {
+        "id": 105,
+        "value": "De ecclesiasticis officiis"
+      }
+    ],
+    "scope": "?!",
+    "hit_id": "hit_excerpts__4",
+    "description": "Auszug"
   }
 }

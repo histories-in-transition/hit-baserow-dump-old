@@ -1387,7 +1387,7 @@
         "value": "ÖNB, Cod. 387_H. 1"
       }
     ],
-    "description": "Französisch geprägter Stil II mit schräg abgeschnittenen Oberlängen.",
+    "description": "Französisch geprägter Stil II mit schräg abgeschnittenen Oberlängen. Sowohl a als auch offenes a ohne Köpfchen des ersten Bogens. Das z weist eine stark horizontale Striche auf. Zahlreiche Ligaturen z.B.: ep, or, ra, rc, rg, ri, rn, rre, ru.",
     "scribe": [],
     "hit_id": "hit_hands__31",
     "similar_hands": [],
@@ -1409,7 +1409,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-21",
+    "Last modified": "2024-07-26",
     "hands_role": [
       {
         "id": 40,
@@ -1870,6 +1870,60 @@
       }
     ]
   },
+  "40": {
+    "id": 40,
+    "order": "33.50000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387_H. 10"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__40",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "number": "10",
+    "note": "Platzhalter: Schreibergruppe 11. Jh.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-26",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-26",
+    "hands_role": [
+      {
+        "id": 48,
+        "value": "hit_hands_role__48"
+      }
+    ],
+    "role": [
+      {
+        "id": 48,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ]
+  },
   "38": {
     "id": 38,
     "order": "34.00000000000000000000",
@@ -1905,8 +1959,24 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-25",
-    "hands_role": [],
-    "role": []
+    "hands_role": [
+      {
+        "id": 61,
+        "value": "hit_hands_role__61"
+      }
+    ],
+    "role": [
+      {
+        "id": 61,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ]
   },
   "39": {
     "id": 39,
@@ -1920,7 +1990,7 @@
         "value": "ÖNB, Cod. 387_H. 9"
       }
     ],
-    "description": "",
+    "description": "Sowohl a als auch offenes cc-a. Stärker rechtsgeneigtes s.",
     "scribe": [],
     "hit_id": "hit_hands__39",
     "similar_hands": [],
@@ -1942,7 +2012,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-25",
+    "Last modified": "2024-07-26",
     "hands_role": [
       {
         "id": 60,
@@ -1957,6 +2027,98 @@
             "id": 14763,
             "value": "annotator",
             "color": "cyan"
+          }
+        ]
+      }
+    ]
+  },
+  "41": {
+    "id": 41,
+    "order": "36.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 1"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__41",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "1",
+    "note": "Trägt die ersten Bischöfe in den Fratres deforis bis 1065 ein und vermerkt im Nekrolog auch den Tod des Erzbischofs Beldingus (1060)",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-26",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-26",
+    "hands_role": [],
+    "role": []
+  },
+  "42": {
+    "id": 42,
+    "order": "37.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 2"
+      }
+    ],
+    "description": "o. g.",
+    "scribe": [],
+    "hit_id": "hit_hands__42",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "2",
+    "note": "Nomina",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-26",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-26",
+    "hands_role": [
+      {
+        "id": 62,
+        "value": "hit_hands_role__62"
+      }
+    ],
+    "role": [
+      {
+        "id": 62,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
           }
         ]
       }

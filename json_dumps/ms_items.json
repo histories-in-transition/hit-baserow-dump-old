@@ -147,12 +147,7 @@
     "incipit": "",
     "explicit": "",
     "rubric": "",
-    "title_work": [
-      {
-        "id": 11,
-        "value": "hieronymi chronicon"
-      }
-    ],
+    "title_work": [],
     "title_note": "Auszug der Jahre 47, 56 und 70 n. Chr",
     "bibl": [],
     "final_rubric": "",
@@ -172,15 +167,15 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
       }
     ],
-    "Last modified": "2024-07-13",
+    "Last modified": "2024-07-26",
     "Created on": "2024-06-19",
     "Created by": {
       "id": 3,
       "name": "Peter Andorfer"
     },
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "excerpt": [
       {
@@ -695,12 +690,7 @@
     "incipit": "",
     "explicit": "",
     "rubric": "",
-    "title_work": [
-      {
-        "id": 11,
-        "value": "hieronymi chronicon"
-      }
-    ],
+    "title_work": [],
     "title_note": "",
     "bibl": [],
     "final_rubric": "",
@@ -720,7 +710,7 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 2"
       }
     ],
-    "Last modified": "2024-07-19",
+    "Last modified": "2024-07-26",
     "Created on": "2024-07-11",
     "Created by": {
       "id": 86,
@@ -4334,7 +4324,7 @@
     "locus_grp": "29r-33v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-19",
+    "Last modified": "2024-07-26",
     "Created on": "2024-07-18",
     "Created by": {
       "id": 87,
@@ -4351,8 +4341,18 @@
   "89": {
     "id": 89,
     "order": "79.00000000000000000000",
-    "label": [],
-    "manuscript": [],
+    "label": [
+      {
+        "id": 20,
+        "value": "clm 27305__89"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 20,
+        "value": "BSB, Clm 27305"
+      }
+    ],
     "incipit": "",
     "explicit": "",
     "rubric": "",
@@ -4366,7 +4366,7 @@
     "locus_grp": "",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-18",
+    "Last modified": "2024-07-26",
     "Created on": "2024-07-18",
     "Created by": {
       "id": 87,
@@ -5410,12 +5410,20 @@
     "locus_grp": "30v-57v",
     "hands_role": [
       {
+        "id": 48,
+        "value": "hit_hands_role__48"
+      },
+      {
         "id": 58,
         "value": "hit_hands_role__58"
       },
       {
         "id": 59,
         "value": "hit_hands_role__59"
+      },
+      {
+        "id": 61,
+        "value": "hit_hands_role__61"
       }
     ],
     "cod_unit": [
@@ -5450,6 +5458,20 @@
           "database_table_3488": 1
         },
         "value": "ÖNB, Cod. 387_H. 7"
+      },
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387_H. 10"
+      },
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387_H. 8"
       }
     ]
   },
@@ -5618,22 +5640,42 @@
   "119": {
     "id": 119,
     "order": "107.00000000000000000000",
-    "label": [],
-    "manuscript": [],
-    "incipit": "",
-    "explicit": "",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__119"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "Urbs Iuvavensis fuit olim splendida muris",
+    "explicit": "Membratim caesus martyr Babilone sepultus",
     "rubric": "",
-    "title_work": [],
+    "title_work": [
+      {
+        "id": 101,
+        "value": "Catalogus praesulum Iuvavensium"
+      }
+    ],
     "title_note": "",
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
     "hit_id": "hit_ms_items__119",
     "filiation": [],
-    "locus_grp": "",
+    "locus_grp": "1r",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-07-25",
+    "cod_unit": [
+      {
+        "id": 15,
+        "value": "ÖNB, Cod. 2090, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-26",
     "Created on": "2024-07-25",
     "Created by": {
       "id": 86,
@@ -5711,5 +5753,273 @@
         "value": "ÖNB, Cod. 387_H. 1"
       }
     ]
+  },
+  "122": {
+    "id": 122,
+    "order": "109.00000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__122"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 103,
+        "value": "Traditionsnotizen des Salzburger Domstiftes"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__122",
+    "filiation": [],
+    "locus_grp": "1r",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 15,
+        "value": "ÖNB, Cod. 2090, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-26",
+    "Created on": "2024-07-26",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "",
+    "hand": []
+  },
+  "123": {
+    "id": 123,
+    "order": "110.00000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__123"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "Pippinus filius Angisi",
+    "explicit": "Heinricus",
+    "rubric": "Nomina regum Francorum",
+    "title_work": [
+      {
+        "id": 102,
+        "value": "Nomina regum Francorum"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__123",
+    "filiation": [],
+    "locus_grp": "1v",
+    "hands_role": [
+      {
+        "id": 62,
+        "value": "hit_hands_role__62"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 15,
+        "value": "ÖNB, Cod. 2090, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-26",
+    "Created on": "2024-07-26",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 2"
+      }
+    ]
+  },
+  "124": {
+    "id": 124,
+    "order": "111.00000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__124"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 104,
+        "value": "Epistola ad Eberhardum de electione eius in archiepiscopum Salisburgensem a. 1147"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__124",
+    "filiation": [],
+    "locus_grp": "1v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 15,
+        "value": "ÖNB, Cod. 2090, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-26",
+    "Created on": "2024-07-26",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "",
+    "hand": []
+  },
+  "125": {
+    "id": 125,
+    "order": "112.00000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__125"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__125",
+    "filiation": [],
+    "locus_grp": "1v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 15,
+        "value": "ÖNB, Cod. 2090, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-26",
+    "Created on": "2024-07-26",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [
+      {
+        "id": 4,
+        "value": "De ecclesiasticis officiis, ?!"
+      }
+    ],
+    "note": "",
+    "hand": []
+  },
+  "126": {
+    "id": 126,
+    "order": "113.00000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__126"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__126",
+    "filiation": [],
+    "locus_grp": "1v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 15,
+        "value": "ÖNB, Cod. 2090, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-26",
+    "Created on": "2024-07-26",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "excerpt": [],
+    "note": "Diverse Annotationen TBD",
+    "hand": []
   }
 }

@@ -987,5 +987,41 @@
     "Last modified": "2024-07-26",
     "Created on": "2024-07-26",
     "note": ""
+  },
+  "34": {
+    "id": 34,
+    "order": "33.00000000000000000000",
+    "hit_id": "hit_hands_dated__34",
+    "authority": [
+      {
+        "id": 7,
+        "value": "Unterkircher"
+      }
+    ],
+    "page": "47",
+    "dated": [
+      {
+        "id": 38,
+        "value": "1060-1065"
+      }
+    ],
+    "hand": [
+      {
+        "id": 41,
+        "value": "ÖNB, Cod. 2090_H. 1"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-28",
+    "Created on": "2024-07-28",
+    "note": ""
   }
 }

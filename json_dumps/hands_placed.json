@@ -255,9 +255,19 @@
         "value": "BSB, Clm. 6308_H. 1"
       }
     ],
-    "authority": [],
-    "page": "",
-    "place": [],
+    "authority": [
+      {
+        "id": 9,
+        "value": "Loewe"
+      }
+    ],
+    "page": "12",
+    "place": [
+      {
+        "id": 4,
+        "value": "Freising"
+      }
+    ],
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"

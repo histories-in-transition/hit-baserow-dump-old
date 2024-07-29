@@ -2067,8 +2067,38 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-26",
-    "hands_role": [],
-    "role": []
+    "hands_role": [
+      {
+        "id": 63,
+        "value": "hit_hands_role__63"
+      },
+      {
+        "id": 64,
+        "value": "hit_hands_role__64"
+      }
+    ],
+    "role": [
+      {
+        "id": 63,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 64,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ]
   },
   "42": {
     "id": 42,
@@ -2123,5 +2153,30 @@
         ]
       }
     ]
+  },
+  "43": {
+    "id": 43,
+    "order": "38.00000000000000000000",
+    "label": [],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__43",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [],
+    "number": null,
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-28",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-28",
+    "hands_role": [],
+    "role": []
   }
 }

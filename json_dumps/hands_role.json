@@ -1546,7 +1546,7 @@
         "color": "darker-red"
       }
     ],
-    "locus": "",
+    "locus": "1r-8v, 9r-114r, 115v-149r",
     "text": [
       {
         "ids": {
@@ -1571,7 +1571,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-07-16",
-    "Last modified": "2024-07-16",
+    "Last modified": "2024-07-28",
     "Nachschlagen": []
   },
   "37": {
@@ -2869,6 +2869,108 @@
     },
     "Created on": "2024-07-26",
     "Last modified": "2024-07-26",
+    "Nachschlagen": []
+  },
+  "63": {
+    "id": 63,
+    "order": "55.00000000000000000000",
+    "hit_id": "hit_hands_role__63",
+    "hand": [
+      {
+        "id": 41,
+        "value": "ÖNB, Cod. 2090_H. 1"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 137,
+        "value": "cod_2090__137"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 113,
+          "database_table_3491": 137
+        },
+        "value": "Fratres de foris"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 137,
+        "value": "5v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-28",
+    "Last modified": "2024-07-28",
+    "Nachschlagen": []
+  },
+  "64": {
+    "id": 64,
+    "order": "56.00000000000000000000",
+    "hit_id": "hit_hands_role__64",
+    "hand": [
+      {
+        "id": 41,
+        "value": "ÖNB, Cod. 2090_H. 1"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 138,
+        "value": "cod_2090__138"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "14r",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 114,
+          "database_table_3491": 138
+        },
+        "value": "Necrologium Salisburgense"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 138,
+        "value": "6r-36r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-28",
+    "Last modified": "2024-07-28",
     "Nachschlagen": []
   }
 }

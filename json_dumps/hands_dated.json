@@ -1023,5 +1023,72 @@
     "Last modified": "2024-07-28",
     "Created on": "2024-07-28",
     "note": ""
+  },
+  "35": {
+    "id": 35,
+    "order": "34.00000000000000000000",
+    "hit_id": "hit_hands_dated__35",
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ],
+    "page": "97",
+    "dated": [
+      {
+        "id": 27,
+        "value": "10. Jh."
+      }
+    ],
+    "hand": [
+      {
+        "id": 43,
+        "value": "ÖNB, Cod. 387_H. 11"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-29",
+    "Created on": "2024-07-29",
+    "note": ""
+  },
+  "36": {
+    "id": 36,
+    "order": "35.00000000000000000000",
+    "hit_id": "hit_hands_dated__36",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 36,
+        "value": "12. Jh."
+      }
+    ],
+    "hand": [
+      {
+        "id": 44,
+        "value": "ÖNB, Cod. 387_H. 12"
+      }
+    ],
+    "new_dating": true,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-29",
+    "Created on": "2024-07-29",
+    "note": ""
   }
 }

@@ -56,6 +56,15 @@
           }
         ]
       }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 5,
+          "database_table_3491": 6
+        },
+        "value": "Argumentum descriptionis omnium terminorum singulis annis decemnovennalis cycli"
+      }
     ]
   },
   "12": {
@@ -137,6 +146,29 @@
             "color": "darker-red"
           }
         ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 4,
+          "database_table_3491": 5
+        },
+        "value": "De cyclo paschali"
+      },
+      {
+        "ids": {
+          "database_table_3489": 4,
+          "database_table_3491": 5
+        },
+        "value": "De cyclo paschali"
+      },
+      {
+        "ids": {
+          "database_table_3489": 7,
+          "database_table_3491": 8
+        },
+        "value": "De temporum ratione"
       }
     ]
   },
@@ -314,6 +346,71 @@
           }
         ]
       }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 11,
+          "database_table_3491": 10
+        },
+        "value": "hieronymi chronicon"
+      },
+      {
+        "ids": {
+          "database_table_3489": 14,
+          "database_table_3491": 13
+        },
+        "value": "Annales Iuvavenses minores"
+      },
+      {
+        "ids": {
+          "database_table_3489": 4,
+          "database_table_3491": 5
+        },
+        "value": "De cyclo paschali"
+      },
+      {
+        "ids": {
+          "database_table_3489": 4,
+          "database_table_3491": 5
+        },
+        "value": "De cyclo paschali"
+      },
+      {
+        "ids": {
+          "database_table_3489": 13,
+          "database_table_3491": 12
+        },
+        "value": "Annales Iuvavenses maiores"
+      },
+      {
+        "ids": {
+          "database_table_3489": 7,
+          "database_table_3491": 11
+        },
+        "value": "De temporum ratione"
+      },
+      {
+        "ids": {
+          "database_table_3489": 67,
+          "database_table_3491": 68
+        },
+        "value": "Bibelauszug"
+      },
+      {
+        "ids": {
+          "database_table_3489": 11,
+          "database_table_3491": 69
+        },
+        "value": "hieronymi chronicon"
+      },
+      {
+        "ids": {
+          "database_table_3489": 78,
+          "database_table_3491": 84
+        },
+        "value": "Historiographische und komputistische Zusätze"
+      }
     ]
   },
   "13": {
@@ -367,6 +464,15 @@
             "color": "darker-red"
           }
         ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 7,
+          "database_table_3491": 11
+        },
+        "value": "De temporum ratione"
       }
     ]
   },
@@ -436,6 +542,22 @@
           }
         ]
       }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 71,
+          "database_table_3491": 75
+        },
+        "value": "Eidesformel Papst Leos III."
+      },
+      {
+        "ids": {
+          "database_table_3489": 72,
+          "database_table_3491": 77
+        },
+        "value": "De globo mundi et coniecture orbis versus"
+      }
     ]
   },
   "15": {
@@ -489,6 +611,15 @@
             "color": "cyan"
           }
         ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 13,
+          "database_table_3491": 12
+        },
+        "value": "Annales Iuvavenses maiores"
       }
     ]
   },
@@ -544,6 +675,15 @@
           }
         ]
       }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 7,
+          "database_table_3491": 11
+        },
+        "value": "De temporum ratione"
+      }
     ]
   },
   "17": {
@@ -597,6 +737,15 @@
             "color": "darker-red"
           }
         ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 7,
+          "database_table_3491": 8
+        },
+        "value": "De temporum ratione"
       }
     ]
   },
@@ -708,6 +857,43 @@
           }
         ]
       }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 7,
+          "database_table_3491": 8
+        },
+        "value": "De temporum ratione"
+      },
+      {
+        "ids": {
+          "database_table_3489": 6,
+          "database_table_3491": 7
+        },
+        "value": "Epactae lunae & solis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 16,
+          "database_table_3491": 15
+        },
+        "value": "Synchrone Tafeln über das Alter der Patriarchen von Noe bis Jakob"
+      },
+      {
+        "ids": {
+          "database_table_3489": 69,
+          "database_table_3491": 72
+        },
+        "value": "Ephemeris"
+      },
+      {
+        "ids": {
+          "database_table_3489": 70,
+          "database_table_3491": 73
+        },
+        "value": "Tabelle mit Loca embolismorum und Concordia maris et lunae"
+      }
     ]
   },
   "21": {
@@ -761,6 +947,15 @@
             "color": "cyan"
           }
         ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 68,
+          "database_table_3491": 14
+        },
+        "value": "Responsorien, Versikel, Antiphonen der Quadragesimalzeit"
       }
     ]
   },
@@ -844,6 +1039,29 @@
           }
         ]
       }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 75,
+          "database_table_3491": 81
+        },
+        "value": "Tintenrezept"
+      },
+      {
+        "ids": {
+          "database_table_3489": 77,
+          "database_table_3491": 83
+        },
+        "value": "Rezept"
+      },
+      {
+        "ids": {
+          "database_table_3489": 76,
+          "database_table_3491": 82
+        },
+        "value": "Abergläubische Segen"
+      }
     ]
   },
   "25": {
@@ -898,6 +1116,15 @@
           }
         ]
       }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 79,
+          "database_table_3491": 85
+        },
+        "value": "Hymnus Ad Incensum Lucernae"
+      }
     ]
   },
   "19": {
@@ -936,7 +1163,8 @@
     },
     "Last modified": "2024-07-15",
     "hands_role": [],
-    "role": []
+    "role": [],
+    "texts": []
   },
   "20": {
     "id": 20,
@@ -989,6 +1217,15 @@
             "color": "darker-blue"
           }
         ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 17,
+          "database_table_3491": 18
+        },
+        "value": "Vita sancti Martini"
       }
     ]
   },
@@ -1049,6 +1286,15 @@
           }
         ]
       }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 17
+        },
+        "value": "Historiae adversus paganos"
+      }
     ]
   },
   "24": {
@@ -1102,6 +1348,15 @@
             "color": "darker-blue"
           }
         ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 17
+        },
+        "value": "Historiae adversus paganos"
       }
     ]
   },
@@ -1157,6 +1412,15 @@
           }
         ]
       }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 80
+        },
+        "value": "Historiae adversus paganos"
+      }
     ]
   },
   "27": {
@@ -1210,6 +1474,15 @@
             "color": "darker-red"
           }
         ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 80
+        },
+        "value": "Historiae adversus paganos"
       }
     ]
   },
@@ -1265,6 +1538,15 @@
           }
         ]
       }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 80
+        },
+        "value": "Historiae adversus paganos"
+      }
     ]
   },
   "29": {
@@ -1319,6 +1601,15 @@
           }
         ]
       }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 80
+        },
+        "value": "Historiae adversus paganos"
+      }
     ]
   },
   "30": {
@@ -1372,6 +1663,15 @@
             "color": "darker-red"
           }
         ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 80,
+          "database_table_3491": 86
+        },
+        "value": "Decretales"
       }
     ]
   },
@@ -1539,6 +1839,71 @@
           }
         ]
       }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 87,
+          "database_table_3491": 103
+        },
+        "value": "Abbreviatio chronicae a mundo condito usque ad Carolum Magnum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 82,
+          "database_table_3491": 90
+        },
+        "value": "Inhaltsverzeichnis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 92,
+          "database_table_3491": 110
+        },
+        "value": "Martyrologium excarpsatum cum alphabetis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 97,
+          "database_table_3491": 116
+        },
+        "value": "Astronomische Schriften"
+      },
+      {
+        "ids": {
+          "database_table_3489": 98,
+          "database_table_3491": 117
+        },
+        "value": "De natura rerum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 99,
+          "database_table_3491": 120
+        },
+        "value": "Mondkalender"
+      },
+      {
+        "ids": {
+          "database_table_3489": 100,
+          "database_table_3491": 121
+        },
+        "value": "Komputistische Schriften"
+      },
+      {
+        "ids": {
+          "database_table_3489": 94,
+          "database_table_3491": 112
+        },
+        "value": "Notitiae chronologicae (Ostertafel)"
+      },
+      {
+        "ids": {
+          "database_table_3489": 96,
+          "database_table_3491": 114
+        },
+        "value": "Liber calculationis"
+      }
     ]
   },
   "32": {
@@ -1598,6 +1963,15 @@
           }
         ]
       }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 78,
+          "database_table_3491": 104
+        },
+        "value": "Historiographische und komputistische Zusätze"
+      }
     ]
   },
   "33": {
@@ -1639,6 +2013,10 @@
       {
         "id": 47,
         "value": "hit_hands_role__47"
+      },
+      {
+        "id": 66,
+        "value": "hit_hands_role__66"
       }
     ],
     "role": [
@@ -1651,6 +2029,32 @@
             "color": "darker-red"
           }
         ]
+      },
+      {
+        "id": 66,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 96,
+          "database_table_3491": 114
+        },
+        "value": "Liber calculationis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 100,
+          "database_table_3491": 121
+        },
+        "value": "Komputistische Schriften"
       }
     ]
   },
@@ -1706,6 +2110,15 @@
           }
         ]
       }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 78,
+          "database_table_3491": 104
+        },
+        "value": "Historiographische und komputistische Zusätze"
+      }
     ]
   },
   "35": {
@@ -1760,6 +2173,15 @@
           }
         ]
       }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 78,
+          "database_table_3491": 104
+        },
+        "value": "Historiographische und komputistische Zusätze"
+      }
     ]
   },
   "36": {
@@ -1777,7 +2199,12 @@
     "description": "",
     "scribe": [],
     "hit_id": "hit_hands__36",
-    "similar_hands": [],
+    "similar_hands": [
+      {
+        "id": 44,
+        "value": "ÖNB, Cod. 387_H. 12"
+      }
+    ],
     "nr_daniel": "",
     "manuscript": [
       {
@@ -1796,7 +2223,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-23",
+    "Last modified": "2024-07-29",
     "hands_role": [
       {
         "id": 58,
@@ -1813,6 +2240,15 @@
             "color": "cyan"
           }
         ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 95,
+          "database_table_3491": 113
+        },
+        "value": "Annales Salisburgenses"
       }
     ]
   },
@@ -1868,6 +2304,15 @@
           }
         ]
       }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 95,
+          "database_table_3491": 113
+        },
+        "value": "Annales Salisburgenses"
+      }
     ]
   },
   "40": {
@@ -1921,6 +2366,15 @@
             "color": "cyan"
           }
         ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 95,
+          "database_table_3491": 113
+        },
+        "value": "Annales Salisburgenses"
       }
     ]
   },
@@ -1976,6 +2430,15 @@
           }
         ]
       }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 95,
+          "database_table_3491": 113
+        },
+        "value": "Annales Salisburgenses"
+      }
     ]
   },
   "39": {
@@ -2029,6 +2492,167 @@
             "color": "cyan"
           }
         ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 85,
+          "database_table_3491": 100
+        },
+        "value": "Komputistische Anweisungen"
+      }
+    ]
+  },
+  "43": {
+    "id": 43,
+    "order": "35.50000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387_H. 11"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__43",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "number": "11",
+    "note": "Trägt im 10. Jahrhundert einen Bienensegen ein.",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-28",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-29",
+    "hands_role": [
+      {
+        "id": 67,
+        "value": "hit_hands_role__67"
+      },
+      {
+        "id": 68,
+        "value": "hit_hands_role__68"
+      }
+    ],
+    "role": [
+      {
+        "id": 67,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      },
+      {
+        "id": 68,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 84,
+          "database_table_3491": 93
+        },
+        "value": "Althochdeutscher Eintrag"
+      },
+      {
+        "ids": {
+          "database_table_3489": 83,
+          "database_table_3491": 92
+        },
+        "value": "Bienensegen"
+      }
+    ]
+  },
+  "44": {
+    "id": 44,
+    "order": "35.66666666666666429819",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387_H. 12"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__44",
+    "similar_hands": [
+      {
+        "id": 36,
+        "value": "ÖNB, Cod. 387_H. 6"
+      }
+    ],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "number": "12",
+    "note": "Fügt im 12. Jh. ein Gebet ein. Ähnlichkeiten mit der Annalenhand aus dem 12. Jh.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-29",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-29",
+    "hands_role": [
+      {
+        "id": 69,
+        "value": "hit_hands_role__69"
+      }
+    ],
+    "role": [
+      {
+        "id": 69,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 86,
+          "database_table_3491": 102
+        },
+        "value": "Ave maris stella"
       }
     ]
   },
@@ -2098,6 +2722,22 @@
           }
         ]
       }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 113,
+          "database_table_3491": 137
+        },
+        "value": "Fratres de foris"
+      },
+      {
+        "ids": {
+          "database_table_3489": 114,
+          "database_table_3491": 138
+        },
+        "value": "Necrologium Salisburgense"
+      }
     ]
   },
   "42": {
@@ -2152,31 +2792,15 @@
           }
         ]
       }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 102,
+          "database_table_3491": 123
+        },
+        "value": "Nomina regum Francorum"
+      }
     ]
-  },
-  "43": {
-    "id": 43,
-    "order": "38.00000000000000000000",
-    "label": [],
-    "description": "",
-    "scribe": [],
-    "hit_id": "hit_hands__43",
-    "similar_hands": [],
-    "nr_daniel": "",
-    "manuscript": [],
-    "number": null,
-    "note": "",
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-07-28",
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-07-28",
-    "hands_role": [],
-    "role": []
   }
 }

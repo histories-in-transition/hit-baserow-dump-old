@@ -65,7 +65,9 @@
         },
         "value": "Argumentum descriptionis omnium terminorum singulis annis decemnovennalis cycli"
       }
-    ]
+    ],
+    "hands_dated": [],
+    "dating": []
   },
   "12": {
     "id": 12,
@@ -169,6 +171,21 @@
           "database_table_3491": 8
         },
         "value": "De temporum ratione"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 4,
+        "value": "hit_hands_dated__4"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 7,
+          "database_table_3520": 4
+        },
+        "value": "9 Jh., erstes Viertel"
       }
     ]
   },
@@ -411,6 +428,21 @@
         },
         "value": "Historiographische und komputistische Zusätze"
       }
+    ],
+    "hands_dated": [
+      {
+        "id": 5,
+        "value": "hit_hands_dated__5"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 24,
+          "database_table_3520": 5
+        },
+        "value": "nach 821"
+      }
     ]
   },
   "13": {
@@ -473,6 +505,21 @@
           "database_table_3491": 11
         },
         "value": "De temporum ratione"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 7,
+        "value": "hit_hands_dated__7"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 24,
+          "database_table_3520": 7
+        },
+        "value": "nach 821"
       }
     ]
   },
@@ -558,6 +605,21 @@
         },
         "value": "De globo mundi et coniecture orbis versus"
       }
+    ],
+    "hands_dated": [
+      {
+        "id": 8,
+        "value": "hit_hands_dated__8"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 25,
+          "database_table_3520": 8
+        },
+        "value": "vor 828"
+      }
     ]
   },
   "15": {
@@ -620,6 +682,21 @@
           "database_table_3491": 12
         },
         "value": "Annales Iuvavenses maiores"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 6,
+        "value": "hit_hands_dated__6"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 24,
+          "database_table_3520": 6
+        },
+        "value": "nach 821"
       }
     ]
   },
@@ -684,6 +761,21 @@
         },
         "value": "De temporum ratione"
       }
+    ],
+    "hands_dated": [
+      {
+        "id": 9,
+        "value": "hit_hands_dated__9"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 24,
+          "database_table_3520": 9
+        },
+        "value": "nach 821"
+      }
     ]
   },
   "17": {
@@ -746,6 +838,21 @@
           "database_table_3491": 8
         },
         "value": "De temporum ratione"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 11,
+        "value": "hit_hands_dated__11"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 7,
+          "database_table_3520": 11
+        },
+        "value": "9 Jh., erstes Viertel"
       }
     ]
   },
@@ -894,6 +1001,21 @@
         },
         "value": "Tabelle mit Loca embolismorum und Concordia maris et lunae"
       }
+    ],
+    "hands_dated": [
+      {
+        "id": 12,
+        "value": "hit_hands_dated__12"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 7,
+          "database_table_3520": 12
+        },
+        "value": "9 Jh., erstes Viertel"
+      }
     ]
   },
   "21": {
@@ -956,6 +1078,21 @@
           "database_table_3491": 14
         },
         "value": "Responsorien, Versikel, Antiphonen der Quadragesimalzeit"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 14,
+        "value": "hit_hands_dated__14"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 13,
+          "database_table_3520": 14
+        },
+        "value": "11 Jh."
       }
     ]
   },
@@ -1062,6 +1199,21 @@
         },
         "value": "Abergläubische Segen"
       }
+    ],
+    "hands_dated": [
+      {
+        "id": 15,
+        "value": "hit_hands_dated__15"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 27,
+          "database_table_3520": 15
+        },
+        "value": "10. Jh."
+      }
     ]
   },
   "25": {
@@ -1125,6 +1277,21 @@
         },
         "value": "Hymnus Ad Incensum Lucernae"
       }
+    ],
+    "hands_dated": [
+      {
+        "id": 19,
+        "value": "hit_hands_dated__19"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 13,
+          "database_table_3520": 19
+        },
+        "value": "11 Jh."
+      }
     ]
   },
   "19": {
@@ -1164,7 +1331,14 @@
     "Last modified": "2024-07-15",
     "hands_role": [],
     "role": [],
-    "texts": []
+    "texts": [],
+    "hands_dated": [
+      {
+        "id": 13,
+        "value": "hit_hands_dated__13"
+      }
+    ],
+    "dating": []
   },
   "20": {
     "id": 20,
@@ -1227,7 +1401,18 @@
         },
         "value": "Vita sancti Martini"
       }
-    ]
+    ],
+    "hands_dated": [
+      {
+        "id": 16,
+        "value": "hit_hands_dated__16"
+      },
+      {
+        "id": 17,
+        "value": "hit_hands_dated__17"
+      }
+    ],
+    "dating": []
   },
   "23": {
     "id": 23,
@@ -1295,7 +1480,14 @@
         },
         "value": "Historiae adversus paganos"
       }
-    ]
+    ],
+    "hands_dated": [
+      {
+        "id": 18,
+        "value": "hit_hands_dated__18"
+      }
+    ],
+    "dating": []
   },
   "24": {
     "id": 24,
@@ -1358,7 +1550,9 @@
         },
         "value": "Historiae adversus paganos"
       }
-    ]
+    ],
+    "hands_dated": [],
+    "dating": []
   },
   "26": {
     "id": 26,
@@ -1420,6 +1614,21 @@
           "database_table_3491": 80
         },
         "value": "Historiae adversus paganos"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 20,
+        "value": "hit_hands_dated__20"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 22,
+          "database_table_3520": 20
+        },
+        "value": "780-800"
       }
     ]
   },
@@ -1484,6 +1693,21 @@
         },
         "value": "Historiae adversus paganos"
       }
+    ],
+    "hands_dated": [
+      {
+        "id": 21,
+        "value": "hit_hands_dated__21"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 22,
+          "database_table_3520": 21
+        },
+        "value": "780-800"
+      }
     ]
   },
   "28": {
@@ -1546,6 +1770,21 @@
           "database_table_3491": 80
         },
         "value": "Historiae adversus paganos"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 22,
+        "value": "hit_hands_dated__22"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 22,
+          "database_table_3520": 22
+        },
+        "value": "780-800"
       }
     ]
   },
@@ -1610,6 +1849,21 @@
         },
         "value": "Historiae adversus paganos"
       }
+    ],
+    "hands_dated": [
+      {
+        "id": 23,
+        "value": "hit_hands_dated__23"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 22,
+          "database_table_3520": 23
+        },
+        "value": "780-800"
+      }
     ]
   },
   "30": {
@@ -1673,7 +1927,9 @@
         },
         "value": "Decretales"
       }
-    ]
+    ],
+    "hands_dated": [],
+    "dating": []
   },
   "31": {
     "id": 31,
@@ -1904,6 +2160,21 @@
         },
         "value": "Liber calculationis"
       }
+    ],
+    "hands_dated": [
+      {
+        "id": 24,
+        "value": "hit_hands_dated__24"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 30,
+          "database_table_3520": 24
+        },
+        "value": "809-818"
+      }
     ]
   },
   "32": {
@@ -1971,6 +2242,21 @@
           "database_table_3491": 104
         },
         "value": "Historiographische und komputistische Zusätze"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 25,
+        "value": "hit_hands_dated__25"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 2,
+          "database_table_3520": 25
+        },
+        "value": "9 Jh., erstes Drittel"
       }
     ]
   },
@@ -2056,6 +2342,21 @@
         },
         "value": "Komputistische Schriften"
       }
+    ],
+    "hands_dated": [
+      {
+        "id": 26,
+        "value": "hit_hands_dated__26"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 2,
+          "database_table_3520": 26
+        },
+        "value": "9 Jh., erstes Drittel"
+      }
     ]
   },
   "34": {
@@ -2119,6 +2420,21 @@
         },
         "value": "Historiographische und komputistische Zusätze"
       }
+    ],
+    "hands_dated": [
+      {
+        "id": 27,
+        "value": "hit_hands_dated__27"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 34,
+          "database_table_3520": 27
+        },
+        "value": "nach 973"
+      }
     ]
   },
   "35": {
@@ -2181,6 +2497,21 @@
           "database_table_3491": 104
         },
         "value": "Historiographische und komputistische Zusätze"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 28,
+        "value": "hit_hands_dated__28"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 27,
+          "database_table_3520": 28
+        },
+        "value": "10. Jh."
       }
     ]
   },
@@ -2250,6 +2581,21 @@
         },
         "value": "Annales Salisburgenses"
       }
+    ],
+    "hands_dated": [
+      {
+        "id": 29,
+        "value": "hit_hands_dated__29"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 36,
+          "database_table_3520": 29
+        },
+        "value": "12. Jh."
+      }
     ]
   },
   "37": {
@@ -2312,6 +2658,21 @@
           "database_table_3491": 113
         },
         "value": "Annales Salisburgenses"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 31,
+        "value": "hit_hands_dated__31"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 27,
+          "database_table_3520": 31
+        },
+        "value": "10. Jh."
       }
     ]
   },
@@ -2376,6 +2737,21 @@
         },
         "value": "Annales Salisburgenses"
       }
+    ],
+    "hands_dated": [
+      {
+        "id": 33,
+        "value": "hit_hands_dated__33"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 13,
+          "database_table_3520": 33
+        },
+        "value": "11 Jh."
+      }
     ]
   },
   "38": {
@@ -2439,6 +2815,21 @@
         },
         "value": "Annales Salisburgenses"
       }
+    ],
+    "hands_dated": [
+      {
+        "id": 32,
+        "value": "hit_hands_dated__32"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 1,
+          "database_table_3520": 32
+        },
+        "value": "9 Jh."
+      }
     ]
   },
   "39": {
@@ -2501,6 +2892,21 @@
           "database_table_3491": 100
         },
         "value": "Komputistische Anweisungen"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 30,
+        "value": "hit_hands_dated__30"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 27,
+          "database_table_3520": 30
+        },
+        "value": "10. Jh."
       }
     ]
   },
@@ -2586,6 +2992,21 @@
         },
         "value": "Bienensegen"
       }
+    ],
+    "hands_dated": [
+      {
+        "id": 35,
+        "value": "hit_hands_dated__35"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 27,
+          "database_table_3520": 35
+        },
+        "value": "10. Jh."
+      }
     ]
   },
   "44": {
@@ -2654,6 +3075,21 @@
         },
         "value": "Ave maris stella"
       }
+    ],
+    "hands_dated": [
+      {
+        "id": 36,
+        "value": "hit_hands_dated__36"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 36,
+          "database_table_3520": 36
+        },
+        "value": "12. Jh."
+      }
     ]
   },
   "41": {
@@ -2690,7 +3126,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-26",
+    "Last modified": "2024-07-30",
     "hands_role": [
       {
         "id": 63,
@@ -2738,6 +3174,21 @@
         },
         "value": "Necrologium Salisburgense"
       }
+    ],
+    "hands_dated": [
+      {
+        "id": 34,
+        "value": "hit_hands_dated__34"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 38,
+          "database_table_3520": 34
+        },
+        "value": "1060-1065"
+      }
     ]
   },
   "42": {
@@ -2752,7 +3203,7 @@
         "value": "ÖNB, Cod. 2090_H. 2"
       }
     ],
-    "description": "o. g.",
+    "description": "Große, breite Buchstaben mit nur minimalen Unterlängen. Schräg abgeschnittene Oberlängen. Der Bogen des g in der Unterlänge ist konstant offen. Sowohl Schluss-S, langes S und US/VS-Ligatur. Rechtsneigung bei langem s.",
     "scribe": [],
     "hit_id": "hit_hands__42",
     "similar_hands": [],
@@ -2764,7 +3215,7 @@
       }
     ],
     "number": "2",
-    "note": "Nomina",
+    "note": "Wirkt älter als die anderen Schreiber!",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -2774,7 +3225,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-26",
+    "Last modified": "2024-07-30",
     "hands_role": [
       {
         "id": 62,
@@ -2800,6 +3251,567 @@
           "database_table_3491": 123
         },
         "value": "Nomina regum Francorum"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 37,
+        "value": "hit_hands_dated__37"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 40,
+          "database_table_3520": 37
+        },
+        "value": "11. Jh., drittes Viertel"
+      }
+    ]
+  },
+  "45": {
+    "id": 45,
+    "order": "38.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 3"
+      }
+    ],
+    "description": "Feine Buchstaben ohne eine zu erwartende Streckung mit schräg abgeschnittenen, teils spachtelförmigen Oberlängen; s und r auf der Zeile; der Schaft des a mit Tendenz zur Verlängerung in die Oberlänge; vollständig geschlossenes g. Schluss-S mit schrägem Strich in die Unterlänge.",
+    "scribe": [],
+    "hit_id": "hit_hands__45",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "3",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-30",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-30",
+    "hands_role": [
+      {
+        "id": 70,
+        "value": "hit_hands_role__70"
+      }
+    ],
+    "role": [
+      {
+        "id": 70,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 101,
+          "database_table_3491": 119
+        },
+        "value": "Catalogus praesulum Iuvavensium"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 38,
+        "value": "hit_hands_dated__38"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 39,
+          "database_table_3520": 38
+        },
+        "value": "11. Jh., zweite Hälfte"
+      }
+    ]
+  },
+  "46": {
+    "id": 46,
+    "order": "39.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 4"
+      }
+    ],
+    "description": "g.g., feine Buchstaben, schrägovaler Stil",
+    "scribe": [],
+    "hit_id": "hit_hands__46",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "4",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-30",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-30",
+    "hands_role": [
+      {
+        "id": 71,
+        "value": "hit_hands_role__71"
+      }
+    ],
+    "role": [
+      {
+        "id": 71,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 101,
+          "database_table_3491": 119
+        },
+        "value": "Catalogus praesulum Iuvavensium"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 39,
+        "value": "hit_hands_dated__39"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 39,
+          "database_table_3520": 39
+        },
+        "value": "11. Jh., zweite Hälfte"
+      }
+    ]
+  },
+  "47": {
+    "id": 47,
+    "order": "40.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 5"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__47",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "5",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-30",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-30",
+    "hands_role": [
+      {
+        "id": 75,
+        "value": "hit_hands_role__75"
+      }
+    ],
+    "role": [
+      {
+        "id": 75,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 101,
+          "database_table_3491": 119
+        },
+        "value": "Catalogus praesulum Iuvavensium"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 40,
+        "value": "hit_hands_dated__40"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 41,
+          "database_table_3520": 40
+        },
+        "value": "12. Jh., erste Hälfte"
+      }
+    ]
+  },
+  "48": {
+    "id": 48,
+    "order": "41.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 6"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__48",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "6",
+    "note": "Rutpert Berechnung 1r. Wohl nicht identisch mit den Computationes auf 95r.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-30",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-30",
+    "hands_role": [
+      {
+        "id": 77,
+        "value": "hit_hands_role__77"
+      }
+    ],
+    "role": [
+      {
+        "id": 77,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 115,
+          "database_table_3491": 139
+        },
+        "value": "Berechnungen zur Lebenszeit des hl. Rupert + Bischofsabfolge"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 41,
+        "value": "hit_hands_dated__41"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 41,
+          "database_table_3520": 41
+        },
+        "value": "12. Jh., erste Hälfte"
+      }
+    ]
+  },
+  "49": {
+    "id": 49,
+    "order": "42.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 7"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__49",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "7",
+    "note": "Schreibergruppe (3-5 Hände) für die Traditionsnotizen des 12. Jh.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-30",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-30",
+    "hands_role": [
+      {
+        "id": 76,
+        "value": "hit_hands_role__76"
+      }
+    ],
+    "role": [
+      {
+        "id": 76,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 103,
+          "database_table_3491": 122
+        },
+        "value": "Traditionsnotizen des Salzburger Domstiftes"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 42,
+        "value": "hit_hands_dated__42"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 41,
+          "database_table_3520": 42
+        },
+        "value": "12. Jh., erste Hälfte"
+      }
+    ]
+  },
+  "50": {
+    "id": 50,
+    "order": "43.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 8"
+      }
+    ],
+    "description": "Zahlreiche Abkürzungen, Flämmchen und Zierstriche",
+    "scribe": [],
+    "hit_id": "hit_hands__50",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "8",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-30",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-30",
+    "hands_role": [
+      {
+        "id": 72,
+        "value": "hit_hands_role__72"
+      }
+    ],
+    "role": [
+      {
+        "id": 72,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 104,
+          "database_table_3491": 124
+        },
+        "value": "Epistola ad Eberhardum de electione eius in archiepiscopum Salisburgensem a. 1147"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 43,
+        "value": "hit_hands_dated__43"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 42,
+          "database_table_3520": 43
+        },
+        "value": "12. Jh., zweite Hälfte"
+      }
+    ]
+  },
+  "51": {
+    "id": 51,
+    "order": "44.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 9"
+      }
+    ],
+    "description": "Schräg abgeschnittene und verdickte Oberlängen; geschlossenes g; ct-Ligatur vorhanden;",
+    "scribe": [],
+    "hit_id": "hit_hands__51",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "9",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-30",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-30",
+    "hands_role": [
+      {
+        "id": 65,
+        "value": "hit_hands_role__65"
+      }
+    ],
+    "role": [
+      {
+        "id": 65,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 105,
+          "database_table_3491": 125
+        },
+        "value": "De ecclesiasticis officiis"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 44,
+        "value": "hit_hands_dated__44"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 39,
+          "database_table_3520": 44
+        },
+        "value": "11. Jh., zweite Hälfte"
       }
     ]
   }

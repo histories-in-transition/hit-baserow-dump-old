@@ -2924,12 +2924,41 @@
     "id": 65,
     "order": "57.00000000000000000000",
     "hit_id": "hit_hands_role__65",
-    "hand": [],
-    "ms_item": [],
-    "role": [],
+    "hand": [
+      {
+        "id": 51,
+        "value": "ÖNB, Cod. 2090_H. 9"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 125,
+        "value": "cod_2090__125"
+      }
+    ],
+    "role": [
+      {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
+      }
+    ],
     "locus": "",
-    "text": [],
-    "locus_text": [],
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 105,
+          "database_table_3491": 125
+        },
+        "value": "De ecclesiasticis officiis"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 125,
+        "value": "1v"
+      }
+    ],
     "Last modified by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -2939,7 +2968,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-29",
-    "Last modified": "2024-07-29"
+    "Last modified": "2024-07-30"
   },
   "66": {
     "id": 66,
@@ -3140,5 +3169,305 @@
     },
     "Created on": "2024-07-29",
     "Last modified": "2024-07-29"
+  },
+  "70": {
+    "id": 70,
+    "order": "62.00000000000000000000",
+    "hit_id": "hit_hands_role__70",
+    "hand": [
+      {
+        "id": 45,
+        "value": "ÖNB, Cod. 2090_H. 3"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 119,
+        "value": "cod_2090__119"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 101,
+          "database_table_3491": 119
+        },
+        "value": "Catalogus praesulum Iuvavensium"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 119,
+        "value": "1r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-30",
+    "Last modified": "2024-07-30"
+  },
+  "71": {
+    "id": 71,
+    "order": "63.00000000000000000000",
+    "hit_id": "hit_hands_role__71",
+    "hand": [
+      {
+        "id": 46,
+        "value": "ÖNB, Cod. 2090_H. 4"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 119,
+        "value": "cod_2090__119"
+      }
+    ],
+    "role": [
+      {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 101,
+          "database_table_3491": 119
+        },
+        "value": "Catalogus praesulum Iuvavensium"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 119,
+        "value": "1r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-30",
+    "Last modified": "2024-07-30"
+  },
+  "72": {
+    "id": 72,
+    "order": "64.00000000000000000000",
+    "hit_id": "hit_hands_role__72",
+    "hand": [
+      {
+        "id": 50,
+        "value": "ÖNB, Cod. 2090_H. 8"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 124,
+        "value": "cod_2090__124"
+      }
+    ],
+    "role": [
+      {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 104,
+          "database_table_3491": 124
+        },
+        "value": "Epistola ad Eberhardum de electione eius in archiepiscopum Salisburgensem a. 1147"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 124,
+        "value": "1v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-30",
+    "Last modified": "2024-07-30"
+  },
+  "75": {
+    "id": 75,
+    "order": "65.00000000000000000000",
+    "hit_id": "hit_hands_role__75",
+    "hand": [
+      {
+        "id": 47,
+        "value": "ÖNB, Cod. 2090_H. 5"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 119,
+        "value": "cod_2090__119"
+      }
+    ],
+    "role": [
+      {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 101,
+          "database_table_3491": 119
+        },
+        "value": "Catalogus praesulum Iuvavensium"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 119,
+        "value": "1r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-30",
+    "Last modified": "2024-07-30"
+  },
+  "76": {
+    "id": 76,
+    "order": "66.00000000000000000000",
+    "hit_id": "hit_hands_role__76",
+    "hand": [
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090_H. 7"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 122,
+        "value": "cod_2090__122"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "od. annotator?",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 103,
+          "database_table_3491": 122
+        },
+        "value": "Traditionsnotizen des Salzburger Domstiftes"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 122,
+        "value": "1r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-30",
+    "Last modified": "2024-07-30"
+  },
+  "77": {
+    "id": 77,
+    "order": "67.00000000000000000000",
+    "hit_id": "hit_hands_role__77",
+    "hand": [
+      {
+        "id": 48,
+        "value": "ÖNB, Cod. 2090_H. 6"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 139,
+        "value": "cod_2090__139"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 115,
+          "database_table_3491": 139
+        },
+        "value": "Berechnungen zur Lebenszeit des hl. Rupert + Bischofsabfolge"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 139,
+        "value": "1r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-30",
+    "Last modified": "2024-07-30"
   }
 }

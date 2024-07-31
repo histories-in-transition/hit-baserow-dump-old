@@ -5718,7 +5718,20 @@
     "hit_id": "hit_ms_items__119",
     "filiation": [],
     "locus_grp": "1r",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 70,
+        "value": "hit_hands_role__70"
+      },
+      {
+        "id": 71,
+        "value": "hit_hands_role__71"
+      },
+      {
+        "id": 75,
+        "value": "hit_hands_role__75"
+      }
+    ],
     "cod_unit": [
       {
         "id": 15,
@@ -5736,7 +5749,29 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 3"
+      },
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 4"
+      },
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 5"
+      }
+    ],
     "rubric_note": null
   },
   "120": {
@@ -5804,6 +5839,71 @@
     ],
     "rubric_note": null
   },
+  "139": {
+    "id": 139,
+    "order": "108.50000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__139"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "Anno incarnationis domini dc xxiii sanctus Ruotpertus obiit",
+    "explicit": "a Nikolao papa pallium suscepit",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 115,
+        "value": "Berechnungen zur Lebenszeit des hl. Rupert + Bischofsabfolge"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__139",
+    "filiation": [],
+    "locus_grp": "1r",
+    "hands_role": [
+      {
+        "id": 77,
+        "value": "hit_hands_role__77"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 15,
+        "value": "ÖNB, Cod. 2090, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-30",
+    "Created on": "2024-07-30",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 6"
+      }
+    ],
+    "rubric_note": ""
+  },
   "122": {
     "id": 122,
     "order": "109.00000000000000000000",
@@ -5828,21 +5928,26 @@
         "value": "Traditionsnotizen des Salzburger Domstiftes"
       }
     ],
-    "title_note": "Zahlreiche Traditionsnotizen",
+    "title_note": "Fünf Traditionsnotizen",
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
     "hit_id": "hit_ms_items__122",
     "filiation": [],
     "locus_grp": "1r",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 76,
+        "value": "hit_hands_role__76"
+      }
+    ],
     "cod_unit": [
       {
         "id": 15,
         "value": "ÖNB, Cod. 2090, cod. unit 1"
       }
     ],
-    "Last modified": "2024-07-28",
+    "Last modified": "2024-07-30",
     "Created on": "2024-07-26",
     "Created by": {
       "id": 86,
@@ -5853,7 +5958,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 7"
+      }
+    ],
     "rubric_note": null
   },
   "123": {
@@ -5952,7 +6065,12 @@
     "hit_id": "hit_ms_items__124",
     "filiation": [],
     "locus_grp": "1v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 72,
+        "value": "hit_hands_role__72"
+      }
+    ],
     "cod_unit": [
       {
         "id": 15,
@@ -5970,7 +6088,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 8"
+      }
+    ],
     "rubric_note": null
   },
   "125": {
@@ -6004,7 +6130,12 @@
     "hit_id": "hit_ms_items__125",
     "filiation": [],
     "locus_grp": "1v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 65,
+        "value": "hit_hands_role__65"
+      }
+    ],
     "cod_unit": [
       {
         "id": 15,
@@ -6022,7 +6153,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 9"
+      }
+    ],
     "rubric_note": null
   },
   "126": {
@@ -6071,6 +6210,58 @@
     "note": "Diverse historiog. Annotationen TBD",
     "hand": [],
     "rubric_note": null
+  },
+  "140": {
+    "id": 140,
+    "order": "113.50000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__140"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 116,
+        "value": "Kreuzschrift TBD"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__140",
+    "filiation": [],
+    "locus_grp": "1v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 15,
+        "value": "ÖNB, Cod. 2090, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-30",
+    "Created on": "2024-07-30",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "rubric_note": ""
   },
   "127": {
     "id": 127,

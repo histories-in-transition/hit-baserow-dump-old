@@ -8800,7 +8800,12 @@
     "height": null,
     "width": null,
     "catchwords": false,
-    "stratum": [],
+    "stratum": [
+      {
+        "id": 12,
+        "value": "Cod. 2090, Stratum 1"
+      }
+    ],
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"

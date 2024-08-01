@@ -1062,6 +1062,14 @@
         "value": "hit_hands_role__62"
       },
       {
+        "id": 63,
+        "value": "hit_hands_role__63"
+      },
+      {
+        "id": 64,
+        "value": "hit_hands_role__64"
+      },
+      {
         "id": 70,
         "value": "hit_hands_role__70"
       }
@@ -1073,6 +1081,20 @@
           "database_table_3491": 123
         },
         "value": "Nomina regum Francorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 113,
+          "database_table_3491": 137
+        },
+        "value": "Fratres de foris"
+      },
+      {
+        "ids": {
+          "database_table_3489": 114,
+          "database_table_3491": 138
+        },
+        "value": "Necrologium Salisburgense"
       },
       {
         "ids": {
@@ -1094,11 +1116,19 @@
         "value": "1v"
       },
       {
+        "id": 137,
+        "value": "5v"
+      },
+      {
+        "id": 138,
+        "value": "6r-36r"
+      },
+      {
         "id": 119,
         "value": "1r"
       }
     ],
-    "note": "Haupt",
+    "note": "Dieses Stratum beschreibt die Anlage der Handschrift und besteht u.a. aus den Königs-, Papst- und Bischofslisten und den verbrüderten Geistlichen sowie dem Nekrolog, deren Grundstruktur zu Lebzeiten des Erzbischofs Gebhards entstanden sind.\nCatalogus auch und Fortsetzung des Catalogus. Texte aus spätem 11. Jahrhundert auch eigens zählen?",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -1108,7 +1138,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-30"
+    "Last modified": "2024-07-31"
   },
   "13": {
     "id": 13,
@@ -1143,7 +1173,7 @@
     "ms_items": [],
     "quires": [],
     "locus": [],
-    "note": "Fortsetzung 12. Jh.",
+    "note": "Zahlreiche Schreiber haben im 12. Jahrhundert die angelegten Listen bis ca. 1180 fortgesetzt und neue Texte auf freigebliebenen Platz eingefügt.",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -1153,7 +1183,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-30"
+    "Last modified": "2024-07-31"
   },
   "15": {
     "id": 15,
@@ -1169,6 +1199,11 @@
         "id": 14765,
         "value": "annotation",
         "color": "light-brown"
+      },
+      {
+        "id": 14766,
+        "value": "addition",
+        "color": "dark-green"
       }
     ],
     "manuscript": [
@@ -1179,11 +1214,29 @@
     ],
     "number": "3",
     "hit_id": "hit_strata__15",
-    "hand_role": [],
-    "ms_items": [],
+    "hand_role": [
+      {
+        "id": 76,
+        "value": "hit_hands_role__76"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 103,
+          "database_table_3491": 122
+        },
+        "value": "Traditionsnotizen des Salzburger Domstiftes"
+      }
+    ],
     "quires": [],
-    "locus": [],
-    "note": "Briefe spätes 12. Jh.",
+    "locus": [
+      {
+        "id": 122,
+        "value": "1r"
+      }
+    ],
+    "note": "Traditionsnotizen aus der 1. Hälfte des 12. Jahrhunderts als eigenes Stratum?",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -1193,6 +1246,69 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-30"
+    "Last modified": "2024-07-31"
+  },
+  "16": {
+    "id": 16,
+    "order": "13.00000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "Cod. 2090, Stratum 4"
+      }
+    ],
+    "character": [
+      {
+        "id": 14765,
+        "value": "annotation",
+        "color": "light-brown"
+      },
+      {
+        "id": 14766,
+        "value": "addition",
+        "color": "dark-green"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "4",
+    "hit_id": "hit_strata__16",
+    "hand_role": [
+      {
+        "id": 72,
+        "value": "hit_hands_role__72"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 104,
+          "database_table_3491": 124
+        },
+        "value": "Epistola ad Eberhardum de electione eius in archiepiscopum Salisburgensem a. 1147"
+      }
+    ],
+    "quires": [],
+    "locus": [
+      {
+        "id": 124,
+        "value": "1v"
+      }
+    ],
+    "note": "Dieses Stratum umfasst die Einfügung mehrerer Briefe zu Salzburger Erzbischöfen in der zweiten Hälfte des 12. Jahrhunderts durch 1-2 Hände.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-31",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-31"
   }
 }

@@ -3469,5 +3469,155 @@
     },
     "Created on": "2024-07-30",
     "Last modified": "2024-07-30"
+  },
+  "78": {
+    "id": 78,
+    "order": "68.00000000000000000000",
+    "hit_id": "hit_hands_role__78",
+    "hand": [
+      {
+        "id": 52,
+        "value": "ÖNB, Cod. 2090_H. 10"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 127,
+        "value": "cod_2090__127"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 107,
+          "database_table_3491": 127
+        },
+        "value": "Nomina pontificum Romanae sedis"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 127,
+        "value": "2r-2v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-31",
+    "Last modified": "2024-07-31"
+  },
+  "79": {
+    "id": 79,
+    "order": "69.00000000000000000000",
+    "hit_id": "hit_hands_role__79",
+    "hand": [
+      {
+        "id": 52,
+        "value": "ÖNB, Cod. 2090_H. 10"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 141,
+        "value": "cod_2090__141"
+      }
+    ],
+    "role": [
+      {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
+      }
+    ],
+    "locus": "oder scribe?",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 117,
+          "database_table_3491": 141
+        },
+        "value": "Historiographische Annotationen"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 141,
+        "value": "2v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-31",
+    "Last modified": "2024-07-31"
+  },
+  "80": {
+    "id": 80,
+    "order": "70.00000000000000000000",
+    "hit_id": "hit_hands_role__80",
+    "hand": [
+      {
+        "id": 52,
+        "value": "ÖNB, Cod. 2090_H. 10"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 128,
+        "value": "cod_2090__128"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 108,
+          "database_table_3491": 128
+        },
+        "value": "Nomina pontificum Iuvavensis sedis et abbatum"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 128,
+        "value": "2v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-31",
+    "Last modified": "2024-07-31"
   }
 }

@@ -3527,7 +3527,7 @@
       }
     ],
     "number": "6",
-    "note": "Rutpert Berechnung 1r. Wohl nicht identisch mit den Computationes auf 95r.",
+    "note": "Rupert Berechnung 1r. Wohl nicht identisch mit den Computationes auf 95r.",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -3537,7 +3537,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-30",
+    "Last modified": "2024-07-31",
     "hands_role": [
       {
         "id": 77,
@@ -3605,7 +3605,7 @@
       }
     ],
     "number": "7",
-    "note": "Schreibergruppe (3-5 Hände) für die Traditionsnotizen des 12. Jh.",
+    "note": "TBD Schreibergruppe (3-30 Hände) für die Traditionsnotizen des 12. Jh.",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -3615,7 +3615,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-30",
+    "Last modified": "2024-07-31",
     "hands_role": [
       {
         "id": 76,
@@ -3810,6 +3810,133 @@
         "ids": {
           "database_table_3512": 39,
           "database_table_3520": 44
+        },
+        "value": "11. Jh., zweite Hälfte"
+      },
+      {
+        "ids": {
+          "database_table_3512": 43,
+          "database_table_3520": 44
+        },
+        "value": "12. Jh., erstes Viertel"
+      }
+    ]
+  },
+  "52": {
+    "id": 52,
+    "order": "45.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 10"
+      }
+    ],
+    "description": "Leicht schräg abgeschnittene Oberlängen; s und r mit geringer Unterlänge; spezifisches et mit zwei parallelen verlängerten Schäften; der Bogen des g wird zumeist durch einen sehr dünnen Haarstrich geschlossen oder offen gehalten; der Schaft des a ist stärker aufgerichtet;",
+    "scribe": [],
+    "hit_id": "hit_hands__52",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "10",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-31",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-31",
+    "hands_role": [
+      {
+        "id": 78,
+        "value": "hit_hands_role__78"
+      },
+      {
+        "id": 79,
+        "value": "hit_hands_role__79"
+      },
+      {
+        "id": 80,
+        "value": "hit_hands_role__80"
+      }
+    ],
+    "role": [
+      {
+        "id": 78,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 79,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      },
+      {
+        "id": 80,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 107,
+          "database_table_3491": 127
+        },
+        "value": "Nomina pontificum Romanae sedis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 117,
+          "database_table_3491": 141
+        },
+        "value": "Historiographische Annotationen"
+      },
+      {
+        "ids": {
+          "database_table_3489": 108,
+          "database_table_3491": 128
+        },
+        "value": "Nomina pontificum Iuvavensis sedis et abbatum"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 45,
+        "value": "hit_hands_dated__45"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 39,
+          "database_table_3520": 45
         },
         "value": "11. Jh., zweite Hälfte"
       }

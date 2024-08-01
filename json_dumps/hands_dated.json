@@ -1318,6 +1318,10 @@
       {
         "id": 39,
         "value": "11. Jh., zweite Hälfte"
+      },
+      {
+        "id": 43,
+        "value": "12. Jh., erstes Viertel"
       }
     ],
     "hand": [
@@ -1335,8 +1339,39 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-30",
+    "Last modified": "2024-07-31",
     "Created on": "2024-07-30",
+    "note": ""
+  },
+  "45": {
+    "id": 45,
+    "order": "45.00000000000000000000",
+    "hit_id": "hit_hands_dated__45",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 39,
+        "value": "11. Jh., zweite Hälfte"
+      }
+    ],
+    "hand": [
+      {
+        "id": 52,
+        "value": "ÖNB, Cod. 2090_H. 10"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-31",
+    "Created on": "2024-07-31",
     "note": ""
   }
 }

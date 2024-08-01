@@ -5928,7 +5928,7 @@
         "value": "Traditionsnotizen des Salzburger Domstiftes"
       }
     ],
-    "title_note": "Fünf Traditionsnotizen",
+    "title_note": "bis 1147: Nr. 4, 5, 6; vor 1140: Nr. 7a; um 1127: Nr. 8",
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
@@ -5947,7 +5947,7 @@
         "value": "ÖNB, Cod. 2090, cod. unit 1"
       }
     ],
-    "Last modified": "2024-07-30",
+    "Last modified": "2024-07-31",
     "Created on": "2024-07-26",
     "Created by": {
       "id": 86,
@@ -5957,7 +5957,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "note": "",
+    "note": "3-4 Hände",
     "hand": [
       {
         "ids": {
@@ -6049,8 +6049,8 @@
         "value": "ÖNB, Cod. 2090"
       }
     ],
-    "incipit": "",
-    "explicit": "",
+    "incipit": "H gratia dei Ratisponenses",
+    "explicit": "ad obedienciam animum praeparens",
     "rubric": "",
     "title_work": [
       {
@@ -6077,7 +6077,7 @@
         "value": "ÖNB, Cod. 2090, cod. unit 1"
       }
     ],
-    "Last modified": "2024-07-26",
+    "Last modified": "2024-07-31",
     "Created on": "2024-07-26",
     "Created by": {
       "id": 86,
@@ -6114,8 +6114,8 @@
         "value": "ÖNB, Cod. 2090"
       }
     ],
-    "incipit": "",
-    "explicit": "",
+    "incipit": "Docti sumus veteri testamento",
+    "explicit": "quando pacem et unitatem populi pro Iuda",
     "rubric": "",
     "title_work": [
       {
@@ -6123,7 +6123,7 @@
         "value": "De ecclesiasticis officiis"
       }
     ],
-    "title_note": "Auszug TBD",
+    "title_note": "Auszug aus Kapitel XIX",
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
@@ -6142,7 +6142,7 @@
         "value": "ÖNB, Cod. 2090, cod. unit 1"
       }
     ],
-    "Last modified": "2024-07-29",
+    "Last modified": "2024-07-31",
     "Created on": "2024-07-26",
     "Created by": {
       "id": 86,
@@ -6249,7 +6249,7 @@
         "value": "ÖNB, Cod. 2090, cod. unit 1"
       }
     ],
-    "Last modified": "2024-07-30",
+    "Last modified": "2024-07-31",
     "Created on": "2024-07-30",
     "Created by": {
       "id": 86,
@@ -6259,7 +6259,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "note": "",
+    "note": "TBD",
     "hand": [],
     "rubric_note": ""
   },
@@ -6294,7 +6294,12 @@
     "hit_id": "hit_ms_items__127",
     "filiation": [],
     "locus_grp": "2r-2v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 78,
+        "value": "hit_hands_role__78"
+      }
+    ],
     "cod_unit": [
       {
         "id": 15,
@@ -6312,7 +6317,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 10"
+      }
+    ],
     "rubric_note": null
   },
   "128": {
@@ -6346,7 +6359,12 @@
     "hit_id": "hit_ms_items__128",
     "filiation": [],
     "locus_grp": "2v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 80,
+        "value": "hit_hands_role__80"
+      }
+    ],
     "cod_unit": [
       {
         "id": 15,
@@ -6364,7 +6382,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 10"
+      }
+    ],
     "rubric_note": null
   },
   "129": {
@@ -6892,5 +6918,70 @@
       }
     ],
     "rubric_note": null
+  },
+  "141": {
+    "id": 141,
+    "order": "124.00000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__141"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 117,
+        "value": "Historiographische Annotationen"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__141",
+    "filiation": [],
+    "locus_grp": "2v",
+    "hands_role": [
+      {
+        "id": 79,
+        "value": "hit_hands_role__79"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 15,
+        "value": "ÖNB, Cod. 2090, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-07-31",
+    "Created on": "2024-07-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "Annotationen zu diversen Salzburger Bischöfen",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 10"
+      }
+    ],
+    "rubric_note": ""
   }
 }

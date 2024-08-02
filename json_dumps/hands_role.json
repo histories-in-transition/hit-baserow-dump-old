@@ -3141,6 +3141,11 @@
         "id": 14763,
         "value": "annotator",
         "color": "cyan"
+      },
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
       }
     ],
     "locus": "SCRIBE?!",
@@ -3168,7 +3173,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-29",
-    "Last modified": "2024-07-29"
+    "Last modified": "2024-08-01"
   },
   "70": {
     "id": 70,
@@ -3391,6 +3396,11 @@
         "id": 14758,
         "value": "scribe",
         "color": "darker-red"
+      },
+      {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
       }
     ],
     "locus": "od. annotator?",
@@ -3418,7 +3428,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-30",
-    "Last modified": "2024-07-30"
+    "Last modified": "2024-08-01"
   },
   "77": {
     "id": 77,
@@ -3619,5 +3629,346 @@
     },
     "Created on": "2024-07-31",
     "Last modified": "2024-07-31"
+  },
+  "81": {
+    "id": 81,
+    "order": "71.00000000000000000000",
+    "hit_id": "hit_hands_role__81",
+    "hand": [
+      {
+        "id": 53,
+        "value": "ÖNB, Cod. 2090_H. 11"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 128,
+        "value": "cod_2090__128"
+      }
+    ],
+    "role": [
+      {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
+      },
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 108,
+          "database_table_3491": 128
+        },
+        "value": "Nomina pontificum Iuvavensis sedis et abbatum"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 128,
+        "value": "2v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-01",
+    "Last modified": "2024-08-01"
+  },
+  "82": {
+    "id": 82,
+    "order": "72.00000000000000000000",
+    "hit_id": "hit_hands_role__82",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-01",
+    "Last modified": "2024-08-01"
+  },
+  "83": {
+    "id": 83,
+    "order": "73.00000000000000000000",
+    "hit_id": "hit_hands_role__83",
+    "hand": [
+      {
+        "id": 54,
+        "value": "ÖNB, Cod. 2090_H. 12"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 130,
+        "value": "cod_2090__130"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "3rd",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 110,
+          "database_table_3491": 130
+        },
+        "value": "Nomina fratrum canonicorum et monachorum nec non et monarchum eisudem sedis"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 130,
+        "value": "3r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-01",
+    "Last modified": "2024-08-01"
+  },
+  "84": {
+    "id": 84,
+    "order": "74.00000000000000000000",
+    "hit_id": "hit_hands_role__84",
+    "hand": [
+      {
+        "id": 55,
+        "value": "ÖNB, Cod. 2090_H. 13"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 130,
+        "value": "cod_2090__130"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "3ra-c",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 110,
+          "database_table_3491": 130
+        },
+        "value": "Nomina fratrum canonicorum et monachorum nec non et monarchum eisudem sedis"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 130,
+        "value": "3r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-01",
+    "Last modified": "2024-08-01"
+  },
+  "85": {
+    "id": 85,
+    "order": "75.00000000000000000000",
+    "hit_id": "hit_hands_role__85",
+    "hand": [
+      {
+        "id": 58,
+        "value": "ÖNB, Cod. 2090_H. 16"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 130,
+        "value": "cod_2090__130"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      },
+      {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 110,
+          "database_table_3491": 130
+        },
+        "value": "Nomina fratrum canonicorum et monachorum nec non et monarchum eisudem sedis"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 130,
+        "value": "3r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-01",
+    "Last modified": "2024-08-01"
+  },
+  "86": {
+    "id": 86,
+    "order": "76.00000000000000000000",
+    "hit_id": "hit_hands_role__86",
+    "hand": [
+      {
+        "id": 56,
+        "value": "ÖNB, Cod. 2090_H. 14"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 138,
+        "value": "cod_2090__138"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      },
+      {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
+      }
+    ],
+    "locus": "13v",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 114,
+          "database_table_3491": 138
+        },
+        "value": "Necrologium Salisburgense"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 138,
+        "value": "6r-36r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-01",
+    "Last modified": "2024-08-01"
+  },
+  "87": {
+    "id": 87,
+    "order": "77.00000000000000000000",
+    "hit_id": "hit_hands_role__87",
+    "hand": [
+      {
+        "id": 57,
+        "value": "ÖNB, Cod. 2090_H. 15"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 138,
+        "value": "cod_2090__138"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      },
+      {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
+      }
+    ],
+    "locus": "13v",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 114,
+          "database_table_3491": 138
+        },
+        "value": "Necrologium Salisburgense"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 138,
+        "value": "6r-36r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-01",
+    "Last modified": "2024-08-01"
   }
 }

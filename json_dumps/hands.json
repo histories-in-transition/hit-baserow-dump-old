@@ -3063,6 +3063,11 @@
             "id": 14763,
             "value": "annotator",
             "color": "cyan"
+          },
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
           }
         ]
       }
@@ -3116,7 +3121,7 @@
       }
     ],
     "number": "1",
-    "note": "Trägt die ersten Bischöfe in den Fratres deforis bis 1065 ein und vermerkt im Nekrolog auch den Tod des Erzbischofs Beldingus (1060)",
+    "note": "Trägt die ersten Bischöfe in den Fratres de foris bis 1065 ein und vermerkt im Nekrolog auch den Tod des Erzbischofs Beldingus (1060). Wäre noch zu überprüfen, ob ident.",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -3126,7 +3131,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-30",
+    "Last modified": "2024-08-01",
     "hands_role": [
       {
         "id": 63,
@@ -3206,7 +3211,12 @@
     "description": "Große, breite Buchstaben mit nur minimalen Unterlängen. Schräg abgeschnittene Oberlängen. Der Bogen des g in der Unterlänge ist konstant offen. Sowohl Schluss-S, langes S und US/VS-Ligatur. Rechtsneigung bei langem s.",
     "scribe": [],
     "hit_id": "hit_hands__42",
-    "similar_hands": [],
+    "similar_hands": [
+      {
+        "id": 52,
+        "value": "ÖNB, Cod. 2090_H. 10"
+      }
+    ],
     "nr_daniel": "",
     "manuscript": [
       {
@@ -3225,7 +3235,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-30",
+    "Last modified": "2024-08-01",
     "hands_role": [
       {
         "id": 62,
@@ -3630,6 +3640,11 @@
             "id": 14758,
             "value": "scribe",
             "color": "darker-red"
+          },
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
           }
         ]
       }
@@ -3834,10 +3849,19 @@
         "value": "ÖNB, Cod. 2090_H. 10"
       }
     ],
-    "description": "Leicht schräg abgeschnittene Oberlängen; s und r mit geringer Unterlänge; spezifisches et mit zwei parallelen verlängerten Schäften; der Bogen des g wird zumeist durch einen sehr dünnen Haarstrich geschlossen oder offen gehalten; der Schaft des a ist stärker aufgerichtet;",
+    "description": "Leicht schräg abgeschnittene Oberlängen; s und r mit geringer Unterlänge; spezifisches et mit zwei parallelen verlängerten Schäften; der Bogen des g wird zumeist durch einen sehr dünnen Haarstrich geschlossen oder offen gehalten; der Schaft des a ist stärker aufgerichtet; langes s endet mit Knicks nach links in der Unterlänge; y ebenfalls; Schluss-S geht unter die Zeile, p und r weisen ebenfalls teils in der Unterlänge nach links. Z bleibt im Mittelband.",
     "scribe": [],
     "hit_id": "hit_hands__52",
-    "similar_hands": [],
+    "similar_hands": [
+      {
+        "id": 42,
+        "value": "ÖNB, Cod. 2090_H. 2"
+      },
+      {
+        "id": 54,
+        "value": "ÖNB, Cod. 2090_H. 12"
+      }
+    ],
     "nr_daniel": "",
     "manuscript": [
       {
@@ -3856,7 +3880,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-31",
+    "Last modified": "2024-08-01",
     "hands_role": [
       {
         "id": 78,
@@ -3937,6 +3961,513 @@
         "ids": {
           "database_table_3512": 39,
           "database_table_3520": 45
+        },
+        "value": "11. Jh., zweite Hälfte"
+      }
+    ]
+  },
+  "53": {
+    "id": 53,
+    "order": "46.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 11"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__53",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "11",
+    "note": "Schreibergruppe (2-3 Hände), die den Salzburger Bischofskatalog im 12. Jahrhundert fortsetzen.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-01",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-01",
+    "hands_role": [
+      {
+        "id": 81,
+        "value": "hit_hands_role__81"
+      }
+    ],
+    "role": [
+      {
+        "id": 81,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          },
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 108,
+          "database_table_3491": 128
+        },
+        "value": "Nomina pontificum Iuvavensis sedis et abbatum"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 46,
+        "value": "hit_hands_dated__46"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 36,
+          "database_table_3520": 46
+        },
+        "value": "12. Jh."
+      }
+    ]
+  },
+  "54": {
+    "id": 54,
+    "order": "47.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 12"
+      }
+    ],
+    "description": "Stärker aufgebrochenes Mittelband; et ebenfalls mit zwei Fühlen, aber ohne nach rechts weisendes Fundament; der Bogen des g mit deutlichem Knicks in der Unterlänge; z geht in die Oberlänge.",
+    "scribe": [],
+    "hit_id": "hit_hands__54",
+    "similar_hands": [
+      {
+        "id": 52,
+        "value": "ÖNB, Cod. 2090_H. 10"
+      }
+    ],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "12",
+    "note": "Sehr ähnlich, aber wahrscheinlich nicht ident mit H.10.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-01",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-01",
+    "hands_role": [
+      {
+        "id": 83,
+        "value": "hit_hands_role__83"
+      }
+    ],
+    "role": [
+      {
+        "id": 83,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 110,
+          "database_table_3491": 130
+        },
+        "value": "Nomina fratrum canonicorum et monachorum nec non et monarchum eisudem sedis"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 48,
+        "value": "hit_hands_dated__48"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 39,
+          "database_table_3520": 48
+        },
+        "value": "11. Jh., zweite Hälfte"
+      }
+    ]
+  },
+  "55": {
+    "id": 55,
+    "order": "48.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 13"
+      }
+    ],
+    "description": "TBD",
+    "scribe": [],
+    "hit_id": "hit_hands__55",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "13",
+    "note": "Totilinus",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-01",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-01",
+    "hands_role": [
+      {
+        "id": 84,
+        "value": "hit_hands_role__84"
+      }
+    ],
+    "role": [
+      {
+        "id": 84,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 110,
+          "database_table_3491": 130
+        },
+        "value": "Nomina fratrum canonicorum et monachorum nec non et monarchum eisudem sedis"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 47,
+        "value": "hit_hands_dated__47"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 40,
+          "database_table_3520": 47
+        },
+        "value": "11. Jh., drittes Viertel"
+      }
+    ]
+  },
+  "56": {
+    "id": 56,
+    "order": "49.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 14"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__56",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "14",
+    "note": "Totilinus Nekrolog",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-01",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-01",
+    "hands_role": [
+      {
+        "id": 86,
+        "value": "hit_hands_role__86"
+      }
+    ],
+    "role": [
+      {
+        "id": 86,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          },
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 114,
+          "database_table_3491": 138
+        },
+        "value": "Necrologium Salisburgense"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 49,
+        "value": "hit_hands_dated__49"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 13,
+          "database_table_3520": 49
+        },
+        "value": "11 Jh."
+      },
+      {
+        "ids": {
+          "database_table_3512": 40,
+          "database_table_3520": 49
+        },
+        "value": "11. Jh., drittes Viertel"
+      }
+    ]
+  },
+  "57": {
+    "id": 57,
+    "order": "50.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 15"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__57",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "15",
+    "note": "Einträge zum Bistum Gurk nach 1167",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-01",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-01",
+    "hands_role": [
+      {
+        "id": 87,
+        "value": "hit_hands_role__87"
+      }
+    ],
+    "role": [
+      {
+        "id": 87,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          },
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 114,
+          "database_table_3491": 138
+        },
+        "value": "Necrologium Salisburgense"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 50,
+        "value": "hit_hands_dated__50"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 44,
+          "database_table_3520": 50
+        },
+        "value": "nach 1167"
+      }
+    ]
+  },
+  "58": {
+    "id": 58,
+    "order": "51.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 16"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__58",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "16",
+    "note": "Schreibergruppe (3-5 Hände) aus dem späten 11. und 12. Jahrhundert.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-01",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-01",
+    "hands_role": [
+      {
+        "id": 85,
+        "value": "hit_hands_role__85"
+      }
+    ],
+    "role": [
+      {
+        "id": 85,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          },
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 110,
+          "database_table_3491": 130
+        },
+        "value": "Nomina fratrum canonicorum et monachorum nec non et monarchum eisudem sedis"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 51,
+        "value": "hit_hands_dated__51"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 36,
+          "database_table_3520": 51
+        },
+        "value": "12. Jh."
+      },
+      {
+        "ids": {
+          "database_table_3512": 39,
+          "database_table_3520": 51
         },
         "value": "11. Jh., zweite Hälfte"
       }

@@ -4324,7 +4324,7 @@
       }
     ],
     "number": "15",
-    "note": "Einträge zum Bistum Gurk nach 1167",
+    "note": "Trägt nach 1167 sowohl im Nekrolog als auch in den Annalen Einträge zum Bistum Gurk ein. Fügt auch im Nekrolog einen annalistischen Eintrag über die Zerstörung Salzburgs 1167 ein. (Anno mclxvii, tempore scismatis, quod Guido Gremonensis dictus Papa sub imperatore Friderico contra Alexandrum papam catholicum commoverat, Plaienses comites Liupoldus et frater eius Heinricus ex mandatis Friderici imperatoris werram contra Salzburgensem ecclesiam et contra Chuonradum archiepiscopum, qui strennuissime in obedientia catholici papae Alexandri fuerat, arripientes civitatem armata manu saepe invadunt, excommunicati plusquam annum devastaverunt totum episcopatum rapinis, incendiis; tandem dolo et instinctu eorum tota fere civitas, maior ecclesia s. Ruodberti pictura celatura omnique ornatu elegantissima et optimis campanis, cum tribus claustris, canonicorum videlicet et fratrum conversorum et sororum ancillarum dei, combusta est. In eodem incendio perierunt v basilicae, ecclesia beate maie virginis, parochia sancti michaelis, sancti johannis baptistae, capella quoque sancti jacobi cum basilia salvatoris mundi trans aquam. Liupoldus autem comes de Plein praeventus egritudine non modica ebannitus restaurationem dampni pro posse suo jurans laudavit. Heinricus de Metersele infirmitate stimulans dominicalia resignavit)",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -4334,16 +4334,35 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-08-01",
+    "Last modified": "2024-08-05",
     "hands_role": [
       {
         "id": 87,
         "value": "hit_hands_role__87"
+      },
+      {
+        "id": 89,
+        "value": "hit_hands_role__89"
       }
     ],
     "role": [
       {
         "id": 87,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          },
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      },
+      {
+        "id": 89,
         "value": [
           {
             "id": 14758,
@@ -4365,6 +4384,13 @@
           "database_table_3491": 138
         },
         "value": "Necrologium Salisburgense"
+      },
+      {
+        "ids": {
+          "database_table_3489": 111,
+          "database_table_3491": 132
+        },
+        "value": "Annales breves Sancti Rudperti Salisburgensis"
       }
     ],
     "hands_dated": [
@@ -4470,6 +4496,162 @@
           "database_table_3520": 51
         },
         "value": "11. Jh., zweite Hälfte"
+      }
+    ]
+  },
+  "59": {
+    "id": 59,
+    "order": "52.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 17"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__59",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "17",
+    "note": "Platzhalter: Schreibergruppe (2 Hände)",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-05",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-05",
+    "hands_role": [
+      {
+        "id": 88,
+        "value": "hit_hands_role__88"
+      }
+    ],
+    "role": [
+      {
+        "id": 88,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 109,
+          "database_table_3491": 129
+        },
+        "value": "Epistolae duae de electione Eberhardi I. archiepiscopus Salisburgensis"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 52,
+        "value": "hit_hands_dated__52"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 42,
+          "database_table_3520": 52
+        },
+        "value": "12. Jh., zweite Hälfte"
+      }
+    ]
+  },
+  "60": {
+    "id": 60,
+    "order": "53.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 13"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__60",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "number": "13",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-05",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-05",
+    "hands_role": [
+      {
+        "id": 82,
+        "value": "hit_hands_role__82"
+      }
+    ],
+    "role": [
+      {
+        "id": 82,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 13,
+          "database_table_3491": 12
+        },
+        "value": "Annales Iuvavenses maiores"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 53,
+        "value": "hit_hands_dated__53"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 45,
+          "database_table_3520": 53
+        },
+        "value": "10. Jh., viertes Viertel"
       }
     ]
   }

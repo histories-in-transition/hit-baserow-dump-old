@@ -385,7 +385,7 @@
     "locus_text": [
       {
         "id": 12,
-        "value": "11v-16v"
+        "value": "11v-17r"
       }
     ],
     "Last modified by": {
@@ -535,7 +535,7 @@
     "locus_text": [
       {
         "id": 12,
-        "value": "11v-16v"
+        "value": "11v-17r"
       }
     ],
     "Last modified by": {
@@ -3689,12 +3689,41 @@
     "id": 82,
     "order": "72.00000000000000000000",
     "hit_id": "hit_hands_role__82",
-    "hand": [],
-    "ms_item": [],
-    "role": [],
-    "locus": "",
-    "text": [],
-    "locus_text": [],
+    "hand": [
+      {
+        "id": 60,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 13"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 12,
+        "value": "cod_m_p_th_f_46__12"
+      }
+    ],
+    "role": [
+      {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
+      }
+    ],
+    "locus": "17r",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 13,
+          "database_table_3491": 12
+        },
+        "value": "Annales Iuvavenses maiores"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 12,
+        "value": "11v-17r"
+      }
+    ],
     "Last modified by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -3704,7 +3733,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-08-01",
-    "Last modified": "2024-08-01"
+    "Last modified": "2024-08-05"
   },
   "83": {
     "id": 83,
@@ -3970,5 +3999,110 @@
     },
     "Created on": "2024-08-01",
     "Last modified": "2024-08-01"
+  },
+  "88": {
+    "id": 88,
+    "order": "78.00000000000000000000",
+    "hit_id": "hit_hands_role__88",
+    "hand": [
+      {
+        "id": 59,
+        "value": "ÖNB, Cod. 2090_H. 17"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 129,
+        "value": "cod_2090__129"
+      }
+    ],
+    "role": [
+      {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 109,
+          "database_table_3491": 129
+        },
+        "value": "Epistolae duae de electione Eberhardi I. archiepiscopus Salisburgensis"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 129,
+        "value": "2v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-05",
+    "Last modified": "2024-08-05"
+  },
+  "89": {
+    "id": 89,
+    "order": "79.00000000000000000000",
+    "hit_id": "hit_hands_role__89",
+    "hand": [
+      {
+        "id": 57,
+        "value": "ÖNB, Cod. 2090_H. 15"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 132,
+        "value": "cod_2090__132"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      },
+      {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 111,
+          "database_table_3491": 132
+        },
+        "value": "Annales breves Sancti Rudperti Salisburgensis"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 132,
+        "value": "5r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-05",
+    "Last modified": "2024-08-05"
   }
 }

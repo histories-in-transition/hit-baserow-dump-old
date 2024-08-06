@@ -294,24 +294,24 @@
     ],
     "locus": [
       {
-        "id": 13,
-        "value": "22v-22v"
-      },
-      {
         "id": 10,
         "value": "1v-2r"
       },
       {
+        "id": 13,
+        "value": "22v-22v"
+      },
+      {
+        "id": 12,
+        "value": "11v-17r"
+      },
+      {
+        "id": 12,
+        "value": "11v-17r"
+      },
+      {
         "id": 68,
         "value": "1r"
-      },
-      {
-        "id": 12,
-        "value": "11v-16v"
-      },
-      {
-        "id": 12,
-        "value": "11v-16v"
       }
     ],
     "note": "Diverse Schreiber haben in Salzburg Annotationen, Korrekturen und Marginaltexte eingefügt. Das Gros dieser Bearbeitungen wurde durch den magister Baldo vorgenommen.",
@@ -1072,6 +1072,14 @@
       {
         "id": 70,
         "value": "hit_hands_role__70"
+      },
+      {
+        "id": 78,
+        "value": "hit_hands_role__78"
+      },
+      {
+        "id": 79,
+        "value": "hit_hands_role__79"
       }
     ],
     "ms_items": [
@@ -1102,6 +1110,20 @@
           "database_table_3491": 119
         },
         "value": "Catalogus praesulum Iuvavensium"
+      },
+      {
+        "ids": {
+          "database_table_3489": 117,
+          "database_table_3491": 141
+        },
+        "value": "Historiographische Annotationen"
+      },
+      {
+        "ids": {
+          "database_table_3489": 107,
+          "database_table_3491": 127
+        },
+        "value": "Nomina pontificum Romanae sedis"
       }
     ],
     "quires": [
@@ -1126,6 +1148,14 @@
       {
         "id": 119,
         "value": "1r"
+      },
+      {
+        "id": 141,
+        "value": "2v"
+      },
+      {
+        "id": 127,
+        "value": "2r-2v"
       }
     ],
     "note": "Dieses Stratum beschreibt die Anlage der Handschrift und besteht u.a. aus den Königs-, Papst- und Bischofslisten und den verbrüderten Geistlichen sowie dem Nekrolog, deren Grundstruktur zu Lebzeiten des Erzbischofs Gebhards entstanden sind.\nCatalogus auch und Fortsetzung des Catalogus. Texte aus spätem 11. Jahrhundert auch eigens zählen?",
@@ -1138,7 +1168,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-31"
+    "Last modified": "2024-08-05"
   },
   "13": {
     "id": 13,
@@ -1281,6 +1311,10 @@
       {
         "id": 72,
         "value": "hit_hands_role__72"
+      },
+      {
+        "id": 88,
+        "value": "hit_hands_role__88"
       }
     ],
     "ms_items": [
@@ -1290,6 +1324,13 @@
           "database_table_3491": 124
         },
         "value": "Epistola ad Eberhardum de electione eius in archiepiscopum Salisburgensem a. 1147"
+      },
+      {
+        "ids": {
+          "database_table_3489": 109,
+          "database_table_3491": 129
+        },
+        "value": "Epistolae duae de electione Eberhardi I. archiepiscopus Salisburgensis"
       }
     ],
     "quires": [],
@@ -1297,6 +1338,10 @@
       {
         "id": 124,
         "value": "1v"
+      },
+      {
+        "id": 129,
+        "value": "2v"
       }
     ],
     "note": "Dieses Stratum umfasst die Einfügung mehrerer Briefe zu Salzburger Erzbischöfen in der zweiten Hälfte des 12. Jahrhunderts durch 1-2 Hände.",
@@ -1309,6 +1354,6 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-31"
+    "Last modified": "2024-08-05"
   }
 }

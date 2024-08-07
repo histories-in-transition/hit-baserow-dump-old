@@ -1629,5 +1629,103 @@
     "Last modified": "2024-08-05",
     "Created on": "2024-08-05",
     "note": ""
+  },
+  "54": {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "hit_id": "hit_hands_dated__54",
+    "authority": [
+      {
+        "id": 12,
+        "value": "Wattenbach"
+      }
+    ],
+    "page": "757",
+    "dated": [
+      {
+        "id": 39,
+        "value": "11. Jh., zweite Hälfte"
+      }
+    ],
+    "hand": [
+      {
+        "id": 61,
+        "value": "ÖNB, Cod. 2090_H. 18"
+      }
+    ],
+    "new_dating": true,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-06",
+    "Created on": "2024-08-06",
+    "note": ""
+  },
+  "55": {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "hit_id": "hit_hands_dated__55",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 39,
+        "value": "11. Jh., zweite Hälfte"
+      }
+    ],
+    "hand": [
+      {
+        "id": 62,
+        "value": "ÖNB, Cod. 2090_H. 19"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-06",
+    "Created on": "2024-08-06",
+    "note": ""
+  },
+  "56": {
+    "id": 56,
+    "order": "56.00000000000000000000",
+    "hit_id": "hit_hands_dated__56",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 42,
+        "value": "12. Jh., zweite Hälfte"
+      }
+    ],
+    "hand": [
+      {
+        "id": 77,
+        "value": "ÖNB, Cod. 2090_H. 33"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-06",
+    "Created on": "2024-08-06",
+    "note": ""
   }
 }

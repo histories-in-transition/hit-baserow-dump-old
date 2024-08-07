@@ -6663,7 +6663,16 @@
     "hit_id": "hit_ms_items__131",
     "filiation": [],
     "locus_grp": "3v-4r",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 90,
+        "value": "hit_hands_role__90"
+      },
+      {
+        "id": 91,
+        "value": "hit_hands_role__91"
+      }
+    ],
     "cod_unit": [
       {
         "id": 15,
@@ -6681,7 +6690,22 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 18"
+      },
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 19"
+      }
+    ],
     "rubric_note": null
   },
   "133": {
@@ -7088,5 +7112,97 @@
       }
     ],
     "rubric_note": null
+  },
+  "142": {
+    "id": 142,
+    "order": "124.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__142",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-08-06",
+    "Created on": "2024-08-06",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "rubric_note": ""
+  },
+  "143": {
+    "id": 143,
+    "order": "125.00000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__143"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "Carolus princeps Pipini regis pater qui primus",
+    "explicit": "vestrum referre audierunt",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 118,
+        "value": "Visio Eucherii"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__143",
+    "filiation": [],
+    "locus_grp": "97v",
+    "hands_role": [
+      {
+        "id": 92,
+        "value": "hit_hands_role__92"
+      }
+    ],
+    "cod_unit": [],
+    "Last modified": "2024-08-06",
+    "Created on": "2024-08-06",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 33"
+      }
+    ],
+    "rubric_note": ""
   }
 }

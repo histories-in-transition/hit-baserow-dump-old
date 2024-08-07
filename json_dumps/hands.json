@@ -1294,6 +1294,84 @@
       }
     ]
   },
+  "60": {
+    "id": 60,
+    "order": "17.80000000000000071054",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 13"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__60",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "number": "13",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-05",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-06",
+    "hands_role": [
+      {
+        "id": 82,
+        "value": "hit_hands_role__82"
+      }
+    ],
+    "role": [
+      {
+        "id": 82,
+        "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 13,
+          "database_table_3491": 12
+        },
+        "value": "Annales Iuvavenses maiores"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 53,
+        "value": "hit_hands_dated__53"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 45,
+          "database_table_3520": 53
+        },
+        "value": "10. Jh., viertes Viertel"
+      }
+    ]
+  },
   "19": {
     "id": 19,
     "order": "18.00000000000000000000",
@@ -3294,7 +3372,12 @@
     "description": "Feine Buchstaben ohne eine zu erwartende Streckung mit schräg abgeschnittenen, teils spachtelförmigen Oberlängen; s und r auf der Zeile; der Schaft des a mit Tendenz zur Verlängerung in die Oberlänge; vollständig geschlossenes g. Schluss-S mit schrägem Strich in die Unterlänge.",
     "scribe": [],
     "hit_id": "hit_hands__45",
-    "similar_hands": [],
+    "similar_hands": [
+      {
+        "id": 61,
+        "value": "ÖNB, Cod. 2090_H. 18"
+      }
+    ],
     "nr_daniel": "",
     "manuscript": [
       {
@@ -3313,7 +3396,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-30",
+    "Last modified": "2024-08-06",
     "hands_role": [
       {
         "id": 70,
@@ -4061,7 +4144,7 @@
         "value": "ÖNB, Cod. 2090_H. 12"
       }
     ],
-    "description": "Stärker aufgebrochenes Mittelband; et ebenfalls mit zwei Fühlen, aber ohne nach rechts weisendes Fundament; der Bogen des g mit deutlichem Knicks in der Unterlänge; z geht in die Oberlänge.",
+    "description": "Stärker aufgebrochenes Mittelband; et ebenfalls mit zwei Fühlern, aber ohne nach rechts weisendes Fundament; der offene Bogen des g mit deutlichem Knicks in der Unterlänge; z geht in die Oberlänge.",
     "scribe": [],
     "hit_id": "hit_hands__54",
     "similar_hands": [
@@ -4088,7 +4171,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-08-01",
+    "Last modified": "2024-08-06",
     "hands_role": [
       {
         "id": 83,
@@ -4144,7 +4227,7 @@
         "value": "ÖNB, Cod. 2090_H. 13"
       }
     ],
-    "description": "TBD",
+    "description": "Offenes g;",
     "scribe": [],
     "hit_id": "hit_hands__55",
     "similar_hands": [],
@@ -4166,7 +4249,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-08-01",
+    "Last modified": "2024-08-06",
     "hands_role": [
       {
         "id": 84,
@@ -4312,10 +4395,19 @@
         "value": "ÖNB, Cod. 2090_H. 15"
       }
     ],
-    "description": "",
+    "description": "Ausgeprägtes Mittelband; r und s zumeist auf der Zeile; teils gegabelte Schäfte!; ct-Ligatur aufgebrochen; geschlossenes g; b und l mit zumeist gewellten Schäften; Majuskel-N mit Abschwung in die Unterlänge.",
     "scribe": [],
     "hit_id": "hit_hands__57",
-    "similar_hands": [],
+    "similar_hands": [
+      {
+        "id": 76,
+        "value": "ÖNB, Cod. 2090_H. 32"
+      },
+      {
+        "id": 79,
+        "value": "ÖNB, Cod. 2090_H. 35"
+      }
+    ],
     "nr_daniel": "",
     "manuscript": [
       {
@@ -4334,7 +4426,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-08-05",
+    "Last modified": "2024-08-06",
     "hands_role": [
       {
         "id": 87,
@@ -4577,51 +4669,802 @@
       }
     ]
   },
-  "60": {
-    "id": 60,
+  "61": {
+    "id": 61,
     "order": "53.00000000000000000000",
     "label": [
       {
         "ids": {
-          "database_table_3487": 2,
-          "database_table_3488": 2
+          "database_table_3487": 21,
+          "database_table_3488": 1
         },
-        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 13"
+        "value": "ÖNB, Cod. 2090_H. 18"
+      }
+    ],
+    "description": "Bauchiges geschlossenes g; s und r auf der Zeile. Kaum markante Buchstaben.",
+    "scribe": [],
+    "hit_id": "hit_hands__61",
+    "similar_hands": [
+      {
+        "id": 45,
+        "value": "ÖNB, Cod. 2090_H. 3"
+      },
+      {
+        "id": 78,
+        "value": "ÖNB, Cod. 2090_H. 34"
+      }
+    ],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "18",
+    "note": "Haupthand der Annalen, die bis mehrere Einträge bis zur Ordination Gebhards im Jahr 1060 schreibt (991, 1023, 1024, 1025, 1041, 1060)",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-06",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-06",
+    "hands_role": [
+      {
+        "id": 90,
+        "value": "hit_hands_role__90"
+      }
+    ],
+    "role": [
+      {
+        "id": 90,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 111,
+          "database_table_3491": 131
+        },
+        "value": "Annales breves Sancti Rudperti Salisburgensis"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 54,
+        "value": "hit_hands_dated__54"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 39,
+          "database_table_3520": 54
+        },
+        "value": "11. Jh., zweite Hälfte"
+      }
+    ]
+  },
+  "62": {
+    "id": 62,
+    "order": "54.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 19"
       }
     ],
     "description": "",
     "scribe": [],
-    "hit_id": "hit_hands__60",
+    "hit_id": "hit_hands__62",
     "similar_hands": [],
     "nr_daniel": "",
     "manuscript": [
       {
-        "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
       }
     ],
-    "number": "13",
+    "number": "19",
+    "note": "Fügt weitere Einträge zu Erzbischof Gebhard u.Ä. hinzu (1055, 1056, 1072)",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-06",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-06",
+    "hands_role": [
+      {
+        "id": 91,
+        "value": "hit_hands_role__91"
+      }
+    ],
+    "role": [
+      {
+        "id": 91,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 111,
+          "database_table_3491": 131
+        },
+        "value": "Annales breves Sancti Rudperti Salisburgensis"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 55,
+        "value": "hit_hands_dated__55"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 39,
+          "database_table_3520": 55
+        },
+        "value": "11. Jh., zweite Hälfte"
+      }
+    ]
+  },
+  "63": {
+    "id": 63,
+    "order": "55.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 20"
+      }
+    ],
+    "description": "Grobe Schrift",
+    "scribe": [],
+    "hit_id": "hit_hands__63",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "20",
+    "note": "Fügt Mitglieder des Domkapitels in die Annalen ein (1011, 1028)",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-06",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-06",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": []
+  },
+  "64": {
+    "id": 64,
+    "order": "56.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 21"
+      }
+    ],
+    "description": "uo",
+    "scribe": [],
+    "hit_id": "hit_hands__64",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "21",
+    "note": "Trägt den Tod eines Kaisers und Papstes ein (1039, 1054)",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-06",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-06",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": []
+  },
+  "65": {
+    "id": 65,
+    "order": "57.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 22"
+      }
+    ],
+    "description": "Spezifisches W",
+    "scribe": [],
+    "hit_id": "hit_hands__65",
+    "similar_hands": [
+      {
+        "id": 66,
+        "value": "ÖNB, Cod. 2090_H. 23"
+      }
+    ],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "22",
+    "note": "Trägt zwei Mitglieder des Domkapitels ein (1043, 1067)",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-06",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-06",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": []
+  },
+  "66": {
+    "id": 66,
+    "order": "58.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 23"
+      }
+    ],
+    "description": "Charakteristisches g und s.",
+    "scribe": [],
+    "hit_id": "hit_hands__66",
+    "similar_hands": [
+      {
+        "id": 65,
+        "value": "ÖNB, Cod. 2090_H. 22"
+      }
+    ],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "23",
+    "note": "Ungarnschlacht; ev. ident mit H.22 (laut Wattenbach) (1044)",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-06",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-06",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": []
+  },
+  "67": {
+    "id": 67,
+    "order": "59.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 24"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__67",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "24",
+    "note": "Weiterer Eintrag zu Erzbischof Gebhard (1088)",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-06",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-06",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": []
+  },
+  "68": {
+    "id": 68,
+    "order": "60.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 25"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__68",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "25",
+    "note": "Einzelner Eintrag zu Erzbischof Thiemo (1090)",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-06",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-06",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": []
+  },
+  "69": {
+    "id": 69,
+    "order": "61.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 26"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__69",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "26",
+    "note": "Bischof Konrad I. (1106)",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-06",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-06",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": []
+  },
+  "70": {
+    "id": 70,
+    "order": "62.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 27"
+      }
+    ],
+    "description": "Gesprengte ct-Ligatur",
+    "scribe": [],
+    "hit_id": "hit_hands__70",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "27",
+    "note": "Markierung der Trennung von Domstift und St. Peter; Konrad I. (1121, 1122, ev. 1128 u. 1130)",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-06",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-06",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": []
+  },
+  "71": {
+    "id": 71,
+    "order": "63.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 28"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__71",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "28",
+    "note": "Sonnenfinsternis (1133)",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-06",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-06",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": []
+  },
+  "72": {
+    "id": 72,
+    "order": "64.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 29"
+      }
+    ],
+    "description": "Grob, mit deutlichen Oberlängen; geschwungenes s; spachtelförmige Ansätze;",
+    "scribe": [],
+    "hit_id": "hit_hands__72",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "29",
+    "note": "Einträge zu Herrschern und Päpsten (1138, 1140, 1143, 1144, 1145, 1147)",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-06",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-06",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": []
+  },
+  "73": {
+    "id": 73,
+    "order": "65.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 30"
+      }
+    ],
+    "description": "Schräg gegabelte Oberschäfte; ct-Ligatur aufgebrochen; x geht unter die Zeile;",
+    "scribe": [],
+    "hit_id": "hit_hands__73",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "30",
+    "note": "Contra paganos (1148)",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-06",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-06",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": []
+  },
+  "74": {
+    "id": 74,
+    "order": "66.00000000000000000000",
+    "label": [],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__74",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [],
+    "number": "31",
     "note": "",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Created on": "2024-08-05",
+    "Created on": "2024-08-06",
     "Last modified by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-08-05",
+    "Last modified": "2024-08-06",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": []
+  },
+  "75": {
+    "id": 75,
+    "order": "67.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 31"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__75",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "31",
+    "note": "Herrscher und Päpste (1152, 1153, 1154,  1159). Ev. auch mehrere Hände.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-06",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-06",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": []
+  },
+  "76": {
+    "id": 76,
+    "order": "68.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 32"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__76",
+    "similar_hands": [
+      {
+        "id": 57,
+        "value": "ÖNB, Cod. 2090_H. 15"
+      }
+    ],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "32",
+    "note": "Diverse Bischöfe (1164)",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-06",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-06",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": []
+  },
+  "77": {
+    "id": 77,
+    "order": "69.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 33"
+      }
+    ],
+    "description": "Stark gegabelte Oberschäfte; doppelte i-Striche!; s mit markantem Ansatz mittig; tironischet et bis unter die Zeile; Majuskel-n mit Abschwung in die Unterlänge; g mitunter auch offen; ct-Ligatur offen, aber mit Haken.",
+    "scribe": [],
+    "hit_id": "hit_hands__77",
+    "similar_hands": [
+      {
+        "id": 57,
+        "value": "ÖNB, Cod. 2090_H. 15"
+      }
+    ],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "33",
+    "note": "Wohl nicht ident, aber ähnlich.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-06",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-06",
     "hands_role": [
       {
-        "id": 82,
-        "value": "hit_hands_role__82"
+        "id": 92,
+        "value": "hit_hands_role__92"
       }
     ],
     "role": [
       {
-        "id": 82,
+        "id": 92,
         "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          },
           {
             "id": 14763,
             "value": "annotator",
@@ -4633,26 +5476,118 @@
     "texts": [
       {
         "ids": {
-          "database_table_3489": 13,
-          "database_table_3491": 12
+          "database_table_3489": 118,
+          "database_table_3491": 143
         },
-        "value": "Annales Iuvavenses maiores"
+        "value": "Visio Eucherii"
       }
     ],
     "hands_dated": [
       {
-        "id": 53,
-        "value": "hit_hands_dated__53"
+        "id": 56,
+        "value": "hit_hands_dated__56"
       }
     ],
     "dating": [
       {
         "ids": {
-          "database_table_3512": 45,
-          "database_table_3520": 53
+          "database_table_3512": 42,
+          "database_table_3520": 56
         },
-        "value": "10. Jh., viertes Viertel"
+        "value": "12. Jh., zweite Hälfte"
       }
     ]
+  },
+  "78": {
+    "id": 78,
+    "order": "70.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 34"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__78",
+    "similar_hands": [
+      {
+        "id": 61,
+        "value": "ÖNB, Cod. 2090_H. 18"
+      }
+    ],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "34",
+    "note": "Wohl ident mit H. 18. Trägt im Nekrolog den Tod Gebhards ein.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-06",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-06",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": []
+  },
+  "79": {
+    "id": 79,
+    "order": "71.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 35"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__79",
+    "similar_hands": [
+      {
+        "id": 57,
+        "value": "ÖNB, Cod. 2090_H. 15"
+      }
+    ],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "35",
+    "note": "Ev. ident mit H. 15, TBD epc.\nTrägt den Tod Eberhards I. ein und ev. Heinrichs I. von Gurk (28v), vielleicht auch 14v.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-06",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-06",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": []
   }
 }

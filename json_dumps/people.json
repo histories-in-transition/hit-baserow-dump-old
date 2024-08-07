@@ -1710,5 +1710,43 @@
     ],
     "hands": [],
     "identical_hands": []
+  },
+  "44": {
+    "id": 44,
+    "order": "43.00000000000000000000",
+    "name": "Hinkmar, Reims, Erzbischof",
+    "gnd_url": "https://d-nb.info/gnd/118551280",
+    "hit_id": "hit_people__44",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-06",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-06",
+    "works": [
+      {
+        "id": 118,
+        "value": "Visio Eucherii"
+      }
+    ],
+    "work": [
+      {
+        "id": 118,
+        "value": "Visio Eucherii"
+      }
+    ],
+    "hands": [],
+    "identical_hands": []
   }
 }

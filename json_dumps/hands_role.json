@@ -4104,5 +4104,160 @@
     },
     "Created on": "2024-08-05",
     "Last modified": "2024-08-05"
+  },
+  "90": {
+    "id": 90,
+    "order": "80.00000000000000000000",
+    "hit_id": "hit_hands_role__90",
+    "hand": [
+      {
+        "id": 61,
+        "value": "ÖNB, Cod. 2090_H. 18"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 131,
+        "value": "cod_2090__131"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "3v",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 111,
+          "database_table_3491": 131
+        },
+        "value": "Annales breves Sancti Rudperti Salisburgensis"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 131,
+        "value": "3v-4r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-06",
+    "Last modified": "2024-08-06"
+  },
+  "91": {
+    "id": 91,
+    "order": "81.00000000000000000000",
+    "hit_id": "hit_hands_role__91",
+    "hand": [
+      {
+        "id": 62,
+        "value": "ÖNB, Cod. 2090_H. 19"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 131,
+        "value": "cod_2090__131"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "3v",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 111,
+          "database_table_3491": 131
+        },
+        "value": "Annales breves Sancti Rudperti Salisburgensis"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 131,
+        "value": "3v-4r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-06",
+    "Last modified": "2024-08-06"
+  },
+  "92": {
+    "id": 92,
+    "order": "82.00000000000000000000",
+    "hit_id": "hit_hands_role__92",
+    "hand": [
+      {
+        "id": 77,
+        "value": "ÖNB, Cod. 2090_H. 33"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 143,
+        "value": "cod_2090__143"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      },
+      {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 118,
+          "database_table_3491": 143
+        },
+        "value": "Visio Eucherii"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 143,
+        "value": "97v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-06",
+    "Last modified": "2024-08-06"
   }
 }

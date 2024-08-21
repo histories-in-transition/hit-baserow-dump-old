@@ -166,17 +166,6 @@ DENORMALIZE_CONFIG = [
         ],
     },
     {
-        "table_label": "QUIRES",
-        "final_file": [DATA_FOLDER, "quires.json"],
-        "fields": [
-            {
-                "field_name": "cod_units",
-                "seed_file": [DATA_FOLDER, "cod_units.json"],
-                "source_file": [JSON_FOLDER, "quires.json"],
-            },
-        ],
-    },
-    {
         "table_label": "CODICOLIGAL UNIT",
         "final_file": [DATA_FOLDER, "cod_units.json"],
         "fields": [
@@ -187,7 +176,7 @@ DENORMALIZE_CONFIG = [
             },
             {
                 "field_name": "quire",
-                "seed_file": [DATA_FOLDER, "quires.json"],
+                "seed_file": [JSON_FOLDER, "quires.json"],
                 "source_file": [DATA_FOLDER, "cod_units.json"],
             },
         ],
@@ -213,4 +202,37 @@ DENORMALIZE_CONFIG = [
             },
         ],
     },
+    {
+        "table_label": "HANDS ROLE",
+        "final_file": [DATA_FOLDER, "hands_role.json"],
+        "fields": [
+            {
+                "field_name": "ms_item",
+                "seed_file": [DATA_FOLDER, "ms_items.json"],
+                "source_file": [JSON_FOLDER, "hands_role.json"],
+            },
+        ],
+    },
+    {
+        "table_label": "STRATA",
+        "final_file": [DATA_FOLDER, "strata.json"],
+        "fields": [
+            {
+                "field_name": "hand_role",
+                "seed_file": [DATA_FOLDER, "hands_role.json"],
+                "source_file": [JSON_FOLDER, "strata.json"],
+            },
+        ],
+    },
+    {
+        "table_label": "HANDS",
+        "final_file": [DATA_FOLDER, "hands.json"],
+        "fields": [
+            {
+                "field_name": "hands_role",
+                "seed_file": [DATA_FOLDER, "hands_role.json"],
+                "source_file": [JSON_FOLDER, "hands.json"],
+            },
+        ]
+    }
 ]

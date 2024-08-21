@@ -75,4 +75,94 @@ DENORMALIZE_CONFIG = [
             },
         ],
     },
+    {
+        "table_label": "MANUSCRIPTS DATED",
+        "final_file": [DATA_FOLDER, "manuscripts_dated.json"],
+        "fields": [
+            {
+                "field_name": "date",
+                "seed_file": [JSON_FOLDER, "dates.json"],
+                "source_file": [JSON_FOLDER, "manuscripts_dated.json"],
+            },
+            {
+                "field_name": "authority",
+                "seed_file": [JSON_FOLDER, "bibliography.json"],
+                "source_file": [DATA_FOLDER, "manuscripts_dated.json"],
+            }
+        ],
+    },
+    {
+        "table_label": "MANUSCRIPTS",
+        "final_file": [DATA_FOLDER, "manuscripts.json"],
+        "fields": [
+            {
+                "field_name": "orig_place",
+                "seed_file": [DATA_FOLDER, "places.json"],
+                "source_file": [JSON_FOLDER, "manuscripts.json"],
+            },
+            {
+                "field_name": "manuscripts_dated",
+                "seed_file": [DATA_FOLDER, "manuscripts_dated.json"],
+                "source_file": [DATA_FOLDER, "manuscripts.json"],
+            },
+            {
+                "field_name": "provenance",
+                "seed_file": [DATA_FOLDER, "orgs.json"],
+                "source_file": [DATA_FOLDER, "manuscripts.json"],
+            }
+        ],
+    },
+    {
+        "table_label": "HANDS DATED",
+        "final_file": [DATA_FOLDER, "hands_dated.json"],
+        "fields": [
+            {
+                "field_name": "authority",
+                "seed_file": [JSON_FOLDER, "bibliography.json"],
+                "source_file": [JSON_FOLDER, "hands_dated.json"],
+            },
+            {
+                "field_name": "dated",
+                "seed_file": [JSON_FOLDER, "dates.json"],
+                "source_file": [DATA_FOLDER, "hands_dated.json"],
+            },
+        ],
+    },
+    {
+        "table_label": "HANDS PLACES",
+        "final_file": [DATA_FOLDER, "hands_placed.json"],
+        "fields": [
+            {
+                "field_name": "authority",
+                "seed_file": [JSON_FOLDER, "bibliography.json"],
+                "source_file": [JSON_FOLDER, "hands_placed.json"],
+            },
+            {
+                "field_name": "place",
+                "seed_file": [DATA_FOLDER, "places.json"],
+                "source_file": [DATA_FOLDER, "hands_placed.json"],
+            },
+        ],
+    },
+    {
+        "table_label": "HANDS",
+        "final_file": [DATA_FOLDER, "hands.json"],
+        "fields": [
+            {
+                "field_name": "scribe",
+                "seed_file": [JSON_FOLDER, "people.json"],
+                "source_file": [JSON_FOLDER, "hands.json"],
+            },
+            {
+                "field_name": "hands_dated",
+                "seed_file": [DATA_FOLDER, "hands_dated.json"],
+                "source_file": [DATA_FOLDER, "hands.json"],
+            },
+            {
+                "field_name": "hands_placed",
+                "seed_file": [DATA_FOLDER, "hands_placed.json"],
+                "source_file": [DATA_FOLDER, "hands.json"],
+            },
+        ],
+    },
 ]

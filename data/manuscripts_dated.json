@@ -1,0 +1,1479 @@
+{
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "hit_id": "hit_dated__3",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ],
+    "date": [
+      {
+        "id": 7,
+        "order": "7.00000000000000000000",
+        "label": "9 Jh., erstes Viertel",
+        "not_before": "0801-01-01",
+        "hit_id": "hit_date__7",
+        "not_after": "0825-12-31",
+        "Created by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-12"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "order": "2.00000000000000000000",
+        "name": "Bischoff",
+        "short_title": "Die südostdeutschen Schreibschulen und Bibliotheken in der Karolingerzeit",
+        "zotero_id": ""
+      }
+    ],
+    "page": "133-134",
+    "preferred_date": true,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-10T14:24:24.632188Z",
+    "note": null
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "hit_id": "hit_dated__4",
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "date": [
+      {
+        "id": 5,
+        "order": "5.00000000000000000000",
+        "label": "10 Jh., zweite Hälfte",
+        "not_before": "0950-01-01",
+        "hit_id": "hit_date__5",
+        "not_after": "0999-12-31",
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-12"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "order": "2.00000000000000000000",
+        "name": "Bischoff",
+        "short_title": "Die südostdeutschen Schreibschulen und Bibliotheken in der Karolingerzeit",
+        "zotero_id": ""
+      }
+    ],
+    "page": "222",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-08",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-08T10:12:39.836364Z",
+    "note": null
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "hit_id": "hit_dated__5",
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "date": [
+      {
+        "id": 4,
+        "order": "4.00000000000000000000",
+        "label": "10 Jh., Mitte",
+        "not_before": "0940-01-01",
+        "hit_id": "hit_date__4",
+        "not_after": "0960-12-31",
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-12"
+      }
+    ],
+    "authority": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "name": "Glauche",
+        "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+        "zotero_id": ""
+      }
+    ],
+    "page": "20",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-08",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-08T10:12:42.825711Z",
+    "note": null
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "hit_id": "hit_dated__6",
+    "manuscript": [
+      {
+        "id": 9,
+        "value": "BSB, Clm. 6381"
+      }
+    ],
+    "date": [
+      {
+        "id": 18,
+        "order": "18.00000000000000000000",
+        "label": "820-840",
+        "not_before": "0820-01-01",
+        "hit_id": "hit_date__18",
+        "not_after": "0840-12-31",
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-07-08"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "order": "2.00000000000000000000",
+        "name": "Bischoff",
+        "short_title": "Die südostdeutschen Schreibschulen und Bibliotheken in der Karolingerzeit",
+        "zotero_id": ""
+      }
+    ],
+    "page": "25",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-08",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-08T18:37:05.420140Z",
+    "note": null
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "hit_id": "hit_dated__7",
+    "manuscript": [
+      {
+        "id": 9,
+        "value": "BSB, Clm. 6381"
+      }
+    ],
+    "date": [
+      {
+        "id": 19,
+        "order": "19.00000000000000000000",
+        "label": "vor 850",
+        "not_before": null,
+        "hit_id": "hit_date__19",
+        "not_after": "0850-12-31",
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-07-08"
+      }
+    ],
+    "authority": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "name": "Glauche",
+        "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+        "zotero_id": ""
+      }
+    ],
+    "page": "152",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-08",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-08T18:44:30.207761Z",
+    "note": null
+  },
+  "25": {
+    "id": 25,
+    "order": "7.50000000000000000000",
+    "hit_id": "hit_dated__25",
+    "manuscript": [
+      {
+        "id": 6,
+        "value": "BSB, Clm. 6308"
+      }
+    ],
+    "date": [
+      {
+        "id": 28,
+        "order": "28.00000000000000000000",
+        "label": "8 Jh.",
+        "not_before": "0700-01-01",
+        "hit_id": "hit_date__28",
+        "not_after": "0799-12-31",
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-07-18"
+      }
+    ],
+    "authority": [
+      {
+        "id": 9,
+        "order": "9.00000000000000000000",
+        "name": "Loewe",
+        "short_title": "CLA",
+        "zotero_id": ""
+      }
+    ],
+    "page": "12",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-18T12:43:33.765141Z",
+    "note": ""
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "hit_id": "hit_dated__8",
+    "manuscript": [
+      {
+        "id": 6,
+        "value": "BSB, Clm. 6308"
+      }
+    ],
+    "date": [
+      {
+        "id": 10,
+        "order": "10.00000000000000000000",
+        "label": "vor 784",
+        "not_before": null,
+        "hit_id": "hit_date__10",
+        "not_after": "0783-12-31",
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-07-04"
+      }
+    ],
+    "authority": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "name": "Glauche",
+        "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+        "zotero_id": ""
+      }
+    ],
+    "page": "187",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-10",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-18T11:38:54.933423Z",
+    "note": null
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "hit_id": "hit_dated__9",
+    "manuscript": [
+      {
+        "id": 22,
+        "value": "ÖNB, Cod. 366"
+      }
+    ],
+    "date": [
+      {
+        "id": 22,
+        "order": "22.00000000000000000000",
+        "label": "780-800",
+        "not_before": "0780-01-01",
+        "hit_id": "hit_date__22",
+        "not_after": "0799-12-31",
+        "Created by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-12"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "order": "2.00000000000000000000",
+        "name": "Bischoff",
+        "short_title": "Die südostdeutschen Schreibschulen und Bibliotheken in der Karolingerzeit",
+        "zotero_id": ""
+      }
+    ],
+    "page": "86-87",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-10",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-15T14:59:30.484307Z",
+    "note": "\"wohl nicht später als in den 80er oder frühen 90er Jahren\"."
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "hit_id": "hit_dated__10",
+    "manuscript": [
+      {
+        "id": 7,
+        "value": "BSB, Clm. 6380"
+      }
+    ],
+    "date": [
+      {
+        "id": 11,
+        "order": "11.00000000000000000000",
+        "label": "10 Jh., spät",
+        "not_before": null,
+        "hit_id": "hit_date__11",
+        "not_after": null,
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-12"
+      }
+    ],
+    "authority": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "name": "Glauche",
+        "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+        "zotero_id": ""
+      }
+    ],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-11T12:58:56.712907Z",
+    "note": null
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "hit_id": "hit_dated__11",
+    "manuscript": [
+      {
+        "id": 8,
+        "value": "BSB, Clm. 6375"
+      }
+    ],
+    "date": [
+      {
+        "id": 6,
+        "order": "6.00000000000000000000",
+        "label": "9 Jh., erste Hälfte",
+        "not_before": "0801-01-01",
+        "hit_id": "hit_date__6",
+        "not_after": "0850-12-31",
+        "Created by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-12"
+      }
+    ],
+    "authority": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "name": "Glauche",
+        "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+        "zotero_id": ""
+      }
+    ],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-11T13:05:16.046305Z",
+    "note": null
+  },
+  "19": {
+    "id": 19,
+    "order": "11.50000000000000000000",
+    "hit_id": "hit_dated__19",
+    "manuscript": [
+      {
+        "id": 8,
+        "value": "BSB, Clm. 6375"
+      }
+    ],
+    "date": [
+      {
+        "id": 2,
+        "order": "2.00000000000000000000",
+        "label": "9 Jh., erstes Drittel",
+        "not_before": "0800-01-01",
+        "hit_id": "hit_date__2",
+        "not_after": "0833-12-31",
+        "Created by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-12"
+      }
+    ],
+    "authority": [
+      {
+        "id": 4,
+        "order": "4.00000000000000000000",
+        "name": "Bierbrauer, K.",
+        "short_title": "Die Ornamentik frühkarolingischer Handschriften aus Bayern",
+        "zotero_id": ""
+      }
+    ],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-11T13:05:55.474818Z",
+    "note": null
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "hit_id": "hit_dated__12",
+    "manuscript": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383"
+      }
+    ],
+    "date": [
+      {
+        "id": 12,
+        "order": "12.00000000000000000000",
+        "label": "8 Jh., Ende",
+        "not_before": null,
+        "hit_id": "hit_date__12",
+        "not_after": null,
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-12"
+      }
+    ],
+    "authority": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "name": "Glauche",
+        "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+        "zotero_id": ""
+      }
+    ],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-11T13:11:18.681988Z",
+    "note": null
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "hit_id": "hit_dated__13",
+    "manuscript": [
+      {
+        "id": 12,
+        "value": "BSB, Clm. 6388"
+      }
+    ],
+    "date": [
+      {
+        "id": 5,
+        "order": "5.00000000000000000000",
+        "label": "10 Jh., zweite Hälfte",
+        "not_before": "0950-01-01",
+        "hit_id": "hit_date__5",
+        "not_after": "0999-12-31",
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-12"
+      }
+    ],
+    "authority": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "name": "Glauche",
+        "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+        "zotero_id": ""
+      }
+    ],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-11T13:12:07.591506Z",
+    "note": null
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "hit_id": "hit_dated__14",
+    "manuscript": [
+      {
+        "id": 13,
+        "value": "BSB, Clm. 6391"
+      }
+    ],
+    "date": [
+      {
+        "id": 11,
+        "order": "11.00000000000000000000",
+        "label": "10 Jh., spät",
+        "not_before": null,
+        "hit_id": "hit_date__11",
+        "not_after": null,
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-12"
+      }
+    ],
+    "authority": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "name": "Glauche",
+        "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+        "zotero_id": ""
+      }
+    ],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-11T13:12:56.191476Z",
+    "note": null
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "hit_id": "hit_dated__15",
+    "manuscript": [
+      {
+        "id": 14,
+        "value": "BSB, Clm. 6392"
+      }
+    ],
+    "date": [
+      {
+        "id": 13,
+        "order": "13.00000000000000000000",
+        "label": "11 Jh.",
+        "not_before": "1000-01-01",
+        "hit_id": "hit_date__13",
+        "not_after": "1099-12-31",
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-12"
+      }
+    ],
+    "authority": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "name": "Glauche",
+        "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+        "zotero_id": ""
+      }
+    ],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-11T13:13:29.340731Z",
+    "note": null
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "hit_id": "hit_dated__16",
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
+    "date": [
+      {
+        "id": 14,
+        "order": "14.00000000000000000000",
+        "label": "8 Jh., spät",
+        "not_before": null,
+        "hit_id": "hit_date__14",
+        "not_after": null,
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-12"
+      }
+    ],
+    "authority": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "name": "Glauche",
+        "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+        "zotero_id": ""
+      }
+    ],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-11T13:14:30.879772Z",
+    "note": null
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "hit_id": "hit_dated__17",
+    "manuscript": [
+      {
+        "id": 16,
+        "value": "BSB, Clm. 6376"
+      }
+    ],
+    "date": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "label": "9 Jh., Mitte",
+        "not_before": "0840-01-01",
+        "hit_id": "hit_date__3",
+        "not_after": "0860-12-31",
+        "Created by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-12"
+      }
+    ],
+    "authority": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "name": "Glauche",
+        "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+        "zotero_id": ""
+      }
+    ],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-11T13:17:58.383732Z",
+    "note": null
+  },
+  "20": {
+    "id": 20,
+    "order": "17.50000000000000000000",
+    "hit_id": "hit_dated__20",
+    "manuscript": [
+      {
+        "id": 16,
+        "value": "BSB, Clm. 6376"
+      }
+    ],
+    "date": [
+      {
+        "id": 26,
+        "order": "26.00000000000000000000",
+        "label": "9 Jh., zweites Viertel",
+        "not_before": "0825-01-01",
+        "hit_id": "hit_date__26",
+        "not_after": "0950-12-31",
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-12"
+      }
+    ],
+    "authority": [
+      {
+        "id": 4,
+        "order": "4.00000000000000000000",
+        "name": "Bierbrauer, K.",
+        "short_title": "Die Ornamentik frühkarolingischer Handschriften aus Bayern",
+        "zotero_id": ""
+      }
+    ],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-11T13:17:54.690835Z",
+    "note": null
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "hit_id": "hit_dated__18",
+    "manuscript": [
+      {
+        "id": 17,
+        "value": "BSB, Clm. 1086"
+      }
+    ],
+    "date": [
+      {
+        "id": 15,
+        "order": "15.00000000000000000000",
+        "label": "nach 800",
+        "not_before": "0800-01-01",
+        "hit_id": "hit_date__15",
+        "not_after": "0825-01-01",
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-07-04"
+      }
+    ],
+    "authority": [
+      {
+        "id": 5,
+        "order": "5.00000000000000000000",
+        "name": "Freckmann",
+        "short_title": "",
+        "zotero_id": ""
+      }
+    ],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-11T13:20:49.473936Z",
+    "note": null
+  },
+  "21": {
+    "id": 21,
+    "order": "19.00000000000000000000",
+    "hit_id": "hit_dated__21",
+    "manuscript": [
+      {
+        "id": 17,
+        "value": "BSB, Clm. 1086"
+      }
+    ],
+    "date": [
+      {
+        "id": 7,
+        "order": "7.00000000000000000000",
+        "label": "9 Jh., erstes Viertel",
+        "not_before": "0801-01-01",
+        "hit_id": "hit_date__7",
+        "not_after": "0825-12-31",
+        "Created by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-12"
+      }
+    ],
+    "authority": [
+      {
+        "id": 4,
+        "order": "4.00000000000000000000",
+        "name": "Bierbrauer, K.",
+        "short_title": "Die Ornamentik frühkarolingischer Handschriften aus Bayern",
+        "zotero_id": ""
+      }
+    ],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-11T13:21:23.076057Z",
+    "note": null
+  },
+  "22": {
+    "id": 22,
+    "order": "20.00000000000000000000",
+    "hit_id": "hit_dated__22",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "date": [
+      {
+        "id": 30,
+        "order": "30.00000000000000000000",
+        "label": "809-818",
+        "not_before": "0809-01-01",
+        "hit_id": "hit_date__30",
+        "not_after": "0818-12-31",
+        "Created by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-18"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "order": "2.00000000000000000000",
+        "name": "Bischoff",
+        "short_title": "Die südostdeutschen Schreibschulen und Bibliotheken in der Karolingerzeit",
+        "zotero_id": ""
+      }
+    ],
+    "page": "96",
+    "preferred_date": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-25T13:31:51.306158Z",
+    "note": ""
+  },
+  "23": {
+    "id": 23,
+    "order": "21.00000000000000000000",
+    "hit_id": "hit_dated__23",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "date": [
+      {
+        "id": 31,
+        "order": "31.00000000000000000000",
+        "label": "818",
+        "not_before": "0818-01-01",
+        "hit_id": "hit_date__31",
+        "not_after": "0818-12-31",
+        "Created by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-18"
+      }
+    ],
+    "authority": [
+      {
+        "id": 8,
+        "order": "8.00000000000000000000",
+        "name": "Hermann",
+        "short_title": "Die deutschen romanischen Handschriften",
+        "zotero_id": ""
+      }
+    ],
+    "page": "145",
+    "preferred_date": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18T10:19:08.107349Z",
+    "note": ""
+  },
+  "24": {
+    "id": 24,
+    "order": "22.00000000000000000000",
+    "hit_id": "hit_dated__24",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "date": [
+      {
+        "id": 32,
+        "order": "32.00000000000000000000",
+        "label": "vor 821",
+        "not_before": null,
+        "hit_id": "hit_date__32",
+        "not_after": "0820-12-31",
+        "Created by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-18"
+      }
+    ],
+    "authority": [
+      {
+        "id": 7,
+        "order": "7.00000000000000000000",
+        "name": "Unterkircher",
+        "short_title": "Die datierten Handschriften der Österreichischen Nationalbibliothek bis zum Jahre 1400",
+        "zotero_id": ""
+      }
+    ],
+    "page": "22-23",
+    "preferred_date": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18T10:20:25.969219Z",
+    "note": ""
+  },
+  "26": {
+    "id": 26,
+    "order": "23.00000000000000000000",
+    "hit_id": "hit_dated__26",
+    "manuscript": [
+      {
+        "id": 20,
+        "value": "BSB, Clm 27305"
+      }
+    ],
+    "date": [
+      {
+        "id": 33,
+        "order": "33.00000000000000000000",
+        "label": "10/11 Jh.",
+        "not_before": "0900-01-01",
+        "hit_id": "hit_date__33",
+        "not_after": "1099-12-31",
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-07-18"
+      }
+    ],
+    "authority": [
+      {
+        "id": 10,
+        "order": "10.00000000000000000000",
+        "name": "Hauke, Remak-Honeff",
+        "short_title": "Katalog der lateinischen Handschriften der Bayerischen Staatsbibliothek München",
+        "zotero_id": ""
+      }
+    ],
+    "page": "23",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-18T13:47:10.161311Z",
+    "note": ""
+  },
+  "27": {
+    "id": 27,
+    "order": "24.00000000000000000000",
+    "hit_id": "hit_dated__27",
+    "manuscript": [
+      {
+        "id": 20,
+        "value": "BSB, Clm 27305"
+      }
+    ],
+    "date": [
+      {
+        "id": 5,
+        "order": "5.00000000000000000000",
+        "label": "10 Jh., zweite Hälfte",
+        "not_before": "0950-01-01",
+        "hit_id": "hit_date__5",
+        "not_after": "0999-12-31",
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-12"
+      }
+    ],
+    "authority": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "name": "Glauche",
+        "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+        "zotero_id": ""
+      }
+    ],
+    "page": "317",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-18T13:48:52.129377Z",
+    "note": ""
+  },
+  "28": {
+    "id": 28,
+    "order": "25.00000000000000000000",
+    "hit_id": "hit_dated__28",
+    "manuscript": [],
+    "date": [],
+    "authority": [],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-22",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-22T15:54:27.418737Z",
+    "note": ""
+  },
+  "29": {
+    "id": 29,
+    "order": "26.00000000000000000000",
+    "hit_id": "hit_dated__29",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387"
+      }
+    ],
+    "date": [
+      {
+        "id": 35,
+        "order": "35.00000000000000000000",
+        "label": "810-830",
+        "not_before": "0810-01-01",
+        "hit_id": "hit_date__35",
+        "not_after": "0830-12-31",
+        "Created by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-25"
+      }
+    ],
+    "authority": [
+      {
+        "id": 11,
+        "order": "11.00000000000000000000",
+        "name": "Borst",
+        "short_title": "Der karolingische Reichskalender",
+        "zotero_id": ""
+      }
+    ],
+    "page": "198",
+    "preferred_date": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-25",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-25T13:31:46.388733Z",
+    "note": "\"Er wurde von einer einzigen Hand zwischen 810 und 830 angelegt, vielleicht erst im letzteren Jahr\"."
+  },
+  "30": {
+    "id": 30,
+    "order": "27.00000000000000000000",
+    "hit_id": "hit_dated__30",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "date": [
+      {
+        "id": 38,
+        "order": "38.00000000000000000000",
+        "label": "1060-1065",
+        "not_before": "1060-04-08",
+        "hit_id": "hit_date__38",
+        "not_after": "1065-07-23",
+        "Created by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-26"
+      }
+    ],
+    "authority": [
+      {
+        "id": 7,
+        "order": "7.00000000000000000000",
+        "name": "Unterkircher",
+        "short_title": "Die datierten Handschriften der Österreichischen Nationalbibliothek bis zum Jahre 1400",
+        "zotero_id": ""
+      }
+    ],
+    "page": "47",
+    "preferred_date": true,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-26",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-26T13:28:35.850202Z",
+    "note": ""
+  },
+  "31": {
+    "id": 31,
+    "order": "28.00000000000000000000",
+    "hit_id": "hit_dated__31",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "date": [
+      {
+        "id": 39,
+        "order": "39.00000000000000000000",
+        "label": "11. Jh., zweite Hälfte",
+        "not_before": "1050-01-01",
+        "hit_id": "hit_date__39",
+        "not_after": "1099-12-31",
+        "Created by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-26"
+      }
+    ],
+    "authority": [
+      {
+        "id": 8,
+        "order": "8.00000000000000000000",
+        "name": "Hermann",
+        "short_title": "Die deutschen romanischen Handschriften",
+        "zotero_id": ""
+      }
+    ],
+    "page": "35",
+    "preferred_date": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-26",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-26T13:28:29.988028Z",
+    "note": "\"In Salzburg in der 2. Hälfte des XI. Jahrhunderts, vermutlich zur Zeit des Erzbischofs Gebhard (1060-1088) oder des Erzbischofs Thiemo (1090-1101) geschrieben\"."
+  }
+}

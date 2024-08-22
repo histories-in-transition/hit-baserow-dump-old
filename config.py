@@ -236,7 +236,7 @@ DENORMALIZE_CONFIG = [
             {
                 "field_name": "hands_role",
                 "seed_file": [DATA_FOLDER, "hands_role.json"],
-                "source_file": [JSON_FOLDER, "hands.json"],
+                "source_file": [DATA_FOLDER, "hands.json"],
             },
         ]
     }

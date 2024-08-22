@@ -200,6 +200,11 @@ DENORMALIZE_CONFIG = [
                 "seed_file": [DATA_FOLDER, "works.json"],
                 "source_file": [DATA_FOLDER, "ms_items.json"],
             },
+            {
+                "field_name": "manuscript",
+                "seed_file": [DATA_FOLDER, "manuscripts.json"],
+                "source_file": [DATA_FOLDER, "ms_items.json"],
+            },
         ],
     },
     {

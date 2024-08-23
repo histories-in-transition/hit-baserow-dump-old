@@ -21,7 +21,7 @@
     "digi_url": "http://data.onb.ac.at/dtl/3049329",
     "idno": "Cod. 387",
     "idno_former": "Salisb. 421",
-    "quire_structure": "(II-1)**3** + 5 IV**42** + 3 IV**66** + (V-1)**74** + 5 V**I114** + III**120** + 2 IV**136** + (VI-2)**146** + V**156** + (VI-3)**165**",
+    "quire_structure": "(II-1)<sup>3</sup> + 5 IV<sup>42</sup> + 3 IV<sup>66</sup> + (V-1)<sup>74</sup> + 5 V<sup>I114</sup> + III<sup>120</sup> + 2 IV<sup>136</sup> + (VI-2)<sup>146</sup> + V<sup>156</sup> + (VI-3)<sup>165</sup>\n",
     "library_full": [
       {
         "id": 1,
@@ -455,7 +455,7 @@
     "digi_url": "http://data.onb.ac.at/dtl/8931254",
     "idno": "Cod. 2090",
     "idno_former": "Salisb. 311",
-    "quire_structure": "TBD.",
+    "quire_structure": "TBD.\n",
     "library_full": [
       {
         "id": 1,
@@ -771,7 +771,7 @@
     "digi_url": "",
     "idno": "Cod. 366",
     "idno_former": "",
-    "quire_structure": "TBD.",
+    "quire_structure": "TBD.\n",
     "library_full": [
       {
         "id": 1,
@@ -1028,7 +1028,7 @@
     "digi_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46",
     "idno": "Cod. M. p. th. f. 46",
     "idno_former": null,
-    "quire_structure": "2 IV**16** + III**22** + 3 IV**46** + 2 III**58** + 2 IV**74** + IV**82** und 1 Bl.**83** + III**89** + 4 IV**121** + II**125** und 1Bl.**126** + IV**134** + 2 II**142** und 2 Bl.**144** + I und 3 Bl.**149**",
+    "quire_structure": "2 IV<sup>16</sup> + III<sup>22</sup> + 3 IV<sup>46</sup> + 2 III<sup>58</sup> + 2 IV<sup>74</sup> + IV<sup>82</sup> und 1 Bl.<sup>83</sup> + III<sup>89</sup> + 4 IV<sup>121</sup> + II<sup>125</sup> und 1Bl.<sup>126</sup> + IV<sup>134</sup> + 2 II<sup>142</sup> und 2 Bl.<sup>144</sup> + I und 3 Bl.<sup>149</sup>\n",
     "library_full": [
       {
         "id": 2,
@@ -1468,7 +1468,7 @@
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00006546?page=,1",
     "idno": "Clm. 6326",
     "idno_former": "Fris. 126",
-    "quire_structure": "16 **IV** 127+ (IV - 1) 134",
+    "quire_structure": "16 <sup>IV</sup> 127+ (IV - 1) 134\n",
     "library_full": [
       {
         "id": 4,
@@ -1784,7 +1784,7 @@
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00065382?page=,1",
     "idno": "Clm. 6308",
     "idno_former": "Fris. 108",
-    "quire_structure": "(IV - 2)**6** + 17 IV**142** + (IV - l)**149**",
+    "quire_structure": "(IV - 2)<sup>6</sup> + 17 IV<sup>142</sup> + (IV - l)<sup>149</sup>\n",
     "library_full": [
       {
         "id": 4,
@@ -2095,7 +2095,7 @@
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00115092?page=,1",
     "idno": "Clm. 6380",
     "idno_former": "Fris. 180",
-    "quire_structure": "(IV - 2) **6**+ (VII - 4) **16**+ 2 IV **32**+ (V - 2) **40**+ IV **48**+ (VI - 4) **56**+ 5 IV **96**+ (IV - 1) **103**",
+    "quire_structure": "(IV - 2) <sup>6</sup>+ (VII - 4) <sup>16</sup>+ 2 IV <sup>32</sup>+ (V - 2) <sup>40</sup>+ IV <sup>48</sup>+ (VI - 4) <sup>56</sup>+ 5 IV <sup>96</sup>+ (IV - 1) <sup>103</sup>\n",
     "library_full": [
       {
         "id": 4,
@@ -2347,7 +2347,7 @@
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054504?page=,1",
     "idno": "Clm. 6375",
     "idno_former": "Fris. 175",
-    "quire_structure": "(V - 3) **7**+ IV **15**+ 2 (V - 2) **31**+ IV **39**+ (V - 2) **47**+ IV **55**+ (V - 2) **63**+ 3 IV **87**+ 5 (V - 2) **127**+ (IV - 1) **134**+ IV **142**+ (IV + \\[I - 1\\] 144- 1) **150**+ IV **158**+ 2 (V - 2) **174**+ IV **182**+ (VI - 3) **191**+ (IV - 2) **197**+ (VIII - 7) **206**+ (VI - 4) **214**+ IV **222**+ (III - 1) **227**",
+    "quire_structure": "(V - 3) <sup>7</sup>+ IV <sup>15</sup>+ 2 (V - 2) <sup>31</sup>+ IV <sup>39</sup>+ (V - 2) <sup>47</sup>+ IV <sup>55</sup>+ (V - 2) <sup>63</sup>+ 3 IV <sup>87</sup>+ 5 (V - 2) <sup>127</sup>+ (IV - 1) <sup>134</sup>+ IV <sup>142</sup>+ (IV + [I - 1] 144- 1) <sup>150</sup>+ IV <sup>158</sup>+ 2 (V - 2) <sup>174</sup>+ IV <sup>182</sup>+ (VI - 3) <sup>191</sup>+ (IV - 2) <sup>197</sup>+ (VIII - 7) <sup>206</sup>+ (VI - 4) <sup>214</sup>+ IV <sup>222</sup>+ (III - 1) <sup>227</sup>\n",
     "library_full": [
       {
         "id": 4,
@@ -2658,7 +2658,7 @@
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054506?page=,1",
     "idno": "Clm. 6381",
     "idno_former": "Fris. 181",
-    "quire_structure": "II **4**+ 11 IV **92**+ III **98**+ 12 IV **194**+ 9 (!) III **248**+ (II - 2) **250**",
+    "quire_structure": "II <sup>4</sup>+ 11 IV <sup>92</sup>+ III <sup>98</sup>+ 12 IV <sup>194</sup>+ 9 (!) III <sup>248</sup>+ (II - 2) <sup>250</sup>\n",
     "library_full": [
       {
         "id": 4,
@@ -3495,7 +3495,7 @@
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00006691?page=,1",
     "idno": "Clm. 6388",
     "idno_former": "Fris. 188",
-    "quire_structure": "II **4**+ (II - 1) **7**; V **17**+ 8 IV **81**+ II **85**; 13 IV **189**+ (IV + 1) **198**",
+    "quire_structure": "II <sup>4</sup>+ (II - 1) <sup>7</sup>; V <sup>17</sup>+ 8 IV <sup>81</sup>+ II <sup>85</sup>; 13 IV <sup>189</sup>+ (IV + 1) <sup>198</sup>\n",
     "library_full": [
       {
         "id": 4,
@@ -3786,7 +3786,7 @@
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00112045?page=,1",
     "idno": "Clm. 6391",
     "idno_former": "Fris. 191",
-    "quire_structure": "I II+ 6 IV **48**+ (IV - 1) **55**+ III **61**+ 4 IV **93**+ (IV - 3) **98**+ 11 IV **186**+ (IV - 1) **193**",
+    "quire_structure": "I II+ 6 IV <sup>48</sup>+ (IV - 1) <sup>55</sup>+ III <sup>61</sup>+ 4 IV <sup>93</sup>+ (IV - 3) <sup>98</sup>+ 11 IV <sup>186</sup>+ (IV - 1) <sup>193</sup>\n",
     "library_full": [
       {
         "id": 4,
@@ -4038,7 +4038,7 @@
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00115093?page=,1",
     "idno": "Clm. 6392",
     "idno_former": "Fris. 192",
-    "quire_structure": "(V + 1) **10**+ 2 IV **26**+ III **32**+ 2 IV **48**+ (III + 1) **55**",
+    "quire_structure": "(V + 1) <sup>10</sup>+ 2 IV <sup>26</sup>+ III <sup>32</sup>+ 2 IV <sup>48</sup>+ (III + 1) <sup>55</sup>\n",
     "library_full": [
       {
         "id": 4,
@@ -4290,7 +4290,7 @@
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00047273?page=,1",
     "idno": "Clm. 6393",
     "idno_former": "Fris. 193",
-    "quire_structure": "(IV - 1) **7**+ III **13**+ 2 IV **29**+ (IV - 1) **36**+ 11 IV **124**+ (I + \\[IV - 1\\]) **133**; 17 IV **269**+ (IV - 1) **276**",
+    "quire_structure": "(IV - 1) <sup>7</sup>+ III <sup>13</sup>+ 2 IV <sup>29</sup>+ (IV - 1) <sup>36</sup>+ 11 IV <sup>124</sup>+ (I + [IV - 1]) <sup>133</sup>; 17 IV <sup>269</sup>+ (IV - 1) <sup>276</sup>\n",
     "library_full": [
       {
         "id": 4,
@@ -4542,7 +4542,7 @@
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054505?page=,1",
     "idno": "Clm. 6376",
     "idno_former": "Fris. 176",
-    "quire_structure": "22 IV **175**+ (IV - 1) **182**+ IV **190**+ (IV - 1) **197**+ 2 IV **213**",
+    "quire_structure": "22 IV <sup>175</sup>+ (IV - 1) <sup>182</sup>+ IV <sup>190</sup>+ (IV - 1) <sup>197</sup>+ 2 IV <sup>213</sup>\n",
     "library_full": [
       {
         "id": 4,
@@ -4853,7 +4853,7 @@
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00064004?page=,1",
     "idno": "Clm. 1086",
     "idno_former": "Clm. 6390 Fris. 190",
-    "quire_structure": "(IV-1) **7** + 11 IV **94** + (IV-1) **103**",
+    "quire_structure": "(IV-1) <sup>7</sup> + 11 IV <sup>94</sup> + (IV-1) <sup>103</sup>\n",
     "library_full": [
       {
         "id": 4,
@@ -5372,7 +5372,7 @@
     "digi_url": "",
     "idno": "Clm 27305",
     "idno_former": "Kollektar 27305",
-    "quire_structure": "2 II**16** + 4 IV**80** + (IV + l)**98** + III**110** + I**114** + 5IV**194** - I**198** + 4 IV**262**.",
+    "quire_structure": "2 II<sup>16</sup> + 4 IV<sup>80</sup> + (IV + l)<sup>98</sup> + III<sup>110</sup> + I<sup>114</sup> + 5IV<sup>194</sup> - I<sup>198</sup> + 4 IV<sup>262</sup>.\n",
     "library_full": [
       {
         "id": 4,

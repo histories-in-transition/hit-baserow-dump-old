@@ -101,6 +101,11 @@ DENORMALIZE_CONFIG = [
                 "source_file": [JSON_FOLDER, "manuscripts.json"],
             },
             {
+                "field_name": "library_full",
+                "seed_file": [DATA_FOLDER, "orgs.json"],
+                "source_file": [DATA_FOLDER, "manuscripts.json"],
+            },
+            {
                 "field_name": "manuscripts_dated",
                 "seed_file": [DATA_FOLDER, "manuscripts_dated.json"],
                 "source_file": [DATA_FOLDER, "manuscripts.json"],

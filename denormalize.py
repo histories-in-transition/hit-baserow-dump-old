@@ -7,18 +7,43 @@ from config import DATA_FOLDER, DENORMALIZE_CONFIG
 
 os.makedirs(DATA_FOLDER, exist_ok=True)
 
-ms_json = os.path.join("json_dumps", "manuscripts.json")
+fixme_file = os.path.join("json_dumps", "manuscripts.json")
 
-with open(ms_json, "r", encoding="utf-8") as fp:
+print(f"fix markup in {fixme_file}")
+with open(fixme_file, "r", encoding="utf-8") as fp:
     data = json.load(fp)
 
 for _, value in data.items():
     text = value["quire_structure"]
-    value["quire_structure"] = marko.convert(text).replace("strong>", "sup>").replace("<p>", "").replace("</p>", "")
+    value["quire_structure"] = (
+        marko.convert(text)
+        .replace("strong>", "sup>")
+        .replace("<p>", "")
+        .replace("</p>", "")
+    )
 
-with open(ms_json, "w", encoding="utf-8") as fp:
+with open(fixme_file, "w", encoding="utf-8") as fp:
     json.dump(data, fp, ensure_ascii=False, indent=2)
 
+
+fixme_file = os.path.join("json_dumps", "quires.json")
+
+print(f"fix markup in {fixme_file}")
+with open(fixme_file, "r", encoding="utf-8") as fp:
+    data = json.load(fp)
+
+for _, value in data.items():
+    text = value["quire_structure"]
+    value["quire_structure"] = (
+        marko.convert(text)
+        .replace("strong>", "sup>")
+        .replace("<p>", "")
+        .replace("</p>", "")
+        .replace("\n", "")
+    )
+
+with open(fixme_file, "w", encoding="utf-8") as fp:
+    json.dump(data, fp, ensure_ascii=False, indent=2)
 
 
 for x in DENORMALIZE_CONFIG:

@@ -11,7 +11,6 @@ JSON_FOLDER = "json_dumps"
 TEI_FOLDER = "tei"
 DATA_FOLDER = "data"
 
-
 try:
     br_client = BaseRowClient(
         BASEROW_USER, BASEROW_PW, BASEROW_TOKEN, br_base_url=BASEROW_URL
@@ -243,6 +242,6 @@ DENORMALIZE_CONFIG = [
                 "seed_file": [DATA_FOLDER, "hands_role.json"],
                 "source_file": [DATA_FOLDER, "hands.json"],
             },
-        ]
-    }
+        ],
+    },
 ]

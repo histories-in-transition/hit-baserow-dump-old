@@ -3764,12 +3764,20 @@
           {
             "id": 47,
             "value": "De unitate sanctae trinitatis"
+          },
+          {
+            "id": 119,
+            "value": "De duodecim abusivis saeculi"
           }
         ],
         "work": [
           {
             "id": 47,
             "value": "De unitate sanctae trinitatis"
+          },
+          {
+            "id": 119,
+            "value": "De duodecim abusivis saeculi"
           }
         ],
         "hands": [],
@@ -7222,5 +7230,75 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-08-06"
+  },
+  "119": {
+    "id": 119,
+    "order": "117.00000000000000000000",
+    "title": "De duodecim abusivis saeculi",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__119",
+    "author": [
+      {
+        "id": 27,
+        "order": "26.00000000000000000000",
+        "name": "Ps.- Augustinus",
+        "gnd_url": "",
+        "hit_id": "hit_people__27",
+        "role": [
+          {
+            "id": 14753,
+            "value": "author",
+            "color": "dark-green"
+          }
+        ],
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Created on": "2024-07-03",
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-07-12",
+        "works": [
+          {
+            "id": 47,
+            "value": "De unitate sanctae trinitatis"
+          },
+          {
+            "id": 119,
+            "value": "De duodecim abusivis saeculi"
+          }
+        ],
+        "work": [
+          {
+            "id": 47,
+            "value": "De unitate sanctae trinitatis"
+          },
+          {
+            "id": 119,
+            "value": "De duodecim abusivis saeculi"
+          }
+        ],
+        "hands": [],
+        "identical_hands": []
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-26",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-26"
   }
 }

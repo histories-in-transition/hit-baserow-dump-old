@@ -276,12 +276,12 @@
         "value": "hit_hands_role__15"
       },
       {
-        "id": 26,
-        "value": "hit_hands_role__26"
-      },
-      {
         "id": 35,
         "value": "hit_hands_role__35"
+      },
+      {
+        "id": 102,
+        "value": "hit_hands_role__102"
       }
     ],
     "role": [
@@ -356,7 +356,7 @@
         ]
       },
       {
-        "id": 26,
+        "id": 35,
         "value": [
           {
             "id": 14763,
@@ -366,7 +366,7 @@
         ]
       },
       {
-        "id": 35,
+        "id": 102,
         "value": [
           {
             "id": 14763,
@@ -428,17 +428,17 @@
       },
       {
         "ids": {
-          "database_table_3489": 11,
-          "database_table_3491": 69
-        },
-        "value": "hieronymi chronicon"
-      },
-      {
-        "ids": {
           "database_table_3489": 78,
           "database_table_3491": 84
         },
         "value": "Historiographische und komputistische Zusätze"
+      },
+      {
+        "ids": {
+          "database_table_3489": 11,
+          "database_table_3491": 69
+        },
+        "value": "hieronymi chronicon"
       }
     ],
     "hands_dated": [
@@ -5017,11 +5017,48 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-08-06",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
+    "hands_role": [
+      {
+        "id": 95,
+        "value": "hit_hands_role__95"
+      }
+    ],
+    "role": [
+      {
+        "id": 95,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 111,
+          "database_table_3491": 131
+        },
+        "value": "Annales breves Sancti Rudperti Salisburgensis"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 57,
+        "value": "hit_hands_dated__57"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 39,
+          "database_table_3520": 57
+        },
+        "value": "11. Jh., zweite Hälfte"
+      }
+    ],
     "hands_placed": []
   },
   "64": {
@@ -5059,11 +5096,48 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-08-06",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
+    "hands_role": [
+      {
+        "id": 96,
+        "value": "hit_hands_role__96"
+      }
+    ],
+    "role": [
+      {
+        "id": 96,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 111,
+          "database_table_3491": 131
+        },
+        "value": "Annales breves Sancti Rudperti Salisburgensis"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 58,
+        "value": "hit_hands_dated__58"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 39,
+          "database_table_3520": 58
+        },
+        "value": "11. Jh., zweite Hälfte"
+      }
+    ],
     "hands_placed": []
   },
   "65": {
@@ -5106,11 +5180,48 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-08-06",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
+    "hands_role": [
+      {
+        "id": 103,
+        "value": "hit_hands_role__103"
+      }
+    ],
+    "role": [
+      {
+        "id": 103,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 111,
+          "database_table_3491": 131
+        },
+        "value": "Annales breves Sancti Rudperti Salisburgensis"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 59,
+        "value": "hit_hands_dated__59"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 39,
+          "database_table_3520": 59
+        },
+        "value": "11. Jh., zweite Hälfte"
+      }
+    ],
     "hands_placed": []
   },
   "66": {
@@ -5153,11 +5264,48 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-08-06",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
+    "hands_role": [
+      {
+        "id": 104,
+        "value": "hit_hands_role__104"
+      }
+    ],
+    "role": [
+      {
+        "id": 104,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 111,
+          "database_table_3491": 131
+        },
+        "value": "Annales breves Sancti Rudperti Salisburgensis"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 60,
+        "value": "hit_hands_dated__60"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 39,
+          "database_table_3520": 60
+        },
+        "value": "11. Jh., zweite Hälfte"
+      }
+    ],
     "hands_placed": []
   },
   "67": {
@@ -5195,11 +5343,48 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-08-06",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
+    "hands_role": [
+      {
+        "id": 105,
+        "value": "hit_hands_role__105"
+      }
+    ],
+    "role": [
+      {
+        "id": 105,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 111,
+          "database_table_3491": 131
+        },
+        "value": "Annales breves Sancti Rudperti Salisburgensis"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 61,
+        "value": "hit_hands_dated__61"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 39,
+          "database_table_3520": 61
+        },
+        "value": "11. Jh., zweite Hälfte"
+      }
+    ],
     "hands_placed": []
   },
   "68": {
@@ -5237,11 +5422,55 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-08-06",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
+    "hands_role": [
+      {
+        "id": 106,
+        "value": "hit_hands_role__106"
+      }
+    ],
+    "role": [
+      {
+        "id": 106,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 111,
+          "database_table_3491": 131
+        },
+        "value": "Annales breves Sancti Rudperti Salisburgensis"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 62,
+        "value": "hit_hands_dated__62"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 41,
+          "database_table_3520": 62
+        },
+        "value": "12. Jh., erste Hälfte"
+      },
+      {
+        "ids": {
+          "database_table_3512": 46,
+          "database_table_3520": 62
+        },
+        "value": "11. Jh., viertes Viertel"
+      }
+    ],
     "hands_placed": []
   },
   "69": {
@@ -5279,11 +5508,48 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-08-06",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
+    "hands_role": [
+      {
+        "id": 101,
+        "value": "hit_hands_role__101"
+      }
+    ],
+    "role": [
+      {
+        "id": 101,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 111,
+          "database_table_3491": 131
+        },
+        "value": "Annales breves Sancti Rudperti Salisburgensis"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 63,
+        "value": "hit_hands_dated__63"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 41,
+          "database_table_3520": 63
+        },
+        "value": "12. Jh., erste Hälfte"
+      }
+    ],
     "hands_placed": []
   },
   "70": {
@@ -5321,11 +5587,48 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-08-06",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
+    "hands_role": [
+      {
+        "id": 107,
+        "value": "hit_hands_role__107"
+      }
+    ],
+    "role": [
+      {
+        "id": 107,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 111,
+          "database_table_3491": 131
+        },
+        "value": "Annales breves Sancti Rudperti Salisburgensis"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 64,
+        "value": "hit_hands_dated__64"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 41,
+          "database_table_3520": 64
+        },
+        "value": "12. Jh., erste Hälfte"
+      }
+    ],
     "hands_placed": []
   },
   "71": {
@@ -5363,11 +5666,48 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-08-06",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
+    "hands_role": [
+      {
+        "id": 108,
+        "value": "hit_hands_role__108"
+      }
+    ],
+    "role": [
+      {
+        "id": 108,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 111,
+          "database_table_3491": 131
+        },
+        "value": "Annales breves Sancti Rudperti Salisburgensis"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 65,
+        "value": "hit_hands_dated__65"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 41,
+          "database_table_3520": 65
+        },
+        "value": "12. Jh., erste Hälfte"
+      }
+    ],
     "hands_placed": []
   },
   "72": {
@@ -5405,11 +5745,55 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-08-06",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
+    "hands_role": [
+      {
+        "id": 110,
+        "value": "hit_hands_role__110"
+      }
+    ],
+    "role": [
+      {
+        "id": 110,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 111,
+          "database_table_3491": 131
+        },
+        "value": "Annales breves Sancti Rudperti Salisburgensis"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 66,
+        "value": "hit_hands_dated__66"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 42,
+          "database_table_3520": 66
+        },
+        "value": "12. Jh., zweite Hälfte"
+      },
+      {
+        "ids": {
+          "database_table_3512": 47,
+          "database_table_3520": 66
+        },
+        "value": "12. Jh., zweites Viertel"
+      }
+    ],
     "hands_placed": []
   },
   "73": {
@@ -5447,40 +5831,55 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-08-06",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": []
-  },
-  "74": {
-    "id": 74,
-    "order": "66.00000000000000000000",
-    "label": [],
-    "description": "",
-    "scribe": [],
-    "hit_id": "hit_hands__74",
-    "similar_hands": [],
-    "nr_daniel": "",
-    "manuscript": [],
-    "number": "31",
-    "note": "",
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Created on": "2024-08-06",
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified": "2024-08-06",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
+    "hands_role": [
+      {
+        "id": 111,
+        "value": "hit_hands_role__111"
+      }
+    ],
+    "role": [
+      {
+        "id": 111,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 111,
+          "database_table_3491": 131
+        },
+        "value": "Annales breves Sancti Rudperti Salisburgensis"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 67,
+        "value": "hit_hands_dated__67"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 42,
+          "database_table_3520": 67
+        },
+        "value": "12. Jh., zweite Hälfte"
+      },
+      {
+        "ids": {
+          "database_table_3512": 47,
+          "database_table_3520": 67
+        },
+        "value": "12. Jh., zweites Viertel"
+      }
+    ],
     "hands_placed": []
   },
   "75": {
@@ -5518,11 +5917,48 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-08-06",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
+    "hands_role": [
+      {
+        "id": 112,
+        "value": "hit_hands_role__112"
+      }
+    ],
+    "role": [
+      {
+        "id": 112,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 111,
+          "database_table_3491": 131
+        },
+        "value": "Annales breves Sancti Rudperti Salisburgensis"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 68,
+        "value": "hit_hands_dated__68"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 42,
+          "database_table_3520": 68
+        },
+        "value": "12. Jh., zweite Hälfte"
+      }
+    ],
     "hands_placed": []
   },
   "76": {
@@ -5565,11 +6001,69 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-08-06",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
+    "hands_role": [
+      {
+        "id": 109,
+        "value": "hit_hands_role__109"
+      },
+      {
+        "id": 113,
+        "value": "hit_hands_role__113"
+      }
+    ],
+    "role": [
+      {
+        "id": 109,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 113,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 111,
+          "database_table_3491": 131
+        },
+        "value": "Annales breves Sancti Rudperti Salisburgensis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 111,
+          "database_table_3491": 131
+        },
+        "value": "Annales breves Sancti Rudperti Salisburgensis"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 69,
+        "value": "hit_hands_dated__69"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 42,
+          "database_table_3520": 69
+        },
+        "value": "12. Jh., zweite Hälfte"
+      }
+    ],
     "hands_placed": []
   },
   "77": {
@@ -5701,11 +6195,53 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-08-06",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
+    "hands_role": [
+      {
+        "id": 93,
+        "value": "hit_hands_role__93"
+      }
+    ],
+    "role": [
+      {
+        "id": 93,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          },
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 114,
+          "database_table_3491": 138
+        },
+        "value": "Necrologium Salisburgense"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 70,
+        "value": "hit_hands_dated__70"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 46,
+          "database_table_3520": 70
+        },
+        "value": "11. Jh., viertes Viertel"
+      }
+    ],
     "hands_placed": []
   },
   "79": {
@@ -5748,9 +6284,306 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-08-06",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
+    "hands_role": [
+      {
+        "id": 94,
+        "value": "hit_hands_role__94"
+      }
+    ],
+    "role": [
+      {
+        "id": 94,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          },
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 114,
+          "database_table_3491": 138
+        },
+        "value": "Necrologium Salisburgense"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 71,
+        "value": "hit_hands_dated__71"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 48,
+          "database_table_3520": 71
+        },
+        "value": "12. Jh., drittes Viertel"
+      }
+    ],
+    "hands_placed": []
+  },
+  "80": {
+    "id": 80,
+    "order": "72.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 36"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__80",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "36",
+    "note": "Platzhalter: Schreibergruppe -> diverse Hände",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-26",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-26",
+    "hands_role": [
+      {
+        "id": 114,
+        "value": "hit_hands_role__114"
+      }
+    ],
+    "role": [
+      {
+        "id": 114,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          },
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 113,
+          "database_table_3491": 137
+        },
+        "value": "Fratres de foris"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 72,
+        "value": "hit_hands_dated__72"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 39,
+          "database_table_3520": 72
+        },
+        "value": "11. Jh., zweite Hälfte"
+      }
+    ],
+    "hands_placed": []
+  },
+  "81": {
+    "id": 81,
+    "order": "73.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 37"
+      }
+    ],
+    "description": "Große Buchstaben, Bauchiges geschlossenes g; et mit Fähnchen nach unten.",
+    "scribe": [],
+    "hit_id": "hit_hands__81",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "37",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-26",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-26",
+    "hands_role": [
+      {
+        "id": 115,
+        "value": "hit_hands_role__115"
+      }
+    ],
+    "role": [
+      {
+        "id": 115,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          },
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 103,
+          "database_table_3491": 135
+        },
+        "value": "Traditionsnotizen des Salzburger Domstiftes"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 73,
+        "value": "hit_hands_dated__73"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 40,
+          "database_table_3520": 73
+        },
+        "value": "11. Jh., drittes Viertel"
+      }
+    ],
+    "hands_placed": []
+  },
+  "82": {
+    "id": 82,
+    "order": "74.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 38"
+      }
+    ],
+    "description": "Feine Buchstaben, Mittelband kompakter. Auffällig sind die vielen horizontalen Striche bzw. Füße der Buchstaben, z.B. ausgeprägt bei \"q\". Langes zumeist auf der Zeile mit Knicks nach links. Ähnliches auch bei p und r. Ungewöhnliche per-Kürzung, die nur auf der rechten Seite des p auftritt. Geschlossenes g. Et mit zwei parallelen Schäften, aber nicht einheitlich.",
+    "scribe": [],
+    "hit_id": "hit_hands__82",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "38",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-26",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-26",
+    "hands_role": [
+      {
+        "id": 116,
+        "value": "hit_hands_role__116"
+      },
+      {
+        "id": 117,
+        "value": "hit_hands_role__117"
+      }
+    ],
+    "role": [
+      {
+        "id": 116,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 117,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 119,
+          "database_table_3491": 145
+        },
+        "value": "De duodecim abusivis saeculi"
+      },
+      {
+        "ids": {
+          "database_table_3489": 119,
+          "database_table_3491": 146
+        },
+        "value": "De duodecim abusivis saeculi"
+      }
+    ],
     "hands_dated": [],
     "dating": [],
     "hands_placed": []

@@ -716,8 +716,8 @@
     "locus_grp": "107v; 117v",
     "hands_role": [
       {
-        "id": 26,
-        "value": "hit_hands_role__26"
+        "id": 102,
+        "value": "hit_hands_role__102"
       }
     ],
     "cod_unit": [
@@ -6671,6 +6671,62 @@
       {
         "id": 91,
         "value": "hit_hands_role__91"
+      },
+      {
+        "id": 95,
+        "value": "hit_hands_role__95"
+      },
+      {
+        "id": 96,
+        "value": "hit_hands_role__96"
+      },
+      {
+        "id": 101,
+        "value": "hit_hands_role__101"
+      },
+      {
+        "id": 103,
+        "value": "hit_hands_role__103"
+      },
+      {
+        "id": 104,
+        "value": "hit_hands_role__104"
+      },
+      {
+        "id": 105,
+        "value": "hit_hands_role__105"
+      },
+      {
+        "id": 106,
+        "value": "hit_hands_role__106"
+      },
+      {
+        "id": 107,
+        "value": "hit_hands_role__107"
+      },
+      {
+        "id": 108,
+        "value": "hit_hands_role__108"
+      },
+      {
+        "id": 109,
+        "value": "hit_hands_role__109"
+      },
+      {
+        "id": 110,
+        "value": "hit_hands_role__110"
+      },
+      {
+        "id": 111,
+        "value": "hit_hands_role__111"
+      },
+      {
+        "id": 112,
+        "value": "hit_hands_role__112"
+      },
+      {
+        "id": 113,
+        "value": "hit_hands_role__113"
       }
     ],
     "cod_unit": [
@@ -6704,6 +6760,104 @@
           "database_table_3488": 1
         },
         "value": "ÖNB, Cod. 2090_H. 19"
+      },
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 20"
+      },
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 21"
+      },
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 22"
+      },
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 23"
+      },
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 24"
+      },
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 25"
+      },
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 26"
+      },
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 27"
+      },
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 28"
+      },
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 29"
+      },
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 30"
+      },
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 31"
+      },
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 32"
+      },
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 32"
       }
     ],
     "rubric_note": null
@@ -6908,7 +7062,12 @@
     "hit_id": "hit_ms_items__135",
     "filiation": [],
     "locus_grp": "5r",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 115,
+        "value": "hit_hands_role__115"
+      }
+    ],
     "cod_unit": [
       {
         "id": 15,
@@ -6926,7 +7085,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "11. Jh. noch",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 37"
+      }
+    ],
     "rubric_note": null
   },
   "136": {
@@ -6996,6 +7163,10 @@
       {
         "id": 63,
         "value": "hit_hands_role__63"
+      },
+      {
+        "id": 114,
+        "value": "hit_hands_role__114"
       }
     ],
     "cod_unit": [
@@ -7022,9 +7193,68 @@
           "database_table_3488": 1
         },
         "value": "ÖNB, Cod. 2090_H. 1"
+      },
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 36"
       }
     ],
     "rubric_note": null
+  },
+  "144": {
+    "id": 144,
+    "order": "122.50000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__144"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 103,
+        "value": "Traditionsnotizen des Salzburger Domstiftes"
+      }
+    ],
+    "title_note": "nach 1122: Nr. 11",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__144",
+    "filiation": [],
+    "locus_grp": "5v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 15,
+        "value": "ÖNB, Cod. 2090, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-08-26",
+    "Created on": "2024-08-26",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "rubric_note": ""
   },
   "138": {
     "id": 138,
@@ -7069,6 +7299,14 @@
       {
         "id": 87,
         "value": "hit_hands_role__87"
+      },
+      {
+        "id": 93,
+        "value": "hit_hands_role__93"
+      },
+      {
+        "id": 94,
+        "value": "hit_hands_role__94"
       }
     ],
     "cod_unit": [
@@ -7109,6 +7347,20 @@
           "database_table_3488": 1
         },
         "value": "ÖNB, Cod. 2090_H. 15"
+      },
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 34"
+      },
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 35"
       }
     ],
     "rubric_note": null
@@ -7201,6 +7453,126 @@
           "database_table_3488": 1
         },
         "value": "ÖNB, Cod. 2090_H. 33"
+      }
+    ],
+    "rubric_note": ""
+  },
+  "145": {
+    "id": 145,
+    "order": "126.00000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__145"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "Duodecim abusiva sunt saeculi",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 119,
+        "value": "De duodecim abusivis saeculi"
+      }
+    ],
+    "title_note": "Fragment (enthält den Anfang des Werkes).",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__145",
+    "filiation": [],
+    "locus_grp": "36v-37v",
+    "hands_role": [
+      {
+        "id": 116,
+        "value": "hit_hands_role__116"
+      }
+    ],
+    "cod_unit": [],
+    "Last modified": "2024-08-26",
+    "Created on": "2024-08-26",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 38"
+      }
+    ],
+    "rubric_note": ""
+  },
+  "146": {
+    "id": 146,
+    "order": "127.00000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__146"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 119,
+        "value": "De duodecim abusivis saeculi"
+      }
+    ],
+    "title_note": "Fortsetzung des Fragments",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__146",
+    "filiation": [],
+    "locus_grp": "40v-41v",
+    "hands_role": [
+      {
+        "id": 117,
+        "value": "hit_hands_role__117"
+      }
+    ],
+    "cod_unit": [],
+    "Last modified": "2024-08-26",
+    "Created on": "2024-08-26",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 38"
       }
     ],
     "rubric_note": ""

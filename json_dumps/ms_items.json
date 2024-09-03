@@ -7397,66 +7397,6 @@
     "hand": [],
     "rubric_note": ""
   },
-  "143": {
-    "id": 143,
-    "order": "125.00000000000000000000",
-    "label": [
-      {
-        "id": 21,
-        "value": "cod_2090__143"
-      }
-    ],
-    "manuscript": [
-      {
-        "id": 21,
-        "value": "ÖNB, Cod. 2090"
-      }
-    ],
-    "incipit": "Carolus princeps Pipini regis pater qui primus",
-    "explicit": "vestrum referre audierunt",
-    "rubric": "",
-    "title_work": [
-      {
-        "id": 118,
-        "value": "Visio Eucherii"
-      }
-    ],
-    "title_note": "",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__143",
-    "filiation": [],
-    "locus_grp": "97v",
-    "hands_role": [
-      {
-        "id": 92,
-        "value": "hit_hands_role__92"
-      }
-    ],
-    "cod_unit": [],
-    "Last modified": "2024-08-06",
-    "Created on": "2024-08-06",
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "note": "",
-    "hand": [
-      {
-        "ids": {
-          "database_table_3487": 21,
-          "database_table_3488": 1
-        },
-        "value": "ÖNB, Cod. 2090_H. 33"
-      }
-    ],
-    "rubric_note": ""
-  },
   "145": {
     "id": 145,
     "order": "126.00000000000000000000",
@@ -7533,7 +7473,7 @@
       }
     ],
     "incipit": "",
-    "explicit": "",
+    "explicit": "et fecit eum sicut et prius sanctificare sibi oblationem",
     "rubric": "",
     "title_work": [
       {
@@ -7555,7 +7495,7 @@
       }
     ],
     "cod_unit": [],
-    "Last modified": "2024-08-26",
+    "Last modified": "2024-09-02",
     "Created on": "2024-08-26",
     "Created by": {
       "id": 86,
@@ -7575,6 +7515,395 @@
         "value": "ÖNB, Cod. 2090_H. 38"
       }
     ],
+    "rubric_note": ""
+  },
+  "147": {
+    "id": 147,
+    "order": "128.00000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__147"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "Cum in nomine sanctę et individuę trinitatis christianissimus",
+    "explicit": "in crepare ad congruum tempus expectent",
+    "rubric": "Pręfatio regulę canonicae",
+    "title_work": [
+      {
+        "id": 120,
+        "value": "Institutiones Aquisgranenses"
+      }
+    ],
+    "title_note": "Praefatio + Capitula libri",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__147",
+    "filiation": [],
+    "locus_grp": "38r-40r",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-09-02",
+    "Created on": "2024-09-02",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "rubric_note": "R-C"
+  },
+  "148": {
+    "id": 148,
+    "order": "129.00000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__148"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "Tonsure ęcclesiasticę usus a nazarenis",
+    "explicit": "",
+    "rubric": "Isidori in libro officiorum de tonsura",
+    "title_work": [
+      {
+        "id": 120,
+        "value": "Institutiones Aquisgranenses"
+      }
+    ],
+    "title_note": "Fortsetzung (Hauptteil)",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__148",
+    "filiation": [],
+    "locus_grp": "42r-92v",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-09-02",
+    "Created on": "2024-09-02",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "rubric_note": "R-C"
+  },
+  "149": {
+    "id": 149,
+    "order": "130.00000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__149"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 121,
+        "value": "Definitiones et sententiae philosophicae, philologicae et theologicae"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__149",
+    "filiation": [],
+    "locus_grp": "93v",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-09-02",
+    "Created on": "2024-09-02",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "rubric_note": ""
+  },
+  "150": {
+    "id": 150,
+    "order": "131.00000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__150"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 122,
+        "value": "Computationes saeculi XII de tempore sancti Ruperti"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__150",
+    "filiation": [],
+    "locus_grp": "95r",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-09-02",
+    "Created on": "2024-09-02",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "rubric_note": ""
+  },
+  "151": {
+    "id": 151,
+    "order": "132.00000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__151"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 123,
+        "value": "Notitiae de benedictione mulieris parturientis, de ritu baptismi etc."
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__151",
+    "filiation": [],
+    "locus_grp": "95r",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-09-02",
+    "Created on": "2024-09-02",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "rubric_note": ""
+  },
+  "143": {
+    "id": 143,
+    "order": "134.00000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__143"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "Carolus princeps Pipini regis pater qui primus",
+    "explicit": "vestrum referre audierunt",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 118,
+        "value": "Visio Eucherii"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__143",
+    "filiation": [],
+    "locus_grp": "97v",
+    "hands_role": [
+      {
+        "id": 92,
+        "value": "hit_hands_role__92"
+      }
+    ],
+    "cod_unit": [],
+    "Last modified": "2024-09-02",
+    "Created on": "2024-08-06",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 33"
+      }
+    ],
+    "rubric_note": ""
+  },
+  "152": {
+    "id": 152,
+    "order": "134.50000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__152"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 125,
+        "value": "Versus contra monachos raptores praediorum"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__152",
+    "filiation": [],
+    "locus_grp": "98r",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-09-02",
+    "Created on": "2024-09-02",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "Walther Nr. 12327",
+    "hand": [],
+    "rubric_note": ""
+  },
+  "153": {
+    "id": 153,
+    "order": "135.00000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__153"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 124,
+        "value": "Versus de schismate inter papam et regem"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__153",
+    "filiation": [],
+    "locus_grp": "98r",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-09-02",
+    "Created on": "2024-09-02",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "Walther Nr. 4348",
+    "hand": [],
     "rubric_note": ""
   }
 }

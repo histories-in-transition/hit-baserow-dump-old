@@ -1465,8 +1465,18 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-15",
-    "hands_role": [],
-    "role": [],
+    "hands_role": [
+      {
+        "id": 121,
+        "value": "hit_hands_role__121"
+      }
+    ],
+    "role": [
+      {
+        "id": 121,
+        "value": []
+      }
+    ],
     "texts": [],
     "hands_dated": [
       {
@@ -6597,10 +6607,10 @@
           "database_table_3487": 7,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6380_H. "
+        "value": "BSB, Clm. 6380_H. 1"
       }
     ],
-    "description": "",
+    "description": "1-8",
     "scribe": [],
     "hit_id": "hit_hands__83",
     "similar_hands": [],
@@ -6611,7 +6621,7 @@
         "value": "BSB, Clm. 6380"
       }
     ],
-    "number": null,
+    "number": "1",
     "note": "",
     "Created by": {
       "id": 87,
@@ -6622,9 +6632,19 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-01",
-    "hands_role": [],
-    "role": [],
+    "Last modified": "2024-09-02",
+    "hands_role": [
+      {
+        "id": 125,
+        "value": "hit_hands_role__125"
+      }
+    ],
+    "role": [
+      {
+        "id": 125,
+        "value": []
+      }
+    ],
     "texts": [],
     "hands_dated": [],
     "dating": [],
@@ -6639,10 +6659,10 @@
           "database_table_3487": 7,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6380_H. "
+        "value": "BSB, Clm. 6380_H. 2"
       }
     ],
-    "description": "",
+    "description": "8-15\"Eine Gruppe der rasch wechselnden Hände\"; \"Bayerische Minuskel der Generation Willihalm\"; konservativ, ohne Sorgfalt (Daniel, 48)",
     "scribe": [],
     "hit_id": "hit_hands__84",
     "similar_hands": [],
@@ -6653,7 +6673,7 @@
         "value": "BSB, Clm. 6380"
       }
     ],
-    "number": null,
+    "number": "2",
     "note": "",
     "Created by": {
       "id": 87,
@@ -6664,7 +6684,311 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-01",
+    "Last modified": "2024-09-02",
+    "hands_role": [
+      {
+        "id": 128,
+        "value": "hit_hands_role__128"
+      }
+    ],
+    "role": [
+      {
+        "id": 128,
+        "value": []
+      }
+    ],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": []
+  },
+  "85": {
+    "id": 85,
+    "order": "77.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 7,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6380_H. 3"
+      }
+    ],
+    "description": "15-25",
+    "scribe": [],
+    "hit_id": "hit_hands__85",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 7,
+        "value": "BSB, Clm. 6380"
+      }
+    ],
+    "number": "3",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-02",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-02",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": []
+  },
+  "86": {
+    "id": 86,
+    "order": "78.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 7,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6380_H. 4"
+      }
+    ],
+    "description": "25-33, 40, 41-43, 46-48",
+    "scribe": [],
+    "hit_id": "hit_hands__86",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 7,
+        "value": "BSB, Clm. 6380"
+      }
+    ],
+    "number": "4",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-02",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-02",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": []
+  },
+  "87": {
+    "id": 87,
+    "order": "79.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 7,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6380_H. 5"
+      }
+    ],
+    "description": "33-40",
+    "scribe": [],
+    "hit_id": "hit_hands__87",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 7,
+        "value": "BSB, Clm. 6380"
+      }
+    ],
+    "number": "5",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-02",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-02",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": []
+  },
+  "88": {
+    "id": 88,
+    "order": "80.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 7,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6380_H. 6"
+      }
+    ],
+    "description": "43-46",
+    "scribe": [],
+    "hit_id": "hit_hands__88",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 7,
+        "value": "BSB, Clm. 6380"
+      }
+    ],
+    "number": "6",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-02",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-02",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": []
+  },
+  "89": {
+    "id": 89,
+    "order": "81.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 7,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6380_H. 7"
+      }
+    ],
+    "description": "49-",
+    "scribe": [],
+    "hit_id": "hit_hands__89",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 7,
+        "value": "BSB, Clm. 6380"
+      }
+    ],
+    "number": "7",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-02",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-02",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": []
+  },
+  "90": {
+    "id": 90,
+    "order": "82.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 7,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6380_H. 8"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__90",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 7,
+        "value": "BSB, Clm. 6380"
+      }
+    ],
+    "number": "8",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-02",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-02",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": []
+  },
+  "91": {
+    "id": 91,
+    "order": "83.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 7,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6380_H. 9"
+      }
+    ],
+    "description": "73-102",
+    "scribe": [],
+    "hit_id": "hit_hands__91",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 7,
+        "value": "BSB, Clm. 6380"
+      }
+    ],
+    "number": "9",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-02",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-02",
     "hands_role": [],
     "role": [],
     "texts": [],

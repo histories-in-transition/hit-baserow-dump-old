@@ -5321,5 +5321,209 @@
     },
     "Created on": "2024-09-01",
     "Last modified": "2024-09-01"
+  },
+  "120": {
+    "id": 120,
+    "order": "106.00000000000000000000",
+    "hit_id": "hit_hands_role__120",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-02",
+    "Last modified": "2024-09-02"
+  },
+  "121": {
+    "id": 121,
+    "order": "107.00000000000000000000",
+    "hit_id": "hit_hands_role__121",
+    "hand": [
+      {
+        "id": 19,
+        "value": "BSB, Clm. 6326_H. 1"
+      }
+    ],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-02",
+    "Last modified": "2024-09-02"
+  },
+  "122": {
+    "id": 122,
+    "order": "108.00000000000000000000",
+    "hit_id": "hit_hands_role__122",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-02",
+    "Last modified": "2024-09-02"
+  },
+  "123": {
+    "id": 123,
+    "order": "109.00000000000000000000",
+    "hit_id": "hit_hands_role__123",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-02",
+    "Last modified": "2024-09-02"
+  },
+  "124": {
+    "id": 124,
+    "order": "110.00000000000000000000",
+    "hit_id": "hit_hands_role__124",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-02",
+    "Last modified": "2024-09-02"
+  },
+  "125": {
+    "id": 125,
+    "order": "111.00000000000000000000",
+    "hit_id": "hit_hands_role__125",
+    "hand": [
+      {
+        "id": 83,
+        "value": "BSB, Clm. 6380_H. 1"
+      }
+    ],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-02",
+    "Last modified": "2024-09-02"
+  },
+  "126": {
+    "id": 126,
+    "order": "112.00000000000000000000",
+    "hit_id": "hit_hands_role__126",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-02",
+    "Last modified": "2024-09-02"
+  },
+  "127": {
+    "id": 127,
+    "order": "113.00000000000000000000",
+    "hit_id": "hit_hands_role__127",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-02",
+    "Last modified": "2024-09-02"
+  },
+  "128": {
+    "id": 128,
+    "order": "114.00000000000000000000",
+    "hit_id": "hit_hands_role__128",
+    "hand": [
+      {
+        "id": 84,
+        "value": "BSB, Clm. 6380_H. 2"
+      }
+    ],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-02",
+    "Last modified": "2024-09-02"
   }
 }

@@ -1027,5 +1027,41 @@
     },
     "Last modified": "2024-07-26T13:28:29.988028Z",
     "note": "\"In Salzburg in der 2. Hälfte des XI. Jahrhunderts, vermutlich zur Zeit des Erzbischofs Gebhard (1060-1088) oder des Erzbischofs Thiemo (1090-1101) geschrieben\"."
+  },
+  "32": {
+    "id": 32,
+    "order": "29.00000000000000000000",
+    "hit_id": "hit_dated__32",
+    "manuscript": [
+      {
+        "id": 23,
+        "value": "ÖNB, Cod. 371"
+      }
+    ],
+    "date": [
+      {
+        "id": 6,
+        "value": "9 Jh., erste Hälfte"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ],
+    "page": "121",
+    "preferred_date": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-09-03",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-09-03T13:08:08.996847Z",
+    "note": ""
   }
 }

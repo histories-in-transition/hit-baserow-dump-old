@@ -1006,6 +1006,211 @@
     "Last modified": "2024-07-26",
     "content_summary": null
   },
+  "23": {
+    "id": 23,
+    "order": "1.75000000000000000000",
+    "shelfmark": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 371"
+      }
+    ],
+    "hit_id": "hit_mansuscript__23",
+    "library": [
+      {
+        "id": 1,
+        "value": "ÖNB"
+      }
+    ],
+    "manuscripta_url": "https://manuscripta.at/?ID=9755",
+    "handschriftenportal_url": "",
+    "catalog_url": "http://data.onb.ac.at/rec/AC13957864",
+    "digi_url": "https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_9330751&order=1&view=SINGLE",
+    "idno": "Cod. 371",
+    "idno_former": "Salisb. 28",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "ÖNB",
+        "hit_id": "hit_org__1",
+        "gnd_url": "https://d-nb.info/gnd/2020893-5",
+        "library_full": "Österreichische Nationalbibliothek",
+        "library_website": "https://www.onb.ac.at/",
+        "settlement": [
+          {
+            "id": 6,
+            "order": "6.00000000000000000000",
+            "name": "Wien",
+            "geonames_url": "https://www.geonames.org/2761369/vienna.html",
+            "hit_id": "hit_place__6",
+            "wikidata_url": "",
+            "country": [
+              {
+                "id": 1,
+                "value": "Österreich"
+              }
+            ],
+            "Created by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Created on": "2024-07-03",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-07-09"
+          }
+        ],
+        "wikidata": "",
+        "Created by": {
+          "id": 3,
+          "name": "Peter Andorfer"
+        },
+        "Created on": "2024-06-04",
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-03"
+      }
+    ],
+    "extent": "228",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "history": "Der Mönch Perhthar schenkt die Handschrift vor dem Jahr 990 an Erzbischof Friedrich",
+    "bibliography": [],
+    "height": "335",
+    "width": "215",
+    "material_spec": "",
+    "orig_place": [
+      {
+        "id": 5,
+        "order": "5.00000000000000000000",
+        "name": "Saint-Amand-les-Eaux",
+        "geonames_url": "https://www.geonames.org/2981839/saint-amand-les-eaux.html",
+        "hit_id": "hit_place__5",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q334131",
+        "country": [
+          {
+            "id": 14,
+            "order": "2.50000000000000000000",
+            "name": "Frankreich",
+            "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+            "hit_id": "hit_place__14",
+            "wikidata_url": "",
+            "country": [],
+            "Created by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Created on": "2024-07-11",
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Created by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Created on": "2024-06-17",
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": {
+      "id": 14782,
+      "value": "parchment",
+      "color": "darker-orange"
+    },
+    "provenance": [],
+    "manuscripts_dated": [
+      {
+        "id": 32,
+        "order": "29.00000000000000000000",
+        "hit_id": "hit_dated__32",
+        "manuscript": [
+          {
+            "id": 23,
+            "value": "ÖNB, Cod. 371"
+          }
+        ],
+        "date": [
+          {
+            "id": 6,
+            "order": "6.00000000000000000000",
+            "label": "9 Jh., erste Hälfte",
+            "not_before": "0801-01-01",
+            "hit_id": "hit_date__6",
+            "not_after": "0850-12-31",
+            "Created by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Last modified by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Last modified": "2024-07-12"
+          }
+        ],
+        "authority": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "name": "Bischoff",
+            "short_title": "Die südostdeutschen Schreibschulen und Bibliotheken in der Karolingerzeit",
+            "zotero_id": ""
+          }
+        ],
+        "page": "121",
+        "preferred_date": false,
+        "Created by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Created on": "2024-09-03",
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-09-03T13:08:08.996847Z",
+        "note": ""
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 6,
+          "database_table_3516": 32
+        },
+        "value": "9 Jh., erste Hälfte"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-03",
+    "Last modified": "2024-09-03",
+    "content_summary": null
+  },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
@@ -5697,49 +5902,6 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-17",
-    "Last modified": "2024-07-18",
-    "content_summary": null
-  },
-  "23": {
-    "id": 23,
-    "order": "22.00000000000000000000",
-    "shelfmark": [],
-    "hit_id": "hit_mansuscript__23",
-    "library": [],
-    "manuscripta_url": "",
-    "handschriftenportal_url": "",
-    "catalog_url": "",
-    "digi_url": "",
-    "idno": "",
-    "idno_former": "",
-    "quire_structure": "",
-    "library_full": [],
-    "extent": "",
-    "foliation": "",
-    "acc_mat": "",
-    "binding": "",
-    "binding_date": [],
-    "history": "",
-    "bibliography": [],
-    "height": null,
-    "width": null,
-    "material_spec": "",
-    "orig_place": [],
-    "catchwords": "",
-    "quiremarks": "",
-    "material": null,
-    "provenance": [],
-    "manuscripts_dated": [],
-    "orig_dated": [],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-07-03",
     "Last modified": "2024-07-18",
     "content_summary": null
   },

@@ -6614,7 +6614,7 @@
     "scribe": [],
     "hit_id": "hit_hands__83",
     "similar_hands": [],
-    "nr_daniel": "",
+    "nr_daniel": "48",
     "manuscript": [
       {
         "id": 7,
@@ -6632,7 +6632,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-02",
+    "Last modified": "2024-09-03",
     "hands_role": [
       {
         "id": 125,
@@ -6666,7 +6666,7 @@
     "scribe": [],
     "hit_id": "hit_hands__84",
     "similar_hands": [],
-    "nr_daniel": "",
+    "nr_daniel": "48",
     "manuscript": [
       {
         "id": 7,
@@ -6684,7 +6684,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-02",
+    "Last modified": "2024-09-03",
     "hands_role": [
       {
         "id": 128,
@@ -6718,7 +6718,7 @@
     "scribe": [],
     "hit_id": "hit_hands__85",
     "similar_hands": [],
-    "nr_daniel": "",
+    "nr_daniel": "48",
     "manuscript": [
       {
         "id": 7,
@@ -6736,7 +6736,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-02",
+    "Last modified": "2024-09-03",
     "hands_role": [],
     "role": [],
     "texts": [],
@@ -6760,7 +6760,7 @@
     "scribe": [],
     "hit_id": "hit_hands__86",
     "similar_hands": [],
-    "nr_daniel": "",
+    "nr_daniel": "48",
     "manuscript": [
       {
         "id": 7,
@@ -6778,7 +6778,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-02",
+    "Last modified": "2024-09-03",
     "hands_role": [],
     "role": [],
     "texts": [],
@@ -6802,7 +6802,7 @@
     "scribe": [],
     "hit_id": "hit_hands__87",
     "similar_hands": [],
-    "nr_daniel": "",
+    "nr_daniel": "48",
     "manuscript": [
       {
         "id": 7,
@@ -6820,7 +6820,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-02",
+    "Last modified": "2024-09-03",
     "hands_role": [],
     "role": [],
     "texts": [],
@@ -6844,7 +6844,7 @@
     "scribe": [],
     "hit_id": "hit_hands__88",
     "similar_hands": [],
-    "nr_daniel": "",
+    "nr_daniel": "48",
     "manuscript": [
       {
         "id": 7,
@@ -6862,7 +6862,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-02",
+    "Last modified": "2024-09-03",
     "hands_role": [],
     "role": [],
     "texts": [],
@@ -6886,7 +6886,7 @@
     "scribe": [],
     "hit_id": "hit_hands__89",
     "similar_hands": [],
-    "nr_daniel": "",
+    "nr_daniel": "48",
     "manuscript": [
       {
         "id": 7,
@@ -6904,7 +6904,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-02",
+    "Last modified": "2024-09-03",
     "hands_role": [],
     "role": [],
     "texts": [],
@@ -6928,7 +6928,7 @@
     "scribe": [],
     "hit_id": "hit_hands__90",
     "similar_hands": [],
-    "nr_daniel": "",
+    "nr_daniel": "48",
     "manuscript": [
       {
         "id": 7,
@@ -6946,7 +6946,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-02",
+    "Last modified": "2024-09-03",
     "hands_role": [],
     "role": [],
     "texts": [],
@@ -6970,7 +6970,7 @@
     "scribe": [],
     "hit_id": "hit_hands__91",
     "similar_hands": [],
-    "nr_daniel": "",
+    "nr_daniel": "48",
     "manuscript": [
       {
         "id": 7,
@@ -6988,9 +6988,103 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-02",
+    "Last modified": "2024-09-03",
     "hands_role": [],
     "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": []
+  },
+  "92": {
+    "id": 92,
+    "order": "84.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 8,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6375_H. 1"
+      }
+    ],
+    "description": "\"dünner, zitteriger Duktus\", senile Hand, entwickelte Minuskel mit einigen altertünlichen Eigenshaften (Bischoff, I, 147)",
+    "scribe": [],
+    "hit_id": "hit_hands__92",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 8,
+        "value": "BSB, Clm. 6375"
+      }
+    ],
+    "number": "1",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-03",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": []
+  },
+  "93": {
+    "id": 93,
+    "order": "85.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 8,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6375_H. 2"
+      }
+    ],
+    "description": "\"schlanke, nach links neigende Hand\" (Bischoff, I, 147)",
+    "scribe": [],
+    "hit_id": "hit_hands__93",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 8,
+        "value": "BSB, Clm. 6375"
+      }
+    ],
+    "number": "2",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-03",
+    "hands_role": [
+      {
+        "id": 129,
+        "value": "hit_hands_role__129"
+      }
+    ],
+    "role": [
+      {
+        "id": 129,
+        "value": []
+      }
+    ],
     "texts": [],
     "hands_dated": [],
     "dating": [],

@@ -1474,10 +1474,80 @@
     "role": [
       {
         "id": 121,
-        "value": []
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
       }
     ],
-    "texts": [],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 17,
+          "database_table_3491": 18
+        },
+        "value": "Vita sancti Martini"
+      },
+      {
+        "ids": {
+          "database_table_3489": 18,
+          "database_table_3491": 19
+        },
+        "value": "Epistulae"
+      },
+      {
+        "ids": {
+          "database_table_3489": 19,
+          "database_table_3491": 20
+        },
+        "value": "Dialogi"
+      },
+      {
+        "ids": {
+          "database_table_3489": 21,
+          "database_table_3491": 23
+        },
+        "value": "Tituli metrici de sancto Martino"
+      },
+      {
+        "ids": {
+          "database_table_3489": 22,
+          "database_table_3491": 79
+        },
+        "value": "De basilica sancti Martini et sollemnitatibus"
+      },
+      {
+        "ids": {
+          "database_table_3489": 74,
+          "database_table_3491": 22
+        },
+        "value": "Vita sancti Bricii"
+      },
+      {
+        "ids": {
+          "database_table_3489": 23,
+          "database_table_3491": 24
+        },
+        "value": "Confessio sancti Martini"
+      },
+      {
+        "ids": {
+          "database_table_3489": 24,
+          "database_table_3491": 25
+        },
+        "value": "Miraculum de puella ab ortu nativitatis suae muta et surda"
+      },
+      {
+        "ids": {
+          "database_table_3489": 60,
+          "database_table_3491": 21
+        },
+        "value": "Miracula sancti Martini"
+      }
+    ],
     "hands_dated": [
       {
         "id": 13,
@@ -1553,10 +1623,6 @@
       {
         "id": 16,
         "value": "hit_hands_dated__16"
-      },
-      {
-        "id": 17,
-        "value": "hit_hands_dated__17"
       }
     ],
     "dating": [],
@@ -1705,7 +1771,12 @@
         "value": "Historiae adversus paganos"
       }
     ],
-    "hands_dated": [],
+    "hands_dated": [
+      {
+        "id": 17,
+        "value": "hit_hands_dated__17"
+      }
+    ],
     "dating": [],
     "hands_placed": []
   },
@@ -6642,12 +6713,39 @@
     "role": [
       {
         "id": 125,
-        "value": []
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
       }
     ],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 31
+        },
+        "value": "Historiae adversus paganos"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 74,
+        "value": "hit_hands_dated__74"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 3,
+          "database_table_3520": 74
+        },
+        "value": "9 Jh., Mitte"
+      }
+    ],
     "hands_placed": []
   },
   "84": {
@@ -6694,12 +6792,39 @@
     "role": [
       {
         "id": 128,
-        "value": []
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
       }
     ],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 31
+        },
+        "value": "Historiae adversus paganos"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 75,
+        "value": "hit_hands_dated__75"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 3,
+          "database_table_3520": 75
+        },
+        "value": "9 Jh., Mitte"
+      }
+    ],
     "hands_placed": []
   },
   "85": {
@@ -6737,11 +6862,48 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-03",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
+    "hands_role": [
+      {
+        "id": 131,
+        "value": "hit_hands_role__131"
+      }
+    ],
+    "role": [
+      {
+        "id": 131,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 31
+        },
+        "value": "Historiae adversus paganos"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 76,
+        "value": "hit_hands_dated__76"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 3,
+          "database_table_3520": 76
+        },
+        "value": "9 Jh., Mitte"
+      }
+    ],
     "hands_placed": []
   },
   "86": {
@@ -6779,11 +6941,48 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-03",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
+    "hands_role": [
+      {
+        "id": 132,
+        "value": "hit_hands_role__132"
+      }
+    ],
+    "role": [
+      {
+        "id": 132,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 31
+        },
+        "value": "Historiae adversus paganos"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 77,
+        "value": "hit_hands_dated__77"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 3,
+          "database_table_3520": 77
+        },
+        "value": "9 Jh., Mitte"
+      }
+    ],
     "hands_placed": []
   },
   "87": {
@@ -6821,11 +7020,48 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-03",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
+    "hands_role": [
+      {
+        "id": 133,
+        "value": "hit_hands_role__133"
+      }
+    ],
+    "role": [
+      {
+        "id": 133,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 31
+        },
+        "value": "Historiae adversus paganos"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 78,
+        "value": "hit_hands_dated__78"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 3,
+          "database_table_3520": 78
+        },
+        "value": "9 Jh., Mitte"
+      }
+    ],
     "hands_placed": []
   },
   "88": {
@@ -6863,11 +7099,48 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-03",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
+    "hands_role": [
+      {
+        "id": 134,
+        "value": "hit_hands_role__134"
+      }
+    ],
+    "role": [
+      {
+        "id": 134,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 31
+        },
+        "value": "Historiae adversus paganos"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 79,
+        "value": "hit_hands_dated__79"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 3,
+          "database_table_3520": 79
+        },
+        "value": "9 Jh., Mitte"
+      }
+    ],
     "hands_placed": []
   },
   "89": {
@@ -6905,11 +7178,48 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-03",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
+    "hands_role": [
+      {
+        "id": 135,
+        "value": "hit_hands_role__135"
+      }
+    ],
+    "role": [
+      {
+        "id": 135,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 31
+        },
+        "value": "Historiae adversus paganos"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 80,
+        "value": "hit_hands_dated__80"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 3,
+          "database_table_3520": 80
+        },
+        "value": "9 Jh., Mitte"
+      }
+    ],
     "hands_placed": []
   },
   "90": {
@@ -6947,11 +7257,48 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-03",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
+    "hands_role": [
+      {
+        "id": 138,
+        "value": "hit_hands_role__138"
+      }
+    ],
+    "role": [
+      {
+        "id": 138,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 28,
+          "database_table_3491": 32
+        },
+        "value": "De septem gradibus consanguinitatis"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 81,
+        "value": "hit_hands_dated__81"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 3,
+          "database_table_3520": 81
+        },
+        "value": "9 Jh., Mitte"
+      }
+    ],
     "hands_placed": []
   },
   "91": {
@@ -7031,9 +7378,54 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-03",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
+    "hands_role": [
+      {
+        "id": 139,
+        "value": "hit_hands_role__139"
+      }
+    ],
+    "role": [
+      {
+        "id": 139,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 25,
+          "database_table_3491": 26
+        },
+        "value": "De orthographia"
+      },
+      {
+        "ids": {
+          "database_table_3489": 25,
+          "database_table_3491": 29
+        },
+        "value": "De orthographia"
+      },
+      {
+        "ids": {
+          "database_table_3489": 26,
+          "database_table_3491": 27
+        },
+        "value": "Corpus juris civilis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 29,
+          "database_table_3491": 28
+        },
+        "value": "Historia ecclesiastica cum Rufini continuatione"
+      }
+    ],
     "hands_dated": [],
     "dating": [],
     "hands_placed": []
@@ -7082,6 +7474,708 @@
     "role": [
       {
         "id": 129,
+        "value": [
+          {
+            "id": 14760,
+            "value": "corrector",
+            "color": "darker-blue"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 29,
+          "database_table_3491": 28
+        },
+        "value": "Historia ecclesiastica cum Rufini continuatione"
+      }
+    ],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": []
+  },
+  "94": {
+    "id": 94,
+    "order": "86.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 9,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6381_H. 1"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__94",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 9,
+        "value": "BSB, Clm. 6381"
+      }
+    ],
+    "number": "1",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-04",
+    "hands_role": [
+      {
+        "id": 118,
+        "value": "hit_hands_role__118"
+      }
+    ],
+    "role": [
+      {
+        "id": 118,
+        "value": []
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 29,
+          "database_table_3491": 33
+        },
+        "value": "Historia ecclesiastica cum Rufini continuatione"
+      }
+    ],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": []
+  },
+  "95": {
+    "id": 95,
+    "order": "87.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 9,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6381_H. 2"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__95",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 9,
+        "value": "BSB, Clm. 6381"
+      }
+    ],
+    "number": "2",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-04",
+    "hands_role": [
+      {
+        "id": 119,
+        "value": "hit_hands_role__119"
+      }
+    ],
+    "role": [
+      {
+        "id": 119,
+        "value": []
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 29,
+          "database_table_3491": 33
+        },
+        "value": "Historia ecclesiastica cum Rufini continuatione"
+      }
+    ],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": []
+  },
+  "96": {
+    "id": 96,
+    "order": "88.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 1"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__96",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "number": "1",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-04",
+    "hands_role": [
+      {
+        "id": 120,
+        "value": "hit_hands_role__120"
+      }
+    ],
+    "role": [
+      {
+        "id": 120,
+        "value": []
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 41,
+          "database_table_3491": 34
+        },
+        "value": "Vita sanctae Euphrosinae"
+      }
+    ],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": []
+  },
+  "97": {
+    "id": 97,
+    "order": "89.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 2"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__97",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "number": "2",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-04",
+    "hands_role": [
+      {
+        "id": 122,
+        "value": "hit_hands_role__122"
+      }
+    ],
+    "role": [
+      {
+        "id": 122,
+        "value": []
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 42,
+          "database_table_3491": 35
+        },
+        "value": "Synonyma"
+      }
+    ],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": []
+  },
+  "98": {
+    "id": 98,
+    "order": "90.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 3"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__98",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "number": "3",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-04",
+    "hands_role": [
+      {
+        "id": 123,
+        "value": "hit_hands_role__123"
+      }
+    ],
+    "role": [
+      {
+        "id": 123,
+        "value": []
+      }
+    ],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": []
+  },
+  "99": {
+    "id": 99,
+    "order": "91.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 4"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__99",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "number": "4",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-04",
+    "hands_role": [
+      {
+        "id": 124,
+        "value": "hit_hands_role__124"
+      }
+    ],
+    "role": [
+      {
+        "id": 124,
+        "value": []
+      }
+    ],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": []
+  },
+  "100": {
+    "id": 100,
+    "order": "92.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 11,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6383_H. 1"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__100",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383"
+      }
+    ],
+    "number": "1",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-04",
+    "hands_role": [
+      {
+        "id": 126,
+        "value": "hit_hands_role__126"
+      }
+    ],
+    "role": [
+      {
+        "id": 126,
+        "value": []
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 29,
+          "database_table_3491": 47
+        },
+        "value": "Historia ecclesiastica cum Rufini continuatione"
+      }
+    ],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": []
+  },
+  "101": {
+    "id": 101,
+    "order": "93.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 12,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6388_H. 1"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__101",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 12,
+        "value": "BSB, Clm. 6388"
+      }
+    ],
+    "number": "1",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-04",
+    "hands_role": [
+      {
+        "id": 127,
+        "value": "hit_hands_role__127"
+      }
+    ],
+    "role": [
+      {
+        "id": 127,
+        "value": []
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 30,
+          "database_table_3491": 48
+        },
+        "value": "Historia Ottonis"
+      }
+    ],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": []
+  },
+  "102": {
+    "id": 102,
+    "order": "94.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 12,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6388_H. 2"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__102",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 12,
+        "value": "BSB, Clm. 6388"
+      }
+    ],
+    "number": "2",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-04",
+    "hands_role": [
+      {
+        "id": 130,
+        "value": "hit_hands_role__130"
+      },
+      {
+        "id": 136,
+        "value": "hit_hands_role__136"
+      }
+    ],
+    "role": [
+      {
+        "id": 130,
+        "value": []
+      },
+      {
+        "id": 136,
+        "value": []
+      }
+    ],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": []
+  },
+  "103": {
+    "id": 103,
+    "order": "95.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 13,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6391_H. 1"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__103",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 13,
+        "value": "BSB, Clm. 6391"
+      }
+    ],
+    "number": "1",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-04",
+    "hands_role": [
+      {
+        "id": 137,
+        "value": "hit_hands_role__137"
+      }
+    ],
+    "role": [
+      {
+        "id": 137,
+        "value": []
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 33,
+          "database_table_3491": 52
+        },
+        "value": "Historia Langobardorum"
+      }
+    ],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": []
+  },
+  "104": {
+    "id": 104,
+    "order": "96.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 13,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6391_H. 2"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__104",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 13,
+        "value": "BSB, Clm. 6391"
+      }
+    ],
+    "number": "2",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-04",
+    "hands_role": [
+      {
+        "id": 140,
+        "value": "hit_hands_role__140"
+      }
+    ],
+    "role": [
+      {
+        "id": 140,
+        "value": []
+      }
+    ],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": []
+  },
+  "105": {
+    "id": 105,
+    "order": "97.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 13,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6391_H. 3"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__105",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 13,
+        "value": "BSB, Clm. 6391"
+      }
+    ],
+    "number": "3",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-04",
+    "hands_role": [
+      {
+        "id": 141,
+        "value": "hit_hands_role__141"
+      }
+    ],
+    "role": [
+      {
+        "id": 141,
         "value": []
       }
     ],

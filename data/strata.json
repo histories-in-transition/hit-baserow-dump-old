@@ -25052,7 +25052,7 @@
             "siglum": "",
             "hit_id": "hit_ms_items__82",
             "filiation": [],
-            "locus_grp": "20v; 21r; 98v (?)",
+            "locus_grp": "20v | 21r | 98v (?)",
             "hands_role": [
               {
                 "id": 34,
@@ -25090,7 +25090,7 @@
                 "locus_text": [
                   {
                     "id": 82,
-                    "value": "20v; 21r; 98v (?)"
+                    "value": "20v | 21r | 98v (?)"
                   }
                 ],
                 "Last modified by": {
@@ -26219,15 +26219,15 @@
                 "Last modified": "2024-07-01"
               }
             ],
-            "Last modified": "2024-07-15",
+            "Last modified": "2024-09-06",
             "Created on": "2024-07-15",
             "Created by": {
               "id": 86,
               "name": "Leon Pürstinger"
             },
             "Last modified by": {
-              "id": 86,
-              "name": "Leon Pürstinger"
+              "id": 36,
+              "name": "Ivana Dobcheva"
             },
             "note": "Laut Thurn und Bischoff u.a. Namen der Siebenschläfer)",
             "hand": [
@@ -26263,7 +26263,7 @@
         "locus_text": [
           {
             "id": 82,
-            "value": "20v; 21r; 98v (?)"
+            "value": "20v | 21r | 98v (?)"
           }
         ],
         "Last modified by": {
@@ -26324,7 +26324,7 @@
       },
       {
         "id": 82,
-        "value": "20v; 21r; 98v (?)"
+        "value": "20v | 21r | 98v (?)"
       }
     ],
     "note": "Diese Stratum markiert die Zusätze eines einzelnen Schreibers aus dem 10. Jahrhundert, der am unteren Rand der großen Ostertafel und Bedas De tempore ratione diverse Rezepte und abergläubische Segen einfügt.",
@@ -43249,7 +43249,7 @@
                 "Last modified": "2024-07-26"
               }
             ],
-            "title_note": "bis 1147: Nr. 4, 5, 6; vor 1140: Nr. 7a; um 1127: Nr. 8",
+            "title_note": "Nr. 4, 5, 6 (bis 1147); Nr. 7a (vor 1140); Nr. 8 (um 1127)",
             "bibl": [],
             "final_rubric": "",
             "siglum": "",
@@ -43392,7 +43392,7 @@
                 "Last modified": "2024-07-26"
               }
             ],
-            "Last modified": "2024-07-31",
+            "Last modified": "2024-09-06",
             "Created on": "2024-07-26",
             "Created by": {
               "id": 86,

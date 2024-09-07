@@ -14726,7 +14726,7 @@
     "siglum": "",
     "hit_id": "hit_ms_items__69",
     "filiation": [],
-    "locus_grp": "107v; 117v",
+    "locus_grp": "107v | 117v",
     "hands_role": [
       {
         "id": 102,
@@ -14764,7 +14764,7 @@
         "locus_text": [
           {
             "id": 69,
-            "value": "107v; 117v"
+            "value": "107v | 117v"
           }
         ],
         "Last modified by": {
@@ -15395,15 +15395,15 @@
         "Last modified": "2024-07-11"
       }
     ],
-    "Last modified": "2024-07-29",
+    "Last modified": "2024-09-06",
     "Created on": "2024-07-11",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
     "note": "",
     "hand": [
@@ -57872,7 +57872,7 @@
     "siglum": "",
     "hit_id": "hit_ms_items__82",
     "filiation": [],
-    "locus_grp": "20v; 21r; 98v (?)",
+    "locus_grp": "20v | 21r | 98v (?)",
     "hands_role": [
       {
         "id": 34,
@@ -57910,7 +57910,7 @@
         "locus_text": [
           {
             "id": 82,
-            "value": "20v; 21r; 98v (?)"
+            "value": "20v | 21r | 98v (?)"
           }
         ],
         "Last modified by": {
@@ -59039,15 +59039,15 @@
         "Last modified": "2024-07-01"
       }
     ],
-    "Last modified": "2024-07-15",
+    "Last modified": "2024-09-06",
     "Created on": "2024-07-15",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
     "note": "Laut Thurn und Bischoff u.a. Namen der Siebenschläfer)",
     "hand": [
@@ -69238,7 +69238,7 @@
     "siglum": "",
     "hit_id": "hit_ms_items__100",
     "filiation": [],
-    "locus_grp": "1r, 3r",
+    "locus_grp": "1r | 3r",
     "hands_role": [
       {
         "id": 60,
@@ -69276,7 +69276,7 @@
         "locus_text": [
           {
             "id": 100,
-            "value": "1r, 3r"
+            "value": "1r | 3r"
           }
         ],
         "Last modified by": {
@@ -70841,15 +70841,15 @@
         "Last modified": "2024-07-26"
       }
     ],
-    "Last modified": "2024-07-25",
+    "Last modified": "2024-09-06",
     "Created on": "2024-07-20",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
     "note": "Nachträge aus dem 10. Jh.",
     "hand": [
@@ -82219,7 +82219,7 @@
     "siglum": "",
     "hit_id": "hit_ms_items__104",
     "filiation": [],
-    "locus_grp": "7r, 9v, 10r, 10v, 11r, 15r, 15v",
+    "locus_grp": "7r|9v|10r| 10v| 11r| 15r | 15v",
     "hands_role": [
       {
         "id": 45,
@@ -82257,7 +82257,7 @@
         "locus_text": [
           {
             "id": 104,
-            "value": "7r, 9v, 10r, 10v, 11r, 15r, 15v"
+            "value": "7r|9v|10r| 10v| 11r| 15r | 15v"
           }
         ],
         "Last modified by": {
@@ -82309,7 +82309,7 @@
         "locus_text": [
           {
             "id": 104,
-            "value": "7r, 9v, 10r, 10v, 11r, 15r, 15v"
+            "value": "7r|9v|10r| 10v| 11r| 15r | 15v"
           }
         ],
         "Last modified by": {
@@ -82361,7 +82361,7 @@
         "locus_text": [
           {
             "id": 104,
-            "value": "7r, 9v, 10r, 10v, 11r, 15r, 15v"
+            "value": "7r|9v|10r| 10v| 11r| 15r | 15v"
           }
         ],
         "Last modified by": {
@@ -83926,15 +83926,15 @@
         "Last modified": "2024-07-26"
       }
     ],
-    "Last modified": "2024-07-25",
+    "Last modified": "2024-09-06",
     "Created on": "2024-07-20",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
     "note": "164v auf Baldo überprüfen.",
     "hand": [
@@ -98455,7 +98455,7 @@
         "Last modified": "2024-07-26"
       }
     ],
-    "title_note": "bis 1147: Nr. 4, 5, 6; vor 1140: Nr. 7a; um 1127: Nr. 8",
+    "title_note": "Nr. 4, 5, 6 (bis 1147); Nr. 7a (vor 1140); Nr. 8 (um 1127)",
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
@@ -98598,7 +98598,7 @@
         "Last modified": "2024-07-26"
       }
     ],
-    "Last modified": "2024-07-31",
+    "Last modified": "2024-09-06",
     "Created on": "2024-07-26",
     "Created by": {
       "id": 86,
@@ -105806,7 +105806,7 @@
         "Last modified": "2024-07-28"
       }
     ],
-    "title_note": "",
+    "title_note": "Nr- 3 (wohl 1121/1122)",
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
@@ -105891,7 +105891,7 @@
         "Last modified": "2024-07-26"
       }
     ],
-    "Last modified": "2024-08-02",
+    "Last modified": "2024-09-06",
     "Created on": "2024-07-28",
     "Created by": {
       "id": 86,
@@ -106261,7 +106261,7 @@
         "Last modified": "2024-07-26"
       }
     ],
-    "title_note": "homo N. Stachar tradidit",
+    "title_note": "Nr. 9 (1122-1147)",
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
@@ -106346,7 +106346,7 @@
         "Last modified": "2024-07-26"
       }
     ],
-    "Last modified": "2024-07-28",
+    "Last modified": "2024-09-06",
     "Created on": "2024-07-28",
     "Created by": {
       "id": 86,
@@ -107273,7 +107273,7 @@
         "Last modified": "2024-07-26"
       }
     ],
-    "title_note": "Traditio Friderici filii comitis Epponis, qua villa S. Udalrici in possessionem canonicorum S. Petri et Ruperti Salisburgi venit.... 25. April 1058",
+    "title_note": "Nr. 1 (1058)",
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
@@ -107416,7 +107416,7 @@
         "Last modified": "2024-07-26"
       }
     ],
-    "Last modified": "2024-07-28",
+    "Last modified": "2024-09-06",
     "Created on": "2024-07-28",
     "Created by": {
       "id": 86,
@@ -113056,9 +113056,141 @@
     "decoration": [],
     "facs_url": ""
   },
+  "154": {
+    "id": 154,
+    "order": "136.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__154",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-09-06",
+    "Created on": "2024-09-06",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": ""
+  },
+  "155": {
+    "id": 155,
+    "order": "137.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__155",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-09-06",
+    "Created on": "2024-09-06",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": ""
+  },
+  "156": {
+    "id": 156,
+    "order": "138.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__156",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-09-06",
+    "Created on": "2024-09-06",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": ""
+  },
+  "157": {
+    "id": 157,
+    "order": "139.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__157",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-09-06",
+    "Created on": "2024-09-06",
+    "Created by": {
+      "id": 96,
+      "name": "Jesper van der Most"
+    },
+    "Last modified by": {
+      "id": 96,
+      "name": "Jesper van der Most"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": ""
+  },
   "153": {
     "id": 153,
-    "order": "135.00000000000000000000",
+    "order": "140.00000000000000000000",
     "label": [
       {
         "id": 21,
@@ -113420,7 +113552,7 @@
     "locus_grp": "98r",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-09-02",
+    "Last modified": "2024-09-06",
     "Created on": "2024-09-02",
     "Created by": {
       "id": 86,

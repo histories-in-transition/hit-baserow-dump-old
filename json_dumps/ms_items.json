@@ -7556,7 +7556,7 @@
         "value": "Traditionsnotizen des Salzburger Domstiftes"
       }
     ],
-    "title_note": "Nr. 1 (1058)",
+    "title_note": "Nr. 1 (1058); Nr. 10 (1122-1147)",
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
@@ -7575,15 +7575,15 @@
         "value": "ÖNB, Cod. 2090, cod. unit 1"
       }
     ],
-    "Last modified": "2024-09-06",
+    "Last modified": "2024-09-11",
     "Created on": "2024-07-28",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 96,
+      "name": "Jesper van der Most"
     },
     "note": "11. Jh. noch",
     "hand": [
@@ -7732,7 +7732,7 @@
         "value": "Traditionsnotizen des Salzburger Domstiftes"
       }
     ],
-    "title_note": "nach 1122: Nr. 11",
+    "title_note": "Nr. 11 (nach 1122)",
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
@@ -7746,15 +7746,15 @@
         "value": "ÖNB, Cod. 2090, cod. unit 1"
       }
     ],
-    "Last modified": "2024-08-26",
+    "Last modified": "2024-09-11",
     "Created on": "2024-08-26",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 96,
+      "name": "Jesper van der Most"
     },
     "note": "",
     "hand": [],
@@ -8567,39 +8567,6 @@
     "decoration": [],
     "facs_url": ""
   },
-  "159": {
-    "id": 159,
-    "order": "141.00000000000000000000",
-    "label": [],
-    "manuscript": [],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [],
-    "title_note": "",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__159",
-    "filiation": [],
-    "locus_grp": "",
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-09-09",
-    "Created on": "2024-09-09",
-    "Created by": {
-      "id": 96,
-      "name": "Jesper van der Most"
-    },
-    "Last modified by": {
-      "id": 96,
-      "name": "Jesper van der Most"
-    },
-    "note": "",
-    "hand": [],
-    "decoration": [],
-    "facs_url": ""
-  },
   "160": {
     "id": 160,
     "order": "142.00000000000000000000",
@@ -8696,72 +8663,6 @@
     "decoration": [],
     "facs_url": ""
   },
-  "162": {
-    "id": 162,
-    "order": "144.00000000000000000000",
-    "label": [],
-    "manuscript": [],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [],
-    "title_note": "",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__162",
-    "filiation": [],
-    "locus_grp": "",
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-09-09",
-    "Created on": "2024-09-09",
-    "Created by": {
-      "id": 96,
-      "name": "Jesper van der Most"
-    },
-    "Last modified by": {
-      "id": 96,
-      "name": "Jesper van der Most"
-    },
-    "note": "",
-    "hand": [],
-    "decoration": [],
-    "facs_url": ""
-  },
-  "163": {
-    "id": 163,
-    "order": "145.00000000000000000000",
-    "label": [],
-    "manuscript": [],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [],
-    "title_note": "",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__163",
-    "filiation": [],
-    "locus_grp": "",
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-09-09",
-    "Created on": "2024-09-09",
-    "Created by": {
-      "id": 96,
-      "name": "Jesper van der Most"
-    },
-    "Last modified by": {
-      "id": 96,
-      "name": "Jesper van der Most"
-    },
-    "note": "",
-    "hand": [],
-    "decoration": [],
-    "facs_url": ""
-  },
   "164": {
     "id": 164,
     "order": "146.00000000000000000000",
@@ -8806,39 +8707,6 @@
       "name": "Jesper van der Most"
     },
     "note": "wohl Hand 12. Jh.",
-    "hand": [],
-    "decoration": [],
-    "facs_url": ""
-  },
-  "165": {
-    "id": 165,
-    "order": "147.00000000000000000000",
-    "label": [],
-    "manuscript": [],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [],
-    "title_note": "",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__165",
-    "filiation": [],
-    "locus_grp": "",
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-09-09",
-    "Created on": "2024-09-09",
-    "Created by": {
-      "id": 96,
-      "name": "Jesper van der Most"
-    },
-    "Last modified by": {
-      "id": 96,
-      "name": "Jesper van der Most"
-    },
-    "note": "",
     "hand": [],
     "decoration": [],
     "facs_url": ""
@@ -8922,39 +8790,6 @@
     "hit_id": "hit_ms_items__167",
     "filiation": [],
     "locus_grp": "94v",
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-09-09",
-    "Created on": "2024-09-09",
-    "Created by": {
-      "id": 96,
-      "name": "Jesper van der Most"
-    },
-    "Last modified by": {
-      "id": 96,
-      "name": "Jesper van der Most"
-    },
-    "note": "",
-    "hand": [],
-    "decoration": [],
-    "facs_url": ""
-  },
-  "168": {
-    "id": 168,
-    "order": "150.00000000000000000000",
-    "label": [],
-    "manuscript": [],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [],
-    "title_note": "",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__168",
-    "filiation": [],
-    "locus_grp": "",
     "hands_role": [],
     "cod_unit": [],
     "Last modified": "2024-09-09",
@@ -9140,7 +8975,7 @@
         "value": "Traditionsnotizen des Salzburger Domstiftes"
       }
     ],
-    "title_note": "Nr. 44, 45, 46, 47, 48, 49, 50 (1122-1147); Nr. 51a (um 1146 Mai)",
+    "title_note": "Nr. 44, 45, 46, 47, 48, 49, 50 (1122-1147)",
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
@@ -9149,7 +8984,7 @@
     "locus_grp": "96v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-09-09",
+    "Last modified": "2024-09-11",
     "Created on": "2024-09-09",
     "Created by": {
       "id": 96,
@@ -9159,7 +8994,55 @@
       "id": 96,
       "name": "Jesper van der Most"
     },
-    "note": "Nr. 51a 96v-97r",
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": ""
+  },
+  "177": {
+    "id": 177,
+    "order": "154.50000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__177"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 103,
+        "value": "Traditionsnotizen des Salzburger Domstiftes"
+      }
+    ],
+    "title_note": "Nr.51a (um 1146 Mai)",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__177",
+    "filiation": [],
+    "locus_grp": "96v-97r",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-09-11",
+    "Created on": "2024-09-11",
+    "Created by": {
+      "id": 96,
+      "name": "Jesper van der Most"
+    },
+    "Last modified by": {
+      "id": 96,
+      "name": "Jesper van der Most"
+    },
+    "note": "",
     "hand": [],
     "decoration": [],
     "facs_url": ""
@@ -9188,7 +9071,7 @@
         "value": "Traditionsnotizen des Salzburger Domstiftes"
       }
     ],
-    "title_note": "Nr. 51a (um 1146 Mai); Nr. 52, 53a+b, 54, 55 (1122-1147); Nr. 56 (um 1147)",
+    "title_note": "Nr. 52, 53a+b, 54, 55 (1122-1147); Nr. 56 (um 1147)",
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
@@ -9197,7 +9080,7 @@
     "locus_grp": "97r",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-09-09",
+    "Last modified": "2024-09-11",
     "Created on": "2024-09-09",
     "Created by": {
       "id": 96,
@@ -9207,7 +9090,7 @@
       "id": 96,
       "name": "Jesper van der Most"
     },
-    "note": "Nr. 51a 96v-97r; ähnlich wie Briefe, also 2. Hälfte des 12. Jahrhunderts",
+    "note": "Nr. 56 ähnlich wie Briefe, also 2. Hälfte des 12. Jahrhunderts",
     "hand": [],
     "decoration": [],
     "facs_url": ""
@@ -9332,7 +9215,7 @@
         "value": "Traditionsnotizen des Salzburger Domstiftes"
       }
     ],
-    "title_note": "Nr. 187 (1170 February 22); Nr. 188 (same?)",
+    "title_note": "Nr. 187, 188 (1170 February 22)",
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
@@ -9341,7 +9224,7 @@
     "locus_grp": "98v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-09-09",
+    "Last modified": "2024-09-11",
     "Created on": "2024-09-09",
     "Created by": {
       "id": 96,

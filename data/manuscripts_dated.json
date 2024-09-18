@@ -1303,9 +1303,57 @@
     "id": 28,
     "order": "25.00000000000000000000",
     "hit_id": "hit_dated__28",
-    "manuscript": [],
-    "date": [],
-    "authority": [],
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "date": [
+      {
+        "id": 51,
+        "order": "51.00000000000000000000",
+        "label": "8 Jh., drittes Viertel",
+        "not_before": "0750-01-01",
+        "hit_id": "hit_date__51",
+        "not_after": "0774-12-31",
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-09-17"
+      },
+      {
+        "id": 52,
+        "order": "52.00000000000000000000",
+        "label": "9 Jh.",
+        "not_before": "0800-01-01",
+        "hit_id": "hit_date__52",
+        "not_after": "0899-12-31",
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-09-17"
+      }
+    ],
+    "authority": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "name": "Glauche",
+        "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+        "zotero_id": ""
+      }
+    ],
     "page": "",
     "preferred_date": false,
     "Created by": {
@@ -1317,7 +1365,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-22T15:54:27.418737Z",
+    "Last modified": "2024-09-17T12:05:00.300681Z",
     "note": ""
   },
   "29": {
@@ -1532,9 +1580,57 @@
     "id": 33,
     "order": "30.00000000000000000000",
     "hit_id": "hit_dated__33",
-    "manuscript": [],
-    "date": [],
-    "authority": [],
+    "manuscript": [
+      {
+        "id": 19,
+        "value": "BSB, Clm. 6341"
+      }
+    ],
+    "date": [
+      {
+        "id": 49,
+        "order": "49.00000000000000000000",
+        "label": "um 9. Jh., drittes Drittel",
+        "not_before": "0866-01-01",
+        "hit_id": "hit_date__49",
+        "not_after": "0899-12-31",
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-09-17"
+      },
+      {
+        "id": 50,
+        "order": "50.00000000000000000000",
+        "label": "9/10 Jh.",
+        "not_before": "0800-01-01",
+        "hit_id": "hit_date__50",
+        "not_after": "0999-12-31",
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-09-17"
+      }
+    ],
+    "authority": [
+      {
+        "id": 3,
+        "order": "3.00000000000000000000",
+        "name": "Glauche",
+        "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+        "zotero_id": ""
+      }
+    ],
     "page": "",
     "preferred_date": false,
     "Created by": {
@@ -1543,10 +1639,10 @@
     },
     "Created on": "2024-09-06",
     "Last modified by": {
-      "id": 96,
-      "name": "Jesper van der Most"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-06T11:06:54.901975Z",
+    "Last modified": "2024-09-17T11:39:14.198525Z",
     "note": ""
   }
 }

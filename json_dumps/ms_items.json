@@ -8134,6 +8134,54 @@
     ],
     "facs_url": ""
   },
+  "161": {
+    "id": 161,
+    "order": "129.50000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__161"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 103,
+        "value": "Traditionsnotizen des Salzburger Domstiftes"
+      }
+    ],
+    "title_note": "Nr. 13, 14 (um 1139)",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": null,
+    "filiation": [],
+    "locus_grp": "93r",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-09-17",
+    "Created on": "2024-09-09",
+    "Created by": {
+      "id": 96,
+      "name": "Jesper van der Most"
+    },
+    "Last modified by": {
+      "id": 96,
+      "name": "Jesper van der Most"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": ""
+  },
   "149": {
     "id": 149,
     "order": "130.00000000000000000000",
@@ -8178,6 +8226,54 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": ""
+  },
+  "164": {
+    "id": 164,
+    "order": "130.50000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__164"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 103,
+        "value": "Traditionsnotizen des Salzburger Domstiftes"
+      }
+    ],
+    "title_note": "Nr. 2 (1080 Juli 18)",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": null,
+    "filiation": [],
+    "locus_grp": "93v",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-09-17",
+    "Created on": "2024-09-09",
+    "Created by": {
+      "id": 96,
+      "name": "Jesper van der Most"
+    },
+    "Last modified by": {
+      "id": 96,
+      "name": "Jesper van der Most"
+    },
+    "note": "wohl Hand 12. Jh.",
     "hand": [],
     "decoration": [],
     "facs_url": ""
@@ -8611,102 +8707,6 @@
       "name": "Jesper van der Most"
     },
     "note": "",
-    "hand": [],
-    "decoration": [],
-    "facs_url": ""
-  },
-  "161": {
-    "id": 161,
-    "order": "143.00000000000000000000",
-    "label": [
-      {
-        "id": 21,
-        "value": "cod_2090__161"
-      }
-    ],
-    "manuscript": [
-      {
-        "id": 21,
-        "value": "ÖNB, Cod. 2090"
-      }
-    ],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [
-      {
-        "id": 103,
-        "value": "Traditionsnotizen des Salzburger Domstiftes"
-      }
-    ],
-    "title_note": "Nr. 13, 14 (um 1139)",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__161",
-    "filiation": [],
-    "locus_grp": "93r",
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-09-09",
-    "Created on": "2024-09-09",
-    "Created by": {
-      "id": 96,
-      "name": "Jesper van der Most"
-    },
-    "Last modified by": {
-      "id": 96,
-      "name": "Jesper van der Most"
-    },
-    "note": "",
-    "hand": [],
-    "decoration": [],
-    "facs_url": ""
-  },
-  "164": {
-    "id": 164,
-    "order": "146.00000000000000000000",
-    "label": [
-      {
-        "id": 21,
-        "value": "cod_2090__164"
-      }
-    ],
-    "manuscript": [
-      {
-        "id": 21,
-        "value": "ÖNB, Cod. 2090"
-      }
-    ],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [
-      {
-        "id": 103,
-        "value": "Traditionsnotizen des Salzburger Domstiftes"
-      }
-    ],
-    "title_note": "Nr. 2 (1080 Juli 18)",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__164",
-    "filiation": [],
-    "locus_grp": "93v",
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-09-09",
-    "Created on": "2024-09-09",
-    "Created by": {
-      "id": 96,
-      "name": "Jesper van der Most"
-    },
-    "Last modified by": {
-      "id": 96,
-      "name": "Jesper van der Most"
-    },
-    "note": "wohl Hand 12. Jh.",
     "hand": [],
     "decoration": [],
     "facs_url": ""

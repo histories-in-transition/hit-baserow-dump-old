@@ -1070,24 +1070,28 @@
         "value": "Bayerische Staatsbibliothek"
       }
     ],
-    "extent": "",
+    "extent": "172",
     "foliation": "19 J.",
     "acc_mat": "",
     "binding": "",
     "binding_date": [],
     "history": "",
     "bibliography": [],
-    "height": null,
-    "width": null,
+    "height": "240",
+    "width": "175",
     "material_spec": "",
     "orig_place": [
       {
         "id": 4,
         "value": "Freising"
+      },
+      {
+        "id": 17,
+        "value": "Reims"
       }
     ],
     "catchwords": "",
-    "quiremarks": null,
+    "quiremarks": "",
     "material": {
       "id": 14782,
       "value": "parchment",
@@ -1099,8 +1103,28 @@
         "value": "Dombibliothek Freising"
       }
     ],
-    "manuscripts_dated": [],
-    "orig_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 28,
+        "value": "hit_dated__28"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 51,
+          "database_table_3516": 28
+        },
+        "value": "8 Jh., drittes Viertel"
+      },
+      {
+        "ids": {
+          "database_table_3512": 52,
+          "database_table_3516": 28
+        },
+        "value": "9 Jh."
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -1110,7 +1134,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-13",
-    "Last modified": "2024-07-22",
+    "Last modified": "2024-09-17",
     "content_summary": null
   },
   "11": {
@@ -1684,7 +1708,7 @@
       }
     ],
     "catchwords": "",
-    "quiremarks": null,
+    "quiremarks": "",
     "material": {
       "id": 14782,
       "value": "parchment",
@@ -1731,7 +1755,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-14",
-    "Last modified": "2024-07-19",
+    "Last modified": "2024-09-17",
     "content_summary": null
   },
   "18": {
@@ -1775,7 +1799,7 @@
     "material_spec": "",
     "orig_place": [],
     "catchwords": "",
-    "quiremarks": null,
+    "quiremarks": "",
     "material": {
       "id": 14782,
       "value": "parchment",
@@ -1793,7 +1817,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-14",
-    "Last modified": "2024-07-04",
+    "Last modified": "2024-09-17",
     "content_summary": null
   },
   "19": {
@@ -1825,27 +1849,61 @@
         "value": "Bayerische Staatsbibliothek"
       }
     ],
-    "extent": "",
-    "foliation": "",
+    "extent": "139",
+    "foliation": "19 Jh.",
     "acc_mat": "",
     "binding": "",
     "binding_date": [],
     "history": "",
     "bibliography": [],
-    "height": null,
-    "width": null,
+    "height": "250",
+    "width": "195",
     "material_spec": "",
-    "orig_place": [],
+    "orig_place": [
+      {
+        "id": 4,
+        "value": "Freising"
+      },
+      {
+        "id": 12,
+        "value": "Bodensee"
+      }
+    ],
     "catchwords": "",
-    "quiremarks": null,
+    "quiremarks": "",
     "material": {
       "id": 14782,
       "value": "parchment",
       "color": "darker-orange"
     },
-    "provenance": [],
-    "manuscripts_dated": [],
-    "orig_dated": [],
+    "provenance": [
+      {
+        "id": 6,
+        "value": "Dombibliothek Freising"
+      }
+    ],
+    "manuscripts_dated": [
+      {
+        "id": 33,
+        "value": "hit_dated__33"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 49,
+          "database_table_3516": 33
+        },
+        "value": "um 9. Jh., drittes Drittel"
+      },
+      {
+        "ids": {
+          "database_table_3512": 50,
+          "database_table_3516": 33
+        },
+        "value": "9/10 Jh."
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -1855,7 +1913,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-14",
-    "Last modified": "2024-07-19",
+    "Last modified": "2024-09-17",
     "content_summary": null
   },
   "20": {

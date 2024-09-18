@@ -903,9 +903,28 @@
     "id": 28,
     "order": "25.00000000000000000000",
     "hit_id": "hit_dated__28",
-    "manuscript": [],
-    "date": [],
-    "authority": [],
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "date": [
+      {
+        "id": 51,
+        "value": "8 Jh., drittes Viertel"
+      },
+      {
+        "id": 52,
+        "value": "9 Jh."
+      }
+    ],
+    "authority": [
+      {
+        "id": 3,
+        "value": "Glauche"
+      }
+    ],
     "page": "",
     "preferred_date": false,
     "Created by": {
@@ -917,7 +936,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-22T15:54:27.418737Z",
+    "Last modified": "2024-09-17T12:05:00.300681Z",
     "note": ""
   },
   "29": {
@@ -1068,9 +1087,28 @@
     "id": 33,
     "order": "30.00000000000000000000",
     "hit_id": "hit_dated__33",
-    "manuscript": [],
-    "date": [],
-    "authority": [],
+    "manuscript": [
+      {
+        "id": 19,
+        "value": "BSB, Clm. 6341"
+      }
+    ],
+    "date": [
+      {
+        "id": 49,
+        "value": "um 9. Jh., drittes Drittel"
+      },
+      {
+        "id": 50,
+        "value": "9/10 Jh."
+      }
+    ],
+    "authority": [
+      {
+        "id": 3,
+        "value": "Glauche"
+      }
+    ],
     "page": "",
     "preferred_date": false,
     "Created by": {
@@ -1079,10 +1117,10 @@
     },
     "Created on": "2024-09-06",
     "Last modified by": {
-      "id": 96,
-      "name": "Jesper van der Most"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-06T11:06:54.901975Z",
+    "Last modified": "2024-09-17T11:39:14.198525Z",
     "note": ""
   }
 }

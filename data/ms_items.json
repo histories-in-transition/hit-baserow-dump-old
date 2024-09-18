@@ -41942,15 +41942,15 @@
             "Last modified": "2024-07-03"
           }
         ],
-        "extent": "",
+        "extent": "172",
         "foliation": "19 J.",
         "acc_mat": "",
         "binding": "",
         "binding_date": [],
         "history": "",
         "bibliography": [],
-        "height": null,
-        "width": null,
+        "height": "240",
+        "width": "175",
         "material_spec": "",
         "orig_place": [
           {
@@ -41991,10 +41991,49 @@
               "name": "Ivana Dobcheva"
             },
             "Last modified": "2024-07-11"
+          },
+          {
+            "id": 17,
+            "order": "15.00000000000000000000",
+            "name": "Reims",
+            "geonames_url": "https://www.geonames.org/2984114/reims.html",
+            "hit_id": "hit_place__17",
+            "wikidata_url": "https://www.wikidata.org/wiki/Q41876",
+            "country": [
+              {
+                "id": 14,
+                "order": "2.50000000000000000000",
+                "name": "Frankreich",
+                "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+                "hit_id": "hit_place__14",
+                "wikidata_url": "",
+                "country": [],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-07-11",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-09-17",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17"
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -42048,8 +42087,93 @@
             "Last modified": "2024-07-05"
           }
         ],
-        "manuscripts_dated": [],
-        "orig_dated": [],
+        "manuscripts_dated": [
+          {
+            "id": 28,
+            "order": "25.00000000000000000000",
+            "hit_id": "hit_dated__28",
+            "manuscript": [
+              {
+                "id": 10,
+                "value": "BSB, Clm. 6382"
+              }
+            ],
+            "date": [
+              {
+                "id": 51,
+                "order": "51.00000000000000000000",
+                "label": "8 Jh., drittes Viertel",
+                "not_before": "0750-01-01",
+                "hit_id": "hit_date__51",
+                "not_after": "0774-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              },
+              {
+                "id": 52,
+                "order": "52.00000000000000000000",
+                "label": "9 Jh.",
+                "not_before": "0800-01-01",
+                "hit_id": "hit_date__52",
+                "not_after": "0899-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              }
+            ],
+            "authority": [
+              {
+                "id": 3,
+                "order": "3.00000000000000000000",
+                "name": "Glauche",
+                "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+                "zotero_id": ""
+              }
+            ],
+            "page": "",
+            "preferred_date": false,
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-07-22",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17T12:05:00.300681Z",
+            "note": ""
+          }
+        ],
+        "orig_dated": [
+          {
+            "ids": {
+              "database_table_3512": 51,
+              "database_table_3516": 28
+            },
+            "value": "8 Jh., drittes Viertel"
+          },
+          {
+            "ids": {
+              "database_table_3512": 52,
+              "database_table_3516": 28
+            },
+            "value": "9 Jh."
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -42059,7 +42183,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-07-22",
+        "Last modified": "2024-09-17",
         "content_summary": null
       }
     ],
@@ -42269,15 +42393,15 @@
             "Last modified": "2024-07-03"
           }
         ],
-        "extent": "",
+        "extent": "172",
         "foliation": "19 J.",
         "acc_mat": "",
         "binding": "",
         "binding_date": [],
         "history": "",
         "bibliography": [],
-        "height": null,
-        "width": null,
+        "height": "240",
+        "width": "175",
         "material_spec": "",
         "orig_place": [
           {
@@ -42318,10 +42442,49 @@
               "name": "Ivana Dobcheva"
             },
             "Last modified": "2024-07-11"
+          },
+          {
+            "id": 17,
+            "order": "15.00000000000000000000",
+            "name": "Reims",
+            "geonames_url": "https://www.geonames.org/2984114/reims.html",
+            "hit_id": "hit_place__17",
+            "wikidata_url": "https://www.wikidata.org/wiki/Q41876",
+            "country": [
+              {
+                "id": 14,
+                "order": "2.50000000000000000000",
+                "name": "Frankreich",
+                "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+                "hit_id": "hit_place__14",
+                "wikidata_url": "",
+                "country": [],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-07-11",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-09-17",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17"
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -42375,8 +42538,93 @@
             "Last modified": "2024-07-05"
           }
         ],
-        "manuscripts_dated": [],
-        "orig_dated": [],
+        "manuscripts_dated": [
+          {
+            "id": 28,
+            "order": "25.00000000000000000000",
+            "hit_id": "hit_dated__28",
+            "manuscript": [
+              {
+                "id": 10,
+                "value": "BSB, Clm. 6382"
+              }
+            ],
+            "date": [
+              {
+                "id": 51,
+                "order": "51.00000000000000000000",
+                "label": "8 Jh., drittes Viertel",
+                "not_before": "0750-01-01",
+                "hit_id": "hit_date__51",
+                "not_after": "0774-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              },
+              {
+                "id": 52,
+                "order": "52.00000000000000000000",
+                "label": "9 Jh.",
+                "not_before": "0800-01-01",
+                "hit_id": "hit_date__52",
+                "not_after": "0899-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              }
+            ],
+            "authority": [
+              {
+                "id": 3,
+                "order": "3.00000000000000000000",
+                "name": "Glauche",
+                "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+                "zotero_id": ""
+              }
+            ],
+            "page": "",
+            "preferred_date": false,
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-07-22",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17T12:05:00.300681Z",
+            "note": ""
+          }
+        ],
+        "orig_dated": [
+          {
+            "ids": {
+              "database_table_3512": 51,
+              "database_table_3516": 28
+            },
+            "value": "8 Jh., drittes Viertel"
+          },
+          {
+            "ids": {
+              "database_table_3512": 52,
+              "database_table_3516": 28
+            },
+            "value": "9 Jh."
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -42386,7 +42634,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-07-22",
+        "Last modified": "2024-09-17",
         "content_summary": null
       }
     ],
@@ -42641,15 +42889,15 @@
             "Last modified": "2024-07-03"
           }
         ],
-        "extent": "",
+        "extent": "172",
         "foliation": "19 J.",
         "acc_mat": "",
         "binding": "",
         "binding_date": [],
         "history": "",
         "bibliography": [],
-        "height": null,
-        "width": null,
+        "height": "240",
+        "width": "175",
         "material_spec": "",
         "orig_place": [
           {
@@ -42690,10 +42938,49 @@
               "name": "Ivana Dobcheva"
             },
             "Last modified": "2024-07-11"
+          },
+          {
+            "id": 17,
+            "order": "15.00000000000000000000",
+            "name": "Reims",
+            "geonames_url": "https://www.geonames.org/2984114/reims.html",
+            "hit_id": "hit_place__17",
+            "wikidata_url": "https://www.wikidata.org/wiki/Q41876",
+            "country": [
+              {
+                "id": 14,
+                "order": "2.50000000000000000000",
+                "name": "Frankreich",
+                "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+                "hit_id": "hit_place__14",
+                "wikidata_url": "",
+                "country": [],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-07-11",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-09-17",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17"
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -42747,8 +43034,93 @@
             "Last modified": "2024-07-05"
           }
         ],
-        "manuscripts_dated": [],
-        "orig_dated": [],
+        "manuscripts_dated": [
+          {
+            "id": 28,
+            "order": "25.00000000000000000000",
+            "hit_id": "hit_dated__28",
+            "manuscript": [
+              {
+                "id": 10,
+                "value": "BSB, Clm. 6382"
+              }
+            ],
+            "date": [
+              {
+                "id": 51,
+                "order": "51.00000000000000000000",
+                "label": "8 Jh., drittes Viertel",
+                "not_before": "0750-01-01",
+                "hit_id": "hit_date__51",
+                "not_after": "0774-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              },
+              {
+                "id": 52,
+                "order": "52.00000000000000000000",
+                "label": "9 Jh.",
+                "not_before": "0800-01-01",
+                "hit_id": "hit_date__52",
+                "not_after": "0899-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              }
+            ],
+            "authority": [
+              {
+                "id": 3,
+                "order": "3.00000000000000000000",
+                "name": "Glauche",
+                "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+                "zotero_id": ""
+              }
+            ],
+            "page": "",
+            "preferred_date": false,
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-07-22",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17T12:05:00.300681Z",
+            "note": ""
+          }
+        ],
+        "orig_dated": [
+          {
+            "ids": {
+              "database_table_3512": 51,
+              "database_table_3516": 28
+            },
+            "value": "8 Jh., drittes Viertel"
+          },
+          {
+            "ids": {
+              "database_table_3512": 52,
+              "database_table_3516": 28
+            },
+            "value": "9 Jh."
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -42758,7 +43130,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-07-22",
+        "Last modified": "2024-09-17",
         "content_summary": null
       }
     ],
@@ -42934,15 +43306,15 @@
             "Last modified": "2024-07-03"
           }
         ],
-        "extent": "",
+        "extent": "172",
         "foliation": "19 J.",
         "acc_mat": "",
         "binding": "",
         "binding_date": [],
         "history": "",
         "bibliography": [],
-        "height": null,
-        "width": null,
+        "height": "240",
+        "width": "175",
         "material_spec": "",
         "orig_place": [
           {
@@ -42983,10 +43355,49 @@
               "name": "Ivana Dobcheva"
             },
             "Last modified": "2024-07-11"
+          },
+          {
+            "id": 17,
+            "order": "15.00000000000000000000",
+            "name": "Reims",
+            "geonames_url": "https://www.geonames.org/2984114/reims.html",
+            "hit_id": "hit_place__17",
+            "wikidata_url": "https://www.wikidata.org/wiki/Q41876",
+            "country": [
+              {
+                "id": 14,
+                "order": "2.50000000000000000000",
+                "name": "Frankreich",
+                "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+                "hit_id": "hit_place__14",
+                "wikidata_url": "",
+                "country": [],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-07-11",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-09-17",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17"
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -43040,8 +43451,93 @@
             "Last modified": "2024-07-05"
           }
         ],
-        "manuscripts_dated": [],
-        "orig_dated": [],
+        "manuscripts_dated": [
+          {
+            "id": 28,
+            "order": "25.00000000000000000000",
+            "hit_id": "hit_dated__28",
+            "manuscript": [
+              {
+                "id": 10,
+                "value": "BSB, Clm. 6382"
+              }
+            ],
+            "date": [
+              {
+                "id": 51,
+                "order": "51.00000000000000000000",
+                "label": "8 Jh., drittes Viertel",
+                "not_before": "0750-01-01",
+                "hit_id": "hit_date__51",
+                "not_after": "0774-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              },
+              {
+                "id": 52,
+                "order": "52.00000000000000000000",
+                "label": "9 Jh.",
+                "not_before": "0800-01-01",
+                "hit_id": "hit_date__52",
+                "not_after": "0899-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              }
+            ],
+            "authority": [
+              {
+                "id": 3,
+                "order": "3.00000000000000000000",
+                "name": "Glauche",
+                "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+                "zotero_id": ""
+              }
+            ],
+            "page": "",
+            "preferred_date": false,
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-07-22",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17T12:05:00.300681Z",
+            "note": ""
+          }
+        ],
+        "orig_dated": [
+          {
+            "ids": {
+              "database_table_3512": 51,
+              "database_table_3516": 28
+            },
+            "value": "8 Jh., drittes Viertel"
+          },
+          {
+            "ids": {
+              "database_table_3512": 52,
+              "database_table_3516": 28
+            },
+            "value": "9 Jh."
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -43051,7 +43547,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-07-22",
+        "Last modified": "2024-09-17",
         "content_summary": null
       }
     ],
@@ -43253,15 +43749,15 @@
             "Last modified": "2024-07-03"
           }
         ],
-        "extent": "",
+        "extent": "172",
         "foliation": "19 J.",
         "acc_mat": "",
         "binding": "",
         "binding_date": [],
         "history": "",
         "bibliography": [],
-        "height": null,
-        "width": null,
+        "height": "240",
+        "width": "175",
         "material_spec": "",
         "orig_place": [
           {
@@ -43302,10 +43798,49 @@
               "name": "Ivana Dobcheva"
             },
             "Last modified": "2024-07-11"
+          },
+          {
+            "id": 17,
+            "order": "15.00000000000000000000",
+            "name": "Reims",
+            "geonames_url": "https://www.geonames.org/2984114/reims.html",
+            "hit_id": "hit_place__17",
+            "wikidata_url": "https://www.wikidata.org/wiki/Q41876",
+            "country": [
+              {
+                "id": 14,
+                "order": "2.50000000000000000000",
+                "name": "Frankreich",
+                "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+                "hit_id": "hit_place__14",
+                "wikidata_url": "",
+                "country": [],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-07-11",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-09-17",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17"
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -43359,8 +43894,93 @@
             "Last modified": "2024-07-05"
           }
         ],
-        "manuscripts_dated": [],
-        "orig_dated": [],
+        "manuscripts_dated": [
+          {
+            "id": 28,
+            "order": "25.00000000000000000000",
+            "hit_id": "hit_dated__28",
+            "manuscript": [
+              {
+                "id": 10,
+                "value": "BSB, Clm. 6382"
+              }
+            ],
+            "date": [
+              {
+                "id": 51,
+                "order": "51.00000000000000000000",
+                "label": "8 Jh., drittes Viertel",
+                "not_before": "0750-01-01",
+                "hit_id": "hit_date__51",
+                "not_after": "0774-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              },
+              {
+                "id": 52,
+                "order": "52.00000000000000000000",
+                "label": "9 Jh.",
+                "not_before": "0800-01-01",
+                "hit_id": "hit_date__52",
+                "not_after": "0899-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              }
+            ],
+            "authority": [
+              {
+                "id": 3,
+                "order": "3.00000000000000000000",
+                "name": "Glauche",
+                "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+                "zotero_id": ""
+              }
+            ],
+            "page": "",
+            "preferred_date": false,
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-07-22",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17T12:05:00.300681Z",
+            "note": ""
+          }
+        ],
+        "orig_dated": [
+          {
+            "ids": {
+              "database_table_3512": 51,
+              "database_table_3516": 28
+            },
+            "value": "8 Jh., drittes Viertel"
+          },
+          {
+            "ids": {
+              "database_table_3512": 52,
+              "database_table_3516": 28
+            },
+            "value": "9 Jh."
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -43370,7 +43990,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-07-22",
+        "Last modified": "2024-09-17",
         "content_summary": null
       }
     ],
@@ -43570,15 +44190,15 @@
             "Last modified": "2024-07-03"
           }
         ],
-        "extent": "",
+        "extent": "172",
         "foliation": "19 J.",
         "acc_mat": "",
         "binding": "",
         "binding_date": [],
         "history": "",
         "bibliography": [],
-        "height": null,
-        "width": null,
+        "height": "240",
+        "width": "175",
         "material_spec": "",
         "orig_place": [
           {
@@ -43619,10 +44239,49 @@
               "name": "Ivana Dobcheva"
             },
             "Last modified": "2024-07-11"
+          },
+          {
+            "id": 17,
+            "order": "15.00000000000000000000",
+            "name": "Reims",
+            "geonames_url": "https://www.geonames.org/2984114/reims.html",
+            "hit_id": "hit_place__17",
+            "wikidata_url": "https://www.wikidata.org/wiki/Q41876",
+            "country": [
+              {
+                "id": 14,
+                "order": "2.50000000000000000000",
+                "name": "Frankreich",
+                "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+                "hit_id": "hit_place__14",
+                "wikidata_url": "",
+                "country": [],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-07-11",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-09-17",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17"
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -43676,8 +44335,93 @@
             "Last modified": "2024-07-05"
           }
         ],
-        "manuscripts_dated": [],
-        "orig_dated": [],
+        "manuscripts_dated": [
+          {
+            "id": 28,
+            "order": "25.00000000000000000000",
+            "hit_id": "hit_dated__28",
+            "manuscript": [
+              {
+                "id": 10,
+                "value": "BSB, Clm. 6382"
+              }
+            ],
+            "date": [
+              {
+                "id": 51,
+                "order": "51.00000000000000000000",
+                "label": "8 Jh., drittes Viertel",
+                "not_before": "0750-01-01",
+                "hit_id": "hit_date__51",
+                "not_after": "0774-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              },
+              {
+                "id": 52,
+                "order": "52.00000000000000000000",
+                "label": "9 Jh.",
+                "not_before": "0800-01-01",
+                "hit_id": "hit_date__52",
+                "not_after": "0899-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              }
+            ],
+            "authority": [
+              {
+                "id": 3,
+                "order": "3.00000000000000000000",
+                "name": "Glauche",
+                "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+                "zotero_id": ""
+              }
+            ],
+            "page": "",
+            "preferred_date": false,
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-07-22",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17T12:05:00.300681Z",
+            "note": ""
+          }
+        ],
+        "orig_dated": [
+          {
+            "ids": {
+              "database_table_3512": 51,
+              "database_table_3516": 28
+            },
+            "value": "8 Jh., drittes Viertel"
+          },
+          {
+            "ids": {
+              "database_table_3512": 52,
+              "database_table_3516": 28
+            },
+            "value": "9 Jh."
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -43687,7 +44431,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-07-22",
+        "Last modified": "2024-09-17",
         "content_summary": null
       }
     ],
@@ -43824,15 +44568,15 @@
             "Last modified": "2024-07-03"
           }
         ],
-        "extent": "",
+        "extent": "172",
         "foliation": "19 J.",
         "acc_mat": "",
         "binding": "",
         "binding_date": [],
         "history": "",
         "bibliography": [],
-        "height": null,
-        "width": null,
+        "height": "240",
+        "width": "175",
         "material_spec": "",
         "orig_place": [
           {
@@ -43873,10 +44617,49 @@
               "name": "Ivana Dobcheva"
             },
             "Last modified": "2024-07-11"
+          },
+          {
+            "id": 17,
+            "order": "15.00000000000000000000",
+            "name": "Reims",
+            "geonames_url": "https://www.geonames.org/2984114/reims.html",
+            "hit_id": "hit_place__17",
+            "wikidata_url": "https://www.wikidata.org/wiki/Q41876",
+            "country": [
+              {
+                "id": 14,
+                "order": "2.50000000000000000000",
+                "name": "Frankreich",
+                "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+                "hit_id": "hit_place__14",
+                "wikidata_url": "",
+                "country": [],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-07-11",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-09-17",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17"
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -43930,8 +44713,93 @@
             "Last modified": "2024-07-05"
           }
         ],
-        "manuscripts_dated": [],
-        "orig_dated": [],
+        "manuscripts_dated": [
+          {
+            "id": 28,
+            "order": "25.00000000000000000000",
+            "hit_id": "hit_dated__28",
+            "manuscript": [
+              {
+                "id": 10,
+                "value": "BSB, Clm. 6382"
+              }
+            ],
+            "date": [
+              {
+                "id": 51,
+                "order": "51.00000000000000000000",
+                "label": "8 Jh., drittes Viertel",
+                "not_before": "0750-01-01",
+                "hit_id": "hit_date__51",
+                "not_after": "0774-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              },
+              {
+                "id": 52,
+                "order": "52.00000000000000000000",
+                "label": "9 Jh.",
+                "not_before": "0800-01-01",
+                "hit_id": "hit_date__52",
+                "not_after": "0899-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              }
+            ],
+            "authority": [
+              {
+                "id": 3,
+                "order": "3.00000000000000000000",
+                "name": "Glauche",
+                "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+                "zotero_id": ""
+              }
+            ],
+            "page": "",
+            "preferred_date": false,
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-07-22",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17T12:05:00.300681Z",
+            "note": ""
+          }
+        ],
+        "orig_dated": [
+          {
+            "ids": {
+              "database_table_3512": 51,
+              "database_table_3516": 28
+            },
+            "value": "8 Jh., drittes Viertel"
+          },
+          {
+            "ids": {
+              "database_table_3512": 52,
+              "database_table_3516": 28
+            },
+            "value": "9 Jh."
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -43941,7 +44809,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-07-22",
+        "Last modified": "2024-09-17",
         "content_summary": null
       }
     ],
@@ -44135,15 +45003,15 @@
             "Last modified": "2024-07-03"
           }
         ],
-        "extent": "",
+        "extent": "172",
         "foliation": "19 J.",
         "acc_mat": "",
         "binding": "",
         "binding_date": [],
         "history": "",
         "bibliography": [],
-        "height": null,
-        "width": null,
+        "height": "240",
+        "width": "175",
         "material_spec": "",
         "orig_place": [
           {
@@ -44184,10 +45052,49 @@
               "name": "Ivana Dobcheva"
             },
             "Last modified": "2024-07-11"
+          },
+          {
+            "id": 17,
+            "order": "15.00000000000000000000",
+            "name": "Reims",
+            "geonames_url": "https://www.geonames.org/2984114/reims.html",
+            "hit_id": "hit_place__17",
+            "wikidata_url": "https://www.wikidata.org/wiki/Q41876",
+            "country": [
+              {
+                "id": 14,
+                "order": "2.50000000000000000000",
+                "name": "Frankreich",
+                "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+                "hit_id": "hit_place__14",
+                "wikidata_url": "",
+                "country": [],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-07-11",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-09-17",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17"
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -44241,8 +45148,93 @@
             "Last modified": "2024-07-05"
           }
         ],
-        "manuscripts_dated": [],
-        "orig_dated": [],
+        "manuscripts_dated": [
+          {
+            "id": 28,
+            "order": "25.00000000000000000000",
+            "hit_id": "hit_dated__28",
+            "manuscript": [
+              {
+                "id": 10,
+                "value": "BSB, Clm. 6382"
+              }
+            ],
+            "date": [
+              {
+                "id": 51,
+                "order": "51.00000000000000000000",
+                "label": "8 Jh., drittes Viertel",
+                "not_before": "0750-01-01",
+                "hit_id": "hit_date__51",
+                "not_after": "0774-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              },
+              {
+                "id": 52,
+                "order": "52.00000000000000000000",
+                "label": "9 Jh.",
+                "not_before": "0800-01-01",
+                "hit_id": "hit_date__52",
+                "not_after": "0899-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              }
+            ],
+            "authority": [
+              {
+                "id": 3,
+                "order": "3.00000000000000000000",
+                "name": "Glauche",
+                "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+                "zotero_id": ""
+              }
+            ],
+            "page": "",
+            "preferred_date": false,
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-07-22",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17T12:05:00.300681Z",
+            "note": ""
+          }
+        ],
+        "orig_dated": [
+          {
+            "ids": {
+              "database_table_3512": 51,
+              "database_table_3516": 28
+            },
+            "value": "8 Jh., drittes Viertel"
+          },
+          {
+            "ids": {
+              "database_table_3512": 52,
+              "database_table_3516": 28
+            },
+            "value": "9 Jh."
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -44252,7 +45244,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-07-22",
+        "Last modified": "2024-09-17",
         "content_summary": null
       }
     ],
@@ -44452,15 +45444,15 @@
             "Last modified": "2024-07-03"
           }
         ],
-        "extent": "",
+        "extent": "172",
         "foliation": "19 J.",
         "acc_mat": "",
         "binding": "",
         "binding_date": [],
         "history": "",
         "bibliography": [],
-        "height": null,
-        "width": null,
+        "height": "240",
+        "width": "175",
         "material_spec": "",
         "orig_place": [
           {
@@ -44501,10 +45493,49 @@
               "name": "Ivana Dobcheva"
             },
             "Last modified": "2024-07-11"
+          },
+          {
+            "id": 17,
+            "order": "15.00000000000000000000",
+            "name": "Reims",
+            "geonames_url": "https://www.geonames.org/2984114/reims.html",
+            "hit_id": "hit_place__17",
+            "wikidata_url": "https://www.wikidata.org/wiki/Q41876",
+            "country": [
+              {
+                "id": 14,
+                "order": "2.50000000000000000000",
+                "name": "Frankreich",
+                "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+                "hit_id": "hit_place__14",
+                "wikidata_url": "",
+                "country": [],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-07-11",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-09-17",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17"
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -44558,8 +45589,93 @@
             "Last modified": "2024-07-05"
           }
         ],
-        "manuscripts_dated": [],
-        "orig_dated": [],
+        "manuscripts_dated": [
+          {
+            "id": 28,
+            "order": "25.00000000000000000000",
+            "hit_id": "hit_dated__28",
+            "manuscript": [
+              {
+                "id": 10,
+                "value": "BSB, Clm. 6382"
+              }
+            ],
+            "date": [
+              {
+                "id": 51,
+                "order": "51.00000000000000000000",
+                "label": "8 Jh., drittes Viertel",
+                "not_before": "0750-01-01",
+                "hit_id": "hit_date__51",
+                "not_after": "0774-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              },
+              {
+                "id": 52,
+                "order": "52.00000000000000000000",
+                "label": "9 Jh.",
+                "not_before": "0800-01-01",
+                "hit_id": "hit_date__52",
+                "not_after": "0899-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              }
+            ],
+            "authority": [
+              {
+                "id": 3,
+                "order": "3.00000000000000000000",
+                "name": "Glauche",
+                "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+                "zotero_id": ""
+              }
+            ],
+            "page": "",
+            "preferred_date": false,
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-07-22",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17T12:05:00.300681Z",
+            "note": ""
+          }
+        ],
+        "orig_dated": [
+          {
+            "ids": {
+              "database_table_3512": 51,
+              "database_table_3516": 28
+            },
+            "value": "8 Jh., drittes Viertel"
+          },
+          {
+            "ids": {
+              "database_table_3512": 52,
+              "database_table_3516": 28
+            },
+            "value": "9 Jh."
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -44569,7 +45685,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-07-22",
+        "Last modified": "2024-09-17",
         "content_summary": null
       }
     ],
@@ -44706,15 +45822,15 @@
             "Last modified": "2024-07-03"
           }
         ],
-        "extent": "",
+        "extent": "172",
         "foliation": "19 J.",
         "acc_mat": "",
         "binding": "",
         "binding_date": [],
         "history": "",
         "bibliography": [],
-        "height": null,
-        "width": null,
+        "height": "240",
+        "width": "175",
         "material_spec": "",
         "orig_place": [
           {
@@ -44755,10 +45871,49 @@
               "name": "Ivana Dobcheva"
             },
             "Last modified": "2024-07-11"
+          },
+          {
+            "id": 17,
+            "order": "15.00000000000000000000",
+            "name": "Reims",
+            "geonames_url": "https://www.geonames.org/2984114/reims.html",
+            "hit_id": "hit_place__17",
+            "wikidata_url": "https://www.wikidata.org/wiki/Q41876",
+            "country": [
+              {
+                "id": 14,
+                "order": "2.50000000000000000000",
+                "name": "Frankreich",
+                "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+                "hit_id": "hit_place__14",
+                "wikidata_url": "",
+                "country": [],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-07-11",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-09-17",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17"
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -44812,8 +45967,93 @@
             "Last modified": "2024-07-05"
           }
         ],
-        "manuscripts_dated": [],
-        "orig_dated": [],
+        "manuscripts_dated": [
+          {
+            "id": 28,
+            "order": "25.00000000000000000000",
+            "hit_id": "hit_dated__28",
+            "manuscript": [
+              {
+                "id": 10,
+                "value": "BSB, Clm. 6382"
+              }
+            ],
+            "date": [
+              {
+                "id": 51,
+                "order": "51.00000000000000000000",
+                "label": "8 Jh., drittes Viertel",
+                "not_before": "0750-01-01",
+                "hit_id": "hit_date__51",
+                "not_after": "0774-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              },
+              {
+                "id": 52,
+                "order": "52.00000000000000000000",
+                "label": "9 Jh.",
+                "not_before": "0800-01-01",
+                "hit_id": "hit_date__52",
+                "not_after": "0899-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              }
+            ],
+            "authority": [
+              {
+                "id": 3,
+                "order": "3.00000000000000000000",
+                "name": "Glauche",
+                "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+                "zotero_id": ""
+              }
+            ],
+            "page": "",
+            "preferred_date": false,
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-07-22",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17T12:05:00.300681Z",
+            "note": ""
+          }
+        ],
+        "orig_dated": [
+          {
+            "ids": {
+              "database_table_3512": 51,
+              "database_table_3516": 28
+            },
+            "value": "8 Jh., drittes Viertel"
+          },
+          {
+            "ids": {
+              "database_table_3512": 52,
+              "database_table_3516": 28
+            },
+            "value": "9 Jh."
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -44823,7 +46063,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-07-22",
+        "Last modified": "2024-09-17",
         "content_summary": null
       }
     ],
@@ -44960,15 +46200,15 @@
             "Last modified": "2024-07-03"
           }
         ],
-        "extent": "",
+        "extent": "172",
         "foliation": "19 J.",
         "acc_mat": "",
         "binding": "",
         "binding_date": [],
         "history": "",
         "bibliography": [],
-        "height": null,
-        "width": null,
+        "height": "240",
+        "width": "175",
         "material_spec": "",
         "orig_place": [
           {
@@ -45009,10 +46249,49 @@
               "name": "Ivana Dobcheva"
             },
             "Last modified": "2024-07-11"
+          },
+          {
+            "id": 17,
+            "order": "15.00000000000000000000",
+            "name": "Reims",
+            "geonames_url": "https://www.geonames.org/2984114/reims.html",
+            "hit_id": "hit_place__17",
+            "wikidata_url": "https://www.wikidata.org/wiki/Q41876",
+            "country": [
+              {
+                "id": 14,
+                "order": "2.50000000000000000000",
+                "name": "Frankreich",
+                "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+                "hit_id": "hit_place__14",
+                "wikidata_url": "",
+                "country": [],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-07-11",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-09-17",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17"
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -45066,8 +46345,93 @@
             "Last modified": "2024-07-05"
           }
         ],
-        "manuscripts_dated": [],
-        "orig_dated": [],
+        "manuscripts_dated": [
+          {
+            "id": 28,
+            "order": "25.00000000000000000000",
+            "hit_id": "hit_dated__28",
+            "manuscript": [
+              {
+                "id": 10,
+                "value": "BSB, Clm. 6382"
+              }
+            ],
+            "date": [
+              {
+                "id": 51,
+                "order": "51.00000000000000000000",
+                "label": "8 Jh., drittes Viertel",
+                "not_before": "0750-01-01",
+                "hit_id": "hit_date__51",
+                "not_after": "0774-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              },
+              {
+                "id": 52,
+                "order": "52.00000000000000000000",
+                "label": "9 Jh.",
+                "not_before": "0800-01-01",
+                "hit_id": "hit_date__52",
+                "not_after": "0899-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              }
+            ],
+            "authority": [
+              {
+                "id": 3,
+                "order": "3.00000000000000000000",
+                "name": "Glauche",
+                "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+                "zotero_id": ""
+              }
+            ],
+            "page": "",
+            "preferred_date": false,
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-07-22",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17T12:05:00.300681Z",
+            "note": ""
+          }
+        ],
+        "orig_dated": [
+          {
+            "ids": {
+              "database_table_3512": 51,
+              "database_table_3516": 28
+            },
+            "value": "8 Jh., drittes Viertel"
+          },
+          {
+            "ids": {
+              "database_table_3512": 52,
+              "database_table_3516": 28
+            },
+            "value": "9 Jh."
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -45077,7 +46441,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-07-22",
+        "Last modified": "2024-09-17",
         "content_summary": null
       }
     ],
@@ -45253,15 +46617,15 @@
             "Last modified": "2024-07-03"
           }
         ],
-        "extent": "",
+        "extent": "172",
         "foliation": "19 J.",
         "acc_mat": "",
         "binding": "",
         "binding_date": [],
         "history": "",
         "bibliography": [],
-        "height": null,
-        "width": null,
+        "height": "240",
+        "width": "175",
         "material_spec": "",
         "orig_place": [
           {
@@ -45302,10 +46666,49 @@
               "name": "Ivana Dobcheva"
             },
             "Last modified": "2024-07-11"
+          },
+          {
+            "id": 17,
+            "order": "15.00000000000000000000",
+            "name": "Reims",
+            "geonames_url": "https://www.geonames.org/2984114/reims.html",
+            "hit_id": "hit_place__17",
+            "wikidata_url": "https://www.wikidata.org/wiki/Q41876",
+            "country": [
+              {
+                "id": 14,
+                "order": "2.50000000000000000000",
+                "name": "Frankreich",
+                "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+                "hit_id": "hit_place__14",
+                "wikidata_url": "",
+                "country": [],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-07-11",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-09-17",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17"
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -45359,8 +46762,93 @@
             "Last modified": "2024-07-05"
           }
         ],
-        "manuscripts_dated": [],
-        "orig_dated": [],
+        "manuscripts_dated": [
+          {
+            "id": 28,
+            "order": "25.00000000000000000000",
+            "hit_id": "hit_dated__28",
+            "manuscript": [
+              {
+                "id": 10,
+                "value": "BSB, Clm. 6382"
+              }
+            ],
+            "date": [
+              {
+                "id": 51,
+                "order": "51.00000000000000000000",
+                "label": "8 Jh., drittes Viertel",
+                "not_before": "0750-01-01",
+                "hit_id": "hit_date__51",
+                "not_after": "0774-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              },
+              {
+                "id": 52,
+                "order": "52.00000000000000000000",
+                "label": "9 Jh.",
+                "not_before": "0800-01-01",
+                "hit_id": "hit_date__52",
+                "not_after": "0899-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              }
+            ],
+            "authority": [
+              {
+                "id": 3,
+                "order": "3.00000000000000000000",
+                "name": "Glauche",
+                "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+                "zotero_id": ""
+              }
+            ],
+            "page": "",
+            "preferred_date": false,
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-07-22",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17T12:05:00.300681Z",
+            "note": ""
+          }
+        ],
+        "orig_dated": [
+          {
+            "ids": {
+              "database_table_3512": 51,
+              "database_table_3516": 28
+            },
+            "value": "8 Jh., drittes Viertel"
+          },
+          {
+            "ids": {
+              "database_table_3512": 52,
+              "database_table_3516": 28
+            },
+            "value": "9 Jh."
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -45370,7 +46858,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-07-22",
+        "Last modified": "2024-09-17",
         "content_summary": null
       }
     ],
@@ -45582,15 +47070,15 @@
             "Last modified": "2024-07-03"
           }
         ],
-        "extent": "",
+        "extent": "172",
         "foliation": "19 J.",
         "acc_mat": "",
         "binding": "",
         "binding_date": [],
         "history": "",
         "bibliography": [],
-        "height": null,
-        "width": null,
+        "height": "240",
+        "width": "175",
         "material_spec": "",
         "orig_place": [
           {
@@ -45631,10 +47119,49 @@
               "name": "Ivana Dobcheva"
             },
             "Last modified": "2024-07-11"
+          },
+          {
+            "id": 17,
+            "order": "15.00000000000000000000",
+            "name": "Reims",
+            "geonames_url": "https://www.geonames.org/2984114/reims.html",
+            "hit_id": "hit_place__17",
+            "wikidata_url": "https://www.wikidata.org/wiki/Q41876",
+            "country": [
+              {
+                "id": 14,
+                "order": "2.50000000000000000000",
+                "name": "Frankreich",
+                "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+                "hit_id": "hit_place__14",
+                "wikidata_url": "",
+                "country": [],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-07-11",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-09-17",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17"
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -45688,8 +47215,93 @@
             "Last modified": "2024-07-05"
           }
         ],
-        "manuscripts_dated": [],
-        "orig_dated": [],
+        "manuscripts_dated": [
+          {
+            "id": 28,
+            "order": "25.00000000000000000000",
+            "hit_id": "hit_dated__28",
+            "manuscript": [
+              {
+                "id": 10,
+                "value": "BSB, Clm. 6382"
+              }
+            ],
+            "date": [
+              {
+                "id": 51,
+                "order": "51.00000000000000000000",
+                "label": "8 Jh., drittes Viertel",
+                "not_before": "0750-01-01",
+                "hit_id": "hit_date__51",
+                "not_after": "0774-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              },
+              {
+                "id": 52,
+                "order": "52.00000000000000000000",
+                "label": "9 Jh.",
+                "not_before": "0800-01-01",
+                "hit_id": "hit_date__52",
+                "not_after": "0899-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              }
+            ],
+            "authority": [
+              {
+                "id": 3,
+                "order": "3.00000000000000000000",
+                "name": "Glauche",
+                "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+                "zotero_id": ""
+              }
+            ],
+            "page": "",
+            "preferred_date": false,
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-07-22",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17T12:05:00.300681Z",
+            "note": ""
+          }
+        ],
+        "orig_dated": [
+          {
+            "ids": {
+              "database_table_3512": 51,
+              "database_table_3516": 28
+            },
+            "value": "8 Jh., drittes Viertel"
+          },
+          {
+            "ids": {
+              "database_table_3512": 52,
+              "database_table_3516": 28
+            },
+            "value": "9 Jh."
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -45699,7 +47311,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-07-22",
+        "Last modified": "2024-09-17",
         "content_summary": null
       }
     ],
@@ -51313,7 +52925,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -51498,7 +53110,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-14",
-        "Last modified": "2024-07-19",
+        "Last modified": "2024-09-17",
         "content_summary": null
       }
     ],
@@ -51744,7 +53356,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -51929,7 +53541,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-14",
-        "Last modified": "2024-07-19",
+        "Last modified": "2024-09-17",
         "content_summary": null
       }
     ],
@@ -52183,7 +53795,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -52368,7 +53980,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-14",
-        "Last modified": "2024-07-19",
+        "Last modified": "2024-09-17",
         "content_summary": null
       }
     ],
@@ -52570,27 +54182,238 @@
             "Last modified": "2024-07-03"
           }
         ],
-        "extent": "",
-        "foliation": "",
+        "extent": "139",
+        "foliation": "19 Jh.",
         "acc_mat": "",
         "binding": "",
         "binding_date": [],
         "history": "",
         "bibliography": [],
-        "height": null,
-        "width": null,
+        "height": "250",
+        "width": "195",
         "material_spec": "",
-        "orig_place": [],
+        "orig_place": [
+          {
+            "id": 4,
+            "order": "4.00000000000000000000",
+            "name": "Freising",
+            "geonames_url": "https://www.geonames.org/2925034/freising.html",
+            "hit_id": "hit_place__4",
+            "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+            "country": [
+              {
+                "id": 2,
+                "order": "2.00000000000000000000",
+                "name": "Deutschland",
+                "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+                "hit_id": "hit_place__2",
+                "wikidata_url": "",
+                "country": [],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-06-05",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-06-13",
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          },
+          {
+            "id": 12,
+            "order": "12.00000000000000000000",
+            "name": "Bodensee",
+            "geonames_url": "https://www.geonames.org/11919717/bodenseeregion.html",
+            "hit_id": "hit_place__12",
+            "wikidata_url": "",
+            "country": [
+              {
+                "id": 2,
+                "order": "2.00000000000000000000",
+                "name": "Deutschland",
+                "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+                "hit_id": "hit_place__2",
+                "wikidata_url": "",
+                "country": [],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-06-05",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-07-08",
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "",
         "material": {
           "id": 14782,
           "value": "parchment",
           "color": "darker-orange"
         },
-        "provenance": [],
-        "manuscripts_dated": [],
-        "orig_dated": [],
+        "provenance": [
+          {
+            "id": 6,
+            "order": "5.00000000000000000000",
+            "label": "Dombibliothek Freising",
+            "hit_id": "hit_org__6",
+            "gnd_url": "https://d-nb.info/gnd/1052539-7",
+            "library_full": "Dombibliothek Freising",
+            "library_website": "",
+            "settlement": [
+              {
+                "id": 4,
+                "order": "4.00000000000000000000",
+                "name": "Freising",
+                "geonames_url": "https://www.geonames.org/2925034/freising.html",
+                "hit_id": "hit_place__4",
+                "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+                "country": [
+                  {
+                    "id": 2,
+                    "value": "Deutschland"
+                  }
+                ],
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Created on": "2024-06-13",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "wikidata": "",
+            "Created by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Created on": "2024-07-05",
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-05"
+          }
+        ],
+        "manuscripts_dated": [
+          {
+            "id": 33,
+            "order": "30.00000000000000000000",
+            "hit_id": "hit_dated__33",
+            "manuscript": [
+              {
+                "id": 19,
+                "value": "BSB, Clm. 6341"
+              }
+            ],
+            "date": [
+              {
+                "id": 49,
+                "order": "49.00000000000000000000",
+                "label": "um 9. Jh., drittes Drittel",
+                "not_before": "0866-01-01",
+                "hit_id": "hit_date__49",
+                "not_after": "0899-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              },
+              {
+                "id": 50,
+                "order": "50.00000000000000000000",
+                "label": "9/10 Jh.",
+                "not_before": "0800-01-01",
+                "hit_id": "hit_date__50",
+                "not_after": "0999-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              }
+            ],
+            "authority": [
+              {
+                "id": 3,
+                "order": "3.00000000000000000000",
+                "name": "Glauche",
+                "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+                "zotero_id": ""
+              }
+            ],
+            "page": "",
+            "preferred_date": false,
+            "Created by": {
+              "id": 96,
+              "name": "Jesper van der Most"
+            },
+            "Created on": "2024-09-06",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17T11:39:14.198525Z",
+            "note": ""
+          }
+        ],
+        "orig_dated": [
+          {
+            "ids": {
+              "database_table_3512": 49,
+              "database_table_3516": 33
+            },
+            "value": "um 9. Jh., drittes Drittel"
+          },
+          {
+            "ids": {
+              "database_table_3512": 50,
+              "database_table_3516": 33
+            },
+            "value": "9/10 Jh."
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -52600,7 +54423,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-14",
-        "Last modified": "2024-07-19",
+        "Last modified": "2024-09-17",
         "content_summary": null
       }
     ],
@@ -52794,27 +54617,238 @@
             "Last modified": "2024-07-03"
           }
         ],
-        "extent": "",
-        "foliation": "",
+        "extent": "139",
+        "foliation": "19 Jh.",
         "acc_mat": "",
         "binding": "",
         "binding_date": [],
         "history": "",
         "bibliography": [],
-        "height": null,
-        "width": null,
+        "height": "250",
+        "width": "195",
         "material_spec": "",
-        "orig_place": [],
+        "orig_place": [
+          {
+            "id": 4,
+            "order": "4.00000000000000000000",
+            "name": "Freising",
+            "geonames_url": "https://www.geonames.org/2925034/freising.html",
+            "hit_id": "hit_place__4",
+            "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+            "country": [
+              {
+                "id": 2,
+                "order": "2.00000000000000000000",
+                "name": "Deutschland",
+                "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+                "hit_id": "hit_place__2",
+                "wikidata_url": "",
+                "country": [],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-06-05",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-06-13",
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          },
+          {
+            "id": 12,
+            "order": "12.00000000000000000000",
+            "name": "Bodensee",
+            "geonames_url": "https://www.geonames.org/11919717/bodenseeregion.html",
+            "hit_id": "hit_place__12",
+            "wikidata_url": "",
+            "country": [
+              {
+                "id": 2,
+                "order": "2.00000000000000000000",
+                "name": "Deutschland",
+                "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+                "hit_id": "hit_place__2",
+                "wikidata_url": "",
+                "country": [],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-06-05",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-07-08",
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "",
         "material": {
           "id": 14782,
           "value": "parchment",
           "color": "darker-orange"
         },
-        "provenance": [],
-        "manuscripts_dated": [],
-        "orig_dated": [],
+        "provenance": [
+          {
+            "id": 6,
+            "order": "5.00000000000000000000",
+            "label": "Dombibliothek Freising",
+            "hit_id": "hit_org__6",
+            "gnd_url": "https://d-nb.info/gnd/1052539-7",
+            "library_full": "Dombibliothek Freising",
+            "library_website": "",
+            "settlement": [
+              {
+                "id": 4,
+                "order": "4.00000000000000000000",
+                "name": "Freising",
+                "geonames_url": "https://www.geonames.org/2925034/freising.html",
+                "hit_id": "hit_place__4",
+                "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+                "country": [
+                  {
+                    "id": 2,
+                    "value": "Deutschland"
+                  }
+                ],
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Created on": "2024-06-13",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "wikidata": "",
+            "Created by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Created on": "2024-07-05",
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-05"
+          }
+        ],
+        "manuscripts_dated": [
+          {
+            "id": 33,
+            "order": "30.00000000000000000000",
+            "hit_id": "hit_dated__33",
+            "manuscript": [
+              {
+                "id": 19,
+                "value": "BSB, Clm. 6341"
+              }
+            ],
+            "date": [
+              {
+                "id": 49,
+                "order": "49.00000000000000000000",
+                "label": "um 9. Jh., drittes Drittel",
+                "not_before": "0866-01-01",
+                "hit_id": "hit_date__49",
+                "not_after": "0899-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              },
+              {
+                "id": 50,
+                "order": "50.00000000000000000000",
+                "label": "9/10 Jh.",
+                "not_before": "0800-01-01",
+                "hit_id": "hit_date__50",
+                "not_after": "0999-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              }
+            ],
+            "authority": [
+              {
+                "id": 3,
+                "order": "3.00000000000000000000",
+                "name": "Glauche",
+                "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+                "zotero_id": ""
+              }
+            ],
+            "page": "",
+            "preferred_date": false,
+            "Created by": {
+              "id": 96,
+              "name": "Jesper van der Most"
+            },
+            "Created on": "2024-09-06",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17T11:39:14.198525Z",
+            "note": ""
+          }
+        ],
+        "orig_dated": [
+          {
+            "ids": {
+              "database_table_3512": 49,
+              "database_table_3516": 33
+            },
+            "value": "um 9. Jh., drittes Drittel"
+          },
+          {
+            "ids": {
+              "database_table_3512": 50,
+              "database_table_3516": 33
+            },
+            "value": "9/10 Jh."
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -52824,7 +54858,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-14",
-        "Last modified": "2024-07-19",
+        "Last modified": "2024-09-17",
         "content_summary": null
       }
     ],
@@ -52985,27 +55019,238 @@
             "Last modified": "2024-07-03"
           }
         ],
-        "extent": "",
-        "foliation": "",
+        "extent": "139",
+        "foliation": "19 Jh.",
         "acc_mat": "",
         "binding": "",
         "binding_date": [],
         "history": "",
         "bibliography": [],
-        "height": null,
-        "width": null,
+        "height": "250",
+        "width": "195",
         "material_spec": "",
-        "orig_place": [],
+        "orig_place": [
+          {
+            "id": 4,
+            "order": "4.00000000000000000000",
+            "name": "Freising",
+            "geonames_url": "https://www.geonames.org/2925034/freising.html",
+            "hit_id": "hit_place__4",
+            "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+            "country": [
+              {
+                "id": 2,
+                "order": "2.00000000000000000000",
+                "name": "Deutschland",
+                "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+                "hit_id": "hit_place__2",
+                "wikidata_url": "",
+                "country": [],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-06-05",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-06-13",
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          },
+          {
+            "id": 12,
+            "order": "12.00000000000000000000",
+            "name": "Bodensee",
+            "geonames_url": "https://www.geonames.org/11919717/bodenseeregion.html",
+            "hit_id": "hit_place__12",
+            "wikidata_url": "",
+            "country": [
+              {
+                "id": 2,
+                "order": "2.00000000000000000000",
+                "name": "Deutschland",
+                "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+                "hit_id": "hit_place__2",
+                "wikidata_url": "",
+                "country": [],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-06-05",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-07-08",
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "",
         "material": {
           "id": 14782,
           "value": "parchment",
           "color": "darker-orange"
         },
-        "provenance": [],
-        "manuscripts_dated": [],
-        "orig_dated": [],
+        "provenance": [
+          {
+            "id": 6,
+            "order": "5.00000000000000000000",
+            "label": "Dombibliothek Freising",
+            "hit_id": "hit_org__6",
+            "gnd_url": "https://d-nb.info/gnd/1052539-7",
+            "library_full": "Dombibliothek Freising",
+            "library_website": "",
+            "settlement": [
+              {
+                "id": 4,
+                "order": "4.00000000000000000000",
+                "name": "Freising",
+                "geonames_url": "https://www.geonames.org/2925034/freising.html",
+                "hit_id": "hit_place__4",
+                "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+                "country": [
+                  {
+                    "id": 2,
+                    "value": "Deutschland"
+                  }
+                ],
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Created on": "2024-06-13",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "wikidata": "",
+            "Created by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Created on": "2024-07-05",
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-05"
+          }
+        ],
+        "manuscripts_dated": [
+          {
+            "id": 33,
+            "order": "30.00000000000000000000",
+            "hit_id": "hit_dated__33",
+            "manuscript": [
+              {
+                "id": 19,
+                "value": "BSB, Clm. 6341"
+              }
+            ],
+            "date": [
+              {
+                "id": 49,
+                "order": "49.00000000000000000000",
+                "label": "um 9. Jh., drittes Drittel",
+                "not_before": "0866-01-01",
+                "hit_id": "hit_date__49",
+                "not_after": "0899-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              },
+              {
+                "id": 50,
+                "order": "50.00000000000000000000",
+                "label": "9/10 Jh.",
+                "not_before": "0800-01-01",
+                "hit_id": "hit_date__50",
+                "not_after": "0999-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              }
+            ],
+            "authority": [
+              {
+                "id": 3,
+                "order": "3.00000000000000000000",
+                "name": "Glauche",
+                "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+                "zotero_id": ""
+              }
+            ],
+            "page": "",
+            "preferred_date": false,
+            "Created by": {
+              "id": 96,
+              "name": "Jesper van der Most"
+            },
+            "Created on": "2024-09-06",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17T11:39:14.198525Z",
+            "note": ""
+          }
+        ],
+        "orig_dated": [
+          {
+            "ids": {
+              "database_table_3512": 49,
+              "database_table_3516": 33
+            },
+            "value": "um 9. Jh., drittes Drittel"
+          },
+          {
+            "ids": {
+              "database_table_3512": 50,
+              "database_table_3516": 33
+            },
+            "value": "9/10 Jh."
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -53015,7 +55260,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-14",
-        "Last modified": "2024-07-19",
+        "Last modified": "2024-09-17",
         "content_summary": null
       }
     ],
@@ -53176,27 +55421,238 @@
             "Last modified": "2024-07-03"
           }
         ],
-        "extent": "",
-        "foliation": "",
+        "extent": "139",
+        "foliation": "19 Jh.",
         "acc_mat": "",
         "binding": "",
         "binding_date": [],
         "history": "",
         "bibliography": [],
-        "height": null,
-        "width": null,
+        "height": "250",
+        "width": "195",
         "material_spec": "",
-        "orig_place": [],
+        "orig_place": [
+          {
+            "id": 4,
+            "order": "4.00000000000000000000",
+            "name": "Freising",
+            "geonames_url": "https://www.geonames.org/2925034/freising.html",
+            "hit_id": "hit_place__4",
+            "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+            "country": [
+              {
+                "id": 2,
+                "order": "2.00000000000000000000",
+                "name": "Deutschland",
+                "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+                "hit_id": "hit_place__2",
+                "wikidata_url": "",
+                "country": [],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-06-05",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-06-13",
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          },
+          {
+            "id": 12,
+            "order": "12.00000000000000000000",
+            "name": "Bodensee",
+            "geonames_url": "https://www.geonames.org/11919717/bodenseeregion.html",
+            "hit_id": "hit_place__12",
+            "wikidata_url": "",
+            "country": [
+              {
+                "id": 2,
+                "order": "2.00000000000000000000",
+                "name": "Deutschland",
+                "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+                "hit_id": "hit_place__2",
+                "wikidata_url": "",
+                "country": [],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-06-05",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-07-08",
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "",
         "material": {
           "id": 14782,
           "value": "parchment",
           "color": "darker-orange"
         },
-        "provenance": [],
-        "manuscripts_dated": [],
-        "orig_dated": [],
+        "provenance": [
+          {
+            "id": 6,
+            "order": "5.00000000000000000000",
+            "label": "Dombibliothek Freising",
+            "hit_id": "hit_org__6",
+            "gnd_url": "https://d-nb.info/gnd/1052539-7",
+            "library_full": "Dombibliothek Freising",
+            "library_website": "",
+            "settlement": [
+              {
+                "id": 4,
+                "order": "4.00000000000000000000",
+                "name": "Freising",
+                "geonames_url": "https://www.geonames.org/2925034/freising.html",
+                "hit_id": "hit_place__4",
+                "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+                "country": [
+                  {
+                    "id": 2,
+                    "value": "Deutschland"
+                  }
+                ],
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Created on": "2024-06-13",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "wikidata": "",
+            "Created by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Created on": "2024-07-05",
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-05"
+          }
+        ],
+        "manuscripts_dated": [
+          {
+            "id": 33,
+            "order": "30.00000000000000000000",
+            "hit_id": "hit_dated__33",
+            "manuscript": [
+              {
+                "id": 19,
+                "value": "BSB, Clm. 6341"
+              }
+            ],
+            "date": [
+              {
+                "id": 49,
+                "order": "49.00000000000000000000",
+                "label": "um 9. Jh., drittes Drittel",
+                "not_before": "0866-01-01",
+                "hit_id": "hit_date__49",
+                "not_after": "0899-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              },
+              {
+                "id": 50,
+                "order": "50.00000000000000000000",
+                "label": "9/10 Jh.",
+                "not_before": "0800-01-01",
+                "hit_id": "hit_date__50",
+                "not_after": "0999-12-31",
+                "Created by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-09-17"
+              }
+            ],
+            "authority": [
+              {
+                "id": 3,
+                "order": "3.00000000000000000000",
+                "name": "Glauche",
+                "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+                "zotero_id": ""
+              }
+            ],
+            "page": "",
+            "preferred_date": false,
+            "Created by": {
+              "id": 96,
+              "name": "Jesper van der Most"
+            },
+            "Created on": "2024-09-06",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-09-17T11:39:14.198525Z",
+            "note": ""
+          }
+        ],
+        "orig_dated": [
+          {
+            "ids": {
+              "database_table_3512": 49,
+              "database_table_3516": 33
+            },
+            "value": "um 9. Jh., drittes Drittel"
+          },
+          {
+            "ids": {
+              "database_table_3512": 50,
+              "database_table_3516": 33
+            },
+            "value": "9/10 Jh."
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -53206,7 +55662,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-14",
-        "Last modified": "2024-07-19",
+        "Last modified": "2024-09-17",
         "content_summary": null
       }
     ],
@@ -111056,6 +113512,385 @@
     ],
     "facs_url": ""
   },
+  "161": {
+    "id": 161,
+    "order": "129.50000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__161"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "order": "1.50000000000000000000",
+        "shelfmark": [
+          {
+            "id": 1,
+            "value": "ÖNB, Cod. 2090"
+          }
+        ],
+        "hit_id": "hit_mansuscript__21",
+        "library": [
+          {
+            "id": 1,
+            "value": "ÖNB"
+          }
+        ],
+        "manuscripta_url": "https://manuscripta.at/?ID=5187",
+        "handschriftenportal_url": "",
+        "catalog_url": "http://data.onb.ac.at/rec/AC13961404",
+        "digi_url": "http://data.onb.ac.at/dtl/8931254",
+        "idno": "Cod. 2090",
+        "idno_former": "Salisb. 311",
+        "quire_structure": "TBD.\n",
+        "library_full": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "ÖNB",
+            "hit_id": "hit_org__1",
+            "gnd_url": "https://d-nb.info/gnd/2020893-5",
+            "library_full": "Österreichische Nationalbibliothek",
+            "library_website": "https://www.onb.ac.at/",
+            "settlement": [
+              {
+                "id": 6,
+                "order": "6.00000000000000000000",
+                "name": "Wien",
+                "geonames_url": "https://www.geonames.org/2761369/vienna.html",
+                "hit_id": "hit_place__6",
+                "wikidata_url": "",
+                "country": [
+                  {
+                    "id": 1,
+                    "value": "Österreich"
+                  }
+                ],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-07-03",
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-07-09"
+              }
+            ],
+            "wikidata": "",
+            "Created by": {
+              "id": 3,
+              "name": "Peter Andorfer"
+            },
+            "Created on": "2024-06-04",
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-03"
+          }
+        ],
+        "extent": "98",
+        "foliation": "",
+        "acc_mat": "Spiegel, spätmittelalterliches Fragment.",
+        "binding": "Hellbrauner Ledereinband über Holzdeckeln aus Salzburg. Verzierter, gerahmter Deckel mit einem Diagonalkreuz aus doppelt gestrichenen Linien. Reste von Schließen. Auf dem Hinterdeckel sind Spuren eines Haken. Am Vorderdeckel ein Pergamentstreifen mit einer Teilinhaltsangabe.",
+        "binding_date": [
+          {
+            "id": 21,
+            "value": "um 1433"
+          }
+        ],
+        "history": "Zur Zeit Erzbischofs Gebhard (1060-1088) angelegt und bis in das Episkopat Adalbert (1168-1177) weitergeführt. Die Handschrift verblieb bis zum Jahr 1806 im Besitz der Salzburger Dombibliothek und kam anschließend in die damalige Hofblibliothek.",
+        "bibliography": [],
+        "height": "365",
+        "width": "260",
+        "material_spec": "",
+        "orig_place": [
+          {
+            "id": 3,
+            "order": "3.00000000000000000000",
+            "name": "Salzburg",
+            "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
+            "hit_id": "hit_place__3",
+            "wikidata_url": "",
+            "country": [
+              {
+                "id": 1,
+                "order": "1.00000000000000000000",
+                "name": "Österreich",
+                "geonames_url": "https://www.geonames.org/2782113/republic-of-austria.html",
+                "hit_id": "hit_place__1",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q40",
+                "country": [],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-06-05",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-06-09"
+              }
+            ],
+            "Created by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Created on": "2024-06-12",
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "catchwords": "",
+        "quiremarks": "",
+        "material": {
+          "id": 14782,
+          "value": "parchment",
+          "color": "darker-orange"
+        },
+        "provenance": [
+          {
+            "id": 8,
+            "order": "7.00000000000000000000",
+            "label": "Dombibliothek Salzburg",
+            "hit_id": "hit_org__8",
+            "gnd_url": "https://d-nb.info/gnd/4220685-6",
+            "library_full": "Domkapitelbibliothek Salzburg",
+            "library_website": "",
+            "settlement": [
+              {
+                "id": 3,
+                "order": "3.00000000000000000000",
+                "name": "Salzburg",
+                "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
+                "hit_id": "hit_place__3",
+                "wikidata_url": "",
+                "country": [
+                  {
+                    "id": 1,
+                    "value": "Österreich"
+                  }
+                ],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-06-12",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "wikidata": "",
+            "Created by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Created on": "2024-07-10",
+            "Last modified by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Last modified": "2024-07-18"
+          }
+        ],
+        "manuscripts_dated": [
+          {
+            "id": 30,
+            "order": "27.00000000000000000000",
+            "hit_id": "hit_dated__30",
+            "manuscript": [
+              {
+                "id": 21,
+                "value": "ÖNB, Cod. 2090"
+              }
+            ],
+            "date": [
+              {
+                "id": 38,
+                "order": "38.00000000000000000000",
+                "label": "1060-1065",
+                "not_before": "1060-04-08",
+                "hit_id": "hit_date__38",
+                "not_after": "1065-07-23",
+                "Created by": {
+                  "id": 86,
+                  "name": "Leon Pürstinger"
+                },
+                "Last modified by": {
+                  "id": 86,
+                  "name": "Leon Pürstinger"
+                },
+                "Last modified": "2024-07-26"
+              }
+            ],
+            "authority": [
+              {
+                "id": 7,
+                "order": "7.00000000000000000000",
+                "name": "Unterkircher",
+                "short_title": "Die datierten Handschriften der Österreichischen Nationalbibliothek bis zum Jahre 1400",
+                "zotero_id": ""
+              }
+            ],
+            "page": "47",
+            "preferred_date": true,
+            "Created by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Created on": "2024-07-26",
+            "Last modified by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Last modified": "2024-07-26T13:28:35.850202Z",
+            "note": ""
+          },
+          {
+            "id": 31,
+            "order": "28.00000000000000000000",
+            "hit_id": "hit_dated__31",
+            "manuscript": [
+              {
+                "id": 21,
+                "value": "ÖNB, Cod. 2090"
+              }
+            ],
+            "date": [
+              {
+                "id": 39,
+                "order": "39.00000000000000000000",
+                "label": "11. Jh., zweite Hälfte",
+                "not_before": "1050-01-01",
+                "hit_id": "hit_date__39",
+                "not_after": "1099-12-31",
+                "Created by": {
+                  "id": 86,
+                  "name": "Leon Pürstinger"
+                },
+                "Last modified by": {
+                  "id": 86,
+                  "name": "Leon Pürstinger"
+                },
+                "Last modified": "2024-07-26"
+              }
+            ],
+            "authority": [
+              {
+                "id": 8,
+                "order": "8.00000000000000000000",
+                "name": "Hermann",
+                "short_title": "Die deutschen romanischen Handschriften",
+                "zotero_id": ""
+              }
+            ],
+            "page": "35",
+            "preferred_date": false,
+            "Created by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Created on": "2024-07-26",
+            "Last modified by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Last modified": "2024-07-26T13:28:29.988028Z",
+            "note": "\"In Salzburg in der 2. Hälfte des XI. Jahrhunderts, vermutlich zur Zeit des Erzbischofs Gebhard (1060-1088) oder des Erzbischofs Thiemo (1090-1101) geschrieben\"."
+          }
+        ],
+        "orig_dated": [
+          {
+            "ids": {
+              "database_table_3512": 38,
+              "database_table_3516": 30
+            },
+            "value": "1060-1065"
+          },
+          {
+            "ids": {
+              "database_table_3512": 39,
+              "database_table_3516": 31
+            },
+            "value": "11. Jh., zweite Hälfte"
+          }
+        ],
+        "Created by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified by": {
+          "id": 96,
+          "name": "Jesper van der Most"
+        },
+        "Created on": "2024-06-17",
+        "Last modified": "2024-09-09",
+        "content_summary": null
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 103,
+        "order": "101.00000000000000000000",
+        "title": "Traditionsnotizen des Salzburger Domstiftes",
+        "gnd_url": "",
+        "note": "",
+        "hit_id": "hit_works__103",
+        "author": [],
+        "bibliography": [],
+        "source_text": [],
+        "genre": [],
+        "note_source": "",
+        "Created by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Created on": "2024-07-26",
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-26"
+      }
+    ],
+    "title_note": "Nr. 13, 14 (um 1139)",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": null,
+    "filiation": [],
+    "locus_grp": "93r",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-09-17",
+    "Created on": "2024-09-09",
+    "Created by": {
+      "id": 96,
+      "name": "Jesper van der Most"
+    },
+    "Last modified by": {
+      "id": 96,
+      "name": "Jesper van der Most"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": ""
+  },
   "149": {
     "id": 149,
     "order": "130.00000000000000000000",
@@ -111431,6 +114266,385 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": ""
+  },
+  "164": {
+    "id": 164,
+    "order": "130.50000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__164"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "order": "1.50000000000000000000",
+        "shelfmark": [
+          {
+            "id": 1,
+            "value": "ÖNB, Cod. 2090"
+          }
+        ],
+        "hit_id": "hit_mansuscript__21",
+        "library": [
+          {
+            "id": 1,
+            "value": "ÖNB"
+          }
+        ],
+        "manuscripta_url": "https://manuscripta.at/?ID=5187",
+        "handschriftenportal_url": "",
+        "catalog_url": "http://data.onb.ac.at/rec/AC13961404",
+        "digi_url": "http://data.onb.ac.at/dtl/8931254",
+        "idno": "Cod. 2090",
+        "idno_former": "Salisb. 311",
+        "quire_structure": "TBD.\n",
+        "library_full": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "label": "ÖNB",
+            "hit_id": "hit_org__1",
+            "gnd_url": "https://d-nb.info/gnd/2020893-5",
+            "library_full": "Österreichische Nationalbibliothek",
+            "library_website": "https://www.onb.ac.at/",
+            "settlement": [
+              {
+                "id": 6,
+                "order": "6.00000000000000000000",
+                "name": "Wien",
+                "geonames_url": "https://www.geonames.org/2761369/vienna.html",
+                "hit_id": "hit_place__6",
+                "wikidata_url": "",
+                "country": [
+                  {
+                    "id": 1,
+                    "value": "Österreich"
+                  }
+                ],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-07-03",
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-07-09"
+              }
+            ],
+            "wikidata": "",
+            "Created by": {
+              "id": 3,
+              "name": "Peter Andorfer"
+            },
+            "Created on": "2024-06-04",
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-03"
+          }
+        ],
+        "extent": "98",
+        "foliation": "",
+        "acc_mat": "Spiegel, spätmittelalterliches Fragment.",
+        "binding": "Hellbrauner Ledereinband über Holzdeckeln aus Salzburg. Verzierter, gerahmter Deckel mit einem Diagonalkreuz aus doppelt gestrichenen Linien. Reste von Schließen. Auf dem Hinterdeckel sind Spuren eines Haken. Am Vorderdeckel ein Pergamentstreifen mit einer Teilinhaltsangabe.",
+        "binding_date": [
+          {
+            "id": 21,
+            "value": "um 1433"
+          }
+        ],
+        "history": "Zur Zeit Erzbischofs Gebhard (1060-1088) angelegt und bis in das Episkopat Adalbert (1168-1177) weitergeführt. Die Handschrift verblieb bis zum Jahr 1806 im Besitz der Salzburger Dombibliothek und kam anschließend in die damalige Hofblibliothek.",
+        "bibliography": [],
+        "height": "365",
+        "width": "260",
+        "material_spec": "",
+        "orig_place": [
+          {
+            "id": 3,
+            "order": "3.00000000000000000000",
+            "name": "Salzburg",
+            "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
+            "hit_id": "hit_place__3",
+            "wikidata_url": "",
+            "country": [
+              {
+                "id": 1,
+                "order": "1.00000000000000000000",
+                "name": "Österreich",
+                "geonames_url": "https://www.geonames.org/2782113/republic-of-austria.html",
+                "hit_id": "hit_place__1",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q40",
+                "country": [],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-06-05",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-06-09"
+              }
+            ],
+            "Created by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Created on": "2024-06-12",
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "catchwords": "",
+        "quiremarks": "",
+        "material": {
+          "id": 14782,
+          "value": "parchment",
+          "color": "darker-orange"
+        },
+        "provenance": [
+          {
+            "id": 8,
+            "order": "7.00000000000000000000",
+            "label": "Dombibliothek Salzburg",
+            "hit_id": "hit_org__8",
+            "gnd_url": "https://d-nb.info/gnd/4220685-6",
+            "library_full": "Domkapitelbibliothek Salzburg",
+            "library_website": "",
+            "settlement": [
+              {
+                "id": 3,
+                "order": "3.00000000000000000000",
+                "name": "Salzburg",
+                "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
+                "hit_id": "hit_place__3",
+                "wikidata_url": "",
+                "country": [
+                  {
+                    "id": 1,
+                    "value": "Österreich"
+                  }
+                ],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-06-12",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "wikidata": "",
+            "Created by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Created on": "2024-07-10",
+            "Last modified by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Last modified": "2024-07-18"
+          }
+        ],
+        "manuscripts_dated": [
+          {
+            "id": 30,
+            "order": "27.00000000000000000000",
+            "hit_id": "hit_dated__30",
+            "manuscript": [
+              {
+                "id": 21,
+                "value": "ÖNB, Cod. 2090"
+              }
+            ],
+            "date": [
+              {
+                "id": 38,
+                "order": "38.00000000000000000000",
+                "label": "1060-1065",
+                "not_before": "1060-04-08",
+                "hit_id": "hit_date__38",
+                "not_after": "1065-07-23",
+                "Created by": {
+                  "id": 86,
+                  "name": "Leon Pürstinger"
+                },
+                "Last modified by": {
+                  "id": 86,
+                  "name": "Leon Pürstinger"
+                },
+                "Last modified": "2024-07-26"
+              }
+            ],
+            "authority": [
+              {
+                "id": 7,
+                "order": "7.00000000000000000000",
+                "name": "Unterkircher",
+                "short_title": "Die datierten Handschriften der Österreichischen Nationalbibliothek bis zum Jahre 1400",
+                "zotero_id": ""
+              }
+            ],
+            "page": "47",
+            "preferred_date": true,
+            "Created by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Created on": "2024-07-26",
+            "Last modified by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Last modified": "2024-07-26T13:28:35.850202Z",
+            "note": ""
+          },
+          {
+            "id": 31,
+            "order": "28.00000000000000000000",
+            "hit_id": "hit_dated__31",
+            "manuscript": [
+              {
+                "id": 21,
+                "value": "ÖNB, Cod. 2090"
+              }
+            ],
+            "date": [
+              {
+                "id": 39,
+                "order": "39.00000000000000000000",
+                "label": "11. Jh., zweite Hälfte",
+                "not_before": "1050-01-01",
+                "hit_id": "hit_date__39",
+                "not_after": "1099-12-31",
+                "Created by": {
+                  "id": 86,
+                  "name": "Leon Pürstinger"
+                },
+                "Last modified by": {
+                  "id": 86,
+                  "name": "Leon Pürstinger"
+                },
+                "Last modified": "2024-07-26"
+              }
+            ],
+            "authority": [
+              {
+                "id": 8,
+                "order": "8.00000000000000000000",
+                "name": "Hermann",
+                "short_title": "Die deutschen romanischen Handschriften",
+                "zotero_id": ""
+              }
+            ],
+            "page": "35",
+            "preferred_date": false,
+            "Created by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Created on": "2024-07-26",
+            "Last modified by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Last modified": "2024-07-26T13:28:29.988028Z",
+            "note": "\"In Salzburg in der 2. Hälfte des XI. Jahrhunderts, vermutlich zur Zeit des Erzbischofs Gebhard (1060-1088) oder des Erzbischofs Thiemo (1090-1101) geschrieben\"."
+          }
+        ],
+        "orig_dated": [
+          {
+            "ids": {
+              "database_table_3512": 38,
+              "database_table_3516": 30
+            },
+            "value": "1060-1065"
+          },
+          {
+            "ids": {
+              "database_table_3512": 39,
+              "database_table_3516": 31
+            },
+            "value": "11. Jh., zweite Hälfte"
+          }
+        ],
+        "Created by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified by": {
+          "id": 96,
+          "name": "Jesper van der Most"
+        },
+        "Created on": "2024-06-17",
+        "Last modified": "2024-09-09",
+        "content_summary": null
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 103,
+        "order": "101.00000000000000000000",
+        "title": "Traditionsnotizen des Salzburger Domstiftes",
+        "gnd_url": "",
+        "note": "",
+        "hit_id": "hit_works__103",
+        "author": [],
+        "bibliography": [],
+        "source_text": [],
+        "genre": [],
+        "note_source": "",
+        "Created by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Created on": "2024-07-26",
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-26"
+      }
+    ],
+    "title_note": "Nr. 2 (1080 Juli 18)",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": null,
+    "filiation": [],
+    "locus_grp": "93v",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-09-17",
+    "Created on": "2024-09-09",
+    "Created by": {
+      "id": 96,
+      "name": "Jesper van der Most"
+    },
+    "Last modified by": {
+      "id": 96,
+      "name": "Jesper van der Most"
+    },
+    "note": "wohl Hand 12. Jh.",
     "hand": [],
     "decoration": [],
     "facs_url": ""
@@ -113942,764 +117156,6 @@
       "name": "Jesper van der Most"
     },
     "note": "",
-    "hand": [],
-    "decoration": [],
-    "facs_url": ""
-  },
-  "161": {
-    "id": 161,
-    "order": "143.00000000000000000000",
-    "label": [
-      {
-        "id": 21,
-        "value": "cod_2090__161"
-      }
-    ],
-    "manuscript": [
-      {
-        "id": 21,
-        "order": "1.50000000000000000000",
-        "shelfmark": [
-          {
-            "id": 1,
-            "value": "ÖNB, Cod. 2090"
-          }
-        ],
-        "hit_id": "hit_mansuscript__21",
-        "library": [
-          {
-            "id": 1,
-            "value": "ÖNB"
-          }
-        ],
-        "manuscripta_url": "https://manuscripta.at/?ID=5187",
-        "handschriftenportal_url": "",
-        "catalog_url": "http://data.onb.ac.at/rec/AC13961404",
-        "digi_url": "http://data.onb.ac.at/dtl/8931254",
-        "idno": "Cod. 2090",
-        "idno_former": "Salisb. 311",
-        "quire_structure": "TBD.\n",
-        "library_full": [
-          {
-            "id": 1,
-            "order": "1.00000000000000000000",
-            "label": "ÖNB",
-            "hit_id": "hit_org__1",
-            "gnd_url": "https://d-nb.info/gnd/2020893-5",
-            "library_full": "Österreichische Nationalbibliothek",
-            "library_website": "https://www.onb.ac.at/",
-            "settlement": [
-              {
-                "id": 6,
-                "order": "6.00000000000000000000",
-                "name": "Wien",
-                "geonames_url": "https://www.geonames.org/2761369/vienna.html",
-                "hit_id": "hit_place__6",
-                "wikidata_url": "",
-                "country": [
-                  {
-                    "id": 1,
-                    "value": "Österreich"
-                  }
-                ],
-                "Created by": {
-                  "id": 36,
-                  "name": "Ivana Dobcheva"
-                },
-                "Created on": "2024-07-03",
-                "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
-                },
-                "Last modified": "2024-07-09"
-              }
-            ],
-            "wikidata": "",
-            "Created by": {
-              "id": 3,
-              "name": "Peter Andorfer"
-            },
-            "Created on": "2024-06-04",
-            "Last modified by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Last modified": "2024-07-03"
-          }
-        ],
-        "extent": "98",
-        "foliation": "",
-        "acc_mat": "Spiegel, spätmittelalterliches Fragment.",
-        "binding": "Hellbrauner Ledereinband über Holzdeckeln aus Salzburg. Verzierter, gerahmter Deckel mit einem Diagonalkreuz aus doppelt gestrichenen Linien. Reste von Schließen. Auf dem Hinterdeckel sind Spuren eines Haken. Am Vorderdeckel ein Pergamentstreifen mit einer Teilinhaltsangabe.",
-        "binding_date": [
-          {
-            "id": 21,
-            "value": "um 1433"
-          }
-        ],
-        "history": "Zur Zeit Erzbischofs Gebhard (1060-1088) angelegt und bis in das Episkopat Adalbert (1168-1177) weitergeführt. Die Handschrift verblieb bis zum Jahr 1806 im Besitz der Salzburger Dombibliothek und kam anschließend in die damalige Hofblibliothek.",
-        "bibliography": [],
-        "height": "365",
-        "width": "260",
-        "material_spec": "",
-        "orig_place": [
-          {
-            "id": 3,
-            "order": "3.00000000000000000000",
-            "name": "Salzburg",
-            "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
-            "hit_id": "hit_place__3",
-            "wikidata_url": "",
-            "country": [
-              {
-                "id": 1,
-                "order": "1.00000000000000000000",
-                "name": "Österreich",
-                "geonames_url": "https://www.geonames.org/2782113/republic-of-austria.html",
-                "hit_id": "hit_place__1",
-                "wikidata_url": "https://www.wikidata.org/wiki/Q40",
-                "country": [],
-                "Created by": {
-                  "id": 36,
-                  "name": "Ivana Dobcheva"
-                },
-                "Created on": "2024-06-05",
-                "Last modified by": {
-                  "id": 36,
-                  "name": "Ivana Dobcheva"
-                },
-                "Last modified": "2024-06-09"
-              }
-            ],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-06-12",
-            "Last modified by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Last modified": "2024-07-11"
-          }
-        ],
-        "catchwords": "",
-        "quiremarks": "",
-        "material": {
-          "id": 14782,
-          "value": "parchment",
-          "color": "darker-orange"
-        },
-        "provenance": [
-          {
-            "id": 8,
-            "order": "7.00000000000000000000",
-            "label": "Dombibliothek Salzburg",
-            "hit_id": "hit_org__8",
-            "gnd_url": "https://d-nb.info/gnd/4220685-6",
-            "library_full": "Domkapitelbibliothek Salzburg",
-            "library_website": "",
-            "settlement": [
-              {
-                "id": 3,
-                "order": "3.00000000000000000000",
-                "name": "Salzburg",
-                "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
-                "hit_id": "hit_place__3",
-                "wikidata_url": "",
-                "country": [
-                  {
-                    "id": 1,
-                    "value": "Österreich"
-                  }
-                ],
-                "Created by": {
-                  "id": 36,
-                  "name": "Ivana Dobcheva"
-                },
-                "Created on": "2024-06-12",
-                "Last modified by": {
-                  "id": 36,
-                  "name": "Ivana Dobcheva"
-                },
-                "Last modified": "2024-07-11"
-              }
-            ],
-            "wikidata": "",
-            "Created by": {
-              "id": 86,
-              "name": "Leon Pürstinger"
-            },
-            "Created on": "2024-07-10",
-            "Last modified by": {
-              "id": 86,
-              "name": "Leon Pürstinger"
-            },
-            "Last modified": "2024-07-18"
-          }
-        ],
-        "manuscripts_dated": [
-          {
-            "id": 30,
-            "order": "27.00000000000000000000",
-            "hit_id": "hit_dated__30",
-            "manuscript": [
-              {
-                "id": 21,
-                "value": "ÖNB, Cod. 2090"
-              }
-            ],
-            "date": [
-              {
-                "id": 38,
-                "order": "38.00000000000000000000",
-                "label": "1060-1065",
-                "not_before": "1060-04-08",
-                "hit_id": "hit_date__38",
-                "not_after": "1065-07-23",
-                "Created by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
-                },
-                "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
-                },
-                "Last modified": "2024-07-26"
-              }
-            ],
-            "authority": [
-              {
-                "id": 7,
-                "order": "7.00000000000000000000",
-                "name": "Unterkircher",
-                "short_title": "Die datierten Handschriften der Österreichischen Nationalbibliothek bis zum Jahre 1400",
-                "zotero_id": ""
-              }
-            ],
-            "page": "47",
-            "preferred_date": true,
-            "Created by": {
-              "id": 86,
-              "name": "Leon Pürstinger"
-            },
-            "Created on": "2024-07-26",
-            "Last modified by": {
-              "id": 86,
-              "name": "Leon Pürstinger"
-            },
-            "Last modified": "2024-07-26T13:28:35.850202Z",
-            "note": ""
-          },
-          {
-            "id": 31,
-            "order": "28.00000000000000000000",
-            "hit_id": "hit_dated__31",
-            "manuscript": [
-              {
-                "id": 21,
-                "value": "ÖNB, Cod. 2090"
-              }
-            ],
-            "date": [
-              {
-                "id": 39,
-                "order": "39.00000000000000000000",
-                "label": "11. Jh., zweite Hälfte",
-                "not_before": "1050-01-01",
-                "hit_id": "hit_date__39",
-                "not_after": "1099-12-31",
-                "Created by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
-                },
-                "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
-                },
-                "Last modified": "2024-07-26"
-              }
-            ],
-            "authority": [
-              {
-                "id": 8,
-                "order": "8.00000000000000000000",
-                "name": "Hermann",
-                "short_title": "Die deutschen romanischen Handschriften",
-                "zotero_id": ""
-              }
-            ],
-            "page": "35",
-            "preferred_date": false,
-            "Created by": {
-              "id": 86,
-              "name": "Leon Pürstinger"
-            },
-            "Created on": "2024-07-26",
-            "Last modified by": {
-              "id": 86,
-              "name": "Leon Pürstinger"
-            },
-            "Last modified": "2024-07-26T13:28:29.988028Z",
-            "note": "\"In Salzburg in der 2. Hälfte des XI. Jahrhunderts, vermutlich zur Zeit des Erzbischofs Gebhard (1060-1088) oder des Erzbischofs Thiemo (1090-1101) geschrieben\"."
-          }
-        ],
-        "orig_dated": [
-          {
-            "ids": {
-              "database_table_3512": 38,
-              "database_table_3516": 30
-            },
-            "value": "1060-1065"
-          },
-          {
-            "ids": {
-              "database_table_3512": 39,
-              "database_table_3516": 31
-            },
-            "value": "11. Jh., zweite Hälfte"
-          }
-        ],
-        "Created by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
-        },
-        "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
-        },
-        "Created on": "2024-06-17",
-        "Last modified": "2024-09-09",
-        "content_summary": null
-      }
-    ],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [
-      {
-        "id": 103,
-        "order": "101.00000000000000000000",
-        "title": "Traditionsnotizen des Salzburger Domstiftes",
-        "gnd_url": "",
-        "note": "",
-        "hit_id": "hit_works__103",
-        "author": [],
-        "bibliography": [],
-        "source_text": [],
-        "genre": [],
-        "note_source": "",
-        "Created by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
-        },
-        "Created on": "2024-07-26",
-        "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
-        },
-        "Last modified": "2024-07-26"
-      }
-    ],
-    "title_note": "Nr. 13, 14 (um 1139)",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__161",
-    "filiation": [],
-    "locus_grp": "93r",
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-09-09",
-    "Created on": "2024-09-09",
-    "Created by": {
-      "id": 96,
-      "name": "Jesper van der Most"
-    },
-    "Last modified by": {
-      "id": 96,
-      "name": "Jesper van der Most"
-    },
-    "note": "",
-    "hand": [],
-    "decoration": [],
-    "facs_url": ""
-  },
-  "164": {
-    "id": 164,
-    "order": "146.00000000000000000000",
-    "label": [
-      {
-        "id": 21,
-        "value": "cod_2090__164"
-      }
-    ],
-    "manuscript": [
-      {
-        "id": 21,
-        "order": "1.50000000000000000000",
-        "shelfmark": [
-          {
-            "id": 1,
-            "value": "ÖNB, Cod. 2090"
-          }
-        ],
-        "hit_id": "hit_mansuscript__21",
-        "library": [
-          {
-            "id": 1,
-            "value": "ÖNB"
-          }
-        ],
-        "manuscripta_url": "https://manuscripta.at/?ID=5187",
-        "handschriftenportal_url": "",
-        "catalog_url": "http://data.onb.ac.at/rec/AC13961404",
-        "digi_url": "http://data.onb.ac.at/dtl/8931254",
-        "idno": "Cod. 2090",
-        "idno_former": "Salisb. 311",
-        "quire_structure": "TBD.\n",
-        "library_full": [
-          {
-            "id": 1,
-            "order": "1.00000000000000000000",
-            "label": "ÖNB",
-            "hit_id": "hit_org__1",
-            "gnd_url": "https://d-nb.info/gnd/2020893-5",
-            "library_full": "Österreichische Nationalbibliothek",
-            "library_website": "https://www.onb.ac.at/",
-            "settlement": [
-              {
-                "id": 6,
-                "order": "6.00000000000000000000",
-                "name": "Wien",
-                "geonames_url": "https://www.geonames.org/2761369/vienna.html",
-                "hit_id": "hit_place__6",
-                "wikidata_url": "",
-                "country": [
-                  {
-                    "id": 1,
-                    "value": "Österreich"
-                  }
-                ],
-                "Created by": {
-                  "id": 36,
-                  "name": "Ivana Dobcheva"
-                },
-                "Created on": "2024-07-03",
-                "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
-                },
-                "Last modified": "2024-07-09"
-              }
-            ],
-            "wikidata": "",
-            "Created by": {
-              "id": 3,
-              "name": "Peter Andorfer"
-            },
-            "Created on": "2024-06-04",
-            "Last modified by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Last modified": "2024-07-03"
-          }
-        ],
-        "extent": "98",
-        "foliation": "",
-        "acc_mat": "Spiegel, spätmittelalterliches Fragment.",
-        "binding": "Hellbrauner Ledereinband über Holzdeckeln aus Salzburg. Verzierter, gerahmter Deckel mit einem Diagonalkreuz aus doppelt gestrichenen Linien. Reste von Schließen. Auf dem Hinterdeckel sind Spuren eines Haken. Am Vorderdeckel ein Pergamentstreifen mit einer Teilinhaltsangabe.",
-        "binding_date": [
-          {
-            "id": 21,
-            "value": "um 1433"
-          }
-        ],
-        "history": "Zur Zeit Erzbischofs Gebhard (1060-1088) angelegt und bis in das Episkopat Adalbert (1168-1177) weitergeführt. Die Handschrift verblieb bis zum Jahr 1806 im Besitz der Salzburger Dombibliothek und kam anschließend in die damalige Hofblibliothek.",
-        "bibliography": [],
-        "height": "365",
-        "width": "260",
-        "material_spec": "",
-        "orig_place": [
-          {
-            "id": 3,
-            "order": "3.00000000000000000000",
-            "name": "Salzburg",
-            "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
-            "hit_id": "hit_place__3",
-            "wikidata_url": "",
-            "country": [
-              {
-                "id": 1,
-                "order": "1.00000000000000000000",
-                "name": "Österreich",
-                "geonames_url": "https://www.geonames.org/2782113/republic-of-austria.html",
-                "hit_id": "hit_place__1",
-                "wikidata_url": "https://www.wikidata.org/wiki/Q40",
-                "country": [],
-                "Created by": {
-                  "id": 36,
-                  "name": "Ivana Dobcheva"
-                },
-                "Created on": "2024-06-05",
-                "Last modified by": {
-                  "id": 36,
-                  "name": "Ivana Dobcheva"
-                },
-                "Last modified": "2024-06-09"
-              }
-            ],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-06-12",
-            "Last modified by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Last modified": "2024-07-11"
-          }
-        ],
-        "catchwords": "",
-        "quiremarks": "",
-        "material": {
-          "id": 14782,
-          "value": "parchment",
-          "color": "darker-orange"
-        },
-        "provenance": [
-          {
-            "id": 8,
-            "order": "7.00000000000000000000",
-            "label": "Dombibliothek Salzburg",
-            "hit_id": "hit_org__8",
-            "gnd_url": "https://d-nb.info/gnd/4220685-6",
-            "library_full": "Domkapitelbibliothek Salzburg",
-            "library_website": "",
-            "settlement": [
-              {
-                "id": 3,
-                "order": "3.00000000000000000000",
-                "name": "Salzburg",
-                "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
-                "hit_id": "hit_place__3",
-                "wikidata_url": "",
-                "country": [
-                  {
-                    "id": 1,
-                    "value": "Österreich"
-                  }
-                ],
-                "Created by": {
-                  "id": 36,
-                  "name": "Ivana Dobcheva"
-                },
-                "Created on": "2024-06-12",
-                "Last modified by": {
-                  "id": 36,
-                  "name": "Ivana Dobcheva"
-                },
-                "Last modified": "2024-07-11"
-              }
-            ],
-            "wikidata": "",
-            "Created by": {
-              "id": 86,
-              "name": "Leon Pürstinger"
-            },
-            "Created on": "2024-07-10",
-            "Last modified by": {
-              "id": 86,
-              "name": "Leon Pürstinger"
-            },
-            "Last modified": "2024-07-18"
-          }
-        ],
-        "manuscripts_dated": [
-          {
-            "id": 30,
-            "order": "27.00000000000000000000",
-            "hit_id": "hit_dated__30",
-            "manuscript": [
-              {
-                "id": 21,
-                "value": "ÖNB, Cod. 2090"
-              }
-            ],
-            "date": [
-              {
-                "id": 38,
-                "order": "38.00000000000000000000",
-                "label": "1060-1065",
-                "not_before": "1060-04-08",
-                "hit_id": "hit_date__38",
-                "not_after": "1065-07-23",
-                "Created by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
-                },
-                "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
-                },
-                "Last modified": "2024-07-26"
-              }
-            ],
-            "authority": [
-              {
-                "id": 7,
-                "order": "7.00000000000000000000",
-                "name": "Unterkircher",
-                "short_title": "Die datierten Handschriften der Österreichischen Nationalbibliothek bis zum Jahre 1400",
-                "zotero_id": ""
-              }
-            ],
-            "page": "47",
-            "preferred_date": true,
-            "Created by": {
-              "id": 86,
-              "name": "Leon Pürstinger"
-            },
-            "Created on": "2024-07-26",
-            "Last modified by": {
-              "id": 86,
-              "name": "Leon Pürstinger"
-            },
-            "Last modified": "2024-07-26T13:28:35.850202Z",
-            "note": ""
-          },
-          {
-            "id": 31,
-            "order": "28.00000000000000000000",
-            "hit_id": "hit_dated__31",
-            "manuscript": [
-              {
-                "id": 21,
-                "value": "ÖNB, Cod. 2090"
-              }
-            ],
-            "date": [
-              {
-                "id": 39,
-                "order": "39.00000000000000000000",
-                "label": "11. Jh., zweite Hälfte",
-                "not_before": "1050-01-01",
-                "hit_id": "hit_date__39",
-                "not_after": "1099-12-31",
-                "Created by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
-                },
-                "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
-                },
-                "Last modified": "2024-07-26"
-              }
-            ],
-            "authority": [
-              {
-                "id": 8,
-                "order": "8.00000000000000000000",
-                "name": "Hermann",
-                "short_title": "Die deutschen romanischen Handschriften",
-                "zotero_id": ""
-              }
-            ],
-            "page": "35",
-            "preferred_date": false,
-            "Created by": {
-              "id": 86,
-              "name": "Leon Pürstinger"
-            },
-            "Created on": "2024-07-26",
-            "Last modified by": {
-              "id": 86,
-              "name": "Leon Pürstinger"
-            },
-            "Last modified": "2024-07-26T13:28:29.988028Z",
-            "note": "\"In Salzburg in der 2. Hälfte des XI. Jahrhunderts, vermutlich zur Zeit des Erzbischofs Gebhard (1060-1088) oder des Erzbischofs Thiemo (1090-1101) geschrieben\"."
-          }
-        ],
-        "orig_dated": [
-          {
-            "ids": {
-              "database_table_3512": 38,
-              "database_table_3516": 30
-            },
-            "value": "1060-1065"
-          },
-          {
-            "ids": {
-              "database_table_3512": 39,
-              "database_table_3516": 31
-            },
-            "value": "11. Jh., zweite Hälfte"
-          }
-        ],
-        "Created by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
-        },
-        "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
-        },
-        "Created on": "2024-06-17",
-        "Last modified": "2024-09-09",
-        "content_summary": null
-      }
-    ],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [
-      {
-        "id": 103,
-        "order": "101.00000000000000000000",
-        "title": "Traditionsnotizen des Salzburger Domstiftes",
-        "gnd_url": "",
-        "note": "",
-        "hit_id": "hit_works__103",
-        "author": [],
-        "bibliography": [],
-        "source_text": [],
-        "genre": [],
-        "note_source": "",
-        "Created by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
-        },
-        "Created on": "2024-07-26",
-        "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
-        },
-        "Last modified": "2024-07-26"
-      }
-    ],
-    "title_note": "Nr. 2 (1080 Juli 18)",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__164",
-    "filiation": [],
-    "locus_grp": "93v",
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-09-09",
-    "Created on": "2024-09-09",
-    "Created by": {
-      "id": 96,
-      "name": "Jesper van der Most"
-    },
-    "Last modified by": {
-      "id": 96,
-      "name": "Jesper van der Most"
-    },
-    "note": "wohl Hand 12. Jh.",
     "hand": [],
     "decoration": [],
     "facs_url": ""

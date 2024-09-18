@@ -542,5 +542,44 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-16"
+  },
+  "17": {
+    "id": 17,
+    "order": "15.00000000000000000000",
+    "name": "Reims",
+    "geonames_url": "https://www.geonames.org/2984114/reims.html",
+    "hit_id": "hit_place__17",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q41876",
+    "country": [
+      {
+        "id": 14,
+        "order": "2.50000000000000000000",
+        "name": "Frankreich",
+        "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+        "hit_id": "hit_place__14",
+        "wikidata_url": "",
+        "country": [],
+        "Created by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Created on": "2024-07-11",
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-17",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-17"
   }
 }

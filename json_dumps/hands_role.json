@@ -1530,7 +1530,7 @@
         "color": "darker-red"
       }
     ],
-    "locus": "1r-8v, 9r-114r, 115v-149r",
+    "locus": "1r-8v, 9r-149r",
     "text": [
       {
         "ids": {
@@ -1555,7 +1555,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-07-16",
-    "Last modified": "2024-07-28",
+    "Last modified": "2024-09-18",
     "locus_layout": [],
     "function": []
   },
@@ -1600,12 +1600,17 @@
     ],
     "role": [
       {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
+      },
+      {
         "id": 14760,
         "value": "corrector",
         "color": "darker-blue"
       }
     ],
-    "locus": "8r; 114v-115r",
+    "locus": "1v, 4r, 8r, 10r, 12r, 51r, 113v. Bischoff meinte, dass der Text auf ff. 114v-115r einer anderen Hand gehören kann",
     "text": [
       {
         "ids": {
@@ -1630,7 +1635,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-07-16",
-    "Last modified": "2024-07-16",
+    "Last modified": "2024-09-18",
     "locus_layout": [],
     "function": []
   },
@@ -6714,6 +6719,63 @@
     },
     "Created on": "2024-09-04",
     "Last modified": "2024-09-04",
+    "locus_layout": [],
+    "function": []
+  },
+  "142": {
+    "id": 142,
+    "order": "128.00000000000000000000",
+    "hit_id": "hit_hands_role__142",
+    "hand": [
+      {
+        "id": 106,
+        "value": "BSB, Clm. 6308_H. 3"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 17,
+        "value": "clm_6308__17"
+      }
+    ],
+    "role": [
+      {
+        "id": 14760,
+        "value": "corrector",
+        "color": "darker-blue"
+      },
+      {
+        "id": 14763,
+        "value": "annotator",
+        "color": "cyan"
+      }
+    ],
+    "locus": "Durchgehend in Räumen: 1r-4v, 10r, 49r-54v, 56r, 60r-61v, 63r-64v, 67r-70r, 73r, 76r-78v, 81r-82v, 86r-92v, 94r-v, 102r-107v, 118r-121v,124r-126v, 131r-133v, 141r-144v, 147r-148v.",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 17
+        },
+        "value": "Historiae adversus paganos"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 17,
+        "value": "1r-149r"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-18",
+    "Last modified": "2024-09-18",
     "locus_layout": [],
     "function": []
   }

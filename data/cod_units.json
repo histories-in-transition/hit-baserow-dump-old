@@ -1983,10 +1983,10 @@
         },
         "Created on": "2024-07-16",
         "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
+          "id": 87,
+          "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-26T13:32:29.108470Z",
+        "Last modified": "2024-09-18T12:01:09.542848Z",
         "cod_units": [
           {
             "id": 13,
@@ -2059,10 +2059,10 @@
         },
         "Created on": "2024-07-16",
         "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
+          "id": 87,
+          "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-18T09:20:03.340498Z",
+        "Last modified": "2024-09-18T12:01:09.542927Z",
         "cod_units": [
           {
             "id": 13,
@@ -2215,9 +2215,9 @@
           }
         ],
         "quiremark": "1",
-        "written_height": null,
-        "written_width": null,
-        "written": "×",
+        "written_height": "200",
+        "written_width": "120",
+        "written": "200×120",
         "hair_flesh": [
           {
             "id": 14742,
@@ -2234,13 +2234,18 @@
           }
         ],
         "note": "",
-        "decoration": "",
+        "decoration": "Auf 4r ein rundes Bild, darstellend drei Kontinenten",
         "quire_structure": "IV-2",
         "correct_number": null,
-        "height": null,
-        "width": null,
+        "height": "255",
+        "width": "160",
         "catchwords": false,
-        "stratum": [],
+        "stratum": [
+          {
+            "id": 6,
+            "value": "Clm. 6308, Stratum 1"
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -2250,7 +2255,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-18T11:51:22.181864Z",
+        "Last modified": "2024-09-18T12:41:33.546464Z",
         "cod_units": [
           {
             "id": 4,
@@ -2291,10 +2296,10 @@
             "value": "BSB, Clm. 6308"
           }
         ],
-        "quiremark": null,
-        "written_height": null,
-        "written_width": null,
-        "written": "×",
+        "quiremark": "2",
+        "written_height": "200",
+        "written_width": "120",
+        "written": "200×120",
         "hair_flesh": [
           {
             "id": 14742,
@@ -2314,10 +2319,15 @@
         "decoration": "",
         "quire_structure": "IV",
         "correct_number": null,
-        "height": null,
-        "width": null,
+        "height": "255",
+        "width": "160",
         "catchwords": false,
-        "stratum": [],
+        "stratum": [
+          {
+            "id": 6,
+            "value": "Clm. 6308, Stratum 1"
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -2327,7 +2337,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-18T11:51:24.608883Z",
+        "Last modified": "2024-09-18T12:47:02.720612Z",
         "cod_units": [
           {
             "id": 4,
@@ -2369,9 +2379,9 @@
           }
         ],
         "quiremark": null,
-        "written_height": null,
-        "written_width": null,
-        "written": "×",
+        "written_height": "200",
+        "written_width": "120",
+        "written": "200×120",
         "hair_flesh": [
           {
             "id": 14742,
@@ -2391,10 +2401,15 @@
         "decoration": "",
         "quire_structure": "IV",
         "correct_number": null,
-        "height": null,
-        "width": null,
+        "height": "255",
+        "width": "160",
         "catchwords": false,
-        "stratum": [],
+        "stratum": [
+          {
+            "id": 6,
+            "value": "Clm. 6308, Stratum 1"
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -2404,7 +2419,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-18T11:51:26.768905Z",
+        "Last modified": "2024-09-18T12:47:06.323206Z",
         "cod_units": [
           {
             "id": 4,
@@ -2445,10 +2460,10 @@
             "value": "BSB, Clm. 6308"
           }
         ],
-        "quiremark": null,
-        "written_height": null,
-        "written_width": null,
-        "written": "×",
+        "quiremark": "4",
+        "written_height": "200",
+        "written_width": "120",
+        "written": "200×120",
         "hair_flesh": [
           {
             "id": 14742,
@@ -2468,10 +2483,15 @@
         "decoration": "",
         "quire_structure": "IV",
         "correct_number": null,
-        "height": null,
-        "width": null,
+        "height": "255",
+        "width": "160",
         "catchwords": false,
-        "stratum": [],
+        "stratum": [
+          {
+            "id": 6,
+            "value": "Clm. 6308, Stratum 1"
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -2481,7 +2501,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-18T11:51:29.007124Z",
+        "Last modified": "2024-09-18T12:47:07.033030Z",
         "cod_units": [
           {
             "id": 4,
@@ -2522,10 +2542,10 @@
             "value": "BSB, Clm. 6308"
           }
         ],
-        "quiremark": null,
-        "written_height": null,
-        "written_width": null,
-        "written": "×",
+        "quiremark": "5",
+        "written_height": "200",
+        "written_width": "120",
+        "written": "200×120",
         "hair_flesh": [
           {
             "id": 14742,
@@ -2545,10 +2565,15 @@
         "decoration": "",
         "quire_structure": "IV",
         "correct_number": null,
-        "height": null,
-        "width": null,
+        "height": "255",
+        "width": "160",
         "catchwords": false,
-        "stratum": [],
+        "stratum": [
+          {
+            "id": 6,
+            "value": "Clm. 6308, Stratum 1"
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -2558,7 +2583,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-18T11:51:31.757787Z",
+        "Last modified": "2024-09-18T12:47:09.669118Z",
         "cod_units": [
           {
             "id": 4,
@@ -2599,10 +2624,10 @@
             "value": "BSB, Clm. 6308"
           }
         ],
-        "quiremark": null,
-        "written_height": null,
-        "written_width": null,
-        "written": "×",
+        "quiremark": "6",
+        "written_height": "200",
+        "written_width": "120",
+        "written": "200×120",
         "hair_flesh": [
           {
             "id": 14742,
@@ -2622,10 +2647,15 @@
         "decoration": "",
         "quire_structure": "IV",
         "correct_number": null,
-        "height": null,
-        "width": null,
+        "height": "255",
+        "width": "160",
         "catchwords": false,
-        "stratum": [],
+        "stratum": [
+          {
+            "id": 6,
+            "value": "Clm. 6308, Stratum 1"
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -2635,7 +2665,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-18T11:51:34.215188Z",
+        "Last modified": "2024-09-18T12:47:11.241283Z",
         "cod_units": [
           {
             "id": 4,
@@ -2676,10 +2706,10 @@
             "value": "BSB, Clm. 6308"
           }
         ],
-        "quiremark": null,
-        "written_height": null,
-        "written_width": null,
-        "written": "×",
+        "quiremark": "7",
+        "written_height": "200",
+        "written_width": "120",
+        "written": "200×120",
         "hair_flesh": [
           {
             "id": 14742,
@@ -2699,10 +2729,15 @@
         "decoration": "",
         "quire_structure": "IV",
         "correct_number": null,
-        "height": null,
-        "width": null,
+        "height": "255",
+        "width": "160",
         "catchwords": false,
-        "stratum": [],
+        "stratum": [
+          {
+            "id": 6,
+            "value": "Clm. 6308, Stratum 1"
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -2712,7 +2747,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-18T11:51:40.197319Z",
+        "Last modified": "2024-09-18T12:47:13.634480Z",
         "cod_units": [
           {
             "id": 4,
@@ -2753,10 +2788,10 @@
             "value": "BSB, Clm. 6308"
           }
         ],
-        "quiremark": null,
-        "written_height": null,
-        "written_width": null,
-        "written": "×",
+        "quiremark": "8",
+        "written_height": "200",
+        "written_width": "120",
+        "written": "200×120",
         "hair_flesh": [
           {
             "id": 14742,
@@ -2776,10 +2811,15 @@
         "decoration": "",
         "quire_structure": "IV",
         "correct_number": null,
-        "height": null,
-        "width": null,
+        "height": "255",
+        "width": "160",
         "catchwords": false,
-        "stratum": [],
+        "stratum": [
+          {
+            "id": 6,
+            "value": "Clm. 6308, Stratum 1"
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -2789,7 +2829,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-18T11:51:42.869889Z",
+        "Last modified": "2024-09-18T12:47:15.635421Z",
         "cod_units": [
           {
             "id": 4,
@@ -2830,10 +2870,10 @@
             "value": "BSB, Clm. 6308"
           }
         ],
-        "quiremark": null,
-        "written_height": null,
-        "written_width": null,
-        "written": "×",
+        "quiremark": "9",
+        "written_height": "200",
+        "written_width": "120",
+        "written": "200×120",
         "hair_flesh": [
           {
             "id": 14742,
@@ -2853,10 +2893,15 @@
         "decoration": "",
         "quire_structure": "IV",
         "correct_number": null,
-        "height": null,
-        "width": null,
+        "height": "255",
+        "width": "160",
         "catchwords": false,
-        "stratum": [],
+        "stratum": [
+          {
+            "id": 6,
+            "value": "Clm. 6308, Stratum 1"
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -2866,7 +2911,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-18T11:51:45.110348Z",
+        "Last modified": "2024-09-18T12:47:21.400369Z",
         "cod_units": [
           {
             "id": 4,
@@ -2907,10 +2952,10 @@
             "value": "BSB, Clm. 6308"
           }
         ],
-        "quiremark": null,
-        "written_height": null,
-        "written_width": null,
-        "written": "×",
+        "quiremark": "10",
+        "written_height": "200",
+        "written_width": "120",
+        "written": "200×120",
         "hair_flesh": [
           {
             "id": 14742,
@@ -2930,10 +2975,15 @@
         "decoration": "",
         "quire_structure": "IV",
         "correct_number": null,
-        "height": null,
-        "width": null,
+        "height": "255",
+        "width": "160",
         "catchwords": false,
-        "stratum": [],
+        "stratum": [
+          {
+            "id": 6,
+            "value": "Clm. 6308, Stratum 1"
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -2943,7 +2993,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-18T11:51:47.406757Z",
+        "Last modified": "2024-09-18T12:47:23.652289Z",
         "cod_units": [
           {
             "id": 4,
@@ -2984,10 +3034,10 @@
             "value": "BSB, Clm. 6308"
           }
         ],
-        "quiremark": null,
-        "written_height": null,
-        "written_width": null,
-        "written": "×",
+        "quiremark": "11",
+        "written_height": "200",
+        "written_width": "120",
+        "written": "200×120",
         "hair_flesh": [
           {
             "id": 14742,
@@ -3007,10 +3057,15 @@
         "decoration": "",
         "quire_structure": "IV",
         "correct_number": null,
-        "height": null,
-        "width": null,
+        "height": "255",
+        "width": "160",
         "catchwords": false,
-        "stratum": [],
+        "stratum": [
+          {
+            "id": 6,
+            "value": "Clm. 6308, Stratum 1"
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -3020,7 +3075,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-18T11:51:50.252694Z",
+        "Last modified": "2024-09-18T12:47:25.634665Z",
         "cod_units": [
           {
             "id": 4,
@@ -3061,10 +3116,10 @@
             "value": "BSB, Clm. 6308"
           }
         ],
-        "quiremark": null,
-        "written_height": null,
-        "written_width": null,
-        "written": "×",
+        "quiremark": "12",
+        "written_height": "200",
+        "written_width": "120",
+        "written": "200×120",
         "hair_flesh": [
           {
             "id": 14742,
@@ -3084,10 +3139,15 @@
         "decoration": "",
         "quire_structure": "IV",
         "correct_number": null,
-        "height": null,
-        "width": null,
+        "height": "255",
+        "width": "160",
         "catchwords": false,
-        "stratum": [],
+        "stratum": [
+          {
+            "id": 6,
+            "value": "Clm. 6308, Stratum 1"
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -3097,7 +3157,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-18T11:51:52.237697Z",
+        "Last modified": "2024-09-18T12:47:27.846825Z",
         "cod_units": [
           {
             "id": 4,
@@ -3138,10 +3198,10 @@
             "value": "BSB, Clm. 6308"
           }
         ],
-        "quiremark": null,
-        "written_height": null,
-        "written_width": null,
-        "written": "×",
+        "quiremark": "13",
+        "written_height": "200",
+        "written_width": "120",
+        "written": "200×120",
         "hair_flesh": [
           {
             "id": 14742,
@@ -3161,10 +3221,15 @@
         "decoration": "",
         "quire_structure": "IV",
         "correct_number": null,
-        "height": null,
-        "width": null,
+        "height": "255",
+        "width": "160",
         "catchwords": false,
-        "stratum": [],
+        "stratum": [
+          {
+            "id": 6,
+            "value": "Clm. 6308, Stratum 1"
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -3174,7 +3239,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-18T11:51:13.065312Z",
+        "Last modified": "2024-09-18T12:47:31.300038Z",
         "cod_units": [
           {
             "id": 4,
@@ -3215,10 +3280,10 @@
             "value": "BSB, Clm. 6308"
           }
         ],
-        "quiremark": null,
-        "written_height": null,
-        "written_width": null,
-        "written": "×",
+        "quiremark": "14",
+        "written_height": "200",
+        "written_width": "120",
+        "written": "200×120",
         "hair_flesh": [
           {
             "id": 14742,
@@ -3238,10 +3303,15 @@
         "decoration": "",
         "quire_structure": "IV",
         "correct_number": null,
-        "height": null,
-        "width": null,
+        "height": "255",
+        "width": "160",
         "catchwords": false,
-        "stratum": [],
+        "stratum": [
+          {
+            "id": 6,
+            "value": "Clm. 6308, Stratum 1"
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -3251,7 +3321,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-18T11:51:10.347117Z",
+        "Last modified": "2024-09-18T12:47:32.025917Z",
         "cod_units": [
           {
             "id": 4,
@@ -3293,9 +3363,9 @@
           }
         ],
         "quiremark": null,
-        "written_height": null,
-        "written_width": null,
-        "written": "×",
+        "written_height": "200",
+        "written_width": "120",
+        "written": "200×120",
         "hair_flesh": [
           {
             "id": 14742,
@@ -3315,10 +3385,15 @@
         "decoration": "",
         "quire_structure": "IV",
         "correct_number": null,
-        "height": null,
-        "width": null,
+        "height": "255",
+        "width": "160",
         "catchwords": false,
-        "stratum": [],
+        "stratum": [
+          {
+            "id": 6,
+            "value": "Clm. 6308, Stratum 1"
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -3328,7 +3403,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-18T11:51:07.684902Z",
+        "Last modified": "2024-09-18T12:47:34.027305Z",
         "cod_units": [
           {
             "id": 4,
@@ -3370,9 +3445,9 @@
           }
         ],
         "quiremark": null,
-        "written_height": null,
-        "written_width": null,
-        "written": "×",
+        "written_height": "200",
+        "written_width": "120",
+        "written": "200×120",
         "hair_flesh": [
           {
             "id": 14742,
@@ -3392,10 +3467,15 @@
         "decoration": "",
         "quire_structure": "IV",
         "correct_number": "17",
-        "height": null,
-        "width": null,
+        "height": "255",
+        "width": "160",
         "catchwords": false,
-        "stratum": [],
+        "stratum": [
+          {
+            "id": 6,
+            "value": "Clm. 6308, Stratum 1"
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -3405,7 +3485,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-18T11:51:05.519359Z",
+        "Last modified": "2024-09-18T12:47:36.273308Z",
         "cod_units": [
           {
             "id": 4,
@@ -3447,9 +3527,9 @@
           }
         ],
         "quiremark": null,
-        "written_height": null,
-        "written_width": null,
-        "written": "×",
+        "written_height": "200",
+        "written_width": "120",
+        "written": "200×120",
         "hair_flesh": [
           {
             "id": 14742,
@@ -3469,10 +3549,15 @@
         "decoration": "",
         "quire_structure": "IV",
         "correct_number": "16",
-        "height": null,
-        "width": null,
+        "height": "255",
+        "width": "160",
         "catchwords": false,
-        "stratum": [],
+        "stratum": [
+          {
+            "id": 6,
+            "value": "Clm. 6308, Stratum 1"
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -3482,7 +3567,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-18T11:50:59.997668Z",
+        "Last modified": "2024-09-18T12:47:38.325095Z",
         "cod_units": [
           {
             "id": 4,
@@ -3524,9 +3609,9 @@
           }
         ],
         "quiremark": null,
-        "written_height": null,
-        "written_width": null,
-        "written": "×",
+        "written_height": "200",
+        "written_width": "120",
+        "written": "200×120",
         "hair_flesh": [
           {
             "id": 14742,
@@ -3546,10 +3631,15 @@
         "decoration": "",
         "quire_structure": "IV",
         "correct_number": null,
-        "height": null,
-        "width": null,
+        "height": "255",
+        "width": "160",
         "catchwords": false,
-        "stratum": [],
+        "stratum": [
+          {
+            "id": 6,
+            "value": "Clm. 6308, Stratum 1"
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -3559,7 +3649,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-18T11:51:02.289701Z",
+        "Last modified": "2024-09-18T12:47:43.091926Z",
         "cod_units": [
           {
             "id": 4,
@@ -3601,9 +3691,9 @@
           }
         ],
         "quiremark": null,
-        "written_height": null,
-        "written_width": null,
-        "written": "×",
+        "written_height": "200",
+        "written_width": "120",
+        "written": "200×120",
         "hair_flesh": [
           {
             "id": 14742,
@@ -3620,13 +3710,18 @@
           }
         ],
         "note": "",
-        "decoration": "",
+        "decoration": "Die beiden letzten,\n\neinander gegenüberliegenden Seiten (148V/149R) sind gleichartig figural\n\ngeschrieben: beide in Form eines auf der Spitze stehenden gleichschenkligen\n\nDreiecks (Bishoff, 77)",
         "quire_structure": "IV-1",
         "correct_number": null,
-        "height": null,
-        "width": null,
+        "height": "255",
+        "width": "160",
         "catchwords": false,
-        "stratum": [],
+        "stratum": [
+          {
+            "id": 6,
+            "value": "Clm. 6308, Stratum 1"
+          }
+        ],
         "Created by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -3636,7 +3731,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-18T11:50:53.533927Z",
+        "Last modified": "2024-09-18T12:47:44.998969Z",
         "cod_units": [
           {
             "id": 4,
@@ -5483,10 +5578,10 @@
         },
         "Created on": "2024-07-18",
         "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
+          "id": 87,
+          "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-26T13:52:12.965341Z",
+        "Last modified": "2024-09-18T12:01:09.543025Z",
         "cod_units": [
           {
             "id": 14,

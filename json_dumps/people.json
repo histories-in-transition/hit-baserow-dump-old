@@ -1756,5 +1756,43 @@
     ],
     "hands": [],
     "identical_hands": []
+  },
+  "45": {
+    "id": 45,
+    "order": "44.00000000000000000000",
+    "name": "Hugo, von Sankt Victor",
+    "gnd_url": "https://d-nb.info/gnd/118554611",
+    "hit_id": "hit_people__45",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-09-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-09-18",
+    "works": [
+      {
+        "id": 126,
+        "value": "Summa sententiarum septem tractatibus distincta"
+      }
+    ],
+    "work": [
+      {
+        "id": 126,
+        "value": "Summa sententiarum septem tractatibus distincta"
+      }
+    ],
+    "hands": [],
+    "identical_hands": []
   }
 }

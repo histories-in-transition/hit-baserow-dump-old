@@ -1640,7 +1640,7 @@
         "value": "BSB, Clm. 6308_H. 1"
       }
     ],
-    "description": "\"Mitglied der ersten bodenständigen Freisinger Schreibergruppe und bediente sich in ausgereifter Übereinstimmung einer vor- oder frühkarolingischen Schrift, die in ursprünglicher Weise frei von insu- laren Zügen ist\" (Bischoff 1960:63); \"alemanische Schriftmerkmale\" (Bischoff (1960: 77), Traube (1898: 52), Maag (2014: 121f. und Abb. 78))",
+    "description": "\"Mitglied der ersten bodenständigen Freisinger Schreibergruppe und bediente sich in ausgereifter Übereinstimmung einer vor- oder frühkarolingischen Schrift, die in ursprünglicher Weise frei von insularen Zügen ist\" (Bischoff 1960:63); \"alemanische Schriftmerkmale\" (Bischoff (1960: 77), Traube (1898: 52), Maag (2014: 121f. und Abb. 78)); zahlreiche Ligaturen: ent,\n\nercc, ermi, eu, gy, o, rd, roru, rof, rp, rron; ri, rUS, US; sichelförmiges hochgestelltes *a* kommt selten vor, nur mit *n* und *an* Zeilenschlüssen.",
     "scribe": [
       {
         "id": 41,
@@ -1667,7 +1667,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-18",
+    "Last modified": "2024-09-18",
     "hands_role": [
       {
         "id": 36,
@@ -1701,7 +1701,15 @@
         "value": "hit_hands_dated__18"
       }
     ],
-    "dating": [],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 10,
+          "database_table_3520": 18
+        },
+        "value": "vor 784"
+      }
+    ],
     "hands_placed": [
       {
         "id": 10,
@@ -1721,10 +1729,15 @@
         "value": "BSB, Clm. 6308_H. 2"
       }
     ],
-    "description": "",
+    "description": "Die entwickelte Karolingische Minuskel, LIgatur st, runde d. Das ist wahrscheinlich dieselbe Hand wie H.3 aber die Kommentare wurden früher eingetragen.",
     "scribe": [],
     "hit_id": "hit_hands__24",
-    "similar_hands": [],
+    "similar_hands": [
+      {
+        "id": 106,
+        "value": "BSB, Clm. 6308_H. 3"
+      }
+    ],
     "nr_daniel": "",
     "manuscript": [
       {
@@ -1743,7 +1756,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-16",
+    "Last modified": "2024-09-18",
     "hands_role": [
       {
         "id": 38,
@@ -1754,6 +1767,11 @@
       {
         "id": 38,
         "value": [
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          },
           {
             "id": 14760,
             "value": "corrector",
@@ -1777,7 +1795,15 @@
         "value": "hit_hands_dated__17"
       }
     ],
-    "dating": [],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 1,
+          "database_table_3520": 17
+        },
+        "value": "9 Jh."
+      }
+    ],
     "hands_placed": []
   },
   "26": {
@@ -8227,6 +8253,90 @@
     "texts": [],
     "hands_dated": [],
     "dating": [],
+    "hands_placed": []
+  },
+  "106": {
+    "id": 106,
+    "order": "98.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 6,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6308_H. 3"
+      }
+    ],
+    "description": "eine entwickelte Karolingische Minuskel, Ligature: st, et; runde d.",
+    "scribe": [],
+    "hit_id": "hit_hands__106",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 6,
+        "value": "BSB, Clm. 6308"
+      }
+    ],
+    "number": "3",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-18",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-18",
+    "hands_role": [
+      {
+        "id": 142,
+        "value": "hit_hands_role__142"
+      }
+    ],
+    "role": [
+      {
+        "id": 142,
+        "value": [
+          {
+            "id": 14760,
+            "value": "corrector",
+            "color": "darker-blue"
+          },
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 17
+        },
+        "value": "Historiae adversus paganos"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 82,
+        "value": "hit_hands_dated__82"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 1,
+          "database_table_3520": 82
+        },
+        "value": "9 Jh."
+      }
+    ],
     "hands_placed": []
   }
 }

@@ -804,23 +804,583 @@
   "16": {
     "id": 16,
     "order": "14.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 7,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6380, cod. unit 1"
+      }
+    ],
     "notes": "",
     "hit_id": "hit_cod_unit__16",
-    "locus": "",
-    "manuscript": [],
+    "locus": "1r-103r",
+    "manuscript": [
+      {
+        "id": 7,
+        "value": "BSB, Clm. 6380"
+      }
+    ],
     "quire": [],
-    "number": null,
-    "prov_place": [],
+    "number": "1",
+    "prov_place": [
+      {
+        "id": 4,
+        "value": "Freising"
+      }
+    ],
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-25",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-25"
+    "Last modified": "2024-09-19"
+  },
+  "17": {
+    "id": 17,
+    "order": "15.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 9,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6381, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__17",
+    "locus": "1r-250v",
+    "manuscript": [
+      {
+        "id": 9,
+        "value": "BSB, Clm. 6381"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "prov_place": [
+      {
+        "id": 11,
+        "value": "Benediktbeuern"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-19"
+  },
+  "18": {
+    "id": 18,
+    "order": "16.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__18",
+    "locus": "1r-43v",
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "prov_place": [
+      {
+        "id": 17,
+        "value": "Reims"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-19"
+  },
+  "19": {
+    "id": 19,
+    "order": "17.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382, cod. unit 2"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__19",
+    "locus": "44r-172r",
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "quire": [],
+    "number": "2",
+    "prov_place": [
+      {
+        "id": 4,
+        "value": "Freising"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-19"
+  },
+  "20": {
+    "id": 20,
+    "order": "18.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 11,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6383, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__20",
+    "locus": "1r-151r",
+    "manuscript": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "prov_place": [
+      {
+        "id": 4,
+        "value": "Freising"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-19"
+  },
+  "21": {
+    "id": 21,
+    "order": "19.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 12,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6388, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__21",
+    "locus": "1r-8r",
+    "manuscript": [
+      {
+        "id": 12,
+        "value": "BSB, Clm. 6388"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "prov_place": [
+      {
+        "id": 4,
+        "value": "Freising"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-19"
+  },
+  "22": {
+    "id": 22,
+    "order": "20.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 12,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6388, cod. unit 2"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__22",
+    "locus": "8v-85v",
+    "manuscript": [
+      {
+        "id": 12,
+        "value": "BSB, Clm. 6388"
+      }
+    ],
+    "quire": [],
+    "number": "2",
+    "prov_place": [
+      {
+        "id": 9,
+        "value": "Norditalien"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-19"
+  },
+  "23": {
+    "id": 23,
+    "order": "21.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 12,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6388, cod. unit 3"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__23",
+    "locus": "86r-198r",
+    "manuscript": [
+      {
+        "id": 12,
+        "value": "BSB, Clm. 6388"
+      }
+    ],
+    "quire": [],
+    "number": "3",
+    "prov_place": [
+      {
+        "id": 4,
+        "value": "Freising"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-19"
+  },
+  "24": {
+    "id": 24,
+    "order": "22.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 13,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6391, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__24",
+    "locus": "1r-193v",
+    "manuscript": [
+      {
+        "id": 13,
+        "value": "BSB, Clm. 6391"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "prov_place": [
+      {
+        "id": 4,
+        "value": "Freising"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-19"
+  },
+  "25": {
+    "id": 25,
+    "order": "23.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 14,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6392, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__25",
+    "locus": "1v-286v",
+    "manuscript": [
+      {
+        "id": 14,
+        "value": "BSB, Clm. 6392"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "prov_place": [
+      {
+        "id": 4,
+        "value": "Freising"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-19"
+  },
+  "26": {
+    "id": 26,
+    "order": "24.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 17,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 1086, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__26",
+    "locus": "1r-103r",
+    "manuscript": [
+      {
+        "id": 17,
+        "value": "BSB, Clm. 1086"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "prov_place": [
+      {
+        "id": 10,
+        "value": "Bistum Eichstätt"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-19"
+  },
+  "27": {
+    "id": 27,
+    "order": "25.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 8,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6375, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__27",
+    "locus": "1r-227r",
+    "manuscript": [
+      {
+        "id": 8,
+        "value": "BSB, Clm. 6375"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "prov_place": [
+      {
+        "id": 18,
+        "value": "Südbayern"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-19"
+  },
+  "28": {
+    "id": 28,
+    "order": "26.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 16,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6376, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__28",
+    "locus": "1v-213r",
+    "manuscript": [
+      {
+        "id": 16,
+        "value": "BSB, Clm. 6376"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "prov_place": [
+      {
+        "id": 19,
+        "value": "Regensburg"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-19"
+  },
+  "29": {
+    "id": 29,
+    "order": "27.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 4,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 210, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__29",
+    "locus": "1r-163r",
+    "manuscript": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 210"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "prov_place": [
+      {
+        "id": 3,
+        "value": "Salzburg"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-19"
+  },
+  "30": {
+    "id": 30,
+    "order": "28.00000000000000000000",
+    "label": [],
+    "notes": "",
+    "hit_id": "hit_cod_unit__30",
+    "locus": "",
+    "manuscript": [],
+    "quire": [],
+    "number": null,
+    "prov_place": [],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-19"
   }
 }

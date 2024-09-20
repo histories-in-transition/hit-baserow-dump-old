@@ -6778,5 +6778,184 @@
     "Last modified": "2024-09-18",
     "locus_layout": [],
     "function": []
+  },
+  "143": {
+    "id": 143,
+    "order": "129.00000000000000000000",
+    "hit_id": "hit_hands_role__143",
+    "hand": [
+      {
+        "id": 103,
+        "value": "BSB, Clm. 6391_H. 1"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 52,
+        "value": "clm_6391__52"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "1r-98v",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 33,
+          "database_table_3491": 52
+        },
+        "value": "Historia Langobardorum"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 52,
+        "value": "1r-193v"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified": "2024-09-19",
+    "locus_layout": [],
+    "function": []
+  },
+  "144": {
+    "id": 144,
+    "order": "130.00000000000000000000",
+    "hit_id": "hit_hands_role__144",
+    "hand": [
+      {
+        "id": 104,
+        "value": "BSB, Clm. 6391_H. 2"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 52,
+        "value": "clm_6391__52"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "scribe",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "99r-193v mit Unterbrechungen",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 33,
+          "database_table_3491": 52
+        },
+        "value": "Historia Langobardorum"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 52,
+        "value": "1r-193v"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified": "2024-09-19",
+    "locus_layout": [],
+    "function": []
+  },
+  "145": {
+    "id": 145,
+    "order": "131.00000000000000000000",
+    "hit_id": "hit_hands_role__145",
+    "hand": [
+      {
+        "id": 107,
+        "value": "BSB, Clm. 6391_H. 3"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 52,
+        "value": "clm_6391__52"
+      }
+    ],
+    "role": [
+      {
+        "id": 14760,
+        "value": "corrector",
+        "color": "darker-blue"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 33,
+          "database_table_3491": 52
+        },
+        "value": "Historia Langobardorum"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 52,
+        "value": "1r-193v"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified": "2024-09-19",
+    "locus_layout": [],
+    "function": []
+  },
+  "146": {
+    "id": 146,
+    "order": "132.00000000000000000000",
+    "hit_id": "hit_hands_role__146",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified": "2024-09-19",
+    "locus_layout": [],
+    "function": []
   }
 }

@@ -386,5 +386,53 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-17"
+  },
+  "18": {
+    "id": 18,
+    "order": "16.00000000000000000000",
+    "name": "Südbayern",
+    "geonames_url": "",
+    "hit_id": "hit_place__18",
+    "wikidata_url": "",
+    "country": [
+      {
+        "id": 2,
+        "value": "Deutschland"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-19"
+  },
+  "19": {
+    "id": 19,
+    "order": "17.00000000000000000000",
+    "name": "Regensburg",
+    "geonames_url": "http://www.geonames.org/2849483/regensburg.html",
+    "hit_id": "hit_place__19",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2978",
+    "country": [
+      {
+        "id": 2,
+        "value": "Deutschland"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-19"
   }
 }

@@ -73,7 +73,8 @@
         "id": 3,
         "value": "hit_hands_placed__3"
       }
-    ]
+    ],
+    "group": false
   },
   "12": {
     "id": 12,
@@ -199,7 +200,8 @@
         "id": 4,
         "value": "hit_hands_placed__4"
       }
-    ]
+    ],
+    "group": false
   },
   "5": {
     "id": 5,
@@ -461,7 +463,8 @@
         "id": 1,
         "value": "hit_hands_placed__1"
       }
-    ]
+    ],
+    "group": false
   },
   "13": {
     "id": 13,
@@ -545,7 +548,8 @@
         "id": 2,
         "value": "hit_hands_placed__2"
       }
-    ]
+    ],
+    "group": false
   },
   "14": {
     "id": 14,
@@ -650,7 +654,8 @@
         "id": 5,
         "value": "hit_hands_placed__5"
       }
-    ]
+    ],
+    "group": false
   },
   "15": {
     "id": 15,
@@ -734,7 +739,8 @@
         "id": 6,
         "value": "hit_hands_placed__6"
       }
-    ]
+    ],
+    "group": false
   },
   "16": {
     "id": 16,
@@ -818,7 +824,8 @@
         "id": 7,
         "value": "hit_hands_placed__7"
       }
-    ]
+    ],
+    "group": false
   },
   "17": {
     "id": 17,
@@ -902,7 +909,8 @@
         "id": 8,
         "value": "hit_hands_placed__8"
       }
-    ]
+    ],
+    "group": false
   },
   "18": {
     "id": 18,
@@ -1070,7 +1078,8 @@
         "id": 9,
         "value": "hit_hands_placed__9"
       }
-    ]
+    ],
+    "group": false
   },
   "21": {
     "id": 21,
@@ -1149,7 +1158,8 @@
         "value": "11 Jh."
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "22": {
     "id": 22,
@@ -1270,7 +1280,8 @@
         "value": "10. Jh."
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "25": {
     "id": 25,
@@ -1349,7 +1360,8 @@
         "value": "11 Jh."
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "60": {
     "id": 60,
@@ -1428,7 +1440,8 @@
         "value": "10. Jh., viertes Viertel"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "19": {
     "id": 19,
@@ -1555,7 +1568,8 @@
       }
     ],
     "dating": [],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "20": {
     "id": 20,
@@ -1626,7 +1640,8 @@
       }
     ],
     "dating": [],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "23": {
     "id": 23,
@@ -1715,7 +1730,8 @@
         "id": 10,
         "value": "hit_hands_placed__10"
       }
-    ]
+    ],
+    "group": false
   },
   "24": {
     "id": 24,
@@ -1804,7 +1820,8 @@
         "value": "9 Jh."
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "26": {
     "id": 26,
@@ -1888,7 +1905,8 @@
         "id": 11,
         "value": "hit_hands_placed__11"
       }
-    ]
+    ],
+    "group": false
   },
   "27": {
     "id": 27,
@@ -1972,7 +1990,8 @@
         "id": 12,
         "value": "hit_hands_placed__12"
       }
-    ]
+    ],
+    "group": false
   },
   "28": {
     "id": 28,
@@ -2056,7 +2075,8 @@
         "id": 13,
         "value": "hit_hands_placed__13"
       }
-    ]
+    ],
+    "group": false
   },
   "29": {
     "id": 29,
@@ -2140,7 +2160,8 @@
         "id": 14,
         "value": "hit_hands_placed__14"
       }
-    ]
+    ],
+    "group": false
   },
   "30": {
     "id": 30,
@@ -2206,7 +2227,8 @@
     ],
     "hands_dated": [],
     "dating": [],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "31": {
     "id": 31,
@@ -2458,7 +2480,8 @@
         "id": 15,
         "value": "hit_hands_placed__15"
       }
-    ]
+    ],
+    "group": false
   },
   "32": {
     "id": 32,
@@ -2547,7 +2570,8 @@
         "id": 16,
         "value": "hit_hands_placed__16"
       }
-    ]
+    ],
+    "group": false
   },
   "33": {
     "id": 33,
@@ -2652,7 +2676,8 @@
         "id": 19,
         "value": "hit_hands_placed__19"
       }
-    ]
+    ],
+    "group": false
   },
   "34": {
     "id": 34,
@@ -2736,7 +2761,8 @@
         "id": 17,
         "value": "hit_hands_placed__17"
       }
-    ]
+    ],
+    "group": false
   },
   "35": {
     "id": 35,
@@ -2820,7 +2846,8 @@
         "id": 18,
         "value": "hit_hands_placed__18"
       }
-    ]
+    ],
+    "group": false
   },
   "36": {
     "id": 36,
@@ -2904,7 +2931,8 @@
         "value": "12. Jh."
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "37": {
     "id": 37,
@@ -2983,7 +3011,8 @@
         "value": "10. Jh."
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "40": {
     "id": 40,
@@ -3062,7 +3091,8 @@
         "value": "11 Jh."
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "38": {
     "id": 38,
@@ -3141,7 +3171,8 @@
         "value": "9 Jh."
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "39": {
     "id": 39,
@@ -3220,7 +3251,8 @@
         "value": "10. Jh."
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "43": {
     "id": 43,
@@ -3320,7 +3352,8 @@
         "value": "10. Jh."
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "44": {
     "id": 44,
@@ -3409,7 +3442,8 @@
         "value": "12. Jh."
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "41": {
     "id": 41,
@@ -3509,7 +3543,8 @@
         "value": "1060-1065"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "42": {
     "id": 42,
@@ -3593,7 +3628,8 @@
         "value": "11. Jh., drittes Viertel"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "45": {
     "id": 45,
@@ -3677,7 +3713,8 @@
         "value": "11. Jh., zweite Hälfte"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "46": {
     "id": 46,
@@ -3756,7 +3793,8 @@
         "value": "11. Jh., zweite Hälfte"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "47": {
     "id": 47,
@@ -3835,7 +3873,8 @@
         "value": "12. Jh., erste Hälfte"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "48": {
     "id": 48,
@@ -3914,7 +3953,8 @@
         "value": "12. Jh., erste Hälfte"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "49": {
     "id": 49,
@@ -3998,7 +4038,8 @@
         "value": "12. Jh., erste Hälfte"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "50": {
     "id": 50,
@@ -4077,7 +4118,8 @@
         "value": "12. Jh., zweite Hälfte"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "51": {
     "id": 51,
@@ -4163,7 +4205,8 @@
         "value": "12. Jh., erstes Viertel"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "52": {
     "id": 52,
@@ -4293,7 +4336,8 @@
         "value": "11. Jh., zweite Hälfte"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "53": {
     "id": 53,
@@ -4377,7 +4421,8 @@
         "value": "12. Jh."
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "54": {
     "id": 54,
@@ -4461,7 +4506,8 @@
         "value": "11. Jh., zweite Hälfte"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "55": {
     "id": 55,
@@ -4540,7 +4586,8 @@
         "value": "11. Jh., drittes Viertel"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "56": {
     "id": 56,
@@ -4631,7 +4678,8 @@
         "value": "11. Jh., drittes Viertel"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "57": {
     "id": 57,
@@ -4750,7 +4798,8 @@
         "value": "nach 1167"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "58": {
     "id": 58,
@@ -4786,7 +4835,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-08-01",
+    "Last modified": "2024-09-19",
     "hands_role": [
       {
         "id": 85,
@@ -4841,7 +4890,8 @@
         "value": "11. Jh., zweite Hälfte"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": true
   },
   "59": {
     "id": 59,
@@ -4877,7 +4927,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-08-05",
+    "Last modified": "2024-09-19",
     "hands_role": [
       {
         "id": 88,
@@ -4920,7 +4970,8 @@
         "value": "12. Jh., zweite Hälfte"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": true
   },
   "61": {
     "id": 61,
@@ -5008,7 +5059,8 @@
         "value": "11. Jh., zweite Hälfte"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "62": {
     "id": 62,
@@ -5087,7 +5139,8 @@
         "value": "11. Jh., zweite Hälfte"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "63": {
     "id": 63,
@@ -5166,7 +5219,8 @@
         "value": "11. Jh., zweite Hälfte"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "64": {
     "id": 64,
@@ -5245,7 +5299,8 @@
         "value": "11. Jh., zweite Hälfte"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "65": {
     "id": 65,
@@ -5329,7 +5384,8 @@
         "value": "11. Jh., zweite Hälfte"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "66": {
     "id": 66,
@@ -5413,7 +5469,8 @@
         "value": "11. Jh., zweite Hälfte"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "67": {
     "id": 67,
@@ -5492,7 +5549,8 @@
         "value": "11. Jh., zweite Hälfte"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "68": {
     "id": 68,
@@ -5578,7 +5636,8 @@
         "value": "11. Jh., viertes Viertel"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "69": {
     "id": 69,
@@ -5657,7 +5716,8 @@
         "value": "12. Jh., erste Hälfte"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "70": {
     "id": 70,
@@ -5736,7 +5796,8 @@
         "value": "12. Jh., erste Hälfte"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "71": {
     "id": 71,
@@ -5815,7 +5876,8 @@
         "value": "12. Jh., erste Hälfte"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "72": {
     "id": 72,
@@ -5901,7 +5963,8 @@
         "value": "12. Jh., zweites Viertel"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "73": {
     "id": 73,
@@ -5987,7 +6050,8 @@
         "value": "12. Jh., zweites Viertel"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "75": {
     "id": 75,
@@ -6066,7 +6130,8 @@
         "value": "12. Jh., zweite Hälfte"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "76": {
     "id": 76,
@@ -6171,7 +6236,8 @@
         "value": "12. Jh., zweite Hälfte"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "77": {
     "id": 77,
@@ -6260,7 +6326,8 @@
         "value": "12. Jh., zweite Hälfte"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "78": {
     "id": 78,
@@ -6349,7 +6416,8 @@
         "value": "11. Jh., viertes Viertel"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "79": {
     "id": 79,
@@ -6438,7 +6506,8 @@
         "value": "12. Jh., drittes Viertel"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "80": {
     "id": 80,
@@ -6474,7 +6543,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-08-26",
+    "Last modified": "2024-09-19",
     "hands_role": [
       {
         "id": 114,
@@ -6522,7 +6591,8 @@
         "value": "11. Jh., zweite Hälfte"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "81": {
     "id": 81,
@@ -6606,7 +6676,8 @@
         "value": "11. Jh., drittes Viertel"
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "82": {
     "id": 82,
@@ -6693,7 +6764,8 @@
     ],
     "hands_dated": [],
     "dating": [],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "83": {
     "id": 83,
@@ -6777,7 +6849,8 @@
         "id": 20,
         "value": "hit_hands_placed__20"
       }
-    ]
+    ],
+    "group": false
   },
   "84": {
     "id": 84,
@@ -6861,7 +6934,8 @@
         "id": 20,
         "value": "hit_hands_placed__20"
       }
-    ]
+    ],
+    "group": false
   },
   "85": {
     "id": 85,
@@ -6945,7 +7019,8 @@
         "id": 20,
         "value": "hit_hands_placed__20"
       }
-    ]
+    ],
+    "group": false
   },
   "86": {
     "id": 86,
@@ -7029,7 +7104,8 @@
         "id": 20,
         "value": "hit_hands_placed__20"
       }
-    ]
+    ],
+    "group": false
   },
   "87": {
     "id": 87,
@@ -7113,7 +7189,8 @@
         "id": 20,
         "value": "hit_hands_placed__20"
       }
-    ]
+    ],
+    "group": false
   },
   "88": {
     "id": 88,
@@ -7197,7 +7274,8 @@
         "id": 20,
         "value": "hit_hands_placed__20"
       }
-    ]
+    ],
+    "group": false
   },
   "89": {
     "id": 89,
@@ -7281,7 +7359,8 @@
         "id": 20,
         "value": "hit_hands_placed__20"
       }
-    ]
+    ],
+    "group": false
   },
   "90": {
     "id": 90,
@@ -7365,7 +7444,8 @@
         "id": 20,
         "value": "hit_hands_placed__20"
       }
-    ]
+    ],
+    "group": false
   },
   "91": {
     "id": 91,
@@ -7412,7 +7492,8 @@
         "id": 20,
         "value": "hit_hands_placed__20"
       }
-    ]
+    ],
+    "group": false
   },
   "92": {
     "id": 92,
@@ -7499,7 +7580,8 @@
     ],
     "hands_dated": [],
     "dating": [],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "93": {
     "id": 93,
@@ -7565,7 +7647,8 @@
     ],
     "hands_dated": [],
     "dating": [],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "94": {
     "id": 94,
@@ -7625,7 +7708,8 @@
     ],
     "hands_dated": [],
     "dating": [],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "95": {
     "id": 95,
@@ -7685,7 +7769,8 @@
     ],
     "hands_dated": [],
     "dating": [],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "96": {
     "id": 96,
@@ -7745,7 +7830,8 @@
     ],
     "hands_dated": [],
     "dating": [],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "97": {
     "id": 97,
@@ -7805,7 +7891,8 @@
     ],
     "hands_dated": [],
     "dating": [],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "98": {
     "id": 98,
@@ -7857,7 +7944,8 @@
     "texts": [],
     "hands_dated": [],
     "dating": [],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "99": {
     "id": 99,
@@ -7909,7 +7997,8 @@
     "texts": [],
     "hands_dated": [],
     "dating": [],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "100": {
     "id": 100,
@@ -7969,7 +8058,8 @@
     ],
     "hands_dated": [],
     "dating": [],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "101": {
     "id": 101,
@@ -8029,7 +8119,8 @@
     ],
     "hands_dated": [],
     "dating": [],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "102": {
     "id": 102,
@@ -8089,7 +8180,8 @@
     "texts": [],
     "hands_dated": [],
     "dating": [],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "103": {
     "id": 103,
@@ -8103,7 +8195,7 @@
         "value": "BSB, Clm. 6391_H. 1"
       }
     ],
-    "description": "",
+    "description": "bayerische Hand, mittlerer Stil, neigt zu dem Buchstil, viele Ligaturen (darunter us, ct, st, auch miteinander verknüpft), Verkürzungen (g mit einem Strich - gre,  pt - post, q mit cc-a - qua etc.)",
     "scribe": [],
     "hit_id": "hit_hands__103",
     "similar_hands": [],
@@ -8115,7 +8207,7 @@
       }
     ],
     "number": "1",
-    "note": "",
+    "note": "Eng verwandt mit der Hand in 6426 (127r-134r).",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -8125,20 +8217,41 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-04",
+    "Last modified": "2024-09-19",
     "hands_role": [
       {
         "id": 137,
         "value": "hit_hands_role__137"
+      },
+      {
+        "id": 143,
+        "value": "hit_hands_role__143"
       }
     ],
     "role": [
       {
         "id": 137,
         "value": []
+      },
+      {
+        "id": 143,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
       }
     ],
     "texts": [
+      {
+        "ids": {
+          "database_table_3489": 33,
+          "database_table_3491": 52
+        },
+        "value": "Historia Langobardorum"
+      },
       {
         "ids": {
           "database_table_3489": 33,
@@ -8149,7 +8262,8 @@
     ],
     "hands_dated": [],
     "dating": [],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "104": {
     "id": 104,
@@ -8163,7 +8277,7 @@
         "value": "BSB, Clm. 6391_H. 2"
       }
     ],
-    "description": "",
+    "description": "bayerische Hand, mittlerer Stil, neigt zu dem Urkundenstil (rundes d, Verkürzung us), viele Ligaturen (darunter us, ct, st, auch miteinander verknüpft), Verkürzungen (g mit einem Strich - gre, pt - post, q mit cc-a - qua etc.), weicher Feder und dünnere Linien als die Hand A",
     "scribe": [],
     "hit_id": "hit_hands__104",
     "similar_hands": [],
@@ -8185,23 +8299,46 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-04",
+    "Last modified": "2024-09-19",
     "hands_role": [
       {
         "id": 140,
         "value": "hit_hands_role__140"
+      },
+      {
+        "id": 144,
+        "value": "hit_hands_role__144"
       }
     ],
     "role": [
       {
         "id": 140,
         "value": []
+      },
+      {
+        "id": 144,
+        "value": [
+          {
+            "id": 14758,
+            "value": "scribe",
+            "color": "darker-red"
+          }
+        ]
       }
     ],
-    "texts": [],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 33,
+          "database_table_3491": 52
+        },
+        "value": "Historia Langobardorum"
+      }
+    ],
     "hands_dated": [],
     "dating": [],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "105": {
     "id": 105,
@@ -8253,7 +8390,8 @@
     "texts": [],
     "hands_dated": [],
     "dating": [],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
   },
   "106": {
     "id": 106,
@@ -8337,6 +8475,74 @@
         "value": "9 Jh."
       }
     ],
-    "hands_placed": []
+    "hands_placed": [],
+    "group": false
+  },
+  "107": {
+    "id": 107,
+    "order": "99.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 13,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6391_H. 3"
+      }
+    ],
+    "description": "",
+    "scribe": [],
+    "hit_id": "hit_hands__107",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 13,
+        "value": "BSB, Clm. 6391"
+      }
+    ],
+    "number": "3",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-19",
+    "hands_role": [
+      {
+        "id": 145,
+        "value": "hit_hands_role__145"
+      }
+    ],
+    "role": [
+      {
+        "id": 145,
+        "value": [
+          {
+            "id": 14760,
+            "value": "corrector",
+            "color": "darker-blue"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 33,
+          "database_table_3491": 52
+        },
+        "value": "Historia Langobardorum"
+      }
+    ],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "group": false
   }
 }

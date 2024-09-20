@@ -3336,6 +3336,18 @@
       {
         "id": 137,
         "value": "hit_hands_role__137"
+      },
+      {
+        "id": 143,
+        "value": "hit_hands_role__143"
+      },
+      {
+        "id": 144,
+        "value": "hit_hands_role__144"
+      },
+      {
+        "id": 145,
+        "value": "hit_hands_role__145"
       }
     ],
     "cod_unit": [],
@@ -3357,6 +3369,27 @@
           "database_table_3488": 4
         },
         "value": "BSB, Clm. 6391_H. 1"
+      },
+      {
+        "ids": {
+          "database_table_3487": 13,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6391_H. 1"
+      },
+      {
+        "ids": {
+          "database_table_3487": 13,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6391_H. 2"
+      },
+      {
+        "ids": {
+          "database_table_3487": 13,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6391_H. 3"
       }
     ],
     "decoration": [],

@@ -1,0 +1,45 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "name": "Willihalm und seine bayerische Schüler",
+    "hit_id": "hit_scribes__1",
+    "description": "Gruppe Willihalm und seine bayerische Schüler",
+    "group": true,
+    "hands": [
+      {
+        "id": 89,
+        "value": "BSB, Clm. 6380_H. 7"
+      }
+    ],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 7,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6380_H. 7"
+      }
+    ],
+    "Last modified": "2024-09-20",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    }
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "name": "Salzburg-1",
+    "hit_id": "hit_scribes__2",
+    "description": "(MOCK UP:) Unbekannter Schreiber in Salzburg...",
+    "group": false,
+    "hands": [],
+    "hand": [],
+    "Last modified": "2024-09-20",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    }
+  }
+}

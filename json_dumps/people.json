@@ -1794,5 +1794,112 @@
     ],
     "hands": [],
     "identical_hands": []
+  },
+  "46": {
+    "id": 46,
+    "order": "45.00000000000000000000",
+    "name": "Willihalm und seine bayerische Schüler",
+    "gnd_url": "",
+    "hit_id": "hit_people__46",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-20",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-20",
+    "works": [],
+    "work": [],
+    "hands": [
+      {
+        "id": 83,
+        "value": "BSB, Clm. 6380_H. 1"
+      },
+      {
+        "id": 84,
+        "value": "BSB, Clm. 6380_H. 2"
+      },
+      {
+        "id": 85,
+        "value": "BSB, Clm. 6380_H. 3"
+      },
+      {
+        "id": 86,
+        "value": "BSB, Clm. 6380_H. 4"
+      },
+      {
+        "id": 87,
+        "value": "BSB, Clm. 6380_H. 5"
+      },
+      {
+        "id": 88,
+        "value": "BSB, Clm. 6380_H. 6"
+      },
+      {
+        "id": 89,
+        "value": "BSB, Clm. 6380_H. 7"
+      }
+    ],
+    "identical_hands": [
+      {
+        "ids": {
+          "database_table_3487": 7,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6380_H. 7"
+      },
+      {
+        "ids": {
+          "database_table_3487": 7,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6380_H. 2"
+      },
+      {
+        "ids": {
+          "database_table_3487": 7,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6380_H. 3"
+      },
+      {
+        "ids": {
+          "database_table_3487": 7,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6380_H. 1"
+      },
+      {
+        "ids": {
+          "database_table_3487": 7,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6380_H. 5"
+      },
+      {
+        "ids": {
+          "database_table_3487": 7,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6380_H. 6"
+      },
+      {
+        "ids": {
+          "database_table_3487": 7,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6380_H. 4"
+      }
+    ]
   }
 }

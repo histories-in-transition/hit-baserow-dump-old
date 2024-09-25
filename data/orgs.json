@@ -366,5 +366,51 @@
       "name": "Ivana Dobcheva"
     },
     "Last modified": "2024-07-11"
+  },
+  "10": {
+    "id": 10,
+    "order": "9.00000000000000000000",
+    "label": "Hofbibliothek München",
+    "hit_id": "hit_org__10",
+    "gnd_url": "",
+    "library_full": "",
+    "library_website": "",
+    "settlement": [
+      {
+        "id": 8,
+        "order": "8.00000000000000000000",
+        "name": "München",
+        "geonames_url": "https://www.geonames.org/2867714/munich.html",
+        "hit_id": "hit_place__8",
+        "wikidata_url": "",
+        "country": [
+          {
+            "id": 2,
+            "value": "Deutschland"
+          }
+        ],
+        "Created by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Created on": "2024-07-03",
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-07-09"
+      }
+    ],
+    "wikidata": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-24",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-24"
   }
 }

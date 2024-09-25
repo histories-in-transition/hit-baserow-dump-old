@@ -361,7 +361,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -5109,7 +5109,7 @@
           {
             "id": 14760,
             "value": "corrector",
-            "color": "darker-blue"
+            "color": "darker-yellow"
           }
         ],
         "locus": "",
@@ -5160,7 +5160,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -8556,7 +8556,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -10191,7 +10191,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -11785,7 +11785,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -11837,7 +11837,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -11889,7 +11889,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -13498,7 +13498,7 @@
           {
             "id": 14760,
             "value": "corrector",
-            "color": "darker-blue"
+            "color": "darker-yellow"
           }
         ],
         "locus": "98v",
@@ -13550,7 +13550,7 @@
           {
             "id": 14760,
             "value": "corrector",
-            "color": "darker-blue"
+            "color": "darker-yellow"
           }
         ],
         "locus": "",
@@ -13601,7 +13601,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -16247,7 +16247,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -16667,7 +16667,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -17087,7 +17087,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -17546,7 +17546,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -18190,7 +18190,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -18507,10 +18507,15 @@
           }
         ],
         "extent": "149",
-        "foliation": "19 J.",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "",
-        "binding_date": [],
+        "binding": "Heller spätottonischer Ledereinband aus Freising, der Riemen der Schließe ist weggerissen",
+        "binding_date": [
+          {
+            "id": 53,
+            "value": "11 Jh., erstes Viertel"
+          }
+        ],
         "history": "",
         "bibliography": [],
         "height": "255",
@@ -18743,7 +18748,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-07-18",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -18841,7 +18846,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -18899,7 +18904,7 @@
           {
             "id": 14760,
             "value": "corrector",
-            "color": "darker-blue"
+            "color": "darker-yellow"
           }
         ],
         "locus": "1v, 4r, 8r, 10r, 12r, 51r, 113v. Bischoff meinte, dass der Text auf ff. 114v-115r einer anderen Hand gehören kann",
@@ -18951,7 +18956,7 @@
           {
             "id": 14760,
             "value": "corrector",
-            "color": "darker-blue"
+            "color": "darker-yellow"
           },
           {
             "id": 14763,
@@ -19109,9 +19114,9 @@
           }
         ],
         "extent": "I + 134",
-        "foliation": "19 J.",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
+        "binding": "Spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
         "binding_date": [
           {
             "id": 20,
@@ -19350,7 +19355,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-07-18",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -19491,7 +19496,7 @@
           {
             "id": 14760,
             "value": "corrector",
-            "color": "darker-blue"
+            "color": "darker-yellow"
           }
         ],
         "locus": "25r",
@@ -19574,7 +19579,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -21195,9 +21200,9 @@
           }
         ],
         "extent": "I + 134",
-        "foliation": "19 J.",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
+        "binding": "Spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
         "binding_date": [
           {
             "id": 20,
@@ -21436,7 +21441,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-07-18",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -21608,7 +21613,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -23222,9 +23227,9 @@
           }
         ],
         "extent": "I + 134",
-        "foliation": "19 J.",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
+        "binding": "Spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
         "binding_date": [
           {
             "id": 20,
@@ -23463,7 +23468,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-07-18",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -23617,7 +23622,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -25231,9 +25236,9 @@
           }
         ],
         "extent": "I + 134",
-        "foliation": "19 J.",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
+        "binding": "Spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
         "binding_date": [
           {
             "id": 20,
@@ -25472,7 +25477,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-07-18",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -25699,7 +25704,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -27313,9 +27318,9 @@
           }
         ],
         "extent": "I + 134",
-        "foliation": "19 J.",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
+        "binding": "Spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
         "binding_date": [
           {
             "id": 20,
@@ -27554,7 +27559,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-07-18",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -27776,7 +27781,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -29390,9 +29395,9 @@
           }
         ],
         "extent": "I + 134",
-        "foliation": "19 J.",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
+        "binding": "Spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
         "binding_date": [
           {
             "id": 20,
@@ -29631,7 +29636,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-07-18",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -29803,7 +29808,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -31417,9 +31422,9 @@
           }
         ],
         "extent": "I + 134",
-        "foliation": "19 J.",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
+        "binding": "Spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
         "binding_date": [
           {
             "id": 20,
@@ -31658,7 +31663,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-07-18",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -31880,7 +31885,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -33494,9 +33499,9 @@
           }
         ],
         "extent": "I + 134",
-        "foliation": "19 J.",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
+        "binding": "Spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
         "binding_date": [
           {
             "id": 20,
@@ -33735,7 +33740,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-07-18",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -33901,7 +33906,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -35515,9 +35520,9 @@
           }
         ],
         "extent": "I + 134",
-        "foliation": "19 J.",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
+        "binding": "Spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
         "binding_date": [
           {
             "id": 20,
@@ -35756,7 +35761,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-07-18",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -35865,7 +35870,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -37374,7 +37379,7 @@
         "Last modified": "2024-07-11"
       }
     ],
-    "Last modified": "2024-07-11",
+    "Last modified": "2024-09-24",
     "Created on": "2024-07-08",
     "Created by": {
       "id": 87,
@@ -37479,10 +37484,15 @@
           }
         ],
         "extent": "134",
-        "foliation": "",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "",
-        "binding_date": [],
+        "binding": "Heller spätgotischer Ledereinband mit Streicheisenlinien",
+        "binding_date": [
+          {
+            "id": 54,
+            "value": "15 Jh."
+          }
+        ],
         "history": "",
         "bibliography": [],
         "height": "325",
@@ -37530,7 +37540,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "am Ende, I**7**…XXVIII**222,** zwischen Strichen und Schnörkeln, zum Teil abgeschnitten",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -37715,7 +37725,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-09-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -37825,7 +37835,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -37998,10 +38008,15 @@
           }
         ],
         "extent": "134",
-        "foliation": "",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "",
-        "binding_date": [],
+        "binding": "Heller spätgotischer Ledereinband mit Streicheisenlinien",
+        "binding_date": [
+          {
+            "id": 54,
+            "value": "15 Jh."
+          }
+        ],
         "history": "",
         "bibliography": [],
         "height": "325",
@@ -38049,7 +38064,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "am Ende, I**7**…XXVIII**222,** zwischen Strichen und Schnörkeln, zum Teil abgeschnitten",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -38234,7 +38249,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-09-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -38362,7 +38377,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -38535,10 +38550,15 @@
           }
         ],
         "extent": "134",
-        "foliation": "",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "",
-        "binding_date": [],
+        "binding": "Heller spätgotischer Ledereinband mit Streicheisenlinien",
+        "binding_date": [
+          {
+            "id": 54,
+            "value": "15 Jh."
+          }
+        ],
         "history": "",
         "bibliography": [],
         "height": "325",
@@ -38586,7 +38606,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "am Ende, I**7**…XXVIII**222,** zwischen Strichen und Schnörkeln, zum Teil abgeschnitten",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -38771,7 +38791,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-09-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -38952,7 +38972,7 @@
           {
             "id": 14760,
             "value": "corrector",
-            "color": "darker-blue"
+            "color": "darker-yellow"
           }
         ],
         "locus": "101r",
@@ -39015,7 +39035,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -39195,10 +39215,15 @@
           }
         ],
         "extent": "134",
-        "foliation": "",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "",
-        "binding_date": [],
+        "binding": "Heller spätgotischer Ledereinband mit Streicheisenlinien",
+        "binding_date": [
+          {
+            "id": 54,
+            "value": "15 Jh."
+          }
+        ],
         "history": "",
         "bibliography": [],
         "height": "325",
@@ -39246,7 +39271,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "am Ende, I**7**…XXVIII**222,** zwischen Strichen und Schnörkeln, zum Teil abgeschnitten",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -39431,7 +39456,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-09-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -39541,7 +39566,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -39714,7 +39739,7 @@
           }
         ],
         "extent": "I + 213",
-        "foliation": "",
+        "foliation": "19 Jh., in neuester Zeit korrigiert",
         "acc_mat": "",
         "binding": "",
         "binding_date": [],
@@ -39765,7 +39790,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "am Ende I**7**– XXVI**205** in Raute, einige abgeschnitten",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -39950,7 +39975,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-14",
-        "Last modified": "2024-09-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -40163,7 +40188,7 @@
           }
         ],
         "extent": "103",
-        "foliation": "",
+        "foliation": "19 Jh.",
         "acc_mat": "am Anfang ein Verzeichnis der Kirchensachen und Bücher der Kirche von Hl. Primus und Hl. Felicianus",
         "binding": "",
         "binding_date": [],
@@ -40214,7 +40239,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "am Ende VI**48**",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -40340,7 +40365,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-07-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -40438,7 +40463,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -40490,7 +40515,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -40542,7 +40567,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -40594,7 +40619,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -40646,7 +40671,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -40698,7 +40723,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -40750,7 +40775,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -40932,7 +40957,7 @@
           }
         ],
         "extent": "103",
-        "foliation": "",
+        "foliation": "19 Jh.",
         "acc_mat": "am Anfang ein Verzeichnis der Kirchensachen und Bücher der Kirche von Hl. Primus und Hl. Felicianus",
         "binding": "",
         "binding_date": [],
@@ -40983,7 +41008,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "am Ende VI**48**",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -41109,7 +41134,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-07-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -41186,7 +41211,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -41326,9 +41351,9 @@
           }
         ],
         "extent": "250",
-        "foliation": "",
+        "foliation": "Fehlerhafte Foliierung 1–194, 145–200 (19.Jh.), in neuester Zeit bis 250 fortlaufend berichtigt",
         "acc_mat": "",
-        "binding": "",
+        "binding": "Heller Ledereinband mit Streicheisenlinien",
         "binding_date": [
           {
             "id": 1,
@@ -41645,7 +41670,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-07-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -41962,7 +41987,7 @@
         "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054507?page=,1",
         "idno": "Clm. 6382",
         "idno_former": "Fris. 182",
-        "quire_structure": "",
+        "quire_structure": "(IV + 1)<sup>9</sup>+ 4 IV<sup>41</sup>+ I<sup>43</sup>; 15 IV<sup>163</sup>+ (V - 1)<sup>172</sup>\n",
         "library_full": [
           {
             "id": 4,
@@ -42012,10 +42037,15 @@
           }
         ],
         "extent": "172",
-        "foliation": "19 J.",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "",
-        "binding_date": [],
+        "binding": "Heller Ledereinband mit Streicheisenlinien, Rücken erneuert",
+        "binding_date": [
+          {
+            "id": 54,
+            "value": "15 Jh."
+          }
+        ],
         "history": "",
         "bibliography": [],
         "height": "240",
@@ -42102,7 +42132,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": "",
+        "quiremarks": "am Ende I**51**– XV**163**",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -42252,7 +42282,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-09-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -42413,7 +42443,7 @@
         "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054507?page=,1",
         "idno": "Clm. 6382",
         "idno_former": "Fris. 182",
-        "quire_structure": "",
+        "quire_structure": "(IV + 1)<sup>9</sup>+ 4 IV<sup>41</sup>+ I<sup>43</sup>; 15 IV<sup>163</sup>+ (V - 1)<sup>172</sup>\n",
         "library_full": [
           {
             "id": 4,
@@ -42463,10 +42493,15 @@
           }
         ],
         "extent": "172",
-        "foliation": "19 J.",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "",
-        "binding_date": [],
+        "binding": "Heller Ledereinband mit Streicheisenlinien, Rücken erneuert",
+        "binding_date": [
+          {
+            "id": 54,
+            "value": "15 Jh."
+          }
+        ],
         "history": "",
         "bibliography": [],
         "height": "240",
@@ -42553,7 +42588,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": "",
+        "quiremarks": "am Ende I**51**– XV**163**",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -42703,7 +42738,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-09-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -42909,7 +42944,7 @@
         "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054507?page=,1",
         "idno": "Clm. 6382",
         "idno_former": "Fris. 182",
-        "quire_structure": "",
+        "quire_structure": "(IV + 1)<sup>9</sup>+ 4 IV<sup>41</sup>+ I<sup>43</sup>; 15 IV<sup>163</sup>+ (V - 1)<sup>172</sup>\n",
         "library_full": [
           {
             "id": 4,
@@ -42959,10 +42994,15 @@
           }
         ],
         "extent": "172",
-        "foliation": "19 J.",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "",
-        "binding_date": [],
+        "binding": "Heller Ledereinband mit Streicheisenlinien, Rücken erneuert",
+        "binding_date": [
+          {
+            "id": 54,
+            "value": "15 Jh."
+          }
+        ],
         "history": "",
         "bibliography": [],
         "height": "240",
@@ -43049,7 +43089,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": "",
+        "quiremarks": "am Ende I**51**– XV**163**",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -43199,7 +43239,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-09-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -43326,7 +43366,7 @@
         "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054507?page=,1",
         "idno": "Clm. 6382",
         "idno_former": "Fris. 182",
-        "quire_structure": "",
+        "quire_structure": "(IV + 1)<sup>9</sup>+ 4 IV<sup>41</sup>+ I<sup>43</sup>; 15 IV<sup>163</sup>+ (V - 1)<sup>172</sup>\n",
         "library_full": [
           {
             "id": 4,
@@ -43376,10 +43416,15 @@
           }
         ],
         "extent": "172",
-        "foliation": "19 J.",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "",
-        "binding_date": [],
+        "binding": "Heller Ledereinband mit Streicheisenlinien, Rücken erneuert",
+        "binding_date": [
+          {
+            "id": 54,
+            "value": "15 Jh."
+          }
+        ],
         "history": "",
         "bibliography": [],
         "height": "240",
@@ -43466,7 +43511,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": "",
+        "quiremarks": "am Ende I**51**– XV**163**",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -43616,7 +43661,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-09-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -43769,7 +43814,7 @@
         "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054507?page=,1",
         "idno": "Clm. 6382",
         "idno_former": "Fris. 182",
-        "quire_structure": "",
+        "quire_structure": "(IV + 1)<sup>9</sup>+ 4 IV<sup>41</sup>+ I<sup>43</sup>; 15 IV<sup>163</sup>+ (V - 1)<sup>172</sup>\n",
         "library_full": [
           {
             "id": 4,
@@ -43819,10 +43864,15 @@
           }
         ],
         "extent": "172",
-        "foliation": "19 J.",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "",
-        "binding_date": [],
+        "binding": "Heller Ledereinband mit Streicheisenlinien, Rücken erneuert",
+        "binding_date": [
+          {
+            "id": 54,
+            "value": "15 Jh."
+          }
+        ],
         "history": "",
         "bibliography": [],
         "height": "240",
@@ -43909,7 +43959,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": "",
+        "quiremarks": "am Ende I**51**– XV**163**",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -44059,7 +44109,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-09-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -44210,7 +44260,7 @@
         "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054507?page=,1",
         "idno": "Clm. 6382",
         "idno_former": "Fris. 182",
-        "quire_structure": "",
+        "quire_structure": "(IV + 1)<sup>9</sup>+ 4 IV<sup>41</sup>+ I<sup>43</sup>; 15 IV<sup>163</sup>+ (V - 1)<sup>172</sup>\n",
         "library_full": [
           {
             "id": 4,
@@ -44260,10 +44310,15 @@
           }
         ],
         "extent": "172",
-        "foliation": "19 J.",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "",
-        "binding_date": [],
+        "binding": "Heller Ledereinband mit Streicheisenlinien, Rücken erneuert",
+        "binding_date": [
+          {
+            "id": 54,
+            "value": "15 Jh."
+          }
+        ],
         "history": "",
         "bibliography": [],
         "height": "240",
@@ -44350,7 +44405,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": "",
+        "quiremarks": "am Ende I**51**– XV**163**",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -44500,7 +44555,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-09-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -44588,7 +44643,7 @@
         "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054507?page=,1",
         "idno": "Clm. 6382",
         "idno_former": "Fris. 182",
-        "quire_structure": "",
+        "quire_structure": "(IV + 1)<sup>9</sup>+ 4 IV<sup>41</sup>+ I<sup>43</sup>; 15 IV<sup>163</sup>+ (V - 1)<sup>172</sup>\n",
         "library_full": [
           {
             "id": 4,
@@ -44638,10 +44693,15 @@
           }
         ],
         "extent": "172",
-        "foliation": "19 J.",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "",
-        "binding_date": [],
+        "binding": "Heller Ledereinband mit Streicheisenlinien, Rücken erneuert",
+        "binding_date": [
+          {
+            "id": 54,
+            "value": "15 Jh."
+          }
+        ],
         "history": "",
         "bibliography": [],
         "height": "240",
@@ -44728,7 +44788,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": "",
+        "quiremarks": "am Ende I**51**– XV**163**",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -44878,7 +44938,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-09-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -45023,7 +45083,7 @@
         "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054507?page=,1",
         "idno": "Clm. 6382",
         "idno_former": "Fris. 182",
-        "quire_structure": "",
+        "quire_structure": "(IV + 1)<sup>9</sup>+ 4 IV<sup>41</sup>+ I<sup>43</sup>; 15 IV<sup>163</sup>+ (V - 1)<sup>172</sup>\n",
         "library_full": [
           {
             "id": 4,
@@ -45073,10 +45133,15 @@
           }
         ],
         "extent": "172",
-        "foliation": "19 J.",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "",
-        "binding_date": [],
+        "binding": "Heller Ledereinband mit Streicheisenlinien, Rücken erneuert",
+        "binding_date": [
+          {
+            "id": 54,
+            "value": "15 Jh."
+          }
+        ],
         "history": "",
         "bibliography": [],
         "height": "240",
@@ -45163,7 +45228,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": "",
+        "quiremarks": "am Ende I**51**– XV**163**",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -45313,7 +45378,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-09-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -45464,7 +45529,7 @@
         "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054507?page=,1",
         "idno": "Clm. 6382",
         "idno_former": "Fris. 182",
-        "quire_structure": "",
+        "quire_structure": "(IV + 1)<sup>9</sup>+ 4 IV<sup>41</sup>+ I<sup>43</sup>; 15 IV<sup>163</sup>+ (V - 1)<sup>172</sup>\n",
         "library_full": [
           {
             "id": 4,
@@ -45514,10 +45579,15 @@
           }
         ],
         "extent": "172",
-        "foliation": "19 J.",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "",
-        "binding_date": [],
+        "binding": "Heller Ledereinband mit Streicheisenlinien, Rücken erneuert",
+        "binding_date": [
+          {
+            "id": 54,
+            "value": "15 Jh."
+          }
+        ],
         "history": "",
         "bibliography": [],
         "height": "240",
@@ -45604,7 +45674,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": "",
+        "quiremarks": "am Ende I**51**– XV**163**",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -45754,7 +45824,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-09-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -45842,7 +45912,7 @@
         "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054507?page=,1",
         "idno": "Clm. 6382",
         "idno_former": "Fris. 182",
-        "quire_structure": "",
+        "quire_structure": "(IV + 1)<sup>9</sup>+ 4 IV<sup>41</sup>+ I<sup>43</sup>; 15 IV<sup>163</sup>+ (V - 1)<sup>172</sup>\n",
         "library_full": [
           {
             "id": 4,
@@ -45892,10 +45962,15 @@
           }
         ],
         "extent": "172",
-        "foliation": "19 J.",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "",
-        "binding_date": [],
+        "binding": "Heller Ledereinband mit Streicheisenlinien, Rücken erneuert",
+        "binding_date": [
+          {
+            "id": 54,
+            "value": "15 Jh."
+          }
+        ],
         "history": "",
         "bibliography": [],
         "height": "240",
@@ -45982,7 +46057,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": "",
+        "quiremarks": "am Ende I**51**– XV**163**",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -46132,7 +46207,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-09-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -46220,7 +46295,7 @@
         "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054507?page=,1",
         "idno": "Clm. 6382",
         "idno_former": "Fris. 182",
-        "quire_structure": "",
+        "quire_structure": "(IV + 1)<sup>9</sup>+ 4 IV<sup>41</sup>+ I<sup>43</sup>; 15 IV<sup>163</sup>+ (V - 1)<sup>172</sup>\n",
         "library_full": [
           {
             "id": 4,
@@ -46270,10 +46345,15 @@
           }
         ],
         "extent": "172",
-        "foliation": "19 J.",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "",
-        "binding_date": [],
+        "binding": "Heller Ledereinband mit Streicheisenlinien, Rücken erneuert",
+        "binding_date": [
+          {
+            "id": 54,
+            "value": "15 Jh."
+          }
+        ],
         "history": "",
         "bibliography": [],
         "height": "240",
@@ -46360,7 +46440,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": "",
+        "quiremarks": "am Ende I**51**– XV**163**",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -46510,7 +46590,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-09-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -46637,7 +46717,7 @@
         "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054507?page=,1",
         "idno": "Clm. 6382",
         "idno_former": "Fris. 182",
-        "quire_structure": "",
+        "quire_structure": "(IV + 1)<sup>9</sup>+ 4 IV<sup>41</sup>+ I<sup>43</sup>; 15 IV<sup>163</sup>+ (V - 1)<sup>172</sup>\n",
         "library_full": [
           {
             "id": 4,
@@ -46687,10 +46767,15 @@
           }
         ],
         "extent": "172",
-        "foliation": "19 J.",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "",
-        "binding_date": [],
+        "binding": "Heller Ledereinband mit Streicheisenlinien, Rücken erneuert",
+        "binding_date": [
+          {
+            "id": 54,
+            "value": "15 Jh."
+          }
+        ],
         "history": "",
         "bibliography": [],
         "height": "240",
@@ -46777,7 +46862,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": "",
+        "quiremarks": "am Ende I**51**– XV**163**",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -46927,7 +47012,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-09-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -47090,7 +47175,7 @@
         "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054507?page=,1",
         "idno": "Clm. 6382",
         "idno_former": "Fris. 182",
-        "quire_structure": "",
+        "quire_structure": "(IV + 1)<sup>9</sup>+ 4 IV<sup>41</sup>+ I<sup>43</sup>; 15 IV<sup>163</sup>+ (V - 1)<sup>172</sup>\n",
         "library_full": [
           {
             "id": 4,
@@ -47140,10 +47225,15 @@
           }
         ],
         "extent": "172",
-        "foliation": "19 J.",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "",
-        "binding_date": [],
+        "binding": "Heller Ledereinband mit Streicheisenlinien, Rücken erneuert",
+        "binding_date": [
+          {
+            "id": 54,
+            "value": "15 Jh."
+          }
+        ],
         "history": "",
         "bibliography": [],
         "height": "240",
@@ -47230,7 +47320,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": "",
+        "quiremarks": "am Ende I**51**– XV**163**",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -47380,7 +47470,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-09-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -47543,7 +47633,7 @@
         "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=,1",
         "idno": "Clm. 6383",
         "idno_former": "Fris. 183",
-        "quire_structure": "",
+        "quire_structure": "(V - 2)<sup>8</sup>+ IV<sup>16</sup>+ (V - 1)<sup>25</sup>+ IV<sup>33</sup>+ (V - 2)<sup>41</sup>+ IV<sup>49</sup>+ (V - 2)<sup>57</sup>+ (IV - 1)<sup>64</sup>+ IV<sup>72</sup>+ 2 (V - 2)<sup>88</sup>+ IV<sup>96</sup>+ (VI - 3)<sup>105</sup>+ 4 IV<sup>137</sup>+ 2 (IV - 1)<sup>151</sup>\n",
         "library_full": [
           {
             "id": 4,
@@ -47593,10 +47683,15 @@
           }
         ],
         "extent": "151",
-        "foliation": "19 J.",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "",
-        "binding_date": [],
+        "binding": "Heller spätgotischer Ledereinband mit Streicheisenlinien (15. Jh.), der Riemen der Schließe ist weggerissen, ebenso oben eine Kettenöse",
+        "binding_date": [
+          {
+            "id": 54,
+            "value": "15 Jh."
+          }
+        ],
         "history": "",
         "bibliography": [],
         "height": "260",
@@ -47770,7 +47865,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-14",
-        "Last modified": "2024-07-18",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -48084,7 +48179,7 @@
           }
         ],
         "extent": "198",
-        "foliation": "",
+        "foliation": "19 Jh.",
         "acc_mat": "",
         "binding": "",
         "binding_date": [],
@@ -48300,7 +48395,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-14",
-        "Last modified": "2024-07-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -48576,7 +48671,7 @@
           }
         ],
         "extent": "198",
-        "foliation": "",
+        "foliation": "19 Jh.",
         "acc_mat": "",
         "binding": "",
         "binding_date": [],
@@ -48792,7 +48887,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-14",
-        "Last modified": "2024-07-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -49013,7 +49108,7 @@
           }
         ],
         "extent": "198",
-        "foliation": "",
+        "foliation": "19 Jh.",
         "acc_mat": "",
         "binding": "",
         "binding_date": [],
@@ -49229,7 +49324,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-14",
-        "Last modified": "2024-07-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -49442,7 +49537,7 @@
           }
         ],
         "extent": "198",
-        "foliation": "",
+        "foliation": "19 Jh.",
         "acc_mat": "",
         "binding": "",
         "binding_date": [],
@@ -49658,7 +49753,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-14",
-        "Last modified": "2024-07-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -49796,7 +49891,7 @@
           }
         ],
         "extent": "II + 193",
-        "foliation": "",
+        "foliation": "19 Jh.",
         "acc_mat": "",
         "binding": "",
         "binding_date": [],
@@ -49847,7 +49942,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "am Ende, II**8**–XXVI**186**, XIII ausgelassen, XV fehlt jetzt.",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -49973,7 +50068,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-14",
-        "Last modified": "2024-07-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -50153,7 +50248,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -50205,7 +50300,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -50258,7 +50353,7 @@
           {
             "id": 14760,
             "value": "corrector",
-            "color": "darker-blue"
+            "color": "darker-yellow"
           }
         ],
         "locus": "",
@@ -50418,7 +50513,7 @@
           }
         ],
         "extent": "I + 55",
-        "foliation": "",
+        "foliation": "19 Jh.",
         "acc_mat": "",
         "binding": "",
         "binding_date": [],
@@ -50469,7 +50564,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -50595,7 +50690,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-14",
-        "Last modified": "2024-07-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -50808,7 +50903,7 @@
           }
         ],
         "extent": "I + 55",
-        "foliation": "",
+        "foliation": "19 Jh.",
         "acc_mat": "",
         "binding": "",
         "binding_date": [],
@@ -50859,7 +50954,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -50985,7 +51080,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-14",
-        "Last modified": "2024-07-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -51162,10 +51257,15 @@
           }
         ],
         "extent": "276",
-        "foliation": "",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "",
-        "binding_date": [],
+        "binding": "Heller Ledereinband, schmucklos",
+        "binding_date": [
+          {
+            "id": 20,
+            "value": "14-15 Jh."
+          }
+        ],
         "history": "",
         "bibliography": [],
         "height": "165",
@@ -51213,7 +51313,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "am Ende C**21**– R**133**bzw. I**141**–XVII**269**, oft mit Beiwerk. Bl. **126** in neuerer Zeit verbunden.",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -51339,7 +51439,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-14",
-        "Last modified": "2024-07-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -51560,10 +51660,15 @@
           }
         ],
         "extent": "276",
-        "foliation": "",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "",
-        "binding_date": [],
+        "binding": "Heller Ledereinband, schmucklos",
+        "binding_date": [
+          {
+            "id": 20,
+            "value": "14-15 Jh."
+          }
+        ],
         "history": "",
         "bibliography": [],
         "height": "165",
@@ -51611,7 +51716,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "am Ende C**21**– R**133**bzw. I**141**–XVII**269**, oft mit Beiwerk. Bl. **126** in neuerer Zeit verbunden.",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -51737,7 +51842,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-14",
-        "Last modified": "2024-07-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -51956,10 +52061,15 @@
           }
         ],
         "extent": "276",
-        "foliation": "",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "",
-        "binding_date": [],
+        "binding": "Heller Ledereinband, schmucklos",
+        "binding_date": [
+          {
+            "id": 20,
+            "value": "14-15 Jh."
+          }
+        ],
         "history": "",
         "bibliography": [],
         "height": "165",
@@ -52007,7 +52117,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "am Ende C**21**– R**133**bzw. I**141**–XVII**269**, oft mit Beiwerk. Bl. **126** in neuerer Zeit verbunden.",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -52133,7 +52243,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-14",
-        "Last modified": "2024-07-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -52352,10 +52462,15 @@
           }
         ],
         "extent": "276",
-        "foliation": "",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "",
-        "binding_date": [],
+        "binding": "Heller Ledereinband, schmucklos",
+        "binding_date": [
+          {
+            "id": 20,
+            "value": "14-15 Jh."
+          }
+        ],
         "history": "",
         "bibliography": [],
         "height": "165",
@@ -52403,7 +52518,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "am Ende C**21**– R**133**bzw. I**141**–XVII**269**, oft mit Beiwerk. Bl. **126** in neuerer Zeit verbunden.",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -52529,7 +52644,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-14",
-        "Last modified": "2024-07-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -52748,10 +52863,15 @@
           }
         ],
         "extent": "276",
-        "foliation": "",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "",
-        "binding_date": [],
+        "binding": "Heller Ledereinband, schmucklos",
+        "binding_date": [
+          {
+            "id": 20,
+            "value": "14-15 Jh."
+          }
+        ],
         "history": "",
         "bibliography": [],
         "height": "165",
@@ -52799,7 +52919,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": null,
+        "quiremarks": "am Ende C**21**– R**133**bzw. I**141**–XVII**269**, oft mit Beiwerk. Bl. **126** in neuerer Zeit verbunden.",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -52925,7 +53045,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-14",
-        "Last modified": "2024-07-19",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -53120,10 +53240,15 @@
           }
         ],
         "extent": "103",
-        "foliation": "",
+        "foliation": "Foliierung der Säkularisationszeit",
         "acc_mat": "",
-        "binding": "",
-        "binding_date": [],
+        "binding": "Heller Ledereinband mit Streicheisenlinien",
+        "binding_date": [
+          {
+            "id": 55,
+            "value": "14 Jh."
+          }
+        ],
         "history": "",
         "bibliography": [],
         "height": "205",
@@ -53171,7 +53296,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": "",
+        "quiremarks": "Ziffern (I-XII) am Ende der Lagen",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -53356,7 +53481,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-14",
-        "Last modified": "2024-09-17",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -53551,10 +53676,15 @@
           }
         ],
         "extent": "103",
-        "foliation": "",
+        "foliation": "Foliierung der Säkularisationszeit",
         "acc_mat": "",
-        "binding": "",
-        "binding_date": [],
+        "binding": "Heller Ledereinband mit Streicheisenlinien",
+        "binding_date": [
+          {
+            "id": 55,
+            "value": "14 Jh."
+          }
+        ],
         "history": "",
         "bibliography": [],
         "height": "205",
@@ -53602,7 +53732,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": "",
+        "quiremarks": "Ziffern (I-XII) am Ende der Lagen",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -53787,7 +53917,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-14",
-        "Last modified": "2024-09-17",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -53990,10 +54120,15 @@
           }
         ],
         "extent": "103",
-        "foliation": "",
+        "foliation": "Foliierung der Säkularisationszeit",
         "acc_mat": "",
-        "binding": "",
-        "binding_date": [],
+        "binding": "Heller Ledereinband mit Streicheisenlinien",
+        "binding_date": [
+          {
+            "id": 55,
+            "value": "14 Jh."
+          }
+        ],
         "history": "",
         "bibliography": [],
         "height": "205",
@@ -54041,7 +54176,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": "",
+        "quiremarks": "Ziffern (I-XII) am Ende der Lagen",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -54226,7 +54361,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-14",
-        "Last modified": "2024-09-17",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -54379,7 +54514,7 @@
         "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054502?page=,1",
         "idno": "Clm. 6341",
         "idno_former": "Fris. 141",
-        "quire_structure": "",
+        "quire_structure": "6 IV<sup>48</sup>+ 2 Einzelbll.<sup>50</sup>+ III<sup>56</sup>+ 2 Einzelbll.<sup>58</sup>+ I<sup>60</sup>; 4 IV<sup>92</sup>+ V<sup>102</sup>+ 4 IV<sup>134</sup>+ (III - 1)<sup>139</sup>\n",
         "library_full": [
           {
             "id": 4,
@@ -54519,7 +54654,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": "",
+        "quiremarks": "III**84** zwischen Punkten",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -54669,7 +54804,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-14",
-        "Last modified": "2024-09-17",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -54814,7 +54949,7 @@
         "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054502?page=,1",
         "idno": "Clm. 6341",
         "idno_former": "Fris. 141",
-        "quire_structure": "",
+        "quire_structure": "6 IV<sup>48</sup>+ 2 Einzelbll.<sup>50</sup>+ III<sup>56</sup>+ 2 Einzelbll.<sup>58</sup>+ I<sup>60</sup>; 4 IV<sup>92</sup>+ V<sup>102</sup>+ 4 IV<sup>134</sup>+ (III - 1)<sup>139</sup>\n",
         "library_full": [
           {
             "id": 4,
@@ -54954,7 +55089,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": "",
+        "quiremarks": "III**84** zwischen Punkten",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -55104,7 +55239,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-14",
-        "Last modified": "2024-09-17",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -55216,7 +55351,7 @@
         "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054502?page=,1",
         "idno": "Clm. 6341",
         "idno_former": "Fris. 141",
-        "quire_structure": "",
+        "quire_structure": "6 IV<sup>48</sup>+ 2 Einzelbll.<sup>50</sup>+ III<sup>56</sup>+ 2 Einzelbll.<sup>58</sup>+ I<sup>60</sup>; 4 IV<sup>92</sup>+ V<sup>102</sup>+ 4 IV<sup>134</sup>+ (III - 1)<sup>139</sup>\n",
         "library_full": [
           {
             "id": 4,
@@ -55356,7 +55491,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": "",
+        "quiremarks": "III**84** zwischen Punkten",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -55506,7 +55641,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-14",
-        "Last modified": "2024-09-17",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -55618,7 +55753,7 @@
         "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054502?page=,1",
         "idno": "Clm. 6341",
         "idno_former": "Fris. 141",
-        "quire_structure": "",
+        "quire_structure": "6 IV<sup>48</sup>+ 2 Einzelbll.<sup>50</sup>+ III<sup>56</sup>+ 2 Einzelbll.<sup>58</sup>+ I<sup>60</sup>; 4 IV<sup>92</sup>+ V<sup>102</sup>+ 4 IV<sup>134</sup>+ (III - 1)<sup>139</sup>\n",
         "library_full": [
           {
             "id": 4,
@@ -55758,7 +55893,7 @@
           }
         ],
         "catchwords": "",
-        "quiremarks": "",
+        "quiremarks": "III**84** zwischen Punkten",
         "material": {
           "id": 14782,
           "value": "parchment",
@@ -55908,7 +56043,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-14",
-        "Last modified": "2024-09-17",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -56217,9 +56352,9 @@
           }
         ],
         "extent": "I + 134",
-        "foliation": "19 J.",
+        "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
+        "binding": "Spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
         "binding_date": [
           {
             "id": 20,
@@ -56458,7 +56593,7 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-06-13",
-        "Last modified": "2024-07-18",
+        "Last modified": "2024-09-24",
         "content_summary": null
       }
     ],
@@ -58238,7 +58373,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -58290,7 +58425,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -58342,7 +58477,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -58394,7 +58529,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -65776,7 +65911,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -67659,7 +67794,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -67711,7 +67846,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -69823,7 +69958,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -78497,7 +78632,7 @@
           },
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -80620,7 +80755,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -80672,7 +80807,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -82802,7 +82937,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -87231,7 +87366,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -89336,7 +89471,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -93774,7 +93909,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -95942,7 +96077,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -97929,7 +98064,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -97980,9 +98115,9 @@
         ],
         "role": [
           {
-            "id": 14763,
-            "value": "annotator",
-            "color": "cyan"
+            "id": 15377,
+            "value": "continuator/Fortsetzer",
+            "color": "darker-pink"
           }
         ],
         "locus": "",
@@ -98010,7 +98145,7 @@
           "name": "Leon Pürstinger"
         },
         "Created on": "2024-07-30",
-        "Last modified": "2024-07-30",
+        "Last modified": "2024-09-24",
         "locus_layout": [],
         "function": []
       },
@@ -98032,9 +98167,9 @@
         ],
         "role": [
           {
-            "id": 14763,
-            "value": "annotator",
-            "color": "cyan"
+            "id": 15377,
+            "value": "continuator/Fortsetzer",
+            "color": "darker-pink"
           }
         ],
         "locus": "",
@@ -98062,7 +98197,7 @@
           "name": "Leon Pürstinger"
         },
         "Created on": "2024-07-30",
-        "Last modified": "2024-07-30",
+        "Last modified": "2024-09-24",
         "locus_layout": [],
         "function": []
       }
@@ -98681,7 +98816,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -100668,7 +100803,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -101184,7 +101319,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           },
           {
@@ -101723,7 +101858,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -104283,7 +104418,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -104805,7 +104940,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -104862,7 +104997,7 @@
           },
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -105936,9 +106071,9 @@
         ],
         "role": [
           {
-            "id": 14763,
-            "value": "annotator",
-            "color": "cyan"
+            "id": 15378,
+            "value": "\"Erweiterer\"",
+            "color": "darker-cyan"
           }
         ],
         "locus": "",
@@ -105966,7 +106101,7 @@
           "name": "Leon Pürstinger"
         },
         "Created on": "2024-08-05",
-        "Last modified": "2024-08-05",
+        "Last modified": "2024-09-24",
         "locus_layout": [],
         "function": []
       }
@@ -106453,7 +106588,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -106505,7 +106640,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -106557,7 +106692,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           },
           {
@@ -107134,7 +107269,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -107186,7 +107321,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -107238,7 +107373,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -107290,7 +107425,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -107342,7 +107477,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -107394,7 +107529,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -107446,7 +107581,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -107498,7 +107633,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -107550,7 +107685,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -107602,7 +107737,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -107654,7 +107789,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -107706,7 +107841,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -107758,7 +107893,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -107810,7 +107945,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -107862,7 +107997,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -107914,7 +108049,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -109481,7 +109616,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           },
           {
@@ -110002,7 +110137,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           },
           {
@@ -110556,7 +110691,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -110608,7 +110743,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           },
           {
@@ -111591,7 +111726,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -111643,7 +111778,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           },
           {
@@ -111700,7 +111835,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           },
           {
@@ -111757,7 +111892,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           },
           {
@@ -111814,7 +111949,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           },
           {
@@ -112822,7 +112957,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -113309,7 +113444,7 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           }
         ],
@@ -120282,13 +120417,13 @@
         "role": [
           {
             "id": 14758,
-            "value": "scribe",
+            "value": "Schreiber",
             "color": "darker-red"
           },
           {
-            "id": 14763,
-            "value": "annotator",
-            "color": "cyan"
+            "id": 15378,
+            "value": "\"Erweiterer\"",
+            "color": "darker-cyan"
           }
         ],
         "locus": "",
@@ -120316,7 +120451,7 @@
           "name": "Leon Pürstinger"
         },
         "Created on": "2024-08-06",
-        "Last modified": "2024-08-06",
+        "Last modified": "2024-09-24",
         "locus_layout": [],
         "function": []
       }

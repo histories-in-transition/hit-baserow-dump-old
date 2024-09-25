@@ -882,5 +882,73 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-17"
+  },
+  "53": {
+    "id": 53,
+    "order": "53.00000000000000000000",
+    "label": "11 Jh., erstes Viertel",
+    "not_before": "1000-01-01",
+    "hit_id": "hit_date__53",
+    "not_after": "1024-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-24"
+  },
+  "54": {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "label": "15 Jh.",
+    "not_before": "1400-01-01",
+    "hit_id": "hit_date__54",
+    "not_after": "1499-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-24"
+  },
+  "55": {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "label": "14 Jh.",
+    "not_before": "1300-01-01",
+    "hit_id": "hit_date__55",
+    "not_after": "1399-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-24"
+  },
+  "56": {
+    "id": 56,
+    "order": "56.00000000000000000000",
+    "label": "um 1400",
+    "not_before": "1400-01-01",
+    "hit_id": "hit_date__56",
+    "not_after": null,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-24"
   }
 }

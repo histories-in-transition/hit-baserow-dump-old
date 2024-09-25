@@ -206,5 +206,31 @@
       "name": "Ivana Dobcheva"
     },
     "Last modified": "2024-07-11"
+  },
+  "10": {
+    "id": 10,
+    "order": "9.00000000000000000000",
+    "label": "Hofbibliothek München",
+    "hit_id": "hit_org__10",
+    "gnd_url": "",
+    "library_full": "",
+    "library_website": "",
+    "settlement": [
+      {
+        "id": 8,
+        "value": "München"
+      }
+    ],
+    "wikidata": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-24",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-24"
   }
 }

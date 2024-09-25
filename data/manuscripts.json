@@ -1528,8 +1528,8 @@
     "catalog_url": "https://handschriftenportal.de/search?hspobjectid=HSP-59a3c13a-6097-311e-979b-9cfc371fa37c&q=clm+210&hl=true",
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00047183",
     "idno": "Clm. 210",
-    "idno_former": "",
-    "quire_structure": "",
+    "idno_former": "Cim. 309",
+    "quire_structure": "<sup>1</sup> + (II+1)<sup>5</sup> + 6 IV<sup>53</sup> + IV<sup>61</sup>/<sup>62</sup> (61/62 Doppelblatt zum Ausfalten) + 6 IV<sup>110</sup> + 2 (IV+1)<sup>128</sup> + 4 IV1<sup>60</sup> + (II-1)<sup>163</sup> +<sup>1</sup>\n",
     "library_full": [
       {
         "id": 4,
@@ -1578,15 +1578,20 @@
         "Last modified": "2024-07-03"
       }
     ],
-    "extent": "",
-    "foliation": "",
+    "extent": "163",
+    "foliation": "durch Hartmann Schedel",
     "acc_mat": "",
-    "binding": "",
-    "binding_date": [],
+    "binding": "Brauner Ledereinband mit Streicheisenlinien mit Einzelstempeln",
+    "binding_date": [
+      {
+        "id": 56,
+        "value": "um 1400"
+      }
+    ],
     "history": "",
     "bibliography": [],
-    "height": null,
-    "width": null,
+    "height": "315",
+    "width": "240",
     "material_spec": "",
     "orig_place": [
       {
@@ -1636,7 +1641,54 @@
       "value": "parchment",
       "color": "darker-orange"
     },
-    "provenance": [],
+    "provenance": [
+      {
+        "id": 10,
+        "order": "9.00000000000000000000",
+        "label": "Hofbibliothek München",
+        "hit_id": "hit_org__10",
+        "gnd_url": "",
+        "library_full": "",
+        "library_website": "",
+        "settlement": [
+          {
+            "id": 8,
+            "order": "8.00000000000000000000",
+            "name": "München",
+            "geonames_url": "https://www.geonames.org/2867714/munich.html",
+            "hit_id": "hit_place__8",
+            "wikidata_url": "",
+            "country": [
+              {
+                "id": 2,
+                "value": "Deutschland"
+              }
+            ],
+            "Created by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Created on": "2024-07-03",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-07-09"
+          }
+        ],
+        "wikidata": "",
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Created on": "2024-09-24",
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-09-24"
+      }
+    ],
     "manuscripts_dated": [],
     "orig_dated": [],
     "Created by": {
@@ -1648,7 +1700,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-12",
-    "Last modified": "2024-07-19",
+    "Last modified": "2024-09-24",
     "content_summary": null
   },
   "5": {
@@ -1723,9 +1775,9 @@
       }
     ],
     "extent": "I + 134",
-    "foliation": "19 J.",
+    "foliation": "19 Jh.",
     "acc_mat": "",
-    "binding": "spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
+    "binding": "Spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
     "binding_date": [
       {
         "id": 20,
@@ -1964,7 +2016,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-13",
-    "Last modified": "2024-07-18",
+    "Last modified": "2024-09-24",
     "content_summary": null
   },
   "6": {
@@ -2039,10 +2091,15 @@
       }
     ],
     "extent": "149",
-    "foliation": "19 J.",
+    "foliation": "19 Jh.",
     "acc_mat": "",
-    "binding": "",
-    "binding_date": [],
+    "binding": "Heller spätottonischer Ledereinband aus Freising, der Riemen der Schließe ist weggerissen",
+    "binding_date": [
+      {
+        "id": 53,
+        "value": "11 Jh., erstes Viertel"
+      }
+    ],
     "history": "",
     "bibliography": [],
     "height": "255",
@@ -2275,7 +2332,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-13",
-    "Last modified": "2024-07-18",
+    "Last modified": "2024-09-24",
     "content_summary": null
   },
   "7": {
@@ -2350,7 +2407,7 @@
       }
     ],
     "extent": "103",
-    "foliation": "",
+    "foliation": "19 Jh.",
     "acc_mat": "am Anfang ein Verzeichnis der Kirchensachen und Bücher der Kirche von Hl. Primus und Hl. Felicianus",
     "binding": "",
     "binding_date": [],
@@ -2401,7 +2458,7 @@
       }
     ],
     "catchwords": "",
-    "quiremarks": null,
+    "quiremarks": "am Ende VI**48**",
     "material": {
       "id": 14782,
       "value": "parchment",
@@ -2527,7 +2584,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-13",
-    "Last modified": "2024-07-19",
+    "Last modified": "2024-09-24",
     "content_summary": null
   },
   "8": {
@@ -2602,10 +2659,15 @@
       }
     ],
     "extent": "134",
-    "foliation": "",
+    "foliation": "19 Jh.",
     "acc_mat": "",
-    "binding": "",
-    "binding_date": [],
+    "binding": "Heller spätgotischer Ledereinband mit Streicheisenlinien",
+    "binding_date": [
+      {
+        "id": 54,
+        "value": "15 Jh."
+      }
+    ],
     "history": "",
     "bibliography": [],
     "height": "325",
@@ -2653,7 +2715,7 @@
       }
     ],
     "catchwords": "",
-    "quiremarks": null,
+    "quiremarks": "am Ende, I**7**…XXVIII**222,** zwischen Strichen und Schnörkeln, zum Teil abgeschnitten",
     "material": {
       "id": 14782,
       "value": "parchment",
@@ -2838,7 +2900,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-13",
-    "Last modified": "2024-09-19",
+    "Last modified": "2024-09-24",
     "content_summary": null
   },
   "9": {
@@ -2913,9 +2975,9 @@
       }
     ],
     "extent": "250",
-    "foliation": "",
+    "foliation": "Fehlerhafte Foliierung 1–194, 145–200 (19.Jh.), in neuester Zeit bis 250 fortlaufend berichtigt",
     "acc_mat": "",
-    "binding": "",
+    "binding": "Heller Ledereinband mit Streicheisenlinien",
     "binding_date": [
       {
         "id": 1,
@@ -3232,7 +3294,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-13",
-    "Last modified": "2024-07-19",
+    "Last modified": "2024-09-24",
     "content_summary": null
   },
   "10": {
@@ -3257,7 +3319,7 @@
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054507?page=,1",
     "idno": "Clm. 6382",
     "idno_former": "Fris. 182",
-    "quire_structure": "",
+    "quire_structure": "(IV + 1)<sup>9</sup>+ 4 IV<sup>41</sup>+ I<sup>43</sup>; 15 IV<sup>163</sup>+ (V - 1)<sup>172</sup>\n",
     "library_full": [
       {
         "id": 4,
@@ -3307,10 +3369,15 @@
       }
     ],
     "extent": "172",
-    "foliation": "19 J.",
+    "foliation": "19 Jh.",
     "acc_mat": "",
-    "binding": "",
-    "binding_date": [],
+    "binding": "Heller Ledereinband mit Streicheisenlinien, Rücken erneuert",
+    "binding_date": [
+      {
+        "id": 54,
+        "value": "15 Jh."
+      }
+    ],
     "history": "",
     "bibliography": [],
     "height": "240",
@@ -3397,7 +3464,7 @@
       }
     ],
     "catchwords": "",
-    "quiremarks": "",
+    "quiremarks": "am Ende I**51**– XV**163**",
     "material": {
       "id": 14782,
       "value": "parchment",
@@ -3547,7 +3614,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-13",
-    "Last modified": "2024-09-19",
+    "Last modified": "2024-09-24",
     "content_summary": null
   },
   "11": {
@@ -3572,7 +3639,7 @@
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=,1",
     "idno": "Clm. 6383",
     "idno_former": "Fris. 183",
-    "quire_structure": "",
+    "quire_structure": "(V - 2)<sup>8</sup>+ IV<sup>16</sup>+ (V - 1)<sup>25</sup>+ IV<sup>33</sup>+ (V - 2)<sup>41</sup>+ IV<sup>49</sup>+ (V - 2)<sup>57</sup>+ (IV - 1)<sup>64</sup>+ IV<sup>72</sup>+ 2 (V - 2)<sup>88</sup>+ IV<sup>96</sup>+ (VI - 3)<sup>105</sup>+ 4 IV<sup>137</sup>+ 2 (IV - 1)<sup>151</sup>\n",
     "library_full": [
       {
         "id": 4,
@@ -3622,10 +3689,15 @@
       }
     ],
     "extent": "151",
-    "foliation": "19 J.",
+    "foliation": "19 Jh.",
     "acc_mat": "",
-    "binding": "",
-    "binding_date": [],
+    "binding": "Heller spätgotischer Ledereinband mit Streicheisenlinien (15. Jh.), der Riemen der Schließe ist weggerissen, ebenso oben eine Kettenöse",
+    "binding_date": [
+      {
+        "id": 54,
+        "value": "15 Jh."
+      }
+    ],
     "history": "",
     "bibliography": [],
     "height": "260",
@@ -3799,7 +3871,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-14",
-    "Last modified": "2024-07-18",
+    "Last modified": "2024-09-24",
     "content_summary": null
   },
   "12": {
@@ -3874,7 +3946,7 @@
       }
     ],
     "extent": "198",
-    "foliation": "",
+    "foliation": "19 Jh.",
     "acc_mat": "",
     "binding": "",
     "binding_date": [],
@@ -4090,7 +4162,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-14",
-    "Last modified": "2024-07-19",
+    "Last modified": "2024-09-24",
     "content_summary": null
   },
   "13": {
@@ -4165,7 +4237,7 @@
       }
     ],
     "extent": "II + 193",
-    "foliation": "",
+    "foliation": "19 Jh.",
     "acc_mat": "",
     "binding": "",
     "binding_date": [],
@@ -4216,7 +4288,7 @@
       }
     ],
     "catchwords": "",
-    "quiremarks": null,
+    "quiremarks": "am Ende, II**8**–XXVI**186**, XIII ausgelassen, XV fehlt jetzt.",
     "material": {
       "id": 14782,
       "value": "parchment",
@@ -4342,7 +4414,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-14",
-    "Last modified": "2024-07-19",
+    "Last modified": "2024-09-24",
     "content_summary": null
   },
   "14": {
@@ -4417,7 +4489,7 @@
       }
     ],
     "extent": "I + 55",
-    "foliation": "",
+    "foliation": "19 Jh.",
     "acc_mat": "",
     "binding": "",
     "binding_date": [],
@@ -4468,7 +4540,7 @@
       }
     ],
     "catchwords": "",
-    "quiremarks": null,
+    "quiremarks": "",
     "material": {
       "id": 14782,
       "value": "parchment",
@@ -4594,7 +4666,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-14",
-    "Last modified": "2024-07-19",
+    "Last modified": "2024-09-24",
     "content_summary": null
   },
   "15": {
@@ -4669,10 +4741,15 @@
       }
     ],
     "extent": "276",
-    "foliation": "",
+    "foliation": "19 Jh.",
     "acc_mat": "",
-    "binding": "",
-    "binding_date": [],
+    "binding": "Heller Ledereinband, schmucklos",
+    "binding_date": [
+      {
+        "id": 20,
+        "value": "14-15 Jh."
+      }
+    ],
     "history": "",
     "bibliography": [],
     "height": "165",
@@ -4720,7 +4797,7 @@
       }
     ],
     "catchwords": "",
-    "quiremarks": null,
+    "quiremarks": "am Ende C**21**– R**133**bzw. I**141**–XVII**269**, oft mit Beiwerk. Bl. **126** in neuerer Zeit verbunden.",
     "material": {
       "id": 14782,
       "value": "parchment",
@@ -4846,7 +4923,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-14",
-    "Last modified": "2024-07-19",
+    "Last modified": "2024-09-24",
     "content_summary": null
   },
   "16": {
@@ -4921,7 +4998,7 @@
       }
     ],
     "extent": "I + 213",
-    "foliation": "",
+    "foliation": "19 Jh., in neuester Zeit korrigiert",
     "acc_mat": "",
     "binding": "",
     "binding_date": [],
@@ -4972,7 +5049,7 @@
       }
     ],
     "catchwords": "",
-    "quiremarks": null,
+    "quiremarks": "am Ende I**7**– XXVI**205** in Raute, einige abgeschnitten",
     "material": {
       "id": 14782,
       "value": "parchment",
@@ -5157,7 +5234,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-14",
-    "Last modified": "2024-09-19",
+    "Last modified": "2024-09-24",
     "content_summary": null
   },
   "17": {
@@ -5232,10 +5309,15 @@
       }
     ],
     "extent": "103",
-    "foliation": "",
+    "foliation": "Foliierung der Säkularisationszeit",
     "acc_mat": "",
-    "binding": "",
-    "binding_date": [],
+    "binding": "Heller Ledereinband mit Streicheisenlinien",
+    "binding_date": [
+      {
+        "id": 55,
+        "value": "14 Jh."
+      }
+    ],
     "history": "",
     "bibliography": [],
     "height": "205",
@@ -5283,7 +5365,7 @@
       }
     ],
     "catchwords": "",
-    "quiremarks": "",
+    "quiremarks": "Ziffern (I-XII) am Ende der Lagen",
     "material": {
       "id": 14782,
       "value": "parchment",
@@ -5468,7 +5550,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-14",
-    "Last modified": "2024-09-17",
+    "Last modified": "2024-09-24",
     "content_summary": null
   },
   "18": {
@@ -5597,7 +5679,7 @@
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054502?page=,1",
     "idno": "Clm. 6341",
     "idno_former": "Fris. 141",
-    "quire_structure": "",
+    "quire_structure": "6 IV<sup>48</sup>+ 2 Einzelbll.<sup>50</sup>+ III<sup>56</sup>+ 2 Einzelbll.<sup>58</sup>+ I<sup>60</sup>; 4 IV<sup>92</sup>+ V<sup>102</sup>+ 4 IV<sup>134</sup>+ (III - 1)<sup>139</sup>\n",
     "library_full": [
       {
         "id": 4,
@@ -5737,7 +5819,7 @@
       }
     ],
     "catchwords": "",
-    "quiremarks": "",
+    "quiremarks": "III**84** zwischen Punkten",
     "material": {
       "id": 14782,
       "value": "parchment",
@@ -5887,7 +5969,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-14",
-    "Last modified": "2024-09-17",
+    "Last modified": "2024-09-24",
     "content_summary": null
   },
   "20": {
@@ -6282,5 +6364,91 @@
     "Created on": "2024-07-10",
     "Last modified": "2024-07-10",
     "content_summary": null
+  },
+  "25": {
+    "id": 25,
+    "order": "24.00000000000000000000",
+    "shelfmark": [],
+    "hit_id": "hit_mansuscript__25",
+    "library": [],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "",
+    "idno_former": "",
+    "quire_structure": "",
+    "library_full": [],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "history": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material_spec": "",
+    "orig_place": [],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": null,
+    "provenance": [],
+    "manuscripts_dated": [],
+    "orig_dated": [],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-24",
+    "Last modified": "2024-09-24",
+    "content_summary": ""
+  },
+  "26": {
+    "id": 26,
+    "order": "25.00000000000000000000",
+    "shelfmark": [],
+    "hit_id": "hit_mansuscript__26",
+    "library": [],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "",
+    "idno_former": "",
+    "quire_structure": "",
+    "library_full": [],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "history": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material_spec": "",
+    "orig_place": [],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": null,
+    "provenance": [],
+    "manuscripts_dated": [],
+    "orig_dated": [],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-24",
+    "Last modified": "2024-09-24",
+    "content_summary": ""
   }
 }

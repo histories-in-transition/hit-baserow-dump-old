@@ -13496,9 +13496,9 @@
         ],
         "role": [
           {
-            "id": 14760,
-            "value": "corrector",
-            "color": "darker-yellow"
+            "id": 15373,
+            "value": "Korrektor",
+            "color": "darker-brown"
           }
         ],
         "locus": "98v",
@@ -13526,7 +13526,7 @@
           "name": "Leon Pürstinger"
         },
         "Created on": "2024-07-10",
-        "Last modified": "2024-07-10",
+        "Last modified": "2024-09-26",
         "locus_layout": [],
         "function": []
       },
@@ -78636,14 +78636,14 @@
         ],
         "role": [
           {
-            "id": 14763,
-            "value": "annotator",
-            "color": "cyan"
-          },
-          {
             "id": 14758,
             "value": "Schreiber",
             "color": "darker-red"
+          },
+          {
+            "id": 15377,
+            "value": "continuator/Fortsetzer",
+            "color": "darker-pink"
           }
         ],
         "locus": "SCRIBE?!",
@@ -78671,7 +78671,7 @@
           "name": "Leon Pürstinger"
         },
         "Created on": "2024-07-29",
-        "Last modified": "2024-08-01",
+        "Last modified": "2024-09-26",
         "locus_layout": [],
         "function": []
       }

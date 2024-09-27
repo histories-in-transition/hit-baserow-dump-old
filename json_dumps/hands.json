@@ -794,9 +794,9 @@
         "id": 12,
         "value": [
           {
-            "id": 14760,
-            "value": "corrector",
-            "color": "darker-yellow"
+            "id": 15373,
+            "value": "Korrektor",
+            "color": "darker-brown"
           }
         ]
       }
@@ -3439,14 +3439,14 @@
         "id": 69,
         "value": [
           {
-            "id": 14763,
-            "value": "annotator",
-            "color": "cyan"
-          },
-          {
             "id": 14758,
             "value": "Schreiber",
             "color": "darker-red"
+          },
+          {
+            "id": 15377,
+            "value": "continuator/Fortsetzer",
+            "color": "darker-pink"
           }
         ]
       }

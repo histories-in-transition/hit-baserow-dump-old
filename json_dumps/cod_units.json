@@ -1004,32 +1004,14 @@
   "21": {
     "id": 21,
     "order": "19.00000000000000000000",
-    "label": [
-      {
-        "ids": {
-          "database_table_3487": 12,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6388, cod. unit 1"
-      }
-    ],
+    "label": [],
     "notes": "",
     "hit_id": "hit_cod_unit__21",
-    "locus": "1r-8r",
-    "manuscript": [
-      {
-        "id": 12,
-        "value": "BSB, Clm. 6388"
-      }
-    ],
+    "locus": "",
+    "manuscript": [],
     "quire": [],
-    "number": "1",
-    "prov_place": [
-      {
-        "id": 4,
-        "value": "Freising"
-      }
-    ],
+    "number": null,
+    "prov_place": [],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -1039,37 +1021,19 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-19"
+    "Last modified": "2024-09-27"
   },
   "22": {
     "id": 22,
     "order": "20.00000000000000000000",
-    "label": [
-      {
-        "ids": {
-          "database_table_3487": 12,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6388, cod. unit 2"
-      }
-    ],
+    "label": [],
     "notes": "",
     "hit_id": "hit_cod_unit__22",
-    "locus": "8v-85v",
-    "manuscript": [
-      {
-        "id": 12,
-        "value": "BSB, Clm. 6388"
-      }
-    ],
+    "locus": "",
+    "manuscript": [],
     "quire": [],
-    "number": "2",
-    "prov_place": [
-      {
-        "id": 9,
-        "value": "Norditalien"
-      }
-    ],
+    "number": null,
+    "prov_place": [],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -1079,37 +1043,19 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-19"
+    "Last modified": "2024-09-27"
   },
   "23": {
     "id": 23,
     "order": "21.00000000000000000000",
-    "label": [
-      {
-        "ids": {
-          "database_table_3487": 12,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6388, cod. unit 3"
-      }
-    ],
+    "label": [],
     "notes": "",
     "hit_id": "hit_cod_unit__23",
-    "locus": "86r-198r",
-    "manuscript": [
-      {
-        "id": 12,
-        "value": "BSB, Clm. 6388"
-      }
-    ],
+    "locus": "",
+    "manuscript": [],
     "quire": [],
-    "number": "3",
-    "prov_place": [
-      {
-        "id": 4,
-        "value": "Freising"
-      }
-    ],
+    "number": null,
+    "prov_place": [],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -1119,7 +1065,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-19"
+    "Last modified": "2024-09-27"
   },
   "24": {
     "id": 24,

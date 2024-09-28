@@ -7403,67 +7403,14 @@
   "21": {
     "id": 21,
     "order": "19.00000000000000000000",
-    "label": [
-      {
-        "ids": {
-          "database_table_3487": 12,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6388, cod. unit 1"
-      }
-    ],
+    "label": [],
     "notes": "",
     "hit_id": "hit_cod_unit__21",
-    "locus": "1r-8r",
-    "manuscript": [
-      {
-        "id": 12,
-        "value": "BSB, Clm. 6388"
-      }
-    ],
+    "locus": "",
+    "manuscript": [],
     "quire": [],
-    "number": "1",
-    "prov_place": [
-      {
-        "id": 4,
-        "order": "4.00000000000000000000",
-        "name": "Freising",
-        "geonames_url": "https://www.geonames.org/2925034/freising.html",
-        "hit_id": "hit_place__4",
-        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
-        "country": [
-          {
-            "id": 2,
-            "order": "2.00000000000000000000",
-            "name": "Deutschland",
-            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
-            "hit_id": "hit_place__2",
-            "wikidata_url": "",
-            "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-06-05",
-            "Last modified by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Last modified": "2024-07-11"
-          }
-        ],
-        "Created by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
-        },
-        "Created on": "2024-06-13",
-        "Last modified by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Last modified": "2024-07-11"
-      }
-    ],
+    "number": null,
+    "prov_place": [],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -7473,72 +7420,19 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-19"
+    "Last modified": "2024-09-27"
   },
   "22": {
     "id": 22,
     "order": "20.00000000000000000000",
-    "label": [
-      {
-        "ids": {
-          "database_table_3487": 12,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6388, cod. unit 2"
-      }
-    ],
+    "label": [],
     "notes": "",
     "hit_id": "hit_cod_unit__22",
-    "locus": "8v-85v",
-    "manuscript": [
-      {
-        "id": 12,
-        "value": "BSB, Clm. 6388"
-      }
-    ],
+    "locus": "",
+    "manuscript": [],
     "quire": [],
-    "number": "2",
-    "prov_place": [
-      {
-        "id": 9,
-        "order": "9.00000000000000000000",
-        "name": "Norditalien",
-        "geonames_url": "",
-        "hit_id": "hit_place__9",
-        "wikidata_url": "",
-        "country": [
-          {
-            "id": 13,
-            "order": "2.33333333333333348136",
-            "name": "Italien",
-            "geonames_url": "https://www.geonames.org/3175395/italian-republic.html",
-            "hit_id": "hit_place__13",
-            "wikidata_url": "",
-            "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-07-11",
-            "Last modified by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Last modified": "2024-07-11"
-          }
-        ],
-        "Created by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
-        },
-        "Created on": "2024-07-03",
-        "Last modified by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Last modified": "2024-07-11"
-      }
-    ],
+    "number": null,
+    "prov_place": [],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -7548,72 +7442,19 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-19"
+    "Last modified": "2024-09-27"
   },
   "23": {
     "id": 23,
     "order": "21.00000000000000000000",
-    "label": [
-      {
-        "ids": {
-          "database_table_3487": 12,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6388, cod. unit 3"
-      }
-    ],
+    "label": [],
     "notes": "",
     "hit_id": "hit_cod_unit__23",
-    "locus": "86r-198r",
-    "manuscript": [
-      {
-        "id": 12,
-        "value": "BSB, Clm. 6388"
-      }
-    ],
+    "locus": "",
+    "manuscript": [],
     "quire": [],
-    "number": "3",
-    "prov_place": [
-      {
-        "id": 4,
-        "order": "4.00000000000000000000",
-        "name": "Freising",
-        "geonames_url": "https://www.geonames.org/2925034/freising.html",
-        "hit_id": "hit_place__4",
-        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
-        "country": [
-          {
-            "id": 2,
-            "order": "2.00000000000000000000",
-            "name": "Deutschland",
-            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
-            "hit_id": "hit_place__2",
-            "wikidata_url": "",
-            "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-06-05",
-            "Last modified by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Last modified": "2024-07-11"
-          }
-        ],
-        "Created by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
-        },
-        "Created on": "2024-06-13",
-        "Last modified by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Last modified": "2024-07-11"
-      }
-    ],
+    "number": null,
+    "prov_place": [],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -7623,7 +7464,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-19"
+    "Last modified": "2024-09-27"
   },
   "24": {
     "id": 24,

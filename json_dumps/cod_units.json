@@ -1004,14 +1004,32 @@
   "21": {
     "id": 21,
     "order": "19.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 19,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6341, cod. unit 1"
+      }
+    ],
     "notes": "",
     "hit_id": "hit_cod_unit__21",
-    "locus": "",
-    "manuscript": [],
+    "locus": "1r-60v",
+    "manuscript": [
+      {
+        "id": 19,
+        "value": "BSB, Clm. 6341"
+      }
+    ],
     "quire": [],
-    "number": null,
-    "prov_place": [],
+    "number": "1",
+    "prov_place": [
+      {
+        "id": 12,
+        "value": "Bodensee"
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -1021,19 +1039,37 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-27"
+    "Last modified": "2024-09-28"
   },
   "22": {
     "id": 22,
     "order": "20.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 19,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6341, cod. unit 2"
+      }
+    ],
     "notes": "",
     "hit_id": "hit_cod_unit__22",
-    "locus": "",
-    "manuscript": [],
+    "locus": "61r-139v",
+    "manuscript": [
+      {
+        "id": 19,
+        "value": "BSB, Clm. 6341"
+      }
+    ],
     "quire": [],
-    "number": null,
-    "prov_place": [],
+    "number": "2",
+    "prov_place": [
+      {
+        "id": 4,
+        "value": "Freising"
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -1043,19 +1079,37 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-27"
+    "Last modified": "2024-09-28"
   },
   "23": {
     "id": 23,
     "order": "21.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, cod. unit 1"
+      }
+    ],
     "notes": "",
     "hit_id": "hit_cod_unit__23",
-    "locus": "",
-    "manuscript": [],
+    "locus": "1r-276v",
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quire": [],
-    "number": null,
-    "prov_place": [],
+    "number": "1",
+    "prov_place": [
+      {
+        "id": 4,
+        "value": "Freising"
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -1065,7 +1119,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-27"
+    "Last modified": "2024-09-28"
   },
   "24": {
     "id": 24,
@@ -1081,7 +1135,7 @@
     ],
     "notes": "",
     "hit_id": "hit_cod_unit__24",
-    "locus": "1r-193v",
+    "locus": "Ir-193v",
     "manuscript": [
       {
         "id": 13,
@@ -1105,7 +1159,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-19"
+    "Last modified": "2024-09-28"
   },
   "25": {
     "id": 25,
@@ -1121,7 +1175,7 @@
     ],
     "notes": "",
     "hit_id": "hit_cod_unit__25",
-    "locus": "1v-286v",
+    "locus": "Ir-55v",
     "manuscript": [
       {
         "id": 14,
@@ -1145,7 +1199,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-19"
+    "Last modified": "2024-09-28"
   },
   "26": {
     "id": 26,
@@ -1241,7 +1295,7 @@
     ],
     "notes": "",
     "hit_id": "hit_cod_unit__28",
-    "locus": "1v-213r",
+    "locus": "Ir-213r",
     "manuscript": [
       {
         "id": 16,
@@ -1265,7 +1319,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-19"
+    "Last modified": "2024-09-28"
   },
   "29": {
     "id": 29,
@@ -1328,5 +1382,27 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-19"
+  },
+  "31": {
+    "id": 31,
+    "order": "29.00000000000000000000",
+    "label": [],
+    "notes": "",
+    "hit_id": "hit_cod_unit__31",
+    "locus": "",
+    "manuscript": [],
+    "quire": [],
+    "number": null,
+    "prov_place": [],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-28",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-28"
   }
 }

@@ -28876,7 +28876,7 @@
                       }
                     ],
                     "page": "187",
-                    "preferred_date": false,
+                    "preferred_date": true,
                     "Created by": {
                       "id": 87,
                       "name": "Ksenia Borisova"
@@ -28886,7 +28886,7 @@
                       "id": 87,
                       "name": "Ksenia Borisova"
                     },
-                    "Last modified": "2024-07-18T11:38:54.933423Z",
+                    "Last modified": "2024-09-28T12:58:17.341985Z",
                     "note": null
                   }
                 ],
@@ -29161,8 +29161,1643 @@
                 "function": []
               }
             ],
-            "cod_unit": [],
-            "Last modified": "2024-07-08",
+            "cod_unit": [
+              {
+                "id": 4,
+                "order": "4.00000000000000000000",
+                "label": [
+                  {
+                    "ids": {
+                      "database_table_3487": 6,
+                      "database_table_3488": 4
+                    },
+                    "value": "BSB, Clm. 6308, cod. unit 1"
+                  }
+                ],
+                "notes": "Ob die Hs. und Wien 366, Ende 8. Jh. aus Salzburg näher verwandt sind, wie etwa die beiden gleichzeitigen Exemplare des >Opus imperfectum in Matthaeum« Clm 6282 und Wien 1007 mit dem Freisinger Skriptorium als Vorlagengeber für Salzburg, ist auf Anhieb nicht zu lösen; vgl. dazu vorerst H. Löwe, Arbeo von Freising. Eine Studie ... Rhein. Vierteljahresblätter 15/16 (1950/51), S. 103. (Glauche)",
+                "hit_id": "hit_cod_unit__4",
+                "locus": "1r-149v",
+                "manuscript": [
+                  {
+                    "id": 6,
+                    "value": "BSB, Clm. 6308"
+                  }
+                ],
+                "quire": [
+                  {
+                    "id": 56,
+                    "order": "50.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 1"
+                      }
+                    ],
+                    "hit_id": "hit_quire__56",
+                    "number": "1",
+                    "locus": "1r-6v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "1r",
+                    "locus_to": "6v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "1",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "Auf 4r ein rundes Bild, darstellend drei Kontinenten",
+                    "quire_structure": "IV-2",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-12",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:41:33.546464Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 57,
+                    "order": "51.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 2"
+                      }
+                    ],
+                    "hit_id": "hit_quire__57",
+                    "number": "2",
+                    "locus": "7r-14v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "7r",
+                    "locus_to": "14v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "2",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:02.720612Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 58,
+                    "order": "52.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 3"
+                      }
+                    ],
+                    "hit_id": "hit_quire__58",
+                    "number": "3",
+                    "locus": "15r-22v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "15r",
+                    "locus_to": "22v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": null,
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:06.323206Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 59,
+                    "order": "53.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 4"
+                      }
+                    ],
+                    "hit_id": "hit_quire__59",
+                    "number": "4",
+                    "locus": "23r-30v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "23r",
+                    "locus_to": "30v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "4",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:07.033030Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 60,
+                    "order": "54.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 5"
+                      }
+                    ],
+                    "hit_id": "hit_quire__60",
+                    "number": "5",
+                    "locus": "31r-38v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "31r",
+                    "locus_to": "38v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "5",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:09.669118Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 61,
+                    "order": "55.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 6"
+                      }
+                    ],
+                    "hit_id": "hit_quire__61",
+                    "number": "6",
+                    "locus": "39r-46v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "39r",
+                    "locus_to": "46v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "6",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:11.241283Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 62,
+                    "order": "56.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 7"
+                      }
+                    ],
+                    "hit_id": "hit_quire__62",
+                    "number": "7",
+                    "locus": "47r-54v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "47r",
+                    "locus_to": "54v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "7",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:13.634480Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 63,
+                    "order": "57.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 8"
+                      }
+                    ],
+                    "hit_id": "hit_quire__63",
+                    "number": "8",
+                    "locus": "55r-62v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "55r",
+                    "locus_to": "62v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "8",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:15.635421Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 64,
+                    "order": "58.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 9"
+                      }
+                    ],
+                    "hit_id": "hit_quire__64",
+                    "number": "9",
+                    "locus": "63r-70v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "63r",
+                    "locus_to": "70v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "9",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:21.400369Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 65,
+                    "order": "59.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 10"
+                      }
+                    ],
+                    "hit_id": "hit_quire__65",
+                    "number": "10",
+                    "locus": "71r-78v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "71r",
+                    "locus_to": "78v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "10",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:23.652289Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 66,
+                    "order": "60.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 11"
+                      }
+                    ],
+                    "hit_id": "hit_quire__66",
+                    "number": "11",
+                    "locus": "79r-86v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "79r",
+                    "locus_to": "86v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "11",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:25.634665Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 67,
+                    "order": "61.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 12"
+                      }
+                    ],
+                    "hit_id": "hit_quire__67",
+                    "number": "12",
+                    "locus": "87r-94v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "87r",
+                    "locus_to": "94v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "12",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:27.846825Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 68,
+                    "order": "62.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 13"
+                      }
+                    ],
+                    "hit_id": "hit_quire__68",
+                    "number": "13",
+                    "locus": "95r-102v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "95r",
+                    "locus_to": "102v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "13",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:31.300038Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 69,
+                    "order": "63.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 14"
+                      }
+                    ],
+                    "hit_id": "hit_quire__69",
+                    "number": "14",
+                    "locus": "103r-110v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "103r",
+                    "locus_to": "110v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "14",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:32.025917Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 70,
+                    "order": "64.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 15"
+                      }
+                    ],
+                    "hit_id": "hit_quire__70",
+                    "number": "15",
+                    "locus": "111r-118v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "111r",
+                    "locus_to": "118v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": null,
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:34.027305Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 71,
+                    "order": "65.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 16"
+                      }
+                    ],
+                    "hit_id": "hit_quire__71",
+                    "number": "16",
+                    "locus": "119r-126v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "119r",
+                    "locus_to": "126v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": null,
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": "17",
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:36.273308Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 72,
+                    "order": "66.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 17"
+                      }
+                    ],
+                    "hit_id": "hit_quire__72",
+                    "number": "17",
+                    "locus": "127r-134v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "127r",
+                    "locus_to": "134v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": null,
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": "16",
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:38.325095Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 73,
+                    "order": "67.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 18"
+                      }
+                    ],
+                    "hit_id": "hit_quire__73",
+                    "number": "18",
+                    "locus": "135r-142v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "135r",
+                    "locus_to": "142v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": null,
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:43.091926Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 74,
+                    "order": "68.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 19"
+                      }
+                    ],
+                    "hit_id": "hit_quire__74",
+                    "number": "19",
+                    "locus": "143r-149v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "143r",
+                    "locus_to": "149v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": null,
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "Die beiden letzten,\n\neinander gegenüberliegenden Seiten (148V/149R) sind gleichartig figural\n\ngeschrieben: beide in Form eines auf der Spitze stehenden gleichschenkligen\n\nDreiecks (Bishoff, 77)",
+                    "quire_structure": "IV-1",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:44.998969Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  }
+                ],
+                "number": "1",
+                "prov_place": [
+                  {
+                    "id": 4,
+                    "order": "4.00000000000000000000",
+                    "name": "Freising",
+                    "geonames_url": "https://www.geonames.org/2925034/freising.html",
+                    "hit_id": "hit_place__4",
+                    "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+                    "country": [
+                      {
+                        "id": 2,
+                        "order": "2.00000000000000000000",
+                        "name": "Deutschland",
+                        "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+                        "hit_id": "hit_place__2",
+                        "wikidata_url": "",
+                        "country": [],
+                        "Created by": {
+                          "id": 36,
+                          "name": "Ivana Dobcheva"
+                        },
+                        "Created on": "2024-06-05",
+                        "Last modified by": {
+                          "id": 36,
+                          "name": "Ivana Dobcheva"
+                        },
+                        "Last modified": "2024-07-11"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-06-13",
+                    "Last modified by": {
+                      "id": 36,
+                      "name": "Ivana Dobcheva"
+                    },
+                    "Last modified": "2024-07-11"
+                  }
+                ],
+                "Created by": {
+                  "id": 86,
+                  "name": "Leon Pürstinger"
+                },
+                "Created on": "2024-06-17",
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-07-18"
+              }
+            ],
+            "Last modified": "2024-09-28",
             "Created on": "2024-07-08",
             "Created by": {
               "id": 87,
@@ -29667,7 +31302,7 @@
                       }
                     ],
                     "page": "187",
-                    "preferred_date": false,
+                    "preferred_date": true,
                     "Created by": {
                       "id": 87,
                       "name": "Ksenia Borisova"
@@ -29677,7 +31312,7 @@
                       "id": 87,
                       "name": "Ksenia Borisova"
                     },
-                    "Last modified": "2024-07-18T11:38:54.933423Z",
+                    "Last modified": "2024-09-28T12:58:17.341985Z",
                     "note": null
                   }
                 ],
@@ -29952,8 +31587,1643 @@
                 "function": []
               }
             ],
-            "cod_unit": [],
-            "Last modified": "2024-07-08",
+            "cod_unit": [
+              {
+                "id": 4,
+                "order": "4.00000000000000000000",
+                "label": [
+                  {
+                    "ids": {
+                      "database_table_3487": 6,
+                      "database_table_3488": 4
+                    },
+                    "value": "BSB, Clm. 6308, cod. unit 1"
+                  }
+                ],
+                "notes": "Ob die Hs. und Wien 366, Ende 8. Jh. aus Salzburg näher verwandt sind, wie etwa die beiden gleichzeitigen Exemplare des >Opus imperfectum in Matthaeum« Clm 6282 und Wien 1007 mit dem Freisinger Skriptorium als Vorlagengeber für Salzburg, ist auf Anhieb nicht zu lösen; vgl. dazu vorerst H. Löwe, Arbeo von Freising. Eine Studie ... Rhein. Vierteljahresblätter 15/16 (1950/51), S. 103. (Glauche)",
+                "hit_id": "hit_cod_unit__4",
+                "locus": "1r-149v",
+                "manuscript": [
+                  {
+                    "id": 6,
+                    "value": "BSB, Clm. 6308"
+                  }
+                ],
+                "quire": [
+                  {
+                    "id": 56,
+                    "order": "50.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 1"
+                      }
+                    ],
+                    "hit_id": "hit_quire__56",
+                    "number": "1",
+                    "locus": "1r-6v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "1r",
+                    "locus_to": "6v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "1",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "Auf 4r ein rundes Bild, darstellend drei Kontinenten",
+                    "quire_structure": "IV-2",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-12",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:41:33.546464Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 57,
+                    "order": "51.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 2"
+                      }
+                    ],
+                    "hit_id": "hit_quire__57",
+                    "number": "2",
+                    "locus": "7r-14v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "7r",
+                    "locus_to": "14v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "2",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:02.720612Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 58,
+                    "order": "52.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 3"
+                      }
+                    ],
+                    "hit_id": "hit_quire__58",
+                    "number": "3",
+                    "locus": "15r-22v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "15r",
+                    "locus_to": "22v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": null,
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:06.323206Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 59,
+                    "order": "53.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 4"
+                      }
+                    ],
+                    "hit_id": "hit_quire__59",
+                    "number": "4",
+                    "locus": "23r-30v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "23r",
+                    "locus_to": "30v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "4",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:07.033030Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 60,
+                    "order": "54.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 5"
+                      }
+                    ],
+                    "hit_id": "hit_quire__60",
+                    "number": "5",
+                    "locus": "31r-38v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "31r",
+                    "locus_to": "38v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "5",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:09.669118Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 61,
+                    "order": "55.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 6"
+                      }
+                    ],
+                    "hit_id": "hit_quire__61",
+                    "number": "6",
+                    "locus": "39r-46v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "39r",
+                    "locus_to": "46v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "6",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:11.241283Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 62,
+                    "order": "56.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 7"
+                      }
+                    ],
+                    "hit_id": "hit_quire__62",
+                    "number": "7",
+                    "locus": "47r-54v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "47r",
+                    "locus_to": "54v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "7",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:13.634480Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 63,
+                    "order": "57.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 8"
+                      }
+                    ],
+                    "hit_id": "hit_quire__63",
+                    "number": "8",
+                    "locus": "55r-62v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "55r",
+                    "locus_to": "62v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "8",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:15.635421Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 64,
+                    "order": "58.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 9"
+                      }
+                    ],
+                    "hit_id": "hit_quire__64",
+                    "number": "9",
+                    "locus": "63r-70v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "63r",
+                    "locus_to": "70v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "9",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:21.400369Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 65,
+                    "order": "59.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 10"
+                      }
+                    ],
+                    "hit_id": "hit_quire__65",
+                    "number": "10",
+                    "locus": "71r-78v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "71r",
+                    "locus_to": "78v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "10",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:23.652289Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 66,
+                    "order": "60.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 11"
+                      }
+                    ],
+                    "hit_id": "hit_quire__66",
+                    "number": "11",
+                    "locus": "79r-86v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "79r",
+                    "locus_to": "86v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "11",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:25.634665Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 67,
+                    "order": "61.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 12"
+                      }
+                    ],
+                    "hit_id": "hit_quire__67",
+                    "number": "12",
+                    "locus": "87r-94v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "87r",
+                    "locus_to": "94v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "12",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:27.846825Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 68,
+                    "order": "62.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 13"
+                      }
+                    ],
+                    "hit_id": "hit_quire__68",
+                    "number": "13",
+                    "locus": "95r-102v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "95r",
+                    "locus_to": "102v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "13",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:31.300038Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 69,
+                    "order": "63.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 14"
+                      }
+                    ],
+                    "hit_id": "hit_quire__69",
+                    "number": "14",
+                    "locus": "103r-110v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "103r",
+                    "locus_to": "110v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "14",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:32.025917Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 70,
+                    "order": "64.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 15"
+                      }
+                    ],
+                    "hit_id": "hit_quire__70",
+                    "number": "15",
+                    "locus": "111r-118v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "111r",
+                    "locus_to": "118v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": null,
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:34.027305Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 71,
+                    "order": "65.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 16"
+                      }
+                    ],
+                    "hit_id": "hit_quire__71",
+                    "number": "16",
+                    "locus": "119r-126v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "119r",
+                    "locus_to": "126v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": null,
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": "17",
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:36.273308Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 72,
+                    "order": "66.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 17"
+                      }
+                    ],
+                    "hit_id": "hit_quire__72",
+                    "number": "17",
+                    "locus": "127r-134v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "127r",
+                    "locus_to": "134v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": null,
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": "16",
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:38.325095Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 73,
+                    "order": "67.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 18"
+                      }
+                    ],
+                    "hit_id": "hit_quire__73",
+                    "number": "18",
+                    "locus": "135r-142v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "135r",
+                    "locus_to": "142v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": null,
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:43.091926Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 74,
+                    "order": "68.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 19"
+                      }
+                    ],
+                    "hit_id": "hit_quire__74",
+                    "number": "19",
+                    "locus": "143r-149v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "143r",
+                    "locus_to": "149v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": null,
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "Die beiden letzten,\n\neinander gegenüberliegenden Seiten (148V/149R) sind gleichartig figural\n\ngeschrieben: beide in Form eines auf der Spitze stehenden gleichschenkligen\n\nDreiecks (Bishoff, 77)",
+                    "quire_structure": "IV-1",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:44.998969Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  }
+                ],
+                "number": "1",
+                "prov_place": [
+                  {
+                    "id": 4,
+                    "order": "4.00000000000000000000",
+                    "name": "Freising",
+                    "geonames_url": "https://www.geonames.org/2925034/freising.html",
+                    "hit_id": "hit_place__4",
+                    "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+                    "country": [
+                      {
+                        "id": 2,
+                        "order": "2.00000000000000000000",
+                        "name": "Deutschland",
+                        "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+                        "hit_id": "hit_place__2",
+                        "wikidata_url": "",
+                        "country": [],
+                        "Created by": {
+                          "id": 36,
+                          "name": "Ivana Dobcheva"
+                        },
+                        "Created on": "2024-06-05",
+                        "Last modified by": {
+                          "id": 36,
+                          "name": "Ivana Dobcheva"
+                        },
+                        "Last modified": "2024-07-11"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-06-13",
+                    "Last modified by": {
+                      "id": 36,
+                      "name": "Ivana Dobcheva"
+                    },
+                    "Last modified": "2024-07-11"
+                  }
+                ],
+                "Created by": {
+                  "id": 86,
+                  "name": "Leon Pürstinger"
+                },
+                "Created on": "2024-06-17",
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-07-18"
+              }
+            ],
+            "Last modified": "2024-09-28",
             "Created on": "2024-07-08",
             "Created by": {
               "id": 87,
@@ -46511,7 +49781,7 @@
                       }
                     ],
                     "page": "187",
-                    "preferred_date": false,
+                    "preferred_date": true,
                     "Created by": {
                       "id": 87,
                       "name": "Ksenia Borisova"
@@ -46521,7 +49791,7 @@
                       "id": 87,
                       "name": "Ksenia Borisova"
                     },
-                    "Last modified": "2024-07-18T11:38:54.933423Z",
+                    "Last modified": "2024-09-28T12:58:17.341985Z",
                     "note": null
                   }
                 ],
@@ -46796,8 +50066,1643 @@
                 "function": []
               }
             ],
-            "cod_unit": [],
-            "Last modified": "2024-07-08",
+            "cod_unit": [
+              {
+                "id": 4,
+                "order": "4.00000000000000000000",
+                "label": [
+                  {
+                    "ids": {
+                      "database_table_3487": 6,
+                      "database_table_3488": 4
+                    },
+                    "value": "BSB, Clm. 6308, cod. unit 1"
+                  }
+                ],
+                "notes": "Ob die Hs. und Wien 366, Ende 8. Jh. aus Salzburg näher verwandt sind, wie etwa die beiden gleichzeitigen Exemplare des >Opus imperfectum in Matthaeum« Clm 6282 und Wien 1007 mit dem Freisinger Skriptorium als Vorlagengeber für Salzburg, ist auf Anhieb nicht zu lösen; vgl. dazu vorerst H. Löwe, Arbeo von Freising. Eine Studie ... Rhein. Vierteljahresblätter 15/16 (1950/51), S. 103. (Glauche)",
+                "hit_id": "hit_cod_unit__4",
+                "locus": "1r-149v",
+                "manuscript": [
+                  {
+                    "id": 6,
+                    "value": "BSB, Clm. 6308"
+                  }
+                ],
+                "quire": [
+                  {
+                    "id": 56,
+                    "order": "50.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 1"
+                      }
+                    ],
+                    "hit_id": "hit_quire__56",
+                    "number": "1",
+                    "locus": "1r-6v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "1r",
+                    "locus_to": "6v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "1",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "Auf 4r ein rundes Bild, darstellend drei Kontinenten",
+                    "quire_structure": "IV-2",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-12",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:41:33.546464Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 57,
+                    "order": "51.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 2"
+                      }
+                    ],
+                    "hit_id": "hit_quire__57",
+                    "number": "2",
+                    "locus": "7r-14v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "7r",
+                    "locus_to": "14v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "2",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:02.720612Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 58,
+                    "order": "52.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 3"
+                      }
+                    ],
+                    "hit_id": "hit_quire__58",
+                    "number": "3",
+                    "locus": "15r-22v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "15r",
+                    "locus_to": "22v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": null,
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:06.323206Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 59,
+                    "order": "53.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 4"
+                      }
+                    ],
+                    "hit_id": "hit_quire__59",
+                    "number": "4",
+                    "locus": "23r-30v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "23r",
+                    "locus_to": "30v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "4",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:07.033030Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 60,
+                    "order": "54.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 5"
+                      }
+                    ],
+                    "hit_id": "hit_quire__60",
+                    "number": "5",
+                    "locus": "31r-38v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "31r",
+                    "locus_to": "38v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "5",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:09.669118Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 61,
+                    "order": "55.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 6"
+                      }
+                    ],
+                    "hit_id": "hit_quire__61",
+                    "number": "6",
+                    "locus": "39r-46v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "39r",
+                    "locus_to": "46v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "6",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:11.241283Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 62,
+                    "order": "56.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 7"
+                      }
+                    ],
+                    "hit_id": "hit_quire__62",
+                    "number": "7",
+                    "locus": "47r-54v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "47r",
+                    "locus_to": "54v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "7",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:13.634480Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 63,
+                    "order": "57.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 8"
+                      }
+                    ],
+                    "hit_id": "hit_quire__63",
+                    "number": "8",
+                    "locus": "55r-62v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "55r",
+                    "locus_to": "62v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "8",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:15.635421Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 64,
+                    "order": "58.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 9"
+                      }
+                    ],
+                    "hit_id": "hit_quire__64",
+                    "number": "9",
+                    "locus": "63r-70v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "63r",
+                    "locus_to": "70v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "9",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:21.400369Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 65,
+                    "order": "59.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 10"
+                      }
+                    ],
+                    "hit_id": "hit_quire__65",
+                    "number": "10",
+                    "locus": "71r-78v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "71r",
+                    "locus_to": "78v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "10",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:23.652289Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 66,
+                    "order": "60.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 11"
+                      }
+                    ],
+                    "hit_id": "hit_quire__66",
+                    "number": "11",
+                    "locus": "79r-86v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "79r",
+                    "locus_to": "86v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "11",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:25.634665Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 67,
+                    "order": "61.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 12"
+                      }
+                    ],
+                    "hit_id": "hit_quire__67",
+                    "number": "12",
+                    "locus": "87r-94v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "87r",
+                    "locus_to": "94v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "12",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:27.846825Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 68,
+                    "order": "62.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 13"
+                      }
+                    ],
+                    "hit_id": "hit_quire__68",
+                    "number": "13",
+                    "locus": "95r-102v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "95r",
+                    "locus_to": "102v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "13",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:31.300038Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 69,
+                    "order": "63.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 14"
+                      }
+                    ],
+                    "hit_id": "hit_quire__69",
+                    "number": "14",
+                    "locus": "103r-110v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "103r",
+                    "locus_to": "110v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": "14",
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:32.025917Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 70,
+                    "order": "64.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 15"
+                      }
+                    ],
+                    "hit_id": "hit_quire__70",
+                    "number": "15",
+                    "locus": "111r-118v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "111r",
+                    "locus_to": "118v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": null,
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:34.027305Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 71,
+                    "order": "65.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 16"
+                      }
+                    ],
+                    "hit_id": "hit_quire__71",
+                    "number": "16",
+                    "locus": "119r-126v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "119r",
+                    "locus_to": "126v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": null,
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": "17",
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:36.273308Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 72,
+                    "order": "66.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 17"
+                      }
+                    ],
+                    "hit_id": "hit_quire__72",
+                    "number": "17",
+                    "locus": "127r-134v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "127r",
+                    "locus_to": "134v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": null,
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": "16",
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:38.325095Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 73,
+                    "order": "67.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 18"
+                      }
+                    ],
+                    "hit_id": "hit_quire__73",
+                    "number": "18",
+                    "locus": "135r-142v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "135r",
+                    "locus_to": "142v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": null,
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "",
+                    "quire_structure": "IV",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:43.091926Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  },
+                  {
+                    "id": 74,
+                    "order": "68.00000000000000000000",
+                    "label": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB, Clm. 6308, L. 19"
+                      }
+                    ],
+                    "hit_id": "hit_quire__74",
+                    "number": "19",
+                    "locus": "143r-149v",
+                    "library": [
+                      {
+                        "ids": {
+                          "database_table_3487": 6,
+                          "database_table_3488": 4
+                        },
+                        "value": "BSB"
+                      }
+                    ],
+                    "locus_from": "143r",
+                    "locus_to": "149v",
+                    "manuscript": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6308"
+                      }
+                    ],
+                    "quiremark": null,
+                    "written_height": "200",
+                    "written_width": "120",
+                    "written": "200×120",
+                    "hair_flesh": [
+                      {
+                        "id": 14742,
+                        "value": "FHHF",
+                        "color": "pink"
+                      }
+                    ],
+                    "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
+                    "column": [
+                      {
+                        "id": 14743,
+                        "value": "1",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "note": "",
+                    "decoration": "Die beiden letzten,\n\neinander gegenüberliegenden Seiten (148V/149R) sind gleichartig figural\n\ngeschrieben: beide in Form eines auf der Spitze stehenden gleichschenkligen\n\nDreiecks (Bishoff, 77)",
+                    "quire_structure": "IV-1",
+                    "correct_number": null,
+                    "height": "255",
+                    "width": "160",
+                    "catchwords": false,
+                    "stratum": [
+                      {
+                        "id": 6,
+                        "value": "Clm. 6308, Stratum 1"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-07-16",
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-09-18T12:47:44.998969Z",
+                    "cod_units": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6308, cod. unit 1"
+                      }
+                    ],
+                    "besonderheiten": []
+                  }
+                ],
+                "number": "1",
+                "prov_place": [
+                  {
+                    "id": 4,
+                    "order": "4.00000000000000000000",
+                    "name": "Freising",
+                    "geonames_url": "https://www.geonames.org/2925034/freising.html",
+                    "hit_id": "hit_place__4",
+                    "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+                    "country": [
+                      {
+                        "id": 2,
+                        "order": "2.00000000000000000000",
+                        "name": "Deutschland",
+                        "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+                        "hit_id": "hit_place__2",
+                        "wikidata_url": "",
+                        "country": [],
+                        "Created by": {
+                          "id": 36,
+                          "name": "Ivana Dobcheva"
+                        },
+                        "Created on": "2024-06-05",
+                        "Last modified by": {
+                          "id": 36,
+                          "name": "Ivana Dobcheva"
+                        },
+                        "Last modified": "2024-07-11"
+                      }
+                    ],
+                    "Created by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Created on": "2024-06-13",
+                    "Last modified by": {
+                      "id": 36,
+                      "name": "Ivana Dobcheva"
+                    },
+                    "Last modified": "2024-07-11"
+                  }
+                ],
+                "Created by": {
+                  "id": 86,
+                  "name": "Leon Pürstinger"
+                },
+                "Created on": "2024-06-17",
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-07-18"
+              }
+            ],
+            "Last modified": "2024-09-28",
             "Created on": "2024-07-08",
             "Created by": {
               "id": 87,

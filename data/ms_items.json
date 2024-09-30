@@ -51952,9 +51952,84 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-07-08"
+      },
+      {
+        "id": 8,
+        "order": "8.00000000000000000000",
+        "label": [
+          {
+            "ids": {
+              "database_table_3487": 12,
+              "database_table_3488": 4
+            },
+            "value": "BSB, Clm. 6388, cod. unit 2"
+          }
+        ],
+        "notes": "",
+        "hit_id": "hit_cod_unit__8",
+        "locus": "8r-85v",
+        "manuscript": [
+          {
+            "id": 12,
+            "value": "BSB, Clm. 6388"
+          }
+        ],
+        "quire": [],
+        "number": "2",
+        "prov_place": [
+          {
+            "id": 9,
+            "order": "9.00000000000000000000",
+            "name": "Norditalien",
+            "geonames_url": "",
+            "hit_id": "hit_place__9",
+            "wikidata_url": "",
+            "country": [
+              {
+                "id": 13,
+                "order": "2.33333333333333348136",
+                "name": "Italien",
+                "geonames_url": "https://www.geonames.org/3175395/italian-republic.html",
+                "hit_id": "hit_place__13",
+                "wikidata_url": "",
+                "country": [],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-07-11",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-07-03",
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Created by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Created on": "2024-06-17",
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-07-08"
       }
     ],
-    "Last modified": "2024-09-27",
+    "Last modified": "2024-09-29",
     "Created on": "2024-07-09",
     "Created by": {
       "id": 87,

@@ -2463,8 +2463,8 @@
     "locus_grp": "1r-7r",
     "hands_role": [
       {
-        "id": 120,
-        "value": "hit_hands_role__120"
+        "id": 150,
+        "value": "hit_hands_role__150"
       }
     ],
     "cod_unit": [
@@ -2490,7 +2490,7 @@
           "database_table_3487": 10,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6382_H. 1"
+        "value": "BSB, Clm. 6382_H. 3"
       }
     ],
     "decoration": [],
@@ -2529,8 +2529,8 @@
     "locus_grp": "7r-9v",
     "hands_role": [
       {
-        "id": 122,
-        "value": "hit_hands_role__122"
+        "id": 150,
+        "value": "hit_hands_role__150"
       }
     ],
     "cod_unit": [
@@ -2556,7 +2556,7 @@
           "database_table_3487": 10,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6382_H. 2"
+        "value": "BSB, Clm. 6382_H. 3"
       }
     ],
     "decoration": [],
@@ -2593,7 +2593,12 @@
     "hit_id": "hit_ms_items__36",
     "filiation": [],
     "locus_grp": "10r-20v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 150,
+        "value": "hit_hands_role__150"
+      }
+    ],
     "cod_unit": [
       {
         "id": 18,
@@ -2611,7 +2616,15 @@
       "name": "Ksenia Borisova"
     },
     "note": null,
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 3"
+      }
+    ],
     "decoration": [],
     "facs_url": ""
   },
@@ -2646,7 +2659,12 @@
     "hit_id": "hit_ms_items__37",
     "filiation": [],
     "locus_grp": "20v-23v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 150,
+        "value": "hit_hands_role__150"
+      }
+    ],
     "cod_unit": [
       {
         "id": 18,
@@ -2664,7 +2682,15 @@
       "name": "Ksenia Borisova"
     },
     "note": null,
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 3"
+      }
+    ],
     "decoration": [],
     "facs_url": ""
   },
@@ -2699,7 +2725,12 @@
     "hit_id": "hit_ms_items__38",
     "filiation": [],
     "locus_grp": "23v-41r",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 150,
+        "value": "hit_hands_role__150"
+      }
+    ],
     "cod_unit": [
       {
         "id": 18,
@@ -2717,7 +2748,15 @@
       "name": "Ksenia Borisova"
     },
     "note": null,
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 3"
+      }
+    ],
     "decoration": [],
     "facs_url": ""
   },
@@ -2752,7 +2791,12 @@
     "hit_id": "hit_ms_items__39",
     "filiation": [],
     "locus_grp": "41v-42v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 150,
+        "value": "hit_hands_role__150"
+      }
+    ],
     "cod_unit": [
       {
         "id": 18,
@@ -2770,7 +2814,15 @@
       "name": "Ksenia Borisova"
     },
     "note": null,
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 3"
+      }
+    ],
     "decoration": [],
     "facs_url": ""
   },
@@ -2805,7 +2857,12 @@
     "hit_id": "hit_ms_items__40",
     "filiation": [],
     "locus_grp": "42v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 150,
+        "value": "hit_hands_role__150"
+      }
+    ],
     "cod_unit": [
       {
         "id": 18,
@@ -2823,7 +2880,15 @@
       "name": "Ksenia Borisova"
     },
     "note": null,
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 3"
+      }
+    ],
     "decoration": [],
     "facs_url": ""
   },
@@ -2858,7 +2923,12 @@
     "hit_id": "hit_ms_items__41",
     "filiation": [],
     "locus_grp": "42v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 150,
+        "value": "hit_hands_role__150"
+      }
+    ],
     "cod_unit": [
       {
         "id": 18,
@@ -2876,7 +2946,15 @@
       "name": "Ksenia Borisova"
     },
     "note": null,
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 3"
+      }
+    ],
     "decoration": [],
     "facs_url": ""
   },
@@ -2911,7 +2989,12 @@
     "hit_id": "hit_ms_items__42",
     "filiation": [],
     "locus_grp": "42v-43r",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 150,
+        "value": "hit_hands_role__150"
+      }
+    ],
     "cod_unit": [
       {
         "id": 18,
@@ -2929,7 +3012,15 @@
       "name": "Ksenia Borisova"
     },
     "note": null,
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 3"
+      }
+    ],
     "decoration": [],
     "facs_url": ""
   },
@@ -2964,7 +3055,12 @@
     "hit_id": "hit_ms_items__43",
     "filiation": [],
     "locus_grp": "43v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 150,
+        "value": "hit_hands_role__150"
+      }
+    ],
     "cod_unit": [
       {
         "id": 18,
@@ -2982,7 +3078,15 @@
       "name": "Ksenia Borisova"
     },
     "note": null,
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 3"
+      }
+    ],
     "decoration": [],
     "facs_url": ""
   },
@@ -3017,7 +3121,12 @@
     "hit_id": "hit_ms_items__44",
     "filiation": [],
     "locus_grp": "44r",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 151,
+        "value": "hit_hands_role__151"
+      }
+    ],
     "cod_unit": [
       {
         "id": 19,
@@ -3035,7 +3144,15 @@
       "name": "Ksenia Borisova"
     },
     "note": null,
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 2"
+      }
+    ],
     "decoration": [],
     "facs_url": ""
   },
@@ -3070,7 +3187,12 @@
     "hit_id": "hit_ms_items__45",
     "filiation": [],
     "locus_grp": "44r-44v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 151,
+        "value": "hit_hands_role__151"
+      }
+    ],
     "cod_unit": [
       {
         "id": 19,
@@ -3088,7 +3210,15 @@
       "name": "Ksenia Borisova"
     },
     "note": null,
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 2"
+      }
+    ],
     "decoration": [],
     "facs_url": ""
   },
@@ -3123,7 +3253,16 @@
     "hit_id": "hit_ms_items__46",
     "filiation": [],
     "locus_grp": "45ra-172rb",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 147,
+        "value": "hit_hands_role__147"
+      },
+      {
+        "id": 148,
+        "value": "hit_hands_role__148"
+      }
+    ],
     "cod_unit": [
       {
         "id": 19,
@@ -3141,7 +3280,22 @@
       "name": "Ksenia Borisova"
     },
     "note": null,
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 1"
+      },
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 4"
+      }
+    ],
     "decoration": [],
     "facs_url": ""
   },
@@ -6641,6 +6795,72 @@
     "decoration": [],
     "facs_url": ""
   },
+  "179": {
+    "id": 179,
+    "order": "108.66666666666667140362",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__179"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 103,
+        "value": "Traditionsnotizen des Salzburger Domstiftes"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": null,
+    "filiation": [],
+    "locus_grp": "1r-98v",
+    "hands_role": [
+      {
+        "id": 76,
+        "value": "hit_hands_role__76"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 15,
+        "value": "ÖNB, Cod. 2090, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-10-03",
+    "Created on": "2024-10-03",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 7"
+      }
+    ],
+    "decoration": [],
+    "facs_url": ""
+  },
   "122": {
     "id": 122,
     "order": "109.00000000000000000000",
@@ -6672,12 +6892,7 @@
     "hit_id": "hit_ms_items__122",
     "filiation": [],
     "locus_grp": "1r",
-    "hands_role": [
-      {
-        "id": 76,
-        "value": "hit_hands_role__76"
-      }
-    ],
+    "hands_role": [],
     "cod_unit": [
       {
         "id": 15,
@@ -6695,15 +6910,7 @@
       "name": "Leon Pürstinger"
     },
     "note": "3-4 Hände",
-    "hand": [
-      {
-        "ids": {
-          "database_table_3487": 21,
-          "database_table_3488": 1
-        },
-        "value": "ÖNB, Cod. 2090_H. 7"
-      }
-    ],
+    "hand": [],
     "decoration": [],
     "facs_url": ""
   },
@@ -8488,6 +8695,54 @@
     "decoration": [],
     "facs_url": ""
   },
+  "180": {
+    "id": 180,
+    "order": "129.66666666666665719276",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__180"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 127,
+        "value": "Urkunden des Erzbischofs Konrad I. von Abenberg"
+      }
+    ],
+    "title_note": "Band 2: Nr. 145 (1130 Mai 18) und Nr. 193 (1139)",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": null,
+    "filiation": [],
+    "locus_grp": "93r",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-10-03",
+    "Created on": "2024-10-03",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": ""
+  },
   "149": {
     "id": 149,
     "order": "130.00000000000000000000",
@@ -8670,6 +8925,54 @@
     "Created by": {
       "id": 96,
       "name": "Jesper van der Most"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": ""
+  },
+  "183": {
+    "id": 183,
+    "order": "130.75000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__183"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "Omnes clerici vel lectores sicut levitę et sacerdotes detonso superius toto capite",
+    "explicit": "qui autem hoc non custodierit fidei catholice, reus erit.",
+    "rubric": "Ex concilio Toletano capitulum XLI",
+    "title_work": [
+      {
+        "id": 129,
+        "value": "Concilium Toletanum quartum"
+      }
+    ],
+    "title_note": "Kapitel XLI",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": null,
+    "filiation": [],
+    "locus_grp": "94v",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-10-03",
+    "Created on": "2024-10-03",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "Last modified by": {
       "id": 86,
@@ -8872,6 +9175,54 @@
     "decoration": [],
     "facs_url": ""
   },
+  "184": {
+    "id": 184,
+    "order": "133.59999999999999431566",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__184"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 130,
+        "value": "Verzeichnis der Giebigkeiten der domcapitlischen Besitzungen in Erding (Oberbayern)"
+      }
+    ],
+    "title_note": "Nr. 31 (1122-1147)",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": null,
+    "filiation": [],
+    "locus_grp": "95v",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-10-03",
+    "Created on": "2024-10-03",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": ""
+  },
   "171": {
     "id": 171,
     "order": "133.66666666666665719276",
@@ -8916,6 +9267,54 @@
       "name": "Jesper van der Most"
     },
     "note": "Nr. 36 Notiz über Beendigung eines Besitzstreites mit Bischof Otto von Bamberg",
+    "hand": [],
+    "decoration": [],
+    "facs_url": ""
+  },
+  "185": {
+    "id": 185,
+    "order": "133.71428571428572240620",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__185"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 131,
+        "value": "Notiz über die Beendigung eines Besitzstreites mit Bischof Otto von Bamberg"
+      }
+    ],
+    "title_note": "Nr. 36 (vor 1139 - Mai 15)",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": null,
+    "filiation": [],
+    "locus_grp": "96r",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-10-03",
+    "Created on": "2024-10-03",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
     "hand": [],
     "decoration": [],
     "facs_url": ""
@@ -9535,6 +9934,72 @@
     "Created by": {
       "id": 96,
       "name": "Jesper van der Most"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": ""
+  },
+  "181": {
+    "id": 181,
+    "order": "144.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__181",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-10-03",
+    "Created on": "2024-10-03",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": ""
+  },
+  "182": {
+    "id": 182,
+    "order": "145.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__182",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-10-03",
+    "Created on": "2024-10-03",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "Last modified by": {
       "id": 86,

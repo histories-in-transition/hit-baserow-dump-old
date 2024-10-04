@@ -4053,7 +4053,7 @@
       {
         "ids": {
           "database_table_3489": 103,
-          "database_table_3491": 122
+          "database_table_3491": 179
         },
         "value": "Traditionsnotizen des Salzburger Domstiftes"
       }
@@ -4685,11 +4685,6 @@
             "id": 14758,
             "value": "Schreiber",
             "color": "darker-red"
-          },
-          {
-            "id": 14763,
-            "value": "annotator",
-            "color": "cyan"
           }
         ]
       }
@@ -4788,14 +4783,9 @@
         "id": 87,
         "value": [
           {
-            "id": 14758,
-            "value": "Schreiber",
-            "color": "darker-red"
-          },
-          {
-            "id": 14763,
-            "value": "annotator",
-            "color": "cyan"
+            "id": 15377,
+            "value": "continuator/Fortsetzer",
+            "color": "darker-pink"
           }
         ]
       },
@@ -6440,11 +6430,6 @@
             "id": 14758,
             "value": "Schreiber",
             "color": "darker-red"
-          },
-          {
-            "id": 14763,
-            "value": "annotator",
-            "color": "cyan"
           }
         ]
       }
@@ -6528,14 +6513,9 @@
         "id": 94,
         "value": [
           {
-            "id": 14758,
-            "value": "Schreiber",
-            "color": "darker-red"
-          },
-          {
-            "id": 14763,
-            "value": "annotator",
-            "color": "cyan"
+            "id": 15377,
+            "value": "continuator/Fortsetzer",
+            "color": "darker-pink"
           }
         ]
       }
@@ -7889,7 +7869,7 @@
         "value": "BSB, Clm. 6382_H. 1"
       }
     ],
-    "description": "",
+    "description": "Vorkarolingische Minuskel, u in Form von v am Ende der Zeilen, Q in spezifischer Form von zwei Arken auf einem Basis.",
     "scribe_old": [],
     "hit_id": "hit_hands__96",
     "similar_hands": [],
@@ -7901,7 +7881,7 @@
       }
     ],
     "number": "1",
-    "note": "",
+    "note": "Dieselbe Hand hat auch Clm 6307 und Clm 6229 geschrieben. Die letzte Handschrift zusammen mit Clm 6382 und Clm 6297 haben wahrscheinlich einen gemeinen Anglo-Saxonischen Protograph",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -7911,31 +7891,55 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-04",
+    "Last modified": "2024-10-03",
     "hands_role": [
       {
-        "id": 120,
-        "value": "hit_hands_role__120"
+        "id": 147,
+        "value": "hit_hands_role__147"
       }
     ],
     "role": [
       {
-        "id": 120,
-        "value": []
+        "id": 147,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
       }
     ],
     "texts": [
       {
         "ids": {
-          "database_table_3489": 41,
-          "database_table_3491": 34
+          "database_table_3489": 48,
+          "database_table_3491": 46
         },
-        "value": "Vita sanctae Euphrosinae"
+        "value": "Moralia in Job"
       }
     ],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
+    "hands_dated": [
+      {
+        "id": 83,
+        "value": "hit_hands_dated__83"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 58,
+          "database_table_3520": 83
+        },
+        "value": "8 Jh., Mitte"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 21,
+        "value": "hit_hands_placed__21"
+      }
+    ],
     "group": false,
     "scribe": []
   },
@@ -7948,128 +7952,12 @@
           "database_table_3487": 10,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6382_H. 2"
-      }
-    ],
-    "description": "",
-    "scribe_old": [],
-    "hit_id": "hit_hands__97",
-    "similar_hands": [],
-    "nr_daniel": "",
-    "manuscript": [
-      {
-        "id": 10,
-        "value": "BSB, Clm. 6382"
-      }
-    ],
-    "number": "2",
-    "note": "",
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-09-04",
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-09-04",
-    "hands_role": [
-      {
-        "id": 122,
-        "value": "hit_hands_role__122"
-      }
-    ],
-    "role": [
-      {
-        "id": 122,
-        "value": []
-      }
-    ],
-    "texts": [
-      {
-        "ids": {
-          "database_table_3489": 42,
-          "database_table_3491": 35
-        },
-        "value": "Synonyma"
-      }
-    ],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
-    "group": false,
-    "scribe": []
-  },
-  "98": {
-    "id": 98,
-    "order": "90.00000000000000000000",
-    "label": [
-      {
-        "ids": {
-          "database_table_3487": 10,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6382_H. 3"
-      }
-    ],
-    "description": "",
-    "scribe_old": [],
-    "hit_id": "hit_hands__98",
-    "similar_hands": [],
-    "nr_daniel": "",
-    "manuscript": [
-      {
-        "id": 10,
-        "value": "BSB, Clm. 6382"
-      }
-    ],
-    "number": "3",
-    "note": "",
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-09-04",
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-09-04",
-    "hands_role": [
-      {
-        "id": 123,
-        "value": "hit_hands_role__123"
-      }
-    ],
-    "role": [
-      {
-        "id": 123,
-        "value": []
-      }
-    ],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
-    "group": false,
-    "scribe": []
-  },
-  "99": {
-    "id": 99,
-    "order": "91.00000000000000000000",
-    "label": [
-      {
-        "ids": {
-          "database_table_3487": 10,
-          "database_table_3488": 4
-        },
         "value": "BSB, Clm. 6382_H. 4"
       }
     ],
-    "description": "",
+    "description": "Insuläre Hand",
     "scribe_old": [],
-    "hit_id": "hit_hands__99",
+    "hit_id": "hit_hands__97",
     "similar_hands": [],
     "nr_daniel": "",
     "manuscript": [
@@ -8089,19 +7977,113 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-04",
+    "Last modified": "2024-10-03",
     "hands_role": [
       {
-        "id": 124,
-        "value": "hit_hands_role__124"
+        "id": 148,
+        "value": "hit_hands_role__148"
       }
     ],
     "role": [
       {
-        "id": 124,
-        "value": []
+        "id": 148,
+        "value": [
+          {
+            "id": 14760,
+            "value": "corrector",
+            "color": "darker-yellow"
+          }
+        ]
       }
     ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 48,
+          "database_table_3491": 46
+        },
+        "value": "Moralia in Job"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 84,
+        "value": "hit_hands_dated__84"
+      }
+    ],
+    "dating": [],
+    "hands_placed": [],
+    "group": false,
+    "scribe": []
+  },
+  "98": {
+    "id": 98,
+    "order": "90.00000000000000000000",
+    "label": [],
+    "description": "",
+    "scribe_old": [],
+    "hit_id": "hit_hands__98",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [],
+    "number": null,
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-03",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [
+      {
+        "id": 85,
+        "value": "hit_hands_dated__85"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 3,
+          "database_table_3520": 85
+        },
+        "value": "9 Jh., Mitte"
+      }
+    ],
+    "hands_placed": [],
+    "group": true,
+    "scribe": []
+  },
+  "99": {
+    "id": 99,
+    "order": "91.00000000000000000000",
+    "label": [],
+    "description": "",
+    "scribe_old": [],
+    "hit_id": "hit_hands__99",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [],
+    "number": null,
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-03",
+    "hands_role": [],
+    "role": [],
     "texts": [],
     "hands_dated": [],
     "dating": [],
@@ -8929,14 +8911,27 @@
   "114": {
     "id": 114,
     "order": "106.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 2"
+      }
+    ],
     "description": "",
     "scribe_old": [],
     "hit_id": "hit_hands__114",
     "similar_hands": [],
     "nr_daniel": "",
-    "manuscript": [],
-    "number": null,
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "number": "2",
     "note": "",
     "Created by": {
       "id": 87,
@@ -8947,13 +8942,190 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-01",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
+    "Last modified": "2024-10-03",
+    "hands_role": [
+      {
+        "id": 151,
+        "value": "hit_hands_role__151"
+      }
+    ],
+    "role": [
+      {
+        "id": 151,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 48,
+          "database_table_3491": 45
+        },
+        "value": "Moralia in Job"
+      },
+      {
+        "ids": {
+          "database_table_3489": 64,
+          "database_table_3491": 44
+        },
+        "value": "Epistola de reliquiis sancti Bartholomaei apostoli nuper in Baioariam allatis"
+      }
+    ],
     "hands_dated": [],
     "dating": [],
-    "hands_placed": [],
+    "hands_placed": [
+      {
+        "id": 23,
+        "value": "hit_hands_placed__23"
+      }
+    ],
+    "group": false,
+    "scribe": [
+      {
+        "id": 4,
+        "value": "Hitto-Erchanbert Gruppe"
+      }
+    ]
+  },
+  "115": {
+    "id": 115,
+    "order": "107.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 3"
+      }
+    ],
+    "description": "Karoling. Minuskel von mehreren Händen, die „leicht an Reimser Schrift saec. IX2\n\nerinnern",
+    "scribe_old": [],
+    "hit_id": "hit_hands__115",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "number": "3",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-10-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-03",
+    "hands_role": [
+      {
+        "id": 150,
+        "value": "hit_hands_role__150"
+      }
+    ],
+    "role": [
+      {
+        "id": 150,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 41,
+          "database_table_3491": 34
+        },
+        "value": "Vita sanctae Euphrosinae"
+      },
+      {
+        "ids": {
+          "database_table_3489": 42,
+          "database_table_3491": 35
+        },
+        "value": "Synonyma"
+      },
+      {
+        "ids": {
+          "database_table_3489": 43,
+          "database_table_3491": 38
+        },
+        "value": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 44,
+          "database_table_3491": 41
+        },
+        "value": "De natura rerum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 45,
+          "database_table_3491": 39
+        },
+        "value": "Breviarium apostolorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 46,
+          "database_table_3491": 36
+        },
+        "value": "Concordia testimoniorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 47,
+          "database_table_3491": 37
+        },
+        "value": "De unitate sanctae trinitatis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 52,
+          "database_table_3491": 40
+        },
+        "value": "Revelatio Esdrae de qualitatibus anni"
+      },
+      {
+        "ids": {
+          "database_table_3489": 62,
+          "database_table_3491": 42
+        },
+        "value": "De somnis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 63,
+          "database_table_3491": 43
+        },
+        "value": "Capitulare evangeliorum"
+      }
+    ],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [
+      {
+        "id": 22,
+        "value": "hit_hands_placed__22"
+      }
+    ],
     "group": false,
     "scribe": []
   }

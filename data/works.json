@@ -7500,5 +7500,177 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-09-18"
+  },
+  "127": {
+    "id": 127,
+    "order": "125.00000000000000000000",
+    "title": "Urkunden des Erzbischofs Konrad I. von Abenberg",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__127",
+    "author": [
+      {
+        "id": 47,
+        "order": "46.00000000000000000000",
+        "name": "Konrad I., Salzburg, Erzbischof",
+        "gnd_url": "https://d-nb.info/gnd/118713906",
+        "hit_id": "hit_people__47",
+        "role": [
+          {
+            "id": 14753,
+            "value": "author",
+            "color": "dark-green"
+          }
+        ],
+        "Created by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Created on": "2024-10-03",
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-10-03",
+        "works": [
+          {
+            "id": 127,
+            "value": "Urkunden des Erzbischofs Konrad I. von Abenberg"
+          }
+        ],
+        "work": [
+          {
+            "id": 127,
+            "value": "Urkunden des Erzbischofs Konrad I. von Abenberg"
+          }
+        ],
+        "hands": [],
+        "identical_hands": []
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 17,
+        "order": "16.00000000000000000000",
+        "genre": "Urkunde",
+        "hit_id": "hit_genres__17",
+        "main_genre": [],
+        "Created by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Created on": "2024-10-03",
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-10-03"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-10-03",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-10-03"
+  },
+  "128": {
+    "id": 128,
+    "order": "126.00000000000000000000",
+    "title": "",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__128",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-10-03",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-10-03"
+  },
+  "129": {
+    "id": 129,
+    "order": "127.00000000000000000000",
+    "title": "Concilium Toletanum quartum",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__129",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-10-03",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-10-03"
+  },
+  "130": {
+    "id": 130,
+    "order": "128.00000000000000000000",
+    "title": "Verzeichnis der Giebigkeiten der domcapitlischen Besitzungen in Erding (Oberbayern)",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__130",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-10-03",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-10-03"
+  },
+  "131": {
+    "id": 131,
+    "order": "129.00000000000000000000",
+    "title": "Notiz über die Beendigung eines Besitzstreites mit Bischof Otto von Bamberg",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__131",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-10-03",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-10-03"
   }
 }

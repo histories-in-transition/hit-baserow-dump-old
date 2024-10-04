@@ -564,5 +564,89 @@
       "id": 87,
       "name": "Ksenia Borisova"
     }
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "hit_id": "hit_hands_placed__21",
+    "hand": [
+      {
+        "id": 96,
+        "value": "BSB, Clm. 6382_H. 1"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ],
+    "page": "73",
+    "place": [
+      {
+        "id": 4,
+        "value": "Freising"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "hit_id": "hit_hands_placed__22",
+    "hand": [
+      {
+        "id": 115,
+        "value": "BSB, Clm. 6382_H. 3"
+      }
+    ],
+    "authority": [
+      {
+        "id": 3,
+        "value": "Glauche"
+      }
+    ],
+    "page": "154",
+    "place": [
+      {
+        "id": 17,
+        "value": "Reims"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "hit_id": "hit_hands_placed__23",
+    "hand": [
+      {
+        "id": 114,
+        "value": "BSB, Clm. 6382_H. 2"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ],
+    "page": "73",
+    "place": [
+      {
+        "id": 4,
+        "value": "Freising"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   }
 }

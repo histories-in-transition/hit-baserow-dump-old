@@ -41,5 +41,33 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     }
+  },
+  "4": {
+    "id": 4,
+    "order": "3.00000000000000000000",
+    "name": "Hitto-Erchanbert Gruppe",
+    "hit_id": "hit_scribes__4",
+    "description": "",
+    "group": true,
+    "hands": [
+      {
+        "id": 114,
+        "value": "BSB, Clm. 6382_H. 2"
+      }
+    ],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 2"
+      }
+    ],
+    "Last modified": "2024-10-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   }
 }

@@ -17,9 +17,9 @@
     ],
     "role": [
       {
-        "id": 14763,
-        "value": "annotator",
-        "color": "cyan"
+        "id": 15378,
+        "value": "\"Erweiterer\"",
+        "color": "darker-cyan"
       }
     ],
     "locus": "",
@@ -39,17 +39,29 @@
       }
     ],
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-06-25",
-    "Last modified": "2024-07-09",
-    "locus_layout": [],
-    "function": []
+    "Last modified": "2024-10-09",
+    "locus_layout": [
+      {
+        "id": 15382,
+        "value": "marginal unten",
+        "color": "cyan"
+      }
+    ],
+    "function": [
+      {
+        "id": 15836,
+        "value": "inhaltsbezogen",
+        "color": "darker-orange"
+      }
+    ]
   },
   "14": {
     "id": 14,
@@ -69,9 +81,9 @@
     ],
     "role": [
       {
-        "id": 14763,
-        "value": "annotator",
-        "color": "cyan"
+        "id": 15378,
+        "value": "\"Erweiterer\"",
+        "color": "darker-cyan"
       }
     ],
     "locus": "",
@@ -99,8 +111,14 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-11",
-    "Last modified": "2024-07-11",
-    "locus_layout": [],
+    "Last modified": "2024-10-09",
+    "locus_layout": [
+      {
+        "id": 15382,
+        "value": "marginal unten",
+        "color": "cyan"
+      }
+    ],
     "function": []
   },
   "4": {
@@ -329,9 +347,9 @@
     ],
     "role": [
       {
-        "id": 14763,
-        "value": "annotator",
-        "color": "cyan"
+        "id": 15378,
+        "value": "\"Erweiterer\"",
+        "color": "darker-cyan"
       }
     ],
     "locus": "",
@@ -351,15 +369,15 @@
       }
     ],
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "Created by": {
       "id": 36,
       "name": "Ivana Dobcheva"
     },
     "Created on": "2024-07-09",
-    "Last modified": "2024-07-09",
+    "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": []
   },
@@ -381,9 +399,9 @@
     ],
     "role": [
       {
-        "id": 14763,
-        "value": "annotator",
-        "color": "cyan"
+        "id": 15378,
+        "value": "\"Erweiterer\"",
+        "color": "darker-cyan"
       }
     ],
     "locus": "",
@@ -403,17 +421,23 @@
       }
     ],
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "Created by": {
       "id": 36,
       "name": "Ivana Dobcheva"
     },
     "Created on": "2024-07-09",
-    "Last modified": "2024-07-09",
+    "Last modified": "2024-10-09",
     "locus_layout": [],
-    "function": []
+    "function": [
+      {
+        "id": 15839,
+        "value": "historiographisch?",
+        "color": "pink"
+      }
+    ]
   },
   "12": {
     "id": 12,
@@ -463,8 +487,14 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-10",
-    "Last modified": "2024-09-26",
-    "locus_layout": [],
+    "Last modified": "2024-10-09",
+    "locus_layout": [
+      {
+        "id": 15097,
+        "value": "interlinear",
+        "color": "darker-pink"
+      }
+    ],
     "function": []
   },
   "15": {
@@ -485,9 +515,9 @@
     ],
     "role": [
       {
-        "id": 14760,
-        "value": "corrector",
-        "color": "darker-yellow"
+        "id": 15373,
+        "value": "Korrektor",
+        "color": "darker-brown"
       }
     ],
     "locus": "",
@@ -515,7 +545,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-11",
-    "Last modified": "2024-07-11",
+    "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": []
   },
@@ -589,9 +619,9 @@
     ],
     "role": [
       {
-        "id": 14763,
-        "value": "annotator",
-        "color": "cyan"
+        "id": 15378,
+        "value": "\"Erweiterer\"",
+        "color": "darker-cyan"
       }
     ],
     "locus": "",
@@ -619,7 +649,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-11",
-    "Last modified": "2024-07-11",
+    "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": []
   },
@@ -1005,9 +1035,9 @@
     ],
     "role": [
       {
-        "id": 14763,
-        "value": "annotator",
-        "color": "cyan"
+        "id": 15378,
+        "value": "\"Erweiterer\"",
+        "color": "darker-cyan"
       }
     ],
     "locus": "",
@@ -1035,8 +1065,14 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-12",
-    "Last modified": "2024-07-16",
-    "locus_layout": [],
+    "Last modified": "2024-10-09",
+    "locus_layout": [
+      {
+        "id": 15382,
+        "value": "marginal unten",
+        "color": "cyan"
+      }
+    ],
     "function": []
   },
   "27": {
@@ -1317,9 +1353,9 @@
     ],
     "role": [
       {
-        "id": 14763,
-        "value": "annotator",
-        "color": "cyan"
+        "id": 15378,
+        "value": "\"Erweiterer\"",
+        "color": "darker-cyan"
       }
     ],
     "locus": "",
@@ -1347,9 +1383,21 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-15",
-    "Last modified": "2024-07-15",
-    "locus_layout": [],
-    "function": []
+    "Last modified": "2024-10-09",
+    "locus_layout": [
+      {
+        "id": 15382,
+        "value": "marginal unten",
+        "color": "cyan"
+      }
+    ],
+    "function": [
+      {
+        "id": 15837,
+        "value": "unabhängig",
+        "color": "dark-purple"
+      }
+    ]
   },
   "33": {
     "id": 33,
@@ -1369,9 +1417,9 @@
     ],
     "role": [
       {
-        "id": 14763,
-        "value": "annotator",
-        "color": "cyan"
+        "id": 15378,
+        "value": "\"Erweiterer\"",
+        "color": "darker-cyan"
       }
     ],
     "locus": "",
@@ -1399,9 +1447,21 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-15",
-    "Last modified": "2024-07-15",
-    "locus_layout": [],
-    "function": []
+    "Last modified": "2024-10-09",
+    "locus_layout": [
+      {
+        "id": 15382,
+        "value": "marginal unten",
+        "color": "cyan"
+      }
+    ],
+    "function": [
+      {
+        "id": 15837,
+        "value": "unabhängig",
+        "color": "dark-purple"
+      }
+    ]
   },
   "34": {
     "id": 34,
@@ -1421,9 +1481,9 @@
     ],
     "role": [
       {
-        "id": 14763,
-        "value": "annotator",
-        "color": "cyan"
+        "id": 15378,
+        "value": "\"Erweiterer\"",
+        "color": "darker-cyan"
       }
     ],
     "locus": "",
@@ -1451,9 +1511,21 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-15",
-    "Last modified": "2024-07-15",
-    "locus_layout": [],
-    "function": []
+    "Last modified": "2024-10-09",
+    "locus_layout": [
+      {
+        "id": 15382,
+        "value": "marginal unten",
+        "color": "cyan"
+      }
+    ],
+    "function": [
+      {
+        "id": 15837,
+        "value": "unabhängig",
+        "color": "dark-purple"
+      }
+    ]
   },
   "35": {
     "id": 35,
@@ -1473,9 +1545,9 @@
     ],
     "role": [
       {
-        "id": 14763,
-        "value": "annotator",
-        "color": "cyan"
+        "id": 15378,
+        "value": "\"Erweiterer\"",
+        "color": "darker-cyan"
       }
     ],
     "locus": "107v; 117v; 118v; 147v; 148r",
@@ -1503,7 +1575,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-15",
-    "Last modified": "2024-07-18",
+    "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": []
   },
@@ -1917,9 +1989,9 @@
     ],
     "role": [
       {
-        "id": 14758,
-        "value": "Schreiber",
-        "color": "darker-red"
+        "id": 15378,
+        "value": "\"Erweiterer\"",
+        "color": "darker-cyan"
       }
     ],
     "locus": "",
@@ -1947,7 +2019,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-18",
-    "Last modified": "2024-07-18",
+    "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": []
   },
@@ -1969,9 +2041,9 @@
     ],
     "role": [
       {
-        "id": 14763,
-        "value": "annotator",
-        "color": "cyan"
+        "id": 15378,
+        "value": "\"Erweiterer\"",
+        "color": "darker-cyan"
       }
     ],
     "locus": "7r, 9v, 10r, 10v, 15v",
@@ -1999,7 +2071,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-18",
-    "Last modified": "2024-07-25",
+    "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": []
   },
@@ -2125,9 +2197,9 @@
     ],
     "role": [
       {
-        "id": 14763,
-        "value": "annotator",
-        "color": "cyan"
+        "id": 15378,
+        "value": "\"Erweiterer\"",
+        "color": "darker-cyan"
       }
     ],
     "locus": "",
@@ -2155,7 +2227,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-23",
-    "Last modified": "2024-07-26",
+    "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": []
   },
@@ -2229,9 +2301,9 @@
     ],
     "role": [
       {
-        "id": 14763,
-        "value": "annotator",
-        "color": "cyan"
+        "id": 15378,
+        "value": "\"Erweiterer\"",
+        "color": "darker-cyan"
       }
     ],
     "locus": "11r",
@@ -2259,7 +2331,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-23",
-    "Last modified": "2024-07-23",
+    "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": []
   },
@@ -2489,9 +2561,9 @@
     ],
     "role": [
       {
-        "id": 14763,
-        "value": "annotator",
-        "color": "cyan"
+        "id": 15378,
+        "value": "\"Erweiterer\"",
+        "color": "darker-cyan"
       }
     ],
     "locus": "15r",
@@ -2519,7 +2591,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-23",
-    "Last modified": "2024-07-23",
+    "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": []
   },
@@ -2645,9 +2717,9 @@
     ],
     "role": [
       {
-        "id": 14763,
-        "value": "annotator",
-        "color": "cyan"
+        "id": 15378,
+        "value": "\"Erweiterer\"",
+        "color": "darker-cyan"
       }
     ],
     "locus": "",
@@ -2675,7 +2747,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-25",
-    "Last modified": "2024-07-25",
+    "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": []
   },
@@ -2697,9 +2769,9 @@
     ],
     "role": [
       {
-        "id": 14763,
-        "value": "annotator",
-        "color": "cyan"
+        "id": 15378,
+        "value": "\"Erweiterer\"",
+        "color": "darker-cyan"
       }
     ],
     "locus": "",
@@ -2727,7 +2799,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-25",
-    "Last modified": "2024-07-25",
+    "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": []
   },
@@ -2749,9 +2821,14 @@
     ],
     "role": [
       {
-        "id": 14763,
-        "value": "annotator",
-        "color": "cyan"
+        "id": 15378,
+        "value": "\"Erweiterer\"",
+        "color": "darker-cyan"
+      },
+      {
+        "id": 15376,
+        "value": "Kommentator",
+        "color": "darker-green"
       }
     ],
     "locus": "",
@@ -2779,7 +2856,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-25",
-    "Last modified": "2024-07-25",
+    "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": []
   },
@@ -2801,9 +2878,9 @@
     ],
     "role": [
       {
-        "id": 14763,
-        "value": "annotator",
-        "color": "cyan"
+        "id": 15378,
+        "value": "\"Erweiterer\"",
+        "color": "darker-cyan"
       }
     ],
     "locus": "41av",
@@ -2831,8 +2908,14 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-26",
-    "Last modified": "2024-07-26",
-    "locus_layout": [],
+    "Last modified": "2024-10-09",
+    "locus_layout": [
+      {
+        "id": 15383,
+        "value": "marginal links",
+        "color": "darker-brown"
+      }
+    ],
     "function": []
   },
   "62": {
@@ -3118,9 +3201,9 @@
     ],
     "role": [
       {
-        "id": 14763,
-        "value": "annotator",
-        "color": "cyan"
+        "id": 15378,
+        "value": "\"Erweiterer\"",
+        "color": "darker-cyan"
       }
     ],
     "locus": "",
@@ -3148,7 +3231,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-29",
-    "Last modified": "2024-07-29",
+    "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": []
   },
@@ -3170,9 +3253,14 @@
     ],
     "role": [
       {
-        "id": 14763,
-        "value": "annotator",
-        "color": "cyan"
+        "id": 15378,
+        "value": "\"Erweiterer\"",
+        "color": "darker-cyan"
+      },
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
       }
     ],
     "locus": "",
@@ -3200,7 +3288,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-29",
-    "Last modified": "2024-07-29",
+    "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": []
   },
@@ -3227,9 +3315,9 @@
         "color": "darker-red"
       },
       {
-        "id": 15377,
-        "value": "continuator/Fortsetzer",
-        "color": "darker-pink"
+        "id": 15378,
+        "value": "\"Erweiterer\"",
+        "color": "darker-cyan"
       }
     ],
     "locus": "SCRIBE?!",
@@ -3257,7 +3345,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-29",
-    "Last modified": "2024-09-26",
+    "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": []
   },
@@ -7240,6 +7328,58 @@
     },
     "Created on": "2024-10-03",
     "Last modified": "2024-10-03",
+    "locus_layout": [],
+    "function": []
+  },
+  "152": {
+    "id": 152,
+    "order": "138.00000000000000000000",
+    "hit_id": "hit_hands_role__152",
+    "hand": [
+      {
+        "id": 116,
+        "value": "ÖNB, Cod. 2090_H. 39"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 148,
+        "value": "cod_2090__148"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 120,
+          "database_table_3491": 148
+        },
+        "value": "Institutiones Aquisgranenses"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 148,
+        "value": "42r-92v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-10-09",
+    "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": []
   }

@@ -8441,7 +8441,7 @@
         "value": "De duodecim abusivis saeculi"
       }
     ],
-    "title_note": "Fragment (enthält den Anfang des Werkes).",
+    "title_note": "Anfang des Werkes",
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
@@ -8455,7 +8455,7 @@
       }
     ],
     "cod_unit": [],
-    "Last modified": "2024-08-26",
+    "Last modified": "2024-10-09",
     "Created on": "2024-08-26",
     "Created by": {
       "id": 86,
@@ -8465,7 +8465,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "note": "",
+    "note": "\"Revolve tria folia et quę restant invenies\"",
     "hand": [
       {
         "ids": {
@@ -8502,7 +8502,7 @@
         "value": "De duodecim abusivis saeculi"
       }
     ],
-    "title_note": "Fortsetzung des Fragments",
+    "title_note": "Fortsetzung",
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
@@ -8516,7 +8516,7 @@
       }
     ],
     "cod_unit": [],
-    "Last modified": "2024-09-02",
+    "Last modified": "2024-10-09",
     "Created on": "2024-08-26",
     "Created by": {
       "id": 86,
@@ -8536,6 +8536,150 @@
         "value": "ÖNB, Cod. 2090_H. 38"
       }
     ],
+    "decoration": [],
+    "facs_url": ""
+  },
+  "187": {
+    "id": 187,
+    "order": "127.33333333333332859638",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__187"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "Sacramentum est in aliqua cęlebratione cum res gesta",
+    "explicit": "et reconditam habeat dispensationem",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 133,
+        "value": "Etymologiae"
+      }
+    ],
+    "title_note": "Auszug aus Buch VI, Kapitel 39-42.",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": null,
+    "filiation": [],
+    "locus_grp": "41v",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-10-09",
+    "Created on": "2024-10-09",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": ""
+  },
+  "188": {
+    "id": 188,
+    "order": "127.40000000000000568434",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__188"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "Fuit quidam solitarius et veniebat ad eum presbyter",
+    "explicit": "prius sanctificare sibi oblationem",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 134,
+        "value": "De quodam solitario"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": null,
+    "filiation": [],
+    "locus_grp": "41v",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-10-09",
+    "Created on": "2024-10-09",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": ""
+  },
+  "186": {
+    "id": 186,
+    "order": "127.50000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__186"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "Episcopum, aut presbyterum, aut diaconum, percutientem fideles",
+    "explicit": "non remaledicebat; cum pateretur, non comminabatur",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 132,
+        "value": "Codex canonum ecclesiasticorum"
+      }
+    ],
+    "title_note": "Kapitel 28",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": null,
+    "filiation": [],
+    "locus_grp": "41v",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-10-09",
+    "Created on": "2024-10-09",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "Später hinzugefügt.",
+    "hand": [],
     "decoration": [],
     "facs_url": ""
   },
@@ -8624,7 +8768,12 @@
     "hit_id": "hit_ms_items__148",
     "filiation": [],
     "locus_grp": "42r-92v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 152,
+        "value": "hit_hands_role__152"
+      }
+    ],
     "cod_unit": [],
     "Last modified": "2024-09-05",
     "Created on": "2024-09-02",
@@ -8637,7 +8786,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 39"
+      }
+    ],
     "decoration": [
       {
         "id": 15102,
@@ -9997,6 +10154,39 @@
     "cod_unit": [],
     "Last modified": "2024-10-03",
     "Created on": "2024-10-03",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": ""
+  },
+  "189": {
+    "id": 189,
+    "order": "147.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__189",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-10-09",
+    "Created on": "2024-10-09",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"

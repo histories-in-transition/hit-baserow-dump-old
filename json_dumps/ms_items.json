@@ -10199,5 +10199,48 @@
     "hand": [],
     "decoration": [],
     "facs_url": ""
+  },
+  "190": {
+    "id": 190,
+    "order": "148.00000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__190"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__190",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-10-10",
+    "Created on": "2024-10-10",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": ""
   }
 }

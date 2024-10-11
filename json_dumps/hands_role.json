@@ -487,7 +487,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-10",
-    "Last modified": "2024-10-09",
+    "Last modified": "2024-10-10",
     "locus_layout": [
       {
         "id": 15097,
@@ -495,7 +495,18 @@
         "color": "darker-pink"
       }
     ],
-    "function": []
+    "function": [
+      {
+        "id": 15098,
+        "value": "grammatikalisch",
+        "color": "green"
+      },
+      {
+        "id": 15838,
+        "value": "orthografisch",
+        "color": "darker-red"
+      }
+    ]
   },
   "15": {
     "id": 15,
@@ -1759,8 +1770,14 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-16",
-    "Last modified": "2024-07-16",
-    "locus_layout": [],
+    "Last modified": "2024-10-10",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum/Haupttext",
+        "color": "dark-green"
+      }
+    ],
     "function": []
   },
   "40": {
@@ -3018,8 +3035,14 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-28",
-    "Last modified": "2024-07-28",
-    "locus_layout": [],
+    "Last modified": "2024-10-10",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum/Haupttext",
+        "color": "dark-green"
+      }
+    ],
     "function": []
   },
   "64": {
@@ -4286,8 +4309,14 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-08-05",
-    "Last modified": "2024-09-25",
-    "locus_layout": [],
+    "Last modified": "2024-10-10",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum/Haupttext",
+        "color": "dark-green"
+      }
+    ],
     "function": []
   },
   "90": {
@@ -4447,8 +4476,14 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-08-06",
-    "Last modified": "2024-09-24",
-    "locus_layout": [],
+    "Last modified": "2024-10-10",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum/Haupttext",
+        "color": "dark-green"
+      }
+    ],
     "function": []
   },
   "93": {
@@ -5383,8 +5418,14 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-08-26",
-    "Last modified": "2024-09-25",
-    "locus_layout": [],
+    "Last modified": "2024-10-10",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum/Haupttext",
+        "color": "dark-green"
+      }
+    ],
     "function": []
   },
   "115": {
@@ -5435,8 +5476,14 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-08-26",
-    "Last modified": "2024-09-25",
-    "locus_layout": [],
+    "Last modified": "2024-10-10",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum/Haupttext",
+        "color": "dark-green"
+      }
+    ],
     "function": []
   },
   "116": {

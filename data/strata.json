@@ -1751,7 +1751,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-01"
+                "Last modified": "2024-07-01",
+                "date": []
               }
             ],
             "Last modified": "2024-09-23",
@@ -3562,7 +3563,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-01"
+                "Last modified": "2024-07-01",
+                "date": []
               }
             ],
             "Last modified": "2024-09-23",
@@ -5329,7 +5331,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-01"
+                "Last modified": "2024-07-01",
+                "date": []
               }
             ],
             "Last modified": "2024-07-03",
@@ -7089,7 +7092,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-01"
+                "Last modified": "2024-07-01",
+                "date": []
               }
             ],
             "Last modified": "2024-07-03",
@@ -8849,7 +8853,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-01"
+                "Last modified": "2024-07-01",
+                "date": []
               }
             ],
             "Last modified": "2024-07-03",
@@ -10497,7 +10502,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-01"
+                "Last modified": "2024-07-01",
+                "date": []
               }
             ],
             "Last modified": "2024-07-03",
@@ -12359,7 +12365,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-01"
+                "Last modified": "2024-07-01",
+                "date": []
               }
             ],
             "Last modified": "2024-07-29",
@@ -13956,7 +13963,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-01"
+                "Last modified": "2024-07-01",
+                "date": []
               }
             ],
             "Last modified": "2024-07-11",
@@ -15645,7 +15653,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-01"
+                "Last modified": "2024-07-01",
+                "date": []
               }
             ],
             "Last modified": "2024-07-03",
@@ -17370,7 +17379,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-01"
+                "Last modified": "2024-07-01",
+                "date": []
               }
             ],
             "Last modified": "2024-08-05",
@@ -19115,7 +19125,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-01"
+                "Last modified": "2024-07-01",
+                "date": []
               }
             ],
             "Last modified": "2024-08-05",
@@ -19768,7 +19779,7 @@
                   "name": "Leon Pürstinger"
                 },
                 "Created on": "2024-07-10",
-                "Last modified": "2024-10-09",
+                "Last modified": "2024-10-10",
                 "locus_layout": [
                   {
                     "id": 15097,
@@ -19776,7 +19787,18 @@
                     "color": "darker-pink"
                   }
                 ],
-                "function": []
+                "function": [
+                  {
+                    "id": 15098,
+                    "value": "grammatikalisch",
+                    "color": "green"
+                  },
+                  {
+                    "id": 15838,
+                    "value": "orthografisch",
+                    "color": "darker-red"
+                  }
+                ]
               },
               {
                 "id": 15,
@@ -20494,7 +20516,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-11"
+                "Last modified": "2024-07-11",
+                "date": []
               }
             ],
             "Last modified": "2024-07-03",
@@ -21280,7 +21303,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-11"
+                "Last modified": "2024-07-11",
+                "date": []
               }
             ],
             "Last modified": "2024-07-11",
@@ -21972,7 +21996,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-11"
+                "Last modified": "2024-07-11",
+                "date": []
               }
             ],
             "Last modified": "2024-07-11",
@@ -23633,7 +23658,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-01"
+                "Last modified": "2024-07-01",
+                "date": []
               }
             ],
             "Last modified": "2024-07-15",
@@ -24738,7 +24764,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-11"
+                "Last modified": "2024-07-11",
+                "date": []
               }
             ],
             "Last modified": "2024-09-05",
@@ -26341,7 +26368,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-01"
+                "Last modified": "2024-07-01",
+                "date": []
               }
             ],
             "Last modified": "2024-09-06",
@@ -28080,7 +28108,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-01"
+                "Last modified": "2024-07-01",
+                "date": []
               }
             ],
             "Last modified": "2024-07-16",
@@ -30938,7 +30967,8 @@
                   "id": 87,
                   "name": "Ksenia Borisova"
                 },
-                "Last modified": "2024-07-18"
+                "Last modified": "2024-07-18",
+                "date": []
               }
             ],
             "Last modified": "2024-09-28",
@@ -33364,7 +33394,8 @@
                   "id": 87,
                   "name": "Ksenia Borisova"
                 },
-                "Last modified": "2024-07-18"
+                "Last modified": "2024-07-18",
+                "date": []
               }
             ],
             "Last modified": "2024-09-28",
@@ -33902,8 +33933,14 @@
                   "name": "Leon Pürstinger"
                 },
                 "Created on": "2024-07-16",
-                "Last modified": "2024-07-16",
-                "locus_layout": [],
+                "Last modified": "2024-10-10",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum/Haupttext",
+                    "color": "dark-green"
+                  }
+                ],
                 "function": []
               },
               {
@@ -34290,7 +34327,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-18"
+                "Last modified": "2024-07-18",
+                "date": []
               }
             ],
             "Last modified": "2024-07-15",
@@ -34370,8 +34408,14 @@
           "name": "Leon Pürstinger"
         },
         "Created on": "2024-07-16",
-        "Last modified": "2024-07-16",
-        "locus_layout": [],
+        "Last modified": "2024-10-10",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
         "function": []
       },
       {
@@ -34776,8 +34820,14 @@
                   "name": "Leon Pürstinger"
                 },
                 "Created on": "2024-07-16",
-                "Last modified": "2024-07-16",
-                "locus_layout": [],
+                "Last modified": "2024-10-10",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum/Haupttext",
+                    "color": "dark-green"
+                  }
+                ],
                 "function": []
               },
               {
@@ -35164,7 +35214,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-18"
+                "Last modified": "2024-07-18",
+                "date": []
               }
             ],
             "Last modified": "2024-07-15",
@@ -35650,8 +35701,14 @@
                   "name": "Leon Pürstinger"
                 },
                 "Created on": "2024-07-16",
-                "Last modified": "2024-07-16",
-                "locus_layout": [],
+                "Last modified": "2024-10-10",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum/Haupttext",
+                    "color": "dark-green"
+                  }
+                ],
                 "function": []
               },
               {
@@ -36038,7 +36095,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-18"
+                "Last modified": "2024-07-18",
+                "date": []
               }
             ],
             "Last modified": "2024-07-15",
@@ -36524,8 +36582,14 @@
                   "name": "Leon Pürstinger"
                 },
                 "Created on": "2024-07-16",
-                "Last modified": "2024-07-16",
-                "locus_layout": [],
+                "Last modified": "2024-10-10",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum/Haupttext",
+                    "color": "dark-green"
+                  }
+                ],
                 "function": []
               },
               {
@@ -36912,7 +36976,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-18"
+                "Last modified": "2024-07-18",
+                "date": []
               }
             ],
             "Last modified": "2024-07-15",
@@ -39200,7 +39265,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-26"
+                "Last modified": "2024-07-26",
+                "date": []
               }
             ],
             "Last modified": "2024-07-23",
@@ -41424,7 +41490,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-26"
+                "Last modified": "2024-07-26",
+                "date": []
               }
             ],
             "Last modified": "2024-07-23",
@@ -43582,7 +43649,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-26"
+                "Last modified": "2024-07-26",
+                "date": []
               }
             ],
             "Last modified": "2024-07-23",
@@ -44234,7 +44302,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-26"
+                "Last modified": "2024-07-26",
+                "date": []
               }
             ],
             "Last modified": "2024-09-05",
@@ -44725,8 +44794,14 @@
                   "name": "Leon Pürstinger"
                 },
                 "Created on": "2024-07-28",
-                "Last modified": "2024-07-28",
-                "locus_layout": [],
+                "Last modified": "2024-10-10",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum/Haupttext",
+                    "color": "dark-green"
+                  }
+                ],
                 "function": []
               },
               {
@@ -44777,8 +44852,14 @@
                   "name": "Leon Pürstinger"
                 },
                 "Created on": "2024-08-26",
-                "Last modified": "2024-09-25",
-                "locus_layout": [],
+                "Last modified": "2024-10-10",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum/Haupttext",
+                    "color": "dark-green"
+                  }
+                ],
                 "function": []
               }
             ],
@@ -44856,7 +44937,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-26"
+                "Last modified": "2024-07-26",
+                "date": []
               }
             ],
             "Last modified": "2024-07-28",
@@ -44922,8 +45004,14 @@
           "name": "Leon Pürstinger"
         },
         "Created on": "2024-07-28",
-        "Last modified": "2024-07-28",
-        "locus_layout": [],
+        "Last modified": "2024-10-10",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
         "function": []
       },
       {
@@ -45635,7 +45723,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-26"
+                "Last modified": "2024-07-26",
+                "date": []
               }
             ],
             "Last modified": "2024-07-28",
@@ -46331,7 +46420,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-26"
+                "Last modified": "2024-07-26",
+                "date": []
               }
             ],
             "Last modified": "2024-07-26",
@@ -46909,7 +46999,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-26"
+                "Last modified": "2024-07-26",
+                "date": []
               }
             ],
             "Last modified": "2024-09-05",
@@ -47497,7 +47588,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-26"
+                "Last modified": "2024-07-26",
+                "date": []
               }
             ],
             "Last modified": "2024-08-05",
@@ -48225,7 +48317,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-26"
+                "Last modified": "2024-07-26",
+                "date": []
               }
             ],
             "Last modified": "2024-10-03",
@@ -48905,7 +48998,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-26"
+                "Last modified": "2024-07-26",
+                "date": []
               }
             ],
             "Last modified": "2024-07-31",
@@ -49487,7 +49581,8 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-26"
+                "Last modified": "2024-07-26",
+                "date": []
               }
             ],
             "Last modified": "2024-08-02",
@@ -51833,7 +51928,8 @@
                   "id": 87,
                   "name": "Ksenia Borisova"
                 },
-                "Last modified": "2024-07-18"
+                "Last modified": "2024-07-18",
+                "date": []
               }
             ],
             "Last modified": "2024-09-28",

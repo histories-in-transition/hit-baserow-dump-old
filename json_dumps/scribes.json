@@ -127,5 +127,173 @@
       "id": 86,
       "name": "Leon Pürstinger"
     }
+  },
+  "8": {
+    "id": 8,
+    "order": "7.00000000000000000000",
+    "name": "ÖNB Cod. 2090_2",
+    "hit_id": "hit_scribes__8",
+    "description": "Schreibergruppe (2-3 Hände), die den Salzburger Bischofskatalog im 12. Jahrhundert fortsetzt.",
+    "group": false,
+    "hands": [
+      {
+        "id": 53,
+        "value": "ÖNB, Cod. 2090_H. 11"
+      }
+    ],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 11"
+      }
+    ],
+    "Last modified": "2024-10-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "9": {
+    "id": 9,
+    "order": "8.00000000000000000000",
+    "name": "ÖNB Cod. 2090_3",
+    "hit_id": "hit_scribes__9",
+    "description": "Schreibergruppe (3-5 Hände) aus dem späten 11. und 12. Jahrhundert, die die Nomina... fortführen.",
+    "group": true,
+    "hands": [
+      {
+        "id": 58,
+        "value": "ÖNB, Cod. 2090_H. 16"
+      }
+    ],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 16"
+      }
+    ],
+    "Last modified": "2024-10-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "10": {
+    "id": 10,
+    "order": "9.00000000000000000000",
+    "name": "ÖNB Cod. 2090_4",
+    "hit_id": "hit_scribes__10",
+    "description": "Schreibergruppe von mindestens zwei Händen, die im späten 12. Jahrhundert mehrere Bischofsbriefe einfügen.",
+    "group": true,
+    "hands": [
+      {
+        "id": 59,
+        "value": "ÖNB, Cod. 2090_H. 17"
+      }
+    ],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 17"
+      }
+    ],
+    "Last modified": "2024-10-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "11": {
+    "id": 11,
+    "order": "10.00000000000000000000",
+    "name": "ÖNB Cod. 2090_5",
+    "hit_id": "hit_scribes__11",
+    "description": "Schreibergruppe -> diverse Hände, die die Fratres de foris bearbeiten.",
+    "group": true,
+    "hands": [
+      {
+        "id": 80,
+        "value": "ÖNB, Cod. 2090_H. 36"
+      }
+    ],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 36"
+      }
+    ],
+    "Last modified": "2024-10-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "12": {
+    "id": 12,
+    "order": "11.00000000000000000000",
+    "name": "ÖNB Cod. 2090_6",
+    "hit_id": "hit_scribes__12",
+    "description": "Schreibergruppe bestehend aus mehreren, häufig wechselnden Händen. Fertigt die Institutiones Aquisgranenses an.",
+    "group": true,
+    "hands": [
+      {
+        "id": 116,
+        "value": "ÖNB, Cod. 2090_H. 39"
+      }
+    ],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 39"
+      }
+    ],
+    "Last modified": "2024-10-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "13": {
+    "id": 13,
+    "order": "12.00000000000000000000",
+    "name": "ÖNB Cod. 2090_7",
+    "hit_id": "hit_scribes__13",
+    "description": "Schreibergruppe -> Zahlreiche Hände fertigen den Necrologium Salisburgense an.",
+    "group": true,
+    "hands": [
+      {
+        "id": 117,
+        "value": "ÖNB, Cod. 2090_H. 40"
+      }
+    ],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 40"
+      }
+    ],
+    "Last modified": "2024-10-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
   }
 }

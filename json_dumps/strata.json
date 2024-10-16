@@ -10,9 +10,9 @@
     ],
     "character": [
       {
-        "id": 14761,
-        "value": "base",
-        "color": "yellow"
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
       }
     ],
     "manuscript": [
@@ -183,7 +183,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-12"
+    "Last modified": "2024-10-15"
   },
   "2": {
     "id": 2,
@@ -196,19 +196,9 @@
     ],
     "character": [
       {
-        "id": 14765,
-        "value": "annotation",
-        "color": "light-brown"
-      },
-      {
-        "id": 14764,
-        "value": "correction",
-        "color": "blue"
-      },
-      {
-        "id": 14766,
-        "value": "addition",
-        "color": "dark-green"
+        "id": 15368,
+        "value": "textuelle Veränderung",
+        "color": "dark-yellow"
       }
     ],
     "manuscript": [
@@ -324,7 +314,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-12"
+    "Last modified": "2024-10-15"
   },
   "4": {
     "id": 4,
@@ -337,9 +327,14 @@
     ],
     "character": [
       {
-        "id": 14766,
-        "value": "addition",
-        "color": "dark-green"
+        "id": 15368,
+        "value": "textuelle Veränderung",
+        "color": "dark-yellow"
+      },
+      {
+        "id": 15369,
+        "value": "kodikologische Veränderung",
+        "color": "light-green"
       }
     ],
     "manuscript": [
@@ -411,7 +406,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-12"
+    "Last modified": "2024-10-15"
   },
   "5": {
     "id": 5,
@@ -918,9 +913,9 @@
     ],
     "character": [
       {
-        "id": 14761,
-        "value": "base",
-        "color": "yellow"
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
       }
     ],
     "manuscript": [
@@ -1017,7 +1012,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-16"
+    "Last modified": "2024-10-15"
   },
   "9": {
     "id": 9,
@@ -1030,9 +1025,9 @@
     ],
     "character": [
       {
-        "id": 14761,
-        "value": "base",
-        "color": "yellow"
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
       }
     ],
     "manuscript": [
@@ -1092,7 +1087,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-21"
+    "Last modified": "2024-10-15"
   },
   "14": {
     "id": 14,
@@ -1105,9 +1100,9 @@
     ],
     "character": [
       {
-        "id": 14765,
-        "value": "annotation",
-        "color": "light-brown"
+        "id": 15368,
+        "value": "textuelle Veränderung",
+        "color": "dark-yellow"
       }
     ],
     "manuscript": [
@@ -1165,7 +1160,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-29"
+    "Last modified": "2024-10-15"
   },
   "12": {
     "id": 12,
@@ -1178,9 +1173,9 @@
     ],
     "character": [
       {
-        "id": 14761,
-        "value": "base",
-        "color": "yellow"
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
       }
     ],
     "manuscript": [
@@ -1303,7 +1298,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-08-26"
+    "Last modified": "2024-10-15"
   },
   "13": {
     "id": 13,
@@ -1316,14 +1311,9 @@
     ],
     "character": [
       {
-        "id": 14766,
-        "value": "addition",
-        "color": "dark-green"
-      },
-      {
-        "id": 14765,
-        "value": "annotation",
-        "color": "light-brown"
+        "id": 15368,
+        "value": "textuelle Veränderung",
+        "color": "dark-yellow"
       }
     ],
     "manuscript": [
@@ -1348,7 +1338,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-31"
+    "Last modified": "2024-10-15"
   },
   "15": {
     "id": 15,
@@ -1361,14 +1351,9 @@
     ],
     "character": [
       {
-        "id": 14765,
-        "value": "annotation",
-        "color": "light-brown"
-      },
-      {
-        "id": 14766,
-        "value": "addition",
-        "color": "dark-green"
+        "id": 15368,
+        "value": "textuelle Veränderung",
+        "color": "dark-yellow"
       }
     ],
     "manuscript": [
@@ -1411,7 +1396,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-31"
+    "Last modified": "2024-10-15"
   },
   "16": {
     "id": 16,
@@ -1424,14 +1409,9 @@
     ],
     "character": [
       {
-        "id": 14765,
-        "value": "annotation",
-        "color": "light-brown"
-      },
-      {
-        "id": 14766,
-        "value": "addition",
-        "color": "dark-green"
+        "id": 15368,
+        "value": "textuelle Veränderung",
+        "color": "dark-yellow"
       }
     ],
     "manuscript": [
@@ -1489,7 +1469,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-08-05"
+    "Last modified": "2024-10-15"
   },
   "17": {
     "id": 17,

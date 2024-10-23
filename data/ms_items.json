@@ -5088,7 +5088,25 @@
         ],
         "bibliography": [],
         "source_text": [],
-        "genre": [],
+        "genre": [
+          {
+            "id": 16,
+            "order": "15.00000000000000000000",
+            "genre": "Komputistik",
+            "hit_id": "hit_genres__16",
+            "main_genre": [],
+            "Created by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Created on": "2024-07-23",
+            "Last modified by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Last modified": "2024-07-23"
+          }
+        ],
         "note_source": null,
         "Created by": {
           "id": 86,
@@ -5096,10 +5114,10 @@
         },
         "Created on": "2024-06-17",
         "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
+          "id": 87,
+          "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-06-17"
+        "Last modified": "2024-10-22"
       }
     ],
     "title_note": "",
@@ -11775,7 +11793,25 @@
         ],
         "bibliography": [],
         "source_text": [],
-        "genre": [],
+        "genre": [
+          {
+            "id": 19,
+            "order": "18.00000000000000000000",
+            "genre": "Traktat",
+            "hit_id": "hit_genres__19",
+            "main_genre": [],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-10-22",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-10-22"
+          }
+        ],
         "note_source": null,
         "Created by": {
           "id": 86,
@@ -11783,10 +11819,10 @@
         },
         "Created on": "2024-06-17",
         "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
+          "id": 87,
+          "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-06-17"
+        "Last modified": "2024-10-22"
       }
     ],
     "title_note": "",
@@ -13488,7 +13524,25 @@
         ],
         "bibliography": [],
         "source_text": [],
-        "genre": [],
+        "genre": [
+          {
+            "id": 19,
+            "order": "18.00000000000000000000",
+            "genre": "Traktat",
+            "hit_id": "hit_genres__19",
+            "main_genre": [],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-10-22",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-10-22"
+          }
+        ],
         "note_source": null,
         "Created by": {
           "id": 86,
@@ -13496,10 +13550,10 @@
         },
         "Created on": "2024-06-17",
         "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
+          "id": 87,
+          "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-06-17"
+        "Last modified": "2024-10-22"
       }
     ],
     "title_note": "Chronik-Abschnitt",
@@ -18858,7 +18912,43 @@
         ],
         "bibliography": [],
         "source_text": [],
-        "genre": [],
+        "genre": [
+          {
+            "id": 4,
+            "order": "4.00000000000000000000",
+            "genre": "Chronik",
+            "hit_id": "hit_genres__4",
+            "main_genre": [
+              {
+                "id": 5,
+                "order": "5.00000000000000000000",
+                "genre": "Historiographie",
+                "hit_id": "hit_genres__5",
+                "main_genre": [],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-07-11",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "Created by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Created on": "2024-07-02",
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
         "note_source": null,
         "Created by": {
           "id": 87,
@@ -18866,10 +18956,10 @@
         },
         "Created on": "2024-06-17",
         "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
+          "id": 87,
+          "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-18"
+        "Last modified": "2024-10-22"
       }
     ],
     "title_note": "",
@@ -25428,7 +25518,25 @@
         ],
         "bibliography": [],
         "source_text": [],
-        "genre": [],
+        "genre": [
+          {
+            "id": 9,
+            "order": "8.00000000000000000000",
+            "genre": "Theologische Literatur",
+            "hit_id": "hit_genres__9",
+            "main_genre": [],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-07-12",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-07-12"
+          }
+        ],
         "note_source": "",
         "Created by": {
           "id": 87,
@@ -25439,7 +25547,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-05"
+        "Last modified": "2024-10-22"
       }
     ],
     "title_note": "",
@@ -40326,7 +40434,25 @@
         ],
         "bibliography": [],
         "source_text": [],
-        "genre": [],
+        "genre": [
+          {
+            "id": 19,
+            "order": "18.00000000000000000000",
+            "genre": "Traktat",
+            "hit_id": "hit_genres__19",
+            "main_genre": [],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-10-22",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-10-22"
+          }
+        ],
         "note_source": "",
         "Created by": {
           "id": 87,
@@ -40337,7 +40463,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-05"
+        "Last modified": "2024-10-22"
       }
     ],
     "title_note": "",
@@ -42288,7 +42414,25 @@
         ],
         "bibliography": [],
         "source_text": [],
-        "genre": [],
+        "genre": [
+          {
+            "id": 19,
+            "order": "18.00000000000000000000",
+            "genre": "Traktat",
+            "hit_id": "hit_genres__19",
+            "main_genre": [],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-10-22",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-10-22"
+          }
+        ],
         "note_source": "",
         "Created by": {
           "id": 87,
@@ -42299,7 +42443,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-05"
+        "Last modified": "2024-10-22"
       }
     ],
     "title_note": "",
@@ -43356,7 +43500,43 @@
         ],
         "bibliography": [],
         "source_text": [],
-        "genre": [],
+        "genre": [
+          {
+            "id": 4,
+            "order": "4.00000000000000000000",
+            "genre": "Chronik",
+            "hit_id": "hit_genres__4",
+            "main_genre": [
+              {
+                "id": 5,
+                "order": "5.00000000000000000000",
+                "genre": "Historiographie",
+                "hit_id": "hit_genres__5",
+                "main_genre": [],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-07-11",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "Created by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Created on": "2024-07-02",
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
         "note_source": null,
         "Created by": {
           "id": 87,
@@ -43364,10 +43544,10 @@
         },
         "Created on": "2024-06-17",
         "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
+          "id": 87,
+          "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-18"
+        "Last modified": "2024-10-22"
       }
     ],
     "title_note": "",
@@ -46210,7 +46390,25 @@
         ],
         "bibliography": [],
         "source_text": [],
-        "genre": [],
+        "genre": [
+          {
+            "id": 19,
+            "order": "18.00000000000000000000",
+            "genre": "Traktat",
+            "hit_id": "hit_genres__19",
+            "main_genre": [],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-10-22",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-10-22"
+          }
+        ],
         "note_source": "",
         "Created by": {
           "id": 87,
@@ -46221,7 +46419,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-05"
+        "Last modified": "2024-10-22"
       }
     ],
     "title_note": "lib. I (fragmentum)",
@@ -46905,7 +47103,25 @@
         ],
         "bibliography": [],
         "source_text": [],
-        "genre": [],
+        "genre": [
+          {
+            "id": 9,
+            "order": "8.00000000000000000000",
+            "genre": "Theologische Literatur",
+            "hit_id": "hit_genres__9",
+            "main_genre": [],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-07-12",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-07-12"
+          }
+        ],
         "note_source": "",
         "Created by": {
           "id": 87,
@@ -46916,7 +47132,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-04"
+        "Last modified": "2024-10-22"
       }
     ],
     "title_note": "",
@@ -48353,7 +48569,25 @@
         ],
         "bibliography": [],
         "source_text": [],
-        "genre": [],
+        "genre": [
+          {
+            "id": 19,
+            "order": "18.00000000000000000000",
+            "genre": "Traktat",
+            "hit_id": "hit_genres__19",
+            "main_genre": [],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-10-22",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-10-22"
+          }
+        ],
         "note_source": "",
         "Created by": {
           "id": 87,
@@ -48364,7 +48598,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-05"
+        "Last modified": "2024-10-23"
       }
     ],
     "title_note": "",
@@ -49009,7 +49243,25 @@
         "author": [],
         "bibliography": [],
         "source_text": [],
-        "genre": [],
+        "genre": [
+          {
+            "id": 9,
+            "order": "8.00000000000000000000",
+            "genre": "Theologische Literatur",
+            "hit_id": "hit_genres__9",
+            "main_genre": [],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-07-12",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-07-12"
+          }
+        ],
         "note_source": "",
         "Created by": {
           "id": 87,
@@ -49020,7 +49272,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-04"
+        "Last modified": "2024-10-22"
       }
     ],
     "title_note": "",
@@ -50449,7 +50701,25 @@
         ],
         "bibliography": [],
         "source_text": [],
-        "genre": [],
+        "genre": [
+          {
+            "id": 19,
+            "order": "18.00000000000000000000",
+            "genre": "Traktat",
+            "hit_id": "hit_genres__19",
+            "main_genre": [],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-10-22",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-10-22"
+          }
+        ],
         "note_source": "",
         "Created by": {
           "id": 87,
@@ -50460,7 +50730,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-05"
+        "Last modified": "2024-10-22"
       }
     ],
     "title_note": "",
@@ -51105,7 +51375,25 @@
         "author": [],
         "bibliography": [],
         "source_text": [],
-        "genre": [],
+        "genre": [
+          {
+            "id": 19,
+            "order": "18.00000000000000000000",
+            "genre": "Traktat",
+            "hit_id": "hit_genres__19",
+            "main_genre": [],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-10-22",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-10-22"
+          }
+        ],
         "note_source": "",
         "Created by": {
           "id": 87,
@@ -51116,7 +51404,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-09"
+        "Last modified": "2024-10-23"
       }
     ],
     "title_note": "",
@@ -52456,7 +52744,25 @@
         ],
         "bibliography": [],
         "source_text": [],
-        "genre": [],
+        "genre": [
+          {
+            "id": 11,
+            "order": "10.00000000000000000000",
+            "genre": "Briefe",
+            "hit_id": "hit_genres__11",
+            "main_genre": [],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-07-12",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-07-12"
+          }
+        ],
         "note_source": "",
         "Created by": {
           "id": 87,
@@ -52467,7 +52773,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-09"
+        "Last modified": "2024-10-22"
       }
     ],
     "title_note": "",
@@ -56467,7 +56773,25 @@
         "author": [],
         "bibliography": [],
         "source_text": [],
-        "genre": [],
+        "genre": [
+          {
+            "id": 22,
+            "order": "21.00000000000000000000",
+            "genre": "Katalog",
+            "hit_id": "hit_genres__22",
+            "main_genre": [],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-10-22",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-10-22"
+          }
+        ],
         "note_source": "",
         "Created by": {
           "id": 87,
@@ -56478,7 +56802,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-04"
+        "Last modified": "2024-10-22"
       }
     ],
     "title_note": "",
@@ -58069,7 +58393,42 @@
         ],
         "bibliography": [],
         "source_text": [],
-        "genre": [],
+        "genre": [
+          {
+            "id": 5,
+            "order": "5.00000000000000000000",
+            "genre": "Historiographie",
+            "hit_id": "hit_genres__5",
+            "main_genre": [],
+            "Created by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Created on": "2024-07-11",
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          },
+          {
+            "id": 21,
+            "order": "20.00000000000000000000",
+            "genre": "Excerpta",
+            "hit_id": "hit_genres__21",
+            "main_genre": [],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-10-22",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-10-22"
+          }
+        ],
         "note_source": "",
         "Created by": {
           "id": 87,
@@ -58080,7 +58439,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-05"
+        "Last modified": "2024-10-22"
       }
     ],
     "title_note": "",
@@ -62969,7 +63328,12 @@
             "author": [],
             "bibliography": [],
             "source_text": [],
-            "genre": [],
+            "genre": [
+              {
+                "id": 9,
+                "value": "Theologische Literatur"
+              }
+            ],
             "note_source": "",
             "Created by": {
               "id": 87,
@@ -62980,10 +63344,28 @@
               "id": 87,
               "name": "Ksenia Borisova"
             },
-            "Last modified": "2024-07-04"
+            "Last modified": "2024-10-22"
           }
         ],
-        "genre": [],
+        "genre": [
+          {
+            "id": 9,
+            "order": "8.00000000000000000000",
+            "genre": "Theologische Literatur",
+            "hit_id": "hit_genres__9",
+            "main_genre": [],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-07-12",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-07-12"
+          }
+        ],
         "note_source": "",
         "Created by": {
           "id": 87,
@@ -62994,7 +63376,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-09"
+        "Last modified": "2024-10-23"
       }
     ],
     "title_note": "",
@@ -63448,7 +63830,12 @@
             "author": [],
             "bibliography": [],
             "source_text": [],
-            "genre": [],
+            "genre": [
+              {
+                "id": 9,
+                "value": "Theologische Literatur"
+              }
+            ],
             "note_source": "",
             "Created by": {
               "id": 87,
@@ -63459,10 +63846,28 @@
               "id": 87,
               "name": "Ksenia Borisova"
             },
-            "Last modified": "2024-07-04"
+            "Last modified": "2024-10-22"
           }
         ],
-        "genre": [],
+        "genre": [
+          {
+            "id": 9,
+            "order": "8.00000000000000000000",
+            "genre": "Theologische Literatur",
+            "hit_id": "hit_genres__9",
+            "main_genre": [],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-07-12",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-07-12"
+          }
+        ],
         "note_source": "",
         "Created by": {
           "id": 87,
@@ -63473,7 +63878,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-09"
+        "Last modified": "2024-10-23"
       }
     ],
     "title_note": "",
@@ -63956,7 +64361,25 @@
         ],
         "bibliography": [],
         "source_text": [],
-        "genre": [],
+        "genre": [
+          {
+            "id": 20,
+            "order": "19.00000000000000000000",
+            "genre": "Kommentar",
+            "hit_id": "hit_genres__20",
+            "main_genre": [],
+            "Created by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Created on": "2024-10-22",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-10-22"
+          }
+        ],
         "note_source": "",
         "Created by": {
           "id": 87,
@@ -63967,7 +64390,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-04"
+        "Last modified": "2024-10-22"
       }
     ],
     "title_note": "",
@@ -66360,7 +66783,43 @@
         ],
         "bibliography": [],
         "source_text": [],
-        "genre": [],
+        "genre": [
+          {
+            "id": 4,
+            "order": "4.00000000000000000000",
+            "genre": "Chronik",
+            "hit_id": "hit_genres__4",
+            "main_genre": [
+              {
+                "id": 5,
+                "order": "5.00000000000000000000",
+                "genre": "Historiographie",
+                "hit_id": "hit_genres__5",
+                "main_genre": [],
+                "Created by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Created on": "2024-07-11",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "Created by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Created on": "2024-07-02",
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
         "note_source": null,
         "Created by": {
           "id": 87,
@@ -66368,10 +66827,10 @@
         },
         "Created on": "2024-06-17",
         "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
+          "id": 87,
+          "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-18"
+        "Last modified": "2024-10-22"
       }
     ],
     "title_note": "",

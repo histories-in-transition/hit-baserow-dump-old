@@ -2,11 +2,35 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "name": "Willihalm und seine bayerische Schüler",
+    "name": "Willihalms bayerische Schüler",
     "hit_id": "hit_scribes__1",
-    "description": "Gruppe Willihalm und seine bayerische Schüler",
+    "description": "Jüngere Generation der Schreiber,  die scheinen unter dem Einfluss Williahms, eines Schreibers der Dombibliothek, gewachsen zu sein. Feine, zügige Stil. Mehrere Ligaturen und Verkürzungen.",
     "group": true,
     "hands": [
+      {
+        "id": 83,
+        "value": "BSB, Clm. 6380_H. 1"
+      },
+      {
+        "id": 84,
+        "value": "BSB, Clm. 6380_H. 2"
+      },
+      {
+        "id": 85,
+        "value": "BSB, Clm. 6380_H. 3"
+      },
+      {
+        "id": 86,
+        "value": "BSB, Clm. 6380_H. 4"
+      },
+      {
+        "id": 87,
+        "value": "BSB, Clm. 6380_H. 5"
+      },
+      {
+        "id": 88,
+        "value": "BSB, Clm. 6380_H. 6"
+      },
       {
         "id": 89,
         "value": "BSB, Clm. 6380_H. 7"
@@ -19,12 +43,54 @@
           "database_table_3488": 4
         },
         "value": "BSB, Clm. 6380_H. 7"
+      },
+      {
+        "ids": {
+          "database_table_3487": 7,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6380_H. 1"
+      },
+      {
+        "ids": {
+          "database_table_3487": 7,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6380_H. 2"
+      },
+      {
+        "ids": {
+          "database_table_3487": 7,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6380_H. 3"
+      },
+      {
+        "ids": {
+          "database_table_3487": 7,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6380_H. 4"
+      },
+      {
+        "ids": {
+          "database_table_3487": 7,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6380_H. 5"
+      },
+      {
+        "ids": {
+          "database_table_3487": 7,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6380_H. 6"
       }
     ],
-    "Last modified": "2024-09-20",
+    "Last modified": "2024-10-22",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     }
   },
   "2": {

@@ -648,5 +648,111 @@
       "id": 87,
       "name": "Ksenia Borisova"
     }
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "hit_id": "hit_hands_placed__24",
+    "hand": [
+      {
+        "id": 19,
+        "value": "BSB, Clm. 6326_H. 1"
+      }
+    ],
+    "authority": [
+      {
+        "id": 6,
+        "value": "Daniel, N."
+      }
+    ],
+    "page": "155",
+    "place": [
+      {
+        "id": 4,
+        "value": "Freising"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "hit_id": "hit_hands_placed__25",
+    "hand": [
+      {
+        "id": 20,
+        "value": "BSB, Clm. 6326_H. 2"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "hit_id": "hit_hands_placed__26",
+    "hand": [
+      {
+        "id": 83,
+        "value": "BSB, Clm. 6380_H. 1"
+      },
+      {
+        "id": 84,
+        "value": "BSB, Clm. 6380_H. 2"
+      },
+      {
+        "id": 85,
+        "value": "BSB, Clm. 6380_H. 3"
+      },
+      {
+        "id": 86,
+        "value": "BSB, Clm. 6380_H. 4"
+      },
+      {
+        "id": 87,
+        "value": "BSB, Clm. 6380_H. 5"
+      },
+      {
+        "id": 88,
+        "value": "BSB, Clm. 6380_H. 6"
+      },
+      {
+        "id": 89,
+        "value": "BSB, Clm. 6380_H. 7"
+      },
+      {
+        "id": 90,
+        "value": "BSB, Clm. 6380_H. 8"
+      },
+      {
+        "id": 91,
+        "value": "BSB, Clm. 6380_H. 9"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ],
+    "page": "147",
+    "place": [
+      {
+        "id": 4,
+        "value": "Freising"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   }
 }

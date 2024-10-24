@@ -1507,5 +1507,187 @@
       "id": 87,
       "name": "Ksenia Borisova"
     }
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "hit_id": "hit_hands_placed__24",
+    "hand": [
+      {
+        "id": 19,
+        "value": "BSB, Clm. 6326_H. 1"
+      }
+    ],
+    "authority": [
+      {
+        "id": 6,
+        "order": "6.00000000000000000000",
+        "name": "Daniel, N.",
+        "short_title": "Handschriften des zehnten Jahrhunderts aus der Freisinger Dombibliothek",
+        "zotero_id": ""
+      }
+    ],
+    "page": "155",
+    "place": [
+      {
+        "id": 4,
+        "order": "4.00000000000000000000",
+        "name": "Freising",
+        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+        "hit_id": "hit_place__4",
+        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+        "country": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Created by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Created on": "2024-06-05",
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Created on": "2024-06-13",
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "hit_id": "hit_hands_placed__25",
+    "hand": [
+      {
+        "id": 20,
+        "value": "BSB, Clm. 6326_H. 2"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "hit_id": "hit_hands_placed__26",
+    "hand": [
+      {
+        "id": 83,
+        "value": "BSB, Clm. 6380_H. 1"
+      },
+      {
+        "id": 84,
+        "value": "BSB, Clm. 6380_H. 2"
+      },
+      {
+        "id": 85,
+        "value": "BSB, Clm. 6380_H. 3"
+      },
+      {
+        "id": 86,
+        "value": "BSB, Clm. 6380_H. 4"
+      },
+      {
+        "id": 87,
+        "value": "BSB, Clm. 6380_H. 5"
+      },
+      {
+        "id": 88,
+        "value": "BSB, Clm. 6380_H. 6"
+      },
+      {
+        "id": 89,
+        "value": "BSB, Clm. 6380_H. 7"
+      },
+      {
+        "id": 90,
+        "value": "BSB, Clm. 6380_H. 8"
+      },
+      {
+        "id": 91,
+        "value": "BSB, Clm. 6380_H. 9"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "order": "2.00000000000000000000",
+        "name": "Bischoff",
+        "short_title": "Die südostdeutschen Schreibschulen und Bibliotheken in der Karolingerzeit",
+        "zotero_id": ""
+      }
+    ],
+    "page": "147",
+    "place": [
+      {
+        "id": 4,
+        "order": "4.00000000000000000000",
+        "name": "Freising",
+        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+        "hit_id": "hit_place__4",
+        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+        "country": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Created by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Created on": "2024-06-05",
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Created on": "2024-06-13",
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   }
 }

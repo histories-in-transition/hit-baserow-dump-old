@@ -679,7 +679,18 @@
         "value": "Clm. 6326, Stratum 1"
       }
     ],
-    "character": [],
+    "character": [
+      {
+        "id": 14761,
+        "value": "base",
+        "color": "yellow"
+      },
+      {
+        "id": 14764,
+        "value": "correction",
+        "color": "blue"
+      }
+    ],
     "manuscript": [
       {
         "id": 5,
@@ -688,8 +699,77 @@
     ],
     "number": "1",
     "hit_id": "hit_strata__3",
-    "hand_role": [],
-    "ms_items": [],
+    "hand_role": [
+      {
+        "id": 121,
+        "value": "hit_hands_role__121"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 17,
+          "database_table_3491": 18
+        },
+        "value": "Vita sancti Martini"
+      },
+      {
+        "ids": {
+          "database_table_3489": 18,
+          "database_table_3491": 19
+        },
+        "value": "Epistulae"
+      },
+      {
+        "ids": {
+          "database_table_3489": 19,
+          "database_table_3491": 20
+        },
+        "value": "Dialogi"
+      },
+      {
+        "ids": {
+          "database_table_3489": 21,
+          "database_table_3491": 23
+        },
+        "value": "Tituli metrici de sancto Martino"
+      },
+      {
+        "ids": {
+          "database_table_3489": 22,
+          "database_table_3491": 79
+        },
+        "value": "De basilica sancti Martini et sollemnitatibus"
+      },
+      {
+        "ids": {
+          "database_table_3489": 74,
+          "database_table_3491": 22
+        },
+        "value": "Vita sancti Bricii"
+      },
+      {
+        "ids": {
+          "database_table_3489": 23,
+          "database_table_3491": 24
+        },
+        "value": "Confessio sancti Martini"
+      },
+      {
+        "ids": {
+          "database_table_3489": 24,
+          "database_table_3491": 25
+        },
+        "value": "Miraculum de puella ab ortu nativitatis suae muta et surda"
+      },
+      {
+        "ids": {
+          "database_table_3489": 60,
+          "database_table_3491": 21
+        },
+        "value": "Miracula sancti Martini"
+      }
+    ],
     "quires": [
       {
         "id": 6,
@@ -764,8 +844,45 @@
         "value": "BSB, Clm. 6326, L. 17"
       }
     ],
-    "locus": [],
-    "note": "Hauptstratum, umfasst das ganze Codex, außer Annotationen",
+    "locus": [
+      {
+        "id": 18,
+        "value": "1r-32r"
+      },
+      {
+        "id": 19,
+        "value": "32v-45r"
+      },
+      {
+        "id": 20,
+        "value": "45v-117v"
+      },
+      {
+        "id": 21,
+        "value": "117v-122r"
+      },
+      {
+        "id": 22,
+        "value": "122r-125r"
+      },
+      {
+        "id": 23,
+        "value": "125r-129r"
+      },
+      {
+        "id": 79,
+        "value": "129v"
+      },
+      {
+        "id": 24,
+        "value": "129rv-130v"
+      },
+      {
+        "id": 25,
+        "value": "130v-133r"
+      }
+    ],
+    "note": "Hauptstratum, umfasst das ganze Codex, außer Korrekturen. Entweder ein oder zwei Hauptschreiber, die zusammen arbeiten.",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -775,7 +892,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-17"
+    "Last modified": "2024-10-23"
   },
   "6": {
     "id": 6,
@@ -1616,7 +1733,13 @@
         "value": "Clm. 6326, Stratum 2"
       }
     ],
-    "character": [],
+    "character": [
+      {
+        "id": 14764,
+        "value": "correction",
+        "color": "blue"
+      }
+    ],
     "manuscript": [
       {
         "id": 5,
@@ -1625,11 +1748,40 @@
     ],
     "number": "2",
     "hit_id": "hit_strata__18",
-    "hand_role": [],
-    "ms_items": [],
+    "hand_role": [
+      {
+        "id": 153,
+        "value": "hit_hands_role__153"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 17,
+          "database_table_3491": 18
+        },
+        "value": "Vita sancti Martini"
+      },
+      {
+        "ids": {
+          "database_table_3489": 60,
+          "database_table_3491": 21
+        },
+        "value": "Miracula sancti Martini"
+      }
+    ],
     "quires": [],
-    "locus": [],
-    "note": "Annotationen zu Vita sancti Martini",
+    "locus": [
+      {
+        "id": 18,
+        "value": "1r-32r"
+      },
+      {
+        "id": 21,
+        "value": "117v-122r"
+      }
+    ],
+    "note": "Korrekturen meistens zu Vita sancti Martini",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -1639,6 +1791,303 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-17"
+    "Last modified": "2024-10-23"
+  },
+  "19": {
+    "id": 19,
+    "order": "16.00000000000000000000",
+    "label": [
+      {
+        "id": 8,
+        "value": "Clm. 6375, Stratum 1"
+      }
+    ],
+    "character": [
+      {
+        "id": 14761,
+        "value": "base",
+        "color": "yellow"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 8,
+        "value": "BSB, Clm. 6375"
+      }
+    ],
+    "number": "1",
+    "hit_id": "hit_strata__19",
+    "hand_role": [
+      {
+        "id": 139,
+        "value": "hit_hands_role__139"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 25,
+          "database_table_3491": 26
+        },
+        "value": "De orthographia"
+      },
+      {
+        "ids": {
+          "database_table_3489": 25,
+          "database_table_3491": 29
+        },
+        "value": "De orthographia"
+      },
+      {
+        "ids": {
+          "database_table_3489": 26,
+          "database_table_3491": 27
+        },
+        "value": "Corpus juris civilis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 29,
+          "database_table_3491": 28
+        },
+        "value": "Historia ecclesiastica cum Rufini continuatione"
+      }
+    ],
+    "quires": [],
+    "locus": [
+      {
+        "id": 26,
+        "value": "1r"
+      },
+      {
+        "id": 27,
+        "value": "1v-2v"
+      },
+      {
+        "id": 28,
+        "value": "2v-227r"
+      },
+      {
+        "id": 29,
+        "value": "227v"
+      }
+    ],
+    "note": "Hauptstratum von einer Hand, abgeschrieben von einem voraussichtlich Merowingischen Protograph.",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-10-23",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-23"
+  },
+  "20": {
+    "id": 20,
+    "order": "17.00000000000000000000",
+    "label": [
+      {
+        "id": 8,
+        "value": "Clm. 6375, Stratum 2"
+      }
+    ],
+    "character": [
+      {
+        "id": 14764,
+        "value": "correction",
+        "color": "blue"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 8,
+        "value": "BSB, Clm. 6375"
+      }
+    ],
+    "number": "2",
+    "hit_id": "hit_strata__20",
+    "hand_role": [
+      {
+        "id": 129,
+        "value": "hit_hands_role__129"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 29,
+          "database_table_3491": 28
+        },
+        "value": "Historia ecclesiastica cum Rufini continuatione"
+      }
+    ],
+    "quires": [],
+    "locus": [
+      {
+        "id": 28,
+        "value": "2v-227r"
+      }
+    ],
+    "note": "Korrekturen",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-10-23",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-23"
+  },
+  "21": {
+    "id": 21,
+    "order": "18.00000000000000000000",
+    "label": [
+      {
+        "id": 7,
+        "value": "Clm. 6380, Stratum 1"
+      }
+    ],
+    "character": [
+      {
+        "id": 14761,
+        "value": "base",
+        "color": "yellow"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 7,
+        "value": "BSB, Clm. 6380"
+      }
+    ],
+    "number": "1",
+    "hit_id": "hit_strata__21",
+    "hand_role": [
+      {
+        "id": 125,
+        "value": "hit_hands_role__125"
+      },
+      {
+        "id": 128,
+        "value": "hit_hands_role__128"
+      },
+      {
+        "id": 131,
+        "value": "hit_hands_role__131"
+      },
+      {
+        "id": 132,
+        "value": "hit_hands_role__132"
+      },
+      {
+        "id": 133,
+        "value": "hit_hands_role__133"
+      },
+      {
+        "id": 134,
+        "value": "hit_hands_role__134"
+      },
+      {
+        "id": 135,
+        "value": "hit_hands_role__135"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 31
+        },
+        "value": "Historiae adversus paganos"
+      },
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 31
+        },
+        "value": "Historiae adversus paganos"
+      },
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 31
+        },
+        "value": "Historiae adversus paganos"
+      },
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 31
+        },
+        "value": "Historiae adversus paganos"
+      },
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 31
+        },
+        "value": "Historiae adversus paganos"
+      },
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 31
+        },
+        "value": "Historiae adversus paganos"
+      },
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 31
+        },
+        "value": "Historiae adversus paganos"
+      }
+    ],
+    "quires": [],
+    "locus": [
+      {
+        "id": 31,
+        "value": "1r-102r"
+      },
+      {
+        "id": 31,
+        "value": "1r-102r"
+      },
+      {
+        "id": 31,
+        "value": "1r-102r"
+      },
+      {
+        "id": 31,
+        "value": "1r-102r"
+      },
+      {
+        "id": 31,
+        "value": "1r-102r"
+      },
+      {
+        "id": 31,
+        "value": "1r-102r"
+      },
+      {
+        "id": 31,
+        "value": "1r-102r"
+      }
+    ],
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-10-23",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-23"
   }
 }

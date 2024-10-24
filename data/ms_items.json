@@ -1529,7 +1529,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "68": {
     "id": 68,
@@ -3067,7 +3069,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "10": {
     "id": 10,
@@ -4710,7 +4714,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "5": {
     "id": 5,
@@ -6492,7 +6498,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "12": {
     "id": 12,
@@ -8184,7 +8192,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "7": {
     "id": 7,
@@ -9771,7 +9781,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "13": {
     "id": 13,
@@ -11407,7 +11419,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "8": {
     "id": 8,
@@ -13138,7 +13152,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "11": {
     "id": 11,
@@ -14388,7 +14404,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "69": {
     "id": 69,
@@ -15521,7 +15539,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "14": {
     "id": 14,
@@ -15941,7 +15961,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "15": {
     "id": 15,
@@ -16408,7 +16430,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "72": {
     "id": 72,
@@ -16828,7 +16852,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "73": {
     "id": 73,
@@ -17248,7 +17274,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "75": {
     "id": 75,
@@ -17885,7 +17913,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "77": {
     "id": 77,
@@ -18530,7 +18560,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "17": {
     "id": 17,
@@ -19018,8 +19050,14 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-07-16",
-        "Last modified": "2024-09-18",
-        "locus_layout": [],
+        "Last modified": "2024-10-23",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
         "function": []
       },
       {
@@ -19075,9 +19113,36 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-07-16",
-        "Last modified": "2024-09-18",
-        "locus_layout": [],
-        "function": []
+        "Last modified": "2024-10-23",
+        "locus_layout": [
+          {
+            "id": 15097,
+            "value": "interlinear",
+            "color": "darker-pink"
+          },
+          {
+            "id": 15380,
+            "value": "beidseitig",
+            "color": "darker-orange"
+          }
+        ],
+        "function": [
+          {
+            "id": 15836,
+            "value": "inhaltsbezogen",
+            "color": "darker-orange"
+          },
+          {
+            "id": 15098,
+            "value": "grammatikalisch",
+            "color": "green"
+          },
+          {
+            "id": 16045,
+            "value": "Glossen",
+            "color": "dark-cyan"
+          }
+        ]
       },
       {
         "id": 142,
@@ -19132,9 +19197,31 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-09-18",
-        "Last modified": "2024-09-18",
-        "locus_layout": [],
-        "function": []
+        "Last modified": "2024-10-23",
+        "locus_layout": [
+          {
+            "id": 15097,
+            "value": "interlinear",
+            "color": "darker-pink"
+          },
+          {
+            "id": 15380,
+            "value": "beidseitig",
+            "color": "darker-orange"
+          }
+        ],
+        "function": [
+          {
+            "id": 15836,
+            "value": "inhaltsbezogen",
+            "color": "darker-orange"
+          },
+          {
+            "id": 15098,
+            "value": "grammatikalisch",
+            "color": "green"
+          }
+        ]
       }
     ],
     "cod_unit": [
@@ -20809,7 +20896,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "18": {
     "id": 18,
@@ -21478,6 +21567,95 @@
         "Last modified": "2024-09-04",
         "locus_layout": [],
         "function": []
+      },
+      {
+        "id": 153,
+        "order": "139.00000000000000000000",
+        "hit_id": "hit_hands_role__153",
+        "hand": [
+          {
+            "id": 20,
+            "value": "BSB, Clm. 6326_H. 2"
+          }
+        ],
+        "ms_item": [
+          {
+            "id": 18,
+            "value": "clm_6326__18"
+          },
+          {
+            "id": 21,
+            "value": "clm_6326__21"
+          }
+        ],
+        "role": [
+          {
+            "id": 14760,
+            "value": "corrector",
+            "color": "darker-yellow"
+          }
+        ],
+        "locus": "Durchausgehend",
+        "text": [
+          {
+            "ids": {
+              "database_table_3489": 17,
+              "database_table_3491": 18
+            },
+            "value": "Vita sancti Martini"
+          },
+          {
+            "ids": {
+              "database_table_3489": 60,
+              "database_table_3491": 21
+            },
+            "value": "Miracula sancti Martini"
+          }
+        ],
+        "locus_text": [
+          {
+            "id": 18,
+            "value": "1r-32r"
+          },
+          {
+            "id": 21,
+            "value": "117v-122r"
+          }
+        ],
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Created on": "2024-10-23",
+        "Last modified": "2024-10-23",
+        "locus_layout": [
+          {
+            "id": 15097,
+            "value": "interlinear",
+            "color": "darker-pink"
+          },
+          {
+            "id": 15381,
+            "value": "marginal oben",
+            "color": "darker-gray"
+          }
+        ],
+        "function": [
+          {
+            "id": 15098,
+            "value": "grammatikalisch",
+            "color": "green"
+          },
+          {
+            "id": 15836,
+            "value": "inhaltsbezogen",
+            "color": "darker-orange"
+          }
+        ]
       }
     ],
     "cod_unit": [
@@ -22987,10 +23165,19 @@
           "database_table_3488": 4
         },
         "value": "BSB, Clm. 6326_H. 1"
+      },
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6326_H. 2"
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "19": {
     "id": 19,
@@ -25112,7 +25299,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "20": {
     "id": 20,
@@ -27234,7 +27423,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "21": {
     "id": 21,
@@ -27906,6 +28097,95 @@
         "Last modified": "2024-09-04",
         "locus_layout": [],
         "function": []
+      },
+      {
+        "id": 153,
+        "order": "139.00000000000000000000",
+        "hit_id": "hit_hands_role__153",
+        "hand": [
+          {
+            "id": 20,
+            "value": "BSB, Clm. 6326_H. 2"
+          }
+        ],
+        "ms_item": [
+          {
+            "id": 18,
+            "value": "clm_6326__18"
+          },
+          {
+            "id": 21,
+            "value": "clm_6326__21"
+          }
+        ],
+        "role": [
+          {
+            "id": 14760,
+            "value": "corrector",
+            "color": "darker-yellow"
+          }
+        ],
+        "locus": "Durchausgehend",
+        "text": [
+          {
+            "ids": {
+              "database_table_3489": 17,
+              "database_table_3491": 18
+            },
+            "value": "Vita sancti Martini"
+          },
+          {
+            "ids": {
+              "database_table_3489": 60,
+              "database_table_3491": 21
+            },
+            "value": "Miracula sancti Martini"
+          }
+        ],
+        "locus_text": [
+          {
+            "id": 18,
+            "value": "1r-32r"
+          },
+          {
+            "id": 21,
+            "value": "117v-122r"
+          }
+        ],
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Created on": "2024-10-23",
+        "Last modified": "2024-10-23",
+        "locus_layout": [
+          {
+            "id": 15097,
+            "value": "interlinear",
+            "color": "darker-pink"
+          },
+          {
+            "id": 15381,
+            "value": "marginal oben",
+            "color": "darker-gray"
+          }
+        ],
+        "function": [
+          {
+            "id": 15098,
+            "value": "grammatikalisch",
+            "color": "green"
+          },
+          {
+            "id": 15836,
+            "value": "inhaltsbezogen",
+            "color": "darker-orange"
+          }
+        ]
       }
     ],
     "cod_unit": [
@@ -29408,10 +29688,19 @@
           "database_table_3488": 4
         },
         "value": "BSB, Clm. 6326_H. 1"
+      },
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6326_H. 2"
       }
     ],
     "decoration": [],
-    "facs_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00006546_00237/full/472,/0/default.jpg"
+    "facs_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00006546_00237/full/472,/0/default.jpg",
+    "form": [],
+    "form_note": null
   },
   "22": {
     "id": 22,
@@ -31583,7 +31872,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "23": {
     "id": 23,
@@ -33705,7 +33996,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "79": {
     "id": 79,
@@ -35877,7 +36170,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "24": {
     "id": 24,
@@ -37993,7 +38288,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "25": {
     "id": 25,
@@ -40052,7 +40349,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "26": {
     "id": 26,
@@ -40509,7 +40808,7 @@
             "color": "darker-red"
           }
         ],
-        "locus": "",
+        "locus": "1r-227v",
         "text": [
           {
             "ids": {
@@ -40567,8 +40866,14 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-09-04",
-        "Last modified": "2024-09-04",
-        "locus_layout": [],
+        "Last modified": "2024-10-23",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
         "function": []
       }
     ],
@@ -40671,7 +40976,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "27": {
     "id": 27,
@@ -41128,7 +41435,7 @@
             "color": "darker-red"
           }
         ],
-        "locus": "",
+        "locus": "1r-227v",
         "text": [
           {
             "ids": {
@@ -41186,8 +41493,14 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-09-04",
-        "Last modified": "2024-09-04",
-        "locus_layout": [],
+        "Last modified": "2024-10-23",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
         "function": []
       }
     ],
@@ -41290,7 +41603,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "28": {
     "id": 28,
@@ -41824,9 +42139,15 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-09-03",
-        "Last modified": "2024-09-04",
+        "Last modified": "2024-10-23",
         "locus_layout": [],
-        "function": []
+        "function": [
+          {
+            "id": 15098,
+            "value": "grammatikalisch",
+            "color": "green"
+          }
+        ]
       },
       {
         "id": 139,
@@ -41863,7 +42184,7 @@
             "color": "darker-red"
           }
         ],
-        "locus": "",
+        "locus": "1r-227v",
         "text": [
           {
             "ids": {
@@ -41921,8 +42242,14 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-09-04",
-        "Last modified": "2024-09-04",
-        "locus_layout": [],
+        "Last modified": "2024-10-23",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
         "function": []
       }
     ],
@@ -42032,7 +42359,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "29": {
     "id": 29,
@@ -42489,7 +42818,7 @@
             "color": "darker-red"
           }
         ],
-        "locus": "",
+        "locus": "1r-227v",
         "text": [
           {
             "ids": {
@@ -42547,8 +42876,14 @@
           "name": "Ksenia Borisova"
         },
         "Created on": "2024-09-04",
-        "Last modified": "2024-09-04",
-        "locus_layout": [],
+        "Last modified": "2024-10-23",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
         "function": []
       }
     ],
@@ -42651,7 +42986,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "30": {
     "id": 30,
@@ -42980,7 +43317,7 @@
         "content_summary": null
       }
     ],
-    "incipit": "Vtiliter nimis in capite libri praefatio ponitur…",
+    "incipit": "Utiliter nimis in capite libri praefatio ponitur…",
     "explicit": "consulatu septies decies(scil. decimo septimo) imperatoris Theodosii. Percontuli.",
     "rubric": "Praefatio senatoris serui dei",
     "title_work": [
@@ -43169,7 +43506,7 @@
         "date": []
       }
     ],
-    "Last modified": "2024-09-27",
+    "Last modified": "2024-10-23",
     "Created on": "2024-07-08",
     "Created by": {
       "id": 87,
@@ -43182,7 +43519,9 @@
     "note": null,
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "31": {
     "id": 31,
@@ -43447,7 +43786,7 @@
         "content_summary": null
       }
     ],
-    "incipit": "Dictvrvs igitvr…",
+    "incipit": "Dicturus igitvr…",
     "explicit": "",
     "rubric": "Prologvs Orosii de tripert[it] a mvndi divisione",
     "title_work": [
@@ -43921,6 +44260,52 @@
         "Last modified": "2024-09-04",
         "locus_layout": [],
         "function": []
+      },
+      {
+        "id": 146,
+        "order": "132.00000000000000000000",
+        "hit_id": "hit_hands_role__146",
+        "hand": [
+          {
+            "id": 90,
+            "value": "BSB, Clm. 6380_H. 8"
+          }
+        ],
+        "ms_item": [
+          {
+            "id": 31,
+            "value": "clm_6380__31"
+          }
+        ],
+        "role": [],
+        "locus": "",
+        "text": [
+          {
+            "ids": {
+              "database_table_3489": 3,
+              "database_table_3491": 31
+            },
+            "value": "Historiae adversus paganos"
+          }
+        ],
+        "locus_text": [
+          {
+            "id": 31,
+            "value": "1r-102r"
+          }
+        ],
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Created on": "2024-09-19",
+        "Last modified": "2024-10-23",
+        "locus_layout": [],
+        "function": []
       }
     ],
     "cod_unit": [
@@ -44001,7 +44386,7 @@
         "date": []
       }
     ],
-    "Last modified": "2024-09-27",
+    "Last modified": "2024-10-23",
     "Created on": "2024-07-08",
     "Created by": {
       "id": 87,
@@ -44061,10 +44446,30 @@
           "database_table_3488": 4
         },
         "value": "BSB, Clm. 6380_H. 7"
+      },
+      {
+        "ids": {
+          "database_table_3487": 7,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6380_H. 8"
       }
     ],
-    "decoration": [],
-    "facs_url": ""
+    "decoration": [
+      {
+        "id": 15101,
+        "value": "Capitalis_Farbe",
+        "color": "darker-green"
+      },
+      {
+        "id": 15102,
+        "value": "Capitalis_Rot",
+        "color": "darker-red"
+      }
+    ],
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "32": {
     "id": 32,
@@ -44514,7 +44919,7 @@
         "date": []
       }
     ],
-    "Last modified": "2024-09-27",
+    "Last modified": "2024-10-23",
     "Created on": "2024-07-09",
     "Created by": {
       "id": 87,
@@ -44534,8 +44939,21 @@
         "value": "BSB, Clm. 6380_H. 8"
       }
     ],
-    "decoration": [],
-    "facs_url": ""
+    "decoration": [
+      {
+        "id": 15101,
+        "value": "Capitalis_Farbe",
+        "color": "darker-green"
+      },
+      {
+        "id": 15102,
+        "value": "Capitalis_Rot",
+        "color": "darker-red"
+      }
+    ],
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "33": {
     "id": 33,
@@ -45270,7 +45688,7 @@
         "date": []
       }
     ],
-    "Last modified": "2024-09-27",
+    "Last modified": "2024-10-23",
     "Created on": "2024-07-09",
     "Created by": {
       "id": 87,
@@ -45298,7 +45716,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "34": {
     "id": 34,
@@ -45972,7 +46392,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "35": {
     "id": 35,
@@ -46717,7 +47139,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "36": {
     "id": 36,
@@ -47430,7 +47854,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "37": {
     "id": 37,
@@ -48151,7 +48577,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "38": {
     "id": 38,
@@ -48896,7 +49324,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "39": {
     "id": 39,
@@ -49570,7 +50000,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "40": {
     "id": 40,
@@ -50283,7 +50715,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "41": {
     "id": 41,
@@ -51028,7 +51462,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "42": {
     "id": 42,
@@ -51702,7 +52138,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "43": {
     "id": 43,
@@ -52358,7 +52796,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "44": {
     "id": 44,
@@ -52951,7 +53391,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "45": {
     "id": 45,
@@ -53562,7 +54004,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "46": {
     "id": 46,
@@ -54217,7 +54661,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "47": {
     "id": 47,
@@ -54790,7 +55236,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "48": {
     "id": 48,
@@ -55435,7 +55883,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "49": {
     "id": 49,
@@ -55949,7 +56399,9 @@
     "note": null,
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "50": {
     "id": 50,
@@ -56455,7 +56907,9 @@
     "note": null,
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "51": {
     "id": 51,
@@ -56904,7 +57358,9 @@
     "note": null,
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "52": {
     "id": 52,
@@ -57608,7 +58064,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "53": {
     "id": 53,
@@ -58075,7 +58533,9 @@
     "note": null,
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "54": {
     "id": 54,
@@ -58541,7 +59001,9 @@
     "note": null,
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "55": {
     "id": 55,
@@ -59021,7 +59483,9 @@
     "note": null,
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "56": {
     "id": 56,
@@ -59499,7 +59963,9 @@
     "note": null,
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "57": {
     "id": 57,
@@ -59977,7 +60443,9 @@
     "note": null,
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "58": {
     "id": 58,
@@ -60455,7 +60923,9 @@
     "note": null,
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "59": {
     "id": 59,
@@ -60909,7 +61379,9 @@
     "note": null,
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "60": {
     "id": 60,
@@ -61422,7 +61894,9 @@
     "note": null,
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "61": {
     "id": 61,
@@ -61943,7 +62417,9 @@
     "note": null,
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "62": {
     "id": 62,
@@ -62464,7 +62940,9 @@
     "note": null,
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "63": {
     "id": 63,
@@ -62976,7 +63454,9 @@
     "note": null,
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "64": {
     "id": 64,
@@ -63478,7 +63958,9 @@
     "note": null,
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "65": {
     "id": 65,
@@ -63980,7 +64462,9 @@
     "note": null,
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "66": {
     "id": 66,
@@ -64492,7 +64976,9 @@
     "note": null,
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "67": {
     "id": 67,
@@ -64525,7 +65011,9 @@
     "note": null,
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "70": {
     "id": 70,
@@ -64558,7 +65046,9 @@
     "note": null,
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "71": {
     "id": 71,
@@ -64591,7 +65081,9 @@
     "note": null,
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "74": {
     "id": 74,
@@ -64624,7 +65116,9 @@
     "note": null,
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "76": {
     "id": 76,
@@ -66460,7 +66954,9 @@
     "note": null,
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "80": {
     "id": 80,
@@ -67329,7 +67825,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "81": {
     "id": 81,
@@ -68873,7 +69371,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "82": {
     "id": 82,
@@ -70417,7 +70917,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "83": {
     "id": 83,
@@ -71463,7 +71965,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": "http://vb.uni-wuerzburg.de/ub/books/mpthf46/folio-std/DE-20__M_p_th_f_46__0195__0098r.jpg"
+    "facs_url": "http://vb.uni-wuerzburg.de/ub/books/mpthf46/folio-std/DE-20__M_p_th_f_46__0195__0098r.jpg",
+    "form": [],
+    "form_note": null
   },
   "84": {
     "id": 84,
@@ -72532,7 +73036,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "85": {
     "id": 85,
@@ -74127,7 +74633,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "86": {
     "id": 86,
@@ -74545,7 +75053,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "87": {
     "id": 87,
@@ -75021,7 +75531,9 @@
     "note": "Fragment",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "88": {
     "id": 88,
@@ -75410,7 +75922,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "89": {
     "id": 89,
@@ -75799,7 +76313,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "114": {
     "id": 114,
@@ -77999,7 +78515,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "90": {
     "id": 90,
@@ -80105,7 +80623,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "91": {
     "id": 91,
@@ -80138,7 +80658,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "100": {
     "id": 100,
@@ -82249,7 +82771,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "93": {
     "id": 93,
@@ -84355,7 +84879,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "92": {
     "id": 92,
@@ -86466,7 +86992,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "94": {
     "id": 94,
@@ -86499,7 +87027,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "95": {
     "id": 95,
@@ -86532,7 +87062,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "96": {
     "id": 96,
@@ -86565,7 +87097,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "97": {
     "id": 97,
@@ -86598,7 +87132,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "98": {
     "id": 98,
@@ -86631,7 +87167,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "99": {
     "id": 99,
@@ -86664,7 +87202,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "102": {
     "id": 102,
@@ -88793,7 +89333,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "121": {
     "id": 121,
@@ -90976,7 +91518,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "103": {
     "id": 103,
@@ -93100,7 +93644,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "104": {
     "id": 104,
@@ -95359,7 +95905,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "106": {
     "id": 106,
@@ -95392,7 +95940,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "108": {
     "id": 108,
@@ -95425,7 +95975,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "110": {
     "id": 110,
@@ -97531,7 +98083,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "112": {
     "id": 112,
@@ -99637,7 +100191,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "113": {
     "id": 113,
@@ -101944,7 +102500,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "115": {
     "id": 115,
@@ -101977,7 +102535,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "116": {
     "id": 116,
@@ -104083,7 +104643,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "117": {
     "id": 117,
@@ -106252,7 +106814,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "119": {
     "id": 119,
@@ -106887,7 +107451,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "120": {
     "id": 120,
@@ -108993,7 +109559,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "139": {
     "id": 139,
@@ -109510,7 +110078,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "179": {
     "id": 179,
@@ -109871,7 +110441,7 @@
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
-    "hit_id": null,
+    "hit_id": "hit_ms_items__179",
     "filiation": [],
     "locus_grp": "1r-98v",
     "hands_role": [
@@ -110027,7 +110597,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "122": {
     "id": 122,
@@ -110483,7 +111055,9 @@
     "note": "3-4 Hände",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "123": {
     "id": 123,
@@ -111024,7 +111598,9 @@
         "color": "darker-red"
       }
     ],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "124": {
     "id": 124,
@@ -111598,7 +112174,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "125": {
     "id": 125,
@@ -112191,7 +112769,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "126": {
     "id": 126,
@@ -112623,7 +113203,9 @@
     "note": "Diverse historiog. Annotationen TBD",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "140": {
     "id": 140,
@@ -113079,7 +113661,9 @@
     "note": "TBD",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "127": {
     "id": 127,
@@ -113602,7 +114186,9 @@
         "color": "darker-red"
       }
     ],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "128": {
     "id": 128,
@@ -114178,7 +114764,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "141": {
     "id": 141,
@@ -114713,7 +115301,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "129": {
     "id": 129,
@@ -115248,7 +115838,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "130": {
     "id": 130,
@@ -115894,7 +116486,9 @@
         "color": "darker-red"
       }
     ],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "131": {
     "id": 131,
@@ -117332,7 +117926,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "133": {
     "id": 133,
@@ -117788,7 +118384,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "134": {
     "id": 134,
@@ -118244,7 +118842,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "132": {
     "id": 132,
@@ -118803,7 +119403,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "135": {
     "id": 135,
@@ -119326,7 +119928,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "136": {
     "id": 136,
@@ -119359,7 +119963,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "137": {
     "id": 137,
@@ -119947,7 +120553,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "144": {
     "id": 144,
@@ -120403,7 +121011,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "138": {
     "id": 138,
@@ -121156,7 +121766,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "142": {
     "id": 142,
@@ -121189,7 +121801,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "160": {
     "id": 160,
@@ -121550,7 +122164,7 @@
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
-    "hit_id": null,
+    "hit_id": "hit_ms_items__160",
     "filiation": [],
     "locus_grp": "36r",
     "hands_role": [],
@@ -121568,7 +122182,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "145": {
     "id": 145,
@@ -122055,7 +122671,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "146": {
     "id": 146,
@@ -122542,7 +123160,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "187": {
     "id": 187,
@@ -122974,7 +123594,7 @@
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
-    "hit_id": null,
+    "hit_id": "hit_ms_items__187",
     "filiation": [],
     "locus_grp": "41v",
     "hands_role": [],
@@ -122992,7 +123612,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "188": {
     "id": 188,
@@ -123353,7 +123975,7 @@
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
-    "hit_id": null,
+    "hit_id": "hit_ms_items__188",
     "filiation": [],
     "locus_grp": "41v",
     "hands_role": [],
@@ -123371,7 +123993,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "186": {
     "id": 186,
@@ -123789,7 +124413,7 @@
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
-    "hit_id": null,
+    "hit_id": "hit_ms_items__186",
     "filiation": [],
     "locus_grp": "41v",
     "hands_role": [],
@@ -123807,7 +124431,9 @@
     "note": "Später hinzugefügt.",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "147": {
     "id": 147,
@@ -124192,7 +124818,9 @@
         "color": "darker-red"
       }
     ],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "148": {
     "id": 148,
@@ -124638,7 +125266,9 @@
         "color": "darker-red"
       }
     ],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "161": {
     "id": 161,
@@ -124999,7 +125629,7 @@
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
-    "hit_id": null,
+    "hit_id": "hit_ms_items__161",
     "filiation": [],
     "locus_grp": "93r",
     "hands_role": [],
@@ -125017,7 +125647,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "180": {
     "id": 180,
@@ -125435,7 +126067,7 @@
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
-    "hit_id": null,
+    "hit_id": "hit_ms_items__180",
     "filiation": [],
     "locus_grp": "93r",
     "hands_role": [],
@@ -125453,7 +126085,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "149": {
     "id": 149,
@@ -125832,7 +126466,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "164": {
     "id": 164,
@@ -126193,7 +126829,7 @@
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
-    "hit_id": null,
+    "hit_id": "hit_ms_items__164",
     "filiation": [],
     "locus_grp": "93v",
     "hands_role": [],
@@ -126211,7 +126847,9 @@
     "note": "wohl Hand 12. Jh.",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "166": {
     "id": 166,
@@ -126572,7 +127210,7 @@
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
-    "hit_id": null,
+    "hit_id": "hit_ms_items__166",
     "filiation": [],
     "locus_grp": "94r",
     "hands_role": [],
@@ -126590,7 +127228,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "167": {
     "id": 167,
@@ -126951,7 +127591,7 @@
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
-    "hit_id": null,
+    "hit_id": "hit_ms_items__167",
     "filiation": [],
     "locus_grp": "94v",
     "hands_role": [],
@@ -126969,7 +127609,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "183": {
     "id": 183,
@@ -127330,7 +127972,7 @@
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
-    "hit_id": null,
+    "hit_id": "hit_ms_items__183",
     "filiation": [],
     "locus_grp": "94v",
     "hands_role": [],
@@ -127348,7 +127990,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "150": {
     "id": 150,
@@ -127727,7 +128371,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "151": {
     "id": 151,
@@ -128106,7 +128752,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "169": {
     "id": 169,
@@ -128467,7 +129115,7 @@
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
-    "hit_id": null,
+    "hit_id": "hit_ms_items__169",
     "filiation": [],
     "locus_grp": "95r",
     "hands_role": [],
@@ -128485,7 +129133,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "170": {
     "id": 170,
@@ -128846,7 +129496,7 @@
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
-    "hit_id": null,
+    "hit_id": "hit_ms_items__170",
     "filiation": [],
     "locus_grp": "95v",
     "hands_role": [],
@@ -128864,7 +129514,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "184": {
     "id": 184,
@@ -129225,7 +129877,7 @@
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
-    "hit_id": null,
+    "hit_id": "hit_ms_items__184",
     "filiation": [],
     "locus_grp": "95v",
     "hands_role": [],
@@ -129243,7 +129895,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "171": {
     "id": 171,
@@ -129604,7 +130258,7 @@
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
-    "hit_id": null,
+    "hit_id": "hit_ms_items__171",
     "filiation": [],
     "locus_grp": "96r",
     "hands_role": [],
@@ -129622,7 +130276,9 @@
     "note": "Nr. 36 Notiz über Beendigung eines Besitzstreites mit Bischof Otto von Bamberg",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "185": {
     "id": 185,
@@ -129983,7 +130639,7 @@
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
-    "hit_id": null,
+    "hit_id": "hit_ms_items__185",
     "filiation": [],
     "locus_grp": "96r",
     "hands_role": [],
@@ -130001,7 +130657,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "172": {
     "id": 172,
@@ -130362,7 +131020,7 @@
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
-    "hit_id": null,
+    "hit_id": "hit_ms_items__172",
     "filiation": [],
     "locus_grp": "96v",
     "hands_role": [],
@@ -130380,7 +131038,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "177": {
     "id": 177,
@@ -130741,7 +131401,7 @@
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
-    "hit_id": null,
+    "hit_id": "hit_ms_items__177",
     "filiation": [],
     "locus_grp": "96v-97r",
     "hands_role": [],
@@ -130759,7 +131419,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "173": {
     "id": 173,
@@ -131120,7 +131782,7 @@
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
-    "hit_id": null,
+    "hit_id": "hit_ms_items__173",
     "filiation": [],
     "locus_grp": "97r",
     "hands_role": [],
@@ -131138,7 +131800,9 @@
     "note": "Nr. 56 ähnlich wie Briefe, also 2. Hälfte des 12. Jahrhunderts",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "178": {
     "id": 178,
@@ -131538,7 +132202,7 @@
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
-    "hit_id": null,
+    "hit_id": "hit_ms_items__178",
     "filiation": [],
     "locus_grp": "97v",
     "hands_role": [],
@@ -131556,7 +132220,9 @@
     "note": "Überprüfen -> womöglich aus älterer Quelle.",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "174": {
     "id": 174,
@@ -131917,7 +132583,7 @@
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
-    "hit_id": null,
+    "hit_id": "hit_ms_items__174",
     "filiation": [],
     "locus_grp": "97v",
     "hands_role": [],
@@ -131935,7 +132601,9 @@
     "note": "Nr. 57 ct-Ligatur aufgebrochen",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "143": {
     "id": 143,
@@ -132425,7 +133093,9 @@
       }
     ],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "152": {
     "id": 152,
@@ -132804,7 +133474,9 @@
     "note": "Walther Nr. 12327",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "154": {
     "id": 154,
@@ -132837,7 +133509,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "155": {
     "id": 155,
@@ -132870,7 +133544,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "156": {
     "id": 156,
@@ -132903,7 +133579,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "157": {
     "id": 157,
@@ -132936,7 +133614,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "153": {
     "id": 153,
@@ -133315,7 +133995,9 @@
     "note": "Walther Nr. 4348",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "175": {
     "id": 175,
@@ -133676,7 +134358,7 @@
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
-    "hit_id": null,
+    "hit_id": "hit_ms_items__175",
     "filiation": [],
     "locus_grp": "98r",
     "hands_role": [],
@@ -133694,7 +134376,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "176": {
     "id": 176,
@@ -134055,7 +134739,7 @@
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
-    "hit_id": null,
+    "hit_id": "hit_ms_items__176",
     "filiation": [],
     "locus_grp": "98v",
     "hands_role": [],
@@ -134073,7 +134757,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "181": {
     "id": 181,
@@ -134106,7 +134792,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "182": {
     "id": 182,
@@ -134139,7 +134827,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "189": {
     "id": 189,
@@ -134172,7 +134862,9 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   },
   "190": {
     "id": 190,
@@ -134527,6 +135219,8 @@
     "note": "",
     "hand": [],
     "decoration": [],
-    "facs_url": ""
+    "facs_url": "",
+    "form": [],
+    "form_note": null
   }
 }

@@ -1,0 +1,39 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "hit_id": "hit_codunit_place__1",
+    "cod_unit": [
+      {
+        "id": 3,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
+      }
+    ],
+    "place": [
+      {
+        "id": 5,
+        "value": "Saint-Amand-les-Eaux"
+      }
+    ],
+    "from": [],
+    "number": "1",
+    "till": [],
+    "ms": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "hit_id": "hit_codunit_place__2",
+    "cod_unit": [],
+    "place": [],
+    "from": [],
+    "number": null,
+    "till": [],
+    "ms": []
+  }
+}

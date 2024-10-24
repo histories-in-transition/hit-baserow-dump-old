@@ -1638,8 +1638,14 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-07-16",
-    "Last modified": "2024-09-18",
-    "locus_layout": [],
+    "Last modified": "2024-10-23",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum/Haupttext",
+        "color": "dark-green"
+      }
+    ],
     "function": []
   },
   "37": {
@@ -1718,9 +1724,36 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-07-16",
-    "Last modified": "2024-09-18",
-    "locus_layout": [],
-    "function": []
+    "Last modified": "2024-10-23",
+    "locus_layout": [
+      {
+        "id": 15097,
+        "value": "interlinear",
+        "color": "darker-pink"
+      },
+      {
+        "id": 15380,
+        "value": "beidseitig",
+        "color": "darker-orange"
+      }
+    ],
+    "function": [
+      {
+        "id": 15836,
+        "value": "inhaltsbezogen",
+        "color": "darker-orange"
+      },
+      {
+        "id": 15098,
+        "value": "grammatikalisch",
+        "color": "green"
+      },
+      {
+        "id": 16045,
+        "value": "Glossen",
+        "color": "dark-cyan"
+      }
+    ]
   },
   "39": {
     "id": 39,
@@ -6190,9 +6223,15 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-09-03",
-    "Last modified": "2024-09-04",
+    "Last modified": "2024-10-23",
     "locus_layout": [],
-    "function": []
+    "function": [
+      {
+        "id": 15098,
+        "value": "grammatikalisch",
+        "color": "green"
+      }
+    ]
   },
   "130": {
     "id": 130,
@@ -6643,7 +6682,7 @@
         "color": "darker-red"
       }
     ],
-    "locus": "",
+    "locus": "1r-227v",
     "text": [
       {
         "ids": {
@@ -6701,8 +6740,14 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-09-04",
-    "Last modified": "2024-09-04",
-    "locus_layout": [],
+    "Last modified": "2024-10-23",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum/Haupttext",
+        "color": "dark-green"
+      }
+    ],
     "function": []
   },
   "140": {
@@ -6814,9 +6859,31 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-09-18",
-    "Last modified": "2024-09-18",
-    "locus_layout": [],
-    "function": []
+    "Last modified": "2024-10-23",
+    "locus_layout": [
+      {
+        "id": 15097,
+        "value": "interlinear",
+        "color": "darker-pink"
+      },
+      {
+        "id": 15380,
+        "value": "beidseitig",
+        "color": "darker-orange"
+      }
+    ],
+    "function": [
+      {
+        "id": 15836,
+        "value": "inhaltsbezogen",
+        "color": "darker-orange"
+      },
+      {
+        "id": 15098,
+        "value": "grammatikalisch",
+        "color": "green"
+      }
+    ]
   },
   "143": {
     "id": 143,
@@ -6978,12 +7045,35 @@
     "id": 146,
     "order": "132.00000000000000000000",
     "hit_id": "hit_hands_role__146",
-    "hand": [],
-    "ms_item": [],
+    "hand": [
+      {
+        "id": 90,
+        "value": "BSB, Clm. 6380_H. 8"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 31,
+        "value": "clm_6380__31"
+      }
+    ],
     "role": [],
     "locus": "",
-    "text": [],
-    "locus_text": [],
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 31
+        },
+        "value": "Historiae adversus paganos"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 31,
+        "value": "1r-102r"
+      }
+    ],
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -6993,7 +7083,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-09-19",
-    "Last modified": "2024-09-19",
+    "Last modified": "2024-10-23",
     "locus_layout": [],
     "function": []
   },
@@ -7105,7 +7195,12 @@
     "id": 149,
     "order": "135.00000000000000000000",
     "hit_id": "hit_hands_role__149",
-    "hand": [],
+    "hand": [
+      {
+        "id": 91,
+        "value": "BSB, Clm. 6380_H. 9"
+      }
+    ],
     "ms_item": [],
     "role": [],
     "locus": "",
@@ -7120,7 +7215,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-10-03",
-    "Last modified": "2024-10-03",
+    "Last modified": "2024-10-23",
     "locus_layout": [],
     "function": []
   },
@@ -7429,5 +7524,94 @@
     "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": []
+  },
+  "153": {
+    "id": 153,
+    "order": "139.00000000000000000000",
+    "hit_id": "hit_hands_role__153",
+    "hand": [
+      {
+        "id": 20,
+        "value": "BSB, Clm. 6326_H. 2"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 18,
+        "value": "clm_6326__18"
+      },
+      {
+        "id": 21,
+        "value": "clm_6326__21"
+      }
+    ],
+    "role": [
+      {
+        "id": 14760,
+        "value": "corrector",
+        "color": "darker-yellow"
+      }
+    ],
+    "locus": "Durchausgehend",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 17,
+          "database_table_3491": 18
+        },
+        "value": "Vita sancti Martini"
+      },
+      {
+        "ids": {
+          "database_table_3489": 60,
+          "database_table_3491": 21
+        },
+        "value": "Miracula sancti Martini"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 18,
+        "value": "1r-32r"
+      },
+      {
+        "id": 21,
+        "value": "117v-122r"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-10-23",
+    "Last modified": "2024-10-23",
+    "locus_layout": [
+      {
+        "id": 15097,
+        "value": "interlinear",
+        "color": "darker-pink"
+      },
+      {
+        "id": 15381,
+        "value": "marginal oben",
+        "color": "darker-gray"
+      }
+    ],
+    "function": [
+      {
+        "id": 15098,
+        "value": "grammatikalisch",
+        "color": "green"
+      },
+      {
+        "id": 15836,
+        "value": "inhaltsbezogen",
+        "color": "darker-orange"
+      }
+    ]
   }
 }

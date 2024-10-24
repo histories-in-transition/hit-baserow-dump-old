@@ -1455,7 +1455,7 @@
         "value": "BSB, Clm. 6326_H. 1"
       }
     ],
-    "description": "Konservativer Freisinger Stil, vornehmlich Buchstil (Daniel)",
+    "description": "Konservativer Freisinger Stil, vornehmlich Buchstil, aber mit kursiven Elementen (Daniel); Ligaturen *ct, st, et* auch Mitte in Wörtern, verlängerte Schaften bei *U, N*; ab und ab rundes *d*; *o* über *v* für *vero*. Überschriften in Rustica und Majuskel ohne Folge",
     "scribe_old": [],
     "hit_id": "hit_hands__19",
     "similar_hands": [],
@@ -1477,7 +1477,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-22",
+    "Last modified": "2024-10-23",
     "hands_role": [
       {
         "id": 121,
@@ -1567,8 +1567,21 @@
         "value": "hit_hands_dated__13"
       }
     ],
-    "dating": [],
-    "hands_placed": [],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 4,
+          "database_table_3520": 13
+        },
+        "value": "10 Jh., Mitte"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 24,
+        "value": "hit_hands_placed__24"
+      }
+    ],
     "scribe": []
   },
   "20": {
@@ -1583,7 +1596,7 @@
         "value": "BSB, Clm. 6326_H. 2"
       }
     ],
-    "description": "",
+    "description": "Durchausgehende Korrekturen, die Hand ist sehr nah zur Haupthand",
     "scribe_old": [],
     "hit_id": "hit_hands__20",
     "similar_hands": [],
@@ -1605,16 +1618,30 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-15",
+    "Last modified": "2024-10-23",
     "hands_role": [
       {
         "id": 27,
         "value": "hit_hands_role__27"
+      },
+      {
+        "id": 153,
+        "value": "hit_hands_role__153"
       }
     ],
     "role": [
       {
         "id": 27,
+        "value": [
+          {
+            "id": 14760,
+            "value": "corrector",
+            "color": "darker-yellow"
+          }
+        ]
+      },
+      {
+        "id": 153,
         "value": [
           {
             "id": 14760,
@@ -1631,6 +1658,20 @@
           "database_table_3491": 18
         },
         "value": "Vita sancti Martini"
+      },
+      {
+        "ids": {
+          "database_table_3489": 17,
+          "database_table_3491": 18
+        },
+        "value": "Vita sancti Martini"
+      },
+      {
+        "ids": {
+          "database_table_3489": 60,
+          "database_table_3491": 21
+        },
+        "value": "Miracula sancti Martini"
       }
     ],
     "hands_dated": [
@@ -1640,7 +1681,12 @@
       }
     ],
     "dating": [],
-    "hands_placed": [],
+    "hands_placed": [
+      {
+        "id": 25,
+        "value": "hit_hands_placed__25"
+      }
+    ],
     "scribe": []
   },
   "23": {
@@ -1656,12 +1702,7 @@
       }
     ],
     "description": "\"Mitglied der ersten bodenständigen Freisinger Schreibergruppe und bediente sich in ausgereifter Übereinstimmung einer vor- oder frühkarolingischen Schrift, die in ursprünglicher Weise frei von insularen Zügen ist\" (Bischoff 1960:63); \"alemanische Schriftmerkmale\" (Bischoff (1960: 77), Traube (1898: 52), Maag (2014: 121f. und Abb. 78)); zahlreiche Ligaturen: ent,\n\nercc, ermi, eu, gy, o, rd, roru, rof, rp, rron; ri, rUS, US; sichelförmiges hochgestelltes *a* kommt selten vor, nur mit *n* und *an* Zeilenschlüssen.",
-    "scribe_old": [
-      {
-        "id": 41,
-        "value": "Freising_1"
-      }
-    ],
+    "scribe_old": [],
     "hit_id": "hit_hands__23",
     "similar_hands": [],
     "nr_daniel": "",
@@ -1682,7 +1723,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-18",
+    "Last modified": "2024-10-23",
     "hands_role": [
       {
         "id": 36,
@@ -6774,7 +6815,7 @@
         "value": "BSB, Clm. 6380_H. 1"
       }
     ],
-    "description": "",
+    "description": "\"Eine Gruppe der rasch wechselnden Hände\"; \"Bayerische Minuskel der Generation Willihalm\"; konservativ, ohne Sorgfalt (Daniel, 48). Zu den gemeinen Eigenschaften gehören Ligaturen ct, st, rt; gespitzte v; Ligatur us am Ende; manchmal rundes d. Kleine gerade stehende Buchstaben.",
     "scribe_old": [
       {
         "id": 46,
@@ -6801,7 +6842,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-22",
+    "Last modified": "2024-10-23",
     "hands_role": [
       {
         "id": 125,
@@ -6848,6 +6889,10 @@
       {
         "id": 20,
         "value": "hit_hands_placed__20"
+      },
+      {
+        "id": 26,
+        "value": "hit_hands_placed__26"
       }
     ],
     "scribe": [
@@ -6869,7 +6914,7 @@
         "value": "BSB, Clm. 6380_H. 2"
       }
     ],
-    "description": "\"Eine Gruppe der rasch wechselnden Hände\"; \"Bayerische Minuskel der Generation Willihalm\"; konservativ, ohne Sorgfalt (Daniel, 48)",
+    "description": "\"Eine Gruppe der rasch wechselnden Hände\"; \"Bayerische Minuskel der Generation Willihalm\"; konservativ, ohne Sorgfalt (Daniel, 48). Zu den gemeinen Eigenschaften gehören Ligaturen ct, st, rt; gespitzte v; Ligatur us am Ende; manchmal rundes d. Kleine gerade stehende Buchstaben.\\\nDie Hand überscheidet sich von den anderen durch Ansätze, die sie \n\ndurch breite, dreieckige Schlingen bildet ähnlich der Hand\n\n33r ff.",
     "scribe_old": [
       {
         "id": 46,
@@ -6896,7 +6941,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-22",
+    "Last modified": "2024-10-23",
     "hands_role": [
       {
         "id": 128,
@@ -6943,6 +6988,10 @@
       {
         "id": 20,
         "value": "hit_hands_placed__20"
+      },
+      {
+        "id": 26,
+        "value": "hit_hands_placed__26"
       }
     ],
     "scribe": [
@@ -6964,7 +7013,7 @@
         "value": "BSB, Clm. 6380_H. 3"
       }
     ],
-    "description": "",
+    "description": "\"Eine Gruppe der rasch wechselnden Hände\"; \"Bayerische Minuskel der Generation Willihalm\"; konservativ, ohne Sorgfalt (Daniel, 48). Zu den gemeinen Eigenschaften gehören Ligaturen ct, st, rt; gespitzte v; Ligatur us am Ende; manchmal rundes d. Kleine gerade stehende Buchstaben.",
     "scribe_old": [
       {
         "id": 46,
@@ -6991,7 +7040,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-22",
+    "Last modified": "2024-10-23",
     "hands_role": [
       {
         "id": 131,
@@ -7038,6 +7087,10 @@
       {
         "id": 20,
         "value": "hit_hands_placed__20"
+      },
+      {
+        "id": 26,
+        "value": "hit_hands_placed__26"
       }
     ],
     "scribe": [
@@ -7059,7 +7112,7 @@
         "value": "BSB, Clm. 6380_H. 4"
       }
     ],
-    "description": "",
+    "description": "\"aufrechte\n\nHaltung und quadratischer Aufriß der Buchstaben in mittlerer\n\nHöhe an italienische Schriften erinnert, vor allem auch darin,\n\ndaß alle Kanten abgerundet werden; die Oberlängen sind\n\noft knöpfchen- oder schlingenartig gebildet, Die Einzelformen,\n\ndie Ligaturen und die Kürzungen haben nichts Italienisches;\n\nauch benützt der Schreiber eine harte Feder mit stumpfer\n\nSpitze, während italienische Schreiber für gewöhnlich\n\nweiche und scharf geschnittene Federn bevorzugen. Die Hand\n\nwirkt hier sehr konservativ\" (Daniel); Italienische Herkunft umstritten",
     "scribe_old": [
       {
         "id": 46,
@@ -7086,7 +7139,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-22",
+    "Last modified": "2024-10-23",
     "hands_role": [
       {
         "id": 132,
@@ -7133,6 +7186,10 @@
       {
         "id": 20,
         "value": "hit_hands_placed__20"
+      },
+      {
+        "id": 26,
+        "value": "hit_hands_placed__26"
       }
     ],
     "scribe": [
@@ -7154,7 +7211,7 @@
         "value": "BSB, Clm. 6380_H. 5"
       }
     ],
-    "description": "",
+    "description": "\"Eine Gruppe der rasch wechselnden Hände\"; \"Bayerische Minuskel der Generation Willihalm\"; konservativ, ohne Sorgfalt (Daniel, 48). Zu den gemeinen Eigenschaften gehören Ligaturen ct, st, rt; gespitzte v; Ligatur us am Ende; manchmal rundes d. Kleine gerade stehende Buchstaben. \\\nDie Eigenschaften der Hand:\n\nOberlängen in dreieckigen Schlingen von unten an geführt, \n\naber 33v oben, 35r oben, 38v mit ästchenartigen Quer- und\n\nAnstrichen\" (Daniel)",
     "scribe_old": [
       {
         "id": 46,
@@ -7181,7 +7238,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-22",
+    "Last modified": "2024-10-23",
     "hands_role": [
       {
         "id": 133,
@@ -7228,6 +7285,10 @@
       {
         "id": 20,
         "value": "hit_hands_placed__20"
+      },
+      {
+        "id": 26,
+        "value": "hit_hands_placed__26"
       }
     ],
     "scribe": [
@@ -7249,7 +7310,7 @@
         "value": "BSB, Clm. 6380_H. 6"
       }
     ],
-    "description": "",
+    "description": "\"Eine Gruppe der rasch wechselnden Hände\"; \"Bayerische Minuskel der Generation Willihalm\"; konservativ, ohne Sorgfalt (Daniel, 48). Zu den gemeinen Eigenschaften gehören Ligaturen ct, st, rt; gespitzte v; Ligatur us am Ende; manchmal rundes d. Kleine gerade stehende Buchstaben.",
     "scribe_old": [
       {
         "id": 46,
@@ -7276,7 +7337,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-22",
+    "Last modified": "2024-10-23",
     "hands_role": [
       {
         "id": 134,
@@ -7323,6 +7384,10 @@
       {
         "id": 20,
         "value": "hit_hands_placed__20"
+      },
+      {
+        "id": 26,
+        "value": "hit_hands_placed__26"
       }
     ],
     "scribe": [
@@ -7344,7 +7409,7 @@
         "value": "BSB, Clm. 6380_H. 7"
       }
     ],
-    "description": "",
+    "description": "\"Eine Gruppe der rasch wechselnden Hände\"; \"Bayerische Minuskel der Generation Willihalm\"; konservativ, ohne Sorgfalt (Daniel, 48). Zu den gemeinen Eigenschaften gehören Ligaturen ct, st, rt; gespitzte v; Ligatur us am Ende; manchmal rundes d. Kleine gerade stehende Buchstaben.",
     "scribe_old": [
       {
         "id": 46,
@@ -7368,10 +7433,10 @@
     },
     "Created on": "2024-09-02",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-20",
+    "Last modified": "2024-10-23",
     "hands_role": [
       {
         "id": 135,
@@ -7418,6 +7483,10 @@
       {
         "id": 20,
         "value": "hit_hands_placed__20"
+      },
+      {
+        "id": 26,
+        "value": "hit_hands_placed__26"
       }
     ],
     "scribe": [
@@ -7439,7 +7508,7 @@
         "value": "BSB, Clm. 6380_H. 8"
       }
     ],
-    "description": "",
+    "description": "\"Eine Gruppe der rasch wechselnden Hände\"; \"Bayerische Minuskel der Generation Willihalm\"; konservativ, ohne Sorgfalt (Daniel, 48). Zu den gemeinen Eigenschaften gehören Ligaturen ct, st, rt; gespitzte v; Ligatur us am Ende; manchmal rundes d. Kleine gerade stehende Buchstaben.",
     "scribe_old": [],
     "hit_id": "hit_hands__90",
     "similar_hands": [],
@@ -7461,11 +7530,15 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-03",
+    "Last modified": "2024-10-23",
     "hands_role": [
       {
         "id": 138,
         "value": "hit_hands_role__138"
+      },
+      {
+        "id": 146,
+        "value": "hit_hands_role__146"
       }
     ],
     "role": [
@@ -7478,6 +7551,10 @@
             "color": "darker-red"
           }
         ]
+      },
+      {
+        "id": 146,
+        "value": []
       }
     ],
     "texts": [
@@ -7487,6 +7564,13 @@
           "database_table_3491": 32
         },
         "value": "De septem gradibus consanguinitatis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 31
+        },
+        "value": "Historiae adversus paganos"
       }
     ],
     "hands_dated": [
@@ -7508,9 +7592,18 @@
       {
         "id": 20,
         "value": "hit_hands_placed__20"
+      },
+      {
+        "id": 26,
+        "value": "hit_hands_placed__26"
       }
     ],
-    "scribe": []
+    "scribe": [
+      {
+        "id": 1,
+        "value": "Willihalms bayerische Schüler"
+      }
+    ]
   },
   "91": {
     "id": 91,
@@ -7524,7 +7617,7 @@
         "value": "BSB, Clm. 6380_H. 9"
       }
     ],
-    "description": "",
+    "description": "\"Eine Gruppe der rasch wechselnden Hände\"; \"Bayerische Minuskel der Generation Willihalm\"; konservativ, ohne Sorgfalt (Daniel, 48). Zu den gemeinen Eigenschaften gehören Ligaturen ct, st, rt; gespitzte v; Ligatur us am Ende; manchmal rundes d. Kleine gerade stehende Buchstaben.",
     "scribe_old": [],
     "hit_id": "hit_hands__91",
     "similar_hands": [],
@@ -7546,9 +7639,19 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-20",
-    "hands_role": [],
-    "role": [],
+    "Last modified": "2024-10-23",
+    "hands_role": [
+      {
+        "id": 149,
+        "value": "hit_hands_role__149"
+      }
+    ],
+    "role": [
+      {
+        "id": 149,
+        "value": []
+      }
+    ],
     "texts": [],
     "hands_dated": [],
     "dating": [],
@@ -7556,9 +7659,18 @@
       {
         "id": 20,
         "value": "hit_hands_placed__20"
+      },
+      {
+        "id": 26,
+        "value": "hit_hands_placed__26"
       }
     ],
-    "scribe": []
+    "scribe": [
+      {
+        "id": 1,
+        "value": "Willihalms bayerische Schüler"
+      }
+    ]
   },
   "92": {
     "id": 92,
@@ -7572,7 +7684,7 @@
         "value": "BSB, Clm. 6375_H. 1"
       }
     ],
-    "description": "\"dünner, zitteriger Duktus\", senile Hand, entwickelte Minuskel mit einigen altertünlichen Eigenshaften (Bischoff, I, 147)",
+    "description": "\"dünner, zitteriger Duktus\", senile Hand, entwickelte Minuskel mit einigen altertünlichen Eigenshaften, die nur teilweise auf die Eigenschaften des Protographen ankommen (Bischoff, I, 147)",
     "scribe_old": [],
     "hit_id": "hit_hands__92",
     "similar_hands": [],
@@ -7594,7 +7706,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-03",
+    "Last modified": "2024-10-23",
     "hands_role": [
       {
         "id": 139,
@@ -7643,8 +7755,21 @@
         "value": "Historia ecclesiastica cum Rufini continuatione"
       }
     ],
-    "hands_dated": [],
-    "dating": [],
+    "hands_dated": [
+      {
+        "id": 85,
+        "value": "hit_hands_dated__85"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 59,
+          "database_table_3520": 85
+        },
+        "value": "9 J., zweite Hälfte"
+      }
+    ],
     "hands_placed": [],
     "scribe": []
   },
@@ -7710,7 +7835,12 @@
         "value": "Historia ecclesiastica cum Rufini continuatione"
       }
     ],
-    "hands_dated": [],
+    "hands_dated": [
+      {
+        "id": 87,
+        "value": "hit_hands_dated__87"
+      }
+    ],
     "dating": [],
     "hands_placed": [],
     "scribe": []
@@ -8019,21 +8149,8 @@
     "hands_role": [],
     "role": [],
     "texts": [],
-    "hands_dated": [
-      {
-        "id": 85,
-        "value": "hit_hands_dated__85"
-      }
-    ],
-    "dating": [
-      {
-        "ids": {
-          "database_table_3512": 3,
-          "database_table_3520": 85
-        },
-        "value": "9 Jh., Mitte"
-      }
-    ],
+    "hands_dated": [],
+    "dating": [],
     "hands_placed": [],
     "scribe": []
   },
@@ -8262,7 +8379,7 @@
         "value": "BSB, Clm. 6391_H. 1"
       }
     ],
-    "description": "bayerische Hand, mittlerer Stil, neigt zu dem Buchstil, viele Ligaturen (darunter us, ct, st, auch miteinander verknüpft), Verkürzungen (g mit einem Strich - gre, pt - post, q mit cc-a - qua etc.)",
+    "description": "bayerische Hand, mittlerer Stil, neigt zu dem Buchstil, viele Ligaturen (darunter *us, ct, st*, auch miteinander verknüpft), Verkürzungen (*g* mit einem Strich - *gre*, *pt* - *post*, *q* mit *cc-a* - *qua* etc.)",
     "scribe_old": [],
     "hit_id": "hit_hands__103",
     "similar_hands": [],
@@ -8284,7 +8401,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-22",
+    "Last modified": "2024-10-23",
     "hands_role": [
       {
         "id": 137,
@@ -8475,7 +8592,12 @@
     "description": "eine entwickelte Karolingische Minuskel, Ligature: st, et; runde d.",
     "scribe_old": [],
     "hit_id": "hit_hands__106",
-    "similar_hands": [],
+    "similar_hands": [
+      {
+        "id": 24,
+        "value": "BSB, Clm. 6308_H. 2"
+      }
+    ],
     "nr_daniel": "",
     "manuscript": [
       {
@@ -8494,7 +8616,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-18",
+    "Last modified": "2024-10-23",
     "hands_role": [
       {
         "id": 142,

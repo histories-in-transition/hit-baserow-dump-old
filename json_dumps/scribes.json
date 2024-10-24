@@ -34,6 +34,14 @@
       {
         "id": 89,
         "value": "BSB, Clm. 6380_H. 7"
+      },
+      {
+        "id": 90,
+        "value": "BSB, Clm. 6380_H. 8"
+      },
+      {
+        "id": 91,
+        "value": "BSB, Clm. 6380_H. 9"
       }
     ],
     "hand": [
@@ -85,6 +93,20 @@
           "database_table_3488": 4
         },
         "value": "BSB, Clm. 6380_H. 6"
+      },
+      {
+        "ids": {
+          "database_table_3487": 7,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6380_H. 8"
+      },
+      {
+        "ids": {
+          "database_table_3487": 7,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6380_H. 9"
       }
     ],
     "Last modified": "2024-10-22",

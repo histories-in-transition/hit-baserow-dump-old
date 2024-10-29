@@ -1828,6 +1828,50 @@
     ],
     "besonderheiten": []
   },
+  "189": {
+    "id": 189,
+    "order": "17.50000000000000000000",
+    "label": [],
+    "hit_id": null,
+    "number": "",
+    "locus": "-",
+    "library": [],
+    "locus_from": "",
+    "locus_to": "",
+    "manuscript": [],
+    "quiremark": null,
+    "written_height": null,
+    "written_width": null,
+    "written": "×",
+    "hair_flesh": [],
+    "ruling": "",
+    "column": [],
+    "note": "",
+    "decoration": "",
+    "quire_structure": "",
+    "correct_number": null,
+    "height": null,
+    "width": null,
+    "catchwords": false,
+    "stratum": [
+      {
+        "id": 3,
+        "value": "Clm. 6326, Stratum 1"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-28T16:56:28.297791Z",
+    "cod_units": [],
+    "besonderheiten": []
+  },
   "9": {
     "id": 9,
     "order": "18.00000000000000000000",
@@ -1871,7 +1915,7 @@
         "color": "darker-purple"
       }
     ],
-    "ruling": "",
+    "ruling": "17 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -1901,7 +1945,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-17T10:40:27.382700Z",
+    "Last modified": "2024-10-28T17:05:11.311109Z",
     "cod_units": [
       {
         "id": 10,
@@ -1953,7 +1997,7 @@
         "color": "darker-purple"
       }
     ],
-    "ruling": "",
+    "ruling": "17 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -1983,78 +2027,13 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-17T10:40:37.648855Z",
+    "Last modified": "2024-10-28T17:05:36.171240Z",
     "cod_units": [
       {
         "id": 10,
         "value": "BSB, Clm. 6326, cod. unit 1"
       }
     ],
-    "besonderheiten": []
-  },
-  "189": {
-    "id": 189,
-    "order": "22.50000000000000000000",
-    "label": [
-      {
-        "ids": {
-          "database_table_3487": 5,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6326, L. 3"
-      }
-    ],
-    "hit_id": "hit_quire__189",
-    "number": "3",
-    "locus": "16r-23v",
-    "library": [
-      {
-        "ids": {
-          "database_table_3487": 5,
-          "database_table_3488": 4
-        },
-        "value": "BSB"
-      }
-    ],
-    "locus_from": "16r",
-    "locus_to": "23v",
-    "manuscript": [
-      {
-        "id": 5,
-        "value": "BSB, Clm. 6326"
-      }
-    ],
-    "quiremark": null,
-    "written_height": null,
-    "written_width": null,
-    "written": "×",
-    "hair_flesh": [],
-    "ruling": "",
-    "column": [],
-    "note": "",
-    "decoration": "",
-    "quire_structure": "IV",
-    "correct_number": null,
-    "height": null,
-    "width": null,
-    "catchwords": false,
-    "stratum": [
-      {
-        "id": 3,
-        "value": "Clm. 6326, Stratum 1"
-      }
-    ],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-09-30",
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-10-17T10:40:47.457834Z",
-    "cod_units": [],
     "besonderheiten": []
   },
   "24": {
@@ -2100,7 +2079,7 @@
         "color": "darker-purple"
       }
     ],
-    "ruling": "",
+    "ruling": "17 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -2130,7 +2109,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-17T10:40:56.011381Z",
+    "Last modified": "2024-10-28T17:05:44.747148Z",
     "cod_units": [
       {
         "id": 10,
@@ -2182,7 +2161,7 @@
         "color": "darker-purple"
       }
     ],
-    "ruling": "",
+    "ruling": "17 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -2212,7 +2191,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-17T10:41:03.735123Z",
+    "Last modified": "2024-10-28T17:05:52.407517Z",
     "cod_units": [
       {
         "id": 10,
@@ -2264,7 +2243,7 @@
         "color": "darker-purple"
       }
     ],
-    "ruling": "",
+    "ruling": "17 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -2294,7 +2273,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-17T10:41:12.210458Z",
+    "Last modified": "2024-10-28T17:05:59.615248Z",
     "cod_units": [
       {
         "id": 10,
@@ -2346,7 +2325,7 @@
         "color": "darker-purple"
       }
     ],
-    "ruling": "",
+    "ruling": "17 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -2376,7 +2355,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-17T10:41:20.117764Z",
+    "Last modified": "2024-10-28T17:06:10.380086Z",
     "cod_units": [
       {
         "id": 10,
@@ -2428,7 +2407,7 @@
         "color": "darker-purple"
       }
     ],
-    "ruling": "",
+    "ruling": "17 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -2458,7 +2437,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-17T10:41:29.407195Z",
+    "Last modified": "2024-10-28T17:06:19.937559Z",
     "cod_units": [
       {
         "id": 10,
@@ -2510,7 +2489,7 @@
         "color": "darker-purple"
       }
     ],
-    "ruling": "",
+    "ruling": "17 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -2540,7 +2519,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-17T10:41:37.245146Z",
+    "Last modified": "2024-10-28T17:06:26.993963Z",
     "cod_units": [
       {
         "id": 10,
@@ -2592,7 +2571,7 @@
         "color": "darker-purple"
       }
     ],
-    "ruling": "",
+    "ruling": "17 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -2622,7 +2601,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-17T10:41:46.332029Z",
+    "Last modified": "2024-10-28T17:06:34.069635Z",
     "cod_units": [
       {
         "id": 10,
@@ -2674,7 +2653,7 @@
         "color": "darker-purple"
       }
     ],
-    "ruling": "",
+    "ruling": "17 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -2704,7 +2683,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-17T10:41:54.162026Z",
+    "Last modified": "2024-10-28T17:06:40.284685Z",
     "cod_units": [
       {
         "id": 10,
@@ -2756,7 +2735,7 @@
         "color": "darker-purple"
       }
     ],
-    "ruling": "",
+    "ruling": "17 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -2786,7 +2765,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-17T10:42:01.806239Z",
+    "Last modified": "2024-10-28T17:06:48.813797Z",
     "cod_units": [
       {
         "id": 10,
@@ -2838,7 +2817,7 @@
         "color": "darker-purple"
       }
     ],
-    "ruling": "",
+    "ruling": "17 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -2868,7 +2847,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-17T10:42:13.949495Z",
+    "Last modified": "2024-10-28T17:06:55.214506Z",
     "cod_units": [
       {
         "id": 10,
@@ -2920,7 +2899,7 @@
         "color": "darker-purple"
       }
     ],
-    "ruling": "",
+    "ruling": "17 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -2950,7 +2929,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-17T10:42:22.571791Z",
+    "Last modified": "2024-10-28T17:07:02.571419Z",
     "cod_units": [
       {
         "id": 10,
@@ -3002,7 +2981,7 @@
         "color": "darker-purple"
       }
     ],
-    "ruling": "",
+    "ruling": "17 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -3032,7 +3011,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-17T10:42:31.518971Z",
+    "Last modified": "2024-10-28T17:07:10.183608Z",
     "cod_units": [
       {
         "id": 10,
@@ -3084,7 +3063,7 @@
         "color": "darker-purple"
       }
     ],
-    "ruling": "",
+    "ruling": "17 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -3114,7 +3093,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-17T10:42:39.111010Z",
+    "Last modified": "2024-10-28T17:07:16.188409Z",
     "cod_units": [
       {
         "id": 10,
@@ -3166,7 +3145,7 @@
         "color": "darker-purple"
       }
     ],
-    "ruling": "",
+    "ruling": "17 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -3196,7 +3175,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-17T10:42:47.457025Z",
+    "Last modified": "2024-10-28T17:07:22.981605Z",
     "cod_units": [
       {
         "id": 10,
@@ -9729,7 +9708,7 @@
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
-    "ruling": "",
+    "ruling": "18 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -9754,7 +9733,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-23T01:38:58.451741Z",
+    "Last modified": "2024-10-28T17:01:35.522620Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -9795,7 +9774,7 @@
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
-    "ruling": "",
+    "ruling": "18 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -9820,7 +9799,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-23T01:39:01.154438Z",
+    "Last modified": "2024-10-28T17:01:42.238011Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -9861,7 +9840,7 @@
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
-    "ruling": "",
+    "ruling": "18 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -9886,7 +9865,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-23T01:39:03.696928Z",
+    "Last modified": "2024-10-28T17:01:49.709291Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -9927,7 +9906,7 @@
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
-    "ruling": "",
+    "ruling": "18 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -9952,7 +9931,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-23T01:39:07.104694Z",
+    "Last modified": "2024-10-28T17:02:03.278977Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -9993,7 +9972,7 @@
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
-    "ruling": "",
+    "ruling": "18 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -10018,7 +9997,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-23T01:39:10.021816Z",
+    "Last modified": "2024-10-28T17:02:10.281383Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -10059,7 +10038,7 @@
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
-    "ruling": "",
+    "ruling": "18 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -10084,7 +10063,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-23T01:39:13.962475Z",
+    "Last modified": "2024-10-28T17:02:15.396855Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -10125,7 +10104,7 @@
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
-    "ruling": "",
+    "ruling": "18 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -10150,7 +10129,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-23T01:39:17.295770Z",
+    "Last modified": "2024-10-28T17:02:19.316890Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -10191,7 +10170,7 @@
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
-    "ruling": "",
+    "ruling": "18 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -10216,7 +10195,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-23T01:39:20.940154Z",
+    "Last modified": "2024-10-28T17:02:23.459591Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -10257,7 +10236,7 @@
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
-    "ruling": "",
+    "ruling": "18 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -10282,7 +10261,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-23T01:39:24.201762Z",
+    "Last modified": "2024-10-28T17:02:28.040009Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -10323,7 +10302,7 @@
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
-    "ruling": "",
+    "ruling": "18 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -10348,7 +10327,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-23T01:39:27.381245Z",
+    "Last modified": "2024-10-28T17:02:32.124362Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -10389,7 +10368,7 @@
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
-    "ruling": "",
+    "ruling": "18 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -10414,7 +10393,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-23T01:39:29.908676Z",
+    "Last modified": "2024-10-28T17:02:36.054106Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -10455,7 +10434,7 @@
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
-    "ruling": "",
+    "ruling": "18 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -10480,7 +10459,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-23T01:39:32.648701Z",
+    "Last modified": "2024-10-28T17:02:43.493870Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -10521,7 +10500,7 @@
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
-    "ruling": "",
+    "ruling": "18 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -10546,7 +10525,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-23T01:39:36.010118Z",
+    "Last modified": "2024-10-28T17:02:49.347825Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -10587,7 +10566,7 @@
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
-    "ruling": "",
+    "ruling": "18 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -10612,7 +10591,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-23T01:39:42.075781Z",
+    "Last modified": "2024-10-28T17:02:53.895186Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -10653,7 +10632,7 @@
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
-    "ruling": "",
+    "ruling": "18 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -10678,7 +10657,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-23T01:39:44.446545Z",
+    "Last modified": "2024-10-28T17:03:01.548043Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -10719,7 +10698,7 @@
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
-    "ruling": "",
+    "ruling": "18 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -10744,7 +10723,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-23T01:39:47.010711Z",
+    "Last modified": "2024-10-28T17:03:08.731921Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -10785,7 +10764,7 @@
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
-    "ruling": "",
+    "ruling": "18 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -10810,7 +10789,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-23T01:39:49.098956Z",
+    "Last modified": "2024-10-28T17:03:12.817873Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -10851,7 +10830,7 @@
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
-    "ruling": "",
+    "ruling": "18 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -10876,7 +10855,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-23T01:39:50.987488Z",
+    "Last modified": "2024-10-28T17:03:16.495904Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -10917,7 +10896,7 @@
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
-    "ruling": "",
+    "ruling": "18 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -10942,7 +10921,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-23T01:39:53.337413Z",
+    "Last modified": "2024-10-28T17:03:20.533203Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -10983,7 +10962,7 @@
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
-    "ruling": "",
+    "ruling": "18 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -11008,7 +10987,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-23T01:39:55.615953Z",
+    "Last modified": "2024-10-28T17:03:25.342706Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -11049,7 +11028,7 @@
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
-    "ruling": "",
+    "ruling": "18 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -11074,7 +11053,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-23T01:39:58.412563Z",
+    "Last modified": "2024-10-28T17:03:31.293644Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -11115,7 +11094,7 @@
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
-    "ruling": "",
+    "ruling": "18 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -11140,7 +11119,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-23T01:40:01.866562Z",
+    "Last modified": "2024-10-28T17:03:38.641619Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -11181,7 +11160,7 @@
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
-    "ruling": "",
+    "ruling": "18 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -11206,7 +11185,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-23T01:40:07.153890Z",
+    "Last modified": "2024-10-28T17:03:42.709419Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -11247,7 +11226,7 @@
     "written_width": null,
     "written": "×",
     "hair_flesh": [],
-    "ruling": "",
+    "ruling": "18 Zeilen",
     "column": [
       {
         "id": 14743,
@@ -11272,7 +11251,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-23T01:40:09.715096Z",
+    "Last modified": "2024-10-28T17:03:48.223994Z",
     "cod_units": [],
     "besonderheiten": []
   },

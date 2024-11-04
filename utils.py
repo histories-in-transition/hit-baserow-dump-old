@@ -29,14 +29,14 @@ def denormalize(MODEL_CONFIG):
                 json.dump(source_data, f, ensure_ascii=False, indent=2)
 
 
-def add_view_labels(MODEL_CONFIG):
+def add_view_labels(MODEL_CONFIG, ID_FIELD):
     for x in MODEL_CONFIG:
         file_name = os.path.join(*x["final_file"])
         print(f"now adding view labels to {file_name}")
         try:
             jsonpath_expr = parse(x["label_lookup_expression"])
         except KeyError:
-            continue
+            jsonpath_expr = parse(f"$.{ID_FIELD}")
         print(f"    - {jsonpath_expr} for {file_name}")
         with open(file_name, "r", encoding="utf-8") as fp:
             data = json.load(fp)

@@ -48,5 +48,5 @@ with open(fixme_file, "w", encoding="utf-8") as fp:
     json.dump(data, fp, ensure_ascii=False, indent=2)
 
 denormalize(MODEL_CONFIG)
-add_view_labels(MODEL_CONFIG)
+add_view_labels(MODEL_CONFIG, ID_FIELD)
 add_prev_next(MODEL_CONFIG, ID_FIELD)

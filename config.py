@@ -61,6 +61,7 @@ MODEL_CONFIG = [
         "table_label": "WORKS",
         "label_lookup_expression": "$.title",
         "final_file": [DATA_FOLDER, "works.json"],
+        "related_objects": [{"source_file": "ms_items", "lookup_field": "title_work"}],
         "fields": [
             {
                 "field_name": "source_text",
@@ -98,6 +99,7 @@ MODEL_CONFIG = [
     {
         "table_label": "MANUSCRIPTS",
         "label_lookup_expression": "$..shelfmark[0].value",
+        "related_objects": [{"source_file": "cod_units", "lookup_field": "manuscript"}],
         "final_file": [DATA_FOLDER, "manuscripts.json"],
         "fields": [
             {
@@ -179,6 +181,12 @@ MODEL_CONFIG = [
         "table_label": "CODICOLIGAL UNIT",
         "label_lookup_expression": "$..label[0].value",
         "final_file": [DATA_FOLDER, "cod_units.json"],
+        "related_objects": [
+            {
+                "source_file": "ms_items",
+                "lookup_field": "cod_unit",
+            },
+        ],
         "fields": [
             {
                 "field_name": "prov_place",

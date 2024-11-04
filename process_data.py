@@ -50,3 +50,4 @@ with open(fixme_file, "w", encoding="utf-8") as fp:
 denormalize(MODEL_CONFIG)
 add_view_labels(MODEL_CONFIG, ID_FIELD)
 add_prev_next(MODEL_CONFIG, ID_FIELD)
+add_related_objects(MODEL_CONFIG)

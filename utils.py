@@ -17,6 +17,7 @@ def add_related_objects(MODEL_CONFIG):
             source_data = json.load(fp)
 
         for item in rel_obj:
+            print(f"adding {item['lookup_field']} from {item['source_file']} to {final_file}")
             source_file = item["source_file"]
             lookup_field = item["lookup_field"]
 
@@ -34,7 +35,7 @@ def add_related_objects(MODEL_CONFIG):
                             break
                 value[f"related__{source_file}"] = related_items
         with open(final_file, "w", encoding="utf-8") as fp:
-            json.dump(source_data, fp, ensure_ascii=True)
+            json.dump(source_data, fp, ensure_ascii=False, indent=2)
 
 
 def denormalize(MODEL_CONFIG):

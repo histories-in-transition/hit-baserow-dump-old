@@ -69,9 +69,9 @@ for x in tqdm(files, total=len(files)):
                     related_table_id, related_table_name = get_related_table_info(
                         table_name, key, db_dict
                     )
-                    rs.attrib[
-                        "ref"
-                    ] = f"#{related_table_name}__{related_table_id}__{item['id']}"
+                    rs.attrib["ref"] = (
+                        f"#{related_table_name}__{related_table_id}__{item['id']}"
+                    )
                     rs.attrib["type"] = f"{related_table_name}"
                     rs.text = f"{item['value']}"
                     td_cell.append(rs)

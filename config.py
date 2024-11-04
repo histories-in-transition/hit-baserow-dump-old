@@ -55,6 +55,7 @@ DENORMALIZE_CONFIG = [
     },
     {
         "table_label": "WORKS",
+        "label_lookup_expression": "$.title",
         "final_file": [DATA_FOLDER, "works.json"],
         "fields": [
             {
@@ -76,6 +77,7 @@ DENORMALIZE_CONFIG = [
     },
     {
         "table_label": "MANUSCRIPTS DATED",
+        "label_lookup_expression": "$..shelfmark[0].value",
         "final_file": [DATA_FOLDER, "manuscripts_dated.json"],
         "fields": [
             {
@@ -92,6 +94,7 @@ DENORMALIZE_CONFIG = [
     },
     {
         "table_label": "MANUSCRIPTS",
+        "label_lookup_expression": "$..shelfmark[0].value",
         "final_file": [DATA_FOLDER, "manuscripts.json"],
         "fields": [
             {
@@ -171,6 +174,7 @@ DENORMALIZE_CONFIG = [
     },
     {
         "table_label": "CODICOLIGAL UNIT",
+        "label_lookup_expression": "$..label[0].value",
         "final_file": [DATA_FOLDER, "cod_units.json"],
         "fields": [
             {
@@ -188,6 +192,7 @@ DENORMALIZE_CONFIG = [
     {
         "table_label": "MS ITEMS",
         "final_file": [DATA_FOLDER, "ms_items.json"],
+        "label_lookup_expression": "$..label[0].value",
         "fields": [
             {
                 "field_name": "cod_unit",
@@ -224,6 +229,7 @@ DENORMALIZE_CONFIG = [
     },
     {
         "table_label": "STRATA",
+        "label_lookup_expression": "$..label[0].value",
         "final_file": [DATA_FOLDER, "strata.json"],
         "fields": [
             {
@@ -235,6 +241,7 @@ DENORMALIZE_CONFIG = [
     },
     {
         "table_label": "HANDS",
+        "label_lookup_expression": "$..label[0].value",
         "final_file": [DATA_FOLDER, "hands.json"],
         "fields": [
             {

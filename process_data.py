@@ -4,7 +4,7 @@ import os
 import marko
 
 from config import DATA_FOLDER, MODEL_CONFIG, ID_FIELD
-from utils import add_view_labels, denormalize, add_prev_next
+from utils import add_view_labels, denormalize, add_prev_next, add_related_objects
 
 
 os.makedirs(DATA_FOLDER, exist_ok=True)

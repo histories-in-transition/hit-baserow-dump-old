@@ -31,8 +31,8 @@ def denormalize(MODEL_CONFIG):
 
 def add_view_labels(MODEL_CONFIG):
     for x in MODEL_CONFIG:
-        print("now adding view labels")
         file_name = os.path.join(*x["final_file"])
+        print(f"now adding view labels to {file_name}")
         try:
             jsonpath_expr = parse(x["label_lookup_expression"])
         except KeyError:
@@ -51,20 +51,29 @@ def add_view_labels(MODEL_CONFIG):
 
 def add_prev_next(MODEL_CONFIG, ID_FIELD):
     for x in MODEL_CONFIG:
-        print("now adding view labels")
         file_name = os.path.join(*x["final_file"])
+        print(f"now adding next/prev to {file_name}")
         with open(file_name, "r", encoding="utf-8") as fp:
             data = json.load(fp)
         key_list = sorted(data.keys())
         for i, v in enumerate(key_list):
             prev_item = data[key_list[i - 1]][ID_FIELD]
+            prev_label = data[key_list[i - 1]]["view_label"]
             try:
                 next_item = data[key_list[i + 1]][ID_FIELD]
+                next_label = data[key_list[i + 1]]["view_label"]
             except IndexError:
-                next_item = data[key_list[0]]
+                next_item = data[key_list[0]][ID_FIELD]
+                next_label = data[key_list[0]]["view_label"]
             value = data[key_list[i]]
 
             value["prev"] = {
-                "id": f"{prev_item}.html"}
-            
-            value["next"] = f"{next_item}.html"
+                "id": prev_item,
+                "label": prev_label
+            }
+            value["prev"] = {
+                "id": next_item,
+                "label": next_label
+            }
+        with open(file_name, "w", encoding="utf-8") as fp:
+            json.dump(data, fp, ensure_ascii=False, indent=2)

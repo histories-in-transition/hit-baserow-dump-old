@@ -94,6 +94,7 @@ DENORMALIZE_CONFIG = [
     },
     {
         "table_label": "MANUSCRIPTS",
+        "label_lookup_expression": "$..shelfmark[0].value",
         "final_file": [DATA_FOLDER, "manuscripts.json"],
         "fields": [
             {

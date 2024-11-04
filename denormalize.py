@@ -88,4 +88,4 @@ for x in DENORMALIZE_CONFIG:
             except IndexError:
                 value["view_label"] = f"NO MATCH FOR {x['label_lookup_expression']}"
     with open(file_name, "w", encoding="utf-8") as fp:
-        json.dump(data, fp, ensure_ascii=False)
+        json.dump(data, fp, ensure_ascii=False, indent=2)

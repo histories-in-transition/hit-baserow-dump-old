@@ -58,22 +58,25 @@ def add_prev_next(MODEL_CONFIG, ID_FIELD):
         key_list = sorted(data.keys())
         for i, v in enumerate(key_list):
             prev_item = data[key_list[i - 1]][ID_FIELD]
-            prev_label = data[key_list[i - 1]]["view_label"]
+            try:
+                prev_label = data[key_list[i - 1]]["view_label"]
+            except KeyError:
+                prev_label = prev_item
             try:
                 next_item = data[key_list[i + 1]][ID_FIELD]
-                next_label = data[key_list[i + 1]]["view_label"]
+                try:
+                    next_label = data[key_list[i + 1]]["view_label"]
+                except KeyError:
+                    next_label = next_item
             except IndexError:
                 next_item = data[key_list[0]][ID_FIELD]
-                next_label = data[key_list[0]]["view_label"]
+                try:
+                    next_label = data[key_list[0]]["view_label"]
+                except KeyError:
+                    next_label = next_item
             value = data[key_list[i]]
 
-            value["prev"] = {
-                "id": prev_item,
-                "label": prev_label
-            }
-            value["prev"] = {
-                "id": next_item,
-                "label": next_label
-            }
+            value["prev"] = {"id": prev_item, "label": prev_label}
+            value["next"] = {"id": next_item, "label": next_label}
         with open(file_name, "w", encoding="utf-8") as fp:
             json.dump(data, fp, ensure_ascii=False, indent=2)

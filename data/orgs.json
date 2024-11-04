@@ -43,7 +43,16 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-03"
+    "Last modified": "2024-07-03",
+    "view_label": "ÖNB",
+    "prev": {
+      "id": "hit_org__9",
+      "label": "Kloster Saint-Amand-les-Eaux"
+    },
+    "next": {
+      "id": "hit_org__10",
+      "label": "Hofbibliothek München"
+    }
   },
   "2": {
     "id": 2,
@@ -89,7 +98,16 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2024-07-11",
+    "view_label": "UBWÜ",
+    "prev": {
+      "id": "hit_org__10",
+      "label": "Hofbibliothek München"
+    },
+    "next": {
+      "id": "hit_org__4",
+      "label": "BSB"
+    }
   },
   "4": {
     "id": 4,
@@ -135,7 +153,16 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-03"
+    "Last modified": "2024-07-03",
+    "view_label": "BSB",
+    "prev": {
+      "id": "hit_org__2",
+      "label": "UBWÜ"
+    },
+    "next": {
+      "id": "hit_org__5",
+      "label": "Dombibliothek Würzburg"
+    }
   },
   "5": {
     "id": 5,
@@ -181,7 +208,16 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-05"
+    "Last modified": "2024-07-05",
+    "view_label": "Dombibliothek Würzburg",
+    "prev": {
+      "id": "hit_org__4",
+      "label": "BSB"
+    },
+    "next": {
+      "id": "hit_org__6",
+      "label": "Dombibliothek Freising"
+    }
   },
   "6": {
     "id": 6,
@@ -227,7 +263,16 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-05"
+    "Last modified": "2024-07-05",
+    "view_label": "Dombibliothek Freising",
+    "prev": {
+      "id": "hit_org__5",
+      "label": "Dombibliothek Würzburg"
+    },
+    "next": {
+      "id": "hit_org__7",
+      "label": "Erzabtei Sankt Peter (Salzburg)"
+    }
   },
   "7": {
     "id": 7,
@@ -273,7 +318,16 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-05"
+    "Last modified": "2024-07-05",
+    "view_label": "Erzabtei Sankt Peter (Salzburg)",
+    "prev": {
+      "id": "hit_org__6",
+      "label": "Dombibliothek Freising"
+    },
+    "next": {
+      "id": "hit_org__8",
+      "label": "Dombibliothek Salzburg"
+    }
   },
   "8": {
     "id": 8,
@@ -319,7 +373,16 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-18"
+    "Last modified": "2024-07-18",
+    "view_label": "Dombibliothek Salzburg",
+    "prev": {
+      "id": "hit_org__7",
+      "label": "Erzabtei Sankt Peter (Salzburg)"
+    },
+    "next": {
+      "id": "hit_org__9",
+      "label": "Kloster Saint-Amand-les-Eaux"
+    }
   },
   "9": {
     "id": 9,
@@ -365,7 +428,16 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2024-07-11",
+    "view_label": "Kloster Saint-Amand-les-Eaux",
+    "prev": {
+      "id": "hit_org__8",
+      "label": "Dombibliothek Salzburg"
+    },
+    "next": {
+      "id": "hit_org__1",
+      "label": "ÖNB"
+    }
   },
   "10": {
     "id": 10,
@@ -411,6 +483,15 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-24"
+    "Last modified": "2024-09-24",
+    "view_label": "Hofbibliothek München",
+    "prev": {
+      "id": "hit_org__1",
+      "label": "ÖNB"
+    },
+    "next": {
+      "id": "hit_org__2",
+      "label": "UBWÜ"
+    }
   }
 }

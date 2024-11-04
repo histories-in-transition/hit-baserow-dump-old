@@ -102,7 +102,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-22",
-    "view_label": "De temporibus"
+    "view_label": "De temporibus",
+    "prev": {
+      "id": "hit_works__99",
+      "label": "Mondkalender"
+    },
+    "next": {
+      "id": "hit_works__100",
+      "label": "Komputistische Schriften"
+    }
   },
   "3": {
     "id": 3,
@@ -201,7 +209,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-22",
-    "view_label": "Historiae adversus paganos"
+    "view_label": "Historiae adversus paganos",
+    "prev": {
+      "id": "hit_works__29",
+      "label": "Historia ecclesiastica cum Rufini continuatione"
+    },
+    "next": {
+      "id": "hit_works__30",
+      "label": "Historia Ottonis"
+    }
   },
   "4": {
     "id": 4,
@@ -298,7 +314,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-22",
-    "view_label": "De cyclo paschali"
+    "view_label": "De cyclo paschali",
+    "prev": {
+      "id": "hit_works__39",
+      "label": "Vita sancti Wunebaldi"
+    },
+    "next": {
+      "id": "hit_works__40",
+      "label": "Vita sancti Willibaldi"
+    }
   },
   "5": {
     "id": 5,
@@ -322,7 +346,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-06-17",
-    "view_label": "Argumentum descriptionis omnium terminorum singulis annis decemnovennalis cycli"
+    "view_label": "Argumentum descriptionis omnium terminorum singulis annis decemnovennalis cycli",
+    "prev": {
+      "id": "hit_works__49",
+      "label": "Vita sancti Columbae"
+    },
+    "next": {
+      "id": "hit_works__50",
+      "label": "Historiae duae de sancta cruce"
+    }
   },
   "6": {
     "id": 6,
@@ -401,7 +433,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-12",
-    "view_label": "Epactae lunae & solis"
+    "view_label": "Epactae lunae & solis",
+    "prev": {
+      "id": "hit_works__59",
+      "label": "Tractatus in evangelium Johannis"
+    },
+    "next": {
+      "id": "hit_works__60",
+      "label": "Miracula sancti Martini"
+    }
   },
   "7": {
     "id": 7,
@@ -506,7 +546,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-22",
-    "view_label": "De temporum ratione"
+    "view_label": "De temporum ratione",
+    "prev": {
+      "id": "hit_works__69",
+      "label": "Ephemeris"
+    },
+    "next": {
+      "id": "hit_works__70",
+      "label": "Tabelle mit Loca embolismorum und Concordia maris et lunae"
+    }
   },
   "8": {
     "id": 8,
@@ -582,7 +630,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-22",
-    "view_label": "computistical texts"
+    "view_label": "computistical texts",
+    "prev": {
+      "id": "hit_works__79",
+      "label": "Hymnus Ad Incensum Lucernae"
+    },
+    "next": {
+      "id": "hit_works__80",
+      "label": "Decretales"
+    }
   },
   "11": {
     "id": 11,
@@ -705,7 +761,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-02",
-    "view_label": "hieronymi chronicon"
+    "view_label": "hieronymi chronicon",
+    "prev": {
+      "id": "hit_works__109",
+      "label": "Epistolae duae de electione Eberhardi I. archiepiscopus Salisburgensis"
+    },
+    "next": {
+      "id": "hit_works__110",
+      "label": "Nomina fratrum canonicorum et monachorum nec non et monarchum eisudem sedis"
+    }
   },
   "13": {
     "id": 13,
@@ -765,7 +829,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-03",
-    "view_label": "Annales Iuvavenses maiores"
+    "view_label": "Annales Iuvavenses maiores",
+    "prev": {
+      "id": "hit_works__129",
+      "label": "Concilium Toletanum quartum"
+    },
+    "next": {
+      "id": "hit_works__130",
+      "label": "Verzeichnis der Giebigkeiten der domcapitlischen Besitzungen in Erding (Oberbayern)"
+    }
   },
   "14": {
     "id": 14,
@@ -893,7 +965,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-12",
-    "view_label": "Annales Iuvavenses minores"
+    "view_label": "Annales Iuvavenses minores",
+    "prev": {
+      "id": "hit_works__134",
+      "label": "De quodam solitario"
+    },
+    "next": {
+      "id": "hit_works__15",
+      "label": ""
+    }
   },
   "15": {
     "id": 15,
@@ -917,7 +997,15 @@
       "name": "Ivana Dobcheva"
     },
     "Last modified": "2024-10-10",
-    "view_label": ""
+    "view_label": "",
+    "prev": {
+      "id": "hit_works__14",
+      "label": "Annales Iuvavenses minores"
+    },
+    "next": {
+      "id": "hit_works__16",
+      "label": "Synchrone Tafeln über das Alter der Patriarchen von Noe bis Jakob"
+    }
   },
   "16": {
     "id": 16,
@@ -988,7 +1076,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-12",
-    "view_label": "Synchrone Tafeln über das Alter der Patriarchen von Noe bis Jakob"
+    "view_label": "Synchrone Tafeln über das Alter der Patriarchen von Noe bis Jakob",
+    "prev": {
+      "id": "hit_works__15",
+      "label": ""
+    },
+    "next": {
+      "id": "hit_works__17",
+      "label": "Vita sancti Martini"
+    }
   },
   "17": {
     "id": 17,
@@ -1093,7 +1189,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-05",
-    "view_label": "Vita sancti Martini"
+    "view_label": "Vita sancti Martini",
+    "prev": {
+      "id": "hit_works__16",
+      "label": "Synchrone Tafeln über das Alter der Patriarchen von Noe bis Jakob"
+    },
+    "next": {
+      "id": "hit_works__18",
+      "label": "Epistulae"
+    }
   },
   "18": {
     "id": 18,
@@ -1198,7 +1302,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-12",
-    "view_label": "Epistulae"
+    "view_label": "Epistulae",
+    "prev": {
+      "id": "hit_works__17",
+      "label": "Vita sancti Martini"
+    },
+    "next": {
+      "id": "hit_works__19",
+      "label": "Dialogi"
+    }
   },
   "19": {
     "id": 19,
@@ -1303,7 +1415,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-22",
-    "view_label": "Dialogi"
+    "view_label": "Dialogi",
+    "prev": {
+      "id": "hit_works__18",
+      "label": "Epistulae"
+    },
+    "next": {
+      "id": "hit_works__20",
+      "label": "Miracula sancti Martini"
+    }
   },
   "20": {
     "id": 20,
@@ -1458,7 +1578,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-11",
-    "view_label": "Miracula sancti Martini"
+    "view_label": "Miracula sancti Martini",
+    "prev": {
+      "id": "hit_works__19",
+      "label": "Dialogi"
+    },
+    "next": {
+      "id": "hit_works__21",
+      "label": "Tituli metrici de sancto Martino"
+    }
   },
   "21": {
     "id": 21,
@@ -1563,7 +1691,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-12",
-    "view_label": "Tituli metrici de sancto Martino"
+    "view_label": "Tituli metrici de sancto Martino",
+    "prev": {
+      "id": "hit_works__20",
+      "label": "Miracula sancti Martini"
+    },
+    "next": {
+      "id": "hit_works__22",
+      "label": "De basilica sancti Martini et sollemnitatibus"
+    }
   },
   "22": {
     "id": 22,
@@ -1718,7 +1854,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-12",
-    "view_label": "De basilica sancti Martini et sollemnitatibus"
+    "view_label": "De basilica sancti Martini et sollemnitatibus",
+    "prev": {
+      "id": "hit_works__21",
+      "label": "Tituli metrici de sancto Martino"
+    },
+    "next": {
+      "id": "hit_works__23",
+      "label": "Confessio sancti Martini"
+    }
   },
   "74": {
     "id": 74,
@@ -1873,7 +2017,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-11",
-    "view_label": "Vita sancti Bricii"
+    "view_label": "Vita sancti Bricii",
+    "prev": {
+      "id": "hit_works__73",
+      "label": "Decem libri historiarum"
+    },
+    "next": {
+      "id": "hit_works__75",
+      "label": "Tintenrezept"
+    }
   },
   "23": {
     "id": 23,
@@ -1972,7 +2124,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-12",
-    "view_label": "Confessio sancti Martini"
+    "view_label": "Confessio sancti Martini",
+    "prev": {
+      "id": "hit_works__22",
+      "label": "De basilica sancti Martini et sollemnitatibus"
+    },
+    "next": {
+      "id": "hit_works__24",
+      "label": "Miraculum de puella ab ortu nativitatis suae muta et surda"
+    }
   },
   "24": {
     "id": 24,
@@ -2014,7 +2174,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-05",
-    "view_label": "Miraculum de puella ab ortu nativitatis suae muta et surda"
+    "view_label": "Miraculum de puella ab ortu nativitatis suae muta et surda",
+    "prev": {
+      "id": "hit_works__23",
+      "label": "Confessio sancti Martini"
+    },
+    "next": {
+      "id": "hit_works__25",
+      "label": "De orthographia"
+    }
   },
   "25": {
     "id": 25,
@@ -2095,7 +2263,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-22",
-    "view_label": "De orthographia"
+    "view_label": "De orthographia",
+    "prev": {
+      "id": "hit_works__24",
+      "label": "Miraculum de puella ab ortu nativitatis suae muta et surda"
+    },
+    "next": {
+      "id": "hit_works__26",
+      "label": "Corpus juris civilis"
+    }
   },
   "26": {
     "id": 26,
@@ -2176,7 +2352,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-12",
-    "view_label": "Corpus juris civilis"
+    "view_label": "Corpus juris civilis",
+    "prev": {
+      "id": "hit_works__25",
+      "label": "De orthographia"
+    },
+    "next": {
+      "id": "hit_works__27",
+      "label": "Historia tripartita ab Epiphanio scholastico translata"
+    }
   },
   "27": {
     "id": 27,
@@ -2275,7 +2459,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-05",
-    "view_label": "Historia tripartita ab Epiphanio scholastico translata"
+    "view_label": "Historia tripartita ab Epiphanio scholastico translata",
+    "prev": {
+      "id": "hit_works__26",
+      "label": "Corpus juris civilis"
+    },
+    "next": {
+      "id": "hit_works__28",
+      "label": "De septem gradibus consanguinitatis"
+    }
   },
   "28": {
     "id": 28,
@@ -2317,7 +2509,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-12",
-    "view_label": "De septem gradibus consanguinitatis"
+    "view_label": "De septem gradibus consanguinitatis",
+    "prev": {
+      "id": "hit_works__27",
+      "label": "Historia tripartita ab Epiphanio scholastico translata"
+    },
+    "next": {
+      "id": "hit_works__29",
+      "label": "Historia ecclesiastica cum Rufini continuatione"
+    }
   },
   "29": {
     "id": 29,
@@ -2462,7 +2662,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-05",
-    "view_label": "Historia ecclesiastica cum Rufini continuatione"
+    "view_label": "Historia ecclesiastica cum Rufini continuatione",
+    "prev": {
+      "id": "hit_works__28",
+      "label": "De septem gradibus consanguinitatis"
+    },
+    "next": {
+      "id": "hit_works__3",
+      "label": "Historiae adversus paganos"
+    }
   },
   "30": {
     "id": 30,
@@ -2569,7 +2777,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-05",
-    "view_label": "Historia Ottonis"
+    "view_label": "Historia Ottonis",
+    "prev": {
+      "id": "hit_works__3",
+      "label": "Historiae adversus paganos"
+    },
+    "next": {
+      "id": "hit_works__31",
+      "label": "Antapodosis"
+    }
   },
   "31": {
     "id": 31,
@@ -2676,7 +2892,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-05",
-    "view_label": "Antapodosis"
+    "view_label": "Antapodosis",
+    "prev": {
+      "id": "hit_works__30",
+      "label": "Historia Ottonis"
+    },
+    "next": {
+      "id": "hit_works__32",
+      "label": "Chronica cum Adalberti continuatione"
+    }
   },
   "32": {
     "id": 32,
@@ -2775,7 +2999,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-05",
-    "view_label": "Chronica cum Adalberti continuatione"
+    "view_label": "Chronica cum Adalberti continuatione",
+    "prev": {
+      "id": "hit_works__31",
+      "label": "Antapodosis"
+    },
+    "next": {
+      "id": "hit_works__33",
+      "label": "Historia Langobardorum"
+    }
   },
   "33": {
     "id": 33,
@@ -2874,7 +3106,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-05",
-    "view_label": "Historia Langobardorum"
+    "view_label": "Historia Langobardorum",
+    "prev": {
+      "id": "hit_works__32",
+      "label": "Chronica cum Adalberti continuatione"
+    },
+    "next": {
+      "id": "hit_works__34",
+      "label": "Vita sancti Hilarionis"
+    }
   },
   "34": {
     "id": 34,
@@ -2979,7 +3219,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-05",
-    "view_label": "Vita sancti Hilarionis"
+    "view_label": "Vita sancti Hilarionis",
+    "prev": {
+      "id": "hit_works__33",
+      "label": "Historia Langobardorum"
+    },
+    "next": {
+      "id": "hit_works__35",
+      "label": "Vita sancti Malchi"
+    }
   },
   "35": {
     "id": 35,
@@ -3084,7 +3332,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-05",
-    "view_label": "Vita sancti Malchi"
+    "view_label": "Vita sancti Malchi",
+    "prev": {
+      "id": "hit_works__34",
+      "label": "Vita sancti Hilarionis"
+    },
+    "next": {
+      "id": "hit_works__36",
+      "label": "Vita sancti Pauli"
+    }
   },
   "36": {
     "id": 36,
@@ -3189,7 +3445,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-05",
-    "view_label": "Vita sancti Pauli"
+    "view_label": "Vita sancti Pauli",
+    "prev": {
+      "id": "hit_works__35",
+      "label": "Vita sancti Malchi"
+    },
+    "next": {
+      "id": "hit_works__37",
+      "label": "Vita beati Antonii abbatis, Euagrio interprete"
+    }
   },
   "37": {
     "id": 37,
@@ -3270,7 +3534,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-05",
-    "view_label": "Vita beati Antonii abbatis, Euagrio interprete"
+    "view_label": "Vita beati Antonii abbatis, Euagrio interprete",
+    "prev": {
+      "id": "hit_works__36",
+      "label": "Vita sancti Pauli"
+    },
+    "next": {
+      "id": "hit_works__38",
+      "label": "Vita sancti Bonifatii"
+    }
   },
   "38": {
     "id": 38,
@@ -3351,7 +3623,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-05",
-    "view_label": "Vita sancti Bonifatii"
+    "view_label": "Vita sancti Bonifatii",
+    "prev": {
+      "id": "hit_works__37",
+      "label": "Vita beati Antonii abbatis, Euagrio interprete"
+    },
+    "next": {
+      "id": "hit_works__39",
+      "label": "Vita sancti Wunebaldi"
+    }
   },
   "39": {
     "id": 39,
@@ -3440,7 +3720,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-05",
-    "view_label": "Vita sancti Wunebaldi"
+    "view_label": "Vita sancti Wunebaldi",
+    "prev": {
+      "id": "hit_works__38",
+      "label": "Vita sancti Bonifatii"
+    },
+    "next": {
+      "id": "hit_works__4",
+      "label": "De cyclo paschali"
+    }
   },
   "40": {
     "id": 40,
@@ -3529,7 +3817,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-05",
-    "view_label": "Vita sancti Willibaldi"
+    "view_label": "Vita sancti Willibaldi",
+    "prev": {
+      "id": "hit_works__4",
+      "label": "De cyclo paschali"
+    },
+    "next": {
+      "id": "hit_works__41",
+      "label": "Vita sanctae Euphrosinae"
+    }
   },
   "41": {
     "id": 41,
@@ -3571,7 +3867,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-05",
-    "view_label": "Vita sanctae Euphrosinae"
+    "view_label": "Vita sanctae Euphrosinae",
+    "prev": {
+      "id": "hit_works__40",
+      "label": "Vita sancti Willibaldi"
+    },
+    "next": {
+      "id": "hit_works__42",
+      "label": "Synonyma"
+    }
   },
   "42": {
     "id": 42,
@@ -3684,7 +3988,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-22",
-    "view_label": "Synonyma"
+    "view_label": "Synonyma",
+    "prev": {
+      "id": "hit_works__41",
+      "label": "Vita sanctae Euphrosinae"
+    },
+    "next": {
+      "id": "hit_works__43",
+      "label": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum"
+    }
   },
   "43": {
     "id": 43,
@@ -3797,7 +4109,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-23",
-    "view_label": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum"
+    "view_label": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum",
+    "prev": {
+      "id": "hit_works__42",
+      "label": "Synonyma"
+    },
+    "next": {
+      "id": "hit_works__44",
+      "label": "De natura rerum"
+    }
   },
   "44": {
     "id": 44,
@@ -3910,7 +4230,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-22",
-    "view_label": "De natura rerum"
+    "view_label": "De natura rerum",
+    "prev": {
+      "id": "hit_works__43",
+      "label": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum"
+    },
+    "next": {
+      "id": "hit_works__45",
+      "label": "Breviarium apostolorum"
+    }
   },
   "45": {
     "id": 45,
@@ -3952,7 +4280,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-22",
-    "view_label": "Breviarium apostolorum"
+    "view_label": "Breviarium apostolorum",
+    "prev": {
+      "id": "hit_works__44",
+      "label": "De natura rerum"
+    },
+    "next": {
+      "id": "hit_works__46",
+      "label": "Concordia testimoniorum"
+    }
   },
   "46": {
     "id": 46,
@@ -4033,7 +4369,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-22",
-    "view_label": "Concordia testimoniorum"
+    "view_label": "Concordia testimoniorum",
+    "prev": {
+      "id": "hit_works__45",
+      "label": "Breviarium apostolorum"
+    },
+    "next": {
+      "id": "hit_works__47",
+      "label": "De unitate sanctae trinitatis"
+    }
   },
   "47": {
     "id": 47,
@@ -4122,7 +4466,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-12",
-    "view_label": "De unitate sanctae trinitatis"
+    "view_label": "De unitate sanctae trinitatis",
+    "prev": {
+      "id": "hit_works__46",
+      "label": "Concordia testimoniorum"
+    },
+    "next": {
+      "id": "hit_works__48",
+      "label": "Moralia in Job"
+    }
   },
   "48": {
     "id": 48,
@@ -4221,7 +4573,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-12",
-    "view_label": "Moralia in Job"
+    "view_label": "Moralia in Job",
+    "prev": {
+      "id": "hit_works__47",
+      "label": "De unitate sanctae trinitatis"
+    },
+    "next": {
+      "id": "hit_works__49",
+      "label": "Vita sancti Columbae"
+    }
   },
   "49": {
     "id": 49,
@@ -4302,7 +4662,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-05",
-    "view_label": "Vita sancti Columbae"
+    "view_label": "Vita sancti Columbae",
+    "prev": {
+      "id": "hit_works__48",
+      "label": "Moralia in Job"
+    },
+    "next": {
+      "id": "hit_works__5",
+      "label": "Argumentum descriptionis omnium terminorum singulis annis decemnovennalis cycli"
+    }
   },
   "50": {
     "id": 50,
@@ -4344,7 +4712,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-22",
-    "view_label": "Historiae duae de sancta cruce"
+    "view_label": "Historiae duae de sancta cruce",
+    "prev": {
+      "id": "hit_works__5",
+      "label": "Argumentum descriptionis omnium terminorum singulis annis decemnovennalis cycli"
+    },
+    "next": {
+      "id": "hit_works__51",
+      "label": "Commentarii in Ciceronis Topica"
+    }
   },
   "51": {
     "id": 51,
@@ -4425,7 +4801,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-22",
-    "view_label": "Commentarii in Ciceronis Topica"
+    "view_label": "Commentarii in Ciceronis Topica",
+    "prev": {
+      "id": "hit_works__50",
+      "label": "Historiae duae de sancta cruce"
+    },
+    "next": {
+      "id": "hit_works__52",
+      "label": "Revelatio Esdrae de qualitatibus anni"
+    }
   },
   "52": {
     "id": 52,
@@ -4506,7 +4890,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-12",
-    "view_label": "Revelatio Esdrae de qualitatibus anni"
+    "view_label": "Revelatio Esdrae de qualitatibus anni",
+    "prev": {
+      "id": "hit_works__51",
+      "label": "Commentarii in Ciceronis Topica"
+    },
+    "next": {
+      "id": "hit_works__53",
+      "label": "Epitoma de Tito Livio"
+    }
   },
   "53": {
     "id": 53,
@@ -4605,7 +4997,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-05",
-    "view_label": "Epitoma de Tito Livio"
+    "view_label": "Epitoma de Tito Livio",
+    "prev": {
+      "id": "hit_works__52",
+      "label": "Revelatio Esdrae de qualitatibus anni"
+    },
+    "next": {
+      "id": "hit_works__54",
+      "label": "Periochae"
+    }
   },
   "54": {
     "id": 54,
@@ -4703,7 +5103,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-22",
-    "view_label": "Periochae"
+    "view_label": "Periochae",
+    "prev": {
+      "id": "hit_works__53",
+      "label": "Epitoma de Tito Livio"
+    },
+    "next": {
+      "id": "hit_works__55",
+      "label": "Historia monachorum"
+    }
   },
   "55": {
     "id": 55,
@@ -4810,7 +5218,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-05",
-    "view_label": "Historia monachorum"
+    "view_label": "Historia monachorum",
+    "prev": {
+      "id": "hit_works__54",
+      "label": "Periochae"
+    },
+    "next": {
+      "id": "hit_works__56",
+      "label": "Catalogus regum et imperatorum Frisingensis"
+    }
   },
   "56": {
     "id": 56,
@@ -4852,7 +5268,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-22",
-    "view_label": "Catalogus regum et imperatorum Frisingensis"
+    "view_label": "Catalogus regum et imperatorum Frisingensis",
+    "prev": {
+      "id": "hit_works__55",
+      "label": "Historia monachorum"
+    },
+    "next": {
+      "id": "hit_works__57",
+      "label": "Galerius Maximianus Inuictus"
+    }
   },
   "57": {
     "id": 57,
@@ -5006,7 +5430,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-23",
-    "view_label": "Galerius Maximianus Inuictus"
+    "view_label": "Galerius Maximianus Inuictus",
+    "prev": {
+      "id": "hit_works__56",
+      "label": "Catalogus regum et imperatorum Frisingensis"
+    },
+    "next": {
+      "id": "hit_works__58",
+      "label": "Ab urbe condita"
+    }
   },
   "58": {
     "id": 58,
@@ -5087,7 +5519,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-23",
-    "view_label": "Ab urbe condita"
+    "view_label": "Ab urbe condita",
+    "prev": {
+      "id": "hit_works__57",
+      "label": "Galerius Maximianus Inuictus"
+    },
+    "next": {
+      "id": "hit_works__59",
+      "label": "Tractatus in evangelium Johannis"
+    }
   },
   "59": {
     "id": 59,
@@ -5186,7 +5626,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-22",
-    "view_label": "Tractatus in evangelium Johannis"
+    "view_label": "Tractatus in evangelium Johannis",
+    "prev": {
+      "id": "hit_works__58",
+      "label": "Ab urbe condita"
+    },
+    "next": {
+      "id": "hit_works__6",
+      "label": "Epactae lunae & solis"
+    }
   },
   "60": {
     "id": 60,
@@ -5346,7 +5794,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-09",
-    "view_label": "Miracula sancti Martini"
+    "view_label": "Miracula sancti Martini",
+    "prev": {
+      "id": "hit_works__6",
+      "label": "Epactae lunae & solis"
+    },
+    "next": {
+      "id": "hit_works__61",
+      "label": "Vita sancti Briccii"
+    }
   },
   "61": {
     "id": 61,
@@ -5506,7 +5962,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-09",
-    "view_label": "Vita sancti Briccii"
+    "view_label": "Vita sancti Briccii",
+    "prev": {
+      "id": "hit_works__60",
+      "label": "Miracula sancti Martini"
+    },
+    "next": {
+      "id": "hit_works__62",
+      "label": "De somnis"
+    }
   },
   "62": {
     "id": 62,
@@ -5548,7 +6012,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-23",
-    "view_label": "De somnis"
+    "view_label": "De somnis",
+    "prev": {
+      "id": "hit_works__61",
+      "label": "Vita sancti Briccii"
+    },
+    "next": {
+      "id": "hit_works__63",
+      "label": "Capitulare evangeliorum"
+    }
   },
   "63": {
     "id": 63,
@@ -5572,7 +6044,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-09",
-    "view_label": "Capitulare evangeliorum"
+    "view_label": "Capitulare evangeliorum",
+    "prev": {
+      "id": "hit_works__62",
+      "label": "De somnis"
+    },
+    "next": {
+      "id": "hit_works__64",
+      "label": "Epistola de reliquiis sancti Bartholomaei apostoli nuper in Baioariam allatis"
+    }
   },
   "64": {
     "id": 64,
@@ -5653,7 +6133,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-22",
-    "view_label": "Epistola de reliquiis sancti Bartholomaei apostoli nuper in Baioariam allatis"
+    "view_label": "Epistola de reliquiis sancti Bartholomaei apostoli nuper in Baioariam allatis",
+    "prev": {
+      "id": "hit_works__63",
+      "label": "Capitulare evangeliorum"
+    },
+    "next": {
+      "id": "hit_works__65",
+      "label": "De inventione"
+    }
   },
   "65": {
     "id": 65,
@@ -5724,7 +6212,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-23",
-    "view_label": "De inventione"
+    "view_label": "De inventione",
+    "prev": {
+      "id": "hit_works__64",
+      "label": "Epistola de reliquiis sancti Bartholomaei apostoli nuper in Baioariam allatis"
+    },
+    "next": {
+      "id": "hit_works__66",
+      "label": "De exaltatione"
+    }
   },
   "66": {
     "id": 66,
@@ -5795,7 +6291,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-23",
-    "view_label": "De exaltatione"
+    "view_label": "De exaltatione",
+    "prev": {
+      "id": "hit_works__65",
+      "label": "De inventione"
+    },
+    "next": {
+      "id": "hit_works__67",
+      "label": "Bibelauszug"
+    }
   },
   "67": {
     "id": 67,
@@ -5819,7 +6323,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-11",
-    "view_label": "Bibelauszug"
+    "view_label": "Bibelauszug",
+    "prev": {
+      "id": "hit_works__66",
+      "label": "De exaltatione"
+    },
+    "next": {
+      "id": "hit_works__68",
+      "label": "Responsorien, Versikel, Antiphonen der Quadragesimalzeit"
+    }
   },
   "68": {
     "id": 68,
@@ -5843,7 +6355,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-15",
-    "view_label": "Responsorien, Versikel, Antiphonen der Quadragesimalzeit"
+    "view_label": "Responsorien, Versikel, Antiphonen der Quadragesimalzeit",
+    "prev": {
+      "id": "hit_works__67",
+      "label": "Bibelauszug"
+    },
+    "next": {
+      "id": "hit_works__69",
+      "label": "Ephemeris"
+    }
   },
   "69": {
     "id": 69,
@@ -5867,7 +6387,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-11",
-    "view_label": "Ephemeris"
+    "view_label": "Ephemeris",
+    "prev": {
+      "id": "hit_works__68",
+      "label": "Responsorien, Versikel, Antiphonen der Quadragesimalzeit"
+    },
+    "next": {
+      "id": "hit_works__7",
+      "label": "De temporum ratione"
+    }
   },
   "70": {
     "id": 70,
@@ -5891,7 +6419,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-11",
-    "view_label": "Tabelle mit Loca embolismorum und Concordia maris et lunae"
+    "view_label": "Tabelle mit Loca embolismorum und Concordia maris et lunae",
+    "prev": {
+      "id": "hit_works__7",
+      "label": "De temporum ratione"
+    },
+    "next": {
+      "id": "hit_works__71",
+      "label": "Eidesformel Papst Leos III."
+    }
   },
   "71": {
     "id": 71,
@@ -5954,7 +6490,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-11",
-    "view_label": "Eidesformel Papst Leos III."
+    "view_label": "Eidesformel Papst Leos III.",
+    "prev": {
+      "id": "hit_works__70",
+      "label": "Tabelle mit Loca embolismorum und Concordia maris et lunae"
+    },
+    "next": {
+      "id": "hit_works__72",
+      "label": "De globo mundi et coniecture orbis versus"
+    }
   },
   "72": {
     "id": 72,
@@ -6025,7 +6569,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-12",
-    "view_label": "De globo mundi et coniecture orbis versus"
+    "view_label": "De globo mundi et coniecture orbis versus",
+    "prev": {
+      "id": "hit_works__71",
+      "label": "Eidesformel Papst Leos III."
+    },
+    "next": {
+      "id": "hit_works__73",
+      "label": "Decem libri historiarum"
+    }
   },
   "73": {
     "id": 73,
@@ -6146,7 +6698,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-29",
-    "view_label": "Decem libri historiarum"
+    "view_label": "Decem libri historiarum",
+    "prev": {
+      "id": "hit_works__72",
+      "label": "De globo mundi et coniecture orbis versus"
+    },
+    "next": {
+      "id": "hit_works__74",
+      "label": "Vita sancti Bricii"
+    }
   },
   "75": {
     "id": 75,
@@ -6170,7 +6730,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-15",
-    "view_label": "Tintenrezept"
+    "view_label": "Tintenrezept",
+    "prev": {
+      "id": "hit_works__74",
+      "label": "Vita sancti Bricii"
+    },
+    "next": {
+      "id": "hit_works__76",
+      "label": "Abergläubische Segen"
+    }
   },
   "76": {
     "id": 76,
@@ -6194,7 +6762,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-15",
-    "view_label": "Abergläubische Segen"
+    "view_label": "Abergläubische Segen",
+    "prev": {
+      "id": "hit_works__75",
+      "label": "Tintenrezept"
+    },
+    "next": {
+      "id": "hit_works__77",
+      "label": "Rezept"
+    }
   },
   "77": {
     "id": 77,
@@ -6218,7 +6794,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-15",
-    "view_label": "Rezept"
+    "view_label": "Rezept",
+    "prev": {
+      "id": "hit_works__76",
+      "label": "Abergläubische Segen"
+    },
+    "next": {
+      "id": "hit_works__78",
+      "label": "Historiographische und komputistische Zusätze"
+    }
   },
   "78": {
     "id": 78,
@@ -6277,7 +6861,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-23",
-    "view_label": "Historiographische und komputistische Zusätze"
+    "view_label": "Historiographische und komputistische Zusätze",
+    "prev": {
+      "id": "hit_works__77",
+      "label": "Rezept"
+    },
+    "next": {
+      "id": "hit_works__79",
+      "label": "Hymnus Ad Incensum Lucernae"
+    }
   },
   "79": {
     "id": 79,
@@ -6358,7 +6950,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-16",
-    "view_label": "Hymnus Ad Incensum Lucernae"
+    "view_label": "Hymnus Ad Incensum Lucernae",
+    "prev": {
+      "id": "hit_works__78",
+      "label": "Historiographische und komputistische Zusätze"
+    },
+    "next": {
+      "id": "hit_works__8",
+      "label": "computistical texts"
+    }
   },
   "80": {
     "id": 80,
@@ -6382,7 +6982,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-18",
-    "view_label": "Decretales"
+    "view_label": "Decretales",
+    "prev": {
+      "id": "hit_works__8",
+      "label": "computistical texts"
+    },
+    "next": {
+      "id": "hit_works__81",
+      "label": "Martyrologium"
+    }
   },
   "81": {
     "id": 81,
@@ -6469,7 +7077,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-18",
-    "view_label": "Martyrologium"
+    "view_label": "Martyrologium",
+    "prev": {
+      "id": "hit_works__80",
+      "label": "Decretales"
+    },
+    "next": {
+      "id": "hit_works__82",
+      "label": "Inhaltsverzeichnis"
+    }
   },
   "82": {
     "id": 82,
@@ -6493,7 +7109,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-20",
-    "view_label": "Inhaltsverzeichnis"
+    "view_label": "Inhaltsverzeichnis",
+    "prev": {
+      "id": "hit_works__81",
+      "label": "Martyrologium"
+    },
+    "next": {
+      "id": "hit_works__83",
+      "label": "Bienensegen"
+    }
   },
   "83": {
     "id": 83,
@@ -6517,7 +7141,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-20",
-    "view_label": "Bienensegen"
+    "view_label": "Bienensegen",
+    "prev": {
+      "id": "hit_works__82",
+      "label": "Inhaltsverzeichnis"
+    },
+    "next": {
+      "id": "hit_works__84",
+      "label": "Althochdeutscher Eintrag"
+    }
   },
   "84": {
     "id": 84,
@@ -6541,7 +7173,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-20",
-    "view_label": "Althochdeutscher Eintrag"
+    "view_label": "Althochdeutscher Eintrag",
+    "prev": {
+      "id": "hit_works__83",
+      "label": "Bienensegen"
+    },
+    "next": {
+      "id": "hit_works__85",
+      "label": "Komputistische Anweisungen"
+    }
   },
   "85": {
     "id": 85,
@@ -6565,7 +7205,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-20",
-    "view_label": "Komputistische Anweisungen"
+    "view_label": "Komputistische Anweisungen",
+    "prev": {
+      "id": "hit_works__84",
+      "label": "Althochdeutscher Eintrag"
+    },
+    "next": {
+      "id": "hit_works__86",
+      "label": "Ave maris stella"
+    }
   },
   "86": {
     "id": 86,
@@ -6607,7 +7255,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-20",
-    "view_label": "Ave maris stella"
+    "view_label": "Ave maris stella",
+    "prev": {
+      "id": "hit_works__85",
+      "label": "Komputistische Anweisungen"
+    },
+    "next": {
+      "id": "hit_works__87",
+      "label": "Abbreviatio chronicae a mundo condito usque ad Carolum Magnum"
+    }
   },
   "87": {
     "id": 87,
@@ -6649,7 +7305,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-20",
-    "view_label": "Abbreviatio chronicae a mundo condito usque ad Carolum Magnum"
+    "view_label": "Abbreviatio chronicae a mundo condito usque ad Carolum Magnum",
+    "prev": {
+      "id": "hit_works__86",
+      "label": "Ave maris stella"
+    },
+    "next": {
+      "id": "hit_works__88",
+      "label": "Argumentum ad annum mundi inveniendum"
+    }
   },
   "88": {
     "id": 88,
@@ -6691,7 +7355,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-23",
-    "view_label": "Argumentum ad annum mundi inveniendum"
+    "view_label": "Argumentum ad annum mundi inveniendum",
+    "prev": {
+      "id": "hit_works__87",
+      "label": "Abbreviatio chronicae a mundo condito usque ad Carolum Magnum"
+    },
+    "next": {
+      "id": "hit_works__89",
+      "label": "Argumentum quomodo concurrentes sint inveniendi"
+    }
   },
   "89": {
     "id": 89,
@@ -6762,7 +7434,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-23",
-    "view_label": "Argumentum quomodo concurrentes sint inveniendi"
+    "view_label": "Argumentum quomodo concurrentes sint inveniendi",
+    "prev": {
+      "id": "hit_works__88",
+      "label": "Argumentum ad annum mundi inveniendum"
+    },
+    "next": {
+      "id": "hit_works__90",
+      "label": "De argumentis lunae"
+    }
   },
   "90": {
     "id": 90,
@@ -6841,7 +7521,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-23",
-    "view_label": "De argumentis lunae"
+    "view_label": "De argumentis lunae",
+    "prev": {
+      "id": "hit_works__89",
+      "label": "Argumentum quomodo concurrentes sint inveniendi"
+    },
+    "next": {
+      "id": "hit_works__91",
+      "label": "Argumentum de cursu lunae"
+    }
   },
   "91": {
     "id": 91,
@@ -6883,7 +7571,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-23",
-    "view_label": "Argumentum de cursu lunae"
+    "view_label": "Argumentum de cursu lunae",
+    "prev": {
+      "id": "hit_works__90",
+      "label": "De argumentis lunae"
+    },
+    "next": {
+      "id": "hit_works__92",
+      "label": "Martyrologium excarpsatum cum alphabetis"
+    }
   },
   "92": {
     "id": 92,
@@ -6907,7 +7603,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-23",
-    "view_label": "Martyrologium excarpsatum cum alphabetis"
+    "view_label": "Martyrologium excarpsatum cum alphabetis",
+    "prev": {
+      "id": "hit_works__91",
+      "label": "Argumentum de cursu lunae"
+    },
+    "next": {
+      "id": "hit_works__93",
+      "label": "Ratio de lunae discursu per signa que ad alphabetum pertinet priorem"
+    }
   },
   "93": {
     "id": 93,
@@ -6983,7 +7687,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-23",
-    "view_label": "Ratio de lunae discursu per signa que ad alphabetum pertinet priorem"
+    "view_label": "Ratio de lunae discursu per signa que ad alphabetum pertinet priorem",
+    "prev": {
+      "id": "hit_works__92",
+      "label": "Martyrologium excarpsatum cum alphabetis"
+    },
+    "next": {
+      "id": "hit_works__94",
+      "label": "Notitiae chronologicae (Ostertafel)"
+    }
   },
   "94": {
     "id": 94,
@@ -7007,7 +7719,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-25",
-    "view_label": "Notitiae chronologicae (Ostertafel)"
+    "view_label": "Notitiae chronologicae (Ostertafel)",
+    "prev": {
+      "id": "hit_works__93",
+      "label": "Ratio de lunae discursu per signa que ad alphabetum pertinet priorem"
+    },
+    "next": {
+      "id": "hit_works__95",
+      "label": "Annales Salisburgenses"
+    }
   },
   "95": {
     "id": 95,
@@ -7049,7 +7769,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-23",
-    "view_label": "Annales Salisburgenses"
+    "view_label": "Annales Salisburgenses",
+    "prev": {
+      "id": "hit_works__94",
+      "label": "Notitiae chronologicae (Ostertafel)"
+    },
+    "next": {
+      "id": "hit_works__96",
+      "label": "Liber calculationis"
+    }
   },
   "96": {
     "id": 96,
@@ -7108,7 +7836,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-25",
-    "view_label": "Liber calculationis"
+    "view_label": "Liber calculationis",
+    "prev": {
+      "id": "hit_works__95",
+      "label": "Annales Salisburgenses"
+    },
+    "next": {
+      "id": "hit_works__97",
+      "label": "Astronomische Schriften"
+    }
   },
   "97": {
     "id": 97,
@@ -7132,7 +7868,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-25",
-    "view_label": "Astronomische Schriften"
+    "view_label": "Astronomische Schriften",
+    "prev": {
+      "id": "hit_works__96",
+      "label": "Liber calculationis"
+    },
+    "next": {
+      "id": "hit_works__98",
+      "label": "De natura rerum"
+    }
   },
   "98": {
     "id": 98,
@@ -7219,7 +7963,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-25",
-    "view_label": "De natura rerum"
+    "view_label": "De natura rerum",
+    "prev": {
+      "id": "hit_works__97",
+      "label": "Astronomische Schriften"
+    },
+    "next": {
+      "id": "hit_works__99",
+      "label": "Mondkalender"
+    }
   },
   "99": {
     "id": 99,
@@ -7243,7 +7995,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-25",
-    "view_label": "Mondkalender"
+    "view_label": "Mondkalender",
+    "prev": {
+      "id": "hit_works__98",
+      "label": "De natura rerum"
+    },
+    "next": {
+      "id": "hit_works__1",
+      "label": "De temporibus"
+    }
   },
   "100": {
     "id": 100,
@@ -7285,7 +8045,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-25",
-    "view_label": "Komputistische Schriften"
+    "view_label": "Komputistische Schriften",
+    "prev": {
+      "id": "hit_works__1",
+      "label": "De temporibus"
+    },
+    "next": {
+      "id": "hit_works__101",
+      "label": "Catalogus praesulum Iuvavensium"
+    }
   },
   "101": {
     "id": 101,
@@ -7309,7 +8077,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-26",
-    "view_label": "Catalogus praesulum Iuvavensium"
+    "view_label": "Catalogus praesulum Iuvavensium",
+    "prev": {
+      "id": "hit_works__100",
+      "label": "Komputistische Schriften"
+    },
+    "next": {
+      "id": "hit_works__102",
+      "label": "Nomina regum Francorum"
+    }
   },
   "102": {
     "id": 102,
@@ -7351,7 +8127,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-26",
-    "view_label": "Nomina regum Francorum"
+    "view_label": "Nomina regum Francorum",
+    "prev": {
+      "id": "hit_works__101",
+      "label": "Catalogus praesulum Iuvavensium"
+    },
+    "next": {
+      "id": "hit_works__103",
+      "label": "Traditionsnotizen des Salzburger Domstiftes"
+    }
   },
   "103": {
     "id": 103,
@@ -7375,7 +8159,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-26",
-    "view_label": "Traditionsnotizen des Salzburger Domstiftes"
+    "view_label": "Traditionsnotizen des Salzburger Domstiftes",
+    "prev": {
+      "id": "hit_works__102",
+      "label": "Nomina regum Francorum"
+    },
+    "next": {
+      "id": "hit_works__104",
+      "label": "Epistola ad Eberhardum de electione eius in archiepiscopum Salisburgensem a. 1147"
+    }
   },
   "104": {
     "id": 104,
@@ -7456,7 +8248,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-26",
-    "view_label": "Epistola ad Eberhardum de electione eius in archiepiscopum Salisburgensem a. 1147"
+    "view_label": "Epistola ad Eberhardum de electione eius in archiepiscopum Salisburgensem a. 1147",
+    "prev": {
+      "id": "hit_works__103",
+      "label": "Traditionsnotizen des Salzburger Domstiftes"
+    },
+    "next": {
+      "id": "hit_works__105",
+      "label": "De ecclesiasticis officiis"
+    }
   },
   "105": {
     "id": 105,
@@ -7551,7 +8351,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-26",
-    "view_label": "De ecclesiasticis officiis"
+    "view_label": "De ecclesiasticis officiis",
+    "prev": {
+      "id": "hit_works__104",
+      "label": "Epistola ad Eberhardum de electione eius in archiepiscopum Salisburgensem a. 1147"
+    },
+    "next": {
+      "id": "hit_works__106",
+      "label": ""
+    }
   },
   "106": {
     "id": 106,
@@ -7575,7 +8383,15 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-26",
-    "view_label": ""
+    "view_label": "",
+    "prev": {
+      "id": "hit_works__105",
+      "label": "De ecclesiasticis officiis"
+    },
+    "next": {
+      "id": "hit_works__107",
+      "label": "Nomina pontificum Romanae sedis"
+    }
   },
   "107": {
     "id": 107,
@@ -7599,7 +8415,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-28",
-    "view_label": "Nomina pontificum Romanae sedis"
+    "view_label": "Nomina pontificum Romanae sedis",
+    "prev": {
+      "id": "hit_works__106",
+      "label": ""
+    },
+    "next": {
+      "id": "hit_works__108",
+      "label": "Nomina pontificum Iuvavensis sedis et abbatum"
+    }
   },
   "108": {
     "id": 108,
@@ -7623,7 +8447,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-28",
-    "view_label": "Nomina pontificum Iuvavensis sedis et abbatum"
+    "view_label": "Nomina pontificum Iuvavensis sedis et abbatum",
+    "prev": {
+      "id": "hit_works__107",
+      "label": "Nomina pontificum Romanae sedis"
+    },
+    "next": {
+      "id": "hit_works__109",
+      "label": "Epistolae duae de electione Eberhardi I. archiepiscopus Salisburgensis"
+    }
   },
   "109": {
     "id": 109,
@@ -7665,7 +8497,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-28",
-    "view_label": "Epistolae duae de electione Eberhardi I. archiepiscopus Salisburgensis"
+    "view_label": "Epistolae duae de electione Eberhardi I. archiepiscopus Salisburgensis",
+    "prev": {
+      "id": "hit_works__108",
+      "label": "Nomina pontificum Iuvavensis sedis et abbatum"
+    },
+    "next": {
+      "id": "hit_works__11",
+      "label": "hieronymi chronicon"
+    }
   },
   "110": {
     "id": 110,
@@ -7689,7 +8529,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-28",
-    "view_label": "Nomina fratrum canonicorum et monachorum nec non et monarchum eisudem sedis"
+    "view_label": "Nomina fratrum canonicorum et monachorum nec non et monarchum eisudem sedis",
+    "prev": {
+      "id": "hit_works__11",
+      "label": "hieronymi chronicon"
+    },
+    "next": {
+      "id": "hit_works__111",
+      "label": "Annales breves Sancti Rudperti Salisburgensis"
+    }
   },
   "111": {
     "id": 111,
@@ -7749,7 +8597,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-28",
-    "view_label": "Annales breves Sancti Rudperti Salisburgensis"
+    "view_label": "Annales breves Sancti Rudperti Salisburgensis",
+    "prev": {
+      "id": "hit_works__110",
+      "label": "Nomina fratrum canonicorum et monachorum nec non et monarchum eisudem sedis"
+    },
+    "next": {
+      "id": "hit_works__112",
+      "label": "Enumeratio mancipiorum ecclesiae Salisburgensi oblatorum"
+    }
   },
   "112": {
     "id": 112,
@@ -7773,7 +8629,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-28",
-    "view_label": "Enumeratio mancipiorum ecclesiae Salisburgensi oblatorum"
+    "view_label": "Enumeratio mancipiorum ecclesiae Salisburgensi oblatorum",
+    "prev": {
+      "id": "hit_works__111",
+      "label": "Annales breves Sancti Rudperti Salisburgensis"
+    },
+    "next": {
+      "id": "hit_works__113",
+      "label": "Fratres de foris"
+    }
   },
   "113": {
     "id": 113,
@@ -7797,7 +8661,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-28",
-    "view_label": "Fratres de foris"
+    "view_label": "Fratres de foris",
+    "prev": {
+      "id": "hit_works__112",
+      "label": "Enumeratio mancipiorum ecclesiae Salisburgensi oblatorum"
+    },
+    "next": {
+      "id": "hit_works__114",
+      "label": "Necrologium Salisburgense"
+    }
   },
   "114": {
     "id": 114,
@@ -7821,7 +8693,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-28",
-    "view_label": "Necrologium Salisburgense"
+    "view_label": "Necrologium Salisburgense",
+    "prev": {
+      "id": "hit_works__113",
+      "label": "Fratres de foris"
+    },
+    "next": {
+      "id": "hit_works__115",
+      "label": "Berechnungen zur Lebenszeit des hl. Rupert + Bischofsabfolge"
+    }
   },
   "115": {
     "id": 115,
@@ -7845,7 +8725,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-30",
-    "view_label": "Berechnungen zur Lebenszeit des hl. Rupert + Bischofsabfolge"
+    "view_label": "Berechnungen zur Lebenszeit des hl. Rupert + Bischofsabfolge",
+    "prev": {
+      "id": "hit_works__114",
+      "label": "Necrologium Salisburgense"
+    },
+    "next": {
+      "id": "hit_works__116",
+      "label": "Kreuzschrift TBD"
+    }
   },
   "116": {
     "id": 116,
@@ -7869,7 +8757,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-30",
-    "view_label": "Kreuzschrift TBD"
+    "view_label": "Kreuzschrift TBD",
+    "prev": {
+      "id": "hit_works__115",
+      "label": "Berechnungen zur Lebenszeit des hl. Rupert + Bischofsabfolge"
+    },
+    "next": {
+      "id": "hit_works__117",
+      "label": "Historiographische Annotationen"
+    }
   },
   "117": {
     "id": 117,
@@ -7911,7 +8807,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-31",
-    "view_label": "Historiographische Annotationen"
+    "view_label": "Historiographische Annotationen",
+    "prev": {
+      "id": "hit_works__116",
+      "label": "Kreuzschrift TBD"
+    },
+    "next": {
+      "id": "hit_works__118",
+      "label": "Visio Eucherii"
+    }
   },
   "118": {
     "id": 118,
@@ -7974,7 +8878,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-08-06",
-    "view_label": "Visio Eucherii"
+    "view_label": "Visio Eucherii",
+    "prev": {
+      "id": "hit_works__117",
+      "label": "Historiographische Annotationen"
+    },
+    "next": {
+      "id": "hit_works__119",
+      "label": "De duodecim abusivis saeculi"
+    }
   },
   "119": {
     "id": 119,
@@ -8045,7 +8957,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-08-26",
-    "view_label": "De duodecim abusivis saeculi"
+    "view_label": "De duodecim abusivis saeculi",
+    "prev": {
+      "id": "hit_works__118",
+      "label": "Visio Eucherii"
+    },
+    "next": {
+      "id": "hit_works__120",
+      "label": "Institutiones Aquisgranenses"
+    }
   },
   "120": {
     "id": 120,
@@ -8069,7 +8989,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-09-02",
-    "view_label": "Institutiones Aquisgranenses"
+    "view_label": "Institutiones Aquisgranenses",
+    "prev": {
+      "id": "hit_works__119",
+      "label": "De duodecim abusivis saeculi"
+    },
+    "next": {
+      "id": "hit_works__121",
+      "label": "Definitiones et sententiae philosophicae, philologicae et theologicae"
+    }
   },
   "121": {
     "id": 121,
@@ -8093,7 +9021,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-09-02",
-    "view_label": "Definitiones et sententiae philosophicae, philologicae et theologicae"
+    "view_label": "Definitiones et sententiae philosophicae, philologicae et theologicae",
+    "prev": {
+      "id": "hit_works__120",
+      "label": "Institutiones Aquisgranenses"
+    },
+    "next": {
+      "id": "hit_works__122",
+      "label": "Computationes saeculi XII de tempore sancti Ruperti"
+    }
   },
   "122": {
     "id": 122,
@@ -8117,7 +9053,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-09-02",
-    "view_label": "Computationes saeculi XII de tempore sancti Ruperti"
+    "view_label": "Computationes saeculi XII de tempore sancti Ruperti",
+    "prev": {
+      "id": "hit_works__121",
+      "label": "Definitiones et sententiae philosophicae, philologicae et theologicae"
+    },
+    "next": {
+      "id": "hit_works__123",
+      "label": "Notitiae de benedictione mulieris parturientis, de ritu baptismi etc."
+    }
   },
   "123": {
     "id": 123,
@@ -8141,7 +9085,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-09-02",
-    "view_label": "Notitiae de benedictione mulieris parturientis, de ritu baptismi etc."
+    "view_label": "Notitiae de benedictione mulieris parturientis, de ritu baptismi etc.",
+    "prev": {
+      "id": "hit_works__122",
+      "label": "Computationes saeculi XII de tempore sancti Ruperti"
+    },
+    "next": {
+      "id": "hit_works__124",
+      "label": "Versus de schismate inter papam et regem"
+    }
   },
   "124": {
     "id": 124,
@@ -8165,7 +9117,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-09-02",
-    "view_label": "Versus de schismate inter papam et regem"
+    "view_label": "Versus de schismate inter papam et regem",
+    "prev": {
+      "id": "hit_works__123",
+      "label": "Notitiae de benedictione mulieris parturientis, de ritu baptismi etc."
+    },
+    "next": {
+      "id": "hit_works__125",
+      "label": "Versus contra monachos raptores praediorum"
+    }
   },
   "125": {
     "id": 125,
@@ -8189,7 +9149,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-09-02",
-    "view_label": "Versus contra monachos raptores praediorum"
+    "view_label": "Versus contra monachos raptores praediorum",
+    "prev": {
+      "id": "hit_works__124",
+      "label": "Versus de schismate inter papam et regem"
+    },
+    "next": {
+      "id": "hit_works__126",
+      "label": "Summa sententiarum septem tractatibus distincta"
+    }
   },
   "126": {
     "id": 126,
@@ -8252,7 +9220,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-09-18",
-    "view_label": "Summa sententiarum septem tractatibus distincta"
+    "view_label": "Summa sententiarum septem tractatibus distincta",
+    "prev": {
+      "id": "hit_works__125",
+      "label": "Versus contra monachos raptores praediorum"
+    },
+    "next": {
+      "id": "hit_works__127",
+      "label": "Urkunden des Erzbischofs Konrad I. von Abenberg"
+    }
   },
   "127": {
     "id": 127,
@@ -8333,7 +9309,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-10-03",
-    "view_label": "Urkunden des Erzbischofs Konrad I. von Abenberg"
+    "view_label": "Urkunden des Erzbischofs Konrad I. von Abenberg",
+    "prev": {
+      "id": "hit_works__126",
+      "label": "Summa sententiarum septem tractatibus distincta"
+    },
+    "next": {
+      "id": "hit_works__128",
+      "label": ""
+    }
   },
   "128": {
     "id": 128,
@@ -8357,7 +9341,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-10-03",
-    "view_label": ""
+    "view_label": "",
+    "prev": {
+      "id": "hit_works__127",
+      "label": "Urkunden des Erzbischofs Konrad I. von Abenberg"
+    },
+    "next": {
+      "id": "hit_works__129",
+      "label": "Concilium Toletanum quartum"
+    }
   },
   "129": {
     "id": 129,
@@ -8381,7 +9373,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-10-03",
-    "view_label": "Concilium Toletanum quartum"
+    "view_label": "Concilium Toletanum quartum",
+    "prev": {
+      "id": "hit_works__128",
+      "label": ""
+    },
+    "next": {
+      "id": "hit_works__13",
+      "label": "Annales Iuvavenses maiores"
+    }
   },
   "130": {
     "id": 130,
@@ -8405,7 +9405,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-10-03",
-    "view_label": "Verzeichnis der Giebigkeiten der domcapitlischen Besitzungen in Erding (Oberbayern)"
+    "view_label": "Verzeichnis der Giebigkeiten der domcapitlischen Besitzungen in Erding (Oberbayern)",
+    "prev": {
+      "id": "hit_works__13",
+      "label": "Annales Iuvavenses maiores"
+    },
+    "next": {
+      "id": "hit_works__131",
+      "label": "Notiz über die Beendigung eines Besitzstreites mit Bischof Otto von Bamberg"
+    }
   },
   "131": {
     "id": 131,
@@ -8429,7 +9437,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-10-03",
-    "view_label": "Notiz über die Beendigung eines Besitzstreites mit Bischof Otto von Bamberg"
+    "view_label": "Notiz über die Beendigung eines Besitzstreites mit Bischof Otto von Bamberg",
+    "prev": {
+      "id": "hit_works__130",
+      "label": "Verzeichnis der Giebigkeiten der domcapitlischen Besitzungen in Erding (Oberbayern)"
+    },
+    "next": {
+      "id": "hit_works__132",
+      "label": "Codex canonum ecclesiasticorum"
+    }
   },
   "132": {
     "id": 132,
@@ -8510,7 +9526,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-10-09",
-    "view_label": "Codex canonum ecclesiasticorum"
+    "view_label": "Codex canonum ecclesiasticorum",
+    "prev": {
+      "id": "hit_works__131",
+      "label": "Notiz über die Beendigung eines Besitzstreites mit Bischof Otto von Bamberg"
+    },
+    "next": {
+      "id": "hit_works__133",
+      "label": "Etymologiae"
+    }
   },
   "133": {
     "id": 133,
@@ -8605,7 +9629,15 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-10-09",
-    "view_label": "Etymologiae"
+    "view_label": "Etymologiae",
+    "prev": {
+      "id": "hit_works__132",
+      "label": "Codex canonum ecclesiasticorum"
+    },
+    "next": {
+      "id": "hit_works__134",
+      "label": "De quodam solitario"
+    }
   },
   "134": {
     "id": 134,
@@ -8629,6 +9661,14 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-10-09",
-    "view_label": "De quodam solitario"
+    "view_label": "De quodam solitario",
+    "prev": {
+      "id": "hit_works__133",
+      "label": "Etymologiae"
+    },
+    "next": {
+      "id": "hit_works__14",
+      "label": "Annales Iuvavenses minores"
+    }
   }
 }

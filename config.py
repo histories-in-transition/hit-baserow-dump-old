@@ -23,6 +23,7 @@ except KeyError:
 MODEL_CONFIG = [
     {
         "table_label": "PLACES",
+        "label_lookup_expression": "$.name",
         "final_file": [DATA_FOLDER, "places.json"],
         "fields": [
             {
@@ -34,6 +35,7 @@ MODEL_CONFIG = [
     },
     {
         "table_label": "GENRES",
+        "label_lookup_expression": "$.genre",
         "final_file": [DATA_FOLDER, "genres.json"],
         "fields": [
             {
@@ -45,6 +47,7 @@ MODEL_CONFIG = [
     },
     {
         "table_label": "ORGS",
+        "label_lookup_expression": "$.label",
         "final_file": [DATA_FOLDER, "orgs.json"],
         "fields": [
             {
@@ -78,7 +81,6 @@ MODEL_CONFIG = [
     },
     {
         "table_label": "MANUSCRIPTS DATED",
-        "label_lookup_expression": "$..shelfmark[0].value",
         "final_file": [DATA_FOLDER, "manuscripts_dated.json"],
         "fields": [
             {

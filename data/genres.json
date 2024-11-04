@@ -14,7 +14,16 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-06-21"
+    "Last modified": "2024-06-21",
+    "view_label": "Vita",
+    "prev": {
+      "id": "hit_genres__9",
+      "label": "Theologische Literatur"
+    },
+    "next": {
+      "id": "hit_genres__10",
+      "label": "Confessio"
+    }
   },
   "2": {
     "id": 2,
@@ -31,7 +40,16 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-06-21"
+    "Last modified": "2024-06-21",
+    "view_label": "Miracula",
+    "prev": {
+      "id": "hit_genres__19",
+      "label": "Traktat"
+    },
+    "next": {
+      "id": "hit_genres__20",
+      "label": "Kommentar"
+    }
   },
   "3": {
     "id": 3,
@@ -66,7 +84,16 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2024-07-11",
+    "view_label": "Annalen",
+    "prev": {
+      "id": "hit_genres__22",
+      "label": "Katalog"
+    },
+    "next": {
+      "id": "hit_genres__4",
+      "label": "Chronik"
+    }
   },
   "4": {
     "id": 4,
@@ -101,7 +128,16 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2024-07-11",
+    "view_label": "Chronik",
+    "prev": {
+      "id": "hit_genres__3",
+      "label": "Annalen"
+    },
+    "next": {
+      "id": "hit_genres__5",
+      "label": "Historiographie"
+    }
   },
   "5": {
     "id": 5,
@@ -118,7 +154,16 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2024-07-11",
+    "view_label": "Historiographie",
+    "prev": {
+      "id": "hit_genres__4",
+      "label": "Chronik"
+    },
+    "next": {
+      "id": "hit_genres__6",
+      "label": "Lyrik"
+    }
   },
   "6": {
     "id": 6,
@@ -135,7 +180,16 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2024-07-11",
+    "view_label": "Lyrik",
+    "prev": {
+      "id": "hit_genres__5",
+      "label": "Historiographie"
+    },
+    "next": {
+      "id": "hit_genres__8",
+      "label": "Topographische Beschreibung"
+    }
   },
   "8": {
     "id": 8,
@@ -152,7 +206,16 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-12"
+    "Last modified": "2024-07-12",
+    "view_label": "Topographische Beschreibung",
+    "prev": {
+      "id": "hit_genres__6",
+      "label": "Lyrik"
+    },
+    "next": {
+      "id": "hit_genres__9",
+      "label": "Theologische Literatur"
+    }
   },
   "9": {
     "id": 9,
@@ -169,7 +232,16 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-12"
+    "Last modified": "2024-07-12",
+    "view_label": "Theologische Literatur",
+    "prev": {
+      "id": "hit_genres__8",
+      "label": "Topographische Beschreibung"
+    },
+    "next": {
+      "id": "hit_genres__1",
+      "label": "Vita"
+    }
   },
   "10": {
     "id": 10,
@@ -204,7 +276,16 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-12"
+    "Last modified": "2024-07-12",
+    "view_label": "Confessio",
+    "prev": {
+      "id": "hit_genres__1",
+      "label": "Vita"
+    },
+    "next": {
+      "id": "hit_genres__11",
+      "label": "Briefe"
+    }
   },
   "11": {
     "id": 11,
@@ -221,7 +302,16 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-12"
+    "Last modified": "2024-07-12",
+    "view_label": "Briefe",
+    "prev": {
+      "id": "hit_genres__10",
+      "label": "Confessio"
+    },
+    "next": {
+      "id": "hit_genres__12",
+      "label": "Recht"
+    }
   },
   "12": {
     "id": 12,
@@ -238,7 +328,16 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-12"
+    "Last modified": "2024-07-12",
+    "view_label": "Recht",
+    "prev": {
+      "id": "hit_genres__11",
+      "label": "Briefe"
+    },
+    "next": {
+      "id": "hit_genres__13",
+      "label": "Biblische Kommentare"
+    }
   },
   "13": {
     "id": 13,
@@ -273,7 +372,16 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-12"
+    "Last modified": "2024-07-12",
+    "view_label": "Biblische Kommentare",
+    "prev": {
+      "id": "hit_genres__12",
+      "label": "Recht"
+    },
+    "next": {
+      "id": "hit_genres__14",
+      "label": "Kalandologion"
+    }
   },
   "14": {
     "id": 14,
@@ -290,7 +398,16 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-12"
+    "Last modified": "2024-07-12",
+    "view_label": "Kalandologion",
+    "prev": {
+      "id": "hit_genres__13",
+      "label": "Biblische Kommentare"
+    },
+    "next": {
+      "id": "hit_genres__15",
+      "label": "Hymnus"
+    }
   },
   "15": {
     "id": 15,
@@ -307,7 +424,16 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-16"
+    "Last modified": "2024-07-16",
+    "view_label": "Hymnus",
+    "prev": {
+      "id": "hit_genres__14",
+      "label": "Kalandologion"
+    },
+    "next": {
+      "id": "hit_genres__16",
+      "label": "Komputistik"
+    }
   },
   "16": {
     "id": 16,
@@ -324,7 +450,16 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-23"
+    "Last modified": "2024-07-23",
+    "view_label": "Komputistik",
+    "prev": {
+      "id": "hit_genres__15",
+      "label": "Hymnus"
+    },
+    "next": {
+      "id": "hit_genres__17",
+      "label": "Urkunde"
+    }
   },
   "17": {
     "id": 17,
@@ -341,7 +476,16 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-10-03"
+    "Last modified": "2024-10-03",
+    "view_label": "Urkunde",
+    "prev": {
+      "id": "hit_genres__16",
+      "label": "Komputistik"
+    },
+    "next": {
+      "id": "hit_genres__18",
+      "label": "Canones"
+    }
   },
   "18": {
     "id": 18,
@@ -358,7 +502,16 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-10-09"
+    "Last modified": "2024-10-09",
+    "view_label": "Canones",
+    "prev": {
+      "id": "hit_genres__17",
+      "label": "Urkunde"
+    },
+    "next": {
+      "id": "hit_genres__19",
+      "label": "Traktat"
+    }
   },
   "19": {
     "id": 19,
@@ -375,7 +528,16 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-22"
+    "Last modified": "2024-10-22",
+    "view_label": "Traktat",
+    "prev": {
+      "id": "hit_genres__18",
+      "label": "Canones"
+    },
+    "next": {
+      "id": "hit_genres__2",
+      "label": "Miracula"
+    }
   },
   "20": {
     "id": 20,
@@ -392,7 +554,16 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-22"
+    "Last modified": "2024-10-22",
+    "view_label": "Kommentar",
+    "prev": {
+      "id": "hit_genres__2",
+      "label": "Miracula"
+    },
+    "next": {
+      "id": "hit_genres__21",
+      "label": "Excerpta"
+    }
   },
   "21": {
     "id": 21,
@@ -409,7 +580,16 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-22"
+    "Last modified": "2024-10-22",
+    "view_label": "Excerpta",
+    "prev": {
+      "id": "hit_genres__20",
+      "label": "Kommentar"
+    },
+    "next": {
+      "id": "hit_genres__22",
+      "label": "Katalog"
+    }
   },
   "22": {
     "id": 22,
@@ -426,6 +606,15 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-22"
+    "Last modified": "2024-10-22",
+    "view_label": "Katalog",
+    "prev": {
+      "id": "hit_genres__21",
+      "label": "Excerpta"
+    },
+    "next": {
+      "id": "hit_genres__3",
+      "label": "Annalen"
+    }
   }
 }

@@ -432,7 +432,15 @@
     "Created on": "2024-06-04",
     "Last modified": "2024-10-18",
     "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt.",
-    "view_label": "ÖNB, Cod. 387"
+    "view_label": "ÖNB, Cod. 387",
+    "prev": {
+      "id": "hit_manuscript__9",
+      "label": "BSB, Clm. 6381"
+    },
+    "next": {
+      "id": "hit_manuscript__10",
+      "label": "BSB, Clm. 6382"
+    }
   },
   "21": {
     "id": 21,
@@ -749,7 +757,15 @@
     "Created on": "2024-06-17",
     "Last modified": "2024-09-09",
     "content_summary": null,
-    "view_label": "ÖNB, Cod. 2090"
+    "view_label": "ÖNB, Cod. 2090",
+    "prev": {
+      "id": "hit_manuscript__20",
+      "label": "BSB, Clm 27305"
+    },
+    "next": {
+      "id": "hit_manuscript__22",
+      "label": "ÖNB, Cod. 366"
+    }
   },
   "22": {
     "id": 22,
@@ -1007,7 +1023,15 @@
     "Created on": "2024-07-01",
     "Last modified": "2024-07-26",
     "content_summary": null,
-    "view_label": "ÖNB, Cod. 366"
+    "view_label": "ÖNB, Cod. 366",
+    "prev": {
+      "id": "hit_manuscript__21",
+      "label": "ÖNB, Cod. 2090"
+    },
+    "next": {
+      "id": "hit_manuscript__23",
+      "label": "ÖNB, Cod. 371"
+    }
   },
   "23": {
     "id": 23,
@@ -1213,7 +1237,15 @@
     "Created on": "2024-07-03",
     "Last modified": "2024-09-03",
     "content_summary": null,
-    "view_label": "ÖNB, Cod. 371"
+    "view_label": "ÖNB, Cod. 371",
+    "prev": {
+      "id": "hit_manuscript__22",
+      "label": "ÖNB, Cod. 366"
+    },
+    "next": {
+      "id": "hit_manuscript__4",
+      "label": "BSB, Clm. 210"
+    }
   },
   "2": {
     "id": 2,
@@ -1510,7 +1542,15 @@
     "Created on": "2024-06-04",
     "Last modified": "2024-10-18",
     "content_summary": "",
-    "view_label": "UBWÜ, Cod. M. p. th. f. 46"
+    "view_label": "UBWÜ, Cod. M. p. th. f. 46",
+    "prev": {
+      "id": "hit_manuscript__19",
+      "label": "BSB, Clm. 6341"
+    },
+    "next": {
+      "id": "hit_manuscript__20",
+      "label": "BSB, Clm 27305"
+    }
   },
   "4": {
     "id": 4,
@@ -1707,7 +1747,15 @@
     "Created on": "2024-06-12",
     "Last modified": "2024-10-09",
     "content_summary": null,
-    "view_label": "BSB, Clm. 210"
+    "view_label": "BSB, Clm. 210",
+    "prev": {
+      "id": "hit_manuscript__23",
+      "label": "ÖNB, Cod. 371"
+    },
+    "next": {
+      "id": "hit_manuscript__5",
+      "label": "BSB, Clm. 6326"
+    }
   },
   "5": {
     "id": 5,
@@ -2024,7 +2072,15 @@
     "Created on": "2024-06-13",
     "Last modified": "2024-10-17",
     "content_summary": "Martinellus, Geschichtliche Texte, Hagiographische Texte, Lyrik",
-    "view_label": "BSB, Clm. 6326"
+    "view_label": "BSB, Clm. 6326",
+    "prev": {
+      "id": "hit_manuscript__4",
+      "label": "BSB, Clm. 210"
+    },
+    "next": {
+      "id": "hit_manuscript__6",
+      "label": "BSB, Clm. 6308"
+    }
   },
   "6": {
     "id": 6,
@@ -2341,7 +2397,15 @@
     "Created on": "2024-06-13",
     "Last modified": "2024-09-24",
     "content_summary": null,
-    "view_label": "BSB, Clm. 6308"
+    "view_label": "BSB, Clm. 6308",
+    "prev": {
+      "id": "hit_manuscript__5",
+      "label": "BSB, Clm. 6326"
+    },
+    "next": {
+      "id": "hit_manuscript__7",
+      "label": "BSB, Clm. 6380"
+    }
   },
   "7": {
     "id": 7,
@@ -2594,7 +2658,15 @@
     "Created on": "2024-06-13",
     "Last modified": "2024-09-25",
     "content_summary": null,
-    "view_label": "BSB, Clm. 6380"
+    "view_label": "BSB, Clm. 6380",
+    "prev": {
+      "id": "hit_manuscript__6",
+      "label": "BSB, Clm. 6308"
+    },
+    "next": {
+      "id": "hit_manuscript__8",
+      "label": "BSB, Clm. 6375"
+    }
   },
   "8": {
     "id": 8,
@@ -2911,7 +2983,15 @@
     "Created on": "2024-06-13",
     "Last modified": "2024-09-25",
     "content_summary": null,
-    "view_label": "BSB, Clm. 6375"
+    "view_label": "BSB, Clm. 6375",
+    "prev": {
+      "id": "hit_manuscript__7",
+      "label": "BSB, Clm. 6380"
+    },
+    "next": {
+      "id": "hit_manuscript__9",
+      "label": "BSB, Clm. 6381"
+    }
   },
   "9": {
     "id": 9,
@@ -3306,7 +3386,15 @@
     "Created on": "2024-06-13",
     "Last modified": "2024-09-25",
     "content_summary": null,
-    "view_label": "BSB, Clm. 6381"
+    "view_label": "BSB, Clm. 6381",
+    "prev": {
+      "id": "hit_manuscript__8",
+      "label": "BSB, Clm. 6375"
+    },
+    "next": {
+      "id": "hit_manuscript__1",
+      "label": "ÖNB, Cod. 387"
+    }
   },
   "10": {
     "id": 10,
@@ -3627,7 +3715,15 @@
     "Created on": "2024-06-13",
     "Last modified": "2024-09-25",
     "content_summary": null,
-    "view_label": "BSB, Clm. 6382"
+    "view_label": "BSB, Clm. 6382",
+    "prev": {
+      "id": "hit_manuscript__1",
+      "label": "ÖNB, Cod. 387"
+    },
+    "next": {
+      "id": "hit_manuscript__11",
+      "label": "BSB, Clm. 6383"
+    }
   },
   "11": {
     "id": 11,
@@ -3885,7 +3981,15 @@
     "Created on": "2024-06-14",
     "Last modified": "2024-09-25",
     "content_summary": null,
-    "view_label": "BSB, Clm. 6383"
+    "view_label": "BSB, Clm. 6383",
+    "prev": {
+      "id": "hit_manuscript__10",
+      "label": "BSB, Clm. 6382"
+    },
+    "next": {
+      "id": "hit_manuscript__12",
+      "label": "BSB, Clm. 6388"
+    }
   },
   "12": {
     "id": 12,
@@ -4177,7 +4281,15 @@
     "Created on": "2024-06-14",
     "Last modified": "2024-09-25",
     "content_summary": null,
-    "view_label": "BSB, Clm. 6388"
+    "view_label": "BSB, Clm. 6388",
+    "prev": {
+      "id": "hit_manuscript__11",
+      "label": "BSB, Clm. 6383"
+    },
+    "next": {
+      "id": "hit_manuscript__13",
+      "label": "BSB, Clm. 6391"
+    }
   },
   "13": {
     "id": 13,
@@ -4435,7 +4547,15 @@
     "Created on": "2024-06-14",
     "Last modified": "2024-09-25",
     "content_summary": null,
-    "view_label": "BSB, Clm. 6391"
+    "view_label": "BSB, Clm. 6391",
+    "prev": {
+      "id": "hit_manuscript__12",
+      "label": "BSB, Clm. 6388"
+    },
+    "next": {
+      "id": "hit_manuscript__14",
+      "label": "BSB, Clm. 6392"
+    }
   },
   "14": {
     "id": 14,
@@ -4688,7 +4808,15 @@
     "Created on": "2024-06-14",
     "Last modified": "2024-09-25",
     "content_summary": null,
-    "view_label": "BSB, Clm. 6392"
+    "view_label": "BSB, Clm. 6392",
+    "prev": {
+      "id": "hit_manuscript__13",
+      "label": "BSB, Clm. 6391"
+    },
+    "next": {
+      "id": "hit_manuscript__15",
+      "label": "BSB, Clm. 6393"
+    }
   },
   "15": {
     "id": 15,
@@ -4946,7 +5074,15 @@
     "Created on": "2024-06-14",
     "Last modified": "2024-09-25",
     "content_summary": null,
-    "view_label": "BSB, Clm. 6393"
+    "view_label": "BSB, Clm. 6393",
+    "prev": {
+      "id": "hit_manuscript__14",
+      "label": "BSB, Clm. 6392"
+    },
+    "next": {
+      "id": "hit_manuscript__16",
+      "label": "BSB, Clm. 6376"
+    }
   },
   "16": {
     "id": 16,
@@ -5263,7 +5399,15 @@
     "Created on": "2024-06-14",
     "Last modified": "2024-09-25",
     "content_summary": null,
-    "view_label": "BSB, Clm. 6376"
+    "view_label": "BSB, Clm. 6376",
+    "prev": {
+      "id": "hit_manuscript__15",
+      "label": "BSB, Clm. 6393"
+    },
+    "next": {
+      "id": "hit_manuscript__17",
+      "label": "BSB, Clm. 1086"
+    }
   },
   "17": {
     "id": 17,
@@ -5580,7 +5724,15 @@
     "Created on": "2024-06-14",
     "Last modified": "2024-09-25",
     "content_summary": null,
-    "view_label": "BSB, Clm. 1086"
+    "view_label": "BSB, Clm. 1086",
+    "prev": {
+      "id": "hit_manuscript__16",
+      "label": "BSB, Clm. 6376"
+    },
+    "next": {
+      "id": "hit_manuscript__18",
+      "label": "BSB, Clm. 29226"
+    }
   },
   "18": {
     "id": 18,
@@ -5685,7 +5837,15 @@
     "Created on": "2024-06-14",
     "Last modified": "2024-09-25",
     "content_summary": null,
-    "view_label": "BSB, Clm. 29226"
+    "view_label": "BSB, Clm. 29226",
+    "prev": {
+      "id": "hit_manuscript__17",
+      "label": "BSB, Clm. 1086"
+    },
+    "next": {
+      "id": "hit_manuscript__19",
+      "label": "BSB, Clm. 6341"
+    }
   },
   "19": {
     "id": 19,
@@ -6001,7 +6161,15 @@
     "Created on": "2024-06-14",
     "Last modified": "2024-09-25",
     "content_summary": null,
-    "view_label": "BSB, Clm. 6341"
+    "view_label": "BSB, Clm. 6341",
+    "prev": {
+      "id": "hit_manuscript__18",
+      "label": "BSB, Clm. 29226"
+    },
+    "next": {
+      "id": "hit_manuscript__2",
+      "label": "UBWÜ, Cod. M. p. th. f. 46"
+    }
   },
   "20": {
     "id": 20,
@@ -6352,6 +6520,14 @@
     "Created on": "2024-06-17",
     "Last modified": "2024-09-25",
     "content_summary": null,
-    "view_label": "BSB, Clm 27305"
+    "view_label": "BSB, Clm 27305",
+    "prev": {
+      "id": "hit_manuscript__2",
+      "label": "UBWÜ, Cod. M. p. th. f. 46"
+    },
+    "next": {
+      "id": "hit_manuscript__21",
+      "label": "ÖNB, Cod. 2090"
+    }
   }
 }

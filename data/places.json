@@ -16,7 +16,16 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-06-09"
+    "Last modified": "2024-06-09",
+    "view_label": "Österreich",
+    "prev": {
+      "id": "hit_place__9",
+      "label": "Norditalien"
+    },
+    "next": {
+      "id": "hit_place__10",
+      "label": "Bistum Eichstätt"
+    }
   },
   "2": {
     "id": 2,
@@ -35,7 +44,16 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2024-07-11",
+    "view_label": "Deutschland",
+    "prev": {
+      "id": "hit_place__19",
+      "label": "Regensburg"
+    },
+    "next": {
+      "id": "hit_place__3",
+      "label": "Salzburg"
+    }
   },
   "13": {
     "id": 13,
@@ -54,7 +72,16 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2024-07-11",
+    "view_label": "Italien",
+    "prev": {
+      "id": "hit_place__12",
+      "label": "Bodensee"
+    },
+    "next": {
+      "id": "hit_place__14",
+      "label": "Frankreich"
+    }
   },
   "14": {
     "id": 14,
@@ -73,7 +100,16 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2024-07-11",
+    "view_label": "Frankreich",
+    "prev": {
+      "id": "hit_place__13",
+      "label": "Italien"
+    },
+    "next": {
+      "id": "hit_place__15",
+      "label": "Schwabien"
+    }
   },
   "3": {
     "id": 3,
@@ -112,7 +148,16 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2024-07-11",
+    "view_label": "Salzburg",
+    "prev": {
+      "id": "hit_place__2",
+      "label": "Deutschland"
+    },
+    "next": {
+      "id": "hit_place__4",
+      "label": "Freising"
+    }
   },
   "4": {
     "id": 4,
@@ -151,7 +196,16 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2024-07-11",
+    "view_label": "Freising",
+    "prev": {
+      "id": "hit_place__3",
+      "label": "Salzburg"
+    },
+    "next": {
+      "id": "hit_place__5",
+      "label": "Saint-Amand-les-Eaux"
+    }
   },
   "5": {
     "id": 5,
@@ -190,7 +244,16 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2024-07-11",
+    "view_label": "Saint-Amand-les-Eaux",
+    "prev": {
+      "id": "hit_place__4",
+      "label": "Freising"
+    },
+    "next": {
+      "id": "hit_place__6",
+      "label": "Wien"
+    }
   },
   "6": {
     "id": 6,
@@ -229,7 +292,16 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "view_label": "Wien",
+    "prev": {
+      "id": "hit_place__5",
+      "label": "Saint-Amand-les-Eaux"
+    },
+    "next": {
+      "id": "hit_place__7",
+      "label": "Würzburg"
+    }
   },
   "7": {
     "id": 7,
@@ -268,7 +340,16 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "view_label": "Würzburg",
+    "prev": {
+      "id": "hit_place__6",
+      "label": "Wien"
+    },
+    "next": {
+      "id": "hit_place__8",
+      "label": "München"
+    }
   },
   "8": {
     "id": 8,
@@ -307,7 +388,16 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-09"
+    "Last modified": "2024-07-09",
+    "view_label": "München",
+    "prev": {
+      "id": "hit_place__7",
+      "label": "Würzburg"
+    },
+    "next": {
+      "id": "hit_place__9",
+      "label": "Norditalien"
+    }
   },
   "9": {
     "id": 9,
@@ -346,7 +436,16 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2024-07-11",
+    "view_label": "Norditalien",
+    "prev": {
+      "id": "hit_place__8",
+      "label": "München"
+    },
+    "next": {
+      "id": "hit_place__1",
+      "label": "Österreich"
+    }
   },
   "10": {
     "id": 10,
@@ -385,7 +484,16 @@
       "id": 3,
       "name": "Peter Andorfer"
     },
-    "Last modified": "2024-07-04"
+    "Last modified": "2024-07-04",
+    "view_label": "Bistum Eichstätt",
+    "prev": {
+      "id": "hit_place__1",
+      "label": "Österreich"
+    },
+    "next": {
+      "id": "hit_place__11",
+      "label": "Benediktbeuern"
+    }
   },
   "11": {
     "id": 11,
@@ -424,7 +532,16 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2024-07-11",
+    "view_label": "Benediktbeuern",
+    "prev": {
+      "id": "hit_place__10",
+      "label": "Bistum Eichstätt"
+    },
+    "next": {
+      "id": "hit_place__12",
+      "label": "Bodensee"
+    }
   },
   "12": {
     "id": 12,
@@ -463,7 +580,16 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2024-07-11",
+    "view_label": "Bodensee",
+    "prev": {
+      "id": "hit_place__11",
+      "label": "Benediktbeuern"
+    },
+    "next": {
+      "id": "hit_place__13",
+      "label": "Italien"
+    }
   },
   "15": {
     "id": 15,
@@ -502,7 +628,16 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-18"
+    "Last modified": "2024-07-18",
+    "view_label": "Schwabien",
+    "prev": {
+      "id": "hit_place__14",
+      "label": "Frankreich"
+    },
+    "next": {
+      "id": "hit_place__16",
+      "label": "Bayern"
+    }
   },
   "16": {
     "id": 16,
@@ -541,7 +676,16 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-16"
+    "Last modified": "2024-09-16",
+    "view_label": "Bayern",
+    "prev": {
+      "id": "hit_place__15",
+      "label": "Schwabien"
+    },
+    "next": {
+      "id": "hit_place__17",
+      "label": "Reims"
+    }
   },
   "17": {
     "id": 17,
@@ -580,7 +724,16 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-17"
+    "Last modified": "2024-09-17",
+    "view_label": "Reims",
+    "prev": {
+      "id": "hit_place__16",
+      "label": "Bayern"
+    },
+    "next": {
+      "id": "hit_place__18",
+      "label": "Südbayern"
+    }
   },
   "18": {
     "id": 18,
@@ -619,7 +772,16 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-19"
+    "Last modified": "2024-09-19",
+    "view_label": "Südbayern",
+    "prev": {
+      "id": "hit_place__17",
+      "label": "Reims"
+    },
+    "next": {
+      "id": "hit_place__19",
+      "label": "Regensburg"
+    }
   },
   "19": {
     "id": 19,
@@ -658,6 +820,15 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-19"
+    "Last modified": "2024-09-19",
+    "view_label": "Regensburg",
+    "prev": {
+      "id": "hit_place__18",
+      "label": "Südbayern"
+    },
+    "next": {
+      "id": "hit_place__2",
+      "label": "Deutschland"
+    }
   }
 }

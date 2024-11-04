@@ -10,6 +10,7 @@ BASEROW_TOKEN = os.environ.get("BASEROW_TOKEN")
 JSON_FOLDER = "json_dumps"
 TEI_FOLDER = "tei"
 DATA_FOLDER = "data"
+ID_FIELD = "hit_id"
 
 try:
     br_client = BaseRowClient(
@@ -19,7 +20,7 @@ except KeyError:
     br_client = None
 
 
-DENORMALIZE_CONFIG = [
+MODEL_CONFIG = [
     {
         "table_label": "PLACES",
         "final_file": [DATA_FOLDER, "places.json"],

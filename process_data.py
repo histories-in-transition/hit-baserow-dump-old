@@ -3,8 +3,8 @@ import os
 
 import marko
 
-from config import DATA_FOLDER, DENORMALIZE_CONFIG
-from utils import add_view_labels, denormalize
+from config import DATA_FOLDER, MODEL_CONFIG, ID_FIELD
+from utils import add_view_labels, denormalize, add_prev_next
 
 
 os.makedirs(DATA_FOLDER, exist_ok=True)
@@ -47,6 +47,6 @@ for _, value in data.items():
 with open(fixme_file, "w", encoding="utf-8") as fp:
     json.dump(data, fp, ensure_ascii=False, indent=2)
 
-
-add_view_labels()
-denormalize()
+denormalize(MODEL_CONFIG)
+add_view_labels(MODEL_CONFIG)
+add_prev_next(MODEL_CONFIG, ID_FIELD)

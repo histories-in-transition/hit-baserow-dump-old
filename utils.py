@@ -2,6 +2,8 @@ import os
 import json
 from jsonpath_ng import parse
 
+ORIG_FOLDER = "json"
+
 
 def denormalize(MODEL_CONFIG):
     print("starting denormalizing")
@@ -45,3 +47,24 @@ def add_view_labels(MODEL_CONFIG):
                     value["view_label"] = f"NO MATCH FOR {x['label_lookup_expression']}"
         with open(file_name, "w", encoding="utf-8") as fp:
             json.dump(data, fp, ensure_ascii=False, indent=2)
+
+
+def add_prev_next(MODEL_CONFIG, ID_FIELD):
+    for x in MODEL_CONFIG:
+        print("now adding view labels")
+        file_name = os.path.join(*x["final_file"])
+        with open(file_name, "r", encoding="utf-8") as fp:
+            data = json.load(fp)
+        key_list = sorted(data.keys())
+        for i, v in enumerate(key_list):
+            prev_item = data[key_list[i - 1]][ID_FIELD]
+            try:
+                next_item = data[key_list[i + 1]][ID_FIELD]
+            except IndexError:
+                next_item = data[key_list[0]]
+            value = data[key_list[i]]
+
+            value["prev"] = {
+                "id": f"{prev_item}.html"}
+            
+            value["next"] = f"{next_item}.html"

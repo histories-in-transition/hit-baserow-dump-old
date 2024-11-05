@@ -405,8 +405,7 @@
                         "value": "De argumentis lunae"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -2237,8 +2236,7 @@
                         "value": "De argumentis lunae"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -4077,8 +4075,7 @@
                         "value": "De natura rerum"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -5858,8 +5855,7 @@
                         "value": "De natura rerum"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -7639,8 +7635,7 @@
                         "value": "De natura rerum"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -9412,8 +9407,7 @@
                         "value": "De argumentis lunae"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -11228,8 +11222,7 @@
                         "value": "Vita sancti Pauli"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -14508,32 +14501,7 @@
                         "value": "Annales Iuvavenses minores"
                       }
                     ],
-                    "hands": [
-                      {
-                        "id": 5,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
-                      },
-                      {
-                        "id": 32,
-                        "value": "ÖNB, Cod. 387_H. 2"
-                      }
-                    ],
-                    "identical_hands": [
-                      {
-                        "ids": {
-                          "database_table_3487": 2,
-                          "database_table_3488": 2
-                        },
-                        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
-                      },
-                      {
-                        "ids": {
-                          "database_table_3487": 1,
-                          "database_table_3488": 1
-                        },
-                        "value": "ÖNB, Cod. 387_H. 2"
-                      }
-                    ]
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -19828,8 +19796,7 @@
                         "value": "De natura rerum"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -21201,8 +21168,7 @@
                         "value": "Eidesformel Papst Leos III."
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -21896,8 +21862,7 @@
                         "value": "De globo mundi et coniecture orbis versus"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -27076,8 +27041,7 @@
                         "value": "Hymnus Ad Incensum Lucernae"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -29329,8 +29293,7 @@
                         "value": "Tituli metrici de sancto Martino"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -31608,8 +31571,7 @@
                         "value": "Tituli metrici de sancto Martino"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -33732,8 +33694,7 @@
                         "value": "Tituli metrici de sancto Martino"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -35872,8 +35833,7 @@
                         "value": "Decem libri historiarum"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -38147,8 +38107,7 @@
                         "value": "Decem libri historiarum"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -40305,8 +40264,7 @@
                         "value": "Tituli metrici de sancto Martino"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -42445,8 +42403,7 @@
                         "value": "Decem libri historiarum"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -44579,8 +44536,7 @@
                         "value": "Confessio sancti Martini"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -49118,8 +49074,7 @@
                         "value": "Historiae adversus paganos"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -51653,8 +51608,7 @@
                         "value": "Historiae adversus paganos"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -54073,8 +54027,7 @@
                         "value": "Historiae adversus paganos"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -54998,8 +54951,7 @@
                         "value": "Historiae adversus paganos"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -55917,8 +55869,7 @@
                         "value": "Historiae adversus paganos"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -56836,8 +56787,7 @@
                         "value": "Historiae adversus paganos"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -69252,8 +69202,7 @@
                         "value": "Epistola ad Eberhardum de electione eius in archiepiscopum Salisburgensem a. 1147"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -70540,8 +70489,7 @@
                         "value": "Historiae adversus paganos"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -73038,8 +72986,7 @@
                         "value": "Tituli metrici de sancto Martino"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -75333,8 +75280,7 @@
                         "value": "Decem libri historiarum"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -77723,8 +77669,7 @@
                         "value": "De orthographia"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -78350,8 +78295,7 @@
                         "value": "Corpus juris civilis"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -78977,8 +78921,7 @@
                         "value": "Historia ecclesiastica cum Rufini continuatione"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   },
                   {
                     "id": 13,
@@ -79023,8 +78966,7 @@
                         "value": "Historia monachorum"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -79733,8 +79675,7 @@
                         "value": "De orthographia"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -80543,8 +80484,7 @@
                         "value": "Historia ecclesiastica cum Rufini continuatione"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   },
                   {
                     "id": 13,
@@ -80589,8 +80529,7 @@
                         "value": "Historia monachorum"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -81352,8 +81291,7 @@
                         "value": "Historiae adversus paganos"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -82348,8 +82286,7 @@
                         "value": "Historiae adversus paganos"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -83344,8 +83281,7 @@
                         "value": "Historiae adversus paganos"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -84340,8 +84276,7 @@
                         "value": "Historiae adversus paganos"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -85336,8 +85271,7 @@
                         "value": "Historiae adversus paganos"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -86332,8 +86266,7 @@
                         "value": "Historiae adversus paganos"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],
@@ -87328,8 +87261,7 @@
                         "value": "Historiae adversus paganos"
                       }
                     ],
-                    "hands": [],
-                    "identical_hands": []
+                    "identical_hands": null
                   }
                 ],
                 "bibliography": [],

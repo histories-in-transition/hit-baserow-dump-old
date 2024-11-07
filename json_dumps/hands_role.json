@@ -5623,98 +5623,6 @@
     "locus_layout": [],
     "function": []
   },
-  "118": {
-    "id": 118,
-    "order": "104.00000000000000000000",
-    "hit_id": "hit_hands_role__118",
-    "hand": [
-      {
-        "id": 94,
-        "value": "BSB, Clm. 6381_H. 1"
-      }
-    ],
-    "ms_item": [
-      {
-        "id": 33,
-        "value": "clm_6381__33"
-      }
-    ],
-    "role": [],
-    "locus": "",
-    "text": [
-      {
-        "ids": {
-          "database_table_3489": 29,
-          "database_table_3491": 33
-        },
-        "value": "Historia ecclesiastica cum Rufini continuatione"
-      }
-    ],
-    "locus_text": [
-      {
-        "id": 33,
-        "value": "1v-250v"
-      }
-    ],
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-09-01",
-    "Last modified": "2024-09-04",
-    "locus_layout": [],
-    "function": []
-  },
-  "119": {
-    "id": 119,
-    "order": "105.00000000000000000000",
-    "hit_id": "hit_hands_role__119",
-    "hand": [
-      {
-        "id": 95,
-        "value": "BSB, Clm. 6381_H. 2"
-      }
-    ],
-    "ms_item": [
-      {
-        "id": 33,
-        "value": "clm_6381__33"
-      }
-    ],
-    "role": [],
-    "locus": "",
-    "text": [
-      {
-        "ids": {
-          "database_table_3489": 29,
-          "database_table_3491": 33
-        },
-        "value": "Historia ecclesiastica cum Rufini continuatione"
-      }
-    ],
-    "locus_text": [
-      {
-        "id": 33,
-        "value": "1v-250v"
-      }
-    ],
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-09-01",
-    "Last modified": "2024-09-04",
-    "locus_layout": [],
-    "function": []
-  },
   "120": {
     "id": 120,
     "order": "106.00000000000000000000",
@@ -5725,11 +5633,35 @@
         "value": "BSB, Clm. 6381_H. 1"
       }
     ],
-    "ms_item": [],
-    "role": [],
+    "ms_item": [
+      {
+        "id": 33,
+        "value": "clm_6381__33"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
     "locus": "Ir-6r Z.2, 131r-135r ob. Hälfte, 135v-144r, 145v Z.17-200v",
-    "text": [],
-    "locus_text": [],
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 29,
+          "database_table_3491": 33
+        },
+        "value": "Historia ecclesiastica cum Rufini continuatione"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 33,
+        "value": "1v-250v"
+      }
+    ],
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -5739,8 +5671,14 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-09-02",
-    "Last modified": "2024-11-04",
-    "locus_layout": [],
+    "Last modified": "2024-11-06",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum/Haupttext",
+        "color": "dark-green"
+      }
+    ],
     "function": []
   },
   "121": {
@@ -5925,11 +5863,35 @@
         "value": "BSB, Clm. 6381_H. 2"
       }
     ],
-    "ms_item": [],
-    "role": [],
-    "locus": "6r Z. 3, 130v",
-    "text": [],
-    "locus_text": [],
+    "ms_item": [
+      {
+        "id": 33,
+        "value": "clm_6381__33"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "6r Z. 3-130v",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 29,
+          "database_table_3491": 33
+        },
+        "value": "Historia ecclesiastica cum Rufini continuatione"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 33,
+        "value": "1v-250v"
+      }
+    ],
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -5939,8 +5901,14 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-09-02",
-    "Last modified": "2024-11-04",
-    "locus_layout": [],
+    "Last modified": "2024-11-06",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum/Haupttext",
+        "color": "dark-green"
+      }
+    ],
     "function": []
   },
   "123": {
@@ -5953,11 +5921,35 @@
         "value": "BSB, Clm. 6381_H. 3"
       }
     ],
-    "ms_item": [],
-    "role": [],
-    "locus": "135r untere Hälfte, 144v-145v Z.16",
-    "text": [],
-    "locus_text": [],
+    "ms_item": [
+      {
+        "id": 33,
+        "value": "clm_6381__33"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "135v untere Hälfte, 144v-145v Z.16",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 29,
+          "database_table_3491": 33
+        },
+        "value": "Historia ecclesiastica cum Rufini continuatione"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 33,
+        "value": "1v-250v"
+      }
+    ],
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -5967,8 +5959,14 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-09-02",
-    "Last modified": "2024-11-04",
-    "locus_layout": [],
+    "Last modified": "2024-11-06",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum/Haupttext",
+        "color": "dark-green"
+      }
+    ],
     "function": []
   },
   "124": {

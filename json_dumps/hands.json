@@ -7012,7 +7012,7 @@
         "value": "BSB, Clm. 6380_H. 4"
       }
     ],
-    "description": "durch aufrechte Haltung und quadratischen Aufriß der Buchstaben in mittlerer\n\nHöhe nah zu italienischen Schriften, vor allem auch dadurch,\n\ndaß alle Kanten abgerundet werden. Die Oberlängen sind\n\noft knöpfchen- oder schlingenartig gebildet. Die Einzelformen,\n\ndie Ligaturen und die Kürzungen haben aber nichts Italienisches; es wurde eine harte Feder mit stumpfer\n\nSpitze benutzt, italienische Schreiber bevorzugen dagegen für gewöhnlich\n\nweiche und scharf geschnittene Federn. \"Die Hand\n\nwirkt hier sehr konservativ\" (Daniel); Italienischer Einfluss umstritten.",
+    "description": "Die Hand fällt aus der Umgebung aus. Sie ist durch aufrechte Haltung und quadratischen Aufriß der Buchstaben in mittlerer\n\nHöhe nah zu italienischen Schriften, vor allem auch dadurch,\n\ndaß alle Kanten abgerundet werden. Die Oberlängen sind\n\noft knöpfchen- oder schlingenartig gebildet. Die Einzelformen,\n\ndie Ligaturen und die Kürzungen haben aber nichts Italienisches; es wurde eine harte Feder mit stumpfer\n\nSpitze benutzt, italienische Schreiber bevorzugen dagegen für gewöhnlich\n\nweiche und scharf geschnittene Federn. \"Die Hand\n\nwirkt hier sehr konservativ\" (Daniel); Italienischer Einfluss umstritten.",
     "hit_id": "hit_hands__86",
     "similar_hands": [],
     "nr_daniel": "48",
@@ -7033,7 +7033,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-04",
+    "Last modified": "2024-11-06",
     "hands_role": [
       {
         "id": 132,
@@ -7729,7 +7729,7 @@
         "value": "BSB, Clm. 6381_H. 1"
       }
     ],
-    "description": "",
+    "description": "Interpunktion am meisten mit drei Punkten, seltener mit zwei und einem Punkt.",
     "hit_id": "hit_hands__94",
     "similar_hands": [],
     "nr_daniel": "",
@@ -7750,12 +7750,8 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-04",
+    "Last modified": "2024-11-06",
     "hands_role": [
-      {
-        "id": 118,
-        "value": "hit_hands_role__118"
-      },
       {
         "id": 120,
         "value": "hit_hands_role__120"
@@ -7763,12 +7759,14 @@
     ],
     "role": [
       {
-        "id": 118,
-        "value": []
-      },
-      {
         "id": 120,
-        "value": []
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
       }
     ],
     "texts": [
@@ -7797,7 +7795,7 @@
         "value": "BSB, Clm. 6381_H. 2"
       }
     ],
-    "description": "",
+    "description": "Es werden selten cc, offenes cc mit zwei Spitzen und halbunziales a gebraucht; nur d; Ligaturen:\n\nu.a. eN, nt, cz, ret; ft ist bisweilen unverbunden. Einzige Interpunktion\n\nist der Punkt.",
     "hit_id": "hit_hands__95",
     "similar_hands": [],
     "nr_daniel": "",
@@ -7818,12 +7816,8 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-04",
+    "Last modified": "2024-11-06",
     "hands_role": [
-      {
-        "id": 119,
-        "value": "hit_hands_role__119"
-      },
       {
         "id": 122,
         "value": "hit_hands_role__122"
@@ -7831,12 +7825,14 @@
     ],
     "role": [
       {
-        "id": 119,
-        "value": []
-      },
-      {
         "id": 122,
-        "value": []
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
       }
     ],
     "texts": [
@@ -8020,7 +8016,7 @@
         "value": "BSB, Clm. 6381_H. 3"
       }
     ],
-    "description": "",
+    "description": "Interpunktion am meisten mit drei Punkten, seltener mit zwei und einem Punkt.",
     "hit_id": "hit_hands__98",
     "similar_hands": [],
     "nr_daniel": "",
@@ -8041,7 +8037,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-04",
+    "Last modified": "2024-11-06",
     "hands_role": [
       {
         "id": 123,
@@ -8051,10 +8047,24 @@
     "role": [
       {
         "id": 123,
-        "value": []
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
       }
     ],
-    "texts": [],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 29,
+          "database_table_3491": 33
+        },
+        "value": "Historia ecclesiastica cum Rufini continuatione"
+      }
+    ],
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
@@ -8063,13 +8073,26 @@
   "99": {
     "id": 99,
     "order": "91.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 9,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6381_H. 4"
+      }
+    ],
     "description": "",
     "hit_id": "hit_hands__99",
     "similar_hands": [],
     "nr_daniel": "",
-    "manuscript": [],
-    "number": null,
+    "manuscript": [
+      {
+        "id": 9,
+        "value": "BSB, Clm. 6381"
+      }
+    ],
+    "number": "4",
     "note": "",
     "Created by": {
       "id": 87,
@@ -8080,7 +8103,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-03",
+    "Last modified": "2024-11-06",
     "hands_role": [],
     "role": [],
     "texts": [],

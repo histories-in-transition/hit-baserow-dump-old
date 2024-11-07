@@ -2507,12 +2507,16 @@
     "locus_grp": "1v-250v",
     "hands_role": [
       {
-        "id": 118,
-        "value": "hit_hands_role__118"
+        "id": 120,
+        "value": "hit_hands_role__120"
       },
       {
-        "id": 119,
-        "value": "hit_hands_role__119"
+        "id": 122,
+        "value": "hit_hands_role__122"
+      },
+      {
+        "id": 123,
+        "value": "hit_hands_role__123"
       }
     ],
     "cod_unit": [
@@ -2546,6 +2550,13 @@
           "database_table_3488": 4
         },
         "value": "BSB, Clm. 6381_H. 2"
+      },
+      {
+        "ids": {
+          "database_table_3487": 9,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6381_H. 3"
       }
     ],
     "decoration": [],

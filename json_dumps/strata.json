@@ -59,10 +59,10 @@
       },
       {
         "ids": {
-          "database_table_3489": 7,
-          "database_table_3491": 8
+          "database_table_3489": 4,
+          "database_table_3491": 5
         },
-        "value": "De temporum ratione"
+        "value": "De cyclo paschali"
       },
       {
         "ids": {
@@ -87,10 +87,10 @@
       },
       {
         "ids": {
-          "database_table_3489": 4,
-          "database_table_3491": 5
+          "database_table_3489": 7,
+          "database_table_3491": 8
         },
-        "value": "De cyclo paschali"
+        "value": "De temporum ratione"
       }
     ],
     "quires": [
@@ -153,8 +153,8 @@
         "value": "1v-21r"
       },
       {
-        "id": 8,
-        "value": "23r-97v"
+        "id": 5,
+        "value": "1v-21r"
       },
       {
         "id": 8,
@@ -169,8 +169,8 @@
         "value": "21v-22r"
       },
       {
-        "id": 5,
-        "value": "1v-21r"
+        "id": 8,
+        "value": "23r-97v"
       }
     ],
     "note": "Dieses Stratum beschreibt die Anlage der Handschrift und besteht aus den Ostertafeln, den Mondtabellen und Bedas De temporum ratione ohne den Chronik-Abschnitt",
@@ -241,17 +241,17 @@
       },
       {
         "ids": {
-          "database_table_3489": 14,
-          "database_table_3491": 13
-        },
-        "value": "Annales Iuvavenses minores"
-      },
-      {
-        "ids": {
           "database_table_3489": 67,
           "database_table_3491": 68
         },
         "value": "Bibelauszug"
+      },
+      {
+        "ids": {
+          "database_table_3489": 14,
+          "database_table_3491": 13
+        },
+        "value": "Annales Iuvavenses minores"
       },
       {
         "ids": {
@@ -288,6 +288,10 @@
         "value": "1v-2r"
       },
       {
+        "id": 68,
+        "value": "1r"
+      },
+      {
         "id": 13,
         "value": "22v-22v"
       },
@@ -298,10 +302,6 @@
       {
         "id": 12,
         "value": "11v-17r"
-      },
-      {
-        "id": 68,
-        "value": "1r"
       }
     ],
     "note": "Diverse Schreiber haben in Salzburg Annotationen, Korrekturen und Marginaltexte eingefügt. Das Gros dieser Bearbeitungen wurde durch den magister Baldo vorgenommen.",
@@ -450,17 +450,17 @@
     "ms_items": [
       {
         "ids": {
-          "database_table_3489": 72,
-          "database_table_3491": 77
-        },
-        "value": "De globo mundi et coniecture orbis versus"
-      },
-      {
-        "ids": {
           "database_table_3489": 71,
           "database_table_3491": 75
         },
         "value": "Eidesformel Papst Leos III."
+      },
+      {
+        "ids": {
+          "database_table_3489": 72,
+          "database_table_3491": 77
+        },
+        "value": "De globo mundi et coniecture orbis versus"
       }
     ],
     "quires": [
@@ -471,12 +471,12 @@
     ],
     "locus": [
       {
-        "id": 77,
-        "value": "149v"
-      },
-      {
         "id": 75,
         "value": "149r"
+      },
+      {
+        "id": 77,
+        "value": "149v"
       }
     ],
     "note": "Ein einzelnes, in Saint-Amand beschriebenes Blatt wurde der Handschrift nach Fertigstellung des primären Textbestandes entweder noch in Saint-Amand oder bereits in Salzburg hinzugefügt.",
@@ -1316,27 +1316,27 @@
     "ms_items": [
       {
         "ids": {
-          "database_table_3489": 83,
-          "database_table_3491": 92
-        },
-        "value": "Bienensegen"
-      },
-      {
-        "ids": {
           "database_table_3489": 84,
           "database_table_3491": 93
         },
         "value": "Althochdeutscher Eintrag"
+      },
+      {
+        "ids": {
+          "database_table_3489": 83,
+          "database_table_3491": 92
+        },
+        "value": "Bienensegen"
       }
     ],
     "quires": [],
     "locus": [
       {
-        "id": 92,
+        "id": 93,
         "value": "3r"
       },
       {
-        "id": 93,
+        "id": 92,
         "value": "3r"
       }
     ],

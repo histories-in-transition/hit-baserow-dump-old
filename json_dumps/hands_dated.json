@@ -2739,5 +2739,77 @@
     "Last modified": "2024-10-23",
     "Created on": "2024-10-23",
     "note": ""
+  },
+  "88": {
+    "id": 88,
+    "order": "87.00000000000000000000",
+    "hit_id": "hit_hands_dated__88",
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ],
+    "page": "147",
+    "dated": [
+      {
+        "id": 12,
+        "value": "8 Jh., Ende"
+      }
+    ],
+    "hand": [
+      {
+        "id": 100,
+        "value": "BSB, Clm. 6383_H. 1"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-11-13",
+    "Created on": "2024-11-13",
+    "note": ""
+  },
+  "89": {
+    "id": 89,
+    "order": "88.00000000000000000000",
+    "hit_id": "hit_hands_dated__89",
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff"
+      }
+    ],
+    "page": "147-148",
+    "dated": [
+      {
+        "id": 1,
+        "value": "9 Jh."
+      }
+    ],
+    "hand": [
+      {
+        "id": 118,
+        "value": "BSB, Clm. 6383_H. 2"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-11-13",
+    "Created on": "2024-11-13",
+    "note": ""
   }
 }

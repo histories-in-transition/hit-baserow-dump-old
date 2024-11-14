@@ -8070,48 +8070,6 @@
     "hands_placed": [],
     "scribe": []
   },
-  "99": {
-    "id": 99,
-    "order": "91.00000000000000000000",
-    "label": [
-      {
-        "ids": {
-          "database_table_3487": 9,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6381_H. 4"
-      }
-    ],
-    "description": "",
-    "hit_id": "hit_hands__99",
-    "similar_hands": [],
-    "nr_daniel": "",
-    "manuscript": [
-      {
-        "id": 9,
-        "value": "BSB, Clm. 6381"
-      }
-    ],
-    "number": "4",
-    "note": "",
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-09-04",
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-11-06",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
-    "scribe": []
-  },
   "100": {
     "id": 100,
     "order": "92.00000000000000000000",
@@ -8124,7 +8082,7 @@
         "value": "BSB, Clm. 6383_H. 1"
       }
     ],
-    "description": "",
+    "description": "eine Gruppe der eng verwandten zusammen arbeitenden alemmanischen Händen.",
     "hit_id": "hit_hands__100",
     "similar_hands": [],
     "nr_daniel": "",
@@ -8145,7 +8103,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-04",
+    "Last modified": "2024-11-13",
     "hands_role": [
       {
         "id": 126,
@@ -8167,8 +8125,21 @@
         "value": "Historia ecclesiastica cum Rufini continuatione"
       }
     ],
-    "hands_dated": [],
-    "dating": [],
+    "hands_dated": [
+      {
+        "id": 88,
+        "value": "hit_hands_dated__88"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 12,
+          "database_table_3520": 88
+        },
+        "value": "8 Jh., Ende"
+      }
+    ],
     "hands_placed": [],
     "scribe": []
   },
@@ -9240,5 +9211,70 @@
         "value": "ÖNB Cod. 2090_7"
       }
     ]
+  },
+  "118": {
+    "id": 118,
+    "order": "110.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 11,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6383_H. 2"
+      }
+    ],
+    "description": "kursive Hand, wahrscheinlich nicht aus Freising",
+    "hit_id": "hit_hands__118",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383"
+      }
+    ],
+    "number": "2",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-11-13",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-11-13",
+    "hands_role": [
+      {
+        "id": 154,
+        "value": "hit_hands_role__154"
+      }
+    ],
+    "role": [
+      {
+        "id": 154,
+        "value": []
+      }
+    ],
+    "texts": [],
+    "hands_dated": [
+      {
+        "id": 89,
+        "value": "hit_hands_dated__89"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 1,
+          "database_table_3520": 89
+        },
+        "value": "9 Jh."
+      }
+    ],
+    "hands_placed": [],
+    "scribe": []
   }
 }

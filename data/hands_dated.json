@@ -363,8 +363,8 @@
     "note": null,
     "view_label": "hit_hands_dated__9",
     "prev": {
-      "id": "hit_hands_dated__87",
-      "label": "hit_hands_dated__87"
+      "id": "hit_hands_dated__89",
+      "label": "hit_hands_dated__89"
     },
     "next": {
       "id": "hit_hands_dated__11",
@@ -815,10 +815,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2024-07-04"
+        "Last modified": "2024-11-13"
       }
     ],
     "hand": [
@@ -4729,6 +4729,130 @@
     "prev": {
       "id": "hit_hands_dated__85",
       "label": "hit_hands_dated__85"
+    },
+    "next": {
+      "id": "hit_hands_dated__88",
+      "label": "hit_hands_dated__88"
+    }
+  },
+  "88": {
+    "id": 88,
+    "order": "87.00000000000000000000",
+    "hit_id": "hit_hands_dated__88",
+    "authority": [
+      {
+        "id": 2,
+        "order": "2.00000000000000000000",
+        "name": "Bischoff",
+        "short_title": "Die südostdeutschen Schreibschulen und Bibliotheken in der Karolingerzeit",
+        "zotero_id": "",
+        "hit_id": "hit_bibl__2"
+      }
+    ],
+    "page": "147",
+    "dated": [
+      {
+        "id": 12,
+        "order": "12.00000000000000000000",
+        "label": "8 Jh., Ende",
+        "not_before": "0770-01-01",
+        "hit_id": "hit_date__12",
+        "not_after": "0799-12-31",
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-11-13"
+      }
+    ],
+    "hand": [
+      {
+        "id": 100,
+        "value": "BSB, Clm. 6383_H. 1"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-11-13",
+    "Created on": "2024-11-13",
+    "note": "",
+    "view_label": "hit_hands_dated__88",
+    "prev": {
+      "id": "hit_hands_dated__87",
+      "label": "hit_hands_dated__87"
+    },
+    "next": {
+      "id": "hit_hands_dated__89",
+      "label": "hit_hands_dated__89"
+    }
+  },
+  "89": {
+    "id": 89,
+    "order": "88.00000000000000000000",
+    "hit_id": "hit_hands_dated__89",
+    "authority": [
+      {
+        "id": 2,
+        "order": "2.00000000000000000000",
+        "name": "Bischoff",
+        "short_title": "Die südostdeutschen Schreibschulen und Bibliotheken in der Karolingerzeit",
+        "zotero_id": "",
+        "hit_id": "hit_bibl__2"
+      }
+    ],
+    "page": "147-148",
+    "dated": [
+      {
+        "id": 1,
+        "order": "1.00000000000000000000",
+        "label": "9 Jh.",
+        "not_before": "0800-01-01",
+        "hit_id": "hit_date__1",
+        "not_after": "0899-12-31",
+        "Created by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-12"
+      }
+    ],
+    "hand": [
+      {
+        "id": 118,
+        "value": "BSB, Clm. 6383_H. 2"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-11-13",
+    "Created on": "2024-11-13",
+    "note": "",
+    "view_label": "hit_hands_dated__89",
+    "prev": {
+      "id": "hit_hands_dated__88",
+      "label": "hit_hands_dated__88"
     },
     "next": {
       "id": "hit_hands_dated__9",

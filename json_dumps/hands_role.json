@@ -6061,7 +6061,7 @@
       }
     ],
     "role": [],
-    "locus": "",
+    "locus": "1r-151r",
     "text": [
       {
         "ids": {
@@ -6086,7 +6086,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-09-02",
-    "Last modified": "2024-09-04",
+    "Last modified": "2024-11-13",
     "locus_layout": [],
     "function": []
   },
@@ -7626,5 +7626,43 @@
         "color": "darker-orange"
       }
     ]
+  },
+  "154": {
+    "id": 154,
+    "order": "140.00000000000000000000",
+    "hit_id": "hit_hands_role__154",
+    "hand": [
+      {
+        "id": 118,
+        "value": "BSB, Clm. 6383_H. 2"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 67,
+        "value": "clm_6383__67"
+      }
+    ],
+    "role": [],
+    "locus": "151v",
+    "text": [],
+    "locus_text": [
+      {
+        "id": 67,
+        "value": "151v"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-11-13",
+    "Last modified": "2024-11-13",
+    "locus_layout": [],
+    "function": []
   }
 }

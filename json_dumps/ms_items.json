@@ -4638,22 +4638,42 @@
   "67": {
     "id": 67,
     "order": "60.00000000000000000000",
-    "label": [],
-    "manuscript": [],
+    "label": [
+      {
+        "id": 11,
+        "value": "clm_6383__67"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383"
+      }
+    ],
     "incipit": "",
     "explicit": "",
     "rubric": "",
     "title_work": [],
-    "title_note": "",
+    "title_note": "Notizen, Inschriften",
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
     "hit_id": "hit_ms_items__67",
     "filiation": [],
-    "locus_grp": "",
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-07-10",
+    "locus_grp": "151v",
+    "hands_role": [
+      {
+        "id": 154,
+        "value": "hit_hands_role__154"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 20,
+        "value": "BSB, Clm. 6383, cod. unit 1"
+      }
+    ],
+    "Last modified": "2024-11-13",
     "Created on": "2024-07-10",
     "Created by": {
       "id": 87,
@@ -4664,7 +4684,15 @@
       "name": "Ksenia Borisova"
     },
     "note": null,
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 11,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6383_H. 2"
+      }
+    ],
     "decoration": [],
     "facs_url": "",
     "form": [],

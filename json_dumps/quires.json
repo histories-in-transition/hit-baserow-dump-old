@@ -1828,50 +1828,6 @@
     ],
     "besonderheiten": []
   },
-  "189": {
-    "id": 189,
-    "order": "17.50000000000000000000",
-    "label": [],
-    "hit_id": null,
-    "number": null,
-    "locus": "-",
-    "library": [],
-    "locus_from": "",
-    "locus_to": "",
-    "manuscript": [],
-    "quiremark": null,
-    "written_height": null,
-    "written_width": null,
-    "written": "×",
-    "hair_flesh": [],
-    "ruling": "",
-    "column": [],
-    "note": "",
-    "decoration": "",
-    "quire_structure": "",
-    "correct_number": null,
-    "height": null,
-    "width": null,
-    "catchwords": false,
-    "stratum": [
-      {
-        "id": 3,
-        "value": "Clm. 6326, Stratum 1"
-      }
-    ],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-09-30",
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-10-28T16:56:28.297791Z",
-    "cod_units": [],
-    "besonderheiten": []
-  },
   "9": {
     "id": 9,
     "order": "18.00000000000000000000",
@@ -16901,66 +16857,6 @@
     "cod_units": [],
     "besonderheiten": []
   },
-  "249": {
-    "id": 249,
-    "order": "240.00000000000000000000",
-    "label": [
-      {
-        "ids": {
-          "database_table_3487": 9,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6381, L. 7"
-      }
-    ],
-    "hit_id": "hit_quire__249",
-    "number": "7",
-    "locus": "-",
-    "library": [
-      {
-        "ids": {
-          "database_table_3487": 9,
-          "database_table_3488": 4
-        },
-        "value": "BSB"
-      }
-    ],
-    "locus_from": "",
-    "locus_to": "",
-    "manuscript": [
-      {
-        "id": 9,
-        "value": "BSB, Clm. 6381"
-      }
-    ],
-    "quiremark": null,
-    "written_height": null,
-    "written_width": null,
-    "written": "×",
-    "hair_flesh": [],
-    "ruling": "",
-    "column": [],
-    "note": "",
-    "decoration": "",
-    "quire_structure": "",
-    "correct_number": null,
-    "height": null,
-    "width": null,
-    "catchwords": false,
-    "stratum": [],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-11-14",
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-11-14T11:05:59.414750Z",
-    "cod_units": [],
-    "besonderheiten": []
-  },
   "250": {
     "id": 250,
     "order": "241.00000000000000000000",
@@ -16970,11 +16866,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 8"
+        "value": "BSB, Clm. 6381, L. 7"
       }
     ],
     "hit_id": "hit_quire__250",
-    "number": "8",
+    "number": "7",
     "locus": "45r-52v",
     "library": [
       {
@@ -17017,7 +16913,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:06:06.650013Z",
+    "Last modified": "2024-11-15T10:33:02.329018Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -17030,11 +16926,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 9"
+        "value": "BSB, Clm. 6381, L. 8"
       }
     ],
     "hit_id": "hit_quire__251",
-    "number": "9",
+    "number": "8",
     "locus": "53r-60v",
     "library": [
       {
@@ -17077,7 +16973,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:06:15.497800Z",
+    "Last modified": "2024-11-15T10:33:06.743733Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -17090,11 +16986,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 10"
+        "value": "BSB, Clm. 6381, L. 9"
       }
     ],
     "hit_id": "hit_quire__252",
-    "number": "10",
+    "number": "9",
     "locus": "61r-68v",
     "library": [
       {
@@ -17137,7 +17033,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:06:22.200162Z",
+    "Last modified": "2024-11-15T10:33:11.239378Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -17150,11 +17046,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 11"
+        "value": "BSB, Clm. 6381, L. 10"
       }
     ],
     "hit_id": "hit_quire__253",
-    "number": "11",
+    "number": "10",
     "locus": "69r-76v",
     "library": [
       {
@@ -17197,7 +17093,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:06:28.277676Z",
+    "Last modified": "2024-11-15T10:33:16.034934Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -17210,11 +17106,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 12"
+        "value": "BSB, Clm. 6381, L. 11"
       }
     ],
     "hit_id": "hit_quire__254",
-    "number": "12",
+    "number": "11",
     "locus": "77r-84v",
     "library": [
       {
@@ -17257,7 +17153,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:06:34.947154Z",
+    "Last modified": "2024-11-15T10:33:19.693287Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -17270,11 +17166,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 13"
+        "value": "BSB, Clm. 6381, L. 12"
       }
     ],
     "hit_id": "hit_quire__255",
-    "number": "13",
+    "number": "12",
     "locus": "85r-92v",
     "library": [
       {
@@ -17317,7 +17213,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:06:42.927545Z",
+    "Last modified": "2024-11-15T10:33:24.011575Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -17330,11 +17226,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 14"
+        "value": "BSB, Clm. 6381, L. 13"
       }
     ],
     "hit_id": "hit_quire__256",
-    "number": "14",
+    "number": "13",
     "locus": "93r-98v",
     "library": [
       {
@@ -17377,7 +17273,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:07:13.722445Z",
+    "Last modified": "2024-11-15T10:33:27.782996Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -17390,11 +17286,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 15"
+        "value": "BSB, Clm. 6381, L. 14"
       }
     ],
     "hit_id": "hit_quire__257",
-    "number": "15",
+    "number": "14",
     "locus": "99r-106v",
     "library": [
       {
@@ -17437,7 +17333,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:07:20.150789Z",
+    "Last modified": "2024-11-15T10:33:32.204895Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -17450,11 +17346,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 16"
+        "value": "BSB, Clm. 6381, L. 15"
       }
     ],
     "hit_id": "hit_quire__258",
-    "number": "16",
+    "number": "15",
     "locus": "107r-114v",
     "library": [
       {
@@ -17497,7 +17393,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:07:29.829497Z",
+    "Last modified": "2024-11-15T10:33:36.640400Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -17510,11 +17406,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 17"
+        "value": "BSB, Clm. 6381, L. 16"
       }
     ],
     "hit_id": "hit_quire__259",
-    "number": "17",
+    "number": "16",
     "locus": "115r-122v",
     "library": [
       {
@@ -17557,7 +17453,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:07:36.732082Z",
+    "Last modified": "2024-11-15T10:33:41.263267Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -17570,11 +17466,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 18"
+        "value": "BSB, Clm. 6381, L. 17"
       }
     ],
     "hit_id": "hit_quire__260",
-    "number": "18",
+    "number": "17",
     "locus": "123r-130v",
     "library": [
       {
@@ -17617,7 +17513,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:07:44.165334Z",
+    "Last modified": "2024-11-15T10:33:46.815899Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -17630,11 +17526,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 19"
+        "value": "BSB, Clm. 6381, L. 18"
       }
     ],
     "hit_id": "hit_quire__261",
-    "number": "19",
+    "number": "18",
     "locus": "131r-138v",
     "library": [
       {
@@ -17677,7 +17573,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:07:52.412742Z",
+    "Last modified": "2024-11-15T10:33:51.650409Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -17690,11 +17586,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 20"
+        "value": "BSB, Clm. 6381, L. 19"
       }
     ],
     "hit_id": "hit_quire__262",
-    "number": "20",
+    "number": "19",
     "locus": "139r-146v",
     "library": [
       {
@@ -17737,7 +17633,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:08:03.373598Z",
+    "Last modified": "2024-11-15T10:33:58.807527Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -17750,11 +17646,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 21"
+        "value": "BSB, Clm. 6381, L. 20"
       }
     ],
     "hit_id": "hit_quire__263",
-    "number": "21",
+    "number": "20",
     "locus": "147r-154v",
     "library": [
       {
@@ -17797,7 +17693,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:08:09.986176Z",
+    "Last modified": "2024-11-15T10:34:04.329046Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -17810,11 +17706,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 22"
+        "value": "BSB, Clm. 6381, L. 21"
       }
     ],
     "hit_id": "hit_quire__264",
-    "number": "22",
+    "number": "21",
     "locus": "155r-162v",
     "library": [
       {
@@ -17857,7 +17753,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:08:17.406298Z",
+    "Last modified": "2024-11-15T10:34:09.358520Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -17870,11 +17766,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 23"
+        "value": "BSB, Clm. 6381, L. 22"
       }
     ],
     "hit_id": "hit_quire__265",
-    "number": "23",
+    "number": "22",
     "locus": "163r-170v",
     "library": [
       {
@@ -17917,7 +17813,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:08:24.306503Z",
+    "Last modified": "2024-11-15T10:34:14.849614Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -17930,11 +17826,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 24"
+        "value": "BSB, Clm. 6381, L. 23"
       }
     ],
     "hit_id": "hit_quire__266",
-    "number": "24",
+    "number": "23",
     "locus": "171r-178v",
     "library": [
       {
@@ -17977,7 +17873,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:08:33.018805Z",
+    "Last modified": "2024-11-15T10:34:19.131731Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -17990,11 +17886,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 25"
+        "value": "BSB, Clm. 6381, L. 24"
       }
     ],
     "hit_id": "hit_quire__267",
-    "number": "25",
+    "number": "24",
     "locus": "179r-186v",
     "library": [
       {
@@ -18037,7 +17933,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:08:39.097518Z",
+    "Last modified": "2024-11-15T10:34:23.221244Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -18050,11 +17946,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 26"
+        "value": "BSB, Clm. 6381, L. 25"
       }
     ],
     "hit_id": "hit_quire__268",
-    "number": "26",
+    "number": "25",
     "locus": "187r-194v",
     "library": [
       {
@@ -18097,7 +17993,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:08:48.169374Z",
+    "Last modified": "2024-11-15T10:34:30.084643Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -18110,11 +18006,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 27"
+        "value": "BSB, Clm. 6381, L. 26"
       }
     ],
     "hit_id": "hit_quire__269",
-    "number": "27",
+    "number": "26",
     "locus": "195r-200v",
     "library": [
       {
@@ -18157,7 +18053,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:08:55.787411Z",
+    "Last modified": "2024-11-15T10:34:35.236031Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -18170,11 +18066,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 28"
+        "value": "BSB, Clm. 6381, L. 27"
       }
     ],
     "hit_id": "hit_quire__270",
-    "number": "28",
+    "number": "27",
     "locus": "201r-206v",
     "library": [
       {
@@ -18217,7 +18113,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:09:13.294653Z",
+    "Last modified": "2024-11-15T10:34:40.479689Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -18230,11 +18126,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 29"
+        "value": "BSB, Clm. 6381, L. 28"
       }
     ],
     "hit_id": "hit_quire__271",
-    "number": "29",
+    "number": "28",
     "locus": "207r-212v",
     "library": [
       {
@@ -18277,7 +18173,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:09:19.135362Z",
+    "Last modified": "2024-11-15T10:34:46.060684Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -18290,11 +18186,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 30"
+        "value": "BSB, Clm. 6381, L. 29"
       }
     ],
     "hit_id": "hit_quire__272",
-    "number": "30",
+    "number": "29",
     "locus": "213r-218v",
     "library": [
       {
@@ -18337,7 +18233,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:09:25.620517Z",
+    "Last modified": "2024-11-15T10:34:54.103965Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -18350,11 +18246,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 31"
+        "value": "BSB, Clm. 6381, L. 30"
       }
     ],
     "hit_id": "hit_quire__273",
-    "number": "31",
+    "number": "30",
     "locus": "219r-224v",
     "library": [
       {
@@ -18397,7 +18293,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:09:33.553810Z",
+    "Last modified": "2024-11-15T10:34:59.809491Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -18410,11 +18306,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 32"
+        "value": "BSB, Clm. 6381, L. 31"
       }
     ],
     "hit_id": "hit_quire__274",
-    "number": "32",
+    "number": "31",
     "locus": "225r-230v",
     "library": [
       {
@@ -18457,7 +18353,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:09:40.241116Z",
+    "Last modified": "2024-11-15T10:35:05.415534Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -18470,11 +18366,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 33"
+        "value": "BSB, Clm. 6381, L. 32"
       }
     ],
     "hit_id": "hit_quire__275",
-    "number": "33",
+    "number": "32",
     "locus": "231r-236v",
     "library": [
       {
@@ -18517,7 +18413,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:09:46.760543Z",
+    "Last modified": "2024-11-15T10:35:10.063777Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -18530,11 +18426,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 34"
+        "value": "BSB, Clm. 6381, L. 33"
       }
     ],
     "hit_id": "hit_quire__276",
-    "number": "34",
+    "number": "33",
     "locus": "237r-242v",
     "library": [
       {
@@ -18577,7 +18473,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:09:53.978077Z",
+    "Last modified": "2024-11-15T10:35:14.115519Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -18590,11 +18486,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 35"
+        "value": "BSB, Clm. 6381, L. 34"
       }
     ],
     "hit_id": "hit_quire__277",
-    "number": "35",
+    "number": "34",
     "locus": "243r-248v",
     "library": [
       {
@@ -18637,7 +18533,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:10:00.533536Z",
+    "Last modified": "2024-11-15T10:35:19.004680Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -18650,11 +18546,11 @@
           "database_table_3487": 9,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6381, L. 36"
+        "value": "BSB, Clm. 6381, L. 35"
       }
     ],
     "hit_id": "hit_quire__278",
-    "number": "36",
+    "number": "35",
     "locus": "249r-250v",
     "library": [
       {
@@ -18697,7 +18593,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-14T11:10:14.319744Z",
+    "Last modified": "2024-11-15T10:35:22.892200Z",
     "cod_units": [],
     "besonderheiten": []
   }

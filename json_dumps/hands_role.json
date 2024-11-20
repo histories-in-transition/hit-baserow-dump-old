@@ -169,8 +169,14 @@
       "name": "Ivana Dobcheva"
     },
     "Created on": "2024-06-24",
-    "Last modified": "2024-07-03",
-    "locus_layout": [],
+    "Last modified": "2024-11-19",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum/Haupttext",
+        "color": "dark-green"
+      }
+    ],
     "function": []
   },
   "5": {
@@ -191,9 +197,9 @@
     ],
     "role": [
       {
-        "id": 14760,
-        "value": "corrector",
-        "color": "darker-yellow"
+        "id": 15373,
+        "value": "Korrektor",
+        "color": "darker-brown"
       }
     ],
     "locus": "",
@@ -221,7 +227,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-06-25",
-    "Last modified": "2024-07-11",
+    "Last modified": "2024-11-19",
     "locus_layout": [],
     "function": []
   },

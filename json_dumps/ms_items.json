@@ -258,7 +258,7 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
       }
     ],
-    "Last modified": "2024-09-23",
+    "Last modified": "2024-11-19",
     "Created on": "2024-06-17",
     "Created by": {
       "id": 86,
@@ -299,7 +299,13 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46_H. 2"
       }
     ],
-    "decoration": [],
+    "decoration": [
+      {
+        "id": 15104,
+        "value": "Unziale_Rot",
+        "color": "darker-pink"
+      }
+    ],
     "facs_url": "",
     "form": [],
     "form_note": null
@@ -581,7 +587,7 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
       }
     ],
-    "Last modified": "2024-07-03",
+    "Last modified": "2024-11-19",
     "Created on": "2024-06-17",
     "Created by": {
       "id": 86,
@@ -615,7 +621,13 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46_H. 2"
       }
     ],
-    "decoration": [],
+    "decoration": [
+      {
+        "id": 15102,
+        "value": "Capitalis_Rot",
+        "color": "darker-red"
+      }
+    ],
     "facs_url": "",
     "form": [],
     "form_note": null

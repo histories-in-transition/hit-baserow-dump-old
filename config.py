@@ -12,6 +12,12 @@ TEI_FOLDER = "tei"
 DATA_FOLDER = "data"
 ID_FIELD = "hit_id"
 
+DEFAULT_DELETE_FIELDS = [
+    "$..order",
+    "$..'Created by'",
+    "$..'Created on'",
+]
+
 try:
     br_client = BaseRowClient(
         BASEROW_USER, BASEROW_PW, BASEROW_TOKEN, br_base_url=BASEROW_URL
@@ -248,6 +254,12 @@ MODEL_CONFIG = [
                 "seed_file": [DATA_FOLDER, "hands_role.json"],
                 "source_file": [JSON_FOLDER, "strata.json"],
             },
+        ],
+        "delete_fields": [
+            "$.*.ms_items",
+            "$.*.quires",
+            "$.*.locus",
+            "$.*.hand_role[*].ms_item[*].manuscript",
         ],
     },
     {

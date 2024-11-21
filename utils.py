@@ -1,6 +1,7 @@
 import os
 import json
 from jsonpath_ng import parse
+from jsonpath_ng.exceptions import JsonPathParserError
 
 ORIG_FOLDER = "json"
 DATA_DIR = "data"
@@ -17,7 +18,9 @@ def add_related_objects(MODEL_CONFIG):
             source_data = json.load(fp)
 
         for item in rel_obj:
-            print(f"adding {item['lookup_field']} from {item['source_file']} to {final_file}")
+            print(
+                f"adding {item['lookup_field']} from {item['source_file']} to {final_file}"
+            )
             source_file = item["source_file"]
             lookup_field = item["lookup_field"]
 
@@ -113,3 +116,24 @@ def add_prev_next(MODEL_CONFIG, ID_FIELD):
             value["next"] = {"id": next_item, "label": next_label}
         with open(file_name, "w", encoding="utf-8") as fp:
             json.dump(data, fp, ensure_ascii=False, indent=2)
+
+
+def remove_fields(MODEL_CONFIG, DEFAULT_DELETE_FIELDS=[]):
+    for x in MODEL_CONFIG:
+        try:
+            to_delete = x["delete_fields"] + DEFAULT_DELETE_FIELDS
+        except KeyError:
+            to_delete = DEFAULT_DELETE_FIELDS
+        save_path = os.path.join(*x["final_file"])
+        for field_path in to_delete:
+            print(f"removing {field_path} from {save_path}")
+            with open(save_path, "r") as fp:
+                source_data = json.load(fp)
+            try:
+                jsonpath_expr = parse(field_path)
+            except JsonPathParserError:
+                print(f"expression: {field_path} seems to be invalid")
+                continue
+            cleaned_data = jsonpath_expr.filter(lambda d: True, source_data)
+            with open(save_path, "w", encoding="utf-8") as fp:
+                json.dump(cleaned_data, fp, ensure_ascii=False, indent=2)

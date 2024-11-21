@@ -23,7 +23,6 @@ jobs:
           cache: "pip"
       - name: Install Python Packages
         run: |
-          python -m pip config set global.break-system-packages true
           pip install -r requirements.txt
       - name: dump the data
         run: |

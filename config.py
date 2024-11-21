@@ -162,7 +162,7 @@ MODEL_CONFIG = [
         "fields": [
             {
                 "field_name": "scribe",
-                "seed_file": [JSON_FOLDER, "people.json"],
+                "seed_file": [JSON_FOLDER, "scribes.json"],
                 "source_file": [JSON_FOLDER, "hands.json"],
             },
             {
@@ -259,6 +259,18 @@ MODEL_CONFIG = [
                 "field_name": "hands_role",
                 "seed_file": [DATA_FOLDER, "hands_role.json"],
                 "source_file": [DATA_FOLDER, "hands.json"],
+            },
+        ],
+    },
+    {
+        "table_label": "SCRIBES",
+        "label_lookup_expression": "$..name",
+        "final_file": [DATA_FOLDER, "scribes.json"],
+        "fields": [
+            {
+                "field_name": "hands",
+                "seed_file": [DATA_FOLDER, "hands.json"],
+                "source_file": [JSON_FOLDER, "scribes.json"],
             },
         ],
     },

@@ -8082,7 +8082,7 @@
         "value": "BSB, Clm. 6383_H. 1"
       }
     ],
-    "description": "eine Gruppe der eng verwandten zusammen arbeitenden alemmanischen Händen.",
+    "description": "eine Gruppe der eng verwandten zusammen arbeitenden alemmanischen Händen. Unter Eigenschaften: runde Buchstabenkörper; Ligaturen nt und fi mitte in einem Wort, Schäfte senkrecht; a vor allem in cc-Form, selten uncial",
     "hit_id": "hit_hands__100",
     "similar_hands": [],
     "nr_daniel": "",
@@ -8103,7 +8103,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-13",
+    "Last modified": "2024-11-20",
     "hands_role": [
       {
         "id": 126,
@@ -8140,7 +8140,12 @@
         "value": "8 Jh., Ende"
       }
     ],
-    "hands_placed": [],
+    "hands_placed": [
+      {
+        "id": 27,
+        "value": "hit_hands_placed__27"
+      }
+    ],
     "scribe": []
   },
   "101": {
@@ -9274,7 +9279,12 @@
         "value": "9 Jh."
       }
     ],
-    "hands_placed": [],
+    "hands_placed": [
+      {
+        "id": 27,
+        "value": "hit_hands_placed__27"
+      }
+    ],
     "scribe": []
   }
 }

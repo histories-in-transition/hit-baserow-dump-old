@@ -209,8 +209,8 @@
     },
     "view_label": "hit_hands_placed__3",
     "prev": {
-      "id": "hit_hands_placed__26",
-      "label": "hit_hands_placed__26"
+      "id": "hit_hands_placed__27",
+      "label": "hit_hands_placed__27"
     },
     "next": {
       "id": "hit_hands_placed__4",
@@ -1938,6 +1938,86 @@
     "prev": {
       "id": "hit_hands_placed__25",
       "label": "hit_hands_placed__25"
+    },
+    "next": {
+      "id": "hit_hands_placed__27",
+      "label": "hit_hands_placed__27"
+    }
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "hit_id": "hit_hands_placed__27",
+    "hand": [
+      {
+        "id": 100,
+        "value": "BSB, Clm. 6383_H. 1"
+      },
+      {
+        "id": 118,
+        "value": "BSB, Clm. 6383_H. 2"
+      }
+    ],
+    "authority": [
+      {
+        "id": 13,
+        "order": "13.00000000000000000000",
+        "name": "O. Ernst, A. Nievergelt, M. Schiegg",
+        "short_title": "Althochdeutsche Griffel-, Feder- und Farbstiftglossen aus Freising",
+        "zotero_id": "",
+        "hit_id": "hit_bibl__13"
+      }
+    ],
+    "page": "275",
+    "place": [
+      {
+        "id": 12,
+        "order": "12.00000000000000000000",
+        "name": "Bodensee",
+        "geonames_url": "https://www.geonames.org/11919717/bodenseeregion.html",
+        "hit_id": "hit_place__12",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q579011",
+        "country": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Created by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Created on": "2024-06-05",
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Created by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Created on": "2024-07-08",
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-11-20"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "view_label": "hit_hands_placed__27",
+    "prev": {
+      "id": "hit_hands_placed__26",
+      "label": "hit_hands_placed__26"
     },
     "next": {
       "id": "hit_hands_placed__3",

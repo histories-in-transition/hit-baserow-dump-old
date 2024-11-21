@@ -1,17 +1,11 @@
 {
   "1": {
     "id": 1,
-    "order": "1.00000000000000000000",
     "name": "Österreich",
     "geonames_url": "https://www.geonames.org/2782113/republic-of-austria.html",
     "hit_id": "hit_place__1",
     "wikidata_url": "https://www.wikidata.org/wiki/Q40",
     "country": [],
-    "Created by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
-    },
-    "Created on": "2024-06-05",
     "Last modified by": {
       "id": 36,
       "name": "Ivana Dobcheva"
@@ -29,17 +23,11 @@
   },
   "2": {
     "id": 2,
-    "order": "2.00000000000000000000",
     "name": "Deutschland",
     "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
     "hit_id": "hit_place__2",
     "wikidata_url": "",
     "country": [],
-    "Created by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
-    },
-    "Created on": "2024-06-05",
     "Last modified by": {
       "id": 36,
       "name": "Ivana Dobcheva"
@@ -57,17 +45,11 @@
   },
   "13": {
     "id": 13,
-    "order": "2.33333333333333348136",
     "name": "Italien",
     "geonames_url": "https://www.geonames.org/3175395/italian-republic.html",
     "hit_id": "hit_place__13",
     "wikidata_url": "",
     "country": [],
-    "Created by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
-    },
-    "Created on": "2024-07-11",
     "Last modified by": {
       "id": 36,
       "name": "Ivana Dobcheva"
@@ -85,17 +67,11 @@
   },
   "14": {
     "id": 14,
-    "order": "2.50000000000000000000",
     "name": "Frankreich",
     "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
     "hit_id": "hit_place__14",
     "wikidata_url": "",
     "country": [],
-    "Created by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
-    },
-    "Created on": "2024-07-11",
     "Last modified by": {
       "id": 36,
       "name": "Ivana Dobcheva"
@@ -113,7 +89,6 @@
   },
   "3": {
     "id": 3,
-    "order": "3.00000000000000000000",
     "name": "Salzburg",
     "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
     "hit_id": "hit_place__3",
@@ -121,17 +96,11 @@
     "country": [
       {
         "id": 1,
-        "order": "1.00000000000000000000",
         "name": "Österreich",
         "geonames_url": "https://www.geonames.org/2782113/republic-of-austria.html",
         "hit_id": "hit_place__1",
         "wikidata_url": "https://www.wikidata.org/wiki/Q40",
         "country": [],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-06-05",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -139,11 +108,6 @@
         "Last modified": "2024-06-09"
       }
     ],
-    "Created by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
-    },
-    "Created on": "2024-06-12",
     "Last modified by": {
       "id": 36,
       "name": "Ivana Dobcheva"
@@ -161,7 +125,6 @@
   },
   "4": {
     "id": 4,
-    "order": "4.00000000000000000000",
     "name": "Freising",
     "geonames_url": "https://www.geonames.org/2925034/freising.html",
     "hit_id": "hit_place__4",
@@ -169,17 +132,11 @@
     "country": [
       {
         "id": 2,
-        "order": "2.00000000000000000000",
         "name": "Deutschland",
         "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
         "hit_id": "hit_place__2",
         "wikidata_url": "",
         "country": [],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-06-05",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -187,11 +144,6 @@
         "Last modified": "2024-07-11"
       }
     ],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-06-13",
     "Last modified by": {
       "id": 36,
       "name": "Ivana Dobcheva"
@@ -209,7 +161,6 @@
   },
   "5": {
     "id": 5,
-    "order": "5.00000000000000000000",
     "name": "Saint-Amand-les-Eaux",
     "geonames_url": "https://www.geonames.org/2981839/saint-amand-les-eaux.html",
     "hit_id": "hit_place__5",
@@ -217,17 +168,11 @@
     "country": [
       {
         "id": 14,
-        "order": "2.50000000000000000000",
         "name": "Frankreich",
         "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
         "hit_id": "hit_place__14",
         "wikidata_url": "",
         "country": [],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-07-11",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -235,11 +180,6 @@
         "Last modified": "2024-07-11"
       }
     ],
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Created on": "2024-06-17",
     "Last modified by": {
       "id": 36,
       "name": "Ivana Dobcheva"
@@ -257,7 +197,6 @@
   },
   "6": {
     "id": 6,
-    "order": "6.00000000000000000000",
     "name": "Wien",
     "geonames_url": "https://www.geonames.org/2761369/vienna.html",
     "hit_id": "hit_place__6",
@@ -265,17 +204,11 @@
     "country": [
       {
         "id": 1,
-        "order": "1.00000000000000000000",
         "name": "Österreich",
         "geonames_url": "https://www.geonames.org/2782113/republic-of-austria.html",
         "hit_id": "hit_place__1",
         "wikidata_url": "https://www.wikidata.org/wiki/Q40",
         "country": [],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-06-05",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -283,11 +216,6 @@
         "Last modified": "2024-06-09"
       }
     ],
-    "Created by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
-    },
-    "Created on": "2024-07-03",
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -305,7 +233,6 @@
   },
   "7": {
     "id": 7,
-    "order": "7.00000000000000000000",
     "name": "Würzburg",
     "geonames_url": "https://www.geonames.org/2805615/wuerzburg.html",
     "hit_id": "hit_place__7",
@@ -313,17 +240,11 @@
     "country": [
       {
         "id": 2,
-        "order": "2.00000000000000000000",
         "name": "Deutschland",
         "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
         "hit_id": "hit_place__2",
         "wikidata_url": "",
         "country": [],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-06-05",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -331,11 +252,6 @@
         "Last modified": "2024-07-11"
       }
     ],
-    "Created by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
-    },
-    "Created on": "2024-07-03",
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -353,7 +269,6 @@
   },
   "8": {
     "id": 8,
-    "order": "8.00000000000000000000",
     "name": "München",
     "geonames_url": "https://www.geonames.org/2867714/munich.html",
     "hit_id": "hit_place__8",
@@ -361,17 +276,11 @@
     "country": [
       {
         "id": 2,
-        "order": "2.00000000000000000000",
         "name": "Deutschland",
         "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
         "hit_id": "hit_place__2",
         "wikidata_url": "",
         "country": [],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-06-05",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -379,11 +288,6 @@
         "Last modified": "2024-07-11"
       }
     ],
-    "Created by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
-    },
-    "Created on": "2024-07-03",
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -401,7 +305,6 @@
   },
   "9": {
     "id": 9,
-    "order": "9.00000000000000000000",
     "name": "Norditalien",
     "geonames_url": "",
     "hit_id": "hit_place__9",
@@ -409,17 +312,11 @@
     "country": [
       {
         "id": 13,
-        "order": "2.33333333333333348136",
         "name": "Italien",
         "geonames_url": "https://www.geonames.org/3175395/italian-republic.html",
         "hit_id": "hit_place__13",
         "wikidata_url": "",
         "country": [],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-07-11",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -427,11 +324,6 @@
         "Last modified": "2024-07-11"
       }
     ],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-07-03",
     "Last modified by": {
       "id": 36,
       "name": "Ivana Dobcheva"
@@ -449,7 +341,6 @@
   },
   "10": {
     "id": 10,
-    "order": "10.00000000000000000000",
     "name": "Bistum Eichstätt",
     "geonames_url": "https://www.geonames.org/2932069/eichstaett.html",
     "hit_id": "hit_place__10",
@@ -457,17 +348,11 @@
     "country": [
       {
         "id": 2,
-        "order": "2.00000000000000000000",
         "name": "Deutschland",
         "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
         "hit_id": "hit_place__2",
         "wikidata_url": "",
         "country": [],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-06-05",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -475,11 +360,6 @@
         "Last modified": "2024-07-11"
       }
     ],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-07-03",
     "Last modified by": {
       "id": 3,
       "name": "Peter Andorfer"
@@ -497,7 +377,6 @@
   },
   "11": {
     "id": 11,
-    "order": "11.00000000000000000000",
     "name": "Benediktbeuern",
     "geonames_url": "https://www.geonames.org/2951104/benediktbeuern.html",
     "hit_id": "hit_place__11",
@@ -505,17 +384,11 @@
     "country": [
       {
         "id": 2,
-        "order": "2.00000000000000000000",
         "name": "Deutschland",
         "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
         "hit_id": "hit_place__2",
         "wikidata_url": "",
         "country": [],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-06-05",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -523,11 +396,6 @@
         "Last modified": "2024-07-11"
       }
     ],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-07-08",
     "Last modified by": {
       "id": 36,
       "name": "Ivana Dobcheva"
@@ -545,7 +413,6 @@
   },
   "12": {
     "id": 12,
-    "order": "12.00000000000000000000",
     "name": "Bodensee",
     "geonames_url": "https://www.geonames.org/11919717/bodenseeregion.html",
     "hit_id": "hit_place__12",
@@ -553,17 +420,11 @@
     "country": [
       {
         "id": 2,
-        "order": "2.00000000000000000000",
         "name": "Deutschland",
         "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
         "hit_id": "hit_place__2",
         "wikidata_url": "",
         "country": [],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-06-05",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -571,11 +432,6 @@
         "Last modified": "2024-07-11"
       }
     ],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-07-08",
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -593,7 +449,6 @@
   },
   "15": {
     "id": 15,
-    "order": "13.00000000000000000000",
     "name": "Schwabien",
     "geonames_url": "",
     "hit_id": "hit_place__15",
@@ -601,17 +456,11 @@
     "country": [
       {
         "id": 2,
-        "order": "2.00000000000000000000",
         "name": "Deutschland",
         "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
         "hit_id": "hit_place__2",
         "wikidata_url": "",
         "country": [],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-06-05",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -619,11 +468,6 @@
         "Last modified": "2024-07-11"
       }
     ],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-07-18",
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -641,7 +485,6 @@
   },
   "16": {
     "id": 16,
-    "order": "14.00000000000000000000",
     "name": "Bayern",
     "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
     "hit_id": "hit_place__16",
@@ -649,17 +492,11 @@
     "country": [
       {
         "id": 2,
-        "order": "2.00000000000000000000",
         "name": "Deutschland",
         "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
         "hit_id": "hit_place__2",
         "wikidata_url": "",
         "country": [],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-06-05",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -667,11 +504,6 @@
         "Last modified": "2024-07-11"
       }
     ],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-09-16",
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -689,7 +521,6 @@
   },
   "17": {
     "id": 17,
-    "order": "15.00000000000000000000",
     "name": "Reims",
     "geonames_url": "https://www.geonames.org/2984114/reims.html",
     "hit_id": "hit_place__17",
@@ -697,17 +528,11 @@
     "country": [
       {
         "id": 14,
-        "order": "2.50000000000000000000",
         "name": "Frankreich",
         "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
         "hit_id": "hit_place__14",
         "wikidata_url": "",
         "country": [],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-07-11",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -715,11 +540,6 @@
         "Last modified": "2024-07-11"
       }
     ],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-09-17",
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -737,7 +557,6 @@
   },
   "18": {
     "id": 18,
-    "order": "16.00000000000000000000",
     "name": "Südbayern",
     "geonames_url": "",
     "hit_id": "hit_place__18",
@@ -745,17 +564,11 @@
     "country": [
       {
         "id": 2,
-        "order": "2.00000000000000000000",
         "name": "Deutschland",
         "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
         "hit_id": "hit_place__2",
         "wikidata_url": "",
         "country": [],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-06-05",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -763,11 +576,6 @@
         "Last modified": "2024-07-11"
       }
     ],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-09-19",
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -785,7 +593,6 @@
   },
   "19": {
     "id": 19,
-    "order": "17.00000000000000000000",
     "name": "Regensburg",
     "geonames_url": "http://www.geonames.org/2849483/regensburg.html",
     "hit_id": "hit_place__19",
@@ -793,17 +600,11 @@
     "country": [
       {
         "id": 2,
-        "order": "2.00000000000000000000",
         "name": "Deutschland",
         "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
         "hit_id": "hit_place__2",
         "wikidata_url": "",
         "country": [],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-06-05",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -811,11 +612,6 @@
         "Last modified": "2024-07-11"
       }
     ],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-09-19",
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"

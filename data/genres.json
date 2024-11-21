@@ -1,15 +1,9 @@
 {
   "1": {
     "id": 1,
-    "order": "1.00000000000000000000",
     "genre": "Vita",
     "hit_id": "hit_genres__1",
     "main_genre": [],
-    "Created by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
-    },
-    "Created on": "2024-06-21",
     "Last modified by": {
       "id": 36,
       "name": "Ivana Dobcheva"
@@ -27,15 +21,9 @@
   },
   "2": {
     "id": 2,
-    "order": "2.00000000000000000000",
     "genre": "Miracula",
     "hit_id": "hit_genres__2",
     "main_genre": [],
-    "Created by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
-    },
-    "Created on": "2024-06-21",
     "Last modified by": {
       "id": 36,
       "name": "Ivana Dobcheva"
@@ -53,21 +41,14 @@
   },
   "3": {
     "id": 3,
-    "order": "3.00000000000000000000",
     "genre": "Annalen",
     "hit_id": "hit_genres__3",
     "main_genre": [
       {
         "id": 5,
-        "order": "5.00000000000000000000",
         "genre": "Historiographie",
         "hit_id": "hit_genres__5",
         "main_genre": [],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-07-11",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -75,11 +56,6 @@
         "Last modified": "2024-07-11"
       }
     ],
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Created on": "2024-06-25",
     "Last modified by": {
       "id": 36,
       "name": "Ivana Dobcheva"
@@ -97,21 +73,14 @@
   },
   "4": {
     "id": 4,
-    "order": "4.00000000000000000000",
     "genre": "Chronik",
     "hit_id": "hit_genres__4",
     "main_genre": [
       {
         "id": 5,
-        "order": "5.00000000000000000000",
         "genre": "Historiographie",
         "hit_id": "hit_genres__5",
         "main_genre": [],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-07-11",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -119,11 +88,6 @@
         "Last modified": "2024-07-11"
       }
     ],
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Created on": "2024-07-02",
     "Last modified by": {
       "id": 36,
       "name": "Ivana Dobcheva"
@@ -141,15 +105,9 @@
   },
   "5": {
     "id": 5,
-    "order": "5.00000000000000000000",
     "genre": "Historiographie",
     "hit_id": "hit_genres__5",
     "main_genre": [],
-    "Created by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
-    },
-    "Created on": "2024-07-11",
     "Last modified by": {
       "id": 36,
       "name": "Ivana Dobcheva"
@@ -167,15 +125,9 @@
   },
   "6": {
     "id": 6,
-    "order": "6.00000000000000000000",
     "genre": "Lyrik",
     "hit_id": "hit_genres__6",
     "main_genre": [],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-07-11",
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -193,15 +145,9 @@
   },
   "8": {
     "id": 8,
-    "order": "7.00000000000000000000",
     "genre": "Topographische Beschreibung",
     "hit_id": "hit_genres__8",
     "main_genre": [],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-07-12",
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -219,15 +165,9 @@
   },
   "9": {
     "id": 9,
-    "order": "8.00000000000000000000",
     "genre": "Theologische Literatur",
     "hit_id": "hit_genres__9",
     "main_genre": [],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-07-12",
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -245,21 +185,14 @@
   },
   "10": {
     "id": 10,
-    "order": "9.00000000000000000000",
     "genre": "Confessio",
     "hit_id": "hit_genres__10",
     "main_genre": [
       {
         "id": 9,
-        "order": "8.00000000000000000000",
         "genre": "Theologische Literatur",
         "hit_id": "hit_genres__9",
         "main_genre": [],
-        "Created by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
-        },
-        "Created on": "2024-07-12",
         "Last modified by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -267,11 +200,6 @@
         "Last modified": "2024-07-12"
       }
     ],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-07-12",
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -289,15 +217,9 @@
   },
   "11": {
     "id": 11,
-    "order": "10.00000000000000000000",
     "genre": "Briefe",
     "hit_id": "hit_genres__11",
     "main_genre": [],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-07-12",
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -315,15 +237,9 @@
   },
   "12": {
     "id": 12,
-    "order": "11.00000000000000000000",
     "genre": "Recht",
     "hit_id": "hit_genres__12",
     "main_genre": [],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-07-12",
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -341,21 +257,14 @@
   },
   "13": {
     "id": 13,
-    "order": "12.00000000000000000000",
     "genre": "Biblische Kommentare",
     "hit_id": "hit_genres__13",
     "main_genre": [
       {
         "id": 9,
-        "order": "8.00000000000000000000",
         "genre": "Theologische Literatur",
         "hit_id": "hit_genres__9",
         "main_genre": [],
-        "Created by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
-        },
-        "Created on": "2024-07-12",
         "Last modified by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -363,11 +272,6 @@
         "Last modified": "2024-07-12"
       }
     ],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-07-12",
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -385,15 +289,9 @@
   },
   "14": {
     "id": 14,
-    "order": "13.00000000000000000000",
     "genre": "Kalandologion",
     "hit_id": "hit_genres__14",
     "main_genre": [],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-07-12",
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -411,15 +309,9 @@
   },
   "15": {
     "id": 15,
-    "order": "14.00000000000000000000",
     "genre": "Hymnus",
     "hit_id": "hit_genres__15",
     "main_genre": [],
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Created on": "2024-07-16",
     "Last modified by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -437,15 +329,9 @@
   },
   "16": {
     "id": 16,
-    "order": "15.00000000000000000000",
     "genre": "Komputistik",
     "hit_id": "hit_genres__16",
     "main_genre": [],
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Created on": "2024-07-23",
     "Last modified by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -463,15 +349,9 @@
   },
   "17": {
     "id": 17,
-    "order": "16.00000000000000000000",
     "genre": "Urkunde",
     "hit_id": "hit_genres__17",
     "main_genre": [],
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Created on": "2024-10-03",
     "Last modified by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -489,15 +369,9 @@
   },
   "18": {
     "id": 18,
-    "order": "17.00000000000000000000",
     "genre": "Canones",
     "hit_id": "hit_genres__18",
     "main_genre": [],
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Created on": "2024-10-09",
     "Last modified by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -515,15 +389,9 @@
   },
   "19": {
     "id": 19,
-    "order": "18.00000000000000000000",
     "genre": "Traktat",
     "hit_id": "hit_genres__19",
     "main_genre": [],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-10-22",
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -541,15 +409,9 @@
   },
   "20": {
     "id": 20,
-    "order": "19.00000000000000000000",
     "genre": "Kommentar",
     "hit_id": "hit_genres__20",
     "main_genre": [],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-10-22",
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -567,15 +429,9 @@
   },
   "21": {
     "id": 21,
-    "order": "20.00000000000000000000",
     "genre": "Excerpta",
     "hit_id": "hit_genres__21",
     "main_genre": [],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-10-22",
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -593,15 +449,9 @@
   },
   "22": {
     "id": 22,
-    "order": "21.00000000000000000000",
     "genre": "Katalog",
     "hit_id": "hit_genres__22",
     "main_genre": [],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-10-22",
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"

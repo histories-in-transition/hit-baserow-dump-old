@@ -1,7 +1,6 @@
 {
   "1": {
     "id": 1,
-    "order": "1.00000000000000000000",
     "hit_id": "hit_hands_placed__1",
     "hand": [
       {
@@ -12,7 +11,6 @@
     "authority": [
       {
         "id": 2,
-        "order": "2.00000000000000000000",
         "name": "Bischoff",
         "short_title": "Die südostdeutschen Schreibschulen und Bibliotheken in der Karolingerzeit",
         "zotero_id": "",
@@ -23,7 +21,6 @@
     "place": [
       {
         "id": 3,
-        "order": "3.00000000000000000000",
         "name": "Salzburg",
         "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
         "hit_id": "hit_place__3",
@@ -31,17 +28,11 @@
         "country": [
           {
             "id": 1,
-            "order": "1.00000000000000000000",
             "name": "Österreich",
             "geonames_url": "https://www.geonames.org/2782113/republic-of-austria.html",
             "hit_id": "hit_place__1",
             "wikidata_url": "https://www.wikidata.org/wiki/Q40",
             "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-06-05",
             "Last modified by": {
               "id": 36,
               "name": "Ivana Dobcheva"
@@ -49,11 +40,6 @@
             "Last modified": "2024-06-09"
           }
         ],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-06-12",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -77,7 +63,6 @@
   },
   "2": {
     "id": 2,
-    "order": "2.00000000000000000000",
     "hit_id": "hit_hands_placed__2",
     "hand": [
       {
@@ -88,7 +73,6 @@
     "authority": [
       {
         "id": 2,
-        "order": "2.00000000000000000000",
         "name": "Bischoff",
         "short_title": "Die südostdeutschen Schreibschulen und Bibliotheken in der Karolingerzeit",
         "zotero_id": "",
@@ -99,7 +83,6 @@
     "place": [
       {
         "id": 3,
-        "order": "3.00000000000000000000",
         "name": "Salzburg",
         "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
         "hit_id": "hit_place__3",
@@ -107,17 +90,11 @@
         "country": [
           {
             "id": 1,
-            "order": "1.00000000000000000000",
             "name": "Österreich",
             "geonames_url": "https://www.geonames.org/2782113/republic-of-austria.html",
             "hit_id": "hit_place__1",
             "wikidata_url": "https://www.wikidata.org/wiki/Q40",
             "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-06-05",
             "Last modified by": {
               "id": 36,
               "name": "Ivana Dobcheva"
@@ -125,11 +102,6 @@
             "Last modified": "2024-06-09"
           }
         ],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-06-12",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -138,7 +110,6 @@
       },
       {
         "id": 5,
-        "order": "5.00000000000000000000",
         "name": "Saint-Amand-les-Eaux",
         "geonames_url": "https://www.geonames.org/2981839/saint-amand-les-eaux.html",
         "hit_id": "hit_place__5",
@@ -146,17 +117,11 @@
         "country": [
           {
             "id": 14,
-            "order": "2.50000000000000000000",
             "name": "Frankreich",
             "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
             "hit_id": "hit_place__14",
             "wikidata_url": "",
             "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-07-11",
             "Last modified by": {
               "id": 36,
               "name": "Ivana Dobcheva"
@@ -164,11 +129,6 @@
             "Last modified": "2024-07-11"
           }
         ],
-        "Created by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
-        },
-        "Created on": "2024-06-17",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -192,7 +152,6 @@
   },
   "3": {
     "id": 3,
-    "order": "3.00000000000000000000",
     "hit_id": "hit_hands_placed__3",
     "hand": [
       {
@@ -219,7 +178,6 @@
   },
   "4": {
     "id": 4,
-    "order": "4.00000000000000000000",
     "hit_id": "hit_hands_placed__4",
     "hand": [
       {
@@ -230,7 +188,6 @@
     "authority": [
       {
         "id": 2,
-        "order": "2.00000000000000000000",
         "name": "Bischoff",
         "short_title": "Die südostdeutschen Schreibschulen und Bibliotheken in der Karolingerzeit",
         "zotero_id": "",
@@ -241,7 +198,6 @@
     "place": [
       {
         "id": 5,
-        "order": "5.00000000000000000000",
         "name": "Saint-Amand-les-Eaux",
         "geonames_url": "https://www.geonames.org/2981839/saint-amand-les-eaux.html",
         "hit_id": "hit_place__5",
@@ -249,17 +205,11 @@
         "country": [
           {
             "id": 14,
-            "order": "2.50000000000000000000",
             "name": "Frankreich",
             "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
             "hit_id": "hit_place__14",
             "wikidata_url": "",
             "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-07-11",
             "Last modified by": {
               "id": 36,
               "name": "Ivana Dobcheva"
@@ -267,11 +217,6 @@
             "Last modified": "2024-07-11"
           }
         ],
-        "Created by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
-        },
-        "Created on": "2024-06-17",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -295,7 +240,6 @@
   },
   "5": {
     "id": 5,
-    "order": "5.00000000000000000000",
     "hit_id": "hit_hands_placed__5",
     "hand": [
       {
@@ -306,7 +250,6 @@
     "authority": [
       {
         "id": 2,
-        "order": "2.00000000000000000000",
         "name": "Bischoff",
         "short_title": "Die südostdeutschen Schreibschulen und Bibliotheken in der Karolingerzeit",
         "zotero_id": "",
@@ -317,7 +260,6 @@
     "place": [
       {
         "id": 5,
-        "order": "5.00000000000000000000",
         "name": "Saint-Amand-les-Eaux",
         "geonames_url": "https://www.geonames.org/2981839/saint-amand-les-eaux.html",
         "hit_id": "hit_place__5",
@@ -325,17 +267,11 @@
         "country": [
           {
             "id": 14,
-            "order": "2.50000000000000000000",
             "name": "Frankreich",
             "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
             "hit_id": "hit_place__14",
             "wikidata_url": "",
             "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-07-11",
             "Last modified by": {
               "id": 36,
               "name": "Ivana Dobcheva"
@@ -343,11 +279,6 @@
             "Last modified": "2024-07-11"
           }
         ],
-        "Created by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
-        },
-        "Created on": "2024-06-17",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -371,7 +302,6 @@
   },
   "6": {
     "id": 6,
-    "order": "6.00000000000000000000",
     "hit_id": "hit_hands_placed__6",
     "hand": [
       {
@@ -382,7 +312,6 @@
     "authority": [
       {
         "id": 2,
-        "order": "2.00000000000000000000",
         "name": "Bischoff",
         "short_title": "Die südostdeutschen Schreibschulen und Bibliotheken in der Karolingerzeit",
         "zotero_id": "",
@@ -393,7 +322,6 @@
     "place": [
       {
         "id": 3,
-        "order": "3.00000000000000000000",
         "name": "Salzburg",
         "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
         "hit_id": "hit_place__3",
@@ -401,17 +329,11 @@
         "country": [
           {
             "id": 1,
-            "order": "1.00000000000000000000",
             "name": "Österreich",
             "geonames_url": "https://www.geonames.org/2782113/republic-of-austria.html",
             "hit_id": "hit_place__1",
             "wikidata_url": "https://www.wikidata.org/wiki/Q40",
             "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-06-05",
             "Last modified by": {
               "id": 36,
               "name": "Ivana Dobcheva"
@@ -419,11 +341,6 @@
             "Last modified": "2024-06-09"
           }
         ],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-06-12",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -447,7 +364,6 @@
   },
   "7": {
     "id": 7,
-    "order": "7.00000000000000000000",
     "hit_id": "hit_hands_placed__7",
     "hand": [
       {
@@ -458,7 +374,6 @@
     "authority": [
       {
         "id": 2,
-        "order": "2.00000000000000000000",
         "name": "Bischoff",
         "short_title": "Die südostdeutschen Schreibschulen und Bibliotheken in der Karolingerzeit",
         "zotero_id": "",
@@ -469,7 +384,6 @@
     "place": [
       {
         "id": 5,
-        "order": "5.00000000000000000000",
         "name": "Saint-Amand-les-Eaux",
         "geonames_url": "https://www.geonames.org/2981839/saint-amand-les-eaux.html",
         "hit_id": "hit_place__5",
@@ -477,17 +391,11 @@
         "country": [
           {
             "id": 14,
-            "order": "2.50000000000000000000",
             "name": "Frankreich",
             "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
             "hit_id": "hit_place__14",
             "wikidata_url": "",
             "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-07-11",
             "Last modified by": {
               "id": 36,
               "name": "Ivana Dobcheva"
@@ -495,11 +403,6 @@
             "Last modified": "2024-07-11"
           }
         ],
-        "Created by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
-        },
-        "Created on": "2024-06-17",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -523,7 +426,6 @@
   },
   "8": {
     "id": 8,
-    "order": "8.00000000000000000000",
     "hit_id": "hit_hands_placed__8",
     "hand": [
       {
@@ -534,7 +436,6 @@
     "authority": [
       {
         "id": 2,
-        "order": "2.00000000000000000000",
         "name": "Bischoff",
         "short_title": "Die südostdeutschen Schreibschulen und Bibliotheken in der Karolingerzeit",
         "zotero_id": "",
@@ -545,7 +446,6 @@
     "place": [
       {
         "id": 5,
-        "order": "5.00000000000000000000",
         "name": "Saint-Amand-les-Eaux",
         "geonames_url": "https://www.geonames.org/2981839/saint-amand-les-eaux.html",
         "hit_id": "hit_place__5",
@@ -553,17 +453,11 @@
         "country": [
           {
             "id": 14,
-            "order": "2.50000000000000000000",
             "name": "Frankreich",
             "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
             "hit_id": "hit_place__14",
             "wikidata_url": "",
             "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-07-11",
             "Last modified by": {
               "id": 36,
               "name": "Ivana Dobcheva"
@@ -571,11 +465,6 @@
             "Last modified": "2024-07-11"
           }
         ],
-        "Created by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
-        },
-        "Created on": "2024-06-17",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -599,7 +488,6 @@
   },
   "9": {
     "id": 9,
-    "order": "9.00000000000000000000",
     "hit_id": "hit_hands_placed__9",
     "hand": [
       {
@@ -610,7 +498,6 @@
     "authority": [
       {
         "id": 2,
-        "order": "2.00000000000000000000",
         "name": "Bischoff",
         "short_title": "Die südostdeutschen Schreibschulen und Bibliotheken in der Karolingerzeit",
         "zotero_id": "",
@@ -621,7 +508,6 @@
     "place": [
       {
         "id": 5,
-        "order": "5.00000000000000000000",
         "name": "Saint-Amand-les-Eaux",
         "geonames_url": "https://www.geonames.org/2981839/saint-amand-les-eaux.html",
         "hit_id": "hit_place__5",
@@ -629,17 +515,11 @@
         "country": [
           {
             "id": 14,
-            "order": "2.50000000000000000000",
             "name": "Frankreich",
             "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
             "hit_id": "hit_place__14",
             "wikidata_url": "",
             "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-07-11",
             "Last modified by": {
               "id": 36,
               "name": "Ivana Dobcheva"
@@ -647,11 +527,6 @@
             "Last modified": "2024-07-11"
           }
         ],
-        "Created by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
-        },
-        "Created on": "2024-06-17",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -675,7 +550,6 @@
   },
   "10": {
     "id": 10,
-    "order": "10.00000000000000000000",
     "hit_id": "hit_hands_placed__10",
     "hand": [
       {
@@ -686,7 +560,6 @@
     "authority": [
       {
         "id": 9,
-        "order": "9.00000000000000000000",
         "name": "Loewe",
         "short_title": "CLA",
         "zotero_id": "",
@@ -697,7 +570,6 @@
     "place": [
       {
         "id": 4,
-        "order": "4.00000000000000000000",
         "name": "Freising",
         "geonames_url": "https://www.geonames.org/2925034/freising.html",
         "hit_id": "hit_place__4",
@@ -705,17 +577,11 @@
         "country": [
           {
             "id": 2,
-            "order": "2.00000000000000000000",
             "name": "Deutschland",
             "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
             "hit_id": "hit_place__2",
             "wikidata_url": "",
             "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-06-05",
             "Last modified by": {
               "id": 36,
               "name": "Ivana Dobcheva"
@@ -723,11 +589,6 @@
             "Last modified": "2024-07-11"
           }
         ],
-        "Created by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
-        },
-        "Created on": "2024-06-13",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -751,7 +612,6 @@
   },
   "11": {
     "id": 11,
-    "order": "11.00000000000000000000",
     "hit_id": "hit_hands_placed__11",
     "hand": [
       {
@@ -762,7 +622,6 @@
     "authority": [
       {
         "id": 2,
-        "order": "2.00000000000000000000",
         "name": "Bischoff",
         "short_title": "Die südostdeutschen Schreibschulen und Bibliotheken in der Karolingerzeit",
         "zotero_id": "",
@@ -773,7 +632,6 @@
     "place": [
       {
         "id": 3,
-        "order": "3.00000000000000000000",
         "name": "Salzburg",
         "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
         "hit_id": "hit_place__3",
@@ -781,17 +639,11 @@
         "country": [
           {
             "id": 1,
-            "order": "1.00000000000000000000",
             "name": "Österreich",
             "geonames_url": "https://www.geonames.org/2782113/republic-of-austria.html",
             "hit_id": "hit_place__1",
             "wikidata_url": "https://www.wikidata.org/wiki/Q40",
             "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-06-05",
             "Last modified by": {
               "id": 36,
               "name": "Ivana Dobcheva"
@@ -799,11 +651,6 @@
             "Last modified": "2024-06-09"
           }
         ],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-06-12",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -827,7 +674,6 @@
   },
   "12": {
     "id": 12,
-    "order": "12.00000000000000000000",
     "hit_id": "hit_hands_placed__12",
     "hand": [
       {
@@ -838,7 +684,6 @@
     "authority": [
       {
         "id": 2,
-        "order": "2.00000000000000000000",
         "name": "Bischoff",
         "short_title": "Die südostdeutschen Schreibschulen und Bibliotheken in der Karolingerzeit",
         "zotero_id": "",
@@ -849,7 +694,6 @@
     "place": [
       {
         "id": 3,
-        "order": "3.00000000000000000000",
         "name": "Salzburg",
         "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
         "hit_id": "hit_place__3",
@@ -857,17 +701,11 @@
         "country": [
           {
             "id": 1,
-            "order": "1.00000000000000000000",
             "name": "Österreich",
             "geonames_url": "https://www.geonames.org/2782113/republic-of-austria.html",
             "hit_id": "hit_place__1",
             "wikidata_url": "https://www.wikidata.org/wiki/Q40",
             "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-06-05",
             "Last modified by": {
               "id": 36,
               "name": "Ivana Dobcheva"
@@ -875,11 +713,6 @@
             "Last modified": "2024-06-09"
           }
         ],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-06-12",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -903,7 +736,6 @@
   },
   "13": {
     "id": 13,
-    "order": "13.00000000000000000000",
     "hit_id": "hit_hands_placed__13",
     "hand": [
       {
@@ -914,7 +746,6 @@
     "authority": [
       {
         "id": 2,
-        "order": "2.00000000000000000000",
         "name": "Bischoff",
         "short_title": "Die südostdeutschen Schreibschulen und Bibliotheken in der Karolingerzeit",
         "zotero_id": "",
@@ -925,7 +756,6 @@
     "place": [
       {
         "id": 3,
-        "order": "3.00000000000000000000",
         "name": "Salzburg",
         "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
         "hit_id": "hit_place__3",
@@ -933,17 +763,11 @@
         "country": [
           {
             "id": 1,
-            "order": "1.00000000000000000000",
             "name": "Österreich",
             "geonames_url": "https://www.geonames.org/2782113/republic-of-austria.html",
             "hit_id": "hit_place__1",
             "wikidata_url": "https://www.wikidata.org/wiki/Q40",
             "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-06-05",
             "Last modified by": {
               "id": 36,
               "name": "Ivana Dobcheva"
@@ -951,11 +775,6 @@
             "Last modified": "2024-06-09"
           }
         ],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-06-12",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -979,7 +798,6 @@
   },
   "14": {
     "id": 14,
-    "order": "14.00000000000000000000",
     "hit_id": "hit_hands_placed__14",
     "hand": [
       {
@@ -990,7 +808,6 @@
     "authority": [
       {
         "id": 2,
-        "order": "2.00000000000000000000",
         "name": "Bischoff",
         "short_title": "Die südostdeutschen Schreibschulen und Bibliotheken in der Karolingerzeit",
         "zotero_id": "",
@@ -1001,7 +818,6 @@
     "place": [
       {
         "id": 3,
-        "order": "3.00000000000000000000",
         "name": "Salzburg",
         "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
         "hit_id": "hit_place__3",
@@ -1009,17 +825,11 @@
         "country": [
           {
             "id": 1,
-            "order": "1.00000000000000000000",
             "name": "Österreich",
             "geonames_url": "https://www.geonames.org/2782113/republic-of-austria.html",
             "hit_id": "hit_place__1",
             "wikidata_url": "https://www.wikidata.org/wiki/Q40",
             "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-06-05",
             "Last modified by": {
               "id": 36,
               "name": "Ivana Dobcheva"
@@ -1027,11 +837,6 @@
             "Last modified": "2024-06-09"
           }
         ],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-06-12",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -1055,7 +860,6 @@
   },
   "15": {
     "id": 15,
-    "order": "15.00000000000000000000",
     "hit_id": "hit_hands_placed__15",
     "hand": [
       {
@@ -1066,7 +870,6 @@
     "authority": [
       {
         "id": 2,
-        "order": "2.00000000000000000000",
         "name": "Bischoff",
         "short_title": "Die südostdeutschen Schreibschulen und Bibliotheken in der Karolingerzeit",
         "zotero_id": "",
@@ -1077,7 +880,6 @@
     "place": [
       {
         "id": 3,
-        "order": "3.00000000000000000000",
         "name": "Salzburg",
         "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
         "hit_id": "hit_place__3",
@@ -1085,17 +887,11 @@
         "country": [
           {
             "id": 1,
-            "order": "1.00000000000000000000",
             "name": "Österreich",
             "geonames_url": "https://www.geonames.org/2782113/republic-of-austria.html",
             "hit_id": "hit_place__1",
             "wikidata_url": "https://www.wikidata.org/wiki/Q40",
             "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-06-05",
             "Last modified by": {
               "id": 36,
               "name": "Ivana Dobcheva"
@@ -1103,11 +899,6 @@
             "Last modified": "2024-06-09"
           }
         ],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-06-12",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -1131,7 +922,6 @@
   },
   "16": {
     "id": 16,
-    "order": "16.00000000000000000000",
     "hit_id": "hit_hands_placed__16",
     "hand": [
       {
@@ -1144,7 +934,6 @@
     "place": [
       {
         "id": 3,
-        "order": "3.00000000000000000000",
         "name": "Salzburg",
         "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
         "hit_id": "hit_place__3",
@@ -1152,17 +941,11 @@
         "country": [
           {
             "id": 1,
-            "order": "1.00000000000000000000",
             "name": "Österreich",
             "geonames_url": "https://www.geonames.org/2782113/republic-of-austria.html",
             "hit_id": "hit_place__1",
             "wikidata_url": "https://www.wikidata.org/wiki/Q40",
             "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-06-05",
             "Last modified by": {
               "id": 36,
               "name": "Ivana Dobcheva"
@@ -1170,11 +953,6 @@
             "Last modified": "2024-06-09"
           }
         ],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-06-12",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -1198,7 +976,6 @@
   },
   "17": {
     "id": 17,
-    "order": "17.00000000000000000000",
     "hit_id": "hit_hands_placed__17",
     "hand": [
       {
@@ -1211,7 +988,6 @@
     "place": [
       {
         "id": 3,
-        "order": "3.00000000000000000000",
         "name": "Salzburg",
         "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
         "hit_id": "hit_place__3",
@@ -1219,17 +995,11 @@
         "country": [
           {
             "id": 1,
-            "order": "1.00000000000000000000",
             "name": "Österreich",
             "geonames_url": "https://www.geonames.org/2782113/republic-of-austria.html",
             "hit_id": "hit_place__1",
             "wikidata_url": "https://www.wikidata.org/wiki/Q40",
             "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-06-05",
             "Last modified by": {
               "id": 36,
               "name": "Ivana Dobcheva"
@@ -1237,11 +1007,6 @@
             "Last modified": "2024-06-09"
           }
         ],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-06-12",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -1265,7 +1030,6 @@
   },
   "18": {
     "id": 18,
-    "order": "18.00000000000000000000",
     "hit_id": "hit_hands_placed__18",
     "hand": [
       {
@@ -1278,7 +1042,6 @@
     "place": [
       {
         "id": 3,
-        "order": "3.00000000000000000000",
         "name": "Salzburg",
         "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
         "hit_id": "hit_place__3",
@@ -1286,17 +1049,11 @@
         "country": [
           {
             "id": 1,
-            "order": "1.00000000000000000000",
             "name": "Österreich",
             "geonames_url": "https://www.geonames.org/2782113/republic-of-austria.html",
             "hit_id": "hit_place__1",
             "wikidata_url": "https://www.wikidata.org/wiki/Q40",
             "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-06-05",
             "Last modified by": {
               "id": 36,
               "name": "Ivana Dobcheva"
@@ -1304,11 +1061,6 @@
             "Last modified": "2024-06-09"
           }
         ],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-06-12",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -1332,7 +1084,6 @@
   },
   "19": {
     "id": 19,
-    "order": "19.00000000000000000000",
     "hit_id": "hit_hands_placed__19",
     "hand": [
       {
@@ -1345,7 +1096,6 @@
     "place": [
       {
         "id": 3,
-        "order": "3.00000000000000000000",
         "name": "Salzburg",
         "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
         "hit_id": "hit_place__3",
@@ -1353,17 +1103,11 @@
         "country": [
           {
             "id": 1,
-            "order": "1.00000000000000000000",
             "name": "Österreich",
             "geonames_url": "https://www.geonames.org/2782113/republic-of-austria.html",
             "hit_id": "hit_place__1",
             "wikidata_url": "https://www.wikidata.org/wiki/Q40",
             "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-06-05",
             "Last modified by": {
               "id": 36,
               "name": "Ivana Dobcheva"
@@ -1371,11 +1115,6 @@
             "Last modified": "2024-06-09"
           }
         ],
-        "Created by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
-        },
-        "Created on": "2024-06-12",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -1399,7 +1138,6 @@
   },
   "20": {
     "id": 20,
-    "order": "20.00000000000000000000",
     "hit_id": "hit_hands_placed__20",
     "hand": [
       {
@@ -1442,7 +1180,6 @@
     "authority": [
       {
         "id": 6,
-        "order": "6.00000000000000000000",
         "name": "Daniel, N.",
         "short_title": "Handschriften des zehnten Jahrhunderts aus der Freisinger Dombibliothek",
         "zotero_id": "",
@@ -1453,7 +1190,6 @@
     "place": [
       {
         "id": 16,
-        "order": "14.00000000000000000000",
         "name": "Bayern",
         "geonames_url": "https://www.geonames.org/2951839/bavaria.html",
         "hit_id": "hit_place__16",
@@ -1461,17 +1197,11 @@
         "country": [
           {
             "id": 2,
-            "order": "2.00000000000000000000",
             "name": "Deutschland",
             "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
             "hit_id": "hit_place__2",
             "wikidata_url": "",
             "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-06-05",
             "Last modified by": {
               "id": 36,
               "name": "Ivana Dobcheva"
@@ -1479,11 +1209,6 @@
             "Last modified": "2024-07-11"
           }
         ],
-        "Created by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
-        },
-        "Created on": "2024-09-16",
         "Last modified by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -1507,7 +1232,6 @@
   },
   "21": {
     "id": 21,
-    "order": "21.00000000000000000000",
     "hit_id": "hit_hands_placed__21",
     "hand": [
       {
@@ -1518,7 +1242,6 @@
     "authority": [
       {
         "id": 2,
-        "order": "2.00000000000000000000",
         "name": "Bischoff",
         "short_title": "Die südostdeutschen Schreibschulen und Bibliotheken in der Karolingerzeit",
         "zotero_id": "",
@@ -1529,7 +1252,6 @@
     "place": [
       {
         "id": 4,
-        "order": "4.00000000000000000000",
         "name": "Freising",
         "geonames_url": "https://www.geonames.org/2925034/freising.html",
         "hit_id": "hit_place__4",
@@ -1537,17 +1259,11 @@
         "country": [
           {
             "id": 2,
-            "order": "2.00000000000000000000",
             "name": "Deutschland",
             "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
             "hit_id": "hit_place__2",
             "wikidata_url": "",
             "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-06-05",
             "Last modified by": {
               "id": 36,
               "name": "Ivana Dobcheva"
@@ -1555,11 +1271,6 @@
             "Last modified": "2024-07-11"
           }
         ],
-        "Created by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
-        },
-        "Created on": "2024-06-13",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -1583,7 +1294,6 @@
   },
   "22": {
     "id": 22,
-    "order": "22.00000000000000000000",
     "hit_id": "hit_hands_placed__22",
     "hand": [
       {
@@ -1594,7 +1304,6 @@
     "authority": [
       {
         "id": 3,
-        "order": "3.00000000000000000000",
         "name": "Glauche",
         "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
         "zotero_id": "",
@@ -1605,7 +1314,6 @@
     "place": [
       {
         "id": 17,
-        "order": "15.00000000000000000000",
         "name": "Reims",
         "geonames_url": "https://www.geonames.org/2984114/reims.html",
         "hit_id": "hit_place__17",
@@ -1613,17 +1321,11 @@
         "country": [
           {
             "id": 14,
-            "order": "2.50000000000000000000",
             "name": "Frankreich",
             "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
             "hit_id": "hit_place__14",
             "wikidata_url": "",
             "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-07-11",
             "Last modified by": {
               "id": 36,
               "name": "Ivana Dobcheva"
@@ -1631,11 +1333,6 @@
             "Last modified": "2024-07-11"
           }
         ],
-        "Created by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
-        },
-        "Created on": "2024-09-17",
         "Last modified by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -1659,7 +1356,6 @@
   },
   "23": {
     "id": 23,
-    "order": "23.00000000000000000000",
     "hit_id": "hit_hands_placed__23",
     "hand": [
       {
@@ -1670,7 +1366,6 @@
     "authority": [
       {
         "id": 2,
-        "order": "2.00000000000000000000",
         "name": "Bischoff",
         "short_title": "Die südostdeutschen Schreibschulen und Bibliotheken in der Karolingerzeit",
         "zotero_id": "",
@@ -1681,7 +1376,6 @@
     "place": [
       {
         "id": 4,
-        "order": "4.00000000000000000000",
         "name": "Freising",
         "geonames_url": "https://www.geonames.org/2925034/freising.html",
         "hit_id": "hit_place__4",
@@ -1689,17 +1383,11 @@
         "country": [
           {
             "id": 2,
-            "order": "2.00000000000000000000",
             "name": "Deutschland",
             "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
             "hit_id": "hit_place__2",
             "wikidata_url": "",
             "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-06-05",
             "Last modified by": {
               "id": 36,
               "name": "Ivana Dobcheva"
@@ -1707,11 +1395,6 @@
             "Last modified": "2024-07-11"
           }
         ],
-        "Created by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
-        },
-        "Created on": "2024-06-13",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -1735,7 +1418,6 @@
   },
   "24": {
     "id": 24,
-    "order": "24.00000000000000000000",
     "hit_id": "hit_hands_placed__24",
     "hand": [
       {
@@ -1746,7 +1428,6 @@
     "authority": [
       {
         "id": 6,
-        "order": "6.00000000000000000000",
         "name": "Daniel, N.",
         "short_title": "Handschriften des zehnten Jahrhunderts aus der Freisinger Dombibliothek",
         "zotero_id": "",
@@ -1757,7 +1438,6 @@
     "place": [
       {
         "id": 4,
-        "order": "4.00000000000000000000",
         "name": "Freising",
         "geonames_url": "https://www.geonames.org/2925034/freising.html",
         "hit_id": "hit_place__4",
@@ -1765,17 +1445,11 @@
         "country": [
           {
             "id": 2,
-            "order": "2.00000000000000000000",
             "name": "Deutschland",
             "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
             "hit_id": "hit_place__2",
             "wikidata_url": "",
             "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-06-05",
             "Last modified by": {
               "id": 36,
               "name": "Ivana Dobcheva"
@@ -1783,11 +1457,6 @@
             "Last modified": "2024-07-11"
           }
         ],
-        "Created by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
-        },
-        "Created on": "2024-06-13",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -1811,7 +1480,6 @@
   },
   "25": {
     "id": 25,
-    "order": "25.00000000000000000000",
     "hit_id": "hit_hands_placed__25",
     "hand": [
       {
@@ -1838,7 +1506,6 @@
   },
   "26": {
     "id": 26,
-    "order": "26.00000000000000000000",
     "hit_id": "hit_hands_placed__26",
     "hand": [
       {
@@ -1881,7 +1548,6 @@
     "authority": [
       {
         "id": 2,
-        "order": "2.00000000000000000000",
         "name": "Bischoff",
         "short_title": "Die südostdeutschen Schreibschulen und Bibliotheken in der Karolingerzeit",
         "zotero_id": "",
@@ -1892,7 +1558,6 @@
     "place": [
       {
         "id": 4,
-        "order": "4.00000000000000000000",
         "name": "Freising",
         "geonames_url": "https://www.geonames.org/2925034/freising.html",
         "hit_id": "hit_place__4",
@@ -1900,17 +1565,11 @@
         "country": [
           {
             "id": 2,
-            "order": "2.00000000000000000000",
             "name": "Deutschland",
             "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
             "hit_id": "hit_place__2",
             "wikidata_url": "",
             "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-06-05",
             "Last modified by": {
               "id": 36,
               "name": "Ivana Dobcheva"
@@ -1918,11 +1577,6 @@
             "Last modified": "2024-07-11"
           }
         ],
-        "Created by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
-        },
-        "Created on": "2024-06-13",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -1946,7 +1600,6 @@
   },
   "27": {
     "id": 27,
-    "order": "27.00000000000000000000",
     "hit_id": "hit_hands_placed__27",
     "hand": [
       {
@@ -1961,7 +1614,6 @@
     "authority": [
       {
         "id": 13,
-        "order": "13.00000000000000000000",
         "name": "O. Ernst, A. Nievergelt, M. Schiegg",
         "short_title": "Althochdeutsche Griffel-, Feder- und Farbstiftglossen aus Freising",
         "zotero_id": "",
@@ -1972,7 +1624,6 @@
     "place": [
       {
         "id": 12,
-        "order": "12.00000000000000000000",
         "name": "Bodensee",
         "geonames_url": "https://www.geonames.org/11919717/bodenseeregion.html",
         "hit_id": "hit_place__12",
@@ -1980,17 +1631,11 @@
         "country": [
           {
             "id": 2,
-            "order": "2.00000000000000000000",
             "name": "Deutschland",
             "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
             "hit_id": "hit_place__2",
             "wikidata_url": "",
             "country": [],
-            "Created by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
-            },
-            "Created on": "2024-06-05",
             "Last modified by": {
               "id": 36,
               "name": "Ivana Dobcheva"
@@ -1998,11 +1643,6 @@
             "Last modified": "2024-07-11"
           }
         ],
-        "Created by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
-        },
-        "Created on": "2024-07-08",
         "Last modified by": {
           "id": 87,
           "name": "Ksenia Borisova"

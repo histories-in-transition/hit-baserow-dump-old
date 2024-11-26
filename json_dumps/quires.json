@@ -4610,9 +4610,9 @@
     "written": "200×120",
     "hair_flesh": [
       {
-        "id": 15609,
-        "value": "FFFF",
-        "color": "cyan"
+        "id": 14742,
+        "value": "FHHF",
+        "color": "darker-pink"
       }
     ],
     "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
@@ -4645,7 +4645,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-03T13:32:21.662688Z",
+    "Last modified": "2024-11-25T07:38:59.696578Z",
     "cod_units": [
       {
         "id": 4,
@@ -4692,9 +4692,14 @@
     "written": "200×120",
     "hair_flesh": [
       {
-        "id": 15610,
-        "value": "FHFF",
-        "color": "darker-cyan"
+        "id": 14742,
+        "value": "FHHF",
+        "color": "darker-pink"
+      },
+      {
+        "id": 14740,
+        "value": "HFFH",
+        "color": "darker-purple"
       }
     ],
     "ruling": "Doppelte Linien auf der Fleischseite, 23 Zeilen",
@@ -4727,7 +4732,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-03T13:33:44.968873Z",
+    "Last modified": "2024-11-25T07:39:12.614027Z",
     "cod_units": [
       {
         "id": 4,

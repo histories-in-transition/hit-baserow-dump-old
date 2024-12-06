@@ -20323,7 +20323,7 @@
     "column": [],
     "note": "",
     "decoration": "",
-    "quire_structure": "",
+    "quire_structure": "IV",
     "correct_number": null,
     "height": null,
     "width": null,
@@ -20338,7 +20338,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T19:21:32.400777Z",
+    "Last modified": "2024-12-05T10:48:12.187073Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -20383,7 +20383,7 @@
     "column": [],
     "note": "",
     "decoration": "",
-    "quire_structure": "",
+    "quire_structure": "IV",
     "correct_number": null,
     "height": null,
     "width": null,
@@ -20398,21 +20398,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T19:21:45.712065Z",
+    "Last modified": "2024-12-05T10:48:19.996318Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "309": {
     "id": 309,
     "order": "300.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__309",
     "number": null,
     "locus": "30r-36v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "30r",
     "locus_to": "36v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -20437,21 +20458,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T19:28:33.056500Z",
+    "Last modified": "2024-12-05T10:40:52.406723Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "310": {
     "id": 310,
     "order": "301.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__310",
     "number": null,
     "locus": "37r-44v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "37r",
     "locus_to": "44v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -20476,21 +20518,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T19:56:11.038640Z",
+    "Last modified": "2024-12-05T10:40:59.247639Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "311": {
     "id": 311,
     "order": "302.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__311",
     "number": null,
     "locus": "45r-52v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "45r",
     "locus_to": "52v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -20515,21 +20578,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T19:56:22.302468Z",
+    "Last modified": "2024-12-05T10:41:07.027699Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "312": {
     "id": 312,
     "order": "303.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__312",
     "number": null,
     "locus": "53r-60v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "53r",
     "locus_to": "60v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -20554,21 +20638,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T19:56:34.346043Z",
+    "Last modified": "2024-12-05T10:41:14.671615Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "313": {
     "id": 313,
     "order": "304.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__313",
     "number": null,
     "locus": "61r-68v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "61r",
     "locus_to": "68v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -20593,21 +20698,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T19:56:43.561237Z",
+    "Last modified": "2024-12-05T10:41:21.632941Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "314": {
     "id": 314,
     "order": "305.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__314",
     "number": null,
     "locus": "67r-76v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "67r",
     "locus_to": "76v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -20632,21 +20758,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T19:56:55.068855Z",
+    "Last modified": "2024-12-05T10:41:29.547336Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "315": {
     "id": 315,
     "order": "306.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__315",
     "number": null,
     "locus": "77r-84v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "77r",
     "locus_to": "84v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -20671,21 +20818,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T19:57:04.306087Z",
+    "Last modified": "2024-12-05T10:41:37.088902Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "316": {
     "id": 316,
     "order": "307.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__316",
     "number": null,
     "locus": "85r-92v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "85r",
     "locus_to": "92v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -20710,21 +20878,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T19:57:14.863073Z",
+    "Last modified": "2024-12-05T10:41:45.433320Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "317": {
     "id": 317,
     "order": "308.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__317",
     "number": null,
     "locus": "93r-100v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "93r",
     "locus_to": "100v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -20749,21 +20938,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T19:57:31.813903Z",
+    "Last modified": "2024-12-05T10:41:52.129985Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "318": {
     "id": 318,
     "order": "309.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__318",
     "number": null,
     "locus": "101r-108v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "101r",
     "locus_to": "108v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -20788,21 +20998,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T19:57:40.884409Z",
+    "Last modified": "2024-12-05T10:41:59.215648Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "319": {
     "id": 319,
     "order": "310.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__319",
     "number": null,
     "locus": "109r-116v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "109r",
     "locus_to": "116v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -20827,21 +21058,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T19:58:01.918117Z",
+    "Last modified": "2024-12-05T10:42:06.671748Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "320": {
     "id": 320,
     "order": "311.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__320",
     "number": null,
     "locus": "117r-124v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "117r",
     "locus_to": "124v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -20866,21 +21118,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T19:58:08.855707Z",
+    "Last modified": "2024-12-05T10:42:13.962094Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "321": {
     "id": 321,
     "order": "312.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__321",
     "number": null,
     "locus": "125r-133v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "125r",
     "locus_to": "133v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -20905,21 +21178,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T19:41:55.311697Z",
+    "Last modified": "2024-12-05T10:42:21.780852Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "322": {
     "id": 322,
     "order": "313.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__322",
     "number": null,
     "locus": "134r-141v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "134r",
     "locus_to": "141v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -20944,21 +21238,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T19:58:16.029267Z",
+    "Last modified": "2024-12-05T10:42:29.916096Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "323": {
     "id": 323,
     "order": "314.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__323",
     "number": null,
     "locus": "142r-149v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "142r",
     "locus_to": "149v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -20983,21 +21298,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T19:58:36.625802Z",
+    "Last modified": "2024-12-05T10:42:36.696343Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "324": {
     "id": 324,
     "order": "315.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__324",
     "number": null,
     "locus": "150r-157v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "150r",
     "locus_to": "157v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -21022,21 +21358,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T19:58:44.149043Z",
+    "Last modified": "2024-12-05T10:42:43.349963Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "325": {
     "id": 325,
     "order": "316.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__325",
     "number": null,
     "locus": "158r-165v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "158r",
     "locus_to": "165v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -21061,21 +21418,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T19:58:51.050743Z",
+    "Last modified": "2024-12-05T10:42:51.575627Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "326": {
     "id": 326,
     "order": "317.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__326",
     "number": null,
     "locus": "166r-173v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "166r",
     "locus_to": "173v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -21100,21 +21478,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T19:58:59.688322Z",
+    "Last modified": "2024-12-05T10:42:59.199489Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "327": {
     "id": 327,
     "order": "318.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__327",
     "number": null,
     "locus": "174r-181v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "174r",
     "locus_to": "181v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -21139,21 +21538,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T19:59:06.326649Z",
+    "Last modified": "2024-12-05T10:43:06.144754Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "328": {
     "id": 328,
     "order": "319.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__328",
     "number": null,
     "locus": "182r-189v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "182r",
     "locus_to": "189v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -21178,21 +21598,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T19:59:13.768302Z",
+    "Last modified": "2024-12-05T10:43:12.654421Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "329": {
     "id": 329,
     "order": "320.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__329",
     "number": null,
     "locus": "190r-197v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "190r",
     "locus_to": "197v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -21217,21 +21658,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T19:59:23.506573Z",
+    "Last modified": "2024-12-05T10:43:21.281586Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "330": {
     "id": 330,
     "order": "321.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__330",
     "number": null,
     "locus": "198r-205v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "198r",
     "locus_to": "205v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -21256,7 +21718,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T19:59:32.359336Z",
+    "Last modified": "2024-12-05T10:43:27.808474Z",
     "cod_units": [],
     "besonderheiten": []
   },
@@ -21302,14 +21764,35 @@
   "332": {
     "id": 332,
     "order": "323.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__332",
     "number": null,
     "locus": "206r-213v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "206r",
     "locus_to": "213v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -21334,21 +21817,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T19:59:39.733360Z",
+    "Last modified": "2024-12-05T10:43:38.742514Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "333": {
     "id": 333,
     "order": "324.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__333",
     "number": null,
     "locus": "214r-221v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "214r",
     "locus_to": "221v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -21373,21 +21877,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T19:59:50.191021Z",
+    "Last modified": "2024-12-05T10:43:51.395253Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "334": {
     "id": 334,
     "order": "325.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__334",
     "number": null,
     "locus": "222r-229v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "222r",
     "locus_to": "229v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -21412,21 +21937,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T19:59:56.613280Z",
+    "Last modified": "2024-12-05T10:43:58.620451Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "335": {
     "id": 335,
     "order": "326.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__335",
     "number": null,
     "locus": "230r-237v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "230r",
     "locus_to": "237v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -21451,21 +21997,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T20:00:03.444570Z",
+    "Last modified": "2024-12-05T10:44:05.240448Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "336": {
     "id": 336,
     "order": "327.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__336",
     "number": null,
     "locus": "238r-245v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "238r",
     "locus_to": "245v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -21490,21 +22057,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T20:00:09.752865Z",
+    "Last modified": "2024-12-05T10:44:12.607445Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "337": {
     "id": 337,
     "order": "328.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__337",
     "number": null,
     "locus": "246r-253v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "246r",
     "locus_to": "253v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -21529,21 +22117,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T20:00:16.528001Z",
+    "Last modified": "2024-12-05T10:44:19.285509Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "338": {
     "id": 338,
     "order": "329.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__338",
     "number": null,
     "locus": "254r-261v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "254r",
     "locus_to": "261v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -21568,21 +22177,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T20:00:22.355286Z",
+    "Last modified": "2024-12-05T10:44:26.029598Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "339": {
     "id": 339,
     "order": "330.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__339",
     "number": null,
     "locus": "262r-269v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "262r",
     "locus_to": "269v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -21607,21 +22237,42 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T20:00:29.573640Z",
+    "Last modified": "2024-12-05T10:44:33.437353Z",
     "cod_units": [],
     "besonderheiten": []
   },
   "340": {
     "id": 340,
     "order": "331.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, L. "
+      }
+    ],
     "hit_id": "hit_quire__340",
     "number": null,
     "locus": "270r-276v",
-    "library": [],
+    "library": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB"
+      }
+    ],
     "locus_from": "270r",
     "locus_to": "276v",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
     "quiremark": null,
     "written_height": null,
     "written_width": null,
@@ -21646,7 +22297,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-02T19:49:16.881814Z",
+    "Last modified": "2024-12-05T10:44:43.153380Z",
     "cod_units": [],
     "besonderheiten": []
   }

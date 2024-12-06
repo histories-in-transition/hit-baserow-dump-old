@@ -18909,8 +18909,14 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-09-04",
-        "locus_layout": [],
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
         "function": []
       },
       {
@@ -20923,8 +20929,14 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-09-04",
-        "locus_layout": [],
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
         "function": []
       }
     ],
@@ -22840,8 +22852,14 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-09-04",
-        "locus_layout": [],
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
         "function": []
       }
     ],
@@ -24806,8 +24824,14 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-09-04",
-        "locus_layout": [],
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
         "function": []
       },
       {
@@ -26857,8 +26881,14 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-09-04",
-        "locus_layout": [],
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
         "function": []
       }
     ],
@@ -28774,8 +28804,14 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-09-04",
-        "locus_layout": [],
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
         "function": []
       }
     ],
@@ -30735,8 +30771,14 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-09-04",
-        "locus_layout": [],
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
         "function": []
       }
     ],
@@ -32640,8 +32682,14 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-09-04",
-        "locus_layout": [],
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
         "function": []
       }
     ],
@@ -34502,8 +34550,14 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-09-04",
-        "locus_layout": [],
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
         "function": []
       }
     ],
@@ -40729,11 +40783,11 @@
     "locus_grp": "1r-7r",
     "hands_role": [
       {
-        "id": 150,
-        "hit_id": "hit_hands_role__150",
+        "id": 148,
+        "hit_id": "hit_hands_role__148",
         "hand": [
           {
-            "id": 115,
+            "id": 97,
             "value": "BSB, Clm. 6382_H. 3"
           }
         ],
@@ -40905,9 +40959,218 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-10-03",
-        "locus_layout": [],
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
         "function": []
+      },
+      {
+        "id": 150,
+        "hit_id": "hit_hands_role__150",
+        "hand": [
+          {
+            "id": 120,
+            "value": "BSB, Clm. 6382_H. 4"
+          }
+        ],
+        "ms_item": [
+          {
+            "id": 34,
+            "value": "clm_6382__34"
+          },
+          {
+            "id": 35,
+            "value": "clm_6382__35"
+          },
+          {
+            "id": 36,
+            "value": "clm_6382__36"
+          },
+          {
+            "id": 37,
+            "value": "clm_6382__37"
+          },
+          {
+            "id": 38,
+            "value": "clm_6382__38"
+          },
+          {
+            "id": 39,
+            "value": "clm_6382__39"
+          },
+          {
+            "id": 40,
+            "value": "clm_6382__40"
+          },
+          {
+            "id": 41,
+            "value": "clm_6382__41"
+          },
+          {
+            "id": 42,
+            "value": "clm_6382__42"
+          },
+          {
+            "id": 43,
+            "value": "clm_6382__43"
+          }
+        ],
+        "role": [
+          {
+            "id": 14760,
+            "value": "corrector",
+            "color": "darker-yellow"
+          },
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ],
+        "locus": "",
+        "text": [
+          {
+            "ids": {
+              "database_table_3489": 41,
+              "database_table_3491": 34
+            },
+            "value": "Vita sanctae Euphrosinae"
+          },
+          {
+            "ids": {
+              "database_table_3489": 42,
+              "database_table_3491": 35
+            },
+            "value": "Synonyma"
+          },
+          {
+            "ids": {
+              "database_table_3489": 43,
+              "database_table_3491": 38
+            },
+            "value": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 44,
+              "database_table_3491": 41
+            },
+            "value": "De natura rerum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 45,
+              "database_table_3491": 39
+            },
+            "value": "Breviarium apostolorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 46,
+              "database_table_3491": 36
+            },
+            "value": "Concordia testimoniorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 47,
+              "database_table_3491": 37
+            },
+            "value": "De unitate sanctae trinitatis"
+          },
+          {
+            "ids": {
+              "database_table_3489": 52,
+              "database_table_3491": 40
+            },
+            "value": "Revelatio Esdrae de qualitatibus anni"
+          },
+          {
+            "ids": {
+              "database_table_3489": 62,
+              "database_table_3491": 42
+            },
+            "value": "De somnis"
+          },
+          {
+            "ids": {
+              "database_table_3489": 63,
+              "database_table_3491": 43
+            },
+            "value": "Capitulare evangeliorum"
+          }
+        ],
+        "locus_text": [
+          {
+            "id": 34,
+            "value": "1r-7r"
+          },
+          {
+            "id": 35,
+            "value": "7r-9v"
+          },
+          {
+            "id": 36,
+            "value": "10r-20v"
+          },
+          {
+            "id": 37,
+            "value": "20v-23v"
+          },
+          {
+            "id": 38,
+            "value": "23v-41r"
+          },
+          {
+            "id": 39,
+            "value": "41v-42v"
+          },
+          {
+            "id": 40,
+            "value": "42v"
+          },
+          {
+            "id": 41,
+            "value": "42v"
+          },
+          {
+            "id": 42,
+            "value": "42v-43r"
+          },
+          {
+            "id": 43,
+            "value": "43v"
+          }
+        ],
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15096,
+            "value": "marginal rechts",
+            "color": "darker-red"
+          },
+          {
+            "id": 15383,
+            "value": "marginal links",
+            "color": "darker-brown"
+          }
+        ],
+        "function": [
+          {
+            "id": 15836,
+            "value": "inhaltsbezogen",
+            "color": "darker-orange"
+          }
+        ]
       }
     ],
     "cod_unit": [
@@ -40983,6 +41246,13 @@
           "database_table_3488": 4
         },
         "value": "BSB, Clm. 6382_H. 3"
+      },
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 4"
       }
     ],
     "decoration": [],
@@ -41365,11 +41635,11 @@
     "locus_grp": "7r-9v",
     "hands_role": [
       {
-        "id": 150,
-        "hit_id": "hit_hands_role__150",
+        "id": 148,
+        "hit_id": "hit_hands_role__148",
         "hand": [
           {
-            "id": 115,
+            "id": 97,
             "value": "BSB, Clm. 6382_H. 3"
           }
         ],
@@ -41541,9 +41811,218 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-10-03",
-        "locus_layout": [],
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
         "function": []
+      },
+      {
+        "id": 150,
+        "hit_id": "hit_hands_role__150",
+        "hand": [
+          {
+            "id": 120,
+            "value": "BSB, Clm. 6382_H. 4"
+          }
+        ],
+        "ms_item": [
+          {
+            "id": 34,
+            "value": "clm_6382__34"
+          },
+          {
+            "id": 35,
+            "value": "clm_6382__35"
+          },
+          {
+            "id": 36,
+            "value": "clm_6382__36"
+          },
+          {
+            "id": 37,
+            "value": "clm_6382__37"
+          },
+          {
+            "id": 38,
+            "value": "clm_6382__38"
+          },
+          {
+            "id": 39,
+            "value": "clm_6382__39"
+          },
+          {
+            "id": 40,
+            "value": "clm_6382__40"
+          },
+          {
+            "id": 41,
+            "value": "clm_6382__41"
+          },
+          {
+            "id": 42,
+            "value": "clm_6382__42"
+          },
+          {
+            "id": 43,
+            "value": "clm_6382__43"
+          }
+        ],
+        "role": [
+          {
+            "id": 14760,
+            "value": "corrector",
+            "color": "darker-yellow"
+          },
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ],
+        "locus": "",
+        "text": [
+          {
+            "ids": {
+              "database_table_3489": 41,
+              "database_table_3491": 34
+            },
+            "value": "Vita sanctae Euphrosinae"
+          },
+          {
+            "ids": {
+              "database_table_3489": 42,
+              "database_table_3491": 35
+            },
+            "value": "Synonyma"
+          },
+          {
+            "ids": {
+              "database_table_3489": 43,
+              "database_table_3491": 38
+            },
+            "value": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 44,
+              "database_table_3491": 41
+            },
+            "value": "De natura rerum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 45,
+              "database_table_3491": 39
+            },
+            "value": "Breviarium apostolorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 46,
+              "database_table_3491": 36
+            },
+            "value": "Concordia testimoniorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 47,
+              "database_table_3491": 37
+            },
+            "value": "De unitate sanctae trinitatis"
+          },
+          {
+            "ids": {
+              "database_table_3489": 52,
+              "database_table_3491": 40
+            },
+            "value": "Revelatio Esdrae de qualitatibus anni"
+          },
+          {
+            "ids": {
+              "database_table_3489": 62,
+              "database_table_3491": 42
+            },
+            "value": "De somnis"
+          },
+          {
+            "ids": {
+              "database_table_3489": 63,
+              "database_table_3491": 43
+            },
+            "value": "Capitulare evangeliorum"
+          }
+        ],
+        "locus_text": [
+          {
+            "id": 34,
+            "value": "1r-7r"
+          },
+          {
+            "id": 35,
+            "value": "7r-9v"
+          },
+          {
+            "id": 36,
+            "value": "10r-20v"
+          },
+          {
+            "id": 37,
+            "value": "20v-23v"
+          },
+          {
+            "id": 38,
+            "value": "23v-41r"
+          },
+          {
+            "id": 39,
+            "value": "41v-42v"
+          },
+          {
+            "id": 40,
+            "value": "42v"
+          },
+          {
+            "id": 41,
+            "value": "42v"
+          },
+          {
+            "id": 42,
+            "value": "42v-43r"
+          },
+          {
+            "id": 43,
+            "value": "43v"
+          }
+        ],
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15096,
+            "value": "marginal rechts",
+            "color": "darker-red"
+          },
+          {
+            "id": 15383,
+            "value": "marginal links",
+            "color": "darker-brown"
+          }
+        ],
+        "function": [
+          {
+            "id": 15836,
+            "value": "inhaltsbezogen",
+            "color": "darker-orange"
+          }
+        ]
       }
     ],
     "cod_unit": [
@@ -41619,6 +42098,13 @@
           "database_table_3488": 4
         },
         "value": "BSB, Clm. 6382_H. 3"
+      },
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 4"
       }
     ],
     "decoration": [],
@@ -41969,11 +42455,11 @@
     "locus_grp": "10r-20v",
     "hands_role": [
       {
-        "id": 150,
-        "hit_id": "hit_hands_role__150",
+        "id": 148,
+        "hit_id": "hit_hands_role__148",
         "hand": [
           {
-            "id": 115,
+            "id": 97,
             "value": "BSB, Clm. 6382_H. 3"
           }
         ],
@@ -42145,9 +42631,218 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-10-03",
-        "locus_layout": [],
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
         "function": []
+      },
+      {
+        "id": 150,
+        "hit_id": "hit_hands_role__150",
+        "hand": [
+          {
+            "id": 120,
+            "value": "BSB, Clm. 6382_H. 4"
+          }
+        ],
+        "ms_item": [
+          {
+            "id": 34,
+            "value": "clm_6382__34"
+          },
+          {
+            "id": 35,
+            "value": "clm_6382__35"
+          },
+          {
+            "id": 36,
+            "value": "clm_6382__36"
+          },
+          {
+            "id": 37,
+            "value": "clm_6382__37"
+          },
+          {
+            "id": 38,
+            "value": "clm_6382__38"
+          },
+          {
+            "id": 39,
+            "value": "clm_6382__39"
+          },
+          {
+            "id": 40,
+            "value": "clm_6382__40"
+          },
+          {
+            "id": 41,
+            "value": "clm_6382__41"
+          },
+          {
+            "id": 42,
+            "value": "clm_6382__42"
+          },
+          {
+            "id": 43,
+            "value": "clm_6382__43"
+          }
+        ],
+        "role": [
+          {
+            "id": 14760,
+            "value": "corrector",
+            "color": "darker-yellow"
+          },
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ],
+        "locus": "",
+        "text": [
+          {
+            "ids": {
+              "database_table_3489": 41,
+              "database_table_3491": 34
+            },
+            "value": "Vita sanctae Euphrosinae"
+          },
+          {
+            "ids": {
+              "database_table_3489": 42,
+              "database_table_3491": 35
+            },
+            "value": "Synonyma"
+          },
+          {
+            "ids": {
+              "database_table_3489": 43,
+              "database_table_3491": 38
+            },
+            "value": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 44,
+              "database_table_3491": 41
+            },
+            "value": "De natura rerum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 45,
+              "database_table_3491": 39
+            },
+            "value": "Breviarium apostolorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 46,
+              "database_table_3491": 36
+            },
+            "value": "Concordia testimoniorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 47,
+              "database_table_3491": 37
+            },
+            "value": "De unitate sanctae trinitatis"
+          },
+          {
+            "ids": {
+              "database_table_3489": 52,
+              "database_table_3491": 40
+            },
+            "value": "Revelatio Esdrae de qualitatibus anni"
+          },
+          {
+            "ids": {
+              "database_table_3489": 62,
+              "database_table_3491": 42
+            },
+            "value": "De somnis"
+          },
+          {
+            "ids": {
+              "database_table_3489": 63,
+              "database_table_3491": 43
+            },
+            "value": "Capitulare evangeliorum"
+          }
+        ],
+        "locus_text": [
+          {
+            "id": 34,
+            "value": "1r-7r"
+          },
+          {
+            "id": 35,
+            "value": "7r-9v"
+          },
+          {
+            "id": 36,
+            "value": "10r-20v"
+          },
+          {
+            "id": 37,
+            "value": "20v-23v"
+          },
+          {
+            "id": 38,
+            "value": "23v-41r"
+          },
+          {
+            "id": 39,
+            "value": "41v-42v"
+          },
+          {
+            "id": 40,
+            "value": "42v"
+          },
+          {
+            "id": 41,
+            "value": "42v"
+          },
+          {
+            "id": 42,
+            "value": "42v-43r"
+          },
+          {
+            "id": 43,
+            "value": "43v"
+          }
+        ],
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15096,
+            "value": "marginal rechts",
+            "color": "darker-red"
+          },
+          {
+            "id": 15383,
+            "value": "marginal links",
+            "color": "darker-brown"
+          }
+        ],
+        "function": [
+          {
+            "id": 15836,
+            "value": "inhaltsbezogen",
+            "color": "darker-orange"
+          }
+        ]
       }
     ],
     "cod_unit": [
@@ -42223,6 +42918,13 @@
           "database_table_3488": 4
         },
         "value": "BSB, Clm. 6382_H. 3"
+      },
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 4"
       }
     ],
     "decoration": [],
@@ -42581,11 +43283,11 @@
     "locus_grp": "20v-23v",
     "hands_role": [
       {
-        "id": 150,
-        "hit_id": "hit_hands_role__150",
+        "id": 148,
+        "hit_id": "hit_hands_role__148",
         "hand": [
           {
-            "id": 115,
+            "id": 97,
             "value": "BSB, Clm. 6382_H. 3"
           }
         ],
@@ -42757,9 +43459,218 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-10-03",
-        "locus_layout": [],
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
         "function": []
+      },
+      {
+        "id": 150,
+        "hit_id": "hit_hands_role__150",
+        "hand": [
+          {
+            "id": 120,
+            "value": "BSB, Clm. 6382_H. 4"
+          }
+        ],
+        "ms_item": [
+          {
+            "id": 34,
+            "value": "clm_6382__34"
+          },
+          {
+            "id": 35,
+            "value": "clm_6382__35"
+          },
+          {
+            "id": 36,
+            "value": "clm_6382__36"
+          },
+          {
+            "id": 37,
+            "value": "clm_6382__37"
+          },
+          {
+            "id": 38,
+            "value": "clm_6382__38"
+          },
+          {
+            "id": 39,
+            "value": "clm_6382__39"
+          },
+          {
+            "id": 40,
+            "value": "clm_6382__40"
+          },
+          {
+            "id": 41,
+            "value": "clm_6382__41"
+          },
+          {
+            "id": 42,
+            "value": "clm_6382__42"
+          },
+          {
+            "id": 43,
+            "value": "clm_6382__43"
+          }
+        ],
+        "role": [
+          {
+            "id": 14760,
+            "value": "corrector",
+            "color": "darker-yellow"
+          },
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ],
+        "locus": "",
+        "text": [
+          {
+            "ids": {
+              "database_table_3489": 41,
+              "database_table_3491": 34
+            },
+            "value": "Vita sanctae Euphrosinae"
+          },
+          {
+            "ids": {
+              "database_table_3489": 42,
+              "database_table_3491": 35
+            },
+            "value": "Synonyma"
+          },
+          {
+            "ids": {
+              "database_table_3489": 43,
+              "database_table_3491": 38
+            },
+            "value": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 44,
+              "database_table_3491": 41
+            },
+            "value": "De natura rerum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 45,
+              "database_table_3491": 39
+            },
+            "value": "Breviarium apostolorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 46,
+              "database_table_3491": 36
+            },
+            "value": "Concordia testimoniorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 47,
+              "database_table_3491": 37
+            },
+            "value": "De unitate sanctae trinitatis"
+          },
+          {
+            "ids": {
+              "database_table_3489": 52,
+              "database_table_3491": 40
+            },
+            "value": "Revelatio Esdrae de qualitatibus anni"
+          },
+          {
+            "ids": {
+              "database_table_3489": 62,
+              "database_table_3491": 42
+            },
+            "value": "De somnis"
+          },
+          {
+            "ids": {
+              "database_table_3489": 63,
+              "database_table_3491": 43
+            },
+            "value": "Capitulare evangeliorum"
+          }
+        ],
+        "locus_text": [
+          {
+            "id": 34,
+            "value": "1r-7r"
+          },
+          {
+            "id": 35,
+            "value": "7r-9v"
+          },
+          {
+            "id": 36,
+            "value": "10r-20v"
+          },
+          {
+            "id": 37,
+            "value": "20v-23v"
+          },
+          {
+            "id": 38,
+            "value": "23v-41r"
+          },
+          {
+            "id": 39,
+            "value": "41v-42v"
+          },
+          {
+            "id": 40,
+            "value": "42v"
+          },
+          {
+            "id": 41,
+            "value": "42v"
+          },
+          {
+            "id": 42,
+            "value": "42v-43r"
+          },
+          {
+            "id": 43,
+            "value": "43v"
+          }
+        ],
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15096,
+            "value": "marginal rechts",
+            "color": "darker-red"
+          },
+          {
+            "id": 15383,
+            "value": "marginal links",
+            "color": "darker-brown"
+          }
+        ],
+        "function": [
+          {
+            "id": 15836,
+            "value": "inhaltsbezogen",
+            "color": "darker-orange"
+          }
+        ]
       }
     ],
     "cod_unit": [
@@ -42835,6 +43746,13 @@
           "database_table_3488": 4
         },
         "value": "BSB, Clm. 6382_H. 3"
+      },
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 4"
       }
     ],
     "decoration": [],
@@ -43217,11 +44135,11 @@
     "locus_grp": "23v-41r",
     "hands_role": [
       {
-        "id": 150,
-        "hit_id": "hit_hands_role__150",
+        "id": 148,
+        "hit_id": "hit_hands_role__148",
         "hand": [
           {
-            "id": 115,
+            "id": 97,
             "value": "BSB, Clm. 6382_H. 3"
           }
         ],
@@ -43393,9 +44311,218 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-10-03",
-        "locus_layout": [],
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
         "function": []
+      },
+      {
+        "id": 150,
+        "hit_id": "hit_hands_role__150",
+        "hand": [
+          {
+            "id": 120,
+            "value": "BSB, Clm. 6382_H. 4"
+          }
+        ],
+        "ms_item": [
+          {
+            "id": 34,
+            "value": "clm_6382__34"
+          },
+          {
+            "id": 35,
+            "value": "clm_6382__35"
+          },
+          {
+            "id": 36,
+            "value": "clm_6382__36"
+          },
+          {
+            "id": 37,
+            "value": "clm_6382__37"
+          },
+          {
+            "id": 38,
+            "value": "clm_6382__38"
+          },
+          {
+            "id": 39,
+            "value": "clm_6382__39"
+          },
+          {
+            "id": 40,
+            "value": "clm_6382__40"
+          },
+          {
+            "id": 41,
+            "value": "clm_6382__41"
+          },
+          {
+            "id": 42,
+            "value": "clm_6382__42"
+          },
+          {
+            "id": 43,
+            "value": "clm_6382__43"
+          }
+        ],
+        "role": [
+          {
+            "id": 14760,
+            "value": "corrector",
+            "color": "darker-yellow"
+          },
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ],
+        "locus": "",
+        "text": [
+          {
+            "ids": {
+              "database_table_3489": 41,
+              "database_table_3491": 34
+            },
+            "value": "Vita sanctae Euphrosinae"
+          },
+          {
+            "ids": {
+              "database_table_3489": 42,
+              "database_table_3491": 35
+            },
+            "value": "Synonyma"
+          },
+          {
+            "ids": {
+              "database_table_3489": 43,
+              "database_table_3491": 38
+            },
+            "value": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 44,
+              "database_table_3491": 41
+            },
+            "value": "De natura rerum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 45,
+              "database_table_3491": 39
+            },
+            "value": "Breviarium apostolorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 46,
+              "database_table_3491": 36
+            },
+            "value": "Concordia testimoniorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 47,
+              "database_table_3491": 37
+            },
+            "value": "De unitate sanctae trinitatis"
+          },
+          {
+            "ids": {
+              "database_table_3489": 52,
+              "database_table_3491": 40
+            },
+            "value": "Revelatio Esdrae de qualitatibus anni"
+          },
+          {
+            "ids": {
+              "database_table_3489": 62,
+              "database_table_3491": 42
+            },
+            "value": "De somnis"
+          },
+          {
+            "ids": {
+              "database_table_3489": 63,
+              "database_table_3491": 43
+            },
+            "value": "Capitulare evangeliorum"
+          }
+        ],
+        "locus_text": [
+          {
+            "id": 34,
+            "value": "1r-7r"
+          },
+          {
+            "id": 35,
+            "value": "7r-9v"
+          },
+          {
+            "id": 36,
+            "value": "10r-20v"
+          },
+          {
+            "id": 37,
+            "value": "20v-23v"
+          },
+          {
+            "id": 38,
+            "value": "23v-41r"
+          },
+          {
+            "id": 39,
+            "value": "41v-42v"
+          },
+          {
+            "id": 40,
+            "value": "42v"
+          },
+          {
+            "id": 41,
+            "value": "42v"
+          },
+          {
+            "id": 42,
+            "value": "42v-43r"
+          },
+          {
+            "id": 43,
+            "value": "43v"
+          }
+        ],
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15096,
+            "value": "marginal rechts",
+            "color": "darker-red"
+          },
+          {
+            "id": 15383,
+            "value": "marginal links",
+            "color": "darker-brown"
+          }
+        ],
+        "function": [
+          {
+            "id": 15836,
+            "value": "inhaltsbezogen",
+            "color": "darker-orange"
+          }
+        ]
       }
     ],
     "cod_unit": [
@@ -43471,6 +44598,13 @@
           "database_table_3488": 4
         },
         "value": "BSB, Clm. 6382_H. 3"
+      },
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 4"
       }
     ],
     "decoration": [],
@@ -43790,11 +44924,11 @@
     "locus_grp": "41v-42v",
     "hands_role": [
       {
-        "id": 150,
-        "hit_id": "hit_hands_role__150",
+        "id": 148,
+        "hit_id": "hit_hands_role__148",
         "hand": [
           {
-            "id": 115,
+            "id": 97,
             "value": "BSB, Clm. 6382_H. 3"
           }
         ],
@@ -43966,9 +45100,218 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-10-03",
-        "locus_layout": [],
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
         "function": []
+      },
+      {
+        "id": 150,
+        "hit_id": "hit_hands_role__150",
+        "hand": [
+          {
+            "id": 120,
+            "value": "BSB, Clm. 6382_H. 4"
+          }
+        ],
+        "ms_item": [
+          {
+            "id": 34,
+            "value": "clm_6382__34"
+          },
+          {
+            "id": 35,
+            "value": "clm_6382__35"
+          },
+          {
+            "id": 36,
+            "value": "clm_6382__36"
+          },
+          {
+            "id": 37,
+            "value": "clm_6382__37"
+          },
+          {
+            "id": 38,
+            "value": "clm_6382__38"
+          },
+          {
+            "id": 39,
+            "value": "clm_6382__39"
+          },
+          {
+            "id": 40,
+            "value": "clm_6382__40"
+          },
+          {
+            "id": 41,
+            "value": "clm_6382__41"
+          },
+          {
+            "id": 42,
+            "value": "clm_6382__42"
+          },
+          {
+            "id": 43,
+            "value": "clm_6382__43"
+          }
+        ],
+        "role": [
+          {
+            "id": 14760,
+            "value": "corrector",
+            "color": "darker-yellow"
+          },
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ],
+        "locus": "",
+        "text": [
+          {
+            "ids": {
+              "database_table_3489": 41,
+              "database_table_3491": 34
+            },
+            "value": "Vita sanctae Euphrosinae"
+          },
+          {
+            "ids": {
+              "database_table_3489": 42,
+              "database_table_3491": 35
+            },
+            "value": "Synonyma"
+          },
+          {
+            "ids": {
+              "database_table_3489": 43,
+              "database_table_3491": 38
+            },
+            "value": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 44,
+              "database_table_3491": 41
+            },
+            "value": "De natura rerum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 45,
+              "database_table_3491": 39
+            },
+            "value": "Breviarium apostolorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 46,
+              "database_table_3491": 36
+            },
+            "value": "Concordia testimoniorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 47,
+              "database_table_3491": 37
+            },
+            "value": "De unitate sanctae trinitatis"
+          },
+          {
+            "ids": {
+              "database_table_3489": 52,
+              "database_table_3491": 40
+            },
+            "value": "Revelatio Esdrae de qualitatibus anni"
+          },
+          {
+            "ids": {
+              "database_table_3489": 62,
+              "database_table_3491": 42
+            },
+            "value": "De somnis"
+          },
+          {
+            "ids": {
+              "database_table_3489": 63,
+              "database_table_3491": 43
+            },
+            "value": "Capitulare evangeliorum"
+          }
+        ],
+        "locus_text": [
+          {
+            "id": 34,
+            "value": "1r-7r"
+          },
+          {
+            "id": 35,
+            "value": "7r-9v"
+          },
+          {
+            "id": 36,
+            "value": "10r-20v"
+          },
+          {
+            "id": 37,
+            "value": "20v-23v"
+          },
+          {
+            "id": 38,
+            "value": "23v-41r"
+          },
+          {
+            "id": 39,
+            "value": "41v-42v"
+          },
+          {
+            "id": 40,
+            "value": "42v"
+          },
+          {
+            "id": 41,
+            "value": "42v"
+          },
+          {
+            "id": 42,
+            "value": "42v-43r"
+          },
+          {
+            "id": 43,
+            "value": "43v"
+          }
+        ],
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15096,
+            "value": "marginal rechts",
+            "color": "darker-red"
+          },
+          {
+            "id": 15383,
+            "value": "marginal links",
+            "color": "darker-brown"
+          }
+        ],
+        "function": [
+          {
+            "id": 15836,
+            "value": "inhaltsbezogen",
+            "color": "darker-orange"
+          }
+        ]
       }
     ],
     "cod_unit": [
@@ -44044,6 +45387,13 @@
           "database_table_3488": 4
         },
         "value": "BSB, Clm. 6382_H. 3"
+      },
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 4"
       }
     ],
     "decoration": [],
@@ -44394,11 +45744,11 @@
     "locus_grp": "42v",
     "hands_role": [
       {
-        "id": 150,
-        "hit_id": "hit_hands_role__150",
+        "id": 148,
+        "hit_id": "hit_hands_role__148",
         "hand": [
           {
-            "id": 115,
+            "id": 97,
             "value": "BSB, Clm. 6382_H. 3"
           }
         ],
@@ -44570,9 +45920,218 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-10-03",
-        "locus_layout": [],
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
         "function": []
+      },
+      {
+        "id": 150,
+        "hit_id": "hit_hands_role__150",
+        "hand": [
+          {
+            "id": 120,
+            "value": "BSB, Clm. 6382_H. 4"
+          }
+        ],
+        "ms_item": [
+          {
+            "id": 34,
+            "value": "clm_6382__34"
+          },
+          {
+            "id": 35,
+            "value": "clm_6382__35"
+          },
+          {
+            "id": 36,
+            "value": "clm_6382__36"
+          },
+          {
+            "id": 37,
+            "value": "clm_6382__37"
+          },
+          {
+            "id": 38,
+            "value": "clm_6382__38"
+          },
+          {
+            "id": 39,
+            "value": "clm_6382__39"
+          },
+          {
+            "id": 40,
+            "value": "clm_6382__40"
+          },
+          {
+            "id": 41,
+            "value": "clm_6382__41"
+          },
+          {
+            "id": 42,
+            "value": "clm_6382__42"
+          },
+          {
+            "id": 43,
+            "value": "clm_6382__43"
+          }
+        ],
+        "role": [
+          {
+            "id": 14760,
+            "value": "corrector",
+            "color": "darker-yellow"
+          },
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ],
+        "locus": "",
+        "text": [
+          {
+            "ids": {
+              "database_table_3489": 41,
+              "database_table_3491": 34
+            },
+            "value": "Vita sanctae Euphrosinae"
+          },
+          {
+            "ids": {
+              "database_table_3489": 42,
+              "database_table_3491": 35
+            },
+            "value": "Synonyma"
+          },
+          {
+            "ids": {
+              "database_table_3489": 43,
+              "database_table_3491": 38
+            },
+            "value": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 44,
+              "database_table_3491": 41
+            },
+            "value": "De natura rerum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 45,
+              "database_table_3491": 39
+            },
+            "value": "Breviarium apostolorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 46,
+              "database_table_3491": 36
+            },
+            "value": "Concordia testimoniorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 47,
+              "database_table_3491": 37
+            },
+            "value": "De unitate sanctae trinitatis"
+          },
+          {
+            "ids": {
+              "database_table_3489": 52,
+              "database_table_3491": 40
+            },
+            "value": "Revelatio Esdrae de qualitatibus anni"
+          },
+          {
+            "ids": {
+              "database_table_3489": 62,
+              "database_table_3491": 42
+            },
+            "value": "De somnis"
+          },
+          {
+            "ids": {
+              "database_table_3489": 63,
+              "database_table_3491": 43
+            },
+            "value": "Capitulare evangeliorum"
+          }
+        ],
+        "locus_text": [
+          {
+            "id": 34,
+            "value": "1r-7r"
+          },
+          {
+            "id": 35,
+            "value": "7r-9v"
+          },
+          {
+            "id": 36,
+            "value": "10r-20v"
+          },
+          {
+            "id": 37,
+            "value": "20v-23v"
+          },
+          {
+            "id": 38,
+            "value": "23v-41r"
+          },
+          {
+            "id": 39,
+            "value": "41v-42v"
+          },
+          {
+            "id": 40,
+            "value": "42v"
+          },
+          {
+            "id": 41,
+            "value": "42v"
+          },
+          {
+            "id": 42,
+            "value": "42v-43r"
+          },
+          {
+            "id": 43,
+            "value": "43v"
+          }
+        ],
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15096,
+            "value": "marginal rechts",
+            "color": "darker-red"
+          },
+          {
+            "id": 15383,
+            "value": "marginal links",
+            "color": "darker-brown"
+          }
+        ],
+        "function": [
+          {
+            "id": 15836,
+            "value": "inhaltsbezogen",
+            "color": "darker-orange"
+          }
+        ]
       }
     ],
     "cod_unit": [
@@ -44648,6 +46207,13 @@
           "database_table_3488": 4
         },
         "value": "BSB, Clm. 6382_H. 3"
+      },
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 4"
       }
     ],
     "decoration": [],
@@ -45030,11 +46596,11 @@
     "locus_grp": "42v",
     "hands_role": [
       {
-        "id": 150,
-        "hit_id": "hit_hands_role__150",
+        "id": 148,
+        "hit_id": "hit_hands_role__148",
         "hand": [
           {
-            "id": 115,
+            "id": 97,
             "value": "BSB, Clm. 6382_H. 3"
           }
         ],
@@ -45206,9 +46772,218 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-10-03",
-        "locus_layout": [],
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
         "function": []
+      },
+      {
+        "id": 150,
+        "hit_id": "hit_hands_role__150",
+        "hand": [
+          {
+            "id": 120,
+            "value": "BSB, Clm. 6382_H. 4"
+          }
+        ],
+        "ms_item": [
+          {
+            "id": 34,
+            "value": "clm_6382__34"
+          },
+          {
+            "id": 35,
+            "value": "clm_6382__35"
+          },
+          {
+            "id": 36,
+            "value": "clm_6382__36"
+          },
+          {
+            "id": 37,
+            "value": "clm_6382__37"
+          },
+          {
+            "id": 38,
+            "value": "clm_6382__38"
+          },
+          {
+            "id": 39,
+            "value": "clm_6382__39"
+          },
+          {
+            "id": 40,
+            "value": "clm_6382__40"
+          },
+          {
+            "id": 41,
+            "value": "clm_6382__41"
+          },
+          {
+            "id": 42,
+            "value": "clm_6382__42"
+          },
+          {
+            "id": 43,
+            "value": "clm_6382__43"
+          }
+        ],
+        "role": [
+          {
+            "id": 14760,
+            "value": "corrector",
+            "color": "darker-yellow"
+          },
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ],
+        "locus": "",
+        "text": [
+          {
+            "ids": {
+              "database_table_3489": 41,
+              "database_table_3491": 34
+            },
+            "value": "Vita sanctae Euphrosinae"
+          },
+          {
+            "ids": {
+              "database_table_3489": 42,
+              "database_table_3491": 35
+            },
+            "value": "Synonyma"
+          },
+          {
+            "ids": {
+              "database_table_3489": 43,
+              "database_table_3491": 38
+            },
+            "value": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 44,
+              "database_table_3491": 41
+            },
+            "value": "De natura rerum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 45,
+              "database_table_3491": 39
+            },
+            "value": "Breviarium apostolorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 46,
+              "database_table_3491": 36
+            },
+            "value": "Concordia testimoniorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 47,
+              "database_table_3491": 37
+            },
+            "value": "De unitate sanctae trinitatis"
+          },
+          {
+            "ids": {
+              "database_table_3489": 52,
+              "database_table_3491": 40
+            },
+            "value": "Revelatio Esdrae de qualitatibus anni"
+          },
+          {
+            "ids": {
+              "database_table_3489": 62,
+              "database_table_3491": 42
+            },
+            "value": "De somnis"
+          },
+          {
+            "ids": {
+              "database_table_3489": 63,
+              "database_table_3491": 43
+            },
+            "value": "Capitulare evangeliorum"
+          }
+        ],
+        "locus_text": [
+          {
+            "id": 34,
+            "value": "1r-7r"
+          },
+          {
+            "id": 35,
+            "value": "7r-9v"
+          },
+          {
+            "id": 36,
+            "value": "10r-20v"
+          },
+          {
+            "id": 37,
+            "value": "20v-23v"
+          },
+          {
+            "id": 38,
+            "value": "23v-41r"
+          },
+          {
+            "id": 39,
+            "value": "41v-42v"
+          },
+          {
+            "id": 40,
+            "value": "42v"
+          },
+          {
+            "id": 41,
+            "value": "42v"
+          },
+          {
+            "id": 42,
+            "value": "42v-43r"
+          },
+          {
+            "id": 43,
+            "value": "43v"
+          }
+        ],
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15096,
+            "value": "marginal rechts",
+            "color": "darker-red"
+          },
+          {
+            "id": 15383,
+            "value": "marginal links",
+            "color": "darker-brown"
+          }
+        ],
+        "function": [
+          {
+            "id": 15836,
+            "value": "inhaltsbezogen",
+            "color": "darker-orange"
+          }
+        ]
       }
     ],
     "cod_unit": [
@@ -45284,6 +47059,13 @@
           "database_table_3488": 4
         },
         "value": "BSB, Clm. 6382_H. 3"
+      },
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 4"
       }
     ],
     "decoration": [],
@@ -45603,11 +47385,11 @@
     "locus_grp": "42v-43r",
     "hands_role": [
       {
-        "id": 150,
-        "hit_id": "hit_hands_role__150",
+        "id": 148,
+        "hit_id": "hit_hands_role__148",
         "hand": [
           {
-            "id": 115,
+            "id": 97,
             "value": "BSB, Clm. 6382_H. 3"
           }
         ],
@@ -45779,9 +47561,218 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-10-03",
-        "locus_layout": [],
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
         "function": []
+      },
+      {
+        "id": 150,
+        "hit_id": "hit_hands_role__150",
+        "hand": [
+          {
+            "id": 120,
+            "value": "BSB, Clm. 6382_H. 4"
+          }
+        ],
+        "ms_item": [
+          {
+            "id": 34,
+            "value": "clm_6382__34"
+          },
+          {
+            "id": 35,
+            "value": "clm_6382__35"
+          },
+          {
+            "id": 36,
+            "value": "clm_6382__36"
+          },
+          {
+            "id": 37,
+            "value": "clm_6382__37"
+          },
+          {
+            "id": 38,
+            "value": "clm_6382__38"
+          },
+          {
+            "id": 39,
+            "value": "clm_6382__39"
+          },
+          {
+            "id": 40,
+            "value": "clm_6382__40"
+          },
+          {
+            "id": 41,
+            "value": "clm_6382__41"
+          },
+          {
+            "id": 42,
+            "value": "clm_6382__42"
+          },
+          {
+            "id": 43,
+            "value": "clm_6382__43"
+          }
+        ],
+        "role": [
+          {
+            "id": 14760,
+            "value": "corrector",
+            "color": "darker-yellow"
+          },
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ],
+        "locus": "",
+        "text": [
+          {
+            "ids": {
+              "database_table_3489": 41,
+              "database_table_3491": 34
+            },
+            "value": "Vita sanctae Euphrosinae"
+          },
+          {
+            "ids": {
+              "database_table_3489": 42,
+              "database_table_3491": 35
+            },
+            "value": "Synonyma"
+          },
+          {
+            "ids": {
+              "database_table_3489": 43,
+              "database_table_3491": 38
+            },
+            "value": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 44,
+              "database_table_3491": 41
+            },
+            "value": "De natura rerum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 45,
+              "database_table_3491": 39
+            },
+            "value": "Breviarium apostolorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 46,
+              "database_table_3491": 36
+            },
+            "value": "Concordia testimoniorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 47,
+              "database_table_3491": 37
+            },
+            "value": "De unitate sanctae trinitatis"
+          },
+          {
+            "ids": {
+              "database_table_3489": 52,
+              "database_table_3491": 40
+            },
+            "value": "Revelatio Esdrae de qualitatibus anni"
+          },
+          {
+            "ids": {
+              "database_table_3489": 62,
+              "database_table_3491": 42
+            },
+            "value": "De somnis"
+          },
+          {
+            "ids": {
+              "database_table_3489": 63,
+              "database_table_3491": 43
+            },
+            "value": "Capitulare evangeliorum"
+          }
+        ],
+        "locus_text": [
+          {
+            "id": 34,
+            "value": "1r-7r"
+          },
+          {
+            "id": 35,
+            "value": "7r-9v"
+          },
+          {
+            "id": 36,
+            "value": "10r-20v"
+          },
+          {
+            "id": 37,
+            "value": "20v-23v"
+          },
+          {
+            "id": 38,
+            "value": "23v-41r"
+          },
+          {
+            "id": 39,
+            "value": "41v-42v"
+          },
+          {
+            "id": 40,
+            "value": "42v"
+          },
+          {
+            "id": 41,
+            "value": "42v"
+          },
+          {
+            "id": 42,
+            "value": "42v-43r"
+          },
+          {
+            "id": 43,
+            "value": "43v"
+          }
+        ],
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15096,
+            "value": "marginal rechts",
+            "color": "darker-red"
+          },
+          {
+            "id": 15383,
+            "value": "marginal links",
+            "color": "darker-brown"
+          }
+        ],
+        "function": [
+          {
+            "id": 15836,
+            "value": "inhaltsbezogen",
+            "color": "darker-orange"
+          }
+        ]
       }
     ],
     "cod_unit": [
@@ -45857,6 +47848,13 @@
           "database_table_3488": 4
         },
         "value": "BSB, Clm. 6382_H. 3"
+      },
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 4"
       }
     ],
     "decoration": [],
@@ -46164,11 +48162,11 @@
     "locus_grp": "43v",
     "hands_role": [
       {
-        "id": 150,
-        "hit_id": "hit_hands_role__150",
+        "id": 148,
+        "hit_id": "hit_hands_role__148",
         "hand": [
           {
-            "id": 115,
+            "id": 97,
             "value": "BSB, Clm. 6382_H. 3"
           }
         ],
@@ -46340,9 +48338,218 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-10-03",
-        "locus_layout": [],
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
         "function": []
+      },
+      {
+        "id": 150,
+        "hit_id": "hit_hands_role__150",
+        "hand": [
+          {
+            "id": 120,
+            "value": "BSB, Clm. 6382_H. 4"
+          }
+        ],
+        "ms_item": [
+          {
+            "id": 34,
+            "value": "clm_6382__34"
+          },
+          {
+            "id": 35,
+            "value": "clm_6382__35"
+          },
+          {
+            "id": 36,
+            "value": "clm_6382__36"
+          },
+          {
+            "id": 37,
+            "value": "clm_6382__37"
+          },
+          {
+            "id": 38,
+            "value": "clm_6382__38"
+          },
+          {
+            "id": 39,
+            "value": "clm_6382__39"
+          },
+          {
+            "id": 40,
+            "value": "clm_6382__40"
+          },
+          {
+            "id": 41,
+            "value": "clm_6382__41"
+          },
+          {
+            "id": 42,
+            "value": "clm_6382__42"
+          },
+          {
+            "id": 43,
+            "value": "clm_6382__43"
+          }
+        ],
+        "role": [
+          {
+            "id": 14760,
+            "value": "corrector",
+            "color": "darker-yellow"
+          },
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ],
+        "locus": "",
+        "text": [
+          {
+            "ids": {
+              "database_table_3489": 41,
+              "database_table_3491": 34
+            },
+            "value": "Vita sanctae Euphrosinae"
+          },
+          {
+            "ids": {
+              "database_table_3489": 42,
+              "database_table_3491": 35
+            },
+            "value": "Synonyma"
+          },
+          {
+            "ids": {
+              "database_table_3489": 43,
+              "database_table_3491": 38
+            },
+            "value": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 44,
+              "database_table_3491": 41
+            },
+            "value": "De natura rerum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 45,
+              "database_table_3491": 39
+            },
+            "value": "Breviarium apostolorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 46,
+              "database_table_3491": 36
+            },
+            "value": "Concordia testimoniorum"
+          },
+          {
+            "ids": {
+              "database_table_3489": 47,
+              "database_table_3491": 37
+            },
+            "value": "De unitate sanctae trinitatis"
+          },
+          {
+            "ids": {
+              "database_table_3489": 52,
+              "database_table_3491": 40
+            },
+            "value": "Revelatio Esdrae de qualitatibus anni"
+          },
+          {
+            "ids": {
+              "database_table_3489": 62,
+              "database_table_3491": 42
+            },
+            "value": "De somnis"
+          },
+          {
+            "ids": {
+              "database_table_3489": 63,
+              "database_table_3491": 43
+            },
+            "value": "Capitulare evangeliorum"
+          }
+        ],
+        "locus_text": [
+          {
+            "id": 34,
+            "value": "1r-7r"
+          },
+          {
+            "id": 35,
+            "value": "7r-9v"
+          },
+          {
+            "id": 36,
+            "value": "10r-20v"
+          },
+          {
+            "id": 37,
+            "value": "20v-23v"
+          },
+          {
+            "id": 38,
+            "value": "23v-41r"
+          },
+          {
+            "id": 39,
+            "value": "41v-42v"
+          },
+          {
+            "id": 40,
+            "value": "42v"
+          },
+          {
+            "id": 41,
+            "value": "42v"
+          },
+          {
+            "id": 42,
+            "value": "42v-43r"
+          },
+          {
+            "id": 43,
+            "value": "43v"
+          }
+        ],
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15096,
+            "value": "marginal rechts",
+            "color": "darker-red"
+          },
+          {
+            "id": 15383,
+            "value": "marginal links",
+            "color": "darker-brown"
+          }
+        ],
+        "function": [
+          {
+            "id": 15836,
+            "value": "inhaltsbezogen",
+            "color": "darker-orange"
+          }
+        ]
       }
     ],
     "cod_unit": [
@@ -46418,6 +48625,13 @@
           "database_table_3488": 4
         },
         "value": "BSB, Clm. 6382_H. 3"
+      },
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 4"
       }
     ],
     "decoration": [],
@@ -46780,10 +48994,6 @@
           {
             "id": 44,
             "value": "clm_6382__44"
-          },
-          {
-            "id": 45,
-            "value": "clm_6382__45"
           }
         ],
         "role": [
@@ -46793,15 +49003,8 @@
             "color": "darker-red"
           }
         ],
-        "locus": "",
+        "locus": "44r",
         "text": [
-          {
-            "ids": {
-              "database_table_3489": 48,
-              "database_table_3491": 45
-            },
-            "value": "Moralia in Job"
-          },
           {
             "ids": {
               "database_table_3489": 64,
@@ -46814,17 +49017,13 @@
           {
             "id": 44,
             "value": "44r"
-          },
-          {
-            "id": 45,
-            "value": "44r-44v"
           }
         ],
         "Last modified by": {
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-10-03",
+        "Last modified": "2024-12-04",
         "locus_layout": [],
         "function": []
       }
@@ -47262,69 +49461,7 @@
     "hit_id": "hit_ms_items__45",
     "filiation": [],
     "locus_grp": "44r-44v",
-    "hands_role": [
-      {
-        "id": 151,
-        "hit_id": "hit_hands_role__151",
-        "hand": [
-          {
-            "id": 114,
-            "value": "BSB, Clm. 6382_H. 2"
-          }
-        ],
-        "ms_item": [
-          {
-            "id": 44,
-            "value": "clm_6382__44"
-          },
-          {
-            "id": 45,
-            "value": "clm_6382__45"
-          }
-        ],
-        "role": [
-          {
-            "id": 14758,
-            "value": "Schreiber",
-            "color": "darker-red"
-          }
-        ],
-        "locus": "",
-        "text": [
-          {
-            "ids": {
-              "database_table_3489": 48,
-              "database_table_3491": 45
-            },
-            "value": "Moralia in Job"
-          },
-          {
-            "ids": {
-              "database_table_3489": 64,
-              "database_table_3491": 44
-            },
-            "value": "Epistola de reliquiis sancti Bartholomaei apostoli nuper in Baioariam allatis"
-          }
-        ],
-        "locus_text": [
-          {
-            "id": 44,
-            "value": "44r"
-          },
-          {
-            "id": 45,
-            "value": "44r-44v"
-          }
-        ],
-        "Last modified by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
-        },
-        "Last modified": "2024-10-03",
-        "locus_layout": [],
-        "function": []
-      }
-    ],
+    "hands_role": [],
     "cod_unit": [
       {
         "id": 19,
@@ -47391,15 +49528,7 @@
       "name": "Ksenia Borisova"
     },
     "note": null,
-    "hand": [
-      {
-        "ids": {
-          "database_table_3487": 10,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6382_H. 2"
-      }
-    ],
+    "hand": [],
     "decoration": [],
     "facs_url": "",
     "form": [],
@@ -47760,8 +49889,8 @@
     "locus_grp": "45ra-172rb",
     "hands_role": [
       {
-        "id": 147,
-        "hit_id": "hit_hands_role__147",
+        "id": 155,
+        "hit_id": "hit_hands_role__155",
         "hand": [
           {
             "id": 96,
@@ -47801,53 +49930,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-10-03",
-        "locus_layout": [],
-        "function": []
-      },
-      {
-        "id": 148,
-        "hit_id": "hit_hands_role__148",
-        "hand": [
-          {
-            "id": 97,
-            "value": "BSB, Clm. 6382_H. 4"
-          }
-        ],
-        "ms_item": [
-          {
-            "id": 46,
-            "value": "clm_6382__46"
-          }
-        ],
-        "role": [
-          {
-            "id": 14760,
-            "value": "corrector",
-            "color": "darker-yellow"
-          }
-        ],
-        "locus": "47",
-        "text": [
-          {
-            "ids": {
-              "database_table_3489": 48,
-              "database_table_3491": 46
-            },
-            "value": "Moralia in Job"
-          }
-        ],
-        "locus_text": [
-          {
-            "id": 46,
-            "value": "45ra-172rb"
-          }
-        ],
-        "Last modified by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
-        },
-        "Last modified": "2024-10-03",
+        "Last modified": "2024-12-05",
         "locus_layout": [],
         "function": []
       }
@@ -47925,13 +50008,6 @@
           "database_table_3488": 4
         },
         "value": "BSB, Clm. 6382_H. 1"
-      },
-      {
-        "ids": {
-          "database_table_3487": 10,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6382_H. 4"
       }
     ],
     "decoration": [],
@@ -48786,7 +50862,13 @@
             "value": "clm_6388__48"
           }
         ],
-        "role": [],
+        "role": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ],
         "locus": "",
         "text": [
           {
@@ -48807,8 +50889,14 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-09-04",
-        "locus_layout": [],
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
         "function": []
       }
     ],
@@ -68925,11 +71013,17 @@
           }
         ],
         "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
+          "id": 87,
+          "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-23",
-        "locus_layout": [],
+        "Last modified": "2024-12-05",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
         "function": []
       }
     ],

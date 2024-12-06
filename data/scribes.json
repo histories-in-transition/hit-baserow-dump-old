@@ -11145,10 +11145,6 @@
                       {
                         "id": 44,
                         "value": "clm_6382__44"
-                      },
-                      {
-                        "id": 45,
-                        "value": "clm_6382__45"
                       }
                     ],
                     "role": [
@@ -11158,15 +11154,8 @@
                         "color": "darker-red"
                       }
                     ],
-                    "locus": "",
+                    "locus": "44r",
                     "text": [
-                      {
-                        "ids": {
-                          "database_table_3489": 48,
-                          "database_table_3491": 45
-                        },
-                        "value": "Moralia in Job"
-                      },
                       {
                         "ids": {
                           "database_table_3489": 64,
@@ -11179,504 +11168,13 @@
                       {
                         "id": 44,
                         "value": "44r"
-                      },
-                      {
-                        "id": 45,
-                        "value": "44r-44v"
                       }
                     ],
                     "Last modified by": {
                       "id": 87,
                       "name": "Ksenia Borisova"
                     },
-                    "Last modified": "2024-10-03",
-                    "locus_layout": [],
-                    "function": []
-                  }
-                ],
-                "cod_unit": [
-                  {
-                    "id": 19,
-                    "label": [
-                      {
-                        "ids": {
-                          "database_table_3487": 10,
-                          "database_table_3488": 4
-                        },
-                        "value": "BSB, Clm. 6382, cod. unit 2"
-                      }
-                    ],
-                    "notes": "",
-                    "hit_id": "hit_cod_unit__19",
-                    "locus": "44r-172v",
-                    "manuscript": [
-                      {
-                        "id": 10,
-                        "value": "BSB, Clm. 6382"
-                      }
-                    ],
-                    "quire": [],
-                    "number": "2",
-                    "prov_place": [
-                      {
-                        "id": 4,
-                        "name": "Freising",
-                        "geonames_url": "https://www.geonames.org/2925034/freising.html",
-                        "hit_id": "hit_place__4",
-                        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
-                        "country": [
-                          {
-                            "id": 2,
-                            "name": "Deutschland",
-                            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
-                            "hit_id": "hit_place__2",
-                            "wikidata_url": "",
-                            "country": [],
-                            "Last modified by": {
-                              "id": 36,
-                              "name": "Ivana Dobcheva"
-                            },
-                            "Last modified": "2024-07-11"
-                          }
-                        ],
-                        "Last modified by": {
-                          "id": 36,
-                          "name": "Ivana Dobcheva"
-                        },
-                        "Last modified": "2024-07-11"
-                      }
-                    ],
-                    "Last modified by": {
-                      "id": 87,
-                      "name": "Ksenia Borisova"
-                    },
-                    "Last modified": "2024-11-13",
-                    "date": []
-                  }
-                ],
-                "Last modified": "2024-09-27",
-                "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
-                },
-                "note": null,
-                "hand": [
-                  {
-                    "ids": {
-                      "database_table_3487": 10,
-                      "database_table_3488": 4
-                    },
-                    "value": "BSB, Clm. 6382_H. 2"
-                  }
-                ],
-                "decoration": [],
-                "facs_url": "",
-                "form": [],
-                "form_note": null
-              },
-              {
-                "id": 45,
-                "label": [
-                  {
-                    "id": 10,
-                    "value": "clm_6382__45"
-                  }
-                ],
-                "manuscript": [
-                  {
-                    "id": 10,
-                    "shelfmark": [
-                      {
-                        "id": 4,
-                        "value": "BSB, Clm. 6382"
-                      }
-                    ],
-                    "hit_id": "hit_manuscript__10",
-                    "library": [
-                      {
-                        "id": 4,
-                        "value": "BSB"
-                      }
-                    ],
-                    "manuscripta_url": "",
-                    "handschriftenportal_url": "https://handschriftenportal.de/search?hspobjectid=HSP-f28875ec-7066-346b-84cd-3ca2af70351b&q=6382&hl=true",
-                    "catalog_url": "https://handschriftenportal.de/search?hspobjectid=HSP-f28875ec-7066-346b-84cd-3ca2af70351b&q=6382&hl=true",
-                    "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054507?page=,1",
-                    "idno": "Clm. 6382",
-                    "idno_former": "Fris. 182",
-                    "quire_structure": "(IV + 1)<sup>9</sup>+ 4 IV<sup>41</sup>+ I<sup>43</sup>; 15 IV<sup>163</sup>+ (V - 1)<sup>172</sup>\n",
-                    "library_full": [
-                      {
-                        "id": 4,
-                        "label": "BSB",
-                        "hit_id": "hit_org__4",
-                        "gnd_url": "https://d-nb.info/gnd/2031351-2",
-                        "library_full": "Bayerische Staatsbibliothek",
-                        "library_website": "https://www.bsb-muenchen.de/",
-                        "settlement": [
-                          {
-                            "id": 8,
-                            "name": "München",
-                            "geonames_url": "https://www.geonames.org/2867714/munich.html",
-                            "hit_id": "hit_place__8",
-                            "wikidata_url": "",
-                            "country": [
-                              {
-                                "id": 2,
-                                "value": "Deutschland"
-                              }
-                            ],
-                            "Last modified by": {
-                              "id": 87,
-                              "name": "Ksenia Borisova"
-                            },
-                            "Last modified": "2024-07-09"
-                          }
-                        ],
-                        "wikidata": "",
-                        "Last modified by": {
-                          "id": 36,
-                          "name": "Ivana Dobcheva"
-                        },
-                        "Last modified": "2024-07-03"
-                      }
-                    ],
-                    "extent": "172",
-                    "foliation": "19 Jh.",
-                    "acc_mat": "",
-                    "binding": "Heller spätgotischer Ledereinband mit Streicheisenlinien. Schließe defekt, Kettenöse abgerissen. Rücken erneuert. Am Vorderdeckel je ein Papierschild (15.Jh.) mit Titel, dieser durch Tintenfraß stark beschädigt, und Nummer M 18.",
-                    "binding_date": [
-                      {
-                        "id": 54,
-                        "value": "15 Jh."
-                      }
-                    ],
-                    "history": "Der jüngere erste Teil zeigt auch hinsichtlich der Überlieferung zweimal Beziehung zu Reimser Bibliotheken, bei einem weiteren, in dieser Form seltenen Text sogar eine enge Verwandtschaft zu der im nahen Laon. (Glauche)",
-                    "bibliography": [],
-                    "height": "240",
-                    "width": "175",
-                    "material_spec": "Kalbpergament",
-                    "orig_place": [
-                      {
-                        "id": 4,
-                        "name": "Freising",
-                        "geonames_url": "https://www.geonames.org/2925034/freising.html",
-                        "hit_id": "hit_place__4",
-                        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
-                        "country": [
-                          {
-                            "id": 2,
-                            "name": "Deutschland",
-                            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
-                            "hit_id": "hit_place__2",
-                            "wikidata_url": "",
-                            "country": [],
-                            "Last modified by": {
-                              "id": 36,
-                              "name": "Ivana Dobcheva"
-                            },
-                            "Last modified": "2024-07-11"
-                          }
-                        ],
-                        "Last modified by": {
-                          "id": 36,
-                          "name": "Ivana Dobcheva"
-                        },
-                        "Last modified": "2024-07-11"
-                      },
-                      {
-                        "id": 17,
-                        "name": "Reims",
-                        "geonames_url": "https://www.geonames.org/2984114/reims.html",
-                        "hit_id": "hit_place__17",
-                        "wikidata_url": "https://www.wikidata.org/wiki/Q41876",
-                        "country": [
-                          {
-                            "id": 14,
-                            "name": "Frankreich",
-                            "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
-                            "hit_id": "hit_place__14",
-                            "wikidata_url": "",
-                            "country": [],
-                            "Last modified by": {
-                              "id": 36,
-                              "name": "Ivana Dobcheva"
-                            },
-                            "Last modified": "2024-07-11"
-                          }
-                        ],
-                        "Last modified by": {
-                          "id": 87,
-                          "name": "Ksenia Borisova"
-                        },
-                        "Last modified": "2024-09-17"
-                      }
-                    ],
-                    "catchwords": "",
-                    "quiremarks": "am Ende I**51**– XV**163**",
-                    "material": {
-                      "id": 14782,
-                      "value": "parchment",
-                      "color": "darker-orange"
-                    },
-                    "provenance": [
-                      {
-                        "id": 6,
-                        "label": "Dombibliothek Freising",
-                        "hit_id": "hit_org__6",
-                        "gnd_url": "https://d-nb.info/gnd/1052539-7",
-                        "library_full": "Dombibliothek Freising",
-                        "library_website": "",
-                        "settlement": [
-                          {
-                            "id": 4,
-                            "name": "Freising",
-                            "geonames_url": "https://www.geonames.org/2925034/freising.html",
-                            "hit_id": "hit_place__4",
-                            "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
-                            "country": [
-                              {
-                                "id": 2,
-                                "value": "Deutschland"
-                              }
-                            ],
-                            "Last modified by": {
-                              "id": 36,
-                              "name": "Ivana Dobcheva"
-                            },
-                            "Last modified": "2024-07-11"
-                          }
-                        ],
-                        "wikidata": "",
-                        "Last modified by": {
-                          "id": 36,
-                          "name": "Ivana Dobcheva"
-                        },
-                        "Last modified": "2024-07-05"
-                      }
-                    ],
-                    "manuscripts_dated": [
-                      {
-                        "id": 28,
-                        "hit_id": "hit_dated__28",
-                        "manuscript": [
-                          {
-                            "id": 10,
-                            "value": "BSB, Clm. 6382"
-                          }
-                        ],
-                        "date": [
-                          {
-                            "id": 51,
-                            "label": "8 Jh., drittes Viertel",
-                            "not_before": "0750-01-01",
-                            "hit_id": "hit_date__51",
-                            "not_after": "0774-12-31",
-                            "Last modified by": {
-                              "id": 87,
-                              "name": "Ksenia Borisova"
-                            },
-                            "Last modified": "2024-09-17"
-                          },
-                          {
-                            "id": 52,
-                            "label": "9 Jh.",
-                            "not_before": "0800-01-01",
-                            "hit_id": "hit_date__52",
-                            "not_after": "0899-12-31",
-                            "Last modified by": {
-                              "id": 87,
-                              "name": "Ksenia Borisova"
-                            },
-                            "Last modified": "2024-09-17"
-                          }
-                        ],
-                        "authority": [
-                          {
-                            "id": 3,
-                            "name": "Glauche",
-                            "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
-                            "zotero_id": "",
-                            "hit_id": "hit_bibl__3"
-                          }
-                        ],
-                        "page": "154",
-                        "preferred_date": false,
-                        "Last modified by": {
-                          "id": 87,
-                          "name": "Ksenia Borisova"
-                        },
-                        "Last modified": "2024-09-20T09:24:05.442946Z",
-                        "note": ""
-                      }
-                    ],
-                    "orig_dated": [
-                      {
-                        "ids": {
-                          "database_table_3512": 51,
-                          "database_table_3516": 28
-                        },
-                        "value": "8 Jh., drittes Viertel"
-                      },
-                      {
-                        "ids": {
-                          "database_table_3512": 52,
-                          "database_table_3516": 28
-                        },
-                        "value": "9 Jh."
-                      }
-                    ],
-                    "Last modified by": {
-                      "id": 87,
-                      "name": "Ksenia Borisova"
-                    },
-                    "Last modified": "2024-09-25",
-                    "content_summary": null
-                  }
-                ],
-                "incipit": "",
-                "explicit": "",
-                "rubric": "Liber moralium super Job",
-                "title_work": [
-                  {
-                    "id": 48,
-                    "title": "Moralia in Job",
-                    "gnd_url": "https://d-nb.info/gnd/4230993-1",
-                    "note": "",
-                    "hit_id": "hit_works__48",
-                    "author": [
-                      {
-                        "id": 25,
-                        "name": "Gregor I",
-                        "gnd_url": "https://d-nb.info/gnd/118541838",
-                        "hit_id": "hit_people__25",
-                        "role": [
-                          {
-                            "id": 14753,
-                            "value": "author",
-                            "color": "dark-green"
-                          }
-                        ],
-                        "Last modified by": {
-                          "id": 87,
-                          "name": "Ksenia Borisova"
-                        },
-                        "Last modified": "2024-07-12",
-                        "works": [
-                          {
-                            "id": 48,
-                            "value": "Moralia in Job"
-                          }
-                        ],
-                        "work": [
-                          {
-                            "id": 48,
-                            "value": "Moralia in Job"
-                          }
-                        ]
-                      }
-                    ],
-                    "bibliography": [],
-                    "source_text": [],
-                    "genre": [
-                      {
-                        "id": 13,
-                        "genre": "Biblische Kommentare",
-                        "hit_id": "hit_genres__13",
-                        "main_genre": [
-                          {
-                            "id": 9,
-                            "genre": "Theologische Literatur",
-                            "hit_id": "hit_genres__9",
-                            "main_genre": [],
-                            "Last modified by": {
-                              "id": 87,
-                              "name": "Ksenia Borisova"
-                            },
-                            "Last modified": "2024-07-12"
-                          }
-                        ],
-                        "Last modified by": {
-                          "id": 87,
-                          "name": "Ksenia Borisova"
-                        },
-                        "Last modified": "2024-07-12"
-                      }
-                    ],
-                    "note_source": "",
-                    "Last modified by": {
-                      "id": 87,
-                      "name": "Ksenia Borisova"
-                    },
-                    "Last modified": "2024-07-12"
-                  }
-                ],
-                "title_note": "",
-                "bibl": [],
-                "final_rubric": "",
-                "siglum": "",
-                "hit_id": "hit_ms_items__45",
-                "filiation": [],
-                "locus_grp": "44r-44v",
-                "hands_role": [
-                  {
-                    "id": 151,
-                    "hit_id": "hit_hands_role__151",
-                    "hand": [
-                      {
-                        "id": 114,
-                        "value": "BSB, Clm. 6382_H. 2"
-                      }
-                    ],
-                    "ms_item": [
-                      {
-                        "id": 44,
-                        "value": "clm_6382__44"
-                      },
-                      {
-                        "id": 45,
-                        "value": "clm_6382__45"
-                      }
-                    ],
-                    "role": [
-                      {
-                        "id": 14758,
-                        "value": "Schreiber",
-                        "color": "darker-red"
-                      }
-                    ],
-                    "locus": "",
-                    "text": [
-                      {
-                        "ids": {
-                          "database_table_3489": 48,
-                          "database_table_3491": 45
-                        },
-                        "value": "Moralia in Job"
-                      },
-                      {
-                        "ids": {
-                          "database_table_3489": 64,
-                          "database_table_3491": 44
-                        },
-                        "value": "Epistola de reliquiis sancti Bartholomaei apostoli nuper in Baioariam allatis"
-                      }
-                    ],
-                    "locus_text": [
-                      {
-                        "id": 44,
-                        "value": "44r"
-                      },
-                      {
-                        "id": 45,
-                        "value": "44r-44v"
-                      }
-                    ],
-                    "Last modified by": {
-                      "id": 87,
-                      "name": "Ksenia Borisova"
-                    },
-                    "Last modified": "2024-10-03",
+                    "Last modified": "2024-12-04",
                     "locus_layout": [],
                     "function": []
                   }
@@ -11769,15 +11267,8 @@
                 "color": "darker-red"
               }
             ],
-            "locus": "",
+            "locus": "44r",
             "text": [
-              {
-                "ids": {
-                  "database_table_3489": 48,
-                  "database_table_3491": 45
-                },
-                "value": "Moralia in Job"
-              },
               {
                 "ids": {
                   "database_table_3489": 64,
@@ -11790,17 +11281,13 @@
               {
                 "id": 44,
                 "value": "44r"
-              },
-              {
-                "id": 45,
-                "value": "44r-44v"
               }
             ],
             "Last modified by": {
               "id": 87,
               "name": "Ksenia Borisova"
             },
-            "Last modified": "2024-10-03",
+            "Last modified": "2024-12-04",
             "locus_layout": [],
             "function": []
           }
@@ -11818,13 +11305,6 @@
           }
         ],
         "texts": [
-          {
-            "ids": {
-              "database_table_3489": 48,
-              "database_table_3491": 45
-            },
-            "value": "Moralia in Job"
-          },
           {
             "ids": {
               "database_table_3489": 64,

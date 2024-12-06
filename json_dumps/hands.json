@@ -7640,7 +7640,7 @@
           "database_table_3512": 59,
           "database_table_3520": 85
         },
-        "value": "9 J., zweite Hälfte"
+        "value": "9 Jh., zweite Hälfte"
       }
     ],
     "hands_placed": [],
@@ -7885,13 +7885,13 @@
     "Last modified": "2024-10-03",
     "hands_role": [
       {
-        "id": 147,
-        "value": "hit_hands_role__147"
+        "id": 155,
+        "value": "hit_hands_role__155"
       }
     ],
     "role": [
       {
-        "id": 147,
+        "id": 155,
         "value": [
           {
             "id": 14758,
@@ -7942,10 +7942,10 @@
           "database_table_3487": 10,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6382_H. 4"
+        "value": "BSB, Clm. 6382_H. 3"
       }
     ],
-    "description": "Insuläre Hand",
+    "description": "",
     "hit_id": "hit_hands__97",
     "similar_hands": [],
     "nr_daniel": "",
@@ -7955,7 +7955,7 @@
         "value": "BSB, Clm. 6382"
       }
     ],
-    "number": "4",
+    "number": "3",
     "note": "",
     "Created by": {
       "id": 87,
@@ -7966,7 +7966,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-03",
+    "Last modified": "2024-12-04",
     "hands_role": [
       {
         "id": 148,
@@ -7978,9 +7978,9 @@
         "id": 148,
         "value": [
           {
-            "id": 14760,
-            "value": "corrector",
-            "color": "darker-yellow"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       }
@@ -7988,10 +7988,73 @@
     "texts": [
       {
         "ids": {
-          "database_table_3489": 48,
-          "database_table_3491": 46
+          "database_table_3489": 41,
+          "database_table_3491": 34
         },
-        "value": "Moralia in Job"
+        "value": "Vita sanctae Euphrosinae"
+      },
+      {
+        "ids": {
+          "database_table_3489": 42,
+          "database_table_3491": 35
+        },
+        "value": "Synonyma"
+      },
+      {
+        "ids": {
+          "database_table_3489": 43,
+          "database_table_3491": 38
+        },
+        "value": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 44,
+          "database_table_3491": 41
+        },
+        "value": "De natura rerum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 45,
+          "database_table_3491": 39
+        },
+        "value": "Breviarium apostolorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 46,
+          "database_table_3491": 36
+        },
+        "value": "Concordia testimoniorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 47,
+          "database_table_3491": 37
+        },
+        "value": "De unitate sanctae trinitatis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 52,
+          "database_table_3491": 40
+        },
+        "value": "Revelatio Esdrae de qualitatibus anni"
+      },
+      {
+        "ids": {
+          "database_table_3489": 62,
+          "database_table_3491": 42
+        },
+        "value": "De somnis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 63,
+          "database_table_3491": 43
+        },
+        "value": "Capitulare evangeliorum"
       }
     ],
     "hands_dated": [
@@ -8001,7 +8064,12 @@
       }
     ],
     "dating": [],
-    "hands_placed": [],
+    "hands_placed": [
+      {
+        "id": 22,
+        "value": "hit_hands_placed__22"
+      }
+    ],
     "scribe": []
   },
   "98": {
@@ -8191,7 +8259,13 @@
     "role": [
       {
         "id": 127,
-        "value": []
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
       }
     ],
     "texts": [
@@ -8937,13 +9011,6 @@
     "texts": [
       {
         "ids": {
-          "database_table_3489": 48,
-          "database_table_3491": 45
-        },
-        "value": "Moralia in Job"
-      },
-      {
-        "ids": {
           "database_table_3489": 64,
           "database_table_3491": 44
         },
@@ -8964,140 +9031,6 @@
         "value": "Hitto-Erchanbert Gruppe"
       }
     ]
-  },
-  "115": {
-    "id": 115,
-    "order": "107.00000000000000000000",
-    "label": [
-      {
-        "ids": {
-          "database_table_3487": 10,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6382_H. 3"
-      }
-    ],
-    "description": "Karoling. Minuskel von mehreren Händen, die „leicht an Reimser Schrift saec. IX2\n\nerinnern",
-    "hit_id": "hit_hands__115",
-    "similar_hands": [],
-    "nr_daniel": "",
-    "manuscript": [
-      {
-        "id": 10,
-        "value": "BSB, Clm. 6382"
-      }
-    ],
-    "number": "3",
-    "note": "",
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-10-03",
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-10-03",
-    "hands_role": [
-      {
-        "id": 150,
-        "value": "hit_hands_role__150"
-      }
-    ],
-    "role": [
-      {
-        "id": 150,
-        "value": [
-          {
-            "id": 14758,
-            "value": "Schreiber",
-            "color": "darker-red"
-          }
-        ]
-      }
-    ],
-    "texts": [
-      {
-        "ids": {
-          "database_table_3489": 41,
-          "database_table_3491": 34
-        },
-        "value": "Vita sanctae Euphrosinae"
-      },
-      {
-        "ids": {
-          "database_table_3489": 42,
-          "database_table_3491": 35
-        },
-        "value": "Synonyma"
-      },
-      {
-        "ids": {
-          "database_table_3489": 43,
-          "database_table_3491": 38
-        },
-        "value": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum"
-      },
-      {
-        "ids": {
-          "database_table_3489": 44,
-          "database_table_3491": 41
-        },
-        "value": "De natura rerum"
-      },
-      {
-        "ids": {
-          "database_table_3489": 45,
-          "database_table_3491": 39
-        },
-        "value": "Breviarium apostolorum"
-      },
-      {
-        "ids": {
-          "database_table_3489": 46,
-          "database_table_3491": 36
-        },
-        "value": "Concordia testimoniorum"
-      },
-      {
-        "ids": {
-          "database_table_3489": 47,
-          "database_table_3491": 37
-        },
-        "value": "De unitate sanctae trinitatis"
-      },
-      {
-        "ids": {
-          "database_table_3489": 52,
-          "database_table_3491": 40
-        },
-        "value": "Revelatio Esdrae de qualitatibus anni"
-      },
-      {
-        "ids": {
-          "database_table_3489": 62,
-          "database_table_3491": 42
-        },
-        "value": "De somnis"
-      },
-      {
-        "ids": {
-          "database_table_3489": 63,
-          "database_table_3491": 43
-        },
-        "value": "Capitulare evangeliorum"
-      }
-    ],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [
-      {
-        "id": 22,
-        "value": "hit_hands_placed__22"
-      }
-    ],
-    "scribe": []
   },
   "116": {
     "id": 116,
@@ -9285,6 +9218,169 @@
         "value": "hit_hands_placed__27"
       }
     ],
+    "scribe": []
+  },
+  "119": {
+    "id": 119,
+    "order": "111.00000000000000000000",
+    "label": [],
+    "description": "",
+    "hit_id": "hit_hands__119",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [],
+    "number": null,
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-12-05",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-12-05",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": []
+  },
+  "120": {
+    "id": 120,
+    "order": "112.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 4"
+      }
+    ],
+    "description": "",
+    "hit_id": "hit_hands__120",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "number": "4",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-12-05",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-12-05",
+    "hands_role": [
+      {
+        "id": 150,
+        "value": "hit_hands_role__150"
+      }
+    ],
+    "role": [
+      {
+        "id": 150,
+        "value": [
+          {
+            "id": 14760,
+            "value": "corrector",
+            "color": "darker-yellow"
+          },
+          {
+            "id": 14763,
+            "value": "annotator",
+            "color": "cyan"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 41,
+          "database_table_3491": 34
+        },
+        "value": "Vita sanctae Euphrosinae"
+      },
+      {
+        "ids": {
+          "database_table_3489": 42,
+          "database_table_3491": 35
+        },
+        "value": "Synonyma"
+      },
+      {
+        "ids": {
+          "database_table_3489": 43,
+          "database_table_3491": 38
+        },
+        "value": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 44,
+          "database_table_3491": 41
+        },
+        "value": "De natura rerum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 45,
+          "database_table_3491": 39
+        },
+        "value": "Breviarium apostolorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 46,
+          "database_table_3491": 36
+        },
+        "value": "Concordia testimoniorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 47,
+          "database_table_3491": 37
+        },
+        "value": "De unitate sanctae trinitatis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 52,
+          "database_table_3491": 40
+        },
+        "value": "Revelatio Esdrae de qualitatibus anni"
+      },
+      {
+        "ids": {
+          "database_table_3489": 62,
+          "database_table_3491": 42
+        },
+        "value": "De somnis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 63,
+          "database_table_3491": 43
+        },
+        "value": "Capitulare evangeliorum"
+      }
+    ],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
     "scribe": []
   }
 }

@@ -7371,7 +7371,7 @@
         "value": "ÖNB, Cod. 2090, cod. unit 1"
       }
     ],
-    "Last modified": "2024-09-05",
+    "Last modified": "2024-12-11",
     "Created on": "2024-07-26",
     "Created by": {
       "id": 86,
@@ -7399,7 +7399,13 @@
       }
     ],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 17434,
+        "value": "Liste",
+        "color": "darker-red"
+      }
+    ],
     "form_note": null
   },
   "124": {
@@ -7686,7 +7692,7 @@
         "value": "ÖNB, Cod. 2090, cod. unit 1"
       }
     ],
-    "Last modified": "2024-09-05",
+    "Last modified": "2024-12-11",
     "Created on": "2024-07-28",
     "Created by": {
       "id": 86,
@@ -7714,7 +7720,13 @@
       }
     ],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 17434,
+        "value": "Liste",
+        "color": "darker-red"
+      }
+    ],
     "form_note": null
   },
   "128": {
@@ -7764,7 +7776,7 @@
         "value": "ÖNB, Cod. 2090, cod. unit 1"
       }
     ],
-    "Last modified": "2024-08-02",
+    "Last modified": "2024-12-11",
     "Created on": "2024-07-28",
     "Created by": {
       "id": 86,
@@ -7793,7 +7805,13 @@
     ],
     "decoration": [],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 17434,
+        "value": "Liste",
+        "color": "darker-red"
+      }
+    ],
     "form_note": null
   },
   "141": {
@@ -8131,7 +8149,7 @@
         "value": "ÖNB, Cod. 2090, cod. unit 1"
       }
     ],
-    "Last modified": "2024-07-28",
+    "Last modified": "2024-12-11",
     "Created on": "2024-07-28",
     "Created by": {
       "id": 86,
@@ -8258,8 +8276,14 @@
     ],
     "decoration": [],
     "facs_url": "",
-    "form": [],
-    "form_note": null
+    "form": [
+      {
+        "id": 17437,
+        "value": "Mehrspaltig",
+        "color": "darker-pink"
+      }
+    ],
+    "form_note": "Die Spaltenanzahl der dreiseitigen Annalen nimmt kontinuierlich ab. Die erste Seite der Annalen enthählt drei rot gerahmte Spalten. Die zweite Seite weist zwei Spalten auf und die letzte nur mehr eine."
   },
   "133": {
     "id": 133,

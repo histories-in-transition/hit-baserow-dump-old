@@ -12581,7 +12581,7 @@
                     "date": []
                   }
                 ],
-                "Last modified": "2024-08-02",
+                "Last modified": "2024-12-11",
                 "Last modified by": {
                   "id": 86,
                   "name": "Leon Pürstinger"
@@ -12605,7 +12605,13 @@
                 ],
                 "decoration": [],
                 "facs_url": "",
-                "form": [],
+                "form": [
+                  {
+                    "id": 17434,
+                    "value": "Liste",
+                    "color": "darker-red"
+                  }
+                ],
                 "form_note": null
               }
             ],

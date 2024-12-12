@@ -102023,7 +102023,7 @@
             "date": []
           }
         ],
-        "Last modified": "2024-09-05",
+        "Last modified": "2024-12-11",
         "Last modified by": {
           "id": 86,
           "name": "Leon Pürstinger"
@@ -102046,7 +102046,13 @@
           }
         ],
         "facs_url": "",
-        "form": [],
+        "form": [
+          {
+            "id": 17434,
+            "value": "Liste",
+            "color": "darker-red"
+          }
+        ],
         "form_note": null,
         "view_label": "cod_2090__123",
         "prev": {
@@ -110046,7 +110052,7 @@
             "date": []
           }
         ],
-        "Last modified": "2024-09-05",
+        "Last modified": "2024-12-11",
         "Last modified by": {
           "id": 86,
           "name": "Leon Pürstinger"
@@ -110069,7 +110075,13 @@
           }
         ],
         "facs_url": "",
-        "form": [],
+        "form": [
+          {
+            "id": 17434,
+            "value": "Liste",
+            "color": "darker-red"
+          }
+        ],
         "form_note": null,
         "view_label": "cod_2090__127",
         "prev": {
@@ -110554,7 +110566,7 @@
             "date": []
           }
         ],
-        "Last modified": "2024-08-02",
+        "Last modified": "2024-12-11",
         "Last modified by": {
           "id": 86,
           "name": "Leon Pürstinger"
@@ -110578,7 +110590,13 @@
         ],
         "decoration": [],
         "facs_url": "",
-        "form": [],
+        "form": [
+          {
+            "id": 17434,
+            "value": "Liste",
+            "color": "darker-red"
+          }
+        ],
         "form_note": null,
         "view_label": "cod_2090__128",
         "prev": {
@@ -112808,7 +112826,7 @@
             "date": []
           }
         ],
-        "Last modified": "2024-07-28",
+        "Last modified": "2024-12-11",
         "Last modified by": {
           "id": 86,
           "name": "Leon Pürstinger"
@@ -112930,8 +112948,14 @@
         ],
         "decoration": [],
         "facs_url": "",
-        "form": [],
-        "form_note": null,
+        "form": [
+          {
+            "id": 17437,
+            "value": "Mehrspaltig",
+            "color": "darker-pink"
+          }
+        ],
+        "form_note": "Die Spaltenanzahl der dreiseitigen Annalen nimmt kontinuierlich ab. Die erste Seite der Annalen enthählt drei rot gerahmte Spalten. Die zweite Seite weist zwei Spalten auf und die letzte nur mehr eine.",
         "view_label": "cod_2090__131",
         "prev": {
           "id": "hit_ms_items__130",

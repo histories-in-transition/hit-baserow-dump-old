@@ -4608,7 +4608,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-29T09:14:11.923072Z",
+                "Last modified": "2024-12-12T16:58:44.319032Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -6027,7 +6027,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-29T09:14:11.923072Z",
+                "Last modified": "2024-12-12T16:58:44.319032Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -6863,7 +6863,7 @@
             "date": []
           }
         ],
-        "Last modified": "2024-07-03",
+        "Last modified": "2024-12-12",
         "Last modified by": {
           "id": 86,
           "name": "Leon Pürstinger"
@@ -6880,7 +6880,18 @@
         ],
         "decoration": [],
         "facs_url": "",
-        "form": [],
+        "form": [
+          {
+            "id": 17436,
+            "value": "graphisch divers zu...",
+            "color": "darker-cyan"
+          },
+          {
+            "id": 17437,
+            "value": "Mehrspaltig",
+            "color": "darker-pink"
+          }
+        ],
         "form_note": null,
         "view_label": "cod_m_p_th_f_46__6",
         "prev": {
@@ -7513,7 +7524,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-29T09:14:11.923072Z",
+                "Last modified": "2024-12-12T16:58:44.319032Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -9131,7 +9142,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-29T09:14:11.923072Z",
+                "Last modified": "2024-12-12T16:58:44.319032Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -11872,7 +11883,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-29T09:14:11.923072Z",
+                "Last modified": "2024-12-12T16:58:44.319032Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -14391,7 +14402,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-29T09:14:11.923072Z",
+                "Last modified": "2024-12-12T16:58:44.319032Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -15923,7 +15934,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-29T09:14:11.923072Z",
+                "Last modified": "2024-12-12T16:58:44.319032Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -23551,7 +23562,7 @@
       {
         "id": 73,
         "title": "Decem libri historiarum",
-        "gnd_url": "https://portal.dnb.de/opac/showFullRecord?currentResultId=Gregor+and+Tours%26any&currentPosition=6",
+        "gnd_url": "https://d-nb.info/gnd/4227883-1",
         "note": "",
         "hit_id": "hit_works__73",
         "author": [
@@ -23570,10 +23581,10 @@
         ],
         "note_source": "",
         "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2024-07-29"
+        "Last modified": "2024-12-12"
       }
     ],
     "genre": [
@@ -25707,7 +25718,7 @@
       {
         "id": 73,
         "title": "Decem libri historiarum",
-        "gnd_url": "https://portal.dnb.de/opac/showFullRecord?currentResultId=Gregor+and+Tours%26any&currentPosition=6",
+        "gnd_url": "https://d-nb.info/gnd/4227883-1",
         "note": "",
         "hit_id": "hit_works__73",
         "author": [
@@ -25726,10 +25737,10 @@
         ],
         "note_source": "",
         "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2024-07-29"
+        "Last modified": "2024-12-12"
       }
     ],
     "genre": [
@@ -26110,7 +26121,7 @@
               {
                 "id": 73,
                 "title": "Decem libri historiarum",
-                "gnd_url": "https://portal.dnb.de/opac/showFullRecord?currentResultId=Gregor+and+Tours%26any&currentPosition=6",
+                "gnd_url": "https://d-nb.info/gnd/4227883-1",
                 "note": "",
                 "hit_id": "hit_works__73",
                 "author": [
@@ -26129,10 +26140,10 @@
                 ],
                 "note_source": "",
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-29"
+                "Last modified": "2024-12-12"
               }
             ],
             "genre": [
@@ -27813,7 +27824,7 @@
       {
         "id": 73,
         "title": "Decem libri historiarum",
-        "gnd_url": "https://portal.dnb.de/opac/showFullRecord?currentResultId=Gregor+and+Tours%26any&currentPosition=6",
+        "gnd_url": "https://d-nb.info/gnd/4227883-1",
         "note": "",
         "hit_id": "hit_works__73",
         "author": [
@@ -27832,10 +27843,10 @@
         ],
         "note_source": "",
         "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2024-07-29"
+        "Last modified": "2024-12-12"
       }
     ],
     "genre": [
@@ -28216,7 +28227,7 @@
               {
                 "id": 73,
                 "title": "Decem libri historiarum",
-                "gnd_url": "https://portal.dnb.de/opac/showFullRecord?currentResultId=Gregor+and+Tours%26any&currentPosition=6",
+                "gnd_url": "https://d-nb.info/gnd/4227883-1",
                 "note": "",
                 "hit_id": "hit_works__73",
                 "author": [
@@ -28235,10 +28246,10 @@
                 ],
                 "note_source": "",
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-29"
+                "Last modified": "2024-12-12"
               }
             ],
             "genre": [
@@ -61262,7 +61273,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-29T09:14:11.923072Z",
+                "Last modified": "2024-12-12T16:58:44.319032Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -64460,7 +64471,7 @@
   "73": {
     "id": 73,
     "title": "Decem libri historiarum",
-    "gnd_url": "https://portal.dnb.de/opac/showFullRecord?currentResultId=Gregor+and+Tours%26any&currentPosition=6",
+    "gnd_url": "https://d-nb.info/gnd/4227883-1",
     "note": "",
     "hit_id": "hit_works__73",
     "author": [
@@ -64552,10 +64563,10 @@
     ],
     "note_source": "",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-29",
+    "Last modified": "2024-12-12",
     "view_label": "Decem libri historiarum",
     "prev": {
       "id": "hit_works__72",
@@ -65104,7 +65115,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-29T09:14:11.923072Z",
+                "Last modified": "2024-12-12T16:58:44.319032Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -66508,7 +66519,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-29T09:14:11.923072Z",
+                "Last modified": "2024-12-12T16:58:44.319032Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -71908,7 +71919,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-29T09:14:11.923072Z",
+                "Last modified": "2024-12-12T16:58:44.319032Z",
                 "cod_units": [
                   {
                     "id": 3,

@@ -383,5 +383,44 @@
       "id": 86,
       "name": "Leon Pürstinger"
     }
+  },
+  "14": {
+    "id": 14,
+    "order": "13.00000000000000000000",
+    "name": "Magister Baldo",
+    "hit_id": "hit_scribes__14",
+    "description": "",
+    "group": false,
+    "hands": [
+      {
+        "id": 5,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
+      },
+      {
+        "id": 32,
+        "value": "ÖNB, Cod. 387_H. 2"
+      }
+    ],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
+      },
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387_H. 2"
+      }
+    ],
+    "Last modified": "2024-12-12",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
   }
 }

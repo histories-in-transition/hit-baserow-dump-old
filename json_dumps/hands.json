@@ -239,7 +239,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-15",
+    "Last modified": "2024-12-12",
     "hands_role": [
       {
         "id": 6,
@@ -456,7 +456,12 @@
         "value": "hit_hands_placed__1"
       }
     ],
-    "scribe": []
+    "scribe": [
+      {
+        "id": 14,
+        "value": "Magister Baldo"
+      }
+    ]
   },
   "13": {
     "id": 13,
@@ -2529,7 +2534,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-23",
+    "Last modified": "2024-12-12",
     "hands_role": [
       {
         "id": 45,
@@ -2578,7 +2583,12 @@
         "value": "hit_hands_placed__16"
       }
     ],
-    "scribe": []
+    "scribe": [
+      {
+        "id": 14,
+        "value": "Magister Baldo"
+      }
+    ]
   },
   "33": {
     "id": 33,

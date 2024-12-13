@@ -42,7 +42,7 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
       }
     ],
-    "Last modified": "2024-07-03",
+    "Last modified": "2024-12-12",
     "Created on": "2024-06-17",
     "Created by": {
       "id": 86,
@@ -64,7 +64,18 @@
     ],
     "decoration": [],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      },
+      {
+        "id": 17437,
+        "value": "Mehrspaltig",
+        "color": "darker-pink"
+      }
+    ],
     "form_note": null
   },
   "68": {

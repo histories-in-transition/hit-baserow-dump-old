@@ -786,5 +786,28 @@
       "id": 87,
       "name": "Ksenia Borisova"
     }
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "hit_id": "hit_hands_placed__28",
+    "hand": [
+      {
+        "id": 41,
+        "value": "ÖNB, Cod. 2090_H. 1"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 3,
+        "value": "Salzburg"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
   }
 }

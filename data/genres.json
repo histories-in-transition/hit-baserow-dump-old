@@ -41,7 +41,7 @@
   },
   "3": {
     "id": 3,
-    "genre": "Annalen",
+    "genre": "Annalistik",
     "hit_id": "hit_genres__3",
     "main_genre": [
       {
@@ -57,11 +57,11 @@
       }
     ],
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-11",
-    "view_label": "Annalen",
+    "Last modified": "2024-12-13",
+    "view_label": "Annalistik",
     "prev": {
       "id": "hit_genres__22",
       "label": "Katalog"
@@ -96,7 +96,7 @@
     "view_label": "Chronik",
     "prev": {
       "id": "hit_genres__3",
-      "label": "Annalen"
+      "label": "Annalistik"
     },
     "next": {
       "id": "hit_genres__5",
@@ -464,7 +464,7 @@
     },
     "next": {
       "id": "hit_genres__3",
-      "label": "Annalen"
+      "label": "Annalistik"
     }
   }
 }

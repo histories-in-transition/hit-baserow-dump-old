@@ -73,7 +73,8 @@
         "value": "hit_hands_placed__3"
       }
     ],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "12": {
     "id": 12,
@@ -199,7 +200,8 @@
         "value": "hit_hands_placed__4"
       }
     ],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "5": {
     "id": 5,
@@ -461,7 +463,8 @@
         "id": 14,
         "value": "Magister Baldo"
       }
-    ]
+    ],
+    "gruppe": false
   },
   "13": {
     "id": 13,
@@ -545,7 +548,8 @@
         "value": "hit_hands_placed__2"
       }
     ],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "14": {
     "id": 14,
@@ -650,7 +654,8 @@
         "value": "hit_hands_placed__5"
       }
     ],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "15": {
     "id": 15,
@@ -734,7 +739,8 @@
         "value": "hit_hands_placed__6"
       }
     ],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "16": {
     "id": 16,
@@ -818,7 +824,8 @@
         "value": "hit_hands_placed__7"
       }
     ],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "17": {
     "id": 17,
@@ -902,7 +909,8 @@
         "value": "hit_hands_placed__8"
       }
     ],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "18": {
     "id": 18,
@@ -1070,7 +1078,8 @@
         "value": "hit_hands_placed__9"
       }
     ],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "21": {
     "id": 21,
@@ -1149,7 +1158,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "22": {
     "id": 22,
@@ -1270,7 +1280,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "25": {
     "id": 25,
@@ -1349,7 +1360,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "60": {
     "id": 60,
@@ -1428,7 +1440,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "19": {
     "id": 19,
@@ -1568,7 +1581,8 @@
         "value": "hit_hands_placed__24"
       }
     ],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "20": {
     "id": 20,
@@ -1582,7 +1596,7 @@
         "value": "BSB, Clm. 6326_H. 2"
       }
     ],
-    "description": "Durchausgehende Korrekturen, die Hand ist sehr nah zur Haupthand",
+    "description": "Durchgehende Korrekturen, die Hand ist sehr nah zur Haupthand",
     "hit_id": "hit_hands__20",
     "similar_hands": [],
     "nr_daniel": "",
@@ -1603,28 +1617,14 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-23",
+    "Last modified": "2024-12-13",
     "hands_role": [
-      {
-        "id": 27,
-        "value": "hit_hands_role__27"
-      },
       {
         "id": 153,
         "value": "hit_hands_role__153"
       }
     ],
     "role": [
-      {
-        "id": 27,
-        "value": [
-          {
-            "id": 14760,
-            "value": "corrector",
-            "color": "darker-yellow"
-          }
-        ]
-      },
       {
         "id": 153,
         "value": [
@@ -1637,13 +1637,6 @@
       }
     ],
     "texts": [
-      {
-        "ids": {
-          "database_table_3489": 17,
-          "database_table_3491": 18
-        },
-        "value": "Vita sancti Martini"
-      },
       {
         "ids": {
           "database_table_3489": 17,
@@ -1672,7 +1665,8 @@
         "value": "hit_hands_placed__25"
       }
     ],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "23": {
     "id": 23,
@@ -1756,7 +1750,8 @@
         "value": "hit_hands_placed__10"
       }
     ],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "24": {
     "id": 24,
@@ -1845,7 +1840,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "26": {
     "id": 26,
@@ -1929,7 +1925,8 @@
         "value": "hit_hands_placed__11"
       }
     ],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "27": {
     "id": 27,
@@ -2013,7 +2010,8 @@
         "value": "hit_hands_placed__12"
       }
     ],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "28": {
     "id": 28,
@@ -2097,7 +2095,8 @@
         "value": "hit_hands_placed__13"
       }
     ],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "29": {
     "id": 29,
@@ -2181,7 +2180,8 @@
         "value": "hit_hands_placed__14"
       }
     ],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "30": {
     "id": 30,
@@ -2247,7 +2247,8 @@
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "31": {
     "id": 31,
@@ -2499,7 +2500,8 @@
         "value": "hit_hands_placed__15"
       }
     ],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "32": {
     "id": 32,
@@ -2588,7 +2590,8 @@
         "id": 14,
         "value": "Magister Baldo"
       }
-    ]
+    ],
+    "gruppe": false
   },
   "33": {
     "id": 33,
@@ -2693,7 +2696,8 @@
         "value": "hit_hands_placed__19"
       }
     ],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "34": {
     "id": 34,
@@ -2777,7 +2781,8 @@
         "value": "hit_hands_placed__17"
       }
     ],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "35": {
     "id": 35,
@@ -2861,7 +2866,8 @@
         "value": "hit_hands_placed__18"
       }
     ],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "36": {
     "id": 36,
@@ -2945,7 +2951,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "37": {
     "id": 37,
@@ -3024,7 +3031,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "40": {
     "id": 40,
@@ -3103,7 +3111,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "38": {
     "id": 38,
@@ -3182,7 +3191,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "39": {
     "id": 39,
@@ -3266,7 +3276,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "43": {
     "id": 43,
@@ -3371,7 +3382,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "44": {
     "id": 44,
@@ -3460,7 +3472,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "41": {
     "id": 41,
@@ -3559,8 +3572,14 @@
         "value": "1060-1065"
       }
     ],
-    "hands_placed": [],
-    "scribe": []
+    "hands_placed": [
+      {
+        "id": 28,
+        "value": "hit_hands_placed__28"
+      }
+    ],
+    "scribe": [],
+    "gruppe": false
   },
   "42": {
     "id": 42,
@@ -3644,7 +3663,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "45": {
     "id": 45,
@@ -3728,7 +3748,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "46": {
     "id": 46,
@@ -3807,7 +3828,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "47": {
     "id": 47,
@@ -3886,7 +3908,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "48": {
     "id": 48,
@@ -3965,7 +3988,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "49": {
     "id": 49,
@@ -4000,7 +4024,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-10-09",
+    "Last modified": "2024-12-13",
     "hands_role": [
       {
         "id": 76,
@@ -4049,7 +4073,8 @@
         "id": 5,
         "value": "ÖNB_Cod. 2090_1"
       }
-    ]
+    ],
+    "gruppe": true
   },
   "50": {
     "id": 50,
@@ -4128,7 +4153,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "51": {
     "id": 51,
@@ -4219,7 +4245,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "52": {
     "id": 52,
@@ -4349,7 +4376,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "53": {
     "id": 53,
@@ -4384,7 +4412,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-10-15",
+    "Last modified": "2024-12-13",
     "hands_role": [
       {
         "id": 81,
@@ -4433,7 +4461,8 @@
         "id": 8,
         "value": "ÖNB Cod. 2090_2"
       }
-    ]
+    ],
+    "gruppe": true
   },
   "54": {
     "id": 54,
@@ -4522,7 +4551,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "55": {
     "id": 55,
@@ -4601,7 +4631,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "56": {
     "id": 56,
@@ -4687,7 +4718,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "57": {
     "id": 57,
@@ -4796,7 +4828,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "58": {
     "id": 58,
@@ -4831,7 +4864,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-10-15",
+    "Last modified": "2024-12-13",
     "hands_role": [
       {
         "id": 85,
@@ -4887,7 +4920,8 @@
         "id": 9,
         "value": "ÖNB Cod. 2090_3"
       }
-    ]
+    ],
+    "gruppe": true
   },
   "59": {
     "id": 59,
@@ -4922,7 +4956,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-10-15",
+    "Last modified": "2024-12-13",
     "hands_role": [
       {
         "id": 88,
@@ -4971,7 +5005,8 @@
         "id": 10,
         "value": "ÖNB Cod. 2090_4"
       }
-    ]
+    ],
+    "gruppe": true
   },
   "61": {
     "id": 61,
@@ -5059,7 +5094,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "62": {
     "id": 62,
@@ -5138,7 +5174,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "63": {
     "id": 63,
@@ -5217,7 +5254,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "64": {
     "id": 64,
@@ -5296,7 +5334,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "65": {
     "id": 65,
@@ -5380,7 +5419,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "66": {
     "id": 66,
@@ -5464,7 +5504,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "67": {
     "id": 67,
@@ -5543,7 +5584,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "68": {
     "id": 68,
@@ -5629,7 +5671,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "69": {
     "id": 69,
@@ -5708,7 +5751,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "70": {
     "id": 70,
@@ -5787,7 +5831,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "71": {
     "id": 71,
@@ -5866,7 +5911,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "72": {
     "id": 72,
@@ -5952,7 +5998,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "73": {
     "id": 73,
@@ -6038,7 +6085,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "75": {
     "id": 75,
@@ -6117,7 +6165,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "76": {
     "id": 76,
@@ -6222,7 +6271,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "77": {
     "id": 77,
@@ -6311,7 +6361,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "78": {
     "id": 78,
@@ -6395,7 +6446,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "79": {
     "id": 79,
@@ -6479,7 +6531,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "80": {
     "id": 80,
@@ -6514,7 +6567,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-10-15",
+    "Last modified": "2024-12-13",
     "hands_role": [
       {
         "id": 114,
@@ -6563,7 +6616,8 @@
         "id": 11,
         "value": "ÖNB Cod. 2090_5"
       }
-    ]
+    ],
+    "gruppe": true
   },
   "81": {
     "id": 81,
@@ -6642,7 +6696,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "82": {
     "id": 82,
@@ -6729,7 +6784,8 @@
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "83": {
     "id": 83,
@@ -6822,7 +6878,8 @@
         "id": 1,
         "value": "Willihalms bayerische Schüler"
       }
-    ]
+    ],
+    "gruppe": false
   },
   "84": {
     "id": 84,
@@ -6915,7 +6972,8 @@
         "id": 1,
         "value": "Willihalms bayerische Schüler"
       }
-    ]
+    ],
+    "gruppe": false
   },
   "85": {
     "id": 85,
@@ -7008,7 +7066,8 @@
         "id": 1,
         "value": "Willihalms bayerische Schüler"
       }
-    ]
+    ],
+    "gruppe": false
   },
   "86": {
     "id": 86,
@@ -7101,7 +7160,8 @@
         "id": 1,
         "value": "Willihalms bayerische Schüler"
       }
-    ]
+    ],
+    "gruppe": false
   },
   "87": {
     "id": 87,
@@ -7194,7 +7254,8 @@
         "id": 1,
         "value": "Willihalms bayerische Schüler"
       }
-    ]
+    ],
+    "gruppe": false
   },
   "88": {
     "id": 88,
@@ -7287,7 +7348,8 @@
         "id": 1,
         "value": "Willihalms bayerische Schüler"
       }
-    ]
+    ],
+    "gruppe": false
   },
   "89": {
     "id": 89,
@@ -7380,7 +7442,8 @@
         "id": 1,
         "value": "Willihalms bayerische Schüler"
       }
-    ]
+    ],
+    "gruppe": false
   },
   "90": {
     "id": 90,
@@ -7488,7 +7551,8 @@
         "id": 1,
         "value": "Willihalms bayerische Schüler"
       }
-    ]
+    ],
+    "gruppe": false
   },
   "91": {
     "id": 91,
@@ -7554,7 +7618,8 @@
         "id": 1,
         "value": "Willihalms bayerische Schüler"
       }
-    ]
+    ],
+    "gruppe": false
   },
   "92": {
     "id": 92,
@@ -7654,7 +7719,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "93": {
     "id": 93,
@@ -7725,7 +7791,8 @@
     ],
     "dating": [],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "94": {
     "id": 94,
@@ -7791,7 +7858,8 @@
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "95": {
     "id": 95,
@@ -7857,7 +7925,8 @@
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "96": {
     "id": 96,
@@ -7941,7 +8010,8 @@
         "value": "hit_hands_placed__21"
       }
     ],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "97": {
     "id": 97,
@@ -8080,7 +8150,8 @@
         "value": "hit_hands_placed__22"
       }
     ],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "98": {
     "id": 98,
@@ -8146,7 +8217,8 @@
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "100": {
     "id": 100,
@@ -8224,7 +8296,8 @@
         "value": "hit_hands_placed__27"
       }
     ],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "101": {
     "id": 101,
@@ -8290,7 +8363,8 @@
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "102": {
     "id": 102,
@@ -8350,7 +8424,8 @@
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "103": {
     "id": 103,
@@ -8431,7 +8506,8 @@
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "104": {
     "id": 104,
@@ -8505,7 +8581,8 @@
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "105": {
     "id": 105,
@@ -8557,7 +8634,8 @@
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "106": {
     "id": 106,
@@ -8646,7 +8724,8 @@
       }
     ],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "107": {
     "id": 107,
@@ -8712,7 +8791,8 @@
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "108": {
     "id": 108,
@@ -8754,7 +8834,8 @@
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "109": {
     "id": 109,
@@ -8796,7 +8877,8 @@
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "110": {
     "id": 110,
@@ -8838,7 +8920,8 @@
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "111": {
     "id": 111,
@@ -8880,7 +8963,8 @@
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "112": {
     "id": 112,
@@ -8922,7 +9006,8 @@
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "113": {
     "id": 113,
@@ -8964,7 +9049,8 @@
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "114": {
     "id": 114,
@@ -9040,7 +9126,8 @@
         "id": 4,
         "value": "Hitto-Erchanbert Gruppe"
       }
-    ]
+    ],
+    "gruppe": false
   },
   "116": {
     "id": 116,
@@ -9075,7 +9162,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-10-15",
+    "Last modified": "2024-12-13",
     "hands_role": [
       {
         "id": 152,
@@ -9111,7 +9198,8 @@
         "id": 12,
         "value": "ÖNB Cod. 2090_6"
       }
-    ]
+    ],
+    "gruppe": true
   },
   "117": {
     "id": 117,
@@ -9125,7 +9213,7 @@
         "value": "ÖNB, Cod. 2090_H. 40"
       }
     ],
-    "description": "",
+    "description": "Aus pragmatischen Gründen angelegte Schreibergruppierung, bestehend aus zahlreichen Händen, die das Necrologium Salisburgense anfertigen.",
     "hit_id": "hit_hands__117",
     "similar_hands": [],
     "nr_daniel": "",
@@ -9146,19 +9234,39 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-10-15",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
+    "Last modified": "2024-12-13",
+    "hands_role": [
+      {
+        "id": 156,
+        "value": "hit_hands_role__156"
+      }
+    ],
+    "role": [
+      {
+        "id": 156,
+        "value": [
+          {
+            "id": 15377,
+            "value": "continuator/Fortsetzer",
+            "color": "darker-pink"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 114,
+          "database_table_3491": 138
+        },
+        "value": "Necrologium Salisburgense"
+      }
+    ],
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
-    "scribe": [
-      {
-        "id": 13,
-        "value": "ÖNB Cod. 2090_7"
-      }
-    ]
+    "scribe": [],
+    "gruppe": true
   },
   "118": {
     "id": 118,
@@ -9228,7 +9336,8 @@
         "value": "hit_hands_placed__27"
       }
     ],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "119": {
     "id": 119,
@@ -9257,7 +9366,8 @@
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   },
   "120": {
     "id": 120,
@@ -9391,6 +9501,7 @@
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
-    "scribe": []
+    "scribe": [],
+    "gruppe": false
   }
 }

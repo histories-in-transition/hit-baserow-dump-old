@@ -222,7 +222,7 @@
     "name": "ÖNB Cod. 2090_2",
     "hit_id": "hit_scribes__8",
     "description": "Schreibergruppe (2-3 Hände), die den Salzburger Bischofskatalog im 12. Jahrhundert fortsetzt.",
-    "group": false,
+    "group": true,
     "hands": [
       {
         "id": 53,
@@ -238,10 +238,10 @@
         "value": "ÖNB, Cod. 2090_H. 11"
       }
     ],
-    "Last modified": "2024-10-15",
+    "Last modified": "2024-12-13",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 87,
+      "name": "Ksenia Borisova"
     }
   },
   "9": {
@@ -348,34 +348,6 @@
           "database_table_3488": 1
         },
         "value": "ÖNB, Cod. 2090_H. 39"
-      }
-    ],
-    "Last modified": "2024-10-15",
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    }
-  },
-  "13": {
-    "id": 13,
-    "order": "12.00000000000000000000",
-    "name": "ÖNB Cod. 2090_7",
-    "hit_id": "hit_scribes__13",
-    "description": "Schreibergruppe -> Zahlreiche Hände fertigen den Necrologium Salisburgense an.",
-    "group": true,
-    "hands": [
-      {
-        "id": 117,
-        "value": "ÖNB, Cod. 2090_H. 40"
-      }
-    ],
-    "hand": [
-      {
-        "ids": {
-          "database_table_3487": 21,
-          "database_table_3488": 1
-        },
-        "value": "ÖNB, Cod. 2090_H. 40"
       }
     ],
     "Last modified": "2024-10-15",

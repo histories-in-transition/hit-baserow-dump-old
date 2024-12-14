@@ -1312,10 +1312,6 @@
     "locus_grp": "1r-32r",
     "hands_role": [
       {
-        "id": 27,
-        "value": "hit_hands_role__27"
-      },
-      {
         "id": 121,
         "value": "hit_hands_role__121"
       },
@@ -1342,13 +1338,6 @@
     },
     "note": null,
     "hand": [
-      {
-        "ids": {
-          "database_table_3487": 5,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6326_H. 2"
-      },
       {
         "ids": {
           "database_table_3487": 5,
@@ -8762,6 +8751,10 @@
       {
         "id": 94,
         "value": "hit_hands_role__94"
+      },
+      {
+        "id": 156,
+        "value": "hit_hands_role__156"
       }
     ],
     "cod_unit": [
@@ -8770,7 +8763,7 @@
         "value": "ÖNB, Cod. 2090, cod. unit 1"
       }
     ],
-    "Last modified": "2024-07-28",
+    "Last modified": "2024-12-13",
     "Created on": "2024-07-28",
     "Created by": {
       "id": 86,
@@ -8816,11 +8809,24 @@
           "database_table_3488": 1
         },
         "value": "ÖNB, Cod. 2090_H. 35"
+      },
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 40"
       }
     ],
     "decoration": [],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 17447,
+        "value": "Kalendarium",
+        "color": "light-green"
+      }
+    ],
     "form_note": null
   },
   "142": {
@@ -10811,5 +10817,40 @@
     "facs_url": "",
     "form": [],
     "form_note": null
+  },
+  "191": {
+    "id": 191,
+    "order": "149.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__191",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-12-13",
+    "Created on": "2024-12-13",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": ""
   }
 }

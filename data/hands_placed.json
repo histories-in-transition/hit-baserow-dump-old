@@ -168,8 +168,8 @@
     },
     "view_label": "hit_hands_placed__3",
     "prev": {
-      "id": "hit_hands_placed__27",
-      "label": "hit_hands_placed__27"
+      "id": "hit_hands_placed__28",
+      "label": "hit_hands_placed__28"
     },
     "next": {
       "id": "hit_hands_placed__4",
@@ -1658,6 +1658,60 @@
     "prev": {
       "id": "hit_hands_placed__26",
       "label": "hit_hands_placed__26"
+    },
+    "next": {
+      "id": "hit_hands_placed__28",
+      "label": "hit_hands_placed__28"
+    }
+  },
+  "28": {
+    "id": 28,
+    "hit_id": "hit_hands_placed__28",
+    "hand": [
+      {
+        "id": 41,
+        "value": "ÖNB, Cod. 2090_H. 1"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 3,
+        "name": "Salzburg",
+        "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
+        "hit_id": "hit_place__3",
+        "wikidata_url": "",
+        "country": [
+          {
+            "id": 1,
+            "name": "Österreich",
+            "geonames_url": "https://www.geonames.org/2782113/republic-of-austria.html",
+            "hit_id": "hit_place__1",
+            "wikidata_url": "https://www.wikidata.org/wiki/Q40",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-06-09"
+          }
+        ],
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "view_label": "hit_hands_placed__28",
+    "prev": {
+      "id": "hit_hands_placed__27",
+      "label": "hit_hands_placed__27"
     },
     "next": {
       "id": "hit_hands_placed__3",

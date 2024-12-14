@@ -344,8 +344,23 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-10-18",
+    "Last modified": "2024-12-13",
     "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt.",
+    "charakter": [],
+    "case_study": [
+      {
+        "id": 17442,
+        "value": "Salzburg",
+        "color": "purple"
+      }
+    ],
+    "status": [
+      {
+        "id": 17449,
+        "value": "In Bearbeitung (?)",
+        "color": "light-brown"
+      }
+    ],
     "view_label": "ÖNB, Cod. 387",
     "prev": {
       "id": "hit_manuscript__9",
@@ -2016,11 +2031,32 @@
       }
     ],
     "Last modified by": {
-      "id": 96,
-      "name": "Jesper van der Most"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-09-09",
+    "Last modified": "2024-12-13",
     "content_summary": null,
+    "charakter": [
+      {
+        "id": 17451,
+        "value": "Gebrauchshandschrift",
+        "color": "light-orange"
+      }
+    ],
+    "case_study": [
+      {
+        "id": 17442,
+        "value": "Salzburg",
+        "color": "purple"
+      }
+    ],
+    "status": [
+      {
+        "id": 17449,
+        "value": "In Bearbeitung (?)",
+        "color": "light-brown"
+      }
+    ],
     "view_label": "ÖNB, Cod. 2090",
     "prev": {
       "id": "hit_manuscript__20",
@@ -2301,8 +2337,23 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-26",
+    "Last modified": "2024-12-13",
     "content_summary": null,
+    "charakter": [],
+    "case_study": [
+      {
+        "id": 17442,
+        "value": "Salzburg",
+        "color": "purple"
+      }
+    ],
+    "status": [
+      {
+        "id": 17449,
+        "value": "In Bearbeitung (?)",
+        "color": "light-brown"
+      }
+    ],
     "view_label": "ÖNB, Cod. 366",
     "prev": {
       "id": "hit_manuscript__21",
@@ -2625,7 +2676,7 @@
     "acc_mat": "",
     "binding": "",
     "binding_date": [],
-    "history": "Der Mönch Perhthar schenkt die Handschrift vor dem Jahr 990 an Erzbischof Friedrich",
+    "history": "Der Mönch Perhthar schenkt die Handschrift vor dem Jahr 990 dem Erzbischof Friedrich",
     "bibliography": [],
     "height": "335",
     "width": "215",
@@ -2723,16 +2774,31 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-09-03",
+    "Last modified": "2024-12-13",
     "content_summary": null,
+    "charakter": [],
+    "case_study": [
+      {
+        "id": 17442,
+        "value": "Salzburg",
+        "color": "purple"
+      }
+    ],
+    "status": [
+      {
+        "id": 17449,
+        "value": "In Bearbeitung (?)",
+        "color": "light-brown"
+      }
+    ],
     "view_label": "ÖNB, Cod. 371",
     "prev": {
       "id": "hit_manuscript__22",
       "label": "ÖNB, Cod. 366"
     },
     "next": {
-      "id": "hit_manuscript__4",
-      "label": "BSB, Clm. 210"
+      "id": "hit_manuscript__27",
+      "label": "BSB, Clm 29045"
     },
     "related__cod_units": []
   },
@@ -2964,8 +3030,29 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-10-18",
+    "Last modified": "2024-12-13",
     "content_summary": "",
+    "charakter": [
+      {
+        "id": 17451,
+        "value": "Gebrauchshandschrift",
+        "color": "light-orange"
+      }
+    ],
+    "case_study": [
+      {
+        "id": 17442,
+        "value": "Salzburg",
+        "color": "purple"
+      }
+    ],
+    "status": [
+      {
+        "id": 17449,
+        "value": "In Bearbeitung (?)",
+        "color": "light-brown"
+      }
+    ],
     "view_label": "UBWÜ, Cod. M. p. th. f. 46",
     "prev": {
       "id": "hit_manuscript__19",
@@ -4785,7 +4872,7 @@
       }
     ],
     "extent": "163",
-    "foliation": "durch Hartmann Schedel",
+    "foliation": "von Hartmann Schedel",
     "acc_mat": "",
     "binding": "Brauner Ledereinband mit Streicheisenlinien mit Einzelstempeln",
     "binding_date": [
@@ -4874,15 +4961,18 @@
     "manuscripts_dated": [],
     "orig_dated": [],
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-09",
+    "Last modified": "2024-12-13",
     "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": [],
     "view_label": "BSB, Clm. 210",
     "prev": {
-      "id": "hit_manuscript__23",
-      "label": "ÖNB, Cod. 371"
+      "id": "hit_manuscript__29",
+      "label": "BSB, Clm 6279"
     },
     "next": {
       "id": "hit_manuscript__5",
@@ -5019,18 +5109,18 @@
     "extent": "I + 134",
     "foliation": "19 Jh.",
     "acc_mat": "",
-    "binding": "Spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
+    "binding": "Spätgotischer Ledereinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
     "binding_date": [
       {
         "id": 20,
         "value": "14-15 Jh."
       }
     ],
-    "history": "Geschrieben in Freising,  seit 12 J. in Besitz der Dombibliothek. Besitzmarke: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (on the cover). Möglicherweise diente als Handbuch des Bischofs Abraham (N. Daniel).",
+    "history": "Geschrieben in Freising,  seit 12 J. in Besitz der Dombibliothek. Besitzmarke: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (auf dem Deckel). Möglicherweise diente als Handbuch des Bischofs Abraham (N. Daniel, 1973).",
     "bibliography": [],
     "height": "195",
     "width": "165",
-    "material_spec": "Pergament von anderer Handschrift des 9 Jh. benutzt, dadurch von geringer Qualität",
+    "material_spec": "Pergament von einer anderen Handschrift des 9 Jh. benutzt, dadurch von geringer Qualität",
     "orig_place": [
       {
         "id": 4,
@@ -5207,8 +5297,11 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-17",
+    "Last modified": "2024-12-13",
     "content_summary": "Martinellus, Geschichtliche Texte, Hagiographische Texte, Lyrik",
+    "charakter": [],
+    "case_study": [],
+    "status": [],
     "view_label": "BSB, Clm. 6326",
     "prev": {
       "id": "hit_manuscript__4",
@@ -6841,6 +6934,9 @@
     },
     "Last modified": "2024-09-24",
     "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": [],
     "view_label": "BSB, Clm. 6308",
     "prev": {
       "id": "hit_manuscript__5",
@@ -8568,6 +8664,9 @@
     },
     "Last modified": "2024-09-25",
     "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": [],
     "view_label": "BSB, Clm. 6380",
     "prev": {
       "id": "hit_manuscript__6",
@@ -8898,6 +8997,9 @@
     },
     "Last modified": "2024-09-25",
     "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": [],
     "view_label": "BSB, Clm. 6375",
     "prev": {
       "id": "hit_manuscript__7",
@@ -9282,6 +9384,9 @@
     },
     "Last modified": "2024-09-25",
     "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": [],
     "view_label": "BSB, Clm. 6381",
     "prev": {
       "id": "hit_manuscript__8",
@@ -9610,6 +9715,9 @@
     },
     "Last modified": "2024-09-25",
     "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": [],
     "view_label": "BSB, Clm. 6382",
     "prev": {
       "id": "hit_manuscript__1",
@@ -9986,6 +10094,9 @@
     },
     "Last modified": "2024-11-20",
     "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": [],
     "view_label": "BSB, Clm. 6383",
     "prev": {
       "id": "hit_manuscript__10",
@@ -10290,6 +10401,9 @@
     },
     "Last modified": "2024-09-25",
     "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": [],
     "view_label": "BSB, Clm. 6388",
     "prev": {
       "id": "hit_manuscript__11",
@@ -10706,6 +10820,9 @@
     },
     "Last modified": "2024-09-25",
     "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": [],
     "view_label": "BSB, Clm. 6391",
     "prev": {
       "id": "hit_manuscript__12",
@@ -10983,6 +11100,9 @@
     },
     "Last modified": "2024-09-25",
     "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": [],
     "view_label": "BSB, Clm. 6392",
     "prev": {
       "id": "hit_manuscript__13",
@@ -11265,6 +11385,9 @@
     },
     "Last modified": "2024-09-25",
     "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": [],
     "view_label": "BSB, Clm. 6393",
     "prev": {
       "id": "hit_manuscript__14",
@@ -11595,6 +11718,9 @@
     },
     "Last modified": "2024-09-25",
     "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": [],
     "view_label": "BSB, Clm. 6376",
     "prev": {
       "id": "hit_manuscript__15",
@@ -11925,6 +12051,9 @@
     },
     "Last modified": "2024-09-25",
     "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": [],
     "view_label": "BSB, Clm. 1086",
     "prev": {
       "id": "hit_manuscript__16",
@@ -12089,6 +12218,9 @@
     },
     "Last modified": "2024-09-25",
     "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": [],
     "view_label": "BSB, Clm. 29226",
     "prev": {
       "id": "hit_manuscript__17",
@@ -12344,6 +12476,9 @@
     },
     "Last modified": "2024-09-25",
     "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": [],
     "view_label": "BSB, Clm. 6341",
     "prev": {
       "id": "hit_manuscript__18",
@@ -12763,6 +12898,9 @@
     },
     "Last modified": "2024-09-25",
     "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": [],
     "view_label": "BSB, Clm 27305",
     "prev": {
       "id": "hit_manuscript__2",
@@ -12771,6 +12909,297 @@
     "next": {
       "id": "hit_manuscript__21",
       "label": "ÖNB, Cod. 2090"
+    },
+    "related__cod_units": []
+  },
+  "27": {
+    "id": 27,
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm 29045"
+      }
+    ],
+    "hit_id": "hit_manuscript__27",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "Clm 29045",
+    "idno_former": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 4,
+        "label": "BSB",
+        "hit_id": "hit_org__4",
+        "gnd_url": "https://d-nb.info/gnd/2031351-2",
+        "library_full": "Bayerische Staatsbibliothek",
+        "library_website": "https://www.bsb-muenchen.de/",
+        "settlement": [
+          {
+            "id": 8,
+            "name": "München",
+            "geonames_url": "https://www.geonames.org/2867714/munich.html",
+            "hit_id": "hit_place__8",
+            "wikidata_url": "",
+            "country": [
+              {
+                "id": 2,
+                "value": "Deutschland"
+              }
+            ],
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-07-09"
+          }
+        ],
+        "wikidata": "",
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-03"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "history": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material_spec": "",
+    "orig_place": [],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": null,
+    "provenance": [],
+    "manuscripts_dated": [],
+    "orig_dated": [],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-12-13",
+    "content_summary": "",
+    "charakter": [],
+    "case_study": [
+      {
+        "id": 17443,
+        "value": "external",
+        "color": "light-gray"
+      }
+    ],
+    "status": [],
+    "view_label": "BSB, Clm 29045",
+    "prev": {
+      "id": "hit_manuscript__23",
+      "label": "ÖNB, Cod. 371"
+    },
+    "next": {
+      "id": "hit_manuscript__28",
+      "label": "BSB, Clm 6299"
+    },
+    "related__cod_units": []
+  },
+  "28": {
+    "id": 28,
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm 6299"
+      }
+    ],
+    "hit_id": "hit_manuscript__28",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "Clm 6299",
+    "idno_former": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 4,
+        "label": "BSB",
+        "hit_id": "hit_org__4",
+        "gnd_url": "https://d-nb.info/gnd/2031351-2",
+        "library_full": "Bayerische Staatsbibliothek",
+        "library_website": "https://www.bsb-muenchen.de/",
+        "settlement": [
+          {
+            "id": 8,
+            "name": "München",
+            "geonames_url": "https://www.geonames.org/2867714/munich.html",
+            "hit_id": "hit_place__8",
+            "wikidata_url": "",
+            "country": [
+              {
+                "id": 2,
+                "value": "Deutschland"
+              }
+            ],
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-07-09"
+          }
+        ],
+        "wikidata": "",
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-03"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "history": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material_spec": "",
+    "orig_place": [],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": null,
+    "provenance": [],
+    "manuscripts_dated": [],
+    "orig_dated": [],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-12-13",
+    "content_summary": "",
+    "charakter": [],
+    "case_study": [],
+    "status": [],
+    "view_label": "BSB, Clm 6299",
+    "prev": {
+      "id": "hit_manuscript__27",
+      "label": "BSB, Clm 29045"
+    },
+    "next": {
+      "id": "hit_manuscript__29",
+      "label": "BSB, Clm 6279"
+    },
+    "related__cod_units": []
+  },
+  "29": {
+    "id": 29,
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm 6279"
+      }
+    ],
+    "hit_id": "hit_manuscript__29",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "Clm 6279",
+    "idno_former": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 4,
+        "label": "BSB",
+        "hit_id": "hit_org__4",
+        "gnd_url": "https://d-nb.info/gnd/2031351-2",
+        "library_full": "Bayerische Staatsbibliothek",
+        "library_website": "https://www.bsb-muenchen.de/",
+        "settlement": [
+          {
+            "id": 8,
+            "name": "München",
+            "geonames_url": "https://www.geonames.org/2867714/munich.html",
+            "hit_id": "hit_place__8",
+            "wikidata_url": "",
+            "country": [
+              {
+                "id": 2,
+                "value": "Deutschland"
+              }
+            ],
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-07-09"
+          }
+        ],
+        "wikidata": "",
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-03"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "history": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material_spec": "",
+    "orig_place": [],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": null,
+    "provenance": [],
+    "manuscripts_dated": [],
+    "orig_dated": [],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-12-13",
+    "content_summary": "",
+    "charakter": [],
+    "case_study": [],
+    "status": [],
+    "view_label": "BSB, Clm 6279",
+    "prev": {
+      "id": "hit_manuscript__28",
+      "label": "BSB, Clm 6299"
+    },
+    "next": {
+      "id": "hit_manuscript__4",
+      "label": "BSB, Clm. 210"
     },
     "related__cod_units": []
   }

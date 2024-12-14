@@ -119,8 +119,23 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-06-04",
-    "Last modified": "2024-10-18",
-    "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt."
+    "Last modified": "2024-12-13",
+    "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt.",
+    "charakter": [],
+    "case_study": [
+      {
+        "id": 17442,
+        "value": "Salzburg",
+        "color": "purple"
+      }
+    ],
+    "status": [
+      {
+        "id": 17449,
+        "value": "In Bearbeitung (?)",
+        "color": "light-brown"
+      }
+    ]
   },
   "21": {
     "id": 21,
@@ -216,12 +231,33 @@
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 96,
-      "name": "Jesper van der Most"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "Created on": "2024-06-17",
-    "Last modified": "2024-09-09",
-    "content_summary": null
+    "Last modified": "2024-12-13",
+    "content_summary": null,
+    "charakter": [
+      {
+        "id": 17451,
+        "value": "Gebrauchshandschrift",
+        "color": "light-orange"
+      }
+    ],
+    "case_study": [
+      {
+        "id": 17442,
+        "value": "Salzburg",
+        "color": "purple"
+      }
+    ],
+    "status": [
+      {
+        "id": 17449,
+        "value": "In Bearbeitung (?)",
+        "color": "light-brown"
+      }
+    ]
   },
   "22": {
     "id": 22,
@@ -310,8 +346,23 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-01",
-    "Last modified": "2024-07-26",
-    "content_summary": null
+    "Last modified": "2024-12-13",
+    "content_summary": null,
+    "charakter": [],
+    "case_study": [
+      {
+        "id": 17442,
+        "value": "Salzburg",
+        "color": "purple"
+      }
+    ],
+    "status": [
+      {
+        "id": 17449,
+        "value": "In Bearbeitung (?)",
+        "color": "light-brown"
+      }
+    ]
   },
   "23": {
     "id": 23,
@@ -347,7 +398,7 @@
     "acc_mat": "",
     "binding": "",
     "binding_date": [],
-    "history": "Der Mönch Perhthar schenkt die Handschrift vor dem Jahr 990 an Erzbischof Friedrich",
+    "history": "Der Mönch Perhthar schenkt die Handschrift vor dem Jahr 990 dem Erzbischof Friedrich",
     "bibliography": [],
     "height": "335",
     "width": "215",
@@ -390,8 +441,23 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-03",
-    "Last modified": "2024-09-03",
-    "content_summary": null
+    "Last modified": "2024-12-13",
+    "content_summary": null,
+    "charakter": [],
+    "case_study": [
+      {
+        "id": 17442,
+        "value": "Salzburg",
+        "color": "purple"
+      }
+    ],
+    "status": [
+      {
+        "id": 17449,
+        "value": "In Bearbeitung (?)",
+        "color": "light-brown"
+      }
+    ]
   },
   "2": {
     "id": 2,
@@ -484,8 +550,29 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-06-04",
-    "Last modified": "2024-10-18",
-    "content_summary": ""
+    "Last modified": "2024-12-13",
+    "content_summary": "",
+    "charakter": [
+      {
+        "id": 17451,
+        "value": "Gebrauchshandschrift",
+        "color": "light-orange"
+      }
+    ],
+    "case_study": [
+      {
+        "id": 17442,
+        "value": "Salzburg",
+        "color": "purple"
+      }
+    ],
+    "status": [
+      {
+        "id": 17449,
+        "value": "In Bearbeitung (?)",
+        "color": "light-brown"
+      }
+    ]
   },
   "4": {
     "id": 4,
@@ -517,7 +604,7 @@
       }
     ],
     "extent": "163",
-    "foliation": "durch Hartmann Schedel",
+    "foliation": "von Hartmann Schedel",
     "acc_mat": "",
     "binding": "Brauner Ledereinband mit Streicheisenlinien mit Einzelstempeln",
     "binding_date": [
@@ -557,12 +644,15 @@
       "name": "Ivana Dobcheva"
     },
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-12",
-    "Last modified": "2024-10-09",
-    "content_summary": null
+    "Last modified": "2024-12-13",
+    "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": []
   },
   "5": {
     "id": 5,
@@ -596,18 +686,18 @@
     "extent": "I + 134",
     "foliation": "19 Jh.",
     "acc_mat": "",
-    "binding": "Spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
+    "binding": "Spätgotischer Ledereinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
     "binding_date": [
       {
         "id": 20,
         "value": "14-15 Jh."
       }
     ],
-    "history": "Geschrieben in Freising,  seit 12 J. in Besitz der Dombibliothek. Besitzmarke: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (on the cover). Möglicherweise diente als Handbuch des Bischofs Abraham (N. Daniel).",
+    "history": "Geschrieben in Freising,  seit 12 J. in Besitz der Dombibliothek. Besitzmarke: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (auf dem Deckel). Möglicherweise diente als Handbuch des Bischofs Abraham (N. Daniel, 1973).",
     "bibliography": [],
     "height": "195",
     "width": "165",
-    "material_spec": "Pergament von anderer Handschrift des 9 Jh. benutzt, dadurch von geringer Qualität",
+    "material_spec": "Pergament von einer anderen Handschrift des 9 Jh. benutzt, dadurch von geringer Qualität",
     "orig_place": [
       {
         "id": 4,
@@ -662,8 +752,11 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-13",
-    "Last modified": "2024-10-17",
-    "content_summary": "Martinellus, Geschichtliche Texte, Hagiographische Texte, Lyrik"
+    "Last modified": "2024-12-13",
+    "content_summary": "Martinellus, Geschichtliche Texte, Hagiographische Texte, Lyrik",
+    "charakter": [],
+    "case_study": [],
+    "status": []
   },
   "6": {
     "id": 6,
@@ -764,7 +857,10 @@
     },
     "Created on": "2024-06-13",
     "Last modified": "2024-09-24",
-    "content_summary": null
+    "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": []
   },
   "7": {
     "id": 7,
@@ -849,7 +945,10 @@
     },
     "Created on": "2024-06-13",
     "Last modified": "2024-09-25",
-    "content_summary": null
+    "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": []
   },
   "8": {
     "id": 8,
@@ -950,7 +1049,10 @@
     },
     "Created on": "2024-06-13",
     "Last modified": "2024-09-25",
-    "content_summary": null
+    "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": []
   },
   "9": {
     "id": 9,
@@ -1059,7 +1161,10 @@
     },
     "Created on": "2024-06-13",
     "Last modified": "2024-09-25",
-    "content_summary": null
+    "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": []
   },
   "10": {
     "id": 10,
@@ -1160,7 +1265,10 @@
     },
     "Created on": "2024-06-13",
     "Last modified": "2024-09-25",
-    "content_summary": null
+    "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": []
   },
   "11": {
     "id": 11,
@@ -1254,7 +1362,10 @@
     },
     "Created on": "2024-06-14",
     "Last modified": "2024-11-20",
-    "content_summary": null
+    "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": []
   },
   "12": {
     "id": 12,
@@ -1343,7 +1454,10 @@
     },
     "Created on": "2024-06-14",
     "Last modified": "2024-09-25",
-    "content_summary": null
+    "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": []
   },
   "13": {
     "id": 13,
@@ -1433,7 +1547,10 @@
     },
     "Created on": "2024-06-14",
     "Last modified": "2024-09-25",
-    "content_summary": null
+    "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": []
   },
   "14": {
     "id": 14,
@@ -1518,7 +1635,10 @@
     },
     "Created on": "2024-06-14",
     "Last modified": "2024-09-25",
-    "content_summary": null
+    "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": []
   },
   "15": {
     "id": 15,
@@ -1608,7 +1728,10 @@
     },
     "Created on": "2024-06-14",
     "Last modified": "2024-09-25",
-    "content_summary": null
+    "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": []
   },
   "16": {
     "id": 16,
@@ -1709,7 +1832,10 @@
     },
     "Created on": "2024-06-14",
     "Last modified": "2024-09-25",
-    "content_summary": null
+    "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": []
   },
   "17": {
     "id": 17,
@@ -1810,7 +1936,10 @@
     },
     "Created on": "2024-06-14",
     "Last modified": "2024-09-25",
-    "content_summary": null
+    "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": []
   },
   "18": {
     "id": 18,
@@ -1872,7 +2001,10 @@
     },
     "Created on": "2024-06-14",
     "Last modified": "2024-09-25",
-    "content_summary": null
+    "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": []
   },
   "19": {
     "id": 19,
@@ -1968,7 +2100,10 @@
     },
     "Created on": "2024-06-14",
     "Last modified": "2024-09-25",
-    "content_summary": null
+    "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": []
   },
   "20": {
     "id": 20,
@@ -2068,6 +2203,198 @@
     },
     "Created on": "2024-06-17",
     "Last modified": "2024-09-25",
-    "content_summary": null
+    "content_summary": null,
+    "charakter": [],
+    "case_study": [],
+    "status": []
+  },
+  "27": {
+    "id": 27,
+    "order": "20.00000000000000000000",
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm 29045"
+      }
+    ],
+    "hit_id": "hit_manuscript__27",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "Clm 29045",
+    "idno_former": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 4,
+        "value": "Bayerische Staatsbibliothek"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "history": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material_spec": "",
+    "orig_place": [],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": null,
+    "provenance": [],
+    "manuscripts_dated": [],
+    "orig_dated": [],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-12-13",
+    "Last modified": "2024-12-13",
+    "content_summary": "",
+    "charakter": [],
+    "case_study": [
+      {
+        "id": 17443,
+        "value": "external",
+        "color": "light-gray"
+      }
+    ],
+    "status": []
+  },
+  "28": {
+    "id": 28,
+    "order": "21.00000000000000000000",
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm 6299"
+      }
+    ],
+    "hit_id": "hit_manuscript__28",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "Clm 6299",
+    "idno_former": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 4,
+        "value": "Bayerische Staatsbibliothek"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "history": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material_spec": "",
+    "orig_place": [],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": null,
+    "provenance": [],
+    "manuscripts_dated": [],
+    "orig_dated": [],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-12-13",
+    "Last modified": "2024-12-13",
+    "content_summary": "",
+    "charakter": [],
+    "case_study": [],
+    "status": []
+  },
+  "29": {
+    "id": 29,
+    "order": "22.00000000000000000000",
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm 6279"
+      }
+    ],
+    "hit_id": "hit_manuscript__29",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "Clm 6279",
+    "idno_former": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 4,
+        "value": "Bayerische Staatsbibliothek"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "history": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material_spec": "",
+    "orig_place": [],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": null,
+    "provenance": [],
+    "manuscripts_dated": [],
+    "orig_dated": [],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-12-13",
+    "Last modified": "2024-12-13",
+    "content_summary": "",
+    "charakter": [],
+    "case_study": [],
+    "status": []
   }
 }

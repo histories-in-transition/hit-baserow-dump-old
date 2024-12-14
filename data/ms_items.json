@@ -236,8 +236,29 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": ""
+        "Last modified": "2024-12-13",
+        "content_summary": "",
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -314,7 +335,9 @@
         },
         "Last modified": "2024-07-01",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -1611,8 +1634,29 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": ""
+        "Last modified": "2024-12-13",
+        "content_summary": "",
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "[...] unius anni cum regnare coepisset",
@@ -1695,7 +1739,9 @@
             "color": "cyan"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -2981,8 +3027,29 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": ""
+        "Last modified": "2024-12-13",
+        "content_summary": "",
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -3150,7 +3217,9 @@
             "value": "inhaltsbezogen",
             "color": "darker-orange"
           }
-        ]
+        ],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -4436,8 +4505,29 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": ""
+        "Last modified": "2024-12-13",
+        "content_summary": "",
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -4573,7 +4663,9 @@
         },
         "Last modified": "2024-11-19",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 3,
@@ -4619,7 +4711,9 @@
         },
         "Last modified": "2024-07-01",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 10,
@@ -4665,7 +4759,9 @@
         },
         "Last modified": "2024-10-09",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 17,
@@ -4711,7 +4807,9 @@
         },
         "Last modified": "2024-10-09",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -6024,8 +6122,29 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": ""
+        "Last modified": "2024-12-13",
+        "content_summary": "",
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -6044,7 +6163,7 @@
         "genre": [
           {
             "id": 3,
-            "genre": "Annalen",
+            "genre": "Annalistik",
             "hit_id": "hit_genres__3",
             "main_genre": [
               {
@@ -6060,10 +6179,10 @@
               }
             ],
             "Last modified by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
+              "id": 86,
+              "name": "Leon Pürstinger"
             },
-            "Last modified": "2024-07-11"
+            "Last modified": "2024-12-13"
           }
         ],
         "note_source": "",
@@ -6124,15 +6243,11 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-09",
+        "Last modified": "2024-12-13",
         "locus_layout": [],
-        "function": [
-          {
-            "id": 15839,
-            "value": "historiographisch???",
-            "color": "pink"
-          }
-        ]
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 16,
@@ -6178,7 +6293,9 @@
         },
         "Last modified": "2024-07-11",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 82,
@@ -6224,7 +6341,9 @@
         },
         "Last modified": "2024-08-05",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -7524,8 +7643,29 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": ""
+        "Last modified": "2024-12-13",
+        "content_summary": "",
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -7649,7 +7789,9 @@
         },
         "Last modified": "2024-07-11",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -8935,8 +9077,29 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": ""
+        "Last modified": "2024-12-13",
+        "content_summary": "",
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -8991,7 +9154,7 @@
         "genre": [
           {
             "id": 3,
-            "genre": "Annalen",
+            "genre": "Annalistik",
             "hit_id": "hit_genres__3",
             "main_genre": [
               {
@@ -9007,10 +9170,10 @@
               }
             ],
             "Last modified by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
+              "id": 86,
+              "name": "Leon Pürstinger"
             },
-            "Last modified": "2024-07-11"
+            "Last modified": "2024-12-13"
           }
         ],
         "note_source": "",
@@ -9079,7 +9242,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -10365,8 +10530,29 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": ""
+        "Last modified": "2024-12-13",
+        "content_summary": "",
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -10510,7 +10696,9 @@
         },
         "Last modified": "2024-07-11",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 19,
@@ -10556,7 +10744,9 @@
         },
         "Last modified": "2024-07-11",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 20,
@@ -10602,7 +10792,9 @@
         },
         "Last modified": "2024-07-11",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -11908,8 +12100,29 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": ""
+        "Last modified": "2024-12-13",
+        "content_summary": "",
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -12070,7 +12283,9 @@
             "value": "orthografisch",
             "color": "darker-red"
           }
-        ]
+        ],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 15,
@@ -12116,7 +12331,9 @@
         },
         "Last modified": "2024-10-09",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 22,
@@ -12162,7 +12379,9 @@
         },
         "Last modified": "2024-07-11",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -13000,8 +13219,29 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": ""
+        "Last modified": "2024-12-13",
+        "content_summary": "",
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -13157,7 +13397,9 @@
         },
         "Last modified": "2024-08-26",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -13981,8 +14223,29 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": ""
+        "Last modified": "2024-12-13",
+        "content_summary": "",
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -14059,7 +14322,9 @@
         },
         "Last modified": "2024-07-15",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [],
@@ -14329,8 +14594,29 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": ""
+        "Last modified": "2024-12-13",
+        "content_summary": "",
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -14446,7 +14732,9 @@
         },
         "Last modified": "2024-07-12",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [],
@@ -14716,8 +15004,29 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": ""
+        "Last modified": "2024-12-13",
+        "content_summary": "",
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -14794,7 +15103,9 @@
         },
         "Last modified": "2024-07-12",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [],
@@ -15064,8 +15375,29 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": ""
+        "Last modified": "2024-12-13",
+        "content_summary": "",
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -15142,7 +15474,9 @@
         },
         "Last modified": "2024-07-12",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [],
@@ -15412,8 +15746,29 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": ""
+        "Last modified": "2024-12-13",
+        "content_summary": "",
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "Auditum, fratres karissimi, et divulgatum est per multa loca.",
@@ -15521,7 +15876,9 @@
         },
         "Last modified": "2024-07-11",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -15945,8 +16302,29 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": ""
+        "Last modified": "2024-12-13",
+        "content_summary": "",
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "Asia ab oriente",
@@ -16062,7 +16440,9 @@
         },
         "Last modified": "2024-07-11",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -16508,7 +16888,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-24",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "[…factum de]beat totumque tuum sit….quod libens feci",
@@ -16646,7 +17029,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 38,
@@ -16724,7 +17109,9 @@
             "value": "Glossen",
             "color": "dark-cyan"
           }
-        ]
+        ],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 142,
@@ -16797,7 +17184,9 @@
             "value": "grammatikalisch",
             "color": "green"
           }
-        ]
+        ],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -18423,18 +18812,18 @@
         "extent": "I + 134",
         "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "Spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
+        "binding": "Spätgotischer Ledereinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
         "binding_date": [
           {
             "id": 20,
             "value": "14-15 Jh."
           }
         ],
-        "history": "Geschrieben in Freising,  seit 12 J. in Besitz der Dombibliothek. Besitzmarke: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (on the cover). Möglicherweise diente als Handbuch des Bischofs Abraham (N. Daniel).",
+        "history": "Geschrieben in Freising,  seit 12 J. in Besitz der Dombibliothek. Besitzmarke: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (auf dem Deckel). Möglicherweise diente als Handbuch des Bischofs Abraham (N. Daniel, 1973).",
         "bibliography": [],
         "height": "195",
         "width": "165",
-        "material_spec": "Pergament von anderer Handschrift des 9 Jh. benutzt, dadurch von geringer Qualität",
+        "material_spec": "Pergament von einer anderen Handschrift des 9 Jh. benutzt, dadurch von geringer Qualität",
         "orig_place": [
           {
             "id": 4,
@@ -18611,8 +19000,11 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-10-17",
-        "content_summary": "Martinellus, Geschichtliche Texte, Hagiographische Texte, Lyrik"
+        "Last modified": "2024-12-13",
+        "content_summary": "Martinellus, Geschichtliche Texte, Hagiographische Texte, Lyrik",
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Ego quidem frater unanimis…",
@@ -18712,52 +19104,6 @@
     "filiation": [],
     "locus_grp": "1r-32r",
     "hands_role": [
-      {
-        "id": 27,
-        "hit_id": "hit_hands_role__27",
-        "hand": [
-          {
-            "id": 20,
-            "value": "BSB, Clm. 6326_H. 2"
-          }
-        ],
-        "ms_item": [
-          {
-            "id": 18,
-            "value": "clm_6326__18"
-          }
-        ],
-        "role": [
-          {
-            "id": 14760,
-            "value": "corrector",
-            "color": "darker-yellow"
-          }
-        ],
-        "locus": "25r",
-        "text": [
-          {
-            "ids": {
-              "database_table_3489": 17,
-              "database_table_3491": 18
-            },
-            "value": "Vita sancti Martini"
-          }
-        ],
-        "locus_text": [
-          {
-            "id": 18,
-            "value": "1r-32r"
-          }
-        ],
-        "Last modified by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
-        },
-        "Last modified": "2024-07-12",
-        "locus_layout": [],
-        "function": []
-      },
       {
         "id": 121,
         "hit_id": "hit_hands_role__121",
@@ -18928,7 +19274,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 153,
@@ -18956,7 +19304,7 @@
             "color": "darker-yellow"
           }
         ],
-        "locus": "Durchausgehend",
+        "locus": "Durchgehend",
         "text": [
           {
             "ids": {
@@ -18987,7 +19335,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-10-23",
+        "Last modified": "2024-12-13",
         "locus_layout": [
           {
             "id": 15097,
@@ -19011,7 +19359,9 @@
             "value": "inhaltsbezogen",
             "color": "darker-orange"
           }
-        ]
+        ],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -20388,13 +20738,6 @@
           "database_table_3487": 5,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6326_H. 2"
-      },
-      {
-        "ids": {
-          "database_table_3487": 5,
-          "database_table_3488": 4
-        },
         "value": "BSB, Clm. 6326_H. 1"
       },
       {
@@ -20489,18 +20832,18 @@
         "extent": "I + 134",
         "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "Spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
+        "binding": "Spätgotischer Ledereinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
         "binding_date": [
           {
             "id": 20,
             "value": "14-15 Jh."
           }
         ],
-        "history": "Geschrieben in Freising,  seit 12 J. in Besitz der Dombibliothek. Besitzmarke: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (on the cover). Möglicherweise diente als Handbuch des Bischofs Abraham (N. Daniel).",
+        "history": "Geschrieben in Freising,  seit 12 J. in Besitz der Dombibliothek. Besitzmarke: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (auf dem Deckel). Möglicherweise diente als Handbuch des Bischofs Abraham (N. Daniel, 1973).",
         "bibliography": [],
         "height": "195",
         "width": "165",
-        "material_spec": "Pergament von anderer Handschrift des 9 Jh. benutzt, dadurch von geringer Qualität",
+        "material_spec": "Pergament von einer anderen Handschrift des 9 Jh. benutzt, dadurch von geringer Qualität",
         "orig_place": [
           {
             "id": 4,
@@ -20677,8 +21020,11 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-10-17",
-        "content_summary": "Martinellus, Geschichtliche Texte, Hagiographische Texte, Lyrik"
+        "Last modified": "2024-12-13",
+        "content_summary": "Martinellus, Geschichtliche Texte, Hagiographische Texte, Lyrik",
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "",
@@ -20948,7 +21294,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -22412,18 +22760,18 @@
         "extent": "I + 134",
         "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "Spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
+        "binding": "Spätgotischer Ledereinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
         "binding_date": [
           {
             "id": 20,
             "value": "14-15 Jh."
           }
         ],
-        "history": "Geschrieben in Freising,  seit 12 J. in Besitz der Dombibliothek. Besitzmarke: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (on the cover). Möglicherweise diente als Handbuch des Bischofs Abraham (N. Daniel).",
+        "history": "Geschrieben in Freising,  seit 12 J. in Besitz der Dombibliothek. Besitzmarke: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (auf dem Deckel). Möglicherweise diente als Handbuch des Bischofs Abraham (N. Daniel, 1973).",
         "bibliography": [],
         "height": "195",
         "width": "165",
-        "material_spec": "Pergament von anderer Handschrift des 9 Jh. benutzt, dadurch von geringer Qualität",
+        "material_spec": "Pergament von einer anderen Handschrift des 9 Jh. benutzt, dadurch von geringer Qualität",
         "orig_place": [
           {
             "id": 4,
@@ -22600,8 +22948,11 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-10-17",
-        "content_summary": "Martinellus, Geschichtliche Texte, Hagiographische Texte, Lyrik"
+        "Last modified": "2024-12-13",
+        "content_summary": "Martinellus, Geschichtliche Texte, Hagiographische Texte, Lyrik",
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "",
@@ -22871,7 +23222,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -24257,8 +24610,8 @@
     "form_note": null,
     "view_label": "clm_6326__20",
     "prev": {
-      "id": "hit_ms_items__190",
-      "label": "cod_2090__190"
+      "id": "hit_ms_items__191",
+      "label": "NO MATCH FOR $..label[0].value"
     },
     "next": {
       "id": "hit_ms_items__21",
@@ -24335,18 +24688,18 @@
         "extent": "I + 134",
         "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "Spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
+        "binding": "Spätgotischer Ledereinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
         "binding_date": [
           {
             "id": 20,
             "value": "14-15 Jh."
           }
         ],
-        "history": "Geschrieben in Freising,  seit 12 J. in Besitz der Dombibliothek. Besitzmarke: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (on the cover). Möglicherweise diente als Handbuch des Bischofs Abraham (N. Daniel).",
+        "history": "Geschrieben in Freising,  seit 12 J. in Besitz der Dombibliothek. Besitzmarke: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (auf dem Deckel). Möglicherweise diente als Handbuch des Bischofs Abraham (N. Daniel, 1973).",
         "bibliography": [],
         "height": "195",
         "width": "165",
-        "material_spec": "Pergament von anderer Handschrift des 9 Jh. benutzt, dadurch von geringer Qualität",
+        "material_spec": "Pergament von einer anderen Handschrift des 9 Jh. benutzt, dadurch von geringer Qualität",
         "orig_place": [
           {
             "id": 4,
@@ -24523,8 +24876,11 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-10-17",
-        "content_summary": "Martinellus, Geschichtliche Texte, Hagiographische Texte, Lyrik"
+        "Last modified": "2024-12-13",
+        "content_summary": "Martinellus, Geschichtliche Texte, Hagiographische Texte, Lyrik",
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Archadio uero et Honorio sanctus Martinus Turonum episcopus…",
@@ -24843,7 +25199,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 153,
@@ -24871,7 +25229,7 @@
             "color": "darker-yellow"
           }
         ],
-        "locus": "Durchausgehend",
+        "locus": "Durchgehend",
         "text": [
           {
             "ids": {
@@ -24902,7 +25260,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-10-23",
+        "Last modified": "2024-12-13",
         "locus_layout": [
           {
             "id": 15097,
@@ -24926,7 +25284,9 @@
             "value": "inhaltsbezogen",
             "color": "darker-orange"
           }
-        ]
+        ],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -26397,18 +26757,18 @@
         "extent": "I + 134",
         "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "Spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
+        "binding": "Spätgotischer Ledereinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
         "binding_date": [
           {
             "id": 20,
             "value": "14-15 Jh."
           }
         ],
-        "history": "Geschrieben in Freising,  seit 12 J. in Besitz der Dombibliothek. Besitzmarke: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (on the cover). Möglicherweise diente als Handbuch des Bischofs Abraham (N. Daniel).",
+        "history": "Geschrieben in Freising,  seit 12 J. in Besitz der Dombibliothek. Besitzmarke: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (auf dem Deckel). Möglicherweise diente als Handbuch des Bischofs Abraham (N. Daniel, 1973).",
         "bibliography": [],
         "height": "195",
         "width": "165",
-        "material_spec": "Pergament von anderer Handschrift des 9 Jh. benutzt, dadurch von geringer Qualität",
+        "material_spec": "Pergament von einer anderen Handschrift des 9 Jh. benutzt, dadurch von geringer Qualität",
         "orig_place": [
           {
             "id": 4,
@@ -26585,8 +26945,11 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-10-17",
-        "content_summary": "Martinellus, Geschichtliche Texte, Hagiographische Texte, Lyrik"
+        "Last modified": "2024-12-13",
+        "content_summary": "Martinellus, Geschichtliche Texte, Hagiographische Texte, Lyrik",
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Igitur post excessum beati Martini Turonicae ciuitatis episcopi…",
@@ -26900,7 +27263,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -28364,18 +28729,18 @@
         "extent": "I + 134",
         "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "Spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
+        "binding": "Spätgotischer Ledereinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
         "binding_date": [
           {
             "id": 20,
             "value": "14-15 Jh."
           }
         ],
-        "history": "Geschrieben in Freising,  seit 12 J. in Besitz der Dombibliothek. Besitzmarke: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (on the cover). Möglicherweise diente als Handbuch des Bischofs Abraham (N. Daniel).",
+        "history": "Geschrieben in Freising,  seit 12 J. in Besitz der Dombibliothek. Besitzmarke: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (auf dem Deckel). Möglicherweise diente als Handbuch des Bischofs Abraham (N. Daniel, 1973).",
         "bibliography": [],
         "height": "195",
         "width": "165",
-        "material_spec": "Pergament von anderer Handschrift des 9 Jh. benutzt, dadurch von geringer Qualität",
+        "material_spec": "Pergament von einer anderen Handschrift des 9 Jh. benutzt, dadurch von geringer Qualität",
         "orig_place": [
           {
             "id": 4,
@@ -28552,8 +28917,11 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-10-17",
-        "content_summary": "Martinellus, Geschichtliche Texte, Hagiographische Texte, Lyrik"
+        "Last modified": "2024-12-13",
+        "content_summary": "Martinellus, Geschichtliche Texte, Hagiographische Texte, Lyrik",
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Venimus en istuc, hic ne personat[e] heu/ …",
@@ -28823,7 +29191,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -30287,18 +30657,18 @@
         "extent": "I + 134",
         "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "Spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
+        "binding": "Spätgotischer Ledereinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
         "binding_date": [
           {
             "id": 20,
             "value": "14-15 Jh."
           }
         ],
-        "history": "Geschrieben in Freising,  seit 12 J. in Besitz der Dombibliothek. Besitzmarke: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (on the cover). Möglicherweise diente als Handbuch des Bischofs Abraham (N. Daniel).",
+        "history": "Geschrieben in Freising,  seit 12 J. in Besitz der Dombibliothek. Besitzmarke: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (auf dem Deckel). Möglicherweise diente als Handbuch des Bischofs Abraham (N. Daniel, 1973).",
         "bibliography": [],
         "height": "195",
         "width": "165",
-        "material_spec": "Pergament von anderer Handschrift des 9 Jh. benutzt, dadurch von geringer Qualität",
+        "material_spec": "Pergament von einer anderen Handschrift des 9 Jh. benutzt, dadurch von geringer Qualität",
         "orig_place": [
           {
             "id": 4,
@@ -30475,8 +30845,11 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-10-17",
-        "content_summary": "Martinellus, Geschichtliche Texte, Hagiographische Texte, Lyrik"
+        "Last modified": "2024-12-13",
+        "content_summary": "Martinellus, Geschichtliche Texte, Hagiographische Texte, Lyrik",
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Basilica sancti Martini abest e civitate passos quingentos",
@@ -30790,7 +31163,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -32254,18 +32629,18 @@
         "extent": "I + 134",
         "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "Spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
+        "binding": "Spätgotischer Ledereinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
         "binding_date": [
           {
             "id": 20,
             "value": "14-15 Jh."
           }
         ],
-        "history": "Geschrieben in Freising,  seit 12 J. in Besitz der Dombibliothek. Besitzmarke: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (on the cover). Möglicherweise diente als Handbuch des Bischofs Abraham (N. Daniel).",
+        "history": "Geschrieben in Freising,  seit 12 J. in Besitz der Dombibliothek. Besitzmarke: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (auf dem Deckel). Möglicherweise diente als Handbuch des Bischofs Abraham (N. Daniel, 1973).",
         "bibliography": [],
         "height": "195",
         "width": "165",
-        "material_spec": "Pergament von anderer Handschrift des 9 Jh. benutzt, dadurch von geringer Qualität",
+        "material_spec": "Pergament von einer anderen Handschrift des 9 Jh. benutzt, dadurch von geringer Qualität",
         "orig_place": [
           {
             "id": 4,
@@ -32442,8 +32817,11 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-10-17",
-        "content_summary": "Martinellus, Geschichtliche Texte, Hagiographische Texte, Lyrik"
+        "Last modified": "2024-12-13",
+        "content_summary": "Martinellus, Geschichtliche Texte, Hagiographische Texte, Lyrik",
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Clemens trinitas est una diuinitas, ut autem per sacramentum cognoscatur…",
@@ -32701,7 +33079,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -34165,18 +34545,18 @@
         "extent": "I + 134",
         "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "Spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
+        "binding": "Spätgotischer Ledereinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
         "binding_date": [
           {
             "id": 20,
             "value": "14-15 Jh."
           }
         ],
-        "history": "Geschrieben in Freising,  seit 12 J. in Besitz der Dombibliothek. Besitzmarke: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (on the cover). Möglicherweise diente als Handbuch des Bischofs Abraham (N. Daniel).",
+        "history": "Geschrieben in Freising,  seit 12 J. in Besitz der Dombibliothek. Besitzmarke: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (auf dem Deckel). Möglicherweise diente als Handbuch des Bischofs Abraham (N. Daniel, 1973).",
         "bibliography": [],
         "height": "195",
         "width": "165",
-        "material_spec": "Pergament von anderer Handschrift des 9 Jh. benutzt, dadurch von geringer Qualität",
+        "material_spec": "Pergament von einer anderen Handschrift des 9 Jh. benutzt, dadurch von geringer Qualität",
         "orig_place": [
           {
             "id": 4,
@@ -34353,8 +34733,11 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-10-17",
-        "content_summary": "Martinellus, Geschichtliche Texte, Hagiographische Texte, Lyrik"
+        "Last modified": "2024-12-13",
+        "content_summary": "Martinellus, Geschichtliche Texte, Hagiographische Texte, Lyrik",
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Dominus ac saluator noster Jesus Christus redemptor scilicet humani generis…",
@@ -34569,7 +34952,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -36222,7 +36607,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Robor arbor est. Robur uirtutis. Rubor coloris ... seras portarum suarum",
@@ -36393,7 +36781,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -36744,7 +37134,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Iuris ordinem conuerti postulas …",
@@ -36915,7 +37308,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -37266,7 +37661,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Peritorum dicunt esse medicorum ubi inmine‹ re urbibus …",
@@ -37442,7 +37840,9 @@
             "value": "grammatikalisch",
             "color": "green"
           }
-        ]
+        ],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 139,
@@ -37539,7 +37939,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -37897,7 +38299,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "",
@@ -38068,7 +38473,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -38419,7 +38826,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Utiliter nimis in capite libri praefatio ponitur…",
@@ -38794,7 +39204,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Dicturus igitvr",
@@ -38926,7 +39339,9 @@
         },
         "Last modified": "2024-09-16",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 128,
@@ -38972,7 +39387,9 @@
         },
         "Last modified": "2024-09-16",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 131,
@@ -39018,7 +39435,9 @@
         },
         "Last modified": "2024-09-16",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 132,
@@ -39064,7 +39483,9 @@
         },
         "Last modified": "2024-09-16",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 133,
@@ -39110,7 +39531,9 @@
         },
         "Last modified": "2024-09-16",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 134,
@@ -39156,7 +39579,9 @@
         },
         "Last modified": "2024-09-16",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 135,
@@ -39202,7 +39627,9 @@
         },
         "Last modified": "2024-09-04",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 146,
@@ -39242,7 +39669,9 @@
         },
         "Last modified": "2024-10-23",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -39600,7 +40029,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Primo gradu superiori linea continentur pater mater, inferiori filius filia",
@@ -39689,7 +40121,9 @@
         },
         "Last modified": "2024-09-04",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -40105,7 +40539,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "",
@@ -40281,7 +40718,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 122,
@@ -40333,7 +40772,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 123,
@@ -40385,7 +40826,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -40748,7 +41191,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Fuit uir in Alexandria nomine Pafnutius honorabilis omnibus…",
@@ -40978,7 +41424,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 150,
@@ -41181,7 +41629,9 @@
             "value": "inhaltsbezogen",
             "color": "darker-orange"
           }
-        ]
+        ],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -41537,7 +41987,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Venit nuper ad manus meas…",
@@ -41830,7 +42283,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 150,
@@ -42033,7 +42488,9 @@
             "value": "inhaltsbezogen",
             "color": "darker-orange"
           }
-        ]
+        ],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -42389,7 +42846,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Paulus seruus … Non dico uos‹ seruos…",
@@ -42650,7 +43110,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 150,
@@ -42853,7 +43315,9 @@
             "value": "inhaltsbezogen",
             "color": "darker-orange"
           }
-        ]
+        ],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -43209,7 +43673,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Cum me peruigil cura fecisset exsomnem his me questionibus interrogaui… –… ut quod homines carnalibus caecati curis uidere non possunt, saltim fidei conpendio nanciscantur. – Contuli ut potui cum omni solertia. Qui legis ora pro me.",
@@ -43478,7 +43945,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 150,
@@ -43681,7 +44150,9 @@
             "value": "inhaltsbezogen",
             "color": "darker-orange"
           }
-        ]
+        ],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -44037,7 +44508,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Inter deum et dominum quid interest.",
@@ -44330,7 +44804,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 150,
@@ -44533,7 +45009,9 @@
             "value": "inhaltsbezogen",
             "color": "darker-orange"
           }
-        ]
+        ],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -44889,7 +45367,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Symon qui interpretatur obędiens, Petrus agnoscens, filius Johannis, frater Andreę…",
@@ -45119,7 +45600,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 150,
@@ -45322,7 +45805,9 @@
             "value": "inhaltsbezogen",
             "color": "darker-orange"
           }
-        ]
+        ],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -45678,7 +46163,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Kalendae Januarii si fuerint dominico die hiems bona erit et uernus(= ver) uentuosus",
@@ -45939,7 +46427,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 150,
@@ -46142,7 +46632,9 @@
             "value": "inhaltsbezogen",
             "color": "darker-orange"
           }
-        ]
+        ],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -46498,7 +46990,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Vernus exoritur VIII. Kal. Martii permanens diebus XCI…",
@@ -46791,7 +47286,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 150,
@@ -46994,7 +47491,9 @@
             "value": "inhaltsbezogen",
             "color": "darker-orange"
           }
-        ]
+        ],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -47350,7 +47849,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Luna prima quicquid uideris in gaudium conuertitur nec in malum…",
@@ -47580,7 +48082,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 150,
@@ -47783,7 +48287,9 @@
             "value": "inhaltsbezogen",
             "color": "darker-orange"
           }
-        ]
+        ],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -48139,7 +48645,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "",
@@ -48357,7 +48866,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 150,
@@ -48560,7 +49071,9 @@
             "value": "inhaltsbezogen",
             "color": "darker-orange"
           }
-        ]
+        ],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -48916,7 +49429,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Denique cognoscat beniuolentia uestra quod quidam uir nomine Felix …",
@@ -49036,7 +49552,9 @@
         },
         "Last modified": "2024-12-04",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -49385,7 +49903,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "",
@@ -49811,7 +50332,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Sancti uiri quo (aus quod korrigiert) apud deum…",
@@ -49943,7 +50467,9 @@
         },
         "Last modified": "2024-12-05",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -50273,7 +50799,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-11-20",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Peritorum dicunt esse medicorum…",
@@ -50437,7 +50966,9 @@
         },
         "Last modified": "2024-11-13",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -50762,7 +51293,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "",
@@ -50908,7 +51442,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -51291,7 +51827,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "",
@@ -51701,7 +52240,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "",
@@ -52103,7 +52645,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "",
@@ -52440,7 +52985,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "‖ ipsoque pauore premortuus se illuc ruiturum expectaret…",
@@ -52566,7 +53114,9 @@
         },
         "Last modified": "2024-09-04",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 143,
@@ -52612,7 +53162,9 @@
         },
         "Last modified": "2024-09-19",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 144,
@@ -52658,7 +53210,9 @@
         },
         "Last modified": "2024-09-19",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 145,
@@ -52704,7 +53258,9 @@
         },
         "Last modified": "2024-09-19",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -53023,7 +53579,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Populvs Romanus a rege Romulo…",
@@ -53398,7 +53957,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Aduentus Ęnee in Italiam et res gestę …",
@@ -53777,7 +54339,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Benedictus dominus qui uult…",
@@ -54165,7 +54730,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "In sanctis orationibus tuis memento mei decus ac dignitas uirginum, nonna Asella. Scripturus uitam…",
@@ -54557,7 +55125,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "",
@@ -54949,7 +55520,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "",
@@ -55341,7 +55915,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "",
@@ -55757,7 +56334,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Percepto (korrigiert aus precepto) pie paternitatis …",
@@ -56173,7 +56753,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Originem uite exordiumque uirtutum beati Vuynnebaldi Christi confessoris atque abbatis ordinare edissereque me libet …",
@@ -56597,7 +57180,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Uenerandis immoque in Christo carissimis omnibus sacerdotalis infule honore ditatis presbiteris …",
@@ -57014,7 +57600,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Incipit prima prefatio apologiaque Adamnani abbatis sancti scriptoris",
@@ -57423,7 +58012,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Anno ducentesimo tricesimo tertio regnante uenerabili dei cultore magno uiro Constantino…",
@@ -57824,7 +58416,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "Tempore illo postquam Constantino Augusto contra Maxentium tyrannum properante ad bellum…",
@@ -58225,7 +58820,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "[Exhortatione tua] Patrici rethorum peritissime quae…",
@@ -58620,7 +59218,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-11-20",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "",
@@ -58665,7 +59266,9 @@
         },
         "Last modified": "2024-11-13",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -58941,18 +59544,18 @@
         "extent": "I + 134",
         "foliation": "19 Jh.",
         "acc_mat": "",
-        "binding": "Spätgotischer Lebeneinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
+        "binding": "Spätgotischer Ledereinband, hell, mit Streicheisenlinien in Rautenform. Schliße abgerissen, Decke und Rücken erneuert. Aufschriften vorne: Vita s. Martini, De s. Martino",
         "binding_date": [
           {
             "id": 20,
             "value": "14-15 Jh."
           }
         ],
-        "history": "Geschrieben in Freising,  seit 12 J. in Besitz der Dombibliothek. Besitzmarke: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (on the cover). Möglicherweise diente als Handbuch des Bischofs Abraham (N. Daniel).",
+        "history": "Geschrieben in Freising,  seit 12 J. in Besitz der Dombibliothek. Besitzmarke: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (auf dem Deckel). Möglicherweise diente als Handbuch des Bischofs Abraham (N. Daniel, 1973).",
         "bibliography": [],
         "height": "195",
         "width": "165",
-        "material_spec": "Pergament von anderer Handschrift des 9 Jh. benutzt, dadurch von geringer Qualität",
+        "material_spec": "Pergament von einer anderen Handschrift des 9 Jh. benutzt, dadurch von geringer Qualität",
         "orig_place": [
           {
             "id": 4,
@@ -59129,8 +59732,11 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-10-17",
-        "content_summary": "Martinellus, Geschichtliche Texte, Hagiographische Texte, Lyrik"
+        "Last modified": "2024-12-13",
+        "content_summary": "Martinellus, Geschichtliche Texte, Hagiographische Texte, Lyrik",
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "",
@@ -60738,8 +61344,23 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-07-26",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -60877,7 +61498,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 41,
@@ -60923,7 +61546,9 @@
         },
         "Last modified": "2024-07-16",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 42,
@@ -60969,7 +61594,9 @@
         },
         "Last modified": "2024-07-16",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 43,
@@ -61015,7 +61642,9 @@
         },
         "Last modified": "2024-07-16",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -61506,8 +62135,29 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": ""
+        "Last modified": "2024-12-13",
+        "content_summary": "",
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "Porcis in pane",
@@ -61596,7 +62246,9 @@
             "value": "unabhängig",
             "color": "dark-purple"
           }
-        ]
+        ],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -62882,8 +63534,29 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": ""
+        "Last modified": "2024-12-13",
+        "content_summary": "",
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -62972,7 +63645,9 @@
             "value": "unabhängig",
             "color": "dark-purple"
           }
-        ]
+        ],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -64258,8 +64933,29 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": ""
+        "Last modified": "2024-12-13",
+        "content_summary": "",
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "Ut alium inebraris quem volueris",
@@ -64348,7 +65044,9 @@
             "value": "unabhängig",
             "color": "dark-purple"
           }
-        ]
+        ],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -65172,8 +65870,29 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": ""
+        "Last modified": "2024-12-13",
+        "content_summary": "",
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -65273,7 +65992,9 @@
         },
         "Last modified": "2024-10-09",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -66097,8 +66818,29 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": ""
+        "Last modified": "2024-12-13",
+        "content_summary": "",
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -66224,7 +66966,9 @@
             "color": "cyan"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -67483,8 +68227,23 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-07-26",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -67556,12 +68315,19 @@
           }
         ],
         "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2024-10-09",
+        "Last modified": "2024-12-13",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [
+          {
+            "id": 13,
+            "value": "cod_m_p_th_f_46__13"
+          }
+        ],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -67906,7 +68672,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "sanctus Gregorius in libro d[ia]logorum cuius corpus translatum de Rauenna.",
@@ -68297,7 +69066,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "",
@@ -68615,7 +69387,10 @@
           "name": "Ksenia Borisova"
         },
         "Last modified": "2024-09-25",
-        "content_summary": null
+        "content_summary": null,
+        "charakter": [],
+        "case_study": [],
+        "status": []
       }
     ],
     "incipit": "",
@@ -69006,8 +69781,23 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt."
+        "Last modified": "2024-12-13",
+        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt.",
+        "charakter": [],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -69107,7 +69897,9 @@
         },
         "Last modified": "2024-07-25",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 57,
@@ -69153,7 +69945,9 @@
         },
         "Last modified": "2024-07-25",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -70951,8 +71745,23 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt."
+        "Last modified": "2024-12-13",
+        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt.",
+        "charakter": [],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "I Adbreviatio chronicae",
@@ -71035,7 +71844,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -72864,8 +73675,23 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt."
+        "Last modified": "2024-12-13",
+        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt.",
+        "charakter": [],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -72947,7 +73773,9 @@
         },
         "Last modified": "2024-10-09",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -74738,8 +75566,23 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt."
+        "Last modified": "2024-12-13",
+        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt.",
+        "charakter": [],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "nuscelihiu",
@@ -74816,7 +75659,9 @@
         },
         "Last modified": "2024-10-09",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -76607,8 +77452,23 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt."
+        "Last modified": "2024-12-13",
+        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt.",
+        "charakter": [],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "Apis modicula mater matricula",
@@ -76690,7 +77550,9 @@
         },
         "Last modified": "2024-10-09",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -78709,8 +79571,23 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt."
+        "Last modified": "2024-12-13",
+        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt.",
+        "charakter": [],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "Ave maris stella Dei mater alma",
@@ -78804,7 +79681,9 @@
         },
         "Last modified": "2024-10-09",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -80595,8 +81474,23 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt."
+        "Last modified": "2024-12-13",
+        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt.",
+        "charakter": [],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -80685,7 +81579,9 @@
         },
         "Last modified": "2024-07-25",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 66,
@@ -80731,7 +81627,9 @@
         },
         "Last modified": "2024-07-29",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -82529,8 +83427,23 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt."
+        "Last modified": "2024-12-13",
+        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt.",
+        "charakter": [],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "Adam cum esset",
@@ -82619,7 +83532,9 @@
         },
         "Last modified": "2024-07-20",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -84410,8 +85325,23 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt."
+        "Last modified": "2024-12-13",
+        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt.",
+        "charakter": [],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -84511,7 +85441,9 @@
         },
         "Last modified": "2024-10-09",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 50,
@@ -84557,7 +85489,9 @@
         },
         "Last modified": "2024-10-09",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 55,
@@ -84603,7 +85537,9 @@
         },
         "Last modified": "2024-10-09",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -86484,8 +87420,23 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt."
+        "Last modified": "2024-12-13",
+        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt.",
+        "charakter": [],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -86562,7 +87513,9 @@
         },
         "Last modified": "2024-07-23",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -88353,8 +89306,23 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt."
+        "Last modified": "2024-12-13",
+        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt.",
+        "charakter": [],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -88431,7 +89399,9 @@
         },
         "Last modified": "2024-07-23",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -90222,8 +91192,23 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt."
+        "Last modified": "2024-12-13",
+        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt.",
+        "charakter": [],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "Iustinus minor regnavit",
@@ -90312,7 +91297,9 @@
         },
         "Last modified": "2024-10-09",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 58,
@@ -90358,7 +91345,9 @@
         },
         "Last modified": "2024-10-09",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 59,
@@ -90404,7 +91393,9 @@
         },
         "Last modified": "2024-10-09",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 61,
@@ -90456,7 +91447,9 @@
             "color": "darker-brown"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -92306,8 +93299,23 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt."
+        "Last modified": "2024-12-13",
+        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt.",
+        "charakter": [],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -92384,7 +93392,9 @@
         },
         "Last modified": "2024-07-25",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -94175,8 +95185,23 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt."
+        "Last modified": "2024-12-13",
+        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt.",
+        "charakter": [],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "Incipit Liber",
@@ -94308,7 +95333,9 @@
         },
         "Last modified": "2024-07-25",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -96000,11 +97027,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "Urbs Iuvavensis fuit olim splendida muris",
@@ -96081,7 +97129,9 @@
         },
         "Last modified": "2024-07-30",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 71,
@@ -96127,7 +97177,9 @@
         },
         "Last modified": "2024-09-24",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 75,
@@ -96173,7 +97225,9 @@
         },
         "Last modified": "2024-09-24",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -96633,8 +97687,23 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-18",
-        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt."
+        "Last modified": "2024-12-13",
+        "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt.",
+        "charakter": [],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -96711,7 +97780,9 @@
         },
         "Last modified": "2024-07-25",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -98403,11 +99474,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "Anno incarnationis domini dc xxiii sanctus Ruotpertus obiit",
@@ -98484,7 +99576,9 @@
         },
         "Last modified": "2024-09-25",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -98831,11 +99925,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -98912,7 +100027,9 @@
         },
         "Last modified": "2024-10-03",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -99259,11 +100376,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -99632,11 +100770,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "Pippinus filius Angisi",
@@ -99725,7 +100884,9 @@
         },
         "Last modified": "2024-07-26",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -100084,11 +101245,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "H gratia dei Ratisponenses",
@@ -100208,7 +101390,9 @@
         },
         "Last modified": "2024-09-25",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -100555,11 +101739,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "Docti sumus veteri testamento",
@@ -100704,7 +101909,9 @@
         },
         "Last modified": "2024-09-25",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -101051,11 +102258,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -101406,11 +102634,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "Altitudo crucis christi est spes",
@@ -101779,11 +103028,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "I Sanctus Petrus",
@@ -101860,7 +103130,9 @@
         },
         "Last modified": "2024-07-31",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -102219,11 +103491,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "Sanctus Ruodbertus episcopus",
@@ -102300,7 +103593,9 @@
         },
         "Last modified": "2024-07-31",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 81,
@@ -102346,7 +103641,9 @@
         },
         "Last modified": "2024-09-25",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -102706,11 +104003,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -102799,7 +104117,9 @@
         },
         "Last modified": "2024-09-25",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -103146,11 +104466,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -103239,7 +104580,9 @@
         },
         "Last modified": "2024-09-24",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -103586,11 +104929,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -103672,7 +105036,9 @@
         },
         "Last modified": "2024-09-25",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 84,
@@ -103718,7 +105084,9 @@
         },
         "Last modified": "2024-08-01",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 85,
@@ -103764,7 +105132,9 @@
         },
         "Last modified": "2024-09-25",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -104131,11 +105501,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -104154,7 +105545,7 @@
         "genre": [
           {
             "id": 3,
-            "genre": "Annalen",
+            "genre": "Annalistik",
             "hit_id": "hit_genres__3",
             "main_genre": [
               {
@@ -104170,10 +105561,10 @@
               }
             ],
             "Last modified by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
+              "id": 86,
+              "name": "Leon Pürstinger"
             },
-            "Last modified": "2024-07-11"
+            "Last modified": "2024-12-13"
           }
         ],
         "note_source": "",
@@ -104236,7 +105627,9 @@
         },
         "Last modified": "2024-08-06",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 91,
@@ -104282,7 +105675,9 @@
         },
         "Last modified": "2024-08-06",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 95,
@@ -104328,7 +105723,9 @@
         },
         "Last modified": "2024-08-26",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 96,
@@ -104374,7 +105771,9 @@
         },
         "Last modified": "2024-08-26",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 101,
@@ -104420,7 +105819,9 @@
         },
         "Last modified": "2024-08-26",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 103,
@@ -104466,7 +105867,9 @@
         },
         "Last modified": "2024-08-26",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 104,
@@ -104512,7 +105915,9 @@
         },
         "Last modified": "2024-08-26",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 105,
@@ -104558,7 +105963,9 @@
         },
         "Last modified": "2024-08-26",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 106,
@@ -104604,7 +106011,9 @@
         },
         "Last modified": "2024-09-25",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 107,
@@ -104650,7 +106059,9 @@
         },
         "Last modified": "2024-09-25",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 108,
@@ -104696,7 +106107,9 @@
         },
         "Last modified": "2024-09-25",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 109,
@@ -104742,7 +106155,9 @@
         },
         "Last modified": "2024-09-25",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 110,
@@ -104788,7 +106203,9 @@
         },
         "Last modified": "2024-09-25",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 111,
@@ -104834,7 +106251,9 @@
         },
         "Last modified": "2024-09-25",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 112,
@@ -104880,7 +106299,9 @@
         },
         "Last modified": "2024-09-25",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 113,
@@ -104926,7 +106347,9 @@
         },
         "Last modified": "2024-09-25",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -105384,11 +106807,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -105757,11 +107201,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -106130,11 +107595,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -106153,7 +107639,7 @@
         "genre": [
           {
             "id": 3,
-            "genre": "Annalen",
+            "genre": "Annalistik",
             "hit_id": "hit_genres__3",
             "main_genre": [
               {
@@ -106169,10 +107655,10 @@
               }
             ],
             "Last modified by": {
-              "id": 36,
-              "name": "Ivana Dobcheva"
+              "id": 86,
+              "name": "Leon Pürstinger"
             },
-            "Last modified": "2024-07-11"
+            "Last modified": "2024-12-13"
           }
         ],
         "note_source": "",
@@ -106241,7 +107727,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -106588,11 +108076,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -106675,7 +108184,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -107060,11 +108571,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -107147,7 +108679,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 114,
@@ -107199,7 +108733,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -107553,11 +109089,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -107926,11 +109483,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -108007,7 +109585,9 @@
         },
         "Last modified": "2024-07-28",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 86,
@@ -108053,7 +109633,9 @@
         },
         "Last modified": "2024-10-03",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 87,
@@ -108099,7 +109681,9 @@
         },
         "Last modified": "2024-10-03",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 93,
@@ -108145,7 +109729,9 @@
         },
         "Last modified": "2024-10-03",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       },
       {
         "id": 94,
@@ -108191,7 +109777,69 @@
         },
         "Last modified": "2024-10-03",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
+      },
+      {
+        "id": 156,
+        "hit_id": "hit_hands_role__156",
+        "hand": [
+          {
+            "id": 117,
+            "value": "ÖNB, Cod. 2090_H. 40"
+          }
+        ],
+        "ms_item": [
+          {
+            "id": 138,
+            "value": "cod_2090__138"
+          }
+        ],
+        "role": [
+          {
+            "id": 15377,
+            "value": "continuator/Fortsetzer",
+            "color": "darker-pink"
+          }
+        ],
+        "locus": "",
+        "text": [
+          {
+            "ids": {
+              "database_table_3489": 114,
+              "database_table_3491": 138
+            },
+            "value": "Necrologium Salisburgense"
+          }
+        ],
+        "locus_text": [
+          {
+            "id": 138,
+            "value": "6r-36r"
+          }
+        ],
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-12-13",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum/Haupttext",
+            "color": "dark-green"
+          }
+        ],
+        "function": [
+          {
+            "id": 15836,
+            "value": "inhaltsbezogen",
+            "color": "darker-orange"
+          }
+        ],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [
@@ -108254,7 +109902,7 @@
         "date": []
       }
     ],
-    "Last modified": "2024-07-28",
+    "Last modified": "2024-12-13",
     "Last modified by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -108295,11 +109943,24 @@
           "database_table_3488": 1
         },
         "value": "ÖNB, Cod. 2090_H. 35"
+      },
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 40"
       }
     ],
     "decoration": [],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 17447,
+        "value": "Kalendarium",
+        "color": "light-green"
+      }
+    ],
     "form_note": null,
     "view_label": "cod_2090__138",
     "prev": {
@@ -108604,11 +110265,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -108918,11 +110600,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "Duodecim abusiva sunt saeculi",
@@ -109038,7 +110741,9 @@
         },
         "Last modified": "2024-08-26",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [],
@@ -109326,11 +111031,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -109446,7 +111172,9 @@
         },
         "Last modified": "2024-08-26",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [],
@@ -109734,11 +111462,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "Sacramentum est in aliqua cęlebratione cum res gesta",
@@ -110111,11 +111860,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "Fuit quidam solitarius et veniebat ad eum presbyter",
@@ -110425,11 +112195,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "Episcopum, aut presbyterum, aut diaconum, percutientem fideles",
@@ -110782,11 +112573,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "Cum in nomine sanctę et individuę trinitatis christianissimus",
@@ -111102,11 +112914,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "Tonsure ęcclesiasticę usus a nazarenis",
@@ -111183,7 +113016,9 @@
         },
         "Last modified": "2024-10-09",
         "locus_layout": [],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [],
@@ -111477,11 +113312,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -111791,11 +113647,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -112148,11 +114025,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -112462,11 +114360,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -112776,11 +114695,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -113090,11 +115030,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -113404,11 +115365,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "Omnes clerici vel lectores sicut levitę et sacerdotes detonso superius toto capite",
@@ -113718,11 +115700,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -114032,11 +116035,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -114346,11 +116370,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -114660,11 +116705,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -114974,11 +117040,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -115288,11 +117375,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -115602,11 +117710,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -115916,11 +118045,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -116230,11 +118380,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -116544,11 +118715,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -116858,11 +119050,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -117203,11 +119416,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -117517,11 +119751,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "Carolus princeps Pipini regis pater qui primus",
@@ -117640,7 +119895,9 @@
             "color": "dark-green"
           }
         ],
-        "function": []
+        "function": [],
+        "bezug_msitem": [],
+        "role_to_reworked_msitem": []
       }
     ],
     "cod_unit": [],
@@ -117928,11 +120185,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -118394,11 +120672,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -118708,11 +121007,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -119022,11 +121342,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -119450,11 +121791,32 @@
           }
         ],
         "Last modified by": {
-          "id": 96,
-          "name": "Jesper van der Most"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-09-09",
-        "content_summary": null
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "In Bearbeitung (?)",
+            "color": "light-brown"
+          }
+        ]
       }
     ],
     "incipit": "",
@@ -119485,6 +121847,44 @@
     "prev": {
       "id": "hit_ms_items__19",
       "label": "clm_6326__19"
+    },
+    "next": {
+      "id": "hit_ms_items__191",
+      "label": "NO MATCH FOR $..label[0].value"
+    }
+  },
+  "191": {
+    "id": 191,
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__191",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2024-12-13",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "view_label": "NO MATCH FOR $..label[0].value",
+    "prev": {
+      "id": "hit_ms_items__190",
+      "label": "cod_2090__190"
     },
     "next": {
       "id": "hit_ms_items__20",

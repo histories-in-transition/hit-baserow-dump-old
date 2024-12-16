@@ -12711,9 +12711,15 @@
                       "id": 86,
                       "name": "Leon Pürstinger"
                     },
-                    "Last modified": "2024-07-31",
+                    "Last modified": "2024-12-14",
                     "locus_layout": [],
-                    "function": [],
+                    "function": [
+                      {
+                        "id": 15836,
+                        "value": "inhaltsbezogen",
+                        "color": "darker-orange"
+                      }
+                    ],
                     "bezug_msitem": [],
                     "role_to_reworked_msitem": []
                   },
@@ -12759,9 +12765,15 @@
                       "id": 86,
                       "name": "Leon Pürstinger"
                     },
-                    "Last modified": "2024-09-25",
+                    "Last modified": "2024-12-14",
                     "locus_layout": [],
-                    "function": [],
+                    "function": [
+                      {
+                        "id": 15836,
+                        "value": "inhaltsbezogen",
+                        "color": "darker-orange"
+                      }
+                    ],
                     "bezug_msitem": [],
                     "role_to_reworked_msitem": []
                   }
@@ -12887,9 +12899,15 @@
               "id": 86,
               "name": "Leon Pürstinger"
             },
-            "Last modified": "2024-09-25",
+            "Last modified": "2024-12-14",
             "locus_layout": [],
-            "function": [],
+            "function": [
+              {
+                "id": 15836,
+                "value": "inhaltsbezogen",
+                "color": "darker-orange"
+              }
+            ],
             "bezug_msitem": [],
             "role_to_reworked_msitem": []
           }
@@ -14189,9 +14207,9 @@
                     ],
                     "role": [
                       {
-                        "id": 15378,
-                        "value": "\"Erweiterer\"",
-                        "color": "darker-cyan"
+                        "id": 14758,
+                        "value": "Schreiber",
+                        "color": "darker-red"
                       }
                     ],
                     "locus": "",
@@ -14214,11 +14232,32 @@
                       "id": 86,
                       "name": "Leon Pürstinger"
                     },
-                    "Last modified": "2024-09-24",
+                    "Last modified": "2024-12-14",
                     "locus_layout": [],
-                    "function": [],
-                    "bezug_msitem": [],
-                    "role_to_reworked_msitem": []
+                    "function": [
+                      {
+                        "id": 15836,
+                        "value": "inhaltsbezogen",
+                        "color": "darker-orange"
+                      }
+                    ],
+                    "bezug_msitem": [
+                      {
+                        "id": 127,
+                        "value": "cod_2090__127"
+                      },
+                      {
+                        "id": 128,
+                        "value": "cod_2090__128"
+                      }
+                    ],
+                    "role_to_reworked_msitem": [
+                      {
+                        "id": 17452,
+                        "value": "\"Erweiterer\"",
+                        "color": "darker-cyan"
+                      }
+                    ]
                   }
                 ],
                 "cod_unit": [
@@ -14304,9 +14343,9 @@
             ],
             "role": [
               {
-                "id": 15378,
-                "value": "\"Erweiterer\"",
-                "color": "darker-cyan"
+                "id": 14758,
+                "value": "Schreiber",
+                "color": "darker-red"
               }
             ],
             "locus": "",
@@ -14329,11 +14368,32 @@
               "id": 86,
               "name": "Leon Pürstinger"
             },
-            "Last modified": "2024-09-24",
+            "Last modified": "2024-12-14",
             "locus_layout": [],
-            "function": [],
-            "bezug_msitem": [],
-            "role_to_reworked_msitem": []
+            "function": [
+              {
+                "id": 15836,
+                "value": "inhaltsbezogen",
+                "color": "darker-orange"
+              }
+            ],
+            "bezug_msitem": [
+              {
+                "id": 127,
+                "value": "cod_2090__127"
+              },
+              {
+                "id": 128,
+                "value": "cod_2090__128"
+              }
+            ],
+            "role_to_reworked_msitem": [
+              {
+                "id": 17452,
+                "value": "\"Erweiterer\"",
+                "color": "darker-cyan"
+              }
+            ]
           }
         ],
         "role": [
@@ -14341,9 +14401,9 @@
             "id": 88,
             "value": [
               {
-                "id": 15378,
-                "value": "\"Erweiterer\"",
-                "color": "darker-cyan"
+                "id": 14758,
+                "value": "Schreiber",
+                "color": "darker-red"
               }
             ]
           }
@@ -14859,7 +14919,7 @@
                       "id": 86,
                       "name": "Leon Pürstinger"
                     },
-                    "Last modified": "2024-10-10",
+                    "Last modified": "2024-12-14",
                     "locus_layout": [
                       {
                         "id": 15841,
@@ -14867,7 +14927,13 @@
                         "color": "dark-green"
                       }
                     ],
-                    "function": [],
+                    "function": [
+                      {
+                        "id": 15836,
+                        "value": "inhaltsbezogen",
+                        "color": "darker-orange"
+                      }
+                    ],
                     "bezug_msitem": [],
                     "role_to_reworked_msitem": []
                   },
@@ -14913,7 +14979,7 @@
                       "id": 86,
                       "name": "Leon Pürstinger"
                     },
-                    "Last modified": "2024-10-10",
+                    "Last modified": "2024-12-14",
                     "locus_layout": [
                       {
                         "id": 15841,
@@ -14921,7 +14987,13 @@
                         "color": "dark-green"
                       }
                     ],
-                    "function": [],
+                    "function": [
+                      {
+                        "id": 15836,
+                        "value": "inhaltsbezogen",
+                        "color": "darker-orange"
+                      }
+                    ],
                     "bezug_msitem": [],
                     "role_to_reworked_msitem": []
                   }
@@ -15041,7 +15113,7 @@
               "id": 86,
               "name": "Leon Pürstinger"
             },
-            "Last modified": "2024-10-10",
+            "Last modified": "2024-12-14",
             "locus_layout": [
               {
                 "id": 15841,
@@ -15049,7 +15121,13 @@
                 "color": "dark-green"
               }
             ],
-            "function": [],
+            "function": [
+              {
+                "id": 15836,
+                "value": "inhaltsbezogen",
+                "color": "darker-orange"
+              }
+            ],
             "bezug_msitem": [],
             "role_to_reworked_msitem": []
           }
@@ -15182,535 +15260,8 @@
     "hit_id": "hit_scribes__12",
     "description": "Schreibergruppe bestehend aus mehreren, häufig wechselnden Händen. Fertigt die Institutiones Aquisgranenses an.",
     "group": true,
-    "hands": [
-      {
-        "id": 116,
-        "label": [
-          {
-            "ids": {
-              "database_table_3487": 21,
-              "database_table_3488": 1
-            },
-            "value": "ÖNB, Cod. 2090_H. 39"
-          }
-        ],
-        "description": "",
-        "hit_id": "hit_hands__116",
-        "similar_hands": [],
-        "nr_daniel": "",
-        "manuscript": [
-          {
-            "id": 21,
-            "value": "ÖNB, Cod. 2090"
-          }
-        ],
-        "number": "39",
-        "note": "Platzhalter: Schreibergruppe, die die Institutiones Aquisgranenses in häufig wechselnden Händen anfertigt",
-        "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
-        },
-        "Last modified": "2024-12-13",
-        "hands_role": [
-          {
-            "id": 152,
-            "hit_id": "hit_hands_role__152",
-            "hand": [
-              {
-                "id": 116,
-                "value": "ÖNB, Cod. 2090_H. 39"
-              }
-            ],
-            "ms_item": [
-              {
-                "id": 148,
-                "label": [
-                  {
-                    "id": 21,
-                    "value": "cod_2090__148"
-                  }
-                ],
-                "manuscript": [
-                  {
-                    "id": 21,
-                    "shelfmark": [
-                      {
-                        "id": 1,
-                        "value": "ÖNB, Cod. 2090"
-                      }
-                    ],
-                    "hit_id": "hit_manuscript__21",
-                    "library": [
-                      {
-                        "id": 1,
-                        "value": "ÖNB"
-                      }
-                    ],
-                    "manuscripta_url": "https://manuscripta.at/?ID=5187",
-                    "handschriftenportal_url": "",
-                    "catalog_url": "http://data.onb.ac.at/rec/AC13961404",
-                    "digi_url": "http://data.onb.ac.at/dtl/8931254",
-                    "idno": "Cod. 2090",
-                    "idno_former": "Salisb. 311",
-                    "quire_structure": "TBD.\n",
-                    "library_full": [
-                      {
-                        "id": 1,
-                        "label": "ÖNB",
-                        "hit_id": "hit_org__1",
-                        "gnd_url": "https://d-nb.info/gnd/2020893-5",
-                        "library_full": "Österreichische Nationalbibliothek",
-                        "library_website": "https://www.onb.ac.at/",
-                        "settlement": [
-                          {
-                            "id": 6,
-                            "name": "Wien",
-                            "geonames_url": "https://www.geonames.org/2761369/vienna.html",
-                            "hit_id": "hit_place__6",
-                            "wikidata_url": "",
-                            "country": [
-                              {
-                                "id": 1,
-                                "value": "Österreich"
-                              }
-                            ],
-                            "Last modified by": {
-                              "id": 87,
-                              "name": "Ksenia Borisova"
-                            },
-                            "Last modified": "2024-07-09"
-                          }
-                        ],
-                        "wikidata": "",
-                        "Last modified by": {
-                          "id": 36,
-                          "name": "Ivana Dobcheva"
-                        },
-                        "Last modified": "2024-07-03"
-                      }
-                    ],
-                    "extent": "98",
-                    "foliation": "",
-                    "acc_mat": "Spiegel, spätmittelalterliches Fragment.",
-                    "binding": "Hellbrauner Ledereinband über Holzdeckeln aus Salzburg. Verzierter, gerahmter Deckel mit einem Diagonalkreuz aus doppelt gestrichenen Linien. Reste von Schließen. Auf dem Hinterdeckel sind Spuren eines Haken. Am Vorderdeckel ein Pergamentstreifen mit einer Teilinhaltsangabe.",
-                    "binding_date": [
-                      {
-                        "id": 21,
-                        "value": "um 1433"
-                      }
-                    ],
-                    "history": "Zur Zeit Erzbischofs Gebhard (1060-1088) angelegt und bis in das Episkopat Adalbert (1168-1177) weitergeführt. Die Handschrift verblieb bis zum Jahr 1806 im Besitz der Salzburger Dombibliothek und kam anschließend in die damalige Hofblibliothek.",
-                    "bibliography": [],
-                    "height": "365",
-                    "width": "260",
-                    "material_spec": "",
-                    "orig_place": [
-                      {
-                        "id": 3,
-                        "name": "Salzburg",
-                        "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
-                        "hit_id": "hit_place__3",
-                        "wikidata_url": "",
-                        "country": [
-                          {
-                            "id": 1,
-                            "name": "Österreich",
-                            "geonames_url": "https://www.geonames.org/2782113/republic-of-austria.html",
-                            "hit_id": "hit_place__1",
-                            "wikidata_url": "https://www.wikidata.org/wiki/Q40",
-                            "country": [],
-                            "Last modified by": {
-                              "id": 36,
-                              "name": "Ivana Dobcheva"
-                            },
-                            "Last modified": "2024-06-09"
-                          }
-                        ],
-                        "Last modified by": {
-                          "id": 36,
-                          "name": "Ivana Dobcheva"
-                        },
-                        "Last modified": "2024-07-11"
-                      }
-                    ],
-                    "catchwords": "",
-                    "quiremarks": "",
-                    "material": {
-                      "id": 14782,
-                      "value": "parchment",
-                      "color": "darker-orange"
-                    },
-                    "provenance": [
-                      {
-                        "id": 8,
-                        "label": "Dombibliothek Salzburg",
-                        "hit_id": "hit_org__8",
-                        "gnd_url": "https://d-nb.info/gnd/4220685-6",
-                        "library_full": "Domkapitelbibliothek Salzburg",
-                        "library_website": "",
-                        "settlement": [
-                          {
-                            "id": 3,
-                            "name": "Salzburg",
-                            "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
-                            "hit_id": "hit_place__3",
-                            "wikidata_url": "",
-                            "country": [
-                              {
-                                "id": 1,
-                                "value": "Österreich"
-                              }
-                            ],
-                            "Last modified by": {
-                              "id": 36,
-                              "name": "Ivana Dobcheva"
-                            },
-                            "Last modified": "2024-07-11"
-                          }
-                        ],
-                        "wikidata": "",
-                        "Last modified by": {
-                          "id": 86,
-                          "name": "Leon Pürstinger"
-                        },
-                        "Last modified": "2024-07-18"
-                      }
-                    ],
-                    "manuscripts_dated": [
-                      {
-                        "id": 30,
-                        "hit_id": "hit_dated__30",
-                        "manuscript": [
-                          {
-                            "id": 21,
-                            "value": "ÖNB, Cod. 2090"
-                          }
-                        ],
-                        "date": [
-                          {
-                            "id": 38,
-                            "label": "1060-1065",
-                            "not_before": "1060-04-08",
-                            "hit_id": "hit_date__38",
-                            "not_after": "1065-07-23",
-                            "Last modified by": {
-                              "id": 86,
-                              "name": "Leon Pürstinger"
-                            },
-                            "Last modified": "2024-07-26"
-                          }
-                        ],
-                        "authority": [
-                          {
-                            "id": 7,
-                            "name": "Unterkircher",
-                            "short_title": "Die datierten Handschriften der Österreichischen Nationalbibliothek bis zum Jahre 1400",
-                            "zotero_id": "",
-                            "hit_id": "hit_bibl__7"
-                          }
-                        ],
-                        "page": "47",
-                        "preferred_date": true,
-                        "Last modified by": {
-                          "id": 86,
-                          "name": "Leon Pürstinger"
-                        },
-                        "Last modified": "2024-07-26T13:28:35.850202Z",
-                        "note": ""
-                      },
-                      {
-                        "id": 31,
-                        "hit_id": "hit_dated__31",
-                        "manuscript": [
-                          {
-                            "id": 21,
-                            "value": "ÖNB, Cod. 2090"
-                          }
-                        ],
-                        "date": [
-                          {
-                            "id": 39,
-                            "label": "11. Jh., zweite Hälfte",
-                            "not_before": "1050-01-01",
-                            "hit_id": "hit_date__39",
-                            "not_after": "1099-12-31",
-                            "Last modified by": {
-                              "id": 86,
-                              "name": "Leon Pürstinger"
-                            },
-                            "Last modified": "2024-07-26"
-                          }
-                        ],
-                        "authority": [
-                          {
-                            "id": 8,
-                            "name": "Hermann",
-                            "short_title": "Die deutschen romanischen Handschriften",
-                            "zotero_id": "",
-                            "hit_id": "hit_bibl__8"
-                          }
-                        ],
-                        "page": "35",
-                        "preferred_date": false,
-                        "Last modified by": {
-                          "id": 86,
-                          "name": "Leon Pürstinger"
-                        },
-                        "Last modified": "2024-07-26T13:28:29.988028Z",
-                        "note": "\"In Salzburg in der 2. Hälfte des XI. Jahrhunderts, vermutlich zur Zeit des Erzbischofs Gebhard (1060-1088) oder des Erzbischofs Thiemo (1090-1101) geschrieben\"."
-                      }
-                    ],
-                    "orig_dated": [
-                      {
-                        "ids": {
-                          "database_table_3512": 38,
-                          "database_table_3516": 30
-                        },
-                        "value": "1060-1065"
-                      },
-                      {
-                        "ids": {
-                          "database_table_3512": 39,
-                          "database_table_3516": 31
-                        },
-                        "value": "11. Jh., zweite Hälfte"
-                      }
-                    ],
-                    "Last modified by": {
-                      "id": 86,
-                      "name": "Leon Pürstinger"
-                    },
-                    "Last modified": "2024-12-13",
-                    "content_summary": null,
-                    "charakter": [
-                      {
-                        "id": 17451,
-                        "value": "Gebrauchshandschrift",
-                        "color": "light-orange"
-                      }
-                    ],
-                    "case_study": [
-                      {
-                        "id": 17442,
-                        "value": "Salzburg",
-                        "color": "purple"
-                      }
-                    ],
-                    "status": [
-                      {
-                        "id": 17449,
-                        "value": "In Bearbeitung (?)",
-                        "color": "light-brown"
-                      }
-                    ]
-                  }
-                ],
-                "incipit": "Tonsure ęcclesiasticę usus a nazarenis",
-                "explicit": "",
-                "rubric": "Isidori in libro officiorum de tonsura",
-                "title_work": [
-                  {
-                    "id": 120,
-                    "title": "Institutiones Aquisgranenses",
-                    "gnd_url": "",
-                    "note": "",
-                    "hit_id": "hit_works__120",
-                    "author": [],
-                    "bibliography": [],
-                    "source_text": [],
-                    "genre": [],
-                    "note_source": "",
-                    "Last modified by": {
-                      "id": 86,
-                      "name": "Leon Pürstinger"
-                    },
-                    "Last modified": "2024-09-02"
-                  }
-                ],
-                "title_note": "Fortsetzung (Hauptteil)",
-                "bibl": [],
-                "final_rubric": "",
-                "siglum": "",
-                "hit_id": "hit_ms_items__148",
-                "filiation": [],
-                "locus_grp": "42r-92v",
-                "hands_role": [
-                  {
-                    "id": 152,
-                    "hit_id": "hit_hands_role__152",
-                    "hand": [
-                      {
-                        "id": 116,
-                        "value": "ÖNB, Cod. 2090_H. 39"
-                      }
-                    ],
-                    "ms_item": [
-                      {
-                        "id": 148,
-                        "value": "cod_2090__148"
-                      }
-                    ],
-                    "role": [
-                      {
-                        "id": 14758,
-                        "value": "Schreiber",
-                        "color": "darker-red"
-                      }
-                    ],
-                    "locus": "",
-                    "text": [
-                      {
-                        "ids": {
-                          "database_table_3489": 120,
-                          "database_table_3491": 148
-                        },
-                        "value": "Institutiones Aquisgranenses"
-                      }
-                    ],
-                    "locus_text": [
-                      {
-                        "id": 148,
-                        "value": "42r-92v"
-                      }
-                    ],
-                    "Last modified by": {
-                      "id": 86,
-                      "name": "Leon Pürstinger"
-                    },
-                    "Last modified": "2024-10-09",
-                    "locus_layout": [],
-                    "function": [],
-                    "bezug_msitem": [],
-                    "role_to_reworked_msitem": []
-                  }
-                ],
-                "cod_unit": [],
-                "Last modified": "2024-09-05",
-                "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
-                },
-                "note": "",
-                "hand": [
-                  {
-                    "ids": {
-                      "database_table_3487": 21,
-                      "database_table_3488": 1
-                    },
-                    "value": "ÖNB, Cod. 2090_H. 39"
-                  }
-                ],
-                "decoration": [
-                  {
-                    "id": 15102,
-                    "value": "Capitalis_Rot",
-                    "color": "darker-red"
-                  }
-                ],
-                "facs_url": "",
-                "form": [],
-                "form_note": null
-              }
-            ],
-            "role": [
-              {
-                "id": 14758,
-                "value": "Schreiber",
-                "color": "darker-red"
-              }
-            ],
-            "locus": "",
-            "text": [
-              {
-                "ids": {
-                  "database_table_3489": 120,
-                  "database_table_3491": 148
-                },
-                "value": "Institutiones Aquisgranenses"
-              }
-            ],
-            "locus_text": [
-              {
-                "id": 148,
-                "value": "42r-92v"
-              }
-            ],
-            "Last modified by": {
-              "id": 86,
-              "name": "Leon Pürstinger"
-            },
-            "Last modified": "2024-10-09",
-            "locus_layout": [],
-            "function": [],
-            "bezug_msitem": [],
-            "role_to_reworked_msitem": []
-          }
-        ],
-        "role": [
-          {
-            "id": 152,
-            "value": [
-              {
-                "id": 14758,
-                "value": "Schreiber",
-                "color": "darker-red"
-              }
-            ]
-          }
-        ],
-        "texts": [
-          {
-            "ids": {
-              "database_table_3489": 120,
-              "database_table_3491": 148
-            },
-            "value": "Institutiones Aquisgranenses"
-          }
-        ],
-        "hands_dated": [],
-        "dating": [],
-        "hands_placed": [],
-        "scribe": [
-          {
-            "id": 12,
-            "name": "ÖNB Cod. 2090_6",
-            "hit_id": "hit_scribes__12",
-            "description": "Schreibergruppe bestehend aus mehreren, häufig wechselnden Händen. Fertigt die Institutiones Aquisgranenses an.",
-            "group": true,
-            "hands": [
-              {
-                "id": 116,
-                "value": "ÖNB, Cod. 2090_H. 39"
-              }
-            ],
-            "hand": [
-              {
-                "ids": {
-                  "database_table_3487": 21,
-                  "database_table_3488": 1
-                },
-                "value": "ÖNB, Cod. 2090_H. 39"
-              }
-            ],
-            "Last modified": "2024-10-15",
-            "Last modified by": {
-              "id": 86,
-              "name": "Leon Pürstinger"
-            }
-          }
-        ],
-        "gruppe": true
-      }
-    ],
-    "hand": [
-      {
-        "ids": {
-          "database_table_3487": 21,
-          "database_table_3488": 1
-        },
-        "value": "ÖNB, Cod. 2090_H. 39"
-      }
-    ],
+    "hands": [],
+    "hand": [],
     "Last modified": "2024-10-15",
     "Last modified by": {
       "id": 86,

@@ -4121,9 +4121,9 @@
         "id": 72,
         "value": [
           {
-            "id": 15378,
-            "value": "\"Erweiterer\"",
-            "color": "darker-cyan"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       }
@@ -4204,11 +4204,6 @@
             "id": 14758,
             "value": "Schreiber",
             "color": "darker-red"
-          },
-          {
-            "id": 15378,
-            "value": "\"Erweiterer\"",
-            "color": "darker-cyan"
           }
         ]
       }
@@ -4968,9 +4963,9 @@
         "id": 88,
         "value": [
           {
-            "id": 15378,
-            "value": "\"Erweiterer\"",
-            "color": "darker-cyan"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       }
@@ -6327,11 +6322,6 @@
             "id": 14758,
             "value": "Schreiber",
             "color": "darker-red"
-          },
-          {
-            "id": 15378,
-            "value": "\"Erweiterer\"",
-            "color": "darker-cyan"
           }
         ]
       }
@@ -9162,7 +9152,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-12-13",
+    "Last modified": "2024-12-15",
     "hands_role": [
       {
         "id": 152,
@@ -9193,12 +9183,7 @@
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
-    "scribe": [
-      {
-        "id": 12,
-        "value": "ÖNB Cod. 2090_6"
-      }
-    ],
+    "scribe": [],
     "gruppe": true
   },
   "117": {
@@ -9496,6 +9481,73 @@
           "database_table_3491": 43
         },
         "value": "Capitulare evangeliorum"
+      }
+    ],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": false
+  },
+  "121": {
+    "id": 121,
+    "order": "113.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 41"
+      }
+    ],
+    "description": "Fertigt um ??? die Darstellung eines Königs an.",
+    "hit_id": "hit_hands__121",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090"
+      }
+    ],
+    "number": "41",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-12-14",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-12-14",
+    "hands_role": [
+      {
+        "id": 157,
+        "value": "hit_hands_role__157"
+      }
+    ],
+    "role": [
+      {
+        "id": 157,
+        "value": [
+          {
+            "id": 15379,
+            "value": "Illustrator",
+            "color": "darker-orange"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 120,
+          "database_table_3491": 148
+        },
+        "value": "Institutiones Aquisgranenses"
       }
     ],
     "hands_dated": [],

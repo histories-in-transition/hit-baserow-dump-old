@@ -335,21 +335,8 @@
     "hit_id": "hit_scribes__12",
     "description": "Schreibergruppe bestehend aus mehreren, häufig wechselnden Händen. Fertigt die Institutiones Aquisgranenses an.",
     "group": true,
-    "hands": [
-      {
-        "id": 116,
-        "value": "ÖNB, Cod. 2090_H. 39"
-      }
-    ],
-    "hand": [
-      {
-        "ids": {
-          "database_table_3487": 21,
-          "database_table_3488": 1
-        },
-        "value": "ÖNB, Cod. 2090_H. 39"
-      }
-    ],
+    "hands": [],
+    "hand": [],
     "Last modified": "2024-10-15",
     "Last modified by": {
       "id": 86,

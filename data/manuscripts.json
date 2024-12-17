@@ -4961,13 +4961,24 @@
     "manuscripts_dated": [],
     "orig_dated": [],
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-12-13",
+    "Last modified": "2024-12-16",
     "content_summary": null,
     "charakter": [],
-    "case_study": [],
+    "case_study": [
+      {
+        "id": 17442,
+        "value": "Salzburg",
+        "color": "purple"
+      },
+      {
+        "id": 17456,
+        "value": "Regensburg",
+        "color": "darker-orange"
+      }
+    ],
     "status": [],
     "view_label": "BSB, Clm. 210",
     "prev": {

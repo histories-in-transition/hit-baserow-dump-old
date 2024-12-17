@@ -644,14 +644,25 @@
       "name": "Ivana Dobcheva"
     },
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "Created on": "2024-06-12",
-    "Last modified": "2024-12-13",
+    "Last modified": "2024-12-16",
     "content_summary": null,
     "charakter": [],
-    "case_study": [],
+    "case_study": [
+      {
+        "id": 17442,
+        "value": "Salzburg",
+        "color": "purple"
+      },
+      {
+        "id": 17456,
+        "value": "Regensburg",
+        "color": "darker-orange"
+      }
+    ],
     "status": []
   },
   "5": {

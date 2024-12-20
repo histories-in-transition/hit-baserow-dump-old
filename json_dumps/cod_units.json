@@ -17,68 +17,83 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "quire": [
       {
         "id": 5,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 1"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 1",
+        "order": "3.00000000000000000000"
       },
       {
         "id": 7,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 2"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 2",
+        "order": "3.50000000000000000000"
       },
       {
         "id": 8,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 3"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 3",
+        "order": "4.00000000000000000000"
       },
       {
         "id": 10,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 4"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 4",
+        "order": "7.00000000000000000000"
       },
       {
         "id": 11,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 5"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 5",
+        "order": "8.00000000000000000000"
       },
       {
         "id": 12,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 6"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 6",
+        "order": "9.00000000000000000000"
       },
       {
         "id": 13,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 7"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 7",
+        "order": "10.00000000000000000000"
       },
       {
         "id": 14,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 8"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 8",
+        "order": "11.00000000000000000000"
       },
       {
         "id": 15,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 9"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 9",
+        "order": "12.00000000000000000000"
       },
       {
         "id": 16,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 10"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 10",
+        "order": "13.00000000000000000000"
       },
       {
         "id": 17,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 11"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 11",
+        "order": "14.00000000000000000000"
       },
       {
         "id": 18,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 12"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 12",
+        "order": "15.00000000000000000000"
       },
       {
         "id": 19,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 13"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 13",
+        "order": "16.00000000000000000000"
       }
     ],
     "number": "1",
     "prov_place": [
       {
         "id": 5,
-        "value": "Saint-Amand-les-Eaux"
+        "value": "Saint-Amand-les-Eaux",
+        "order": "5.00000000000000000000"
       }
     ],
     "Created by": {
@@ -91,7 +106,14 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-01",
-    "date": []
+    "date": [],
+    "quires_number": null,
+    "measures": null,
+    "lines_number": null,
+    "description": null,
+    "decorations": false,
+    "codicological reworking": [],
+    "basic structure": []
   },
   "5": {
     "id": 5,
@@ -111,44 +133,53 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "quire": [
       {
         "id": 20,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 14"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 14",
+        "order": "16.50000000000000000000"
       },
       {
         "id": 21,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 15"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 15",
+        "order": "16.66666666666666785090"
       },
       {
         "id": 22,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 16"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 16",
+        "order": "16.75000000000000000000"
       },
       {
         "id": 38,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 17"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 17",
+        "order": "16.80000000000000071054"
       },
       {
         "id": 39,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 18"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 18",
+        "order": "16.83333333333333214910"
       },
       {
         "id": 40,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 19"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 19",
+        "order": "16.85714285714285765039"
       },
       {
         "id": 41,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 20"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 20",
+        "order": "16.87500000000000000000"
       }
     ],
     "number": "2",
     "prov_place": [
       {
         "id": 3,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
       }
     ],
     "Created by": {
@@ -161,7 +192,14 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-11",
-    "date": []
+    "date": [],
+    "quires_number": null,
+    "measures": null,
+    "lines_number": null,
+    "description": null,
+    "decorations": false,
+    "codicological reworking": [],
+    "basic structure": []
   },
   "11": {
     "id": 11,
@@ -181,20 +219,23 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "quire": [
       {
         "id": 42,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 21"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 21",
+        "order": "16.88888888888888928363"
       }
     ],
     "number": "3",
     "prov_place": [
       {
         "id": 5,
-        "value": "Saint-Amand-les-Eaux"
+        "value": "Saint-Amand-les-Eaux",
+        "order": "5.00000000000000000000"
       }
     ],
     "Created by": {
@@ -207,7 +248,14 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-11",
-    "date": []
+    "date": [],
+    "quires_number": null,
+    "measures": null,
+    "lines_number": null,
+    "description": null,
+    "decorations": false,
+    "codicological reworking": [],
+    "basic structure": []
   },
   "13": {
     "id": 13,
@@ -227,24 +275,28 @@
     "manuscript": [
       {
         "id": 22,
-        "value": "ÖNB, Cod. 366"
+        "value": "ÖNB, Cod. 366",
+        "order": "1.66666666666666674068"
       }
     ],
     "quire": [
       {
         "id": 75,
-        "value": "ÖNB, Cod. 366, L. 1"
+        "value": "ÖNB, Cod. 366, L. 1",
+        "order": "69.00000000000000000000"
       },
       {
         "id": 76,
-        "value": "ÖNB, Cod. 366, L. 2"
+        "value": "ÖNB, Cod. 366, L. 2",
+        "order": "70.00000000000000000000"
       }
     ],
     "number": "1",
     "prov_place": [
       {
         "id": 3,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
       }
     ],
     "Created by": {
@@ -257,7 +309,14 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-18",
-    "date": []
+    "date": [],
+    "quires_number": null,
+    "measures": null,
+    "lines_number": null,
+    "description": null,
+    "decorations": false,
+    "codicological reworking": [],
+    "basic structure": []
   },
   "12": {
     "id": 12,
@@ -277,7 +336,8 @@
     "manuscript": [
       {
         "id": 22,
-        "value": "ÖNB, Cod. 366"
+        "value": "ÖNB, Cod. 366",
+        "order": "1.66666666666666674068"
       }
     ],
     "quire": [],
@@ -293,7 +353,14 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-18",
-    "date": []
+    "date": [],
+    "quires_number": null,
+    "measures": null,
+    "lines_number": null,
+    "description": null,
+    "decorations": false,
+    "codicological reworking": [],
+    "basic structure": []
   },
   "4": {
     "id": 4,
@@ -313,92 +380,113 @@
     "manuscript": [
       {
         "id": 6,
-        "value": "BSB, Clm. 6308"
+        "value": "BSB, Clm. 6308",
+        "order": "5.00000000000000000000"
       }
     ],
     "quire": [
       {
         "id": 56,
-        "value": "BSB, Clm. 6308, L. 1"
+        "value": "BSB, Clm. 6308, L. 1",
+        "order": "50.00000000000000000000"
       },
       {
         "id": 57,
-        "value": "BSB, Clm. 6308, L. 2"
+        "value": "BSB, Clm. 6308, L. 2",
+        "order": "51.00000000000000000000"
       },
       {
         "id": 58,
-        "value": "BSB, Clm. 6308, L. 3"
+        "value": "BSB, Clm. 6308, L. 3",
+        "order": "52.00000000000000000000"
       },
       {
         "id": 59,
-        "value": "BSB, Clm. 6308, L. 4"
+        "value": "BSB, Clm. 6308, L. 4",
+        "order": "53.00000000000000000000"
       },
       {
         "id": 60,
-        "value": "BSB, Clm. 6308, L. 5"
+        "value": "BSB, Clm. 6308, L. 5",
+        "order": "54.00000000000000000000"
       },
       {
         "id": 61,
-        "value": "BSB, Clm. 6308, L. 6"
+        "value": "BSB, Clm. 6308, L. 6",
+        "order": "55.00000000000000000000"
       },
       {
         "id": 62,
-        "value": "BSB, Clm. 6308, L. 7"
+        "value": "BSB, Clm. 6308, L. 7",
+        "order": "56.00000000000000000000"
       },
       {
         "id": 63,
-        "value": "BSB, Clm. 6308, L. 8"
+        "value": "BSB, Clm. 6308, L. 8",
+        "order": "57.00000000000000000000"
       },
       {
         "id": 64,
-        "value": "BSB, Clm. 6308, L. 9"
+        "value": "BSB, Clm. 6308, L. 9",
+        "order": "58.00000000000000000000"
       },
       {
         "id": 65,
-        "value": "BSB, Clm. 6308, L. 10"
+        "value": "BSB, Clm. 6308, L. 10",
+        "order": "59.00000000000000000000"
       },
       {
         "id": 66,
-        "value": "BSB, Clm. 6308, L. 11"
+        "value": "BSB, Clm. 6308, L. 11",
+        "order": "60.00000000000000000000"
       },
       {
         "id": 67,
-        "value": "BSB, Clm. 6308, L. 12"
+        "value": "BSB, Clm. 6308, L. 12",
+        "order": "61.00000000000000000000"
       },
       {
         "id": 68,
-        "value": "BSB, Clm. 6308, L. 13"
+        "value": "BSB, Clm. 6308, L. 13",
+        "order": "62.00000000000000000000"
       },
       {
         "id": 69,
-        "value": "BSB, Clm. 6308, L. 14"
+        "value": "BSB, Clm. 6308, L. 14",
+        "order": "63.00000000000000000000"
       },
       {
         "id": 70,
-        "value": "BSB, Clm. 6308, L. 15"
+        "value": "BSB, Clm. 6308, L. 15",
+        "order": "64.00000000000000000000"
       },
       {
         "id": 71,
-        "value": "BSB, Clm. 6308, L. 16"
+        "value": "BSB, Clm. 6308, L. 16",
+        "order": "65.00000000000000000000"
       },
       {
         "id": 72,
-        "value": "BSB, Clm. 6308, L. 17"
+        "value": "BSB, Clm. 6308, L. 17",
+        "order": "66.00000000000000000000"
       },
       {
         "id": 73,
-        "value": "BSB, Clm. 6308, L. 18"
+        "value": "BSB, Clm. 6308, L. 18",
+        "order": "67.00000000000000000000"
       },
       {
         "id": 74,
-        "value": "BSB, Clm. 6308, L. 19"
+        "value": "BSB, Clm. 6308, L. 19",
+        "order": "68.00000000000000000000"
       }
     ],
     "number": "1",
     "prov_place": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       }
     ],
     "Created by": {
@@ -411,7 +499,14 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-18",
-    "date": []
+    "date": [],
+    "quires_number": null,
+    "measures": null,
+    "lines_number": null,
+    "description": null,
+    "decorations": false,
+    "codicological reworking": [],
+    "basic structure": []
   },
   "6": {
     "id": 6,
@@ -431,7 +526,8 @@
     "manuscript": [
       {
         "id": 12,
-        "value": "BSB, Clm. 6388"
+        "value": "BSB, Clm. 6388",
+        "order": "11.00000000000000000000"
       }
     ],
     "quire": [],
@@ -439,7 +535,8 @@
     "prov_place": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       }
     ],
     "Created by": {
@@ -452,7 +549,14 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-08",
-    "date": []
+    "date": [],
+    "quires_number": null,
+    "measures": null,
+    "lines_number": null,
+    "description": null,
+    "decorations": false,
+    "codicological reworking": [],
+    "basic structure": []
   },
   "8": {
     "id": 8,
@@ -472,7 +576,8 @@
     "manuscript": [
       {
         "id": 12,
-        "value": "BSB, Clm. 6388"
+        "value": "BSB, Clm. 6388",
+        "order": "11.00000000000000000000"
       }
     ],
     "quire": [],
@@ -480,7 +585,8 @@
     "prov_place": [
       {
         "id": 9,
-        "value": "Norditalien"
+        "value": "Norditalien",
+        "order": "9.00000000000000000000"
       }
     ],
     "Created by": {
@@ -493,7 +599,14 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-08",
-    "date": []
+    "date": [],
+    "quires_number": null,
+    "measures": null,
+    "lines_number": null,
+    "description": null,
+    "decorations": false,
+    "codicological reworking": [],
+    "basic structure": []
   },
   "9": {
     "id": 9,
@@ -513,7 +626,8 @@
     "manuscript": [
       {
         "id": 12,
-        "value": "BSB, Clm. 6388"
+        "value": "BSB, Clm. 6388",
+        "order": "11.00000000000000000000"
       }
     ],
     "quire": [],
@@ -521,7 +635,8 @@
     "prov_place": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       }
     ],
     "Created by": {
@@ -534,7 +649,14 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-08",
-    "date": []
+    "date": [],
+    "quires_number": null,
+    "measures": null,
+    "lines_number": null,
+    "description": null,
+    "decorations": false,
+    "codicological reworking": [],
+    "basic structure": []
   },
   "10": {
     "id": 10,
@@ -554,84 +676,103 @@
     "manuscript": [
       {
         "id": 5,
-        "value": "BSB, Clm. 6326"
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
       }
     ],
     "quire": [
       {
         "id": 6,
-        "value": "BSB, Clm. 6326, L. 1"
+        "value": "BSB, Clm. 6326, L. 1",
+        "order": "17.00000000000000000000"
       },
       {
         "id": 9,
-        "value": "BSB, Clm. 6326, L. 2"
+        "value": "BSB, Clm. 6326, L. 2",
+        "order": "18.00000000000000000000"
       },
       {
         "id": 23,
-        "value": "BSB, Clm. 6326, L. 3"
+        "value": "BSB, Clm. 6326, L. 3",
+        "order": "22.00000000000000000000"
       },
       {
         "id": 24,
-        "value": "BSB, Clm. 6326, L. 4"
+        "value": "BSB, Clm. 6326, L. 4",
+        "order": "23.00000000000000000000"
       },
       {
         "id": 25,
-        "value": "BSB, Clm. 6326, L. 5"
+        "value": "BSB, Clm. 6326, L. 5",
+        "order": "24.00000000000000000000"
       },
       {
         "id": 37,
-        "value": "BSB, Clm. 6326, L. 6"
+        "value": "BSB, Clm. 6326, L. 6",
+        "order": "24.50000000000000000000"
       },
       {
         "id": 26,
-        "value": "BSB, Clm. 6326, L. 7"
+        "value": "BSB, Clm. 6326, L. 7",
+        "order": "25.00000000000000000000"
       },
       {
         "id": 27,
-        "value": "BSB, Clm. 6326, L. 8"
+        "value": "BSB, Clm. 6326, L. 8",
+        "order": "26.00000000000000000000"
       },
       {
         "id": 28,
-        "value": "BSB, Clm. 6326, L. 9"
+        "value": "BSB, Clm. 6326, L. 9",
+        "order": "27.00000000000000000000"
       },
       {
         "id": 29,
-        "value": "BSB, Clm. 6326, L. 10"
+        "value": "BSB, Clm. 6326, L. 10",
+        "order": "28.00000000000000000000"
       },
       {
         "id": 30,
-        "value": "BSB, Clm. 6326, L. 11"
+        "value": "BSB, Clm. 6326, L. 11",
+        "order": "29.00000000000000000000"
       },
       {
         "id": 31,
-        "value": "BSB, Clm. 6326, L. 12"
+        "value": "BSB, Clm. 6326, L. 12",
+        "order": "30.00000000000000000000"
       },
       {
         "id": 32,
-        "value": "BSB, Clm. 6326, L. 13"
+        "value": "BSB, Clm. 6326, L. 13",
+        "order": "31.00000000000000000000"
       },
       {
         "id": 33,
-        "value": "BSB, Clm. 6326, L. 14"
+        "value": "BSB, Clm. 6326, L. 14",
+        "order": "32.00000000000000000000"
       },
       {
         "id": 34,
-        "value": "BSB, Clm. 6326, L. 15"
+        "value": "BSB, Clm. 6326, L. 15",
+        "order": "33.00000000000000000000"
       },
       {
         "id": 35,
-        "value": "BSB, Clm. 6326, L. 16"
+        "value": "BSB, Clm. 6326, L. 16",
+        "order": "34.00000000000000000000"
       },
       {
         "id": 36,
-        "value": "BSB, Clm. 6326, L. 17"
+        "value": "BSB, Clm. 6326, L. 17",
+        "order": "35.00000000000000000000"
       }
     ],
     "number": "1",
     "prov_place": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       }
     ],
     "Created by": {
@@ -643,17 +784,26 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-17",
+    "Last modified": "2024-12-18",
     "date": [
       {
         "id": 4,
-        "value": "10 Jh., Mitte"
+        "value": "10 Jh., Mitte",
+        "order": "4.00000000000000000000"
       },
       {
         "id": 5,
-        "value": "10 Jh., zweite Hälfte"
+        "value": "10 Jh., zweite Hälfte",
+        "order": "5.00000000000000000000"
       }
-    ]
+    ],
+    "quires_number": null,
+    "measures": "195x165, Schreibraum 155x115",
+    "lines_number": null,
+    "description": null,
+    "decorations": false,
+    "codicological reworking": [],
+    "basic structure": []
   },
   "14": {
     "id": 14,
@@ -673,100 +823,123 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "quire": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387, L. 1"
+        "value": "ÖNB, Cod. 387, L. 1",
+        "order": "1.00000000000000000000"
       },
       {
         "id": 77,
-        "value": "ÖNB, Cod. 387, L. 2"
+        "value": "ÖNB, Cod. 387, L. 2",
+        "order": "71.00000000000000000000"
       },
       {
         "id": 82,
-        "value": "ÖNB, Cod. 387, L. 3"
+        "value": "ÖNB, Cod. 387, L. 3",
+        "order": "76.00000000000000000000"
       },
       {
         "id": 83,
-        "value": "ÖNB, Cod. 387, L. 4"
+        "value": "ÖNB, Cod. 387, L. 4",
+        "order": "77.00000000000000000000"
       },
       {
         "id": 84,
-        "value": "ÖNB, Cod. 387, L. 5"
+        "value": "ÖNB, Cod. 387, L. 5",
+        "order": "78.00000000000000000000"
       },
       {
         "id": 85,
-        "value": "ÖNB, Cod. 387, L. 6"
+        "value": "ÖNB, Cod. 387, L. 6",
+        "order": "79.00000000000000000000"
       },
       {
         "id": 86,
-        "value": "ÖNB, Cod. 387, L. 7"
+        "value": "ÖNB, Cod. 387, L. 7",
+        "order": "80.00000000000000000000"
       },
       {
         "id": 87,
-        "value": "ÖNB, Cod. 387, L. 8"
+        "value": "ÖNB, Cod. 387, L. 8",
+        "order": "81.00000000000000000000"
       },
       {
         "id": 88,
-        "value": "ÖNB, Cod. 387, L. 9"
+        "value": "ÖNB, Cod. 387, L. 9",
+        "order": "82.00000000000000000000"
       },
       {
         "id": 89,
-        "value": "ÖNB, Cod. 387, L. 10"
+        "value": "ÖNB, Cod. 387, L. 10",
+        "order": "83.00000000000000000000"
       },
       {
         "id": 90,
-        "value": "ÖNB, Cod. 387, L. 11"
+        "value": "ÖNB, Cod. 387, L. 11",
+        "order": "84.00000000000000000000"
       },
       {
         "id": 91,
-        "value": "ÖNB, Cod. 387, L. 12"
+        "value": "ÖNB, Cod. 387, L. 12",
+        "order": "85.00000000000000000000"
       },
       {
         "id": 92,
-        "value": "ÖNB, Cod. 387, L. 13"
+        "value": "ÖNB, Cod. 387, L. 13",
+        "order": "86.00000000000000000000"
       },
       {
         "id": 93,
-        "value": "ÖNB, Cod. 387, L. 14"
+        "value": "ÖNB, Cod. 387, L. 14",
+        "order": "87.00000000000000000000"
       },
       {
         "id": 94,
-        "value": "ÖNB, Cod. 387, L. 15"
+        "value": "ÖNB, Cod. 387, L. 15",
+        "order": "88.00000000000000000000"
       },
       {
         "id": 95,
-        "value": "ÖNB, Cod. 387, L. 16"
+        "value": "ÖNB, Cod. 387, L. 16",
+        "order": "89.00000000000000000000"
       },
       {
         "id": 96,
-        "value": "ÖNB, Cod. 387, L. 17"
+        "value": "ÖNB, Cod. 387, L. 17",
+        "order": "90.00000000000000000000"
       },
       {
         "id": 97,
-        "value": "ÖNB, Cod. 387, L. 18"
+        "value": "ÖNB, Cod. 387, L. 18",
+        "order": "91.00000000000000000000"
       },
       {
         "id": 99,
-        "value": "ÖNB, Cod. 387, L. 19"
+        "value": "ÖNB, Cod. 387, L. 19",
+        "order": "93.00000000000000000000"
       },
       {
         "id": 100,
-        "value": "ÖNB, Cod. 387, L. 20"
+        "value": "ÖNB, Cod. 387, L. 20",
+        "order": "94.00000000000000000000"
       },
       {
         "id": 101,
-        "value": "ÖNB, Cod. 387, L. 21"
+        "value": "ÖNB, Cod. 387, L. 21",
+        "order": "95.00000000000000000000"
       }
     ],
     "number": "1",
     "prov_place": [
       {
         "id": 3,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
       }
     ],
     "Created by": {
@@ -779,7 +952,14 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-26",
-    "date": []
+    "date": [],
+    "quires_number": null,
+    "measures": null,
+    "lines_number": null,
+    "description": null,
+    "decorations": false,
+    "codicological reworking": [],
+    "basic structure": []
   },
   "15": {
     "id": 15,
@@ -799,7 +979,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "quire": [],
@@ -807,7 +988,8 @@
     "prov_place": [
       {
         "id": 3,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
       }
     ],
     "Created by": {
@@ -820,7 +1002,14 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-26",
-    "date": []
+    "date": [],
+    "quires_number": null,
+    "measures": null,
+    "lines_number": null,
+    "description": null,
+    "decorations": false,
+    "codicological reworking": [],
+    "basic structure": []
   },
   "16": {
     "id": 16,
@@ -840,7 +1029,8 @@
     "manuscript": [
       {
         "id": 7,
-        "value": "BSB, Clm. 6380"
+        "value": "BSB, Clm. 6380",
+        "order": "6.00000000000000000000"
       }
     ],
     "quire": [],
@@ -848,7 +1038,8 @@
     "prov_place": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       }
     ],
     "Created by": {
@@ -861,7 +1052,14 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-11-13",
-    "date": []
+    "date": [],
+    "quires_number": null,
+    "measures": null,
+    "lines_number": null,
+    "description": null,
+    "decorations": false,
+    "codicological reworking": [],
+    "basic structure": []
   },
   "17": {
     "id": 17,
@@ -881,7 +1079,8 @@
     "manuscript": [
       {
         "id": 9,
-        "value": "BSB, Clm. 6381"
+        "value": "BSB, Clm. 6381",
+        "order": "8.00000000000000000000"
       }
     ],
     "quire": [],
@@ -889,7 +1088,8 @@
     "prov_place": [
       {
         "id": 11,
-        "value": "Benediktbeuern"
+        "value": "Benediktbeuern",
+        "order": "11.00000000000000000000"
       }
     ],
     "Created by": {
@@ -902,7 +1102,14 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-19",
-    "date": []
+    "date": [],
+    "quires_number": null,
+    "measures": null,
+    "lines_number": null,
+    "description": null,
+    "decorations": false,
+    "codicological reworking": [],
+    "basic structure": []
   },
   "18": {
     "id": 18,
@@ -922,7 +1129,8 @@
     "manuscript": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6382"
+        "value": "BSB, Clm. 6382",
+        "order": "9.00000000000000000000"
       }
     ],
     "quire": [],
@@ -930,7 +1138,8 @@
     "prov_place": [
       {
         "id": 17,
-        "value": "Reims"
+        "value": "Reims",
+        "order": "15.00000000000000000000"
       }
     ],
     "Created by": {
@@ -943,7 +1152,14 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-19",
-    "date": []
+    "date": [],
+    "quires_number": null,
+    "measures": null,
+    "lines_number": null,
+    "description": null,
+    "decorations": false,
+    "codicological reworking": [],
+    "basic structure": []
   },
   "19": {
     "id": 19,
@@ -963,7 +1179,8 @@
     "manuscript": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6382"
+        "value": "BSB, Clm. 6382",
+        "order": "9.00000000000000000000"
       }
     ],
     "quire": [],
@@ -971,7 +1188,8 @@
     "prov_place": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       }
     ],
     "Created by": {
@@ -984,7 +1202,14 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-11-13",
-    "date": []
+    "date": [],
+    "quires_number": null,
+    "measures": null,
+    "lines_number": null,
+    "description": null,
+    "decorations": false,
+    "codicological reworking": [],
+    "basic structure": []
   },
   "20": {
     "id": 20,
@@ -1004,7 +1229,8 @@
     "manuscript": [
       {
         "id": 11,
-        "value": "BSB, Clm. 6383"
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
       }
     ],
     "quire": [],
@@ -1012,7 +1238,8 @@
     "prov_place": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       }
     ],
     "Created by": {
@@ -1025,7 +1252,14 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-11-13",
-    "date": []
+    "date": [],
+    "quires_number": null,
+    "measures": null,
+    "lines_number": null,
+    "description": null,
+    "decorations": false,
+    "codicological reworking": [],
+    "basic structure": []
   },
   "21": {
     "id": 21,
@@ -1045,7 +1279,8 @@
     "manuscript": [
       {
         "id": 19,
-        "value": "BSB, Clm. 6341"
+        "value": "BSB, Clm. 6341",
+        "order": "18.00000000000000000000"
       }
     ],
     "quire": [],
@@ -1053,7 +1288,8 @@
     "prov_place": [
       {
         "id": 12,
-        "value": "Bodensee"
+        "value": "Bodensee",
+        "order": "12.00000000000000000000"
       }
     ],
     "Created by": {
@@ -1066,7 +1302,14 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-28",
-    "date": []
+    "date": [],
+    "quires_number": null,
+    "measures": null,
+    "lines_number": null,
+    "description": null,
+    "decorations": false,
+    "codicological reworking": [],
+    "basic structure": []
   },
   "22": {
     "id": 22,
@@ -1086,7 +1329,8 @@
     "manuscript": [
       {
         "id": 19,
-        "value": "BSB, Clm. 6341"
+        "value": "BSB, Clm. 6341",
+        "order": "18.00000000000000000000"
       }
     ],
     "quire": [],
@@ -1094,7 +1338,8 @@
     "prov_place": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       }
     ],
     "Created by": {
@@ -1107,7 +1352,14 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-28",
-    "date": []
+    "date": [],
+    "quires_number": null,
+    "measures": null,
+    "lines_number": null,
+    "description": null,
+    "decorations": false,
+    "codicological reworking": [],
+    "basic structure": []
   },
   "23": {
     "id": 23,
@@ -1127,7 +1379,8 @@
     "manuscript": [
       {
         "id": 15,
-        "value": "BSB, Clm. 6393"
+        "value": "BSB, Clm. 6393",
+        "order": "14.00000000000000000000"
       }
     ],
     "quire": [],
@@ -1135,7 +1388,8 @@
     "prov_place": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       }
     ],
     "Created by": {
@@ -1148,7 +1402,14 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-28",
-    "date": []
+    "date": [],
+    "quires_number": null,
+    "measures": null,
+    "lines_number": null,
+    "description": null,
+    "decorations": false,
+    "codicological reworking": [],
+    "basic structure": []
   },
   "24": {
     "id": 24,
@@ -1168,7 +1429,8 @@
     "manuscript": [
       {
         "id": 13,
-        "value": "BSB, Clm. 6391"
+        "value": "BSB, Clm. 6391",
+        "order": "12.00000000000000000000"
       }
     ],
     "quire": [],
@@ -1176,7 +1438,8 @@
     "prov_place": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       }
     ],
     "Created by": {
@@ -1189,7 +1452,14 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-28",
-    "date": []
+    "date": [],
+    "quires_number": null,
+    "measures": null,
+    "lines_number": null,
+    "description": null,
+    "decorations": false,
+    "codicological reworking": [],
+    "basic structure": []
   },
   "25": {
     "id": 25,
@@ -1209,7 +1479,8 @@
     "manuscript": [
       {
         "id": 14,
-        "value": "BSB, Clm. 6392"
+        "value": "BSB, Clm. 6392",
+        "order": "13.00000000000000000000"
       }
     ],
     "quire": [],
@@ -1217,7 +1488,8 @@
     "prov_place": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       }
     ],
     "Created by": {
@@ -1230,7 +1502,14 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-28",
-    "date": []
+    "date": [],
+    "quires_number": null,
+    "measures": null,
+    "lines_number": null,
+    "description": null,
+    "decorations": false,
+    "codicological reworking": [],
+    "basic structure": []
   },
   "26": {
     "id": 26,
@@ -1250,7 +1529,8 @@
     "manuscript": [
       {
         "id": 17,
-        "value": "BSB, Clm. 1086"
+        "value": "BSB, Clm. 1086",
+        "order": "16.00000000000000000000"
       }
     ],
     "quire": [],
@@ -1258,7 +1538,8 @@
     "prov_place": [
       {
         "id": 10,
-        "value": "Bistum Eichstätt"
+        "value": "Bistum Eichstätt",
+        "order": "10.00000000000000000000"
       }
     ],
     "Created by": {
@@ -1271,7 +1552,14 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-11-13",
-    "date": []
+    "date": [],
+    "quires_number": null,
+    "measures": null,
+    "lines_number": null,
+    "description": null,
+    "decorations": false,
+    "codicological reworking": [],
+    "basic structure": []
   },
   "27": {
     "id": 27,
@@ -1291,7 +1579,8 @@
     "manuscript": [
       {
         "id": 8,
-        "value": "BSB, Clm. 6375"
+        "value": "BSB, Clm. 6375",
+        "order": "7.00000000000000000000"
       }
     ],
     "quire": [],
@@ -1299,7 +1588,8 @@
     "prov_place": [
       {
         "id": 18,
-        "value": "Südbayern"
+        "value": "Südbayern",
+        "order": "16.00000000000000000000"
       }
     ],
     "Created by": {
@@ -1312,7 +1602,14 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-11-13",
-    "date": []
+    "date": [],
+    "quires_number": null,
+    "measures": null,
+    "lines_number": null,
+    "description": null,
+    "decorations": false,
+    "codicological reworking": [],
+    "basic structure": []
   },
   "28": {
     "id": 28,
@@ -1332,7 +1629,8 @@
     "manuscript": [
       {
         "id": 16,
-        "value": "BSB, Clm. 6376"
+        "value": "BSB, Clm. 6376",
+        "order": "15.00000000000000000000"
       }
     ],
     "quire": [],
@@ -1340,7 +1638,8 @@
     "prov_place": [
       {
         "id": 19,
-        "value": "Regensburg"
+        "value": "Regensburg",
+        "order": "17.00000000000000000000"
       }
     ],
     "Created by": {
@@ -1353,7 +1652,14 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-11-13",
-    "date": []
+    "date": [],
+    "quires_number": null,
+    "measures": null,
+    "lines_number": null,
+    "description": null,
+    "decorations": false,
+    "codicological reworking": [],
+    "basic structure": []
   },
   "29": {
     "id": 29,
@@ -1373,7 +1679,8 @@
     "manuscript": [
       {
         "id": 4,
-        "value": "BSB, Clm. 210"
+        "value": "BSB, Clm. 210",
+        "order": "3.00000000000000000000"
       }
     ],
     "quire": [],
@@ -1381,7 +1688,8 @@
     "prov_place": [
       {
         "id": 3,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
       }
     ],
     "Created by": {
@@ -1394,6 +1702,13 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-11-13",
-    "date": []
+    "date": [],
+    "quires_number": null,
+    "measures": null,
+    "lines_number": null,
+    "description": null,
+    "decorations": false,
+    "codicological reworking": [],
+    "basic structure": []
   }
 }

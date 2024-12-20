@@ -18,7 +18,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "number": "1",
@@ -26,27 +27,33 @@
     "hand_role": [
       {
         "id": 3,
-        "value": "hit_hands_role__3"
+        "value": "hit_hands_role__3",
+        "order": "3.00000000000000000000"
       },
       {
         "id": 17,
-        "value": "hit_hands_role__17"
+        "value": "hit_hands_role__17",
+        "order": "9.00000000000000000000"
       },
       {
         "id": 18,
-        "value": "hit_hands_role__18"
+        "value": "hit_hands_role__18",
+        "order": "10.00000000000000000000"
       },
       {
         "id": 19,
-        "value": "hit_hands_role__19"
+        "value": "hit_hands_role__19",
+        "order": "11.00000000000000000000"
       },
       {
         "id": 20,
-        "value": "hit_hands_role__20"
+        "value": "hit_hands_role__20",
+        "order": "12.00000000000000000000"
       },
       {
         "id": 24,
-        "value": "hit_hands_role__24"
+        "value": "hit_hands_role__24",
+        "order": "16.00000000000000000000"
       }
     ],
     "ms_items": [
@@ -96,55 +103,68 @@
     "quires": [
       {
         "id": 5,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 1"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 1",
+        "order": "3.00000000000000000000"
       },
       {
         "id": 7,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 2"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 2",
+        "order": "3.50000000000000000000"
       },
       {
         "id": 8,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 3"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 3",
+        "order": "4.00000000000000000000"
       },
       {
         "id": 10,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 4"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 4",
+        "order": "7.00000000000000000000"
       },
       {
         "id": 11,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 5"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 5",
+        "order": "8.00000000000000000000"
       },
       {
         "id": 12,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 6"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 6",
+        "order": "9.00000000000000000000"
       },
       {
         "id": 13,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 7"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 7",
+        "order": "10.00000000000000000000"
       },
       {
         "id": 14,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 8"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 8",
+        "order": "11.00000000000000000000"
       },
       {
         "id": 15,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 9"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 9",
+        "order": "12.00000000000000000000"
       },
       {
         "id": 16,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 10"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 10",
+        "order": "13.00000000000000000000"
       },
       {
         "id": 17,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 11"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 11",
+        "order": "14.00000000000000000000"
       },
       {
         "id": 18,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 12"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 12",
+        "order": "15.00000000000000000000"
       },
       {
         "id": 19,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 13"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 13",
+        "order": "16.00000000000000000000"
       }
     ],
     "locus": [
@@ -204,7 +224,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "number": "2",
@@ -212,23 +233,28 @@
     "hand_role": [
       {
         "id": 6,
-        "value": "hit_hands_role__6"
+        "value": "hit_hands_role__6",
+        "order": "1.50000000000000000000"
       },
       {
         "id": 14,
-        "value": "hit_hands_role__14"
+        "value": "hit_hands_role__14",
+        "order": "1.60000000000000008882"
       },
       {
         "id": 4,
-        "value": "hit_hands_role__4"
+        "value": "hit_hands_role__4",
+        "order": "1.66666666666666674068"
       },
       {
         "id": 11,
-        "value": "hit_hands_role__11"
+        "value": "hit_hands_role__11",
+        "order": "5.00000000000000000000"
       },
       {
         "id": 16,
-        "value": "hit_hands_role__16"
+        "value": "hit_hands_role__16",
+        "order": "8.00000000000000000000"
       }
     ],
     "ms_items": [
@@ -271,15 +297,18 @@
     "quires": [
       {
         "id": 5,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 1"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 1",
+        "order": "3.00000000000000000000"
       },
       {
         "id": 7,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 2"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 2",
+        "order": "3.50000000000000000000"
       },
       {
         "id": 8,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 3"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 3",
+        "order": "4.00000000000000000000"
       }
     ],
     "locus": [
@@ -340,7 +369,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "number": "3",
@@ -348,7 +378,8 @@
     "hand_role": [
       {
         "id": 22,
-        "value": "hit_hands_role__22"
+        "value": "hit_hands_role__22",
+        "order": "14.00000000000000000000"
       }
     ],
     "ms_items": [
@@ -363,31 +394,38 @@
     "quires": [
       {
         "id": 20,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 14"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 14",
+        "order": "16.50000000000000000000"
       },
       {
         "id": 21,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 15"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 15",
+        "order": "16.66666666666666785090"
       },
       {
         "id": 22,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 16"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 16",
+        "order": "16.75000000000000000000"
       },
       {
         "id": 38,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 17"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 17",
+        "order": "16.80000000000000071054"
       },
       {
         "id": 39,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 18"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 18",
+        "order": "16.83333333333333214910"
       },
       {
         "id": 40,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 19"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 19",
+        "order": "16.85714285714285765039"
       },
       {
         "id": 41,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 20"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 20",
+        "order": "16.87500000000000000000"
       }
     ],
     "locus": [
@@ -432,7 +470,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "number": "4",
@@ -440,11 +479,13 @@
     "hand_role": [
       {
         "id": 21,
-        "value": "hit_hands_role__21"
+        "value": "hit_hands_role__21",
+        "order": "13.00000000000000000000"
       },
       {
         "id": 23,
-        "value": "hit_hands_role__23"
+        "value": "hit_hands_role__23",
+        "order": "15.00000000000000000000"
       }
     ],
     "ms_items": [
@@ -466,7 +507,8 @@
     "quires": [
       {
         "id": 42,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 21"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 21",
+        "order": "16.88888888888888928363"
       }
     ],
     "locus": [
@@ -510,7 +552,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "number": "5",
@@ -518,15 +561,18 @@
     "hand_role": [
       {
         "id": 32,
-        "value": "hit_hands_role__32"
+        "value": "hit_hands_role__32",
+        "order": "24.00000000000000000000"
       },
       {
         "id": 33,
-        "value": "hit_hands_role__33"
+        "value": "hit_hands_role__33",
+        "order": "25.00000000000000000000"
       },
       {
         "id": 34,
-        "value": "hit_hands_role__34"
+        "value": "hit_hands_role__34",
+        "order": "26.00000000000000000000"
       }
     ],
     "ms_items": [
@@ -555,11 +601,13 @@
     "quires": [
       {
         "id": 8,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 3"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 3",
+        "order": "4.00000000000000000000"
       },
       {
         "id": 20,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 14"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 14",
+        "order": "16.50000000000000000000"
       }
     ],
     "locus": [
@@ -607,7 +655,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "number": "6",
@@ -615,11 +664,13 @@
     "hand_role": [
       {
         "id": 25,
-        "value": "hit_hands_role__25"
+        "value": "hit_hands_role__25",
+        "order": "17.00000000000000000000"
       },
       {
         "id": 31,
-        "value": "hit_hands_role__31"
+        "value": "hit_hands_role__31",
+        "order": "23.00000000000000000000"
       }
     ],
     "ms_items": [
@@ -641,11 +692,13 @@
     "quires": [
       {
         "id": 5,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 1"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 1",
+        "order": "3.00000000000000000000"
       },
       {
         "id": 42,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 21"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 21",
+        "order": "16.88888888888888928363"
       }
     ],
     "locus": [
@@ -694,7 +747,8 @@
     "manuscript": [
       {
         "id": 5,
-        "value": "BSB, Clm. 6326"
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
       }
     ],
     "number": "1",
@@ -702,7 +756,8 @@
     "hand_role": [
       {
         "id": 121,
-        "value": "hit_hands_role__121"
+        "value": "hit_hands_role__121",
+        "order": "107.00000000000000000000"
       }
     ],
     "ms_items": [
@@ -773,71 +828,88 @@
     "quires": [
       {
         "id": 6,
-        "value": "BSB, Clm. 6326, L. 1"
+        "value": "BSB, Clm. 6326, L. 1",
+        "order": "17.00000000000000000000"
       },
       {
         "id": 9,
-        "value": "BSB, Clm. 6326, L. 2"
+        "value": "BSB, Clm. 6326, L. 2",
+        "order": "18.00000000000000000000"
       },
       {
         "id": 23,
-        "value": "BSB, Clm. 6326, L. 3"
+        "value": "BSB, Clm. 6326, L. 3",
+        "order": "22.00000000000000000000"
       },
       {
         "id": 24,
-        "value": "BSB, Clm. 6326, L. 4"
+        "value": "BSB, Clm. 6326, L. 4",
+        "order": "23.00000000000000000000"
       },
       {
         "id": 25,
-        "value": "BSB, Clm. 6326, L. 5"
+        "value": "BSB, Clm. 6326, L. 5",
+        "order": "24.00000000000000000000"
       },
       {
         "id": 37,
-        "value": "BSB, Clm. 6326, L. 6"
+        "value": "BSB, Clm. 6326, L. 6",
+        "order": "24.50000000000000000000"
       },
       {
         "id": 26,
-        "value": "BSB, Clm. 6326, L. 7"
+        "value": "BSB, Clm. 6326, L. 7",
+        "order": "25.00000000000000000000"
       },
       {
         "id": 27,
-        "value": "BSB, Clm. 6326, L. 8"
+        "value": "BSB, Clm. 6326, L. 8",
+        "order": "26.00000000000000000000"
       },
       {
         "id": 28,
-        "value": "BSB, Clm. 6326, L. 9"
+        "value": "BSB, Clm. 6326, L. 9",
+        "order": "27.00000000000000000000"
       },
       {
         "id": 29,
-        "value": "BSB, Clm. 6326, L. 10"
+        "value": "BSB, Clm. 6326, L. 10",
+        "order": "28.00000000000000000000"
       },
       {
         "id": 30,
-        "value": "BSB, Clm. 6326, L. 11"
+        "value": "BSB, Clm. 6326, L. 11",
+        "order": "29.00000000000000000000"
       },
       {
         "id": 31,
-        "value": "BSB, Clm. 6326, L. 12"
+        "value": "BSB, Clm. 6326, L. 12",
+        "order": "30.00000000000000000000"
       },
       {
         "id": 32,
-        "value": "BSB, Clm. 6326, L. 13"
+        "value": "BSB, Clm. 6326, L. 13",
+        "order": "31.00000000000000000000"
       },
       {
         "id": 33,
-        "value": "BSB, Clm. 6326, L. 14"
+        "value": "BSB, Clm. 6326, L. 14",
+        "order": "32.00000000000000000000"
       },
       {
         "id": 34,
-        "value": "BSB, Clm. 6326, L. 15"
+        "value": "BSB, Clm. 6326, L. 15",
+        "order": "33.00000000000000000000"
       },
       {
         "id": 35,
-        "value": "BSB, Clm. 6326, L. 16"
+        "value": "BSB, Clm. 6326, L. 16",
+        "order": "34.00000000000000000000"
       },
       {
         "id": 36,
-        "value": "BSB, Clm. 6326, L. 17"
+        "value": "BSB, Clm. 6326, L. 17",
+        "order": "35.00000000000000000000"
       }
     ],
     "locus": [
@@ -909,7 +981,8 @@
     "manuscript": [
       {
         "id": 6,
-        "value": "BSB, Clm. 6308"
+        "value": "BSB, Clm. 6308",
+        "order": "5.00000000000000000000"
       }
     ],
     "number": "1",
@@ -917,7 +990,8 @@
     "hand_role": [
       {
         "id": 36,
-        "value": "hit_hands_role__36"
+        "value": "hit_hands_role__36",
+        "order": "28.00000000000000000000"
       }
     ],
     "ms_items": [
@@ -932,79 +1006,98 @@
     "quires": [
       {
         "id": 56,
-        "value": "BSB, Clm. 6308, L. 1"
+        "value": "BSB, Clm. 6308, L. 1",
+        "order": "50.00000000000000000000"
       },
       {
         "id": 57,
-        "value": "BSB, Clm. 6308, L. 2"
+        "value": "BSB, Clm. 6308, L. 2",
+        "order": "51.00000000000000000000"
       },
       {
         "id": 58,
-        "value": "BSB, Clm. 6308, L. 3"
+        "value": "BSB, Clm. 6308, L. 3",
+        "order": "52.00000000000000000000"
       },
       {
         "id": 59,
-        "value": "BSB, Clm. 6308, L. 4"
+        "value": "BSB, Clm. 6308, L. 4",
+        "order": "53.00000000000000000000"
       },
       {
         "id": 60,
-        "value": "BSB, Clm. 6308, L. 5"
+        "value": "BSB, Clm. 6308, L. 5",
+        "order": "54.00000000000000000000"
       },
       {
         "id": 61,
-        "value": "BSB, Clm. 6308, L. 6"
+        "value": "BSB, Clm. 6308, L. 6",
+        "order": "55.00000000000000000000"
       },
       {
         "id": 62,
-        "value": "BSB, Clm. 6308, L. 7"
+        "value": "BSB, Clm. 6308, L. 7",
+        "order": "56.00000000000000000000"
       },
       {
         "id": 63,
-        "value": "BSB, Clm. 6308, L. 8"
+        "value": "BSB, Clm. 6308, L. 8",
+        "order": "57.00000000000000000000"
       },
       {
         "id": 64,
-        "value": "BSB, Clm. 6308, L. 9"
+        "value": "BSB, Clm. 6308, L. 9",
+        "order": "58.00000000000000000000"
       },
       {
         "id": 65,
-        "value": "BSB, Clm. 6308, L. 10"
+        "value": "BSB, Clm. 6308, L. 10",
+        "order": "59.00000000000000000000"
       },
       {
         "id": 66,
-        "value": "BSB, Clm. 6308, L. 11"
+        "value": "BSB, Clm. 6308, L. 11",
+        "order": "60.00000000000000000000"
       },
       {
         "id": 67,
-        "value": "BSB, Clm. 6308, L. 12"
+        "value": "BSB, Clm. 6308, L. 12",
+        "order": "61.00000000000000000000"
       },
       {
         "id": 68,
-        "value": "BSB, Clm. 6308, L. 13"
+        "value": "BSB, Clm. 6308, L. 13",
+        "order": "62.00000000000000000000"
       },
       {
         "id": 69,
-        "value": "BSB, Clm. 6308, L. 14"
+        "value": "BSB, Clm. 6308, L. 14",
+        "order": "63.00000000000000000000"
       },
       {
         "id": 70,
-        "value": "BSB, Clm. 6308, L. 15"
+        "value": "BSB, Clm. 6308, L. 15",
+        "order": "64.00000000000000000000"
       },
       {
         "id": 71,
-        "value": "BSB, Clm. 6308, L. 16"
+        "value": "BSB, Clm. 6308, L. 16",
+        "order": "65.00000000000000000000"
       },
       {
         "id": 72,
-        "value": "BSB, Clm. 6308, L. 17"
+        "value": "BSB, Clm. 6308, L. 17",
+        "order": "66.00000000000000000000"
       },
       {
         "id": 73,
-        "value": "BSB, Clm. 6308, L. 18"
+        "value": "BSB, Clm. 6308, L. 18",
+        "order": "67.00000000000000000000"
       },
       {
         "id": 74,
-        "value": "BSB, Clm. 6308, L. 19"
+        "value": "BSB, Clm. 6308, L. 19",
+        "order": "68.00000000000000000000"
       }
     ],
     "locus": [
@@ -1049,7 +1142,8 @@
     "manuscript": [
       {
         "id": 6,
-        "value": "BSB, Clm. 6308"
+        "value": "BSB, Clm. 6308",
+        "order": "5.00000000000000000000"
       }
     ],
     "number": "2",
@@ -1057,7 +1151,8 @@
     "hand_role": [
       {
         "id": 38,
-        "value": "hit_hands_role__38"
+        "value": "hit_hands_role__38",
+        "order": "30.00000000000000000000"
       }
     ],
     "ms_items": [
@@ -1107,7 +1202,8 @@
     "manuscript": [
       {
         "id": 22,
-        "value": "ÖNB, Cod. 366"
+        "value": "ÖNB, Cod. 366",
+        "order": "1.66666666666666674068"
       }
     ],
     "number": "1",
@@ -1115,19 +1211,23 @@
     "hand_role": [
       {
         "id": 39,
-        "value": "hit_hands_role__39"
+        "value": "hit_hands_role__39",
+        "order": "31.00000000000000000000"
       },
       {
         "id": 41,
-        "value": "hit_hands_role__41"
+        "value": "hit_hands_role__41",
+        "order": "33.00000000000000000000"
       },
       {
         "id": 42,
-        "value": "hit_hands_role__42"
+        "value": "hit_hands_role__42",
+        "order": "34.00000000000000000000"
       },
       {
         "id": 43,
-        "value": "hit_hands_role__43"
+        "value": "hit_hands_role__43",
+        "order": "35.00000000000000000000"
       }
     ],
     "ms_items": [
@@ -1163,11 +1263,13 @@
     "quires": [
       {
         "id": 75,
-        "value": "ÖNB, Cod. 366, L. 1"
+        "value": "ÖNB, Cod. 366, L. 1",
+        "order": "69.00000000000000000000"
       },
       {
         "id": 76,
-        "value": "ÖNB, Cod. 366, L. 2"
+        "value": "ÖNB, Cod. 366, L. 2",
+        "order": "70.00000000000000000000"
       }
     ],
     "locus": [
@@ -1219,7 +1321,8 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "number": "1",
@@ -1227,7 +1330,8 @@
     "hand_role": [
       {
         "id": 40,
-        "value": "hit_hands_role__40"
+        "value": "hit_hands_role__40",
+        "order": "32.00000000000000000000"
       }
     ],
     "ms_items": [
@@ -1242,19 +1346,23 @@
     "quires": [
       {
         "id": 77,
-        "value": "ÖNB, Cod. 387, L. 2"
+        "value": "ÖNB, Cod. 387, L. 2",
+        "order": "71.00000000000000000000"
       },
       {
         "id": 82,
-        "value": "ÖNB, Cod. 387, L. 3"
+        "value": "ÖNB, Cod. 387, L. 3",
+        "order": "76.00000000000000000000"
       },
       {
         "id": 83,
-        "value": "ÖNB, Cod. 387, L. 4"
+        "value": "ÖNB, Cod. 387, L. 4",
+        "order": "77.00000000000000000000"
       },
       {
         "id": 84,
-        "value": "ÖNB, Cod. 387, L. 5"
+        "value": "ÖNB, Cod. 387, L. 5",
+        "order": "78.00000000000000000000"
       }
     ],
     "locus": [
@@ -1294,7 +1402,8 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "number": "2",
@@ -1302,11 +1411,13 @@
     "hand_role": [
       {
         "id": 67,
-        "value": "hit_hands_role__67"
+        "value": "hit_hands_role__67",
+        "order": "59.00000000000000000000"
       },
       {
         "id": 68,
-        "value": "hit_hands_role__68"
+        "value": "hit_hands_role__68",
+        "order": "60.00000000000000000000"
       }
     ],
     "ms_items": [
@@ -1367,7 +1478,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "1",
@@ -1375,27 +1487,33 @@
     "hand_role": [
       {
         "id": 62,
-        "value": "hit_hands_role__62"
+        "value": "hit_hands_role__62",
+        "order": "54.00000000000000000000"
       },
       {
         "id": 63,
-        "value": "hit_hands_role__63"
+        "value": "hit_hands_role__63",
+        "order": "55.00000000000000000000"
       },
       {
         "id": 64,
-        "value": "hit_hands_role__64"
+        "value": "hit_hands_role__64",
+        "order": "56.00000000000000000000"
       },
       {
         "id": 70,
-        "value": "hit_hands_role__70"
+        "value": "hit_hands_role__70",
+        "order": "62.00000000000000000000"
       },
       {
         "id": 78,
-        "value": "hit_hands_role__78"
+        "value": "hit_hands_role__78",
+        "order": "68.00000000000000000000"
       },
       {
         "id": 79,
-        "value": "hit_hands_role__79"
+        "value": "hit_hands_role__79",
+        "order": "69.00000000000000000000"
       }
     ],
     "ms_items": [
@@ -1445,7 +1563,8 @@
     "quires": [
       {
         "id": 133,
-        "value": "ÖNB, Cod. 2090, L. 1"
+        "value": "ÖNB, Cod. 2090, L. 1",
+        "order": "127.00000000000000000000"
       }
     ],
     "locus": [
@@ -1505,7 +1624,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "2",
@@ -1545,7 +1665,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "3",
@@ -1553,7 +1674,8 @@
     "hand_role": [
       {
         "id": 76,
-        "value": "hit_hands_role__76"
+        "value": "hit_hands_role__76",
+        "order": "66.00000000000000000000"
       }
     ],
     "ms_items": [
@@ -1603,7 +1725,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "4",
@@ -1611,11 +1734,13 @@
     "hand_role": [
       {
         "id": 72,
-        "value": "hit_hands_role__72"
+        "value": "hit_hands_role__72",
+        "order": "64.00000000000000000000"
       },
       {
         "id": 88,
-        "value": "hit_hands_role__88"
+        "value": "hit_hands_role__88",
+        "order": "78.00000000000000000000"
       }
     ],
     "ms_items": [
@@ -1681,7 +1806,8 @@
     "manuscript": [
       {
         "id": 6,
-        "value": "BSB, Clm. 6308"
+        "value": "BSB, Clm. 6308",
+        "order": "5.00000000000000000000"
       }
     ],
     "number": "3",
@@ -1689,7 +1815,8 @@
     "hand_role": [
       {
         "id": 142,
-        "value": "hit_hands_role__142"
+        "value": "hit_hands_role__142",
+        "order": "128.00000000000000000000"
       }
     ],
     "ms_items": [
@@ -1739,7 +1866,8 @@
     "manuscript": [
       {
         "id": 5,
-        "value": "BSB, Clm. 6326"
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
       }
     ],
     "number": "2",
@@ -1747,7 +1875,8 @@
     "hand_role": [
       {
         "id": 153,
-        "value": "hit_hands_role__153"
+        "value": "hit_hands_role__153",
+        "order": "139.00000000000000000000"
       }
     ],
     "ms_items": [
@@ -1808,7 +1937,8 @@
     "manuscript": [
       {
         "id": 8,
-        "value": "BSB, Clm. 6375"
+        "value": "BSB, Clm. 6375",
+        "order": "7.00000000000000000000"
       }
     ],
     "number": "1",
@@ -1816,7 +1946,8 @@
     "hand_role": [
       {
         "id": 139,
-        "value": "hit_hands_role__139"
+        "value": "hit_hands_role__139",
+        "order": "125.00000000000000000000"
       }
     ],
     "ms_items": [
@@ -1899,7 +2030,8 @@
     "manuscript": [
       {
         "id": 8,
-        "value": "BSB, Clm. 6375"
+        "value": "BSB, Clm. 6375",
+        "order": "7.00000000000000000000"
       }
     ],
     "number": "2",
@@ -1907,7 +2039,8 @@
     "hand_role": [
       {
         "id": 129,
-        "value": "hit_hands_role__129"
+        "value": "hit_hands_role__129",
+        "order": "115.00000000000000000000"
       }
     ],
     "ms_items": [
@@ -1957,7 +2090,8 @@
     "manuscript": [
       {
         "id": 7,
-        "value": "BSB, Clm. 6380"
+        "value": "BSB, Clm. 6380",
+        "order": "6.00000000000000000000"
       }
     ],
     "number": "1",
@@ -1965,31 +2099,38 @@
     "hand_role": [
       {
         "id": 125,
-        "value": "hit_hands_role__125"
+        "value": "hit_hands_role__125",
+        "order": "111.00000000000000000000"
       },
       {
         "id": 128,
-        "value": "hit_hands_role__128"
+        "value": "hit_hands_role__128",
+        "order": "114.00000000000000000000"
       },
       {
         "id": 131,
-        "value": "hit_hands_role__131"
+        "value": "hit_hands_role__131",
+        "order": "117.00000000000000000000"
       },
       {
         "id": 132,
-        "value": "hit_hands_role__132"
+        "value": "hit_hands_role__132",
+        "order": "118.00000000000000000000"
       },
       {
         "id": 133,
-        "value": "hit_hands_role__133"
+        "value": "hit_hands_role__133",
+        "order": "119.00000000000000000000"
       },
       {
         "id": 134,
-        "value": "hit_hands_role__134"
+        "value": "hit_hands_role__134",
+        "order": "120.00000000000000000000"
       },
       {
         "id": 135,
-        "value": "hit_hands_role__135"
+        "value": "hit_hands_role__135",
+        "order": "121.00000000000000000000"
       }
     ],
     "ms_items": [
@@ -2099,7 +2240,8 @@
     "manuscript": [
       {
         "id": 11,
-        "value": "BSB, Clm. 6383"
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
       }
     ],
     "number": "1",

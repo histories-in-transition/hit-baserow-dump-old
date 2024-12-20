@@ -12,7 +12,8 @@
     "library": [
       {
         "id": 1,
-        "value": "ÖNB"
+        "value": "ÖNB",
+        "order": "1.00000000000000000000"
       }
     ],
     "manuscripta_url": "https://manuscripta.at/?ID=5974",
@@ -35,7 +36,8 @@
     "binding_date": [
       {
         "id": 21,
-        "value": "um 1433"
+        "value": "um 1433",
+        "order": "21.00000000000000000000"
       }
     ],
     "history": "Die Handschrift wurde wohl zusammen mit der Zwillingshandschrift Clm 210 zwischen 810 und 821 (nach Arno Borst 830) in Salzburg angefertigt. Während Clm 210 wahrscheinlich noch im 9. Jahrhundert nach Regensburg gebracht wurde, verblieb der Codex 387 bis zum Jahr 1806 in der Salzburger Dombibliothek und kam anschließend in den Besitz der damaligen Hofbibliothek.",
@@ -46,7 +48,8 @@
     "orig_place": [
       {
         "id": 3,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
       }
     ],
     "catchwords": "",
@@ -59,25 +62,30 @@
     "provenance": [
       {
         "id": 8,
-        "value": "Dombibliothek Salzburg"
+        "value": "Dombibliothek Salzburg",
+        "order": "7.00000000000000000000"
       }
     ],
     "manuscripts_dated": [
       {
         "id": 22,
-        "value": "hit_dated__22"
+        "value": "hit_dated__22",
+        "order": "20.00000000000000000000"
       },
       {
         "id": 23,
-        "value": "hit_dated__23"
+        "value": "hit_dated__23",
+        "order": "21.00000000000000000000"
       },
       {
         "id": 24,
-        "value": "hit_dated__24"
+        "value": "hit_dated__24",
+        "order": "22.00000000000000000000"
       },
       {
         "id": 29,
-        "value": "hit_dated__29"
+        "value": "hit_dated__29",
+        "order": "26.00000000000000000000"
       }
     ],
     "orig_dated": [
@@ -150,7 +158,8 @@
     "library": [
       {
         "id": 1,
-        "value": "ÖNB"
+        "value": "ÖNB",
+        "order": "1.00000000000000000000"
       }
     ],
     "manuscripta_url": "https://manuscripta.at/?ID=5187",
@@ -173,7 +182,8 @@
     "binding_date": [
       {
         "id": 21,
-        "value": "um 1433"
+        "value": "um 1433",
+        "order": "21.00000000000000000000"
       }
     ],
     "history": "Zur Zeit Erzbischofs Gebhard (1060-1088) angelegt und bis in das Episkopat Adalbert (1168-1177) weitergeführt. Die Handschrift verblieb bis zum Jahr 1806 im Besitz der Salzburger Dombibliothek und kam anschließend in die damalige Hofblibliothek.",
@@ -184,7 +194,8 @@
     "orig_place": [
       {
         "id": 3,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
       }
     ],
     "catchwords": "",
@@ -197,17 +208,20 @@
     "provenance": [
       {
         "id": 8,
-        "value": "Dombibliothek Salzburg"
+        "value": "Dombibliothek Salzburg",
+        "order": "7.00000000000000000000"
       }
     ],
     "manuscripts_dated": [
       {
         "id": 30,
-        "value": "hit_dated__30"
+        "value": "hit_dated__30",
+        "order": "27.00000000000000000000"
       },
       {
         "id": 31,
-        "value": "hit_dated__31"
+        "value": "hit_dated__31",
+        "order": "28.00000000000000000000"
       }
     ],
     "orig_dated": [
@@ -272,7 +286,8 @@
     "library": [
       {
         "id": 1,
-        "value": "ÖNB"
+        "value": "ÖNB",
+        "order": "1.00000000000000000000"
       }
     ],
     "manuscripta_url": "https://manuscripta.at/?ID=9750",
@@ -295,7 +310,8 @@
     "binding_date": [
       {
         "id": 21,
-        "value": "um 1433"
+        "value": "um 1433",
+        "order": "21.00000000000000000000"
       }
     ],
     "history": "",
@@ -306,7 +322,8 @@
     "orig_place": [
       {
         "id": 3,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
       }
     ],
     "catchwords": "",
@@ -319,13 +336,15 @@
     "provenance": [
       {
         "id": 8,
-        "value": "Dombibliothek Salzburg"
+        "value": "Dombibliothek Salzburg",
+        "order": "7.00000000000000000000"
       }
     ],
     "manuscripts_dated": [
       {
         "id": 9,
-        "value": "hit_dated__9"
+        "value": "hit_dated__9",
+        "order": "9.00000000000000000000"
       }
     ],
     "orig_dated": [
@@ -377,7 +396,8 @@
     "library": [
       {
         "id": 1,
-        "value": "ÖNB"
+        "value": "ÖNB",
+        "order": "1.00000000000000000000"
       }
     ],
     "manuscripta_url": "https://manuscripta.at/?ID=9755",
@@ -406,7 +426,8 @@
     "orig_place": [
       {
         "id": 5,
-        "value": "Saint-Amand-les-Eaux"
+        "value": "Saint-Amand-les-Eaux",
+        "order": "5.00000000000000000000"
       }
     ],
     "catchwords": "",
@@ -420,7 +441,8 @@
     "manuscripts_dated": [
       {
         "id": 32,
-        "value": "hit_dated__32"
+        "value": "hit_dated__32",
+        "order": "29.00000000000000000000"
       }
     ],
     "orig_dated": [
@@ -472,7 +494,8 @@
     "library": [
       {
         "id": 2,
-        "value": "UBWÜ"
+        "value": "UBWÜ",
+        "order": "2.00000000000000000000"
       }
     ],
     "manuscripta_url": "",
@@ -495,7 +518,8 @@
     "binding_date": [
       {
         "id": 8,
-        "value": "15 Jh."
+        "value": "15 Jh.",
+        "order": "8.00000000000000000000"
       }
     ],
     "history": "In Zusammenarbeit der beiden Schriftzentren Saint-Amand und Salzburg entstanden. Befand sich im Jahr 976 noch in Salzburg. Signaturen: 1r (LXXXIII, 15. Jhdt), 2r (LXXXIII, 15. Jhdt), Buchrücken (81, 18. Jhdt).",
@@ -506,11 +530,13 @@
     "orig_place": [
       {
         "id": 3,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
       },
       {
         "id": 5,
-        "value": "Saint-Amand-les-Eaux"
+        "value": "Saint-Amand-les-Eaux",
+        "order": "5.00000000000000000000"
       }
     ],
     "catchwords": "",
@@ -523,13 +549,15 @@
     "provenance": [
       {
         "id": 5,
-        "value": "Dombibliothek Würzburg"
+        "value": "Dombibliothek Würzburg",
+        "order": "4.00000000000000000000"
       }
     ],
     "manuscripts_dated": [
       {
         "id": 3,
-        "value": "hit_dated__3"
+        "value": "hit_dated__3",
+        "order": "3.00000000000000000000"
       }
     ],
     "orig_dated": [
@@ -587,7 +615,8 @@
     "library": [
       {
         "id": 4,
-        "value": "BSB"
+        "value": "BSB",
+        "order": "3.00000000000000000000"
       }
     ],
     "manuscripta_url": "",
@@ -610,7 +639,8 @@
     "binding_date": [
       {
         "id": 56,
-        "value": "um 1400"
+        "value": "um 1400",
+        "order": "56.00000000000000000000"
       }
     ],
     "history": "Die Handschrift stimmt inhaltlich mit der Wien, ÖNB Cod. 387 völlig überein. Auch der Buchschmuck entspricht dem der Wiener Handschrift. Sehr wahrscheinlich ist Clm 210 eine Abschrift der Wiener Handschrift (vgl. Bischoff, Schreibschulen 2, S. 34, S. 96f.). Der Stil der Schrift steht dem von Mondsee aus geprägten Stil nahe ( Bischoff, Schreibschulen 2, S. 34). Die Verwandtschaft mit der in Salzburg entstandenen Wiener Hs. spricht für eine Entstehung in der Umgebung von Salzburg ( Bierbrauer (1990), Nr. 135, S. 74). 7 r wird das gegenwärtige Jahr mit 818 (verbessert aus: DCCCX) angegeben, so dass dieses Datum als Entstehungsjahr der Hs. anzunehmen ist. Die am Rande von verschiedenen Händen des 9. bis 12. Jh. angebrachten historischen Notizen im Bereich des Cyclus Decemnovenalis (31 v -59 r), die als ‚Annales S. Emmerami Minores’ (Ed.: Georg Waitz, in : Monumenta Germaniae Historica. Scriptorum Tom. 13, Hannover 1881, S. 47f.) bezeichnet werden und u.a. auf Personen und Ereignisse des Klosters St. Emmeram in Regensburg Bezug nehmen, machen wahrscheinlich, dass sich die Handschrift schon im 9. Jh. in St. Emmeram befunden hat. Wie der Eintrag von der Hand Hartmann Schedels auf dem Spiegel vorne ( Liber doctoris Hartmanni Schedel de Nuremberga) zeigt, ist die Handschrift in dessen Besitz gelangt (Richard Stauber: Die Schedelsche Bibliothek. Ein Beitrag zur Geschichte der Ausbreitung der italienischen Renaissance, des deutschen Humanismus und der medizinischen Literatur. Freiburg i.Br. 1908 (Studien und Darstellungen aus dem Gebiete der Geschichte VI), S. 55 und 116). Die auf dem Spiegel hinten neben anderen Hinweisen von Schedel eingetragene Jahreszahl 1488 bezeichnet das Datum des Erwerbs. Meist wird in der Forschung davon ausgegangen, dass die Hs. von Schedel wie andere Handschriften, z.B. Clm 52, in der Kartause Prüll erworben worden ist (vgl. z.B. Bischoff, Schreibschulen 2, S. 34). Dafür finden sich jedoch keine Hinweise (Rosa Micus: Die Bibliothek der ehemaligen Kartause Prüll bei Regensburg (1484-1803). Salzburg 2003 (Analecta Cartusiana 186), S. 119). Es ist durchaus möglich, dass Schedel die Hs. direkt vom Kloster St. Emmeram erhalten hat. Auch dort und nicht nur in der Kartause Prüll hat Schedel 1488 auf seiner Wallfahrt nach St. Wolfgang im Salzkammergut Station gemacht (vgl. Franz Fuchs: Hartmann Schedel auf Wallfahrt nach St. Wolfgang im Salzkammergut, in: Helmut Flachenecker – Dietmar Grypa (Hrsg.): Schule, Universität und Bildung, Festschrift für Harald Dickerhof zum 65. Geburtstag, 2007, S. 19-28, bes. S. 25). Eine Notiz über diesen Besitzwechsel findet sich in der handschriftlichen Materialsammlung des St. Emmeramer Bibliothekars Bernhard Stark (gest. 1839), vgl. dazu Franz Fuchs: Hartmann Schedel und seine Büchersammlung, in: Die Anfänge der Münchener Hofbibliothek unter Herzog Albrecht V., hrsg. von Alois Schmid, München 2009 (Zeitschrift für Bayerische Landesgeschichte Beiheft 37), S. 146-168, bes. S. 162 und Anm. 66). Mit Schedels Bibliothek gelangte die Handschrift nach dessen Tod in den Besitz Johann Jakob Fuggers, dessen Bibliothek 1571 von Herzog Albrecht V. erworben und der Münchner Hofbibliothek eingegliedert worden ist: Spiegel vorne Exlibris der Hofbibliothek von 1618 (vgl. Dressler, S. 21; Form A 3e); Spiegel hinten Exlibris der Hofbibliothek von 1630 (vgl. Dressler, S. 23; Form B 3ab). Am unteren Rand des Spiegels vorne Signatur, unter der die Hs. in dem von Wolfgang Prommer 1582 angelegten Katalog der Hofbibliothek (Cbm. Cat. 61, 104 v) verzeichnet ist: 4.7. Auf dem vorderen Spiegel von neuzeitlichen Händen (19. Jh.) weitere Signaturen eingetragen: 41.msc.m; Cimel. II 6.d jetzt Cim. 309; ZZ 632. Außerdem Verweise auf die Wiener Schwesterhs. Wien ÖNB Cod. 387 u.a. (Wunderle)",
@@ -621,7 +651,8 @@
     "orig_place": [
       {
         "id": 3,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
       }
     ],
     "catchwords": null,
@@ -634,7 +665,8 @@
     "provenance": [
       {
         "id": 10,
-        "value": "Hofbibliothek München"
+        "value": "Hofbibliothek München",
+        "order": "9.00000000000000000000"
       }
     ],
     "manuscripts_dated": [],
@@ -678,7 +710,8 @@
     "library": [
       {
         "id": 4,
-        "value": "BSB"
+        "value": "BSB",
+        "order": "3.00000000000000000000"
       }
     ],
     "manuscripta_url": "",
@@ -701,7 +734,8 @@
     "binding_date": [
       {
         "id": 20,
-        "value": "14-15 Jh."
+        "value": "14-15 Jh.",
+        "order": "20.00000000000000000000"
       }
     ],
     "history": "Geschrieben in Freising,  seit 12 J. in Besitz der Dombibliothek. Besitzmarke: Liber iste est sancte Marie et sancti Corbiniani (12th c., 1 r), Exlibris der Dombibliothek: s. Warnecke, Nr. 559 (auf dem Deckel). Möglicherweise diente als Handbuch des Bischofs Abraham (N. Daniel, 1973).",
@@ -712,7 +746,8 @@
     "orig_place": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       }
     ],
     "catchwords": "",
@@ -725,17 +760,20 @@
     "provenance": [
       {
         "id": 6,
-        "value": "Dombibliothek Freising"
+        "value": "Dombibliothek Freising",
+        "order": "5.00000000000000000000"
       }
     ],
     "manuscripts_dated": [
       {
         "id": 4,
-        "value": "hit_dated__4"
+        "value": "hit_dated__4",
+        "order": "4.00000000000000000000"
       },
       {
         "id": 5,
-        "value": "hit_dated__5"
+        "value": "hit_dated__5",
+        "order": "5.00000000000000000000"
       }
     ],
     "orig_dated": [
@@ -782,7 +820,8 @@
     "library": [
       {
         "id": 4,
-        "value": "BSB"
+        "value": "BSB",
+        "order": "3.00000000000000000000"
       }
     ],
     "manuscripta_url": "",
@@ -805,7 +844,8 @@
     "binding_date": [
       {
         "id": 53,
-        "value": "11 Jh., erstes Viertel"
+        "value": "11 Jh., erstes Viertel",
+        "order": "53.00000000000000000000"
       }
     ],
     "history": "",
@@ -816,7 +856,8 @@
     "orig_place": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       }
     ],
     "catchwords": "",
@@ -829,17 +870,20 @@
     "provenance": [
       {
         "id": 6,
-        "value": "Dombibliothek Freising"
+        "value": "Dombibliothek Freising",
+        "order": "5.00000000000000000000"
       }
     ],
     "manuscripts_dated": [
       {
         "id": 25,
-        "value": "hit_dated__25"
+        "value": "hit_dated__25",
+        "order": "7.50000000000000000000"
       },
       {
         "id": 8,
-        "value": "hit_dated__8"
+        "value": "hit_dated__8",
+        "order": "8.00000000000000000000"
       }
     ],
     "orig_dated": [
@@ -886,7 +930,8 @@
     "library": [
       {
         "id": 4,
-        "value": "BSB"
+        "value": "BSB",
+        "order": "3.00000000000000000000"
       }
     ],
     "manuscripta_url": "",
@@ -915,7 +960,8 @@
     "orig_place": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       }
     ],
     "catchwords": "",
@@ -928,13 +974,15 @@
     "provenance": [
       {
         "id": 6,
-        "value": "Dombibliothek Freising"
+        "value": "Dombibliothek Freising",
+        "order": "5.00000000000000000000"
       }
     ],
     "manuscripts_dated": [
       {
         "id": 10,
-        "value": "hit_dated__10"
+        "value": "hit_dated__10",
+        "order": "10.00000000000000000000"
       }
     ],
     "orig_dated": [
@@ -974,7 +1022,8 @@
     "library": [
       {
         "id": 4,
-        "value": "BSB"
+        "value": "BSB",
+        "order": "3.00000000000000000000"
       }
     ],
     "manuscripta_url": "",
@@ -997,7 +1046,8 @@
     "binding_date": [
       {
         "id": 54,
-        "value": "15 Jh."
+        "value": "15 Jh.",
+        "order": "54.00000000000000000000"
       }
     ],
     "history": "Gemäß Schrift und Buchschmuck nicht in Freising entstanden, aber doch in der näheren Umgebung. Als Vorlage diente ein Exemplar der Kirchengeschichte, mit dem das Justinian-Fragment bereits eng verbunden war, etwa als vorgeheftetes Schmutzblatt (so schon Mommsen), das der Schreiber absichtlich oder irrtümlich mitkopiert hat. Zu dessen Provenienz vgl. A. Ciaralli, in: Scrittura e civiltà 24 (2000), S. 194f. Anm. 64 «certamente non di origine italiana …» Auch wurde der Anteil Italiens an der vorbologneser Überlieferung bisher überbewertet; vgl. jüngst Ch. M. Radding/A. Ciaralli, The Corpus iuris civilisin the Middle Ages. Manuscripts and tradition … (Brill's Studies in intellectual history 147, 2007), S. 51 Hs. erwähnt. –Besitzvermerk Iste liber est sancte Marie sanctique Corbi[ni] ani Frisinge (12.Jh., 2 r). (Glauche)",
@@ -1008,7 +1058,8 @@
     "orig_place": [
       {
         "id": 18,
-        "value": "Südbayern"
+        "value": "Südbayern",
+        "order": "16.00000000000000000000"
       }
     ],
     "catchwords": "",
@@ -1021,17 +1072,20 @@
     "provenance": [
       {
         "id": 6,
-        "value": "Dombibliothek Freising"
+        "value": "Dombibliothek Freising",
+        "order": "5.00000000000000000000"
       }
     ],
     "manuscripts_dated": [
       {
         "id": 11,
-        "value": "hit_dated__11"
+        "value": "hit_dated__11",
+        "order": "11.00000000000000000000"
       },
       {
         "id": 19,
-        "value": "hit_dated__19"
+        "value": "hit_dated__19",
+        "order": "11.50000000000000000000"
       }
     ],
     "orig_dated": [
@@ -1078,7 +1132,8 @@
     "library": [
       {
         "id": 4,
-        "value": "BSB"
+        "value": "BSB",
+        "order": "3.00000000000000000000"
       }
     ],
     "manuscripta_url": "",
@@ -1101,7 +1156,8 @@
     "binding_date": [
       {
         "id": 1,
-        "value": "9 Jh."
+        "value": "9 Jh.",
+        "order": "1.00000000000000000000"
       }
     ],
     "history": "Gemäß Schriftbefund in Benediktbeuern entstanden. Durch einen glücklichen Zufall läßt sich dort sogar die Vorlage zweifelsfrei nachweisen: Unter den im 16.Jh. als Umschläge für Klosterakten verwendeten Fragmenten des verstümmelten Exemplars Clm 29396(1(früher Clm 29041) ist f. 14 r–15 vgerade jenes in Unordnung geratene Textstück fast vollständig erhalten (vgl. Catalogus IV,12, 2, S. 373f.). Die direkte Abhängigkeit wird bei gleicher Kapiteleinteilung durch eine Reihe von auffälligen, gemeinsamen Lesarten untermauert. Ein Verweisungszeichen zu Beginn der Umstellung des in Benediktbeuern verbliebenen Originals wurde erst nach Anfertigung der Kopie angebracht. Hier wiederum steht statt dem in der Vorlage ausgeschriebenen dicens die für jenes Skriptorium typ. Abkürzung dc\\u-4085 ?s (159 v, Z. 24). Die Suche nach dem Fehler (Ursache dürfte ein falsch gefaltetes Doppelblatt sein) beschränkt sich also auf die ältesten Zeugen des ausgehenden 8. und frühen 9.Jh., vorgestellt von C. P. Hammond Bammel, Das neue Rufinfragment in irischer Schrift und die Überlieferung der Rufin'schen Übersetzung der Kirchengeschichte Eusebs. In: Philologia sacra. [Fschr.] H. J. Frede und W. Thiele, hrsg. v. R. Gryson. (Vetus Latina. Aus d. Gesch. d. lat. Bibel 24,2, 1993), S. 483–513, hier 497ff. –Besitzvermerk Liber iste est sancte Marie sanctique Corbiniani Frisinge (12.Jh., 1 r). Zu Beginn von Buch 10 Randnotizen Bischof Johannes Grünwalders (15.Jh., 218 v, 219 rad v. 'In nomine' inquit 'Jesu Christi philosophe audi quae vera sunt. Deus unus est' de Pafnucio). Exlibris des Domkapitels: Warnecke, Nr. 559 (im Vorderdeckel). Am Rücken frühere Signatur der Hofbibliothek auf rotem Schildchen von der Hand J. G. Krabingers Kr. 242 (Cbm Cat. 82, 11 v). (Glauche)",
@@ -1112,15 +1168,18 @@
     "orig_place": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       },
       {
         "id": 11,
-        "value": "Benediktbeuern"
+        "value": "Benediktbeuern",
+        "order": "11.00000000000000000000"
       },
       {
         "id": 12,
-        "value": "Bodensee"
+        "value": "Bodensee",
+        "order": "12.00000000000000000000"
       }
     ],
     "catchwords": "",
@@ -1133,17 +1192,20 @@
     "provenance": [
       {
         "id": 6,
-        "value": "Dombibliothek Freising"
+        "value": "Dombibliothek Freising",
+        "order": "5.00000000000000000000"
       }
     ],
     "manuscripts_dated": [
       {
         "id": 6,
-        "value": "hit_dated__6"
+        "value": "hit_dated__6",
+        "order": "6.00000000000000000000"
       },
       {
         "id": 7,
-        "value": "hit_dated__7"
+        "value": "hit_dated__7",
+        "order": "7.00000000000000000000"
       }
     ],
     "orig_dated": [
@@ -1190,7 +1252,8 @@
     "library": [
       {
         "id": 4,
-        "value": "BSB"
+        "value": "BSB",
+        "order": "3.00000000000000000000"
       }
     ],
     "manuscripta_url": "",
@@ -1213,7 +1276,8 @@
     "binding_date": [
       {
         "id": 54,
-        "value": "15 Jh."
+        "value": "15 Jh.",
+        "order": "54.00000000000000000000"
       }
     ],
     "history": "Der jüngere erste Teil zeigt auch hinsichtlich der Überlieferung zweimal Beziehung zu Reimser Bibliotheken, bei einem weiteren, in dieser Form seltenen Text sogar eine enge Verwandtschaft zu der im nahen Laon. (Glauche)",
@@ -1224,11 +1288,13 @@
     "orig_place": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       },
       {
         "id": 17,
-        "value": "Reims"
+        "value": "Reims",
+        "order": "15.00000000000000000000"
       }
     ],
     "catchwords": "",
@@ -1241,13 +1307,15 @@
     "provenance": [
       {
         "id": 6,
-        "value": "Dombibliothek Freising"
+        "value": "Dombibliothek Freising",
+        "order": "5.00000000000000000000"
       }
     ],
     "manuscripts_dated": [
       {
         "id": 28,
-        "value": "hit_dated__28"
+        "value": "hit_dated__28",
+        "order": "25.00000000000000000000"
       }
     ],
     "orig_dated": [
@@ -1294,7 +1362,8 @@
     "library": [
       {
         "id": 4,
-        "value": "BSB"
+        "value": "BSB",
+        "order": "3.00000000000000000000"
       }
     ],
     "manuscripta_url": "",
@@ -1317,7 +1386,8 @@
     "binding_date": [
       {
         "id": 54,
-        "value": "15 Jh."
+        "value": "15 Jh.",
+        "order": "54.00000000000000000000"
       }
     ],
     "history": "\"Sehr ähnliche Ornamentinitialen mit Profilblättchen\" (Kessler, S. 112) und die Auszeichnungsschriften rücken den Band in die Nähe der in Freising entstandenen Clm 6303, 6305 und 6309. Besitzvermerk Liber iste est sancte Marie et sancti Corbiniani Frisinge (12.Jh., 2 r). Anstelle des fehlenden stereotypen Exlibris Bleistiftnotiz Ex Bibliotheca Capituli Frisingensis (18.Jh., Vorderspiegel). Am Rücken frühere Signatur der Hofbibliothek auf rotem Schildchen von der Hand J. G. Krabingers Kr. 277 (Cbm Cat. 82, 12 v). (Glauche)",
@@ -1328,11 +1398,13 @@
     "orig_place": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       },
       {
         "id": 12,
-        "value": "Bodensee"
+        "value": "Bodensee",
+        "order": "12.00000000000000000000"
       }
     ],
     "catchwords": "",
@@ -1345,13 +1417,15 @@
     "provenance": [
       {
         "id": 6,
-        "value": "Dombibliothek Freising"
+        "value": "Dombibliothek Freising",
+        "order": "5.00000000000000000000"
       }
     ],
     "manuscripts_dated": [
       {
         "id": 12,
-        "value": "hit_dated__12"
+        "value": "hit_dated__12",
+        "order": "12.00000000000000000000"
       }
     ],
     "orig_dated": [
@@ -1391,7 +1465,8 @@
     "library": [
       {
         "id": 4,
-        "value": "BSB"
+        "value": "BSB",
+        "order": "3.00000000000000000000"
       }
     ],
     "manuscripta_url": "",
@@ -1420,11 +1495,13 @@
     "orig_place": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       },
       {
         "id": 9,
-        "value": "Norditalien"
+        "value": "Norditalien",
+        "order": "9.00000000000000000000"
       }
     ],
     "catchwords": "",
@@ -1437,13 +1514,15 @@
     "provenance": [
       {
         "id": 6,
-        "value": "Dombibliothek Freising"
+        "value": "Dombibliothek Freising",
+        "order": "5.00000000000000000000"
       }
     ],
     "manuscripts_dated": [
       {
         "id": 13,
-        "value": "hit_dated__13"
+        "value": "hit_dated__13",
+        "order": "13.00000000000000000000"
       }
     ],
     "orig_dated": [
@@ -1483,7 +1562,8 @@
     "library": [
       {
         "id": 4,
-        "value": "BSB"
+        "value": "BSB",
+        "order": "3.00000000000000000000"
       }
     ],
     "manuscripta_url": "",
@@ -1506,7 +1586,8 @@
     "binding_date": [
       {
         "id": 57,
-        "value": "18 Jh."
+        "value": "18 Jh.",
+        "order": "57.00000000000000000000"
       }
     ],
     "history": "Aufgrund besonderer Merkmale der Schrift in Freising entstanden. Zu Beginn häufiger Randnotizen eines humanist. Lesers (nicht Peutinger; vgl. unten), bei dem die Silbenkürzung -rum als Majuskel-R mit Kreuzstrich auffällt. Exlibris der Dombibliothek: Warnecke, Nr. 559 (im Vorderdeckel). Frühere Signatur der Hofbibliothek Cimel. II.3. a (II v). (Glauche)",
@@ -1517,7 +1598,8 @@
     "orig_place": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       }
     ],
     "catchwords": "",
@@ -1530,13 +1612,15 @@
     "provenance": [
       {
         "id": 6,
-        "value": "Dombibliothek Freising"
+        "value": "Dombibliothek Freising",
+        "order": "5.00000000000000000000"
       }
     ],
     "manuscripts_dated": [
       {
         "id": 14,
-        "value": "hit_dated__14"
+        "value": "hit_dated__14",
+        "order": "14.00000000000000000000"
       }
     ],
     "orig_dated": [
@@ -1576,7 +1660,8 @@
     "library": [
       {
         "id": 4,
-        "value": "BSB"
+        "value": "BSB",
+        "order": "3.00000000000000000000"
       }
     ],
     "manuscripta_url": "",
@@ -1605,7 +1690,8 @@
     "orig_place": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       }
     ],
     "catchwords": "",
@@ -1618,13 +1704,15 @@
     "provenance": [
       {
         "id": 6,
-        "value": "Dombibliothek Freising"
+        "value": "Dombibliothek Freising",
+        "order": "5.00000000000000000000"
       }
     ],
     "manuscripts_dated": [
       {
         "id": 15,
-        "value": "hit_dated__15"
+        "value": "hit_dated__15",
+        "order": "15.00000000000000000000"
       }
     ],
     "orig_dated": [
@@ -1664,7 +1752,8 @@
     "library": [
       {
         "id": 4,
-        "value": "BSB"
+        "value": "BSB",
+        "order": "3.00000000000000000000"
       }
     ],
     "manuscripta_url": "",
@@ -1687,7 +1776,8 @@
     "binding_date": [
       {
         "id": 20,
-        "value": "14-15 Jh."
+        "value": "14-15 Jh.",
+        "order": "20.00000000000000000000"
       }
     ],
     "history": "Aufgrund besonderer Merkmale der Schrift in Freising entstanden. Besitzvermerk Lib[er] sancte Marie et sancti / Corbiniani Frising[e] (12.Jh., 1 v/2 r). Exlibris der Dombibliothek: Warnecke, Nr. 559 (im vorderen Deckel). \nSämtliche Texte bilden in gleicher Reihenfolge eine typ. Überlieferungseinheit, dennoch ist die Abhängigkeit der übrigen Rufin-Vertreter dieser Familie vom älteren Freisinger Exemplar keineswegs eindeutig. Aus Mondseer Einbänden gelöste karoling. Fragmente der 'Historia monachorum', zu denen noch Bruchstücke der Vita Pauli und der Vita Antonii gehören, belegen sogar die Existenz eines weiteren Repräsentanten dieses hagiograph. Dossiers; vgl. Bischoff, Schreibschulen 2, S. 24. (Glauche)",
@@ -1698,7 +1788,8 @@
     "orig_place": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       }
     ],
     "catchwords": "",
@@ -1711,13 +1802,15 @@
     "provenance": [
       {
         "id": 6,
-        "value": "Dombibliothek Freising"
+        "value": "Dombibliothek Freising",
+        "order": "5.00000000000000000000"
       }
     ],
     "manuscripts_dated": [
       {
         "id": 16,
-        "value": "hit_dated__16"
+        "value": "hit_dated__16",
+        "order": "16.00000000000000000000"
       }
     ],
     "orig_dated": [
@@ -1757,7 +1850,8 @@
     "library": [
       {
         "id": 4,
-        "value": "BSB"
+        "value": "BSB",
+        "order": "3.00000000000000000000"
       }
     ],
     "manuscripta_url": "",
@@ -1780,7 +1874,8 @@
     "binding_date": [
       {
         "id": 54,
-        "value": "15 Jh."
+        "value": "15 Jh.",
+        "order": "54.00000000000000000000"
       }
     ],
     "history": "Gemäß Schriftbefund im Umkreis Bischof Baturichs von St. Emmeram entstanden. Nähere Umstände der Übergabe an Freising nicht bekannt. Belege für dortige Aufbewahrung um die Mitte des 15.Jh.: Jenes erstgenannte Nummernschild und zu Beginn von Buch 2 eine Randnotiz des 1452 verstorbenen Johannes Grünwalder (29 rad v. 'In nomine' inquit 'Jesu Christi o philosophe audi dogmata veritatis: Unus est deus …' de Pafnucione[!]); vgl. seine gleichartige Glosse in Clm 6381, 219 r. Annalist. Eintrag In die sancti Augustini episcopi anno domini etc. LI mo‖(= 1451, I v), das verschwiegene Ereignis ungeklärt. Besitzvermerk des Unterzeichners Iste liber est sancti Corbiniani et ecclesiê Frisingensis. Ph[ilippus] episcopus Frysingensis etc. subscripsi (Bischoff liest falsch \"prop.\"), datiert 1535 (1 r, oberer Rand). (Glauche)",
@@ -1791,7 +1886,8 @@
     "orig_place": [
       {
         "id": 19,
-        "value": "Regensburg"
+        "value": "Regensburg",
+        "order": "17.00000000000000000000"
       }
     ],
     "catchwords": "",
@@ -1804,17 +1900,20 @@
     "provenance": [
       {
         "id": 6,
-        "value": "Dombibliothek Freising"
+        "value": "Dombibliothek Freising",
+        "order": "5.00000000000000000000"
       }
     ],
     "manuscripts_dated": [
       {
         "id": 17,
-        "value": "hit_dated__17"
+        "value": "hit_dated__17",
+        "order": "17.00000000000000000000"
       },
       {
         "id": 20,
-        "value": "hit_dated__20"
+        "value": "hit_dated__20",
+        "order": "17.50000000000000000000"
       }
     ],
     "orig_dated": [
@@ -1861,7 +1960,8 @@
     "library": [
       {
         "id": 4,
-        "value": "BSB"
+        "value": "BSB",
+        "order": "3.00000000000000000000"
       }
     ],
     "manuscripta_url": "",
@@ -1884,7 +1984,8 @@
     "binding_date": [
       {
         "id": 55,
-        "value": "14 Jh."
+        "value": "14 Jh.",
+        "order": "55.00000000000000000000"
       }
     ],
     "history": "Es handelt sich um die ältesten erhaltenen Abschriften von Viten der Eichstätter Patrone Bonifatius, Willibald und Wunibald. Nach Inhalt und Schrift wurde die Hs. wohl im letzten Viertel des 8. Jhs. oder im ersten Viertel des 9. Jhs. im Bistum Eichstätt abgeschrieben (Bischoff, Schreibschulen, S. 148), die g-Form läßt vermuten, dass ein insular geschriebenes Exemplar als Vorlage gedient haben könnte. Bauch (S. 20) zieht aus inhaltlichen Gründen auch eine Abschrift direkt in Heidenheim in Erwägung. – Erwähnt wird die Hs. im Freisinger Katalog von 1687, in: Cbm Cat. 8a, 203 v, 356 r mit der Signatur L N 95: Vita s. Bonifacii. Item ss. Wilibaldi et Wunibaldi, m.s. quart. 19 (vgl. http://daten.digitale-sammlungen.de/bsb00106443/image_719). Einige sehr kurze Randvermerke (19 rv, 33 v) werden von Glauche Johannes Grünwalder zugeschrieben; die Randvermerke des 16. Jhs. lassen vermuten, dass die Hs. vorübergehend nach Eichstätt / Rebdorf ausgeliehen worden sein könnte, wo der Erstdruck der Vita Bonifatii (Ausgabe Ingolstadt 1603) vorbereitet wurde (s.u.). (Trede)",
@@ -1895,7 +1996,8 @@
     "orig_place": [
       {
         "id": 10,
-        "value": "Bistum Eichstätt"
+        "value": "Bistum Eichstätt",
+        "order": "10.00000000000000000000"
       }
     ],
     "catchwords": "",
@@ -1908,17 +2010,20 @@
     "provenance": [
       {
         "id": 6,
-        "value": "Dombibliothek Freising"
+        "value": "Dombibliothek Freising",
+        "order": "5.00000000000000000000"
       }
     ],
     "manuscripts_dated": [
       {
         "id": 18,
-        "value": "hit_dated__18"
+        "value": "hit_dated__18",
+        "order": "18.00000000000000000000"
       },
       {
         "id": 21,
-        "value": "hit_dated__21"
+        "value": "hit_dated__21",
+        "order": "19.00000000000000000000"
       }
     ],
     "orig_dated": [
@@ -1965,7 +2070,8 @@
     "library": [
       {
         "id": 4,
-        "value": "BSB"
+        "value": "BSB",
+        "order": "3.00000000000000000000"
       }
     ],
     "manuscripta_url": "",
@@ -2030,7 +2136,8 @@
     "library": [
       {
         "id": 4,
-        "value": "BSB"
+        "value": "BSB",
+        "order": "3.00000000000000000000"
       }
     ],
     "manuscripta_url": "",
@@ -2059,11 +2166,13 @@
     "orig_place": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       },
       {
         "id": 12,
-        "value": "Bodensee"
+        "value": "Bodensee",
+        "order": "12.00000000000000000000"
       }
     ],
     "catchwords": "",
@@ -2076,13 +2185,15 @@
     "provenance": [
       {
         "id": 6,
-        "value": "Dombibliothek Freising"
+        "value": "Dombibliothek Freising",
+        "order": "5.00000000000000000000"
       }
     ],
     "manuscripts_dated": [
       {
         "id": 33,
-        "value": "hit_dated__33"
+        "value": "hit_dated__33",
+        "order": "30.00000000000000000000"
       }
     ],
     "orig_dated": [
@@ -2129,7 +2240,8 @@
     "library": [
       {
         "id": 4,
-        "value": "BSB"
+        "value": "BSB",
+        "order": "3.00000000000000000000"
       }
     ],
     "manuscripta_url": "",
@@ -2158,11 +2270,13 @@
     "orig_place": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       },
       {
         "id": 15,
-        "value": "Schwabien"
+        "value": "Schwabien",
+        "order": "13.00000000000000000000"
       }
     ],
     "catchwords": "",
@@ -2175,17 +2289,20 @@
     "provenance": [
       {
         "id": 6,
-        "value": "Dombibliothek Freising"
+        "value": "Dombibliothek Freising",
+        "order": "5.00000000000000000000"
       }
     ],
     "manuscripts_dated": [
       {
         "id": 26,
-        "value": "hit_dated__26"
+        "value": "hit_dated__26",
+        "order": "23.00000000000000000000"
       },
       {
         "id": 27,
-        "value": "hit_dated__27"
+        "value": "hit_dated__27",
+        "order": "24.00000000000000000000"
       }
     ],
     "orig_dated": [
@@ -2232,7 +2349,8 @@
     "library": [
       {
         "id": 4,
-        "value": "BSB"
+        "value": "BSB",
+        "order": "3.00000000000000000000"
       }
     ],
     "manuscripta_url": "",
@@ -2299,7 +2417,8 @@
     "library": [
       {
         "id": 4,
-        "value": "BSB"
+        "value": "BSB",
+        "order": "3.00000000000000000000"
       }
     ],
     "manuscripta_url": "",
@@ -2360,7 +2479,8 @@
     "library": [
       {
         "id": 4,
-        "value": "BSB"
+        "value": "BSB",
+        "order": "3.00000000000000000000"
       }
     ],
     "manuscripta_url": "",

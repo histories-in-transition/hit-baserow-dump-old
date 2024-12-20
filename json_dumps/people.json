@@ -25,19 +25,23 @@
     "works": [
       {
         "id": 1,
-        "value": "De temporibus"
+        "value": "De temporibus",
+        "order": "1.00000000000000000000"
       },
       {
         "id": 7,
-        "value": "De temporum ratione"
+        "value": "De temporum ratione",
+        "order": "6.00000000000000000000"
       },
       {
         "id": 81,
-        "value": "Martyrologium"
+        "value": "Martyrologium",
+        "order": "79.00000000000000000000"
       },
       {
         "id": 98,
-        "value": "De natura rerum"
+        "value": "De natura rerum",
+        "order": "96.00000000000000000000"
       }
     ],
     "work": [
@@ -85,7 +89,8 @@
     "works": [
       {
         "id": 3,
-        "value": "Historiae adversus paganos"
+        "value": "Historiae adversus paganos",
+        "order": "2.00000000000000000000"
       }
     ],
     "work": [
@@ -121,15 +126,18 @@
     "works": [
       {
         "id": 4,
-        "value": "De cyclo paschali"
+        "value": "De cyclo paschali",
+        "order": "3.00000000000000000000"
       },
       {
         "id": 6,
-        "value": "Epactae lunae & solis"
+        "value": "Epactae lunae & solis",
+        "order": "5.00000000000000000000"
       },
       {
         "id": 90,
-        "value": "De argumentis lunae"
+        "value": "De argumentis lunae",
+        "order": "88.00000000000000000000"
       }
     ],
     "work": [
@@ -178,7 +186,8 @@
     "works": [
       {
         "id": 14,
-        "value": "Annales Iuvavenses minores"
+        "value": "Annales Iuvavenses minores",
+        "order": "13.00000000000000000000"
       }
     ],
     "work": [
@@ -214,27 +223,33 @@
     "works": [
       {
         "id": 20,
-        "value": "Miracula sancti Martini"
+        "value": "Miracula sancti Martini",
+        "order": "19.00000000000000000000"
       },
       {
         "id": 22,
-        "value": "De basilica sancti Martini et sollemnitatibus"
+        "value": "De basilica sancti Martini et sollemnitatibus",
+        "order": "21.00000000000000000000"
       },
       {
         "id": 74,
-        "value": "Vita sancti Bricii"
+        "value": "Vita sancti Bricii",
+        "order": "21.50000000000000000000"
       },
       {
         "id": 60,
-        "value": "Miracula sancti Martini"
+        "value": "Miracula sancti Martini",
+        "order": "59.00000000000000000000"
       },
       {
         "id": 61,
-        "value": "Vita sancti Briccii"
+        "value": "Vita sancti Briccii",
+        "order": "60.00000000000000000000"
       },
       {
         "id": 73,
-        "value": "Decem libri historiarum"
+        "value": "Decem libri historiarum",
+        "order": "72.00000000000000000000"
       }
     ],
     "work": [
@@ -290,19 +305,23 @@
     "works": [
       {
         "id": 11,
-        "value": "hieronymi chronicon"
+        "value": "hieronymi chronicon",
+        "order": "10.00000000000000000000"
       },
       {
         "id": 34,
-        "value": "Vita sancti Hilarionis"
+        "value": "Vita sancti Hilarionis",
+        "order": "33.00000000000000000000"
       },
       {
         "id": 35,
-        "value": "Vita sancti Malchi"
+        "value": "Vita sancti Malchi",
+        "order": "34.00000000000000000000"
       },
       {
         "id": 36,
-        "value": "Vita sancti Pauli"
+        "value": "Vita sancti Pauli",
+        "order": "35.00000000000000000000"
       }
     ],
     "work": [
@@ -350,7 +369,8 @@
     "works": [
       {
         "id": 33,
-        "value": "Historia Langobardorum"
+        "value": "Historia Langobardorum",
+        "order": "32.00000000000000000000"
       }
     ],
     "work": [
@@ -386,11 +406,13 @@
     "works": [
       {
         "id": 30,
-        "value": "Historia Ottonis"
+        "value": "Historia Ottonis",
+        "order": "29.00000000000000000000"
       },
       {
         "id": 31,
-        "value": "Antapodosis"
+        "value": "Antapodosis",
+        "order": "30.00000000000000000000"
       }
     ],
     "work": [
@@ -430,7 +452,8 @@
     "works": [
       {
         "id": 32,
-        "value": "Chronica cum Adalberti continuatione"
+        "value": "Chronica cum Adalberti continuatione",
+        "order": "31.00000000000000000000"
       }
     ],
     "work": [
@@ -466,7 +489,8 @@
     "works": [
       {
         "id": 29,
-        "value": "Historia ecclesiastica cum Rufini continuatione"
+        "value": "Historia ecclesiastica cum Rufini continuatione",
+        "order": "28.00000000000000000000"
       }
     ],
     "work": [
@@ -502,11 +526,13 @@
     "works": [
       {
         "id": 29,
-        "value": "Historia ecclesiastica cum Rufini continuatione"
+        "value": "Historia ecclesiastica cum Rufini continuatione",
+        "order": "28.00000000000000000000"
       },
       {
         "id": 55,
-        "value": "Historia monachorum"
+        "value": "Historia monachorum",
+        "order": "54.00000000000000000000"
       }
     ],
     "work": [
@@ -546,7 +572,8 @@
     "works": [
       {
         "id": 57,
-        "value": "Galerius Maximianus Inuictus"
+        "value": "Galerius Maximianus Inuictus",
+        "order": "56.00000000000000000000"
       }
     ],
     "work": [
@@ -582,7 +609,8 @@
     "works": [
       {
         "id": 27,
-        "value": "Historia tripartita ab Epiphanio scholastico translata"
+        "value": "Historia tripartita ab Epiphanio scholastico translata",
+        "order": "26.00000000000000000000"
       }
     ],
     "work": [
@@ -618,7 +646,8 @@
     "works": [
       {
         "id": 25,
-        "value": "De orthographia"
+        "value": "De orthographia",
+        "order": "24.00000000000000000000"
       }
     ],
     "work": [
@@ -654,7 +683,8 @@
     "works": [
       {
         "id": 26,
-        "value": "Corpus juris civilis"
+        "value": "Corpus juris civilis",
+        "order": "25.00000000000000000000"
       }
     ],
     "work": [
@@ -690,7 +720,8 @@
     "works": [
       {
         "id": 53,
-        "value": "Epitoma de Tito Livio"
+        "value": "Epitoma de Tito Livio",
+        "order": "52.00000000000000000000"
       }
     ],
     "work": [
@@ -726,7 +757,8 @@
     "works": [
       {
         "id": 37,
-        "value": "Vita beati Antonii abbatis, Euagrio interprete"
+        "value": "Vita beati Antonii abbatis, Euagrio interprete",
+        "order": "36.00000000000000000000"
       }
     ],
     "work": [
@@ -762,7 +794,8 @@
     "works": [
       {
         "id": 38,
-        "value": "Vita sancti Bonifatii"
+        "value": "Vita sancti Bonifatii",
+        "order": "37.00000000000000000000"
       }
     ],
     "work": [
@@ -798,11 +831,13 @@
     "works": [
       {
         "id": 39,
-        "value": "Vita sancti Wunebaldi"
+        "value": "Vita sancti Wunebaldi",
+        "order": "38.00000000000000000000"
       },
       {
         "id": 40,
-        "value": "Vita sancti Willibaldi"
+        "value": "Vita sancti Willibaldi",
+        "order": "39.00000000000000000000"
       }
     ],
     "work": [
@@ -842,7 +877,8 @@
     "works": [
       {
         "id": 49,
-        "value": "Vita sancti Columbae"
+        "value": "Vita sancti Columbae",
+        "order": "48.00000000000000000000"
       }
     ],
     "work": [
@@ -878,19 +914,23 @@
     "works": [
       {
         "id": 17,
-        "value": "Vita sancti Martini"
+        "value": "Vita sancti Martini",
+        "order": "16.00000000000000000000"
       },
       {
         "id": 18,
-        "value": "Epistulae"
+        "value": "Epistulae",
+        "order": "17.00000000000000000000"
       },
       {
         "id": 19,
-        "value": "Dialogi"
+        "value": "Dialogi",
+        "order": "18.00000000000000000000"
       },
       {
         "id": 21,
-        "value": "Tituli metrici de sancto Martino"
+        "value": "Tituli metrici de sancto Martino",
+        "order": "20.00000000000000000000"
       }
     ],
     "work": [
@@ -938,7 +978,8 @@
     "works": [
       {
         "id": 54,
-        "value": "Periochae"
+        "value": "Periochae",
+        "order": "53.00000000000000000000"
       }
     ],
     "work": [
@@ -974,7 +1015,8 @@
     "works": [
       {
         "id": 48,
-        "value": "Moralia in Job"
+        "value": "Moralia in Job",
+        "order": "47.00000000000000000000"
       }
     ],
     "work": [
@@ -1010,7 +1052,8 @@
     "works": [
       {
         "id": 46,
-        "value": "Concordia testimoniorum"
+        "value": "Concordia testimoniorum",
+        "order": "45.00000000000000000000"
       }
     ],
     "work": [
@@ -1046,11 +1089,13 @@
     "works": [
       {
         "id": 47,
-        "value": "De unitate sanctae trinitatis"
+        "value": "De unitate sanctae trinitatis",
+        "order": "46.00000000000000000000"
       },
       {
         "id": 119,
-        "value": "De duodecim abusivis saeculi"
+        "value": "De duodecim abusivis saeculi",
+        "order": "117.00000000000000000000"
       }
     ],
     "work": [
@@ -1090,23 +1135,28 @@
     "works": [
       {
         "id": 42,
-        "value": "Synonyma"
+        "value": "Synonyma",
+        "order": "41.00000000000000000000"
       },
       {
         "id": 43,
-        "value": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum"
+        "value": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum",
+        "order": "42.00000000000000000000"
       },
       {
         "id": 44,
-        "value": "De natura rerum"
+        "value": "De natura rerum",
+        "order": "43.00000000000000000000"
       },
       {
         "id": 105,
-        "value": "De ecclesiasticis officiis"
+        "value": "De ecclesiasticis officiis",
+        "order": "103.00000000000000000000"
       },
       {
         "id": 133,
-        "value": "Etymologiae"
+        "value": "Etymologiae",
+        "order": "131.00000000000000000000"
       }
     ],
     "work": [
@@ -1158,7 +1208,8 @@
     "works": [
       {
         "id": 51,
-        "value": "Commentarii in Ciceronis Topica"
+        "value": "Commentarii in Ciceronis Topica",
+        "order": "50.00000000000000000000"
       }
     ],
     "work": [
@@ -1194,7 +1245,8 @@
     "works": [
       {
         "id": 52,
-        "value": "Revelatio Esdrae de qualitatibus anni"
+        "value": "Revelatio Esdrae de qualitatibus anni",
+        "order": "51.00000000000000000000"
       }
     ],
     "work": [
@@ -1334,7 +1386,8 @@
     "works": [
       {
         "id": 59,
-        "value": "Tractatus in evangelium Johannis"
+        "value": "Tractatus in evangelium Johannis",
+        "order": "58.00000000000000000000"
       }
     ],
     "work": [
@@ -1370,7 +1423,8 @@
     "works": [
       {
         "id": 64,
-        "value": "Epistola de reliquiis sancti Bartholomaei apostoli nuper in Baioariam allatis"
+        "value": "Epistola de reliquiis sancti Bartholomaei apostoli nuper in Baioariam allatis",
+        "order": "63.00000000000000000000"
       }
     ],
     "work": [
@@ -1406,7 +1460,8 @@
     "works": [
       {
         "id": 71,
-        "value": "Eidesformel Papst Leos III."
+        "value": "Eidesformel Papst Leos III.",
+        "order": "70.00000000000000000000"
       }
     ],
     "work": [
@@ -1442,7 +1497,8 @@
     "works": [
       {
         "id": 23,
-        "value": "Confessio sancti Martini"
+        "value": "Confessio sancti Martini",
+        "order": "22.00000000000000000000"
       }
     ],
     "work": [
@@ -1478,11 +1534,13 @@
     "works": [
       {
         "id": 16,
-        "value": "Synchrone Tafeln über das Alter der Patriarchen von Noe bis Jakob"
+        "value": "Synchrone Tafeln über das Alter der Patriarchen von Noe bis Jakob",
+        "order": "15.00000000000000000000"
       },
       {
         "id": 72,
-        "value": "De globo mundi et coniecture orbis versus"
+        "value": "De globo mundi et coniecture orbis versus",
+        "order": "71.00000000000000000000"
       }
     ],
     "work": [
@@ -1522,7 +1580,8 @@
     "works": [
       {
         "id": 58,
-        "value": "Ab urbe condita"
+        "value": "Ab urbe condita",
+        "order": "57.00000000000000000000"
       }
     ],
     "work": [
@@ -1578,7 +1637,8 @@
     "works": [
       {
         "id": 79,
-        "value": "Hymnus Ad Incensum Lucernae"
+        "value": "Hymnus Ad Incensum Lucernae",
+        "order": "77.00000000000000000000"
       }
     ],
     "work": [
@@ -1614,7 +1674,8 @@
     "works": [
       {
         "id": 104,
-        "value": "Epistola ad Eberhardum de electione eius in archiepiscopum Salisburgensem a. 1147"
+        "value": "Epistola ad Eberhardum de electione eius in archiepiscopum Salisburgensem a. 1147",
+        "order": "102.00000000000000000000"
       }
     ],
     "work": [
@@ -1650,7 +1711,8 @@
     "works": [
       {
         "id": 118,
-        "value": "Visio Eucherii"
+        "value": "Visio Eucherii",
+        "order": "116.00000000000000000000"
       }
     ],
     "work": [
@@ -1686,7 +1748,8 @@
     "works": [
       {
         "id": 126,
-        "value": "Summa sententiarum septem tractatibus distincta"
+        "value": "Summa sententiarum septem tractatibus distincta",
+        "order": "124.00000000000000000000"
       }
     ],
     "work": [
@@ -1748,7 +1811,8 @@
     "works": [
       {
         "id": 127,
-        "value": "Urkunden des Erzbischofs Konrad I. von Abenberg"
+        "value": "Urkunden des Erzbischofs Konrad I. von Abenberg",
+        "order": "125.00000000000000000000"
       }
     ],
     "work": [
@@ -1784,7 +1848,8 @@
     "works": [
       {
         "id": 132,
-        "value": "Codex canonum ecclesiasticorum"
+        "value": "Codex canonum ecclesiasticorum",
+        "order": "130.00000000000000000000"
       }
     ],
     "work": [

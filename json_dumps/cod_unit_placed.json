@@ -6,13 +6,15 @@
     "cod_unit": [
       {
         "id": 3,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1",
+        "order": "3.00000000000000000000"
       }
     ],
     "place": [
       {
         "id": 5,
-        "value": "Saint-Amand-les-Eaux"
+        "value": "Saint-Amand-les-Eaux",
+        "order": "5.00000000000000000000"
       }
     ],
     "from": [],

@@ -11,7 +11,8 @@
     "manuscripts": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "hit_id": "hit_besonderheit__1",
@@ -55,13 +56,15 @@
     "quires": [
       {
         "id": 133,
-        "value": "ÖNB, Cod. 2090, L. 1"
+        "value": "ÖNB, Cod. 2090, L. 1",
+        "order": "127.00000000000000000000"
       }
     ],
     "manuscripts": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "hit_id": "hit_besonderheit__4",
@@ -88,13 +91,15 @@
     "quires": [
       {
         "id": 133,
-        "value": "ÖNB, Cod. 2090, L. 1"
+        "value": "ÖNB, Cod. 2090, L. 1",
+        "order": "127.00000000000000000000"
       }
     ],
     "manuscripts": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "hit_id": "hit_besonderheit__5",
@@ -121,13 +126,15 @@
     "quires": [
       {
         "id": 133,
-        "value": "ÖNB, Cod. 2090, L. 1"
+        "value": "ÖNB, Cod. 2090, L. 1",
+        "order": "127.00000000000000000000"
       }
     ],
     "manuscripts": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "hit_id": "hit_besonderheit__6",

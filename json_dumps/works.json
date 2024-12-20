@@ -9,7 +9,8 @@
     "author": [
       {
         "id": 1,
-        "value": "Beda, Heiliger"
+        "value": "Beda, Heiliger",
+        "order": "1.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -17,7 +18,8 @@
     "genre": [
       {
         "id": 19,
-        "value": "Traktat"
+        "value": "Traktat",
+        "order": "18.00000000000000000000"
       }
     ],
     "note_source": null,
@@ -42,7 +44,8 @@
     "author": [
       {
         "id": 4,
-        "value": "Orosius"
+        "value": "Orosius",
+        "order": "3.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -50,7 +53,8 @@
     "genre": [
       {
         "id": 4,
-        "value": "Chronik"
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
       }
     ],
     "note_source": null,
@@ -75,7 +79,8 @@
     "author": [
       {
         "id": 5,
-        "value": "Ps.-Beda"
+        "value": "Ps.-Beda",
+        "order": "4.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -83,7 +88,8 @@
     "genre": [
       {
         "id": 16,
-        "value": "Komputistik"
+        "value": "Komputistik",
+        "order": "15.00000000000000000000"
       }
     ],
     "note_source": null,
@@ -131,7 +137,8 @@
     "author": [
       {
         "id": 5,
-        "value": "Ps.-Beda"
+        "value": "Ps.-Beda",
+        "order": "4.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -159,7 +166,8 @@
     "author": [
       {
         "id": 1,
-        "value": "Beda, Heiliger"
+        "value": "Beda, Heiliger",
+        "order": "1.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -167,7 +175,8 @@
     "genre": [
       {
         "id": 19,
-        "value": "Traktat"
+        "value": "Traktat",
+        "order": "18.00000000000000000000"
       }
     ],
     "note_source": null,
@@ -194,13 +203,15 @@
     "source_text": [
       {
         "id": 1,
-        "value": "De temporibus"
+        "value": "De temporibus",
+        "order": "1.00000000000000000000"
       }
     ],
     "genre": [
       {
         "id": 16,
-        "value": "Komputistik"
+        "value": "Komputistik",
+        "order": "15.00000000000000000000"
       }
     ],
     "note_source": "Lib. 2",
@@ -225,7 +236,8 @@
     "author": [
       {
         "id": 8,
-        "value": "Hieronymus, Sophronius Eusebius"
+        "value": "Hieronymus, Sophronius Eusebius",
+        "order": "7.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -233,7 +245,8 @@
     "genre": [
       {
         "id": 4,
-        "value": "Chronik"
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -261,7 +274,8 @@
     "genre": [
       {
         "id": 3,
-        "value": "Annalistik"
+        "value": "Annalistik",
+        "order": "3.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -286,7 +300,8 @@
     "author": [
       {
         "id": 6,
-        "value": "Magister Baldo"
+        "value": "Magister Baldo",
+        "order": "5.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -294,7 +309,8 @@
     "genre": [
       {
         "id": 3,
-        "value": "Annalistik"
+        "value": "Annalistik",
+        "order": "3.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -342,7 +358,8 @@
     "author": [
       {
         "id": 39,
-        "value": "Anonymus"
+        "value": "Anonymus",
+        "order": "38.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -370,7 +387,8 @@
     "author": [
       {
         "id": 23,
-        "value": "Sulpicius, Severus"
+        "value": "Sulpicius, Severus",
+        "order": "22.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -378,7 +396,8 @@
     "genre": [
       {
         "id": 1,
-        "value": "Vita"
+        "value": "Vita",
+        "order": "1.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -403,7 +422,8 @@
     "author": [
       {
         "id": 23,
-        "value": "Sulpicius, Severus"
+        "value": "Sulpicius, Severus",
+        "order": "22.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -411,7 +431,8 @@
     "genre": [
       {
         "id": 11,
-        "value": "Briefe"
+        "value": "Briefe",
+        "order": "10.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -436,7 +457,8 @@
     "author": [
       {
         "id": 23,
-        "value": "Sulpicius, Severus"
+        "value": "Sulpicius, Severus",
+        "order": "22.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -444,7 +466,8 @@
     "genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur"
+        "value": "Theologische Literatur",
+        "order": "8.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -469,20 +492,23 @@
     "author": [
       {
         "id": 7,
-        "value": "Gregor, Tours"
+        "value": "Gregor, Tours",
+        "order": "6.00000000000000000000"
       }
     ],
     "bibliography": [],
     "source_text": [
       {
         "id": 73,
-        "value": "Decem libri historiarum"
+        "value": "Decem libri historiarum",
+        "order": "72.00000000000000000000"
       }
     ],
     "genre": [
       {
         "id": 2,
-        "value": "Miracula"
+        "value": "Miracula",
+        "order": "2.00000000000000000000"
       }
     ],
     "note_source": "I, 48",
@@ -507,7 +533,8 @@
     "author": [
       {
         "id": 23,
-        "value": "Sulpicius, Severus"
+        "value": "Sulpicius, Severus",
+        "order": "22.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -515,7 +542,8 @@
     "genre": [
       {
         "id": 6,
-        "value": "Lyrik"
+        "value": "Lyrik",
+        "order": "6.00000000000000000000"
       }
     ],
     "note_source": "Autorschaft umstritten",
@@ -540,20 +568,23 @@
     "author": [
       {
         "id": 7,
-        "value": "Gregor, Tours"
+        "value": "Gregor, Tours",
+        "order": "6.00000000000000000000"
       }
     ],
     "bibliography": [],
     "source_text": [
       {
         "id": 73,
-        "value": "Decem libri historiarum"
+        "value": "Decem libri historiarum",
+        "order": "72.00000000000000000000"
       }
     ],
     "genre": [
       {
         "id": 8,
-        "value": "Topographische Beschreibung"
+        "value": "Topographische Beschreibung",
+        "order": "7.00000000000000000000"
       }
     ],
     "note_source": "II, 14",
@@ -578,20 +609,23 @@
     "author": [
       {
         "id": 7,
-        "value": "Gregor, Tours"
+        "value": "Gregor, Tours",
+        "order": "6.00000000000000000000"
       }
     ],
     "bibliography": [],
     "source_text": [
       {
         "id": 73,
-        "value": "Decem libri historiarum"
+        "value": "Decem libri historiarum",
+        "order": "72.00000000000000000000"
       }
     ],
     "genre": [
       {
         "id": 1,
-        "value": "Vita"
+        "value": "Vita",
+        "order": "1.00000000000000000000"
       }
     ],
     "note_source": "II, 1",
@@ -616,7 +650,8 @@
     "author": [
       {
         "id": 38,
-        "value": "Ps.-Hilarius von Poitiers"
+        "value": "Ps.-Hilarius von Poitiers",
+        "order": "37.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -624,7 +659,8 @@
     "genre": [
       {
         "id": 10,
-        "value": "Confessio"
+        "value": "Confessio",
+        "order": "9.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -652,7 +688,8 @@
     "genre": [
       {
         "id": 2,
-        "value": "Miracula"
+        "value": "Miracula",
+        "order": "2.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -677,7 +714,8 @@
     "author": [
       {
         "id": 16,
-        "value": "Alkuin"
+        "value": "Alkuin",
+        "order": "15.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -685,7 +723,8 @@
     "genre": [
       {
         "id": 19,
-        "value": "Traktat"
+        "value": "Traktat",
+        "order": "18.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -710,7 +749,8 @@
     "author": [
       {
         "id": 17,
-        "value": "Justinian I"
+        "value": "Justinian I",
+        "order": "16.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -718,7 +758,8 @@
     "genre": [
       {
         "id": 12,
-        "value": "Recht"
+        "value": "Recht",
+        "order": "11.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -743,7 +784,8 @@
     "author": [
       {
         "id": 15,
-        "value": "Cassiodorus, Flavius Magnus Aurelius"
+        "value": "Cassiodorus, Flavius Magnus Aurelius",
+        "order": "14.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -751,7 +793,8 @@
     "genre": [
       {
         "id": 4,
-        "value": "Chronik"
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -779,7 +822,8 @@
     "genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur"
+        "value": "Theologische Literatur",
+        "order": "8.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -804,11 +848,13 @@
     "author": [
       {
         "id": 12,
-        "value": "Eusebius, Caesariensis"
+        "value": "Eusebius, Caesariensis",
+        "order": "11.00000000000000000000"
       },
       {
         "id": 13,
-        "value": "Rufinus, Aquileiensis"
+        "value": "Rufinus, Aquileiensis",
+        "order": "12.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -816,7 +862,8 @@
     "genre": [
       {
         "id": 4,
-        "value": "Chronik"
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -841,7 +888,8 @@
     "author": [
       {
         "id": 10,
-        "value": "Liutprand, Cremona"
+        "value": "Liutprand, Cremona",
+        "order": "9.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -849,7 +897,8 @@
     "genre": [
       {
         "id": 4,
-        "value": "Chronik"
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -874,7 +923,8 @@
     "author": [
       {
         "id": 10,
-        "value": "Liutprand, Cremona"
+        "value": "Liutprand, Cremona",
+        "order": "9.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -882,7 +932,8 @@
     "genre": [
       {
         "id": 4,
-        "value": "Chronik"
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -907,7 +958,8 @@
     "author": [
       {
         "id": 11,
-        "value": "Regino, Prüm"
+        "value": "Regino, Prüm",
+        "order": "10.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -915,7 +967,8 @@
     "genre": [
       {
         "id": 4,
-        "value": "Chronik"
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -940,7 +993,8 @@
     "author": [
       {
         "id": 9,
-        "value": "Paulus Diaconus"
+        "value": "Paulus Diaconus",
+        "order": "8.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -948,7 +1002,8 @@
     "genre": [
       {
         "id": 4,
-        "value": "Chronik"
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -973,7 +1028,8 @@
     "author": [
       {
         "id": 8,
-        "value": "Hieronymus, Sophronius Eusebius"
+        "value": "Hieronymus, Sophronius Eusebius",
+        "order": "7.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -981,7 +1037,8 @@
     "genre": [
       {
         "id": 1,
-        "value": "Vita"
+        "value": "Vita",
+        "order": "1.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1006,7 +1063,8 @@
     "author": [
       {
         "id": 8,
-        "value": "Hieronymus, Sophronius Eusebius"
+        "value": "Hieronymus, Sophronius Eusebius",
+        "order": "7.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -1014,7 +1072,8 @@
     "genre": [
       {
         "id": 1,
-        "value": "Vita"
+        "value": "Vita",
+        "order": "1.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1039,7 +1098,8 @@
     "author": [
       {
         "id": 8,
-        "value": "Hieronymus, Sophronius Eusebius"
+        "value": "Hieronymus, Sophronius Eusebius",
+        "order": "7.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -1047,7 +1107,8 @@
     "genre": [
       {
         "id": 1,
-        "value": "Vita"
+        "value": "Vita",
+        "order": "1.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1072,7 +1133,8 @@
     "author": [
       {
         "id": 19,
-        "value": "Athanasius, Alexandrinus"
+        "value": "Athanasius, Alexandrinus",
+        "order": "18.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -1080,7 +1142,8 @@
     "genre": [
       {
         "id": 1,
-        "value": "Vita"
+        "value": "Vita",
+        "order": "1.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1105,7 +1168,8 @@
     "author": [
       {
         "id": 20,
-        "value": "Willibaldus, Moguntinensis"
+        "value": "Willibaldus, Moguntinensis",
+        "order": "19.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -1113,7 +1177,8 @@
     "genre": [
       {
         "id": 1,
-        "value": "Vita"
+        "value": "Vita",
+        "order": "1.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1138,7 +1203,8 @@
     "author": [
       {
         "id": 21,
-        "value": "Hugeburc, Heidenheimensis"
+        "value": "Hugeburc, Heidenheimensis",
+        "order": "20.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -1146,7 +1212,8 @@
     "genre": [
       {
         "id": 1,
-        "value": "Vita"
+        "value": "Vita",
+        "order": "1.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1171,7 +1238,8 @@
     "author": [
       {
         "id": 21,
-        "value": "Hugeburc, Heidenheimensis"
+        "value": "Hugeburc, Heidenheimensis",
+        "order": "20.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -1179,7 +1247,8 @@
     "genre": [
       {
         "id": 1,
-        "value": "Vita"
+        "value": "Vita",
+        "order": "1.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1207,7 +1276,8 @@
     "genre": [
       {
         "id": 1,
-        "value": "Vita"
+        "value": "Vita",
+        "order": "1.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1232,7 +1302,8 @@
     "author": [
       {
         "id": 28,
-        "value": "Isidor, Sevilla"
+        "value": "Isidor, Sevilla",
+        "order": "27.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -1240,7 +1311,8 @@
     "genre": [
       {
         "id": 19,
-        "value": "Traktat"
+        "value": "Traktat",
+        "order": "18.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1265,7 +1337,8 @@
     "author": [
       {
         "id": 28,
-        "value": "Isidor, Sevilla"
+        "value": "Isidor, Sevilla",
+        "order": "27.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -1273,7 +1346,8 @@
     "genre": [
       {
         "id": 19,
-        "value": "Traktat"
+        "value": "Traktat",
+        "order": "18.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1298,7 +1372,8 @@
     "author": [
       {
         "id": 28,
-        "value": "Isidor, Sevilla"
+        "value": "Isidor, Sevilla",
+        "order": "27.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -1306,7 +1381,8 @@
     "genre": [
       {
         "id": 19,
-        "value": "Traktat"
+        "value": "Traktat",
+        "order": "18.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1334,7 +1410,8 @@
     "genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur"
+        "value": "Theologische Literatur",
+        "order": "8.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1359,7 +1436,8 @@
     "author": [
       {
         "id": 26,
-        "value": "Ps.-Gregor I"
+        "value": "Ps.-Gregor I",
+        "order": "25.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -1367,7 +1445,8 @@
     "genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur"
+        "value": "Theologische Literatur",
+        "order": "8.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1392,7 +1471,8 @@
     "author": [
       {
         "id": 27,
-        "value": "Ps.- Augustinus"
+        "value": "Ps.- Augustinus",
+        "order": "26.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -1400,7 +1480,8 @@
     "genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur"
+        "value": "Theologische Literatur",
+        "order": "8.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1425,7 +1506,8 @@
     "author": [
       {
         "id": 25,
-        "value": "Gregor I"
+        "value": "Gregor I",
+        "order": "24.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -1433,7 +1515,8 @@
     "genre": [
       {
         "id": 13,
-        "value": "Biblische Kommentare"
+        "value": "Biblische Kommentare",
+        "order": "12.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1458,7 +1541,8 @@
     "author": [
       {
         "id": 22,
-        "value": "Adamnanus, de Iona"
+        "value": "Adamnanus, de Iona",
+        "order": "21.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -1466,7 +1550,8 @@
     "genre": [
       {
         "id": 1,
-        "value": "Vita"
+        "value": "Vita",
+        "order": "1.00000000000000000000"
       }
     ],
     "note_source": "recencio brevior",
@@ -1494,7 +1579,8 @@
     "genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur"
+        "value": "Theologische Literatur",
+        "order": "8.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1519,7 +1605,8 @@
     "author": [
       {
         "id": 29,
-        "value": "Boethius, Anicius Manlius Severinus"
+        "value": "Boethius, Anicius Manlius Severinus",
+        "order": "28.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -1527,7 +1614,8 @@
     "genre": [
       {
         "id": 20,
-        "value": "Kommentar"
+        "value": "Kommentar",
+        "order": "19.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1552,7 +1640,8 @@
     "author": [
       {
         "id": 30,
-        "value": "Esra"
+        "value": "Esra",
+        "order": "29.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -1560,7 +1649,8 @@
     "genre": [
       {
         "id": 14,
-        "value": "Kalandologion"
+        "value": "Kalandologion",
+        "order": "13.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1585,7 +1675,8 @@
     "author": [
       {
         "id": 18,
-        "value": "Florus, Publius Annius"
+        "value": "Florus, Publius Annius",
+        "order": "17.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -1593,7 +1684,8 @@
     "genre": [
       {
         "id": 4,
-        "value": "Chronik"
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1618,7 +1710,8 @@
     "author": [
       {
         "id": 24,
-        "value": "Ps.-Livius"
+        "value": "Ps.-Livius",
+        "order": "23.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -1626,11 +1719,13 @@
     "genre": [
       {
         "id": 5,
-        "value": "Historiographie"
+        "value": "Historiographie",
+        "order": "5.00000000000000000000"
       },
       {
         "id": 21,
-        "value": "Excerpta"
+        "value": "Excerpta",
+        "order": "20.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1655,7 +1750,8 @@
     "author": [
       {
         "id": 13,
-        "value": "Rufinus, Aquileiensis"
+        "value": "Rufinus, Aquileiensis",
+        "order": "12.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -1663,7 +1759,8 @@
     "genre": [
       {
         "id": 4,
-        "value": "Chronik"
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1691,7 +1788,8 @@
     "genre": [
       {
         "id": 22,
-        "value": "Katalog"
+        "value": "Katalog",
+        "order": "21.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1716,24 +1814,28 @@
     "author": [
       {
         "id": 14,
-        "value": "Imperator Caesar Galerius Maximianus Inuictus"
+        "value": "Imperator Caesar Galerius Maximianus Inuictus",
+        "order": "13.00000000000000000000"
       }
     ],
     "bibliography": [],
     "source_text": [
       {
         "id": 29,
-        "value": "Historia ecclesiastica cum Rufini continuatione"
+        "value": "Historia ecclesiastica cum Rufini continuatione",
+        "order": "28.00000000000000000000"
       }
     ],
     "genre": [
       {
         "id": 4,
-        "value": "Chronik"
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
       },
       {
         "id": 21,
-        "value": "Excerpta"
+        "value": "Excerpta",
+        "order": "20.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1758,7 +1860,8 @@
     "author": [
       {
         "id": 40,
-        "value": "Titus Livius"
+        "value": "Titus Livius",
+        "order": "39.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -1766,7 +1869,8 @@
     "genre": [
       {
         "id": 5,
-        "value": "Historiographie"
+        "value": "Historiographie",
+        "order": "5.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1791,7 +1895,8 @@
     "author": [
       {
         "id": 35,
-        "value": "Augustinus, Aurelius"
+        "value": "Augustinus, Aurelius",
+        "order": "34.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -1799,7 +1904,8 @@
     "genre": [
       {
         "id": 13,
-        "value": "Biblische Kommentare"
+        "value": "Biblische Kommentare",
+        "order": "12.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1824,20 +1930,23 @@
     "author": [
       {
         "id": 7,
-        "value": "Gregor, Tours"
+        "value": "Gregor, Tours",
+        "order": "6.00000000000000000000"
       }
     ],
     "bibliography": [],
     "source_text": [
       {
         "id": 20,
-        "value": "Miracula sancti Martini"
+        "value": "Miracula sancti Martini",
+        "order": "19.00000000000000000000"
       }
     ],
     "genre": [
       {
         "id": 2,
-        "value": "Miracula"
+        "value": "Miracula",
+        "order": "2.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1862,20 +1971,23 @@
     "author": [
       {
         "id": 7,
-        "value": "Gregor, Tours"
+        "value": "Gregor, Tours",
+        "order": "6.00000000000000000000"
       }
     ],
     "bibliography": [],
     "source_text": [
       {
         "id": 20,
-        "value": "Miracula sancti Martini"
+        "value": "Miracula sancti Martini",
+        "order": "19.00000000000000000000"
       }
     ],
     "genre": [
       {
         "id": 1,
-        "value": "Vita"
+        "value": "Vita",
+        "order": "1.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1903,7 +2015,8 @@
     "genre": [
       {
         "id": 19,
-        "value": "Traktat"
+        "value": "Traktat",
+        "order": "18.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1951,7 +2064,8 @@
     "author": [
       {
         "id": 36,
-        "value": "Erchanbertus, Frisingensis"
+        "value": "Erchanbertus, Frisingensis",
+        "order": "35.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -1959,7 +2073,8 @@
     "genre": [
       {
         "id": 11,
-        "value": "Briefe"
+        "value": "Briefe",
+        "order": "10.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -1986,13 +2101,15 @@
     "source_text": [
       {
         "id": 50,
-        "value": "Historiae duae de sancta cruce"
+        "value": "Historiae duae de sancta cruce",
+        "order": "49.00000000000000000000"
       }
     ],
     "genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur"
+        "value": "Theologische Literatur",
+        "order": "8.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -2019,13 +2136,15 @@
     "source_text": [
       {
         "id": 50,
-        "value": "Historiae duae de sancta cruce"
+        "value": "Historiae duae de sancta cruce",
+        "order": "49.00000000000000000000"
       }
     ],
     "genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur"
+        "value": "Theologische Literatur",
+        "order": "8.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -2142,7 +2261,8 @@
     "author": [
       {
         "id": 37,
-        "value": "Leo III., Papst"
+        "value": "Leo III., Papst",
+        "order": "36.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -2170,7 +2290,8 @@
     "author": [
       {
         "id": 39,
-        "value": "Anonymus"
+        "value": "Anonymus",
+        "order": "38.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -2198,7 +2319,8 @@
     "author": [
       {
         "id": 7,
-        "value": "Gregor, Tours"
+        "value": "Gregor, Tours",
+        "order": "6.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -2206,7 +2328,8 @@
     "genre": [
       {
         "id": 5,
-        "value": "Historiographie"
+        "value": "Historiographie",
+        "order": "5.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -2303,11 +2426,13 @@
     "genre": [
       {
         "id": 5,
-        "value": "Historiographie"
+        "value": "Historiographie",
+        "order": "5.00000000000000000000"
       },
       {
         "id": 16,
-        "value": "Komputistik"
+        "value": "Komputistik",
+        "order": "15.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -2332,7 +2457,8 @@
     "author": [
       {
         "id": 42,
-        "value": "Prudentius Clemens, Aurelius"
+        "value": "Prudentius Clemens, Aurelius",
+        "order": "41.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -2340,7 +2466,8 @@
     "genre": [
       {
         "id": 15,
-        "value": "Hymnus"
+        "value": "Hymnus",
+        "order": "14.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -2388,7 +2515,8 @@
     "author": [
       {
         "id": 1,
-        "value": "Beda, Heiliger"
+        "value": "Beda, Heiliger",
+        "order": "1.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -2511,7 +2639,8 @@
     "genre": [
       {
         "id": 15,
-        "value": "Hymnus"
+        "value": "Hymnus",
+        "order": "14.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -2539,7 +2668,8 @@
     "genre": [
       {
         "id": 5,
-        "value": "Historiographie"
+        "value": "Historiographie",
+        "order": "5.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -2567,7 +2697,8 @@
     "genre": [
       {
         "id": 16,
-        "value": "Komputistik"
+        "value": "Komputistik",
+        "order": "15.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -2594,13 +2725,15 @@
     "source_text": [
       {
         "id": 90,
-        "value": "De argumentis lunae"
+        "value": "De argumentis lunae",
+        "order": "88.00000000000000000000"
       }
     ],
     "genre": [
       {
         "id": 16,
-        "value": "Komputistik"
+        "value": "Komputistik",
+        "order": "15.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -2625,7 +2758,8 @@
     "author": [
       {
         "id": 5,
-        "value": "Ps.-Beda"
+        "value": "Ps.-Beda",
+        "order": "4.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -2656,7 +2790,8 @@
     "genre": [
       {
         "id": 16,
-        "value": "Komputistik"
+        "value": "Komputistik",
+        "order": "15.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -2706,13 +2841,15 @@
     "source_text": [
       {
         "id": 7,
-        "value": "De temporum ratione"
+        "value": "De temporum ratione",
+        "order": "6.00000000000000000000"
       }
     ],
     "genre": [
       {
         "id": 16,
-        "value": "Komputistik"
+        "value": "Komputistik",
+        "order": "15.00000000000000000000"
       }
     ],
     "note_source": "Kapitel 19",
@@ -2763,7 +2900,8 @@
     "genre": [
       {
         "id": 5,
-        "value": "Historiographie"
+        "value": "Historiographie",
+        "order": "5.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -2791,11 +2929,13 @@
     "genre": [
       {
         "id": 5,
-        "value": "Historiographie"
+        "value": "Historiographie",
+        "order": "5.00000000000000000000"
       },
       {
         "id": 16,
-        "value": "Komputistik"
+        "value": "Komputistik",
+        "order": "15.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -2843,7 +2983,8 @@
     "author": [
       {
         "id": 1,
-        "value": "Beda, Heiliger"
+        "value": "Beda, Heiliger",
+        "order": "1.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -2897,7 +3038,8 @@
     "genre": [
       {
         "id": 16,
-        "value": "Komputistik"
+        "value": "Komputistik",
+        "order": "15.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -2948,7 +3090,8 @@
     "genre": [
       {
         "id": 5,
-        "value": "Historiographie"
+        "value": "Historiographie",
+        "order": "5.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -2996,7 +3139,8 @@
     "author": [
       {
         "id": 43,
-        "value": "Heinrich I., Regensburg, Bischof"
+        "value": "Heinrich I., Regensburg, Bischof",
+        "order": "42.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -3004,7 +3148,8 @@
     "genre": [
       {
         "id": 11,
-        "value": "Briefe"
+        "value": "Briefe",
+        "order": "10.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -3029,7 +3174,8 @@
     "author": [
       {
         "id": 28,
-        "value": "Isidor, Sevilla"
+        "value": "Isidor, Sevilla",
+        "order": "27.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -3129,7 +3275,8 @@
     "genre": [
       {
         "id": 11,
-        "value": "Briefe"
+        "value": "Briefe",
+        "order": "10.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -3180,7 +3327,8 @@
     "genre": [
       {
         "id": 3,
-        "value": "Annalistik"
+        "value": "Annalistik",
+        "order": "3.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -3323,7 +3471,8 @@
     "genre": [
       {
         "id": 5,
-        "value": "Historiographie"
+        "value": "Historiographie",
+        "order": "5.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -3348,7 +3497,8 @@
     "author": [
       {
         "id": 44,
-        "value": "Hinkmar, Reims, Erzbischof"
+        "value": "Hinkmar, Reims, Erzbischof",
+        "order": "43.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -3376,7 +3526,8 @@
     "author": [
       {
         "id": 27,
-        "value": "Ps.- Augustinus"
+        "value": "Ps.- Augustinus",
+        "order": "26.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -3542,7 +3693,8 @@
     "author": [
       {
         "id": 45,
-        "value": "Hugo, von Sankt Victor"
+        "value": "Hugo, von Sankt Victor",
+        "order": "44.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -3570,7 +3722,8 @@
     "author": [
       {
         "id": 47,
-        "value": "Konrad I., Salzburg, Erzbischof"
+        "value": "Konrad I., Salzburg, Erzbischof",
+        "order": "46.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -3578,7 +3731,8 @@
     "genre": [
       {
         "id": 17,
-        "value": "Urkunde"
+        "value": "Urkunde",
+        "order": "16.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -3695,7 +3849,8 @@
     "author": [
       {
         "id": 48,
-        "value": "Dionysius, Exiguus"
+        "value": "Dionysius, Exiguus",
+        "order": "47.00000000000000000000"
       }
     ],
     "bibliography": [],
@@ -3703,7 +3858,8 @@
     "genre": [
       {
         "id": 18,
-        "value": "Canones"
+        "value": "Canones",
+        "order": "17.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -3728,7 +3884,8 @@
     "author": [
       {
         "id": 28,
-        "value": "Isidor, Sevilla"
+        "value": "Isidor, Sevilla",
+        "order": "27.00000000000000000000"
       }
     ],
     "bibliography": [],

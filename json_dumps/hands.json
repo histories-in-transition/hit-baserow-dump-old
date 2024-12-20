@@ -16,14 +16,16 @@
     "similar_hands": [
       {
         "id": 5,
-        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3",
+        "order": "11.00000000000000000000"
       }
     ],
     "nr_daniel": null,
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "number": "1",
@@ -41,7 +43,8 @@
     "hands_role": [
       {
         "id": 2,
-        "value": "hit_hands_role__2"
+        "value": "hit_hands_role__2",
+        "order": "2.00000000000000000000"
       }
     ],
     "role": [
@@ -70,7 +73,8 @@
     "hands_placed": [
       {
         "id": 3,
-        "value": "hit_hands_placed__3"
+        "value": "hit_hands_placed__3",
+        "order": "3.00000000000000000000"
       }
     ],
     "scribe": [],
@@ -95,7 +99,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "number": "2",
@@ -113,15 +118,18 @@
     "hands_role": [
       {
         "id": 3,
-        "value": "hit_hands_role__3"
+        "value": "hit_hands_role__3",
+        "order": "3.00000000000000000000"
       },
       {
         "id": 17,
-        "value": "hit_hands_role__17"
+        "value": "hit_hands_role__17",
+        "order": "9.00000000000000000000"
       },
       {
         "id": 20,
-        "value": "hit_hands_role__20"
+        "value": "hit_hands_role__20",
+        "order": "12.00000000000000000000"
       }
     ],
     "role": [
@@ -182,7 +190,8 @@
     "hands_dated": [
       {
         "id": 4,
-        "value": "hit_hands_dated__4"
+        "value": "hit_hands_dated__4",
+        "order": "4.00000000000000000000"
       }
     ],
     "dating": [
@@ -197,7 +206,8 @@
     "hands_placed": [
       {
         "id": 4,
-        "value": "hit_hands_placed__4"
+        "value": "hit_hands_placed__4",
+        "order": "4.00000000000000000000"
       }
     ],
     "scribe": [],
@@ -220,14 +230,16 @@
     "similar_hands": [
       {
         "id": 11,
-        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 1"
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 1",
+        "order": "9.00000000000000000000"
       }
     ],
     "nr_daniel": null,
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "number": "3",
@@ -245,39 +257,48 @@
     "hands_role": [
       {
         "id": 6,
-        "value": "hit_hands_role__6"
+        "value": "hit_hands_role__6",
+        "order": "1.50000000000000000000"
       },
       {
         "id": 14,
-        "value": "hit_hands_role__14"
+        "value": "hit_hands_role__14",
+        "order": "1.60000000000000008882"
       },
       {
         "id": 4,
-        "value": "hit_hands_role__4"
+        "value": "hit_hands_role__4",
+        "order": "1.66666666666666674068"
       },
       {
         "id": 5,
-        "value": "hit_hands_role__5"
+        "value": "hit_hands_role__5",
+        "order": "1.75000000000000000000"
       },
       {
         "id": 10,
-        "value": "hit_hands_role__10"
+        "value": "hit_hands_role__10",
+        "order": "4.00000000000000000000"
       },
       {
         "id": 11,
-        "value": "hit_hands_role__11"
+        "value": "hit_hands_role__11",
+        "order": "5.00000000000000000000"
       },
       {
         "id": 15,
-        "value": "hit_hands_role__15"
+        "value": "hit_hands_role__15",
+        "order": "7.00000000000000000000"
       },
       {
         "id": 35,
-        "value": "hit_hands_role__35"
+        "value": "hit_hands_role__35",
+        "order": "27.00000000000000000000"
       },
       {
         "id": 102,
-        "value": "hit_hands_role__102"
+        "value": "hit_hands_role__102",
+        "order": "88.00000000000000000000"
       }
     ],
     "role": [
@@ -440,7 +461,8 @@
     "hands_dated": [
       {
         "id": 5,
-        "value": "hit_hands_dated__5"
+        "value": "hit_hands_dated__5",
+        "order": "5.00000000000000000000"
       }
     ],
     "dating": [
@@ -455,13 +477,15 @@
     "hands_placed": [
       {
         "id": 1,
-        "value": "hit_hands_placed__1"
+        "value": "hit_hands_placed__1",
+        "order": "1.00000000000000000000"
       }
     ],
     "scribe": [
       {
         "id": 14,
-        "value": "Magister Baldo"
+        "value": "Magister Baldo",
+        "order": "13.00000000000000000000"
       }
     ],
     "gruppe": false
@@ -485,7 +509,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "number": "4",
@@ -503,7 +528,8 @@
     "hands_role": [
       {
         "id": 22,
-        "value": "hit_hands_role__22"
+        "value": "hit_hands_role__22",
+        "order": "14.00000000000000000000"
       }
     ],
     "role": [
@@ -530,7 +556,8 @@
     "hands_dated": [
       {
         "id": 7,
-        "value": "hit_hands_dated__7"
+        "value": "hit_hands_dated__7",
+        "order": "7.00000000000000000000"
       }
     ],
     "dating": [
@@ -545,7 +572,8 @@
     "hands_placed": [
       {
         "id": 2,
-        "value": "hit_hands_placed__2"
+        "value": "hit_hands_placed__2",
+        "order": "2.00000000000000000000"
       }
     ],
     "scribe": [],
@@ -570,7 +598,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "number": "5",
@@ -588,11 +617,13 @@
     "hands_role": [
       {
         "id": 21,
-        "value": "hit_hands_role__21"
+        "value": "hit_hands_role__21",
+        "order": "13.00000000000000000000"
       },
       {
         "id": 23,
-        "value": "hit_hands_role__23"
+        "value": "hit_hands_role__23",
+        "order": "15.00000000000000000000"
       }
     ],
     "role": [
@@ -636,7 +667,8 @@
     "hands_dated": [
       {
         "id": 8,
-        "value": "hit_hands_dated__8"
+        "value": "hit_hands_dated__8",
+        "order": "8.00000000000000000000"
       }
     ],
     "dating": [
@@ -651,7 +683,8 @@
     "hands_placed": [
       {
         "id": 5,
-        "value": "hit_hands_placed__5"
+        "value": "hit_hands_placed__5",
+        "order": "5.00000000000000000000"
       }
     ],
     "scribe": [],
@@ -676,7 +709,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "number": "6",
@@ -694,7 +728,8 @@
     "hands_role": [
       {
         "id": 16,
-        "value": "hit_hands_role__16"
+        "value": "hit_hands_role__16",
+        "order": "8.00000000000000000000"
       }
     ],
     "role": [
@@ -721,7 +756,8 @@
     "hands_dated": [
       {
         "id": 6,
-        "value": "hit_hands_dated__6"
+        "value": "hit_hands_dated__6",
+        "order": "8.50000000000000000000"
       }
     ],
     "dating": [
@@ -736,7 +772,8 @@
     "hands_placed": [
       {
         "id": 6,
-        "value": "hit_hands_placed__6"
+        "value": "hit_hands_placed__6",
+        "order": "6.00000000000000000000"
       }
     ],
     "scribe": [],
@@ -761,7 +798,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "number": "7",
@@ -779,7 +817,8 @@
     "hands_role": [
       {
         "id": 12,
-        "value": "hit_hands_role__12"
+        "value": "hit_hands_role__12",
+        "order": "6.00000000000000000000"
       }
     ],
     "role": [
@@ -806,7 +845,8 @@
     "hands_dated": [
       {
         "id": 9,
-        "value": "hit_hands_dated__9"
+        "value": "hit_hands_dated__9",
+        "order": "9.00000000000000000000"
       }
     ],
     "dating": [
@@ -821,7 +861,8 @@
     "hands_placed": [
       {
         "id": 7,
-        "value": "hit_hands_placed__7"
+        "value": "hit_hands_placed__7",
+        "order": "7.00000000000000000000"
       }
     ],
     "scribe": [],
@@ -846,7 +887,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "number": "8",
@@ -864,7 +906,8 @@
     "hands_role": [
       {
         "id": 18,
-        "value": "hit_hands_role__18"
+        "value": "hit_hands_role__18",
+        "order": "10.00000000000000000000"
       }
     ],
     "role": [
@@ -891,7 +934,8 @@
     "hands_dated": [
       {
         "id": 11,
-        "value": "hit_hands_dated__11"
+        "value": "hit_hands_dated__11",
+        "order": "10.00000000000000000000"
       }
     ],
     "dating": [
@@ -906,7 +950,8 @@
     "hands_placed": [
       {
         "id": 8,
-        "value": "hit_hands_placed__8"
+        "value": "hit_hands_placed__8",
+        "order": "8.00000000000000000000"
       }
     ],
     "scribe": [],
@@ -931,7 +976,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "number": "9",
@@ -949,23 +995,28 @@
     "hands_role": [
       {
         "id": 19,
-        "value": "hit_hands_role__19"
+        "value": "hit_hands_role__19",
+        "order": "11.00000000000000000000"
       },
       {
         "id": 24,
-        "value": "hit_hands_role__24"
+        "value": "hit_hands_role__24",
+        "order": "16.00000000000000000000"
       },
       {
         "id": 28,
-        "value": "hit_hands_role__28"
+        "value": "hit_hands_role__28",
+        "order": "20.00000000000000000000"
       },
       {
         "id": 29,
-        "value": "hit_hands_role__29"
+        "value": "hit_hands_role__29",
+        "order": "21.00000000000000000000"
       },
       {
         "id": 30,
-        "value": "hit_hands_role__30"
+        "value": "hit_hands_role__30",
+        "order": "22.00000000000000000000"
       }
     ],
     "role": [
@@ -1060,7 +1111,8 @@
     "hands_dated": [
       {
         "id": 12,
-        "value": "hit_hands_dated__12"
+        "value": "hit_hands_dated__12",
+        "order": "11.00000000000000000000"
       }
     ],
     "dating": [
@@ -1075,7 +1127,8 @@
     "hands_placed": [
       {
         "id": 9,
-        "value": "hit_hands_placed__9"
+        "value": "hit_hands_placed__9",
+        "order": "9.00000000000000000000"
       }
     ],
     "scribe": [],
@@ -1100,7 +1153,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "number": "10",
@@ -1118,7 +1172,8 @@
     "hands_role": [
       {
         "id": 31,
-        "value": "hit_hands_role__31"
+        "value": "hit_hands_role__31",
+        "order": "23.00000000000000000000"
       }
     ],
     "role": [
@@ -1145,7 +1200,8 @@
     "hands_dated": [
       {
         "id": 14,
-        "value": "hit_hands_dated__14"
+        "value": "hit_hands_dated__14",
+        "order": "13.00000000000000000000"
       }
     ],
     "dating": [
@@ -1180,7 +1236,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "number": "11",
@@ -1198,15 +1255,18 @@
     "hands_role": [
       {
         "id": 32,
-        "value": "hit_hands_role__32"
+        "value": "hit_hands_role__32",
+        "order": "24.00000000000000000000"
       },
       {
         "id": 33,
-        "value": "hit_hands_role__33"
+        "value": "hit_hands_role__33",
+        "order": "25.00000000000000000000"
       },
       {
         "id": 34,
-        "value": "hit_hands_role__34"
+        "value": "hit_hands_role__34",
+        "order": "26.00000000000000000000"
       }
     ],
     "role": [
@@ -1267,7 +1327,8 @@
     "hands_dated": [
       {
         "id": 15,
-        "value": "hit_hands_dated__15"
+        "value": "hit_hands_dated__15",
+        "order": "14.00000000000000000000"
       }
     ],
     "dating": [
@@ -1302,7 +1363,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "number": "12",
@@ -1320,7 +1382,8 @@
     "hands_role": [
       {
         "id": 25,
-        "value": "hit_hands_role__25"
+        "value": "hit_hands_role__25",
+        "order": "17.00000000000000000000"
       }
     ],
     "role": [
@@ -1347,7 +1410,8 @@
     "hands_dated": [
       {
         "id": 19,
-        "value": "hit_hands_dated__19"
+        "value": "hit_hands_dated__19",
+        "order": "18.00000000000000000000"
       }
     ],
     "dating": [
@@ -1382,7 +1446,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "number": "13",
@@ -1400,7 +1465,8 @@
     "hands_role": [
       {
         "id": 82,
-        "value": "hit_hands_role__82"
+        "value": "hit_hands_role__82",
+        "order": "72.00000000000000000000"
       }
     ],
     "role": [
@@ -1427,7 +1493,8 @@
     "hands_dated": [
       {
         "id": 53,
-        "value": "hit_hands_dated__53"
+        "value": "hit_hands_dated__53",
+        "order": "53.00000000000000000000"
       }
     ],
     "dating": [
@@ -1462,7 +1529,8 @@
     "manuscript": [
       {
         "id": 5,
-        "value": "BSB, Clm. 6326"
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
       }
     ],
     "number": "1",
@@ -1480,7 +1548,8 @@
     "hands_role": [
       {
         "id": 121,
-        "value": "hit_hands_role__121"
+        "value": "hit_hands_role__121",
+        "order": "107.00000000000000000000"
       }
     ],
     "role": [
@@ -1563,7 +1632,8 @@
     "hands_dated": [
       {
         "id": 13,
-        "value": "hit_hands_dated__13"
+        "value": "hit_hands_dated__13",
+        "order": "12.00000000000000000000"
       }
     ],
     "dating": [
@@ -1578,7 +1648,8 @@
     "hands_placed": [
       {
         "id": 24,
-        "value": "hit_hands_placed__24"
+        "value": "hit_hands_placed__24",
+        "order": "24.00000000000000000000"
       }
     ],
     "scribe": [],
@@ -1603,7 +1674,8 @@
     "manuscript": [
       {
         "id": 5,
-        "value": "BSB, Clm. 6326"
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
       }
     ],
     "number": "2",
@@ -1621,7 +1693,8 @@
     "hands_role": [
       {
         "id": 153,
-        "value": "hit_hands_role__153"
+        "value": "hit_hands_role__153",
+        "order": "139.00000000000000000000"
       }
     ],
     "role": [
@@ -1655,14 +1728,16 @@
     "hands_dated": [
       {
         "id": 16,
-        "value": "hit_hands_dated__16"
+        "value": "hit_hands_dated__16",
+        "order": "15.00000000000000000000"
       }
     ],
     "dating": [],
     "hands_placed": [
       {
         "id": 25,
-        "value": "hit_hands_placed__25"
+        "value": "hit_hands_placed__25",
+        "order": "25.00000000000000000000"
       }
     ],
     "scribe": [],
@@ -1687,7 +1762,8 @@
     "manuscript": [
       {
         "id": 6,
-        "value": "BSB, Clm. 6308"
+        "value": "BSB, Clm. 6308",
+        "order": "5.00000000000000000000"
       }
     ],
     "number": "1",
@@ -1705,7 +1781,8 @@
     "hands_role": [
       {
         "id": 36,
-        "value": "hit_hands_role__36"
+        "value": "hit_hands_role__36",
+        "order": "28.00000000000000000000"
       }
     ],
     "role": [
@@ -1732,7 +1809,8 @@
     "hands_dated": [
       {
         "id": 18,
-        "value": "hit_hands_dated__18"
+        "value": "hit_hands_dated__18",
+        "order": "17.00000000000000000000"
       }
     ],
     "dating": [
@@ -1747,7 +1825,8 @@
     "hands_placed": [
       {
         "id": 10,
-        "value": "hit_hands_placed__10"
+        "value": "hit_hands_placed__10",
+        "order": "10.00000000000000000000"
       }
     ],
     "scribe": [],
@@ -1770,14 +1849,16 @@
     "similar_hands": [
       {
         "id": 106,
-        "value": "BSB, Clm. 6308_H. 3"
+        "value": "BSB, Clm. 6308_H. 3",
+        "order": "98.00000000000000000000"
       }
     ],
     "nr_daniel": "",
     "manuscript": [
       {
         "id": 6,
-        "value": "BSB, Clm. 6308"
+        "value": "BSB, Clm. 6308",
+        "order": "5.00000000000000000000"
       }
     ],
     "number": "2",
@@ -1795,7 +1876,8 @@
     "hands_role": [
       {
         "id": 38,
-        "value": "hit_hands_role__38"
+        "value": "hit_hands_role__38",
+        "order": "30.00000000000000000000"
       }
     ],
     "role": [
@@ -1827,7 +1909,8 @@
     "hands_dated": [
       {
         "id": 17,
-        "value": "hit_hands_dated__17"
+        "value": "hit_hands_dated__17",
+        "order": "16.00000000000000000000"
       }
     ],
     "dating": [
@@ -1862,7 +1945,8 @@
     "manuscript": [
       {
         "id": 22,
-        "value": "ÖNB, Cod. 366"
+        "value": "ÖNB, Cod. 366",
+        "order": "1.66666666666666674068"
       }
     ],
     "number": "1",
@@ -1880,7 +1964,8 @@
     "hands_role": [
       {
         "id": 39,
-        "value": "hit_hands_role__39"
+        "value": "hit_hands_role__39",
+        "order": "31.00000000000000000000"
       }
     ],
     "role": [
@@ -1907,7 +1992,8 @@
     "hands_dated": [
       {
         "id": 20,
-        "value": "hit_hands_dated__20"
+        "value": "hit_hands_dated__20",
+        "order": "19.00000000000000000000"
       }
     ],
     "dating": [
@@ -1922,7 +2008,8 @@
     "hands_placed": [
       {
         "id": 11,
-        "value": "hit_hands_placed__11"
+        "value": "hit_hands_placed__11",
+        "order": "11.00000000000000000000"
       }
     ],
     "scribe": [],
@@ -1947,7 +2034,8 @@
     "manuscript": [
       {
         "id": 22,
-        "value": "ÖNB, Cod. 366"
+        "value": "ÖNB, Cod. 366",
+        "order": "1.66666666666666674068"
       }
     ],
     "number": "2",
@@ -1965,7 +2053,8 @@
     "hands_role": [
       {
         "id": 41,
-        "value": "hit_hands_role__41"
+        "value": "hit_hands_role__41",
+        "order": "33.00000000000000000000"
       }
     ],
     "role": [
@@ -1992,7 +2081,8 @@
     "hands_dated": [
       {
         "id": 21,
-        "value": "hit_hands_dated__21"
+        "value": "hit_hands_dated__21",
+        "order": "20.00000000000000000000"
       }
     ],
     "dating": [
@@ -2007,7 +2097,8 @@
     "hands_placed": [
       {
         "id": 12,
-        "value": "hit_hands_placed__12"
+        "value": "hit_hands_placed__12",
+        "order": "12.00000000000000000000"
       }
     ],
     "scribe": [],
@@ -2032,7 +2123,8 @@
     "manuscript": [
       {
         "id": 22,
-        "value": "ÖNB, Cod. 366"
+        "value": "ÖNB, Cod. 366",
+        "order": "1.66666666666666674068"
       }
     ],
     "number": "3",
@@ -2050,7 +2142,8 @@
     "hands_role": [
       {
         "id": 42,
-        "value": "hit_hands_role__42"
+        "value": "hit_hands_role__42",
+        "order": "34.00000000000000000000"
       }
     ],
     "role": [
@@ -2077,7 +2170,8 @@
     "hands_dated": [
       {
         "id": 22,
-        "value": "hit_hands_dated__22"
+        "value": "hit_hands_dated__22",
+        "order": "21.00000000000000000000"
       }
     ],
     "dating": [
@@ -2092,7 +2186,8 @@
     "hands_placed": [
       {
         "id": 13,
-        "value": "hit_hands_placed__13"
+        "value": "hit_hands_placed__13",
+        "order": "13.00000000000000000000"
       }
     ],
     "scribe": [],
@@ -2117,7 +2212,8 @@
     "manuscript": [
       {
         "id": 22,
-        "value": "ÖNB, Cod. 366"
+        "value": "ÖNB, Cod. 366",
+        "order": "1.66666666666666674068"
       }
     ],
     "number": "4",
@@ -2135,7 +2231,8 @@
     "hands_role": [
       {
         "id": 43,
-        "value": "hit_hands_role__43"
+        "value": "hit_hands_role__43",
+        "order": "35.00000000000000000000"
       }
     ],
     "role": [
@@ -2162,7 +2259,8 @@
     "hands_dated": [
       {
         "id": 23,
-        "value": "hit_hands_dated__23"
+        "value": "hit_hands_dated__23",
+        "order": "22.00000000000000000000"
       }
     ],
     "dating": [
@@ -2177,7 +2275,8 @@
     "hands_placed": [
       {
         "id": 14,
-        "value": "hit_hands_placed__14"
+        "value": "hit_hands_placed__14",
+        "order": "14.00000000000000000000"
       }
     ],
     "scribe": [],
@@ -2202,7 +2301,8 @@
     "manuscript": [
       {
         "id": 22,
-        "value": "ÖNB, Cod. 366"
+        "value": "ÖNB, Cod. 366",
+        "order": "1.66666666666666674068"
       }
     ],
     "number": "5",
@@ -2220,7 +2320,8 @@
     "hands_role": [
       {
         "id": 44,
-        "value": "hit_hands_role__44"
+        "value": "hit_hands_role__44",
+        "order": "36.00000000000000000000"
       }
     ],
     "role": [
@@ -2269,7 +2370,8 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "number": "1",
@@ -2287,39 +2389,48 @@
     "hands_role": [
       {
         "id": 40,
-        "value": "hit_hands_role__40"
+        "value": "hit_hands_role__40",
+        "order": "32.00000000000000000000"
       },
       {
         "id": 46,
-        "value": "hit_hands_role__46"
+        "value": "hit_hands_role__46",
+        "order": "38.00000000000000000000"
       },
       {
         "id": 49,
-        "value": "hit_hands_role__49"
+        "value": "hit_hands_role__49",
+        "order": "41.00000000000000000000"
       },
       {
         "id": 51,
-        "value": "hit_hands_role__51"
+        "value": "hit_hands_role__51",
+        "order": "43.00000000000000000000"
       },
       {
         "id": 52,
-        "value": "hit_hands_role__52"
+        "value": "hit_hands_role__52",
+        "order": "44.00000000000000000000"
       },
       {
         "id": 53,
-        "value": "hit_hands_role__53"
+        "value": "hit_hands_role__53",
+        "order": "45.00000000000000000000"
       },
       {
         "id": 54,
-        "value": "hit_hands_role__54"
+        "value": "hit_hands_role__54",
+        "order": "46.00000000000000000000"
       },
       {
         "id": 56,
-        "value": "hit_hands_role__56"
+        "value": "hit_hands_role__56",
+        "order": "48.00000000000000000000"
       },
       {
         "id": 57,
-        "value": "hit_hands_role__57"
+        "value": "hit_hands_role__57",
+        "order": "49.00000000000000000000"
       }
     ],
     "role": [
@@ -2482,7 +2593,8 @@
     "hands_dated": [
       {
         "id": 24,
-        "value": "hit_hands_dated__24"
+        "value": "hit_hands_dated__24",
+        "order": "23.00000000000000000000"
       }
     ],
     "dating": [
@@ -2497,7 +2609,8 @@
     "hands_placed": [
       {
         "id": 15,
-        "value": "hit_hands_placed__15"
+        "value": "hit_hands_placed__15",
+        "order": "15.00000000000000000000"
       }
     ],
     "scribe": [],
@@ -2522,7 +2635,8 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "number": "2",
@@ -2540,7 +2654,8 @@
     "hands_role": [
       {
         "id": 45,
-        "value": "hit_hands_role__45"
+        "value": "hit_hands_role__45",
+        "order": "37.00000000000000000000"
       }
     ],
     "role": [
@@ -2567,7 +2682,8 @@
     "hands_dated": [
       {
         "id": 25,
-        "value": "hit_hands_dated__25"
+        "value": "hit_hands_dated__25",
+        "order": "24.00000000000000000000"
       }
     ],
     "dating": [
@@ -2582,13 +2698,15 @@
     "hands_placed": [
       {
         "id": 16,
-        "value": "hit_hands_placed__16"
+        "value": "hit_hands_placed__16",
+        "order": "16.00000000000000000000"
       }
     ],
     "scribe": [
       {
         "id": 14,
-        "value": "Magister Baldo"
+        "value": "Magister Baldo",
+        "order": "13.00000000000000000000"
       }
     ],
     "gruppe": false
@@ -2612,7 +2730,8 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "number": "3",
@@ -2630,11 +2749,13 @@
     "hands_role": [
       {
         "id": 47,
-        "value": "hit_hands_role__47"
+        "value": "hit_hands_role__47",
+        "order": "39.00000000000000000000"
       },
       {
         "id": 66,
-        "value": "hit_hands_role__66"
+        "value": "hit_hands_role__66",
+        "order": "58.00000000000000000000"
       }
     ],
     "role": [
@@ -2678,7 +2799,8 @@
     "hands_dated": [
       {
         "id": 26,
-        "value": "hit_hands_dated__26"
+        "value": "hit_hands_dated__26",
+        "order": "25.00000000000000000000"
       }
     ],
     "dating": [
@@ -2693,7 +2815,8 @@
     "hands_placed": [
       {
         "id": 19,
-        "value": "hit_hands_placed__19"
+        "value": "hit_hands_placed__19",
+        "order": "19.00000000000000000000"
       }
     ],
     "scribe": [],
@@ -2718,7 +2841,8 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "number": "4",
@@ -2736,7 +2860,8 @@
     "hands_role": [
       {
         "id": 50,
-        "value": "hit_hands_role__50"
+        "value": "hit_hands_role__50",
+        "order": "42.00000000000000000000"
       }
     ],
     "role": [
@@ -2763,7 +2888,8 @@
     "hands_dated": [
       {
         "id": 27,
-        "value": "hit_hands_dated__27"
+        "value": "hit_hands_dated__27",
+        "order": "26.00000000000000000000"
       }
     ],
     "dating": [
@@ -2778,7 +2904,8 @@
     "hands_placed": [
       {
         "id": 17,
-        "value": "hit_hands_placed__17"
+        "value": "hit_hands_placed__17",
+        "order": "17.00000000000000000000"
       }
     ],
     "scribe": [],
@@ -2803,7 +2930,8 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "number": "5",
@@ -2821,7 +2949,8 @@
     "hands_role": [
       {
         "id": 55,
-        "value": "hit_hands_role__55"
+        "value": "hit_hands_role__55",
+        "order": "47.00000000000000000000"
       }
     ],
     "role": [
@@ -2848,7 +2977,8 @@
     "hands_dated": [
       {
         "id": 28,
-        "value": "hit_hands_dated__28"
+        "value": "hit_hands_dated__28",
+        "order": "27.00000000000000000000"
       }
     ],
     "dating": [
@@ -2863,7 +2993,8 @@
     "hands_placed": [
       {
         "id": 18,
-        "value": "hit_hands_placed__18"
+        "value": "hit_hands_placed__18",
+        "order": "18.00000000000000000000"
       }
     ],
     "scribe": [],
@@ -2886,14 +3017,16 @@
     "similar_hands": [
       {
         "id": 44,
-        "value": "ÖNB, Cod. 387_H. 12"
+        "value": "ÖNB, Cod. 387_H. 12",
+        "order": "35.66666666666666429819"
       }
     ],
     "nr_daniel": "",
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "number": "6",
@@ -2911,7 +3044,8 @@
     "hands_role": [
       {
         "id": 58,
-        "value": "hit_hands_role__58"
+        "value": "hit_hands_role__58",
+        "order": "50.00000000000000000000"
       }
     ],
     "role": [
@@ -2938,7 +3072,8 @@
     "hands_dated": [
       {
         "id": 29,
-        "value": "hit_hands_dated__29"
+        "value": "hit_hands_dated__29",
+        "order": "28.00000000000000000000"
       }
     ],
     "dating": [
@@ -2973,7 +3108,8 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "number": "7",
@@ -2991,7 +3127,8 @@
     "hands_role": [
       {
         "id": 59,
-        "value": "hit_hands_role__59"
+        "value": "hit_hands_role__59",
+        "order": "51.00000000000000000000"
       }
     ],
     "role": [
@@ -3018,7 +3155,8 @@
     "hands_dated": [
       {
         "id": 31,
-        "value": "hit_hands_dated__31"
+        "value": "hit_hands_dated__31",
+        "order": "30.00000000000000000000"
       }
     ],
     "dating": [
@@ -3053,7 +3191,8 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "number": "10",
@@ -3071,7 +3210,8 @@
     "hands_role": [
       {
         "id": 48,
-        "value": "hit_hands_role__48"
+        "value": "hit_hands_role__48",
+        "order": "40.00000000000000000000"
       }
     ],
     "role": [
@@ -3098,7 +3238,8 @@
     "hands_dated": [
       {
         "id": 33,
-        "value": "hit_hands_dated__33"
+        "value": "hit_hands_dated__33",
+        "order": "32.00000000000000000000"
       }
     ],
     "dating": [
@@ -3133,7 +3274,8 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "number": "8",
@@ -3151,7 +3293,8 @@
     "hands_role": [
       {
         "id": 61,
-        "value": "hit_hands_role__61"
+        "value": "hit_hands_role__61",
+        "order": "53.00000000000000000000"
       }
     ],
     "role": [
@@ -3178,7 +3321,8 @@
     "hands_dated": [
       {
         "id": 32,
-        "value": "hit_hands_dated__32"
+        "value": "hit_hands_dated__32",
+        "order": "31.00000000000000000000"
       }
     ],
     "dating": [
@@ -3213,7 +3357,8 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "number": "9",
@@ -3231,7 +3376,8 @@
     "hands_role": [
       {
         "id": 60,
-        "value": "hit_hands_role__60"
+        "value": "hit_hands_role__60",
+        "order": "52.00000000000000000000"
       }
     ],
     "role": [
@@ -3263,7 +3409,8 @@
     "hands_dated": [
       {
         "id": 30,
-        "value": "hit_hands_dated__30"
+        "value": "hit_hands_dated__30",
+        "order": "29.00000000000000000000"
       }
     ],
     "dating": [
@@ -3298,7 +3445,8 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "number": "11",
@@ -3316,11 +3464,13 @@
     "hands_role": [
       {
         "id": 67,
-        "value": "hit_hands_role__67"
+        "value": "hit_hands_role__67",
+        "order": "59.00000000000000000000"
       },
       {
         "id": 68,
-        "value": "hit_hands_role__68"
+        "value": "hit_hands_role__68",
+        "order": "60.00000000000000000000"
       }
     ],
     "role": [
@@ -3369,7 +3519,8 @@
     "hands_dated": [
       {
         "id": 35,
-        "value": "hit_hands_dated__35"
+        "value": "hit_hands_dated__35",
+        "order": "34.00000000000000000000"
       }
     ],
     "dating": [
@@ -3402,14 +3553,16 @@
     "similar_hands": [
       {
         "id": 36,
-        "value": "ÖNB, Cod. 387_H. 6"
+        "value": "ÖNB, Cod. 387_H. 6",
+        "order": "32.00000000000000000000"
       }
     ],
     "nr_daniel": "",
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "number": "12",
@@ -3427,7 +3580,8 @@
     "hands_role": [
       {
         "id": 69,
-        "value": "hit_hands_role__69"
+        "value": "hit_hands_role__69",
+        "order": "61.00000000000000000000"
       }
     ],
     "role": [
@@ -3459,7 +3613,8 @@
     "hands_dated": [
       {
         "id": 36,
-        "value": "hit_hands_dated__36"
+        "value": "hit_hands_dated__36",
+        "order": "35.00000000000000000000"
       }
     ],
     "dating": [
@@ -3494,7 +3649,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "1",
@@ -3512,11 +3668,13 @@
     "hands_role": [
       {
         "id": 63,
-        "value": "hit_hands_role__63"
+        "value": "hit_hands_role__63",
+        "order": "55.00000000000000000000"
       },
       {
         "id": 64,
-        "value": "hit_hands_role__64"
+        "value": "hit_hands_role__64",
+        "order": "56.00000000000000000000"
       }
     ],
     "role": [
@@ -3560,7 +3718,8 @@
     "hands_dated": [
       {
         "id": 34,
-        "value": "hit_hands_dated__34"
+        "value": "hit_hands_dated__34",
+        "order": "36.00000000000000000000"
       }
     ],
     "dating": [
@@ -3575,7 +3734,8 @@
     "hands_placed": [
       {
         "id": 28,
-        "value": "hit_hands_placed__28"
+        "value": "hit_hands_placed__28",
+        "order": "28.00000000000000000000"
       }
     ],
     "scribe": [],
@@ -3598,14 +3758,16 @@
     "similar_hands": [
       {
         "id": 52,
-        "value": "ÖNB, Cod. 2090_H. 10"
+        "value": "ÖNB, Cod. 2090_H. 10",
+        "order": "45.00000000000000000000"
       }
     ],
     "nr_daniel": "",
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "2",
@@ -3623,7 +3785,8 @@
     "hands_role": [
       {
         "id": 62,
-        "value": "hit_hands_role__62"
+        "value": "hit_hands_role__62",
+        "order": "54.00000000000000000000"
       }
     ],
     "role": [
@@ -3650,7 +3813,8 @@
     "hands_dated": [
       {
         "id": 37,
-        "value": "hit_hands_dated__37"
+        "value": "hit_hands_dated__37",
+        "order": "37.00000000000000000000"
       }
     ],
     "dating": [
@@ -3683,14 +3847,16 @@
     "similar_hands": [
       {
         "id": 61,
-        "value": "ÖNB, Cod. 2090_H. 18"
+        "value": "ÖNB, Cod. 2090_H. 18",
+        "order": "53.00000000000000000000"
       }
     ],
     "nr_daniel": "",
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "3",
@@ -3708,7 +3874,8 @@
     "hands_role": [
       {
         "id": 70,
-        "value": "hit_hands_role__70"
+        "value": "hit_hands_role__70",
+        "order": "62.00000000000000000000"
       }
     ],
     "role": [
@@ -3735,7 +3902,8 @@
     "hands_dated": [
       {
         "id": 38,
-        "value": "hit_hands_dated__38"
+        "value": "hit_hands_dated__38",
+        "order": "38.00000000000000000000"
       }
     ],
     "dating": [
@@ -3770,7 +3938,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "4",
@@ -3788,7 +3957,8 @@
     "hands_role": [
       {
         "id": 71,
-        "value": "hit_hands_role__71"
+        "value": "hit_hands_role__71",
+        "order": "63.00000000000000000000"
       }
     ],
     "role": [
@@ -3815,7 +3985,8 @@
     "hands_dated": [
       {
         "id": 39,
-        "value": "hit_hands_dated__39"
+        "value": "hit_hands_dated__39",
+        "order": "39.00000000000000000000"
       }
     ],
     "dating": [
@@ -3850,7 +4021,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "5",
@@ -3868,7 +4040,8 @@
     "hands_role": [
       {
         "id": 75,
-        "value": "hit_hands_role__75"
+        "value": "hit_hands_role__75",
+        "order": "65.00000000000000000000"
       }
     ],
     "role": [
@@ -3895,7 +4068,8 @@
     "hands_dated": [
       {
         "id": 40,
-        "value": "hit_hands_dated__40"
+        "value": "hit_hands_dated__40",
+        "order": "40.00000000000000000000"
       }
     ],
     "dating": [
@@ -3930,7 +4104,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "6",
@@ -3948,7 +4123,8 @@
     "hands_role": [
       {
         "id": 77,
-        "value": "hit_hands_role__77"
+        "value": "hit_hands_role__77",
+        "order": "67.00000000000000000000"
       }
     ],
     "role": [
@@ -3975,7 +4151,8 @@
     "hands_dated": [
       {
         "id": 41,
-        "value": "hit_hands_dated__41"
+        "value": "hit_hands_dated__41",
+        "order": "41.00000000000000000000"
       }
     ],
     "dating": [
@@ -4010,7 +4187,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "7",
@@ -4028,7 +4206,8 @@
     "hands_role": [
       {
         "id": 76,
-        "value": "hit_hands_role__76"
+        "value": "hit_hands_role__76",
+        "order": "66.00000000000000000000"
       }
     ],
     "role": [
@@ -4055,7 +4234,8 @@
     "hands_dated": [
       {
         "id": 42,
-        "value": "hit_hands_dated__42"
+        "value": "hit_hands_dated__42",
+        "order": "42.00000000000000000000"
       }
     ],
     "dating": [
@@ -4071,7 +4251,8 @@
     "scribe": [
       {
         "id": 5,
-        "value": "ÖNB_Cod. 2090_1"
+        "value": "ÖNB_Cod. 2090_1",
+        "order": "4.00000000000000000000"
       }
     ],
     "gruppe": true
@@ -4095,7 +4276,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "8",
@@ -4113,7 +4295,8 @@
     "hands_role": [
       {
         "id": 72,
-        "value": "hit_hands_role__72"
+        "value": "hit_hands_role__72",
+        "order": "64.00000000000000000000"
       }
     ],
     "role": [
@@ -4140,7 +4323,8 @@
     "hands_dated": [
       {
         "id": 43,
-        "value": "hit_hands_dated__43"
+        "value": "hit_hands_dated__43",
+        "order": "43.00000000000000000000"
       }
     ],
     "dating": [
@@ -4175,7 +4359,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "9",
@@ -4193,7 +4378,8 @@
     "hands_role": [
       {
         "id": 65,
-        "value": "hit_hands_role__65"
+        "value": "hit_hands_role__65",
+        "order": "57.00000000000000000000"
       }
     ],
     "role": [
@@ -4220,7 +4406,8 @@
     "hands_dated": [
       {
         "id": 44,
-        "value": "hit_hands_dated__44"
+        "value": "hit_hands_dated__44",
+        "order": "44.00000000000000000000"
       }
     ],
     "dating": [
@@ -4260,18 +4447,21 @@
     "similar_hands": [
       {
         "id": 42,
-        "value": "ÖNB, Cod. 2090_H. 2"
+        "value": "ÖNB, Cod. 2090_H. 2",
+        "order": "37.00000000000000000000"
       },
       {
         "id": 54,
-        "value": "ÖNB, Cod. 2090_H. 12"
+        "value": "ÖNB, Cod. 2090_H. 12",
+        "order": "47.00000000000000000000"
       }
     ],
     "nr_daniel": "",
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "10",
@@ -4289,15 +4479,18 @@
     "hands_role": [
       {
         "id": 78,
-        "value": "hit_hands_role__78"
+        "value": "hit_hands_role__78",
+        "order": "68.00000000000000000000"
       },
       {
         "id": 79,
-        "value": "hit_hands_role__79"
+        "value": "hit_hands_role__79",
+        "order": "69.00000000000000000000"
       },
       {
         "id": 80,
-        "value": "hit_hands_role__80"
+        "value": "hit_hands_role__80",
+        "order": "70.00000000000000000000"
       }
     ],
     "role": [
@@ -4358,7 +4551,8 @@
     "hands_dated": [
       {
         "id": 45,
-        "value": "hit_hands_dated__45"
+        "value": "hit_hands_dated__45",
+        "order": "45.00000000000000000000"
       }
     ],
     "dating": [
@@ -4393,7 +4587,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "11",
@@ -4411,7 +4606,8 @@
     "hands_role": [
       {
         "id": 81,
-        "value": "hit_hands_role__81"
+        "value": "hit_hands_role__81",
+        "order": "71.00000000000000000000"
       }
     ],
     "role": [
@@ -4438,7 +4634,8 @@
     "hands_dated": [
       {
         "id": 46,
-        "value": "hit_hands_dated__46"
+        "value": "hit_hands_dated__46",
+        "order": "46.00000000000000000000"
       }
     ],
     "dating": [
@@ -4454,7 +4651,8 @@
     "scribe": [
       {
         "id": 8,
-        "value": "ÖNB Cod. 2090_2"
+        "value": "ÖNB Cod. 2090_2",
+        "order": "7.00000000000000000000"
       }
     ],
     "gruppe": true
@@ -4476,14 +4674,16 @@
     "similar_hands": [
       {
         "id": 52,
-        "value": "ÖNB, Cod. 2090_H. 10"
+        "value": "ÖNB, Cod. 2090_H. 10",
+        "order": "45.00000000000000000000"
       }
     ],
     "nr_daniel": "",
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "12",
@@ -4501,7 +4701,8 @@
     "hands_role": [
       {
         "id": 83,
-        "value": "hit_hands_role__83"
+        "value": "hit_hands_role__83",
+        "order": "73.00000000000000000000"
       }
     ],
     "role": [
@@ -4533,7 +4734,8 @@
     "hands_dated": [
       {
         "id": 48,
-        "value": "hit_hands_dated__48"
+        "value": "hit_hands_dated__48",
+        "order": "48.00000000000000000000"
       }
     ],
     "dating": [
@@ -4568,7 +4770,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "13",
@@ -4586,7 +4789,8 @@
     "hands_role": [
       {
         "id": 84,
-        "value": "hit_hands_role__84"
+        "value": "hit_hands_role__84",
+        "order": "74.00000000000000000000"
       }
     ],
     "role": [
@@ -4613,7 +4817,8 @@
     "hands_dated": [
       {
         "id": 47,
-        "value": "hit_hands_dated__47"
+        "value": "hit_hands_dated__47",
+        "order": "47.00000000000000000000"
       }
     ],
     "dating": [
@@ -4648,7 +4853,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "14",
@@ -4666,7 +4872,8 @@
     "hands_role": [
       {
         "id": 86,
-        "value": "hit_hands_role__86"
+        "value": "hit_hands_role__86",
+        "order": "76.00000000000000000000"
       }
     ],
     "role": [
@@ -4693,7 +4900,8 @@
     "hands_dated": [
       {
         "id": 49,
-        "value": "hit_hands_dated__49"
+        "value": "hit_hands_dated__49",
+        "order": "49.00000000000000000000"
       }
     ],
     "dating": [
@@ -4733,18 +4941,21 @@
     "similar_hands": [
       {
         "id": 76,
-        "value": "ÖNB, Cod. 2090_H. 32"
+        "value": "ÖNB, Cod. 2090_H. 32",
+        "order": "68.00000000000000000000"
       },
       {
         "id": 79,
-        "value": "ÖNB, Cod. 2090_H. 35"
+        "value": "ÖNB, Cod. 2090_H. 35",
+        "order": "71.00000000000000000000"
       }
     ],
     "nr_daniel": "",
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "15",
@@ -4762,11 +4973,13 @@
     "hands_role": [
       {
         "id": 87,
-        "value": "hit_hands_role__87"
+        "value": "hit_hands_role__87",
+        "order": "77.00000000000000000000"
       },
       {
         "id": 89,
-        "value": "hit_hands_role__89"
+        "value": "hit_hands_role__89",
+        "order": "79.00000000000000000000"
       }
     ],
     "role": [
@@ -4810,7 +5023,8 @@
     "hands_dated": [
       {
         "id": 50,
-        "value": "hit_hands_dated__50"
+        "value": "hit_hands_dated__50",
+        "order": "50.00000000000000000000"
       }
     ],
     "dating": [
@@ -4845,7 +5059,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "16",
@@ -4863,7 +5078,8 @@
     "hands_role": [
       {
         "id": 85,
-        "value": "hit_hands_role__85"
+        "value": "hit_hands_role__85",
+        "order": "75.00000000000000000000"
       }
     ],
     "role": [
@@ -4890,7 +5106,8 @@
     "hands_dated": [
       {
         "id": 51,
-        "value": "hit_hands_dated__51"
+        "value": "hit_hands_dated__51",
+        "order": "51.00000000000000000000"
       }
     ],
     "dating": [
@@ -4913,7 +5130,8 @@
     "scribe": [
       {
         "id": 9,
-        "value": "ÖNB Cod. 2090_3"
+        "value": "ÖNB Cod. 2090_3",
+        "order": "8.00000000000000000000"
       }
     ],
     "gruppe": true
@@ -4937,7 +5155,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "17",
@@ -4955,7 +5174,8 @@
     "hands_role": [
       {
         "id": 88,
-        "value": "hit_hands_role__88"
+        "value": "hit_hands_role__88",
+        "order": "78.00000000000000000000"
       }
     ],
     "role": [
@@ -4982,7 +5202,8 @@
     "hands_dated": [
       {
         "id": 52,
-        "value": "hit_hands_dated__52"
+        "value": "hit_hands_dated__52",
+        "order": "52.00000000000000000000"
       }
     ],
     "dating": [
@@ -4998,7 +5219,8 @@
     "scribe": [
       {
         "id": 10,
-        "value": "ÖNB Cod. 2090_4"
+        "value": "ÖNB Cod. 2090_4",
+        "order": "9.00000000000000000000"
       }
     ],
     "gruppe": true
@@ -5020,18 +5242,21 @@
     "similar_hands": [
       {
         "id": 45,
-        "value": "ÖNB, Cod. 2090_H. 3"
+        "value": "ÖNB, Cod. 2090_H. 3",
+        "order": "38.00000000000000000000"
       },
       {
         "id": 78,
-        "value": "ÖNB, Cod. 2090_H. 34"
+        "value": "ÖNB, Cod. 2090_H. 34",
+        "order": "70.00000000000000000000"
       }
     ],
     "nr_daniel": "",
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "18",
@@ -5049,7 +5274,8 @@
     "hands_role": [
       {
         "id": 90,
-        "value": "hit_hands_role__90"
+        "value": "hit_hands_role__90",
+        "order": "80.00000000000000000000"
       }
     ],
     "role": [
@@ -5076,7 +5302,8 @@
     "hands_dated": [
       {
         "id": 54,
-        "value": "hit_hands_dated__54"
+        "value": "hit_hands_dated__54",
+        "order": "54.00000000000000000000"
       }
     ],
     "dating": [
@@ -5111,7 +5338,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "19",
@@ -5129,7 +5357,8 @@
     "hands_role": [
       {
         "id": 91,
-        "value": "hit_hands_role__91"
+        "value": "hit_hands_role__91",
+        "order": "81.00000000000000000000"
       }
     ],
     "role": [
@@ -5156,7 +5385,8 @@
     "hands_dated": [
       {
         "id": 55,
-        "value": "hit_hands_dated__55"
+        "value": "hit_hands_dated__55",
+        "order": "55.00000000000000000000"
       }
     ],
     "dating": [
@@ -5191,7 +5421,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "20",
@@ -5209,7 +5440,8 @@
     "hands_role": [
       {
         "id": 95,
-        "value": "hit_hands_role__95"
+        "value": "hit_hands_role__95",
+        "order": "85.00000000000000000000"
       }
     ],
     "role": [
@@ -5236,7 +5468,8 @@
     "hands_dated": [
       {
         "id": 57,
-        "value": "hit_hands_dated__57"
+        "value": "hit_hands_dated__57",
+        "order": "57.00000000000000000000"
       }
     ],
     "dating": [
@@ -5271,7 +5504,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "21",
@@ -5289,7 +5523,8 @@
     "hands_role": [
       {
         "id": 96,
-        "value": "hit_hands_role__96"
+        "value": "hit_hands_role__96",
+        "order": "86.00000000000000000000"
       }
     ],
     "role": [
@@ -5316,7 +5551,8 @@
     "hands_dated": [
       {
         "id": 58,
-        "value": "hit_hands_dated__58"
+        "value": "hit_hands_dated__58",
+        "order": "58.00000000000000000000"
       }
     ],
     "dating": [
@@ -5349,14 +5585,16 @@
     "similar_hands": [
       {
         "id": 66,
-        "value": "ÖNB, Cod. 2090_H. 23"
+        "value": "ÖNB, Cod. 2090_H. 23",
+        "order": "58.00000000000000000000"
       }
     ],
     "nr_daniel": "",
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "22",
@@ -5374,7 +5612,8 @@
     "hands_role": [
       {
         "id": 103,
-        "value": "hit_hands_role__103"
+        "value": "hit_hands_role__103",
+        "order": "89.00000000000000000000"
       }
     ],
     "role": [
@@ -5401,7 +5640,8 @@
     "hands_dated": [
       {
         "id": 59,
-        "value": "hit_hands_dated__59"
+        "value": "hit_hands_dated__59",
+        "order": "59.00000000000000000000"
       }
     ],
     "dating": [
@@ -5434,14 +5674,16 @@
     "similar_hands": [
       {
         "id": 65,
-        "value": "ÖNB, Cod. 2090_H. 22"
+        "value": "ÖNB, Cod. 2090_H. 22",
+        "order": "57.00000000000000000000"
       }
     ],
     "nr_daniel": "",
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "23",
@@ -5459,7 +5701,8 @@
     "hands_role": [
       {
         "id": 104,
-        "value": "hit_hands_role__104"
+        "value": "hit_hands_role__104",
+        "order": "90.00000000000000000000"
       }
     ],
     "role": [
@@ -5486,7 +5729,8 @@
     "hands_dated": [
       {
         "id": 60,
-        "value": "hit_hands_dated__60"
+        "value": "hit_hands_dated__60",
+        "order": "60.00000000000000000000"
       }
     ],
     "dating": [
@@ -5521,7 +5765,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "24",
@@ -5539,7 +5784,8 @@
     "hands_role": [
       {
         "id": 105,
-        "value": "hit_hands_role__105"
+        "value": "hit_hands_role__105",
+        "order": "91.00000000000000000000"
       }
     ],
     "role": [
@@ -5566,7 +5812,8 @@
     "hands_dated": [
       {
         "id": 61,
-        "value": "hit_hands_dated__61"
+        "value": "hit_hands_dated__61",
+        "order": "61.00000000000000000000"
       }
     ],
     "dating": [
@@ -5601,7 +5848,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "25",
@@ -5619,7 +5867,8 @@
     "hands_role": [
       {
         "id": 106,
-        "value": "hit_hands_role__106"
+        "value": "hit_hands_role__106",
+        "order": "92.00000000000000000000"
       }
     ],
     "role": [
@@ -5646,7 +5895,8 @@
     "hands_dated": [
       {
         "id": 62,
-        "value": "hit_hands_dated__62"
+        "value": "hit_hands_dated__62",
+        "order": "62.00000000000000000000"
       }
     ],
     "dating": [
@@ -5688,7 +5938,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "26",
@@ -5706,7 +5957,8 @@
     "hands_role": [
       {
         "id": 101,
-        "value": "hit_hands_role__101"
+        "value": "hit_hands_role__101",
+        "order": "87.00000000000000000000"
       }
     ],
     "role": [
@@ -5733,7 +5985,8 @@
     "hands_dated": [
       {
         "id": 63,
-        "value": "hit_hands_dated__63"
+        "value": "hit_hands_dated__63",
+        "order": "63.00000000000000000000"
       }
     ],
     "dating": [
@@ -5768,7 +6021,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "27",
@@ -5786,7 +6040,8 @@
     "hands_role": [
       {
         "id": 107,
-        "value": "hit_hands_role__107"
+        "value": "hit_hands_role__107",
+        "order": "93.00000000000000000000"
       }
     ],
     "role": [
@@ -5813,7 +6068,8 @@
     "hands_dated": [
       {
         "id": 64,
-        "value": "hit_hands_dated__64"
+        "value": "hit_hands_dated__64",
+        "order": "64.00000000000000000000"
       }
     ],
     "dating": [
@@ -5848,7 +6104,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "28",
@@ -5866,7 +6123,8 @@
     "hands_role": [
       {
         "id": 108,
-        "value": "hit_hands_role__108"
+        "value": "hit_hands_role__108",
+        "order": "94.00000000000000000000"
       }
     ],
     "role": [
@@ -5893,7 +6151,8 @@
     "hands_dated": [
       {
         "id": 65,
-        "value": "hit_hands_dated__65"
+        "value": "hit_hands_dated__65",
+        "order": "65.00000000000000000000"
       }
     ],
     "dating": [
@@ -5928,7 +6187,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "29",
@@ -5946,7 +6206,8 @@
     "hands_role": [
       {
         "id": 110,
-        "value": "hit_hands_role__110"
+        "value": "hit_hands_role__110",
+        "order": "96.00000000000000000000"
       }
     ],
     "role": [
@@ -5973,7 +6234,8 @@
     "hands_dated": [
       {
         "id": 66,
-        "value": "hit_hands_dated__66"
+        "value": "hit_hands_dated__66",
+        "order": "66.00000000000000000000"
       }
     ],
     "dating": [
@@ -6015,7 +6277,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "30",
@@ -6033,7 +6296,8 @@
     "hands_role": [
       {
         "id": 111,
-        "value": "hit_hands_role__111"
+        "value": "hit_hands_role__111",
+        "order": "97.00000000000000000000"
       }
     ],
     "role": [
@@ -6060,7 +6324,8 @@
     "hands_dated": [
       {
         "id": 67,
-        "value": "hit_hands_dated__67"
+        "value": "hit_hands_dated__67",
+        "order": "67.00000000000000000000"
       }
     ],
     "dating": [
@@ -6102,7 +6367,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "31",
@@ -6120,7 +6386,8 @@
     "hands_role": [
       {
         "id": 112,
-        "value": "hit_hands_role__112"
+        "value": "hit_hands_role__112",
+        "order": "98.00000000000000000000"
       }
     ],
     "role": [
@@ -6147,7 +6414,8 @@
     "hands_dated": [
       {
         "id": 68,
-        "value": "hit_hands_dated__68"
+        "value": "hit_hands_dated__68",
+        "order": "68.00000000000000000000"
       }
     ],
     "dating": [
@@ -6180,14 +6448,16 @@
     "similar_hands": [
       {
         "id": 57,
-        "value": "ÖNB, Cod. 2090_H. 15"
+        "value": "ÖNB, Cod. 2090_H. 15",
+        "order": "50.00000000000000000000"
       }
     ],
     "nr_daniel": "",
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "32",
@@ -6205,11 +6475,13 @@
     "hands_role": [
       {
         "id": 109,
-        "value": "hit_hands_role__109"
+        "value": "hit_hands_role__109",
+        "order": "95.00000000000000000000"
       },
       {
         "id": 113,
-        "value": "hit_hands_role__113"
+        "value": "hit_hands_role__113",
+        "order": "99.00000000000000000000"
       }
     ],
     "role": [
@@ -6253,7 +6525,8 @@
     "hands_dated": [
       {
         "id": 69,
-        "value": "hit_hands_dated__69"
+        "value": "hit_hands_dated__69",
+        "order": "69.00000000000000000000"
       }
     ],
     "dating": [
@@ -6286,14 +6559,16 @@
     "similar_hands": [
       {
         "id": 57,
-        "value": "ÖNB, Cod. 2090_H. 15"
+        "value": "ÖNB, Cod. 2090_H. 15",
+        "order": "50.00000000000000000000"
       }
     ],
     "nr_daniel": "",
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "33",
@@ -6311,7 +6586,8 @@
     "hands_role": [
       {
         "id": 92,
-        "value": "hit_hands_role__92"
+        "value": "hit_hands_role__92",
+        "order": "82.00000000000000000000"
       }
     ],
     "role": [
@@ -6338,7 +6614,8 @@
     "hands_dated": [
       {
         "id": 56,
-        "value": "hit_hands_dated__56"
+        "value": "hit_hands_dated__56",
+        "order": "56.00000000000000000000"
       }
     ],
     "dating": [
@@ -6371,14 +6648,16 @@
     "similar_hands": [
       {
         "id": 61,
-        "value": "ÖNB, Cod. 2090_H. 18"
+        "value": "ÖNB, Cod. 2090_H. 18",
+        "order": "53.00000000000000000000"
       }
     ],
     "nr_daniel": "",
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "34",
@@ -6396,7 +6675,8 @@
     "hands_role": [
       {
         "id": 93,
-        "value": "hit_hands_role__93"
+        "value": "hit_hands_role__93",
+        "order": "83.00000000000000000000"
       }
     ],
     "role": [
@@ -6423,7 +6703,8 @@
     "hands_dated": [
       {
         "id": 70,
-        "value": "hit_hands_dated__70"
+        "value": "hit_hands_dated__70",
+        "order": "70.00000000000000000000"
       }
     ],
     "dating": [
@@ -6456,14 +6737,16 @@
     "similar_hands": [
       {
         "id": 57,
-        "value": "ÖNB, Cod. 2090_H. 15"
+        "value": "ÖNB, Cod. 2090_H. 15",
+        "order": "50.00000000000000000000"
       }
     ],
     "nr_daniel": "",
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "35",
@@ -6481,7 +6764,8 @@
     "hands_role": [
       {
         "id": 94,
-        "value": "hit_hands_role__94"
+        "value": "hit_hands_role__94",
+        "order": "84.00000000000000000000"
       }
     ],
     "role": [
@@ -6508,7 +6792,8 @@
     "hands_dated": [
       {
         "id": 71,
-        "value": "hit_hands_dated__71"
+        "value": "hit_hands_dated__71",
+        "order": "71.00000000000000000000"
       }
     ],
     "dating": [
@@ -6543,7 +6828,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "36",
@@ -6561,7 +6847,8 @@
     "hands_role": [
       {
         "id": 114,
-        "value": "hit_hands_role__114"
+        "value": "hit_hands_role__114",
+        "order": "100.00000000000000000000"
       }
     ],
     "role": [
@@ -6588,7 +6875,8 @@
     "hands_dated": [
       {
         "id": 72,
-        "value": "hit_hands_dated__72"
+        "value": "hit_hands_dated__72",
+        "order": "72.00000000000000000000"
       }
     ],
     "dating": [
@@ -6604,7 +6892,8 @@
     "scribe": [
       {
         "id": 11,
-        "value": "ÖNB Cod. 2090_5"
+        "value": "ÖNB Cod. 2090_5",
+        "order": "10.00000000000000000000"
       }
     ],
     "gruppe": true
@@ -6628,7 +6917,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "37",
@@ -6646,7 +6936,8 @@
     "hands_role": [
       {
         "id": 115,
-        "value": "hit_hands_role__115"
+        "value": "hit_hands_role__115",
+        "order": "101.00000000000000000000"
       }
     ],
     "role": [
@@ -6673,7 +6964,8 @@
     "hands_dated": [
       {
         "id": 73,
-        "value": "hit_hands_dated__73"
+        "value": "hit_hands_dated__73",
+        "order": "73.00000000000000000000"
       }
     ],
     "dating": [
@@ -6708,7 +7000,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "38",
@@ -6726,11 +7019,13 @@
     "hands_role": [
       {
         "id": 116,
-        "value": "hit_hands_role__116"
+        "value": "hit_hands_role__116",
+        "order": "102.00000000000000000000"
       },
       {
         "id": 117,
-        "value": "hit_hands_role__117"
+        "value": "hit_hands_role__117",
+        "order": "103.00000000000000000000"
       }
     ],
     "role": [
@@ -6796,7 +7091,8 @@
     "manuscript": [
       {
         "id": 7,
-        "value": "BSB, Clm. 6380"
+        "value": "BSB, Clm. 6380",
+        "order": "6.00000000000000000000"
       }
     ],
     "number": "1",
@@ -6814,7 +7110,8 @@
     "hands_role": [
       {
         "id": 125,
-        "value": "hit_hands_role__125"
+        "value": "hit_hands_role__125",
+        "order": "111.00000000000000000000"
       }
     ],
     "role": [
@@ -6841,7 +7138,8 @@
     "hands_dated": [
       {
         "id": 74,
-        "value": "hit_hands_dated__74"
+        "value": "hit_hands_dated__74",
+        "order": "74.00000000000000000000"
       }
     ],
     "dating": [
@@ -6856,17 +7154,20 @@
     "hands_placed": [
       {
         "id": 20,
-        "value": "hit_hands_placed__20"
+        "value": "hit_hands_placed__20",
+        "order": "20.00000000000000000000"
       },
       {
         "id": 26,
-        "value": "hit_hands_placed__26"
+        "value": "hit_hands_placed__26",
+        "order": "26.00000000000000000000"
       }
     ],
     "scribe": [
       {
         "id": 1,
-        "value": "Willihalms bayerische Schüler"
+        "value": "Willihalms bayerische Schüler",
+        "order": "1.00000000000000000000"
       }
     ],
     "gruppe": false
@@ -6890,7 +7191,8 @@
     "manuscript": [
       {
         "id": 7,
-        "value": "BSB, Clm. 6380"
+        "value": "BSB, Clm. 6380",
+        "order": "6.00000000000000000000"
       }
     ],
     "number": "2",
@@ -6908,7 +7210,8 @@
     "hands_role": [
       {
         "id": 128,
-        "value": "hit_hands_role__128"
+        "value": "hit_hands_role__128",
+        "order": "114.00000000000000000000"
       }
     ],
     "role": [
@@ -6935,7 +7238,8 @@
     "hands_dated": [
       {
         "id": 75,
-        "value": "hit_hands_dated__75"
+        "value": "hit_hands_dated__75",
+        "order": "75.00000000000000000000"
       }
     ],
     "dating": [
@@ -6950,17 +7254,20 @@
     "hands_placed": [
       {
         "id": 20,
-        "value": "hit_hands_placed__20"
+        "value": "hit_hands_placed__20",
+        "order": "20.00000000000000000000"
       },
       {
         "id": 26,
-        "value": "hit_hands_placed__26"
+        "value": "hit_hands_placed__26",
+        "order": "26.00000000000000000000"
       }
     ],
     "scribe": [
       {
         "id": 1,
-        "value": "Willihalms bayerische Schüler"
+        "value": "Willihalms bayerische Schüler",
+        "order": "1.00000000000000000000"
       }
     ],
     "gruppe": false
@@ -6984,7 +7291,8 @@
     "manuscript": [
       {
         "id": 7,
-        "value": "BSB, Clm. 6380"
+        "value": "BSB, Clm. 6380",
+        "order": "6.00000000000000000000"
       }
     ],
     "number": "3",
@@ -7002,7 +7310,8 @@
     "hands_role": [
       {
         "id": 131,
-        "value": "hit_hands_role__131"
+        "value": "hit_hands_role__131",
+        "order": "117.00000000000000000000"
       }
     ],
     "role": [
@@ -7029,7 +7338,8 @@
     "hands_dated": [
       {
         "id": 76,
-        "value": "hit_hands_dated__76"
+        "value": "hit_hands_dated__76",
+        "order": "76.00000000000000000000"
       }
     ],
     "dating": [
@@ -7044,17 +7354,20 @@
     "hands_placed": [
       {
         "id": 20,
-        "value": "hit_hands_placed__20"
+        "value": "hit_hands_placed__20",
+        "order": "20.00000000000000000000"
       },
       {
         "id": 26,
-        "value": "hit_hands_placed__26"
+        "value": "hit_hands_placed__26",
+        "order": "26.00000000000000000000"
       }
     ],
     "scribe": [
       {
         "id": 1,
-        "value": "Willihalms bayerische Schüler"
+        "value": "Willihalms bayerische Schüler",
+        "order": "1.00000000000000000000"
       }
     ],
     "gruppe": false
@@ -7078,7 +7391,8 @@
     "manuscript": [
       {
         "id": 7,
-        "value": "BSB, Clm. 6380"
+        "value": "BSB, Clm. 6380",
+        "order": "6.00000000000000000000"
       }
     ],
     "number": "4",
@@ -7096,7 +7410,8 @@
     "hands_role": [
       {
         "id": 132,
-        "value": "hit_hands_role__132"
+        "value": "hit_hands_role__132",
+        "order": "118.00000000000000000000"
       }
     ],
     "role": [
@@ -7123,7 +7438,8 @@
     "hands_dated": [
       {
         "id": 77,
-        "value": "hit_hands_dated__77"
+        "value": "hit_hands_dated__77",
+        "order": "77.00000000000000000000"
       }
     ],
     "dating": [
@@ -7138,17 +7454,20 @@
     "hands_placed": [
       {
         "id": 20,
-        "value": "hit_hands_placed__20"
+        "value": "hit_hands_placed__20",
+        "order": "20.00000000000000000000"
       },
       {
         "id": 26,
-        "value": "hit_hands_placed__26"
+        "value": "hit_hands_placed__26",
+        "order": "26.00000000000000000000"
       }
     ],
     "scribe": [
       {
         "id": 1,
-        "value": "Willihalms bayerische Schüler"
+        "value": "Willihalms bayerische Schüler",
+        "order": "1.00000000000000000000"
       }
     ],
     "gruppe": false
@@ -7172,7 +7491,8 @@
     "manuscript": [
       {
         "id": 7,
-        "value": "BSB, Clm. 6380"
+        "value": "BSB, Clm. 6380",
+        "order": "6.00000000000000000000"
       }
     ],
     "number": "5",
@@ -7190,7 +7510,8 @@
     "hands_role": [
       {
         "id": 133,
-        "value": "hit_hands_role__133"
+        "value": "hit_hands_role__133",
+        "order": "119.00000000000000000000"
       }
     ],
     "role": [
@@ -7217,7 +7538,8 @@
     "hands_dated": [
       {
         "id": 78,
-        "value": "hit_hands_dated__78"
+        "value": "hit_hands_dated__78",
+        "order": "78.00000000000000000000"
       }
     ],
     "dating": [
@@ -7232,17 +7554,20 @@
     "hands_placed": [
       {
         "id": 20,
-        "value": "hit_hands_placed__20"
+        "value": "hit_hands_placed__20",
+        "order": "20.00000000000000000000"
       },
       {
         "id": 26,
-        "value": "hit_hands_placed__26"
+        "value": "hit_hands_placed__26",
+        "order": "26.00000000000000000000"
       }
     ],
     "scribe": [
       {
         "id": 1,
-        "value": "Willihalms bayerische Schüler"
+        "value": "Willihalms bayerische Schüler",
+        "order": "1.00000000000000000000"
       }
     ],
     "gruppe": false
@@ -7266,7 +7591,8 @@
     "manuscript": [
       {
         "id": 7,
-        "value": "BSB, Clm. 6380"
+        "value": "BSB, Clm. 6380",
+        "order": "6.00000000000000000000"
       }
     ],
     "number": "6",
@@ -7284,7 +7610,8 @@
     "hands_role": [
       {
         "id": 134,
-        "value": "hit_hands_role__134"
+        "value": "hit_hands_role__134",
+        "order": "120.00000000000000000000"
       }
     ],
     "role": [
@@ -7311,7 +7638,8 @@
     "hands_dated": [
       {
         "id": 79,
-        "value": "hit_hands_dated__79"
+        "value": "hit_hands_dated__79",
+        "order": "79.00000000000000000000"
       }
     ],
     "dating": [
@@ -7326,17 +7654,20 @@
     "hands_placed": [
       {
         "id": 20,
-        "value": "hit_hands_placed__20"
+        "value": "hit_hands_placed__20",
+        "order": "20.00000000000000000000"
       },
       {
         "id": 26,
-        "value": "hit_hands_placed__26"
+        "value": "hit_hands_placed__26",
+        "order": "26.00000000000000000000"
       }
     ],
     "scribe": [
       {
         "id": 1,
-        "value": "Willihalms bayerische Schüler"
+        "value": "Willihalms bayerische Schüler",
+        "order": "1.00000000000000000000"
       }
     ],
     "gruppe": false
@@ -7360,7 +7691,8 @@
     "manuscript": [
       {
         "id": 7,
-        "value": "BSB, Clm. 6380"
+        "value": "BSB, Clm. 6380",
+        "order": "6.00000000000000000000"
       }
     ],
     "number": "7",
@@ -7378,7 +7710,8 @@
     "hands_role": [
       {
         "id": 135,
-        "value": "hit_hands_role__135"
+        "value": "hit_hands_role__135",
+        "order": "121.00000000000000000000"
       }
     ],
     "role": [
@@ -7405,7 +7738,8 @@
     "hands_dated": [
       {
         "id": 80,
-        "value": "hit_hands_dated__80"
+        "value": "hit_hands_dated__80",
+        "order": "80.00000000000000000000"
       }
     ],
     "dating": [
@@ -7420,17 +7754,20 @@
     "hands_placed": [
       {
         "id": 20,
-        "value": "hit_hands_placed__20"
+        "value": "hit_hands_placed__20",
+        "order": "20.00000000000000000000"
       },
       {
         "id": 26,
-        "value": "hit_hands_placed__26"
+        "value": "hit_hands_placed__26",
+        "order": "26.00000000000000000000"
       }
     ],
     "scribe": [
       {
         "id": 1,
-        "value": "Willihalms bayerische Schüler"
+        "value": "Willihalms bayerische Schüler",
+        "order": "1.00000000000000000000"
       }
     ],
     "gruppe": false
@@ -7454,7 +7791,8 @@
     "manuscript": [
       {
         "id": 7,
-        "value": "BSB, Clm. 6380"
+        "value": "BSB, Clm. 6380",
+        "order": "6.00000000000000000000"
       }
     ],
     "number": "8",
@@ -7472,11 +7810,13 @@
     "hands_role": [
       {
         "id": 138,
-        "value": "hit_hands_role__138"
+        "value": "hit_hands_role__138",
+        "order": "124.00000000000000000000"
       },
       {
         "id": 146,
-        "value": "hit_hands_role__146"
+        "value": "hit_hands_role__146",
+        "order": "132.00000000000000000000"
       }
     ],
     "role": [
@@ -7514,7 +7854,8 @@
     "hands_dated": [
       {
         "id": 81,
-        "value": "hit_hands_dated__81"
+        "value": "hit_hands_dated__81",
+        "order": "81.00000000000000000000"
       }
     ],
     "dating": [
@@ -7529,17 +7870,20 @@
     "hands_placed": [
       {
         "id": 20,
-        "value": "hit_hands_placed__20"
+        "value": "hit_hands_placed__20",
+        "order": "20.00000000000000000000"
       },
       {
         "id": 26,
-        "value": "hit_hands_placed__26"
+        "value": "hit_hands_placed__26",
+        "order": "26.00000000000000000000"
       }
     ],
     "scribe": [
       {
         "id": 1,
-        "value": "Willihalms bayerische Schüler"
+        "value": "Willihalms bayerische Schüler",
+        "order": "1.00000000000000000000"
       }
     ],
     "gruppe": false
@@ -7563,7 +7907,8 @@
     "manuscript": [
       {
         "id": 7,
-        "value": "BSB, Clm. 6380"
+        "value": "BSB, Clm. 6380",
+        "order": "6.00000000000000000000"
       }
     ],
     "number": "9",
@@ -7581,7 +7926,8 @@
     "hands_role": [
       {
         "id": 149,
-        "value": "hit_hands_role__149"
+        "value": "hit_hands_role__149",
+        "order": "135.00000000000000000000"
       }
     ],
     "role": [
@@ -7596,17 +7942,20 @@
     "hands_placed": [
       {
         "id": 20,
-        "value": "hit_hands_placed__20"
+        "value": "hit_hands_placed__20",
+        "order": "20.00000000000000000000"
       },
       {
         "id": 26,
-        "value": "hit_hands_placed__26"
+        "value": "hit_hands_placed__26",
+        "order": "26.00000000000000000000"
       }
     ],
     "scribe": [
       {
         "id": 1,
-        "value": "Willihalms bayerische Schüler"
+        "value": "Willihalms bayerische Schüler",
+        "order": "1.00000000000000000000"
       }
     ],
     "gruppe": false
@@ -7630,7 +7979,8 @@
     "manuscript": [
       {
         "id": 8,
-        "value": "BSB, Clm. 6375"
+        "value": "BSB, Clm. 6375",
+        "order": "7.00000000000000000000"
       }
     ],
     "number": "1",
@@ -7648,7 +7998,8 @@
     "hands_role": [
       {
         "id": 139,
-        "value": "hit_hands_role__139"
+        "value": "hit_hands_role__139",
+        "order": "125.00000000000000000000"
       }
     ],
     "role": [
@@ -7696,7 +8047,8 @@
     "hands_dated": [
       {
         "id": 85,
-        "value": "hit_hands_dated__85"
+        "value": "hit_hands_dated__85",
+        "order": "85.00000000000000000000"
       }
     ],
     "dating": [
@@ -7731,7 +8083,8 @@
     "manuscript": [
       {
         "id": 8,
-        "value": "BSB, Clm. 6375"
+        "value": "BSB, Clm. 6375",
+        "order": "7.00000000000000000000"
       }
     ],
     "number": "2",
@@ -7749,7 +8102,8 @@
     "hands_role": [
       {
         "id": 129,
-        "value": "hit_hands_role__129"
+        "value": "hit_hands_role__129",
+        "order": "115.00000000000000000000"
       }
     ],
     "role": [
@@ -7776,7 +8130,8 @@
     "hands_dated": [
       {
         "id": 87,
-        "value": "hit_hands_dated__87"
+        "value": "hit_hands_dated__87",
+        "order": "86.00000000000000000000"
       }
     ],
     "dating": [],
@@ -7803,7 +8158,8 @@
     "manuscript": [
       {
         "id": 9,
-        "value": "BSB, Clm. 6381"
+        "value": "BSB, Clm. 6381",
+        "order": "8.00000000000000000000"
       }
     ],
     "number": "1",
@@ -7821,7 +8177,8 @@
     "hands_role": [
       {
         "id": 120,
-        "value": "hit_hands_role__120"
+        "value": "hit_hands_role__120",
+        "order": "106.00000000000000000000"
       }
     ],
     "role": [
@@ -7870,7 +8227,8 @@
     "manuscript": [
       {
         "id": 9,
-        "value": "BSB, Clm. 6381"
+        "value": "BSB, Clm. 6381",
+        "order": "8.00000000000000000000"
       }
     ],
     "number": "2",
@@ -7888,7 +8246,8 @@
     "hands_role": [
       {
         "id": 122,
-        "value": "hit_hands_role__122"
+        "value": "hit_hands_role__122",
+        "order": "108.00000000000000000000"
       }
     ],
     "role": [
@@ -7937,7 +8296,8 @@
     "manuscript": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6382"
+        "value": "BSB, Clm. 6382",
+        "order": "9.00000000000000000000"
       }
     ],
     "number": "1",
@@ -7955,7 +8315,8 @@
     "hands_role": [
       {
         "id": 155,
-        "value": "hit_hands_role__155"
+        "value": "hit_hands_role__155",
+        "order": "141.00000000000000000000"
       }
     ],
     "role": [
@@ -7982,7 +8343,8 @@
     "hands_dated": [
       {
         "id": 83,
-        "value": "hit_hands_dated__83"
+        "value": "hit_hands_dated__83",
+        "order": "83.00000000000000000000"
       }
     ],
     "dating": [
@@ -7997,7 +8359,8 @@
     "hands_placed": [
       {
         "id": 21,
-        "value": "hit_hands_placed__21"
+        "value": "hit_hands_placed__21",
+        "order": "21.00000000000000000000"
       }
     ],
     "scribe": [],
@@ -8022,7 +8385,8 @@
     "manuscript": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6382"
+        "value": "BSB, Clm. 6382",
+        "order": "9.00000000000000000000"
       }
     ],
     "number": "3",
@@ -8040,7 +8404,8 @@
     "hands_role": [
       {
         "id": 148,
-        "value": "hit_hands_role__148"
+        "value": "hit_hands_role__148",
+        "order": "134.00000000000000000000"
       }
     ],
     "role": [
@@ -8130,14 +8495,16 @@
     "hands_dated": [
       {
         "id": 84,
-        "value": "hit_hands_dated__84"
+        "value": "hit_hands_dated__84",
+        "order": "84.00000000000000000000"
       }
     ],
     "dating": [],
     "hands_placed": [
       {
         "id": 22,
-        "value": "hit_hands_placed__22"
+        "value": "hit_hands_placed__22",
+        "order": "22.00000000000000000000"
       }
     ],
     "scribe": [],
@@ -8162,7 +8529,8 @@
     "manuscript": [
       {
         "id": 9,
-        "value": "BSB, Clm. 6381"
+        "value": "BSB, Clm. 6381",
+        "order": "8.00000000000000000000"
       }
     ],
     "number": "3",
@@ -8180,7 +8548,8 @@
     "hands_role": [
       {
         "id": 123,
-        "value": "hit_hands_role__123"
+        "value": "hit_hands_role__123",
+        "order": "109.00000000000000000000"
       }
     ],
     "role": [
@@ -8229,7 +8598,8 @@
     "manuscript": [
       {
         "id": 11,
-        "value": "BSB, Clm. 6383"
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
       }
     ],
     "number": "1",
@@ -8247,7 +8617,8 @@
     "hands_role": [
       {
         "id": 126,
-        "value": "hit_hands_role__126"
+        "value": "hit_hands_role__126",
+        "order": "112.00000000000000000000"
       }
     ],
     "role": [
@@ -8268,7 +8639,8 @@
     "hands_dated": [
       {
         "id": 88,
-        "value": "hit_hands_dated__88"
+        "value": "hit_hands_dated__88",
+        "order": "87.00000000000000000000"
       }
     ],
     "dating": [
@@ -8283,7 +8655,8 @@
     "hands_placed": [
       {
         "id": 27,
-        "value": "hit_hands_placed__27"
+        "value": "hit_hands_placed__27",
+        "order": "27.00000000000000000000"
       }
     ],
     "scribe": [],
@@ -8308,7 +8681,8 @@
     "manuscript": [
       {
         "id": 12,
-        "value": "BSB, Clm. 6388"
+        "value": "BSB, Clm. 6388",
+        "order": "11.00000000000000000000"
       }
     ],
     "number": "1",
@@ -8326,7 +8700,8 @@
     "hands_role": [
       {
         "id": 127,
-        "value": "hit_hands_role__127"
+        "value": "hit_hands_role__127",
+        "order": "113.00000000000000000000"
       }
     ],
     "role": [
@@ -8375,7 +8750,8 @@
     "manuscript": [
       {
         "id": 12,
-        "value": "BSB, Clm. 6388"
+        "value": "BSB, Clm. 6388",
+        "order": "11.00000000000000000000"
       }
     ],
     "number": "2",
@@ -8393,11 +8769,13 @@
     "hands_role": [
       {
         "id": 130,
-        "value": "hit_hands_role__130"
+        "value": "hit_hands_role__130",
+        "order": "116.00000000000000000000"
       },
       {
         "id": 136,
-        "value": "hit_hands_role__136"
+        "value": "hit_hands_role__136",
+        "order": "122.00000000000000000000"
       }
     ],
     "role": [
@@ -8436,7 +8814,8 @@
     "manuscript": [
       {
         "id": 13,
-        "value": "BSB, Clm. 6391"
+        "value": "BSB, Clm. 6391",
+        "order": "12.00000000000000000000"
       }
     ],
     "number": "1",
@@ -8454,11 +8833,13 @@
     "hands_role": [
       {
         "id": 137,
-        "value": "hit_hands_role__137"
+        "value": "hit_hands_role__137",
+        "order": "123.00000000000000000000"
       },
       {
         "id": 143,
-        "value": "hit_hands_role__143"
+        "value": "hit_hands_role__143",
+        "order": "129.00000000000000000000"
       }
     ],
     "role": [
@@ -8518,7 +8899,8 @@
     "manuscript": [
       {
         "id": 13,
-        "value": "BSB, Clm. 6391"
+        "value": "BSB, Clm. 6391",
+        "order": "12.00000000000000000000"
       }
     ],
     "number": "2",
@@ -8536,11 +8918,13 @@
     "hands_role": [
       {
         "id": 140,
-        "value": "hit_hands_role__140"
+        "value": "hit_hands_role__140",
+        "order": "126.00000000000000000000"
       },
       {
         "id": 144,
-        "value": "hit_hands_role__144"
+        "value": "hit_hands_role__144",
+        "order": "130.00000000000000000000"
       }
     ],
     "role": [
@@ -8593,7 +8977,8 @@
     "manuscript": [
       {
         "id": 13,
-        "value": "BSB, Clm. 6391"
+        "value": "BSB, Clm. 6391",
+        "order": "12.00000000000000000000"
       }
     ],
     "number": "3",
@@ -8611,7 +8996,8 @@
     "hands_role": [
       {
         "id": 141,
-        "value": "hit_hands_role__141"
+        "value": "hit_hands_role__141",
+        "order": "127.00000000000000000000"
       }
     ],
     "role": [
@@ -8644,14 +9030,16 @@
     "similar_hands": [
       {
         "id": 24,
-        "value": "BSB, Clm. 6308_H. 2"
+        "value": "BSB, Clm. 6308_H. 2",
+        "order": "21.00000000000000000000"
       }
     ],
     "nr_daniel": "",
     "manuscript": [
       {
         "id": 6,
-        "value": "BSB, Clm. 6308"
+        "value": "BSB, Clm. 6308",
+        "order": "5.00000000000000000000"
       }
     ],
     "number": "3",
@@ -8669,7 +9057,8 @@
     "hands_role": [
       {
         "id": 142,
-        "value": "hit_hands_role__142"
+        "value": "hit_hands_role__142",
+        "order": "128.00000000000000000000"
       }
     ],
     "role": [
@@ -8701,7 +9090,8 @@
     "hands_dated": [
       {
         "id": 82,
-        "value": "hit_hands_dated__82"
+        "value": "hit_hands_dated__82",
+        "order": "82.00000000000000000000"
       }
     ],
     "dating": [
@@ -8736,7 +9126,8 @@
     "manuscript": [
       {
         "id": 13,
-        "value": "BSB, Clm. 6391"
+        "value": "BSB, Clm. 6391",
+        "order": "12.00000000000000000000"
       }
     ],
     "number": "3",
@@ -8754,7 +9145,8 @@
     "hands_role": [
       {
         "id": 145,
-        "value": "hit_hands_role__145"
+        "value": "hit_hands_role__145",
+        "order": "131.00000000000000000000"
       }
     ],
     "role": [
@@ -8803,7 +9195,8 @@
     "manuscript": [
       {
         "id": 18,
-        "value": "BSB, Clm. 29226"
+        "value": "BSB, Clm. 29226",
+        "order": "17.00000000000000000000"
       }
     ],
     "number": null,
@@ -8846,7 +9239,8 @@
     "manuscript": [
       {
         "id": 12,
-        "value": "BSB, Clm. 6388"
+        "value": "BSB, Clm. 6388",
+        "order": "11.00000000000000000000"
       }
     ],
     "number": null,
@@ -8889,7 +9283,8 @@
     "manuscript": [
       {
         "id": 12,
-        "value": "BSB, Clm. 6388"
+        "value": "BSB, Clm. 6388",
+        "order": "11.00000000000000000000"
       }
     ],
     "number": null,
@@ -8932,7 +9327,8 @@
     "manuscript": [
       {
         "id": 12,
-        "value": "BSB, Clm. 6388"
+        "value": "BSB, Clm. 6388",
+        "order": "11.00000000000000000000"
       }
     ],
     "number": null,
@@ -8975,7 +9371,8 @@
     "manuscript": [
       {
         "id": 12,
-        "value": "BSB, Clm. 6388"
+        "value": "BSB, Clm. 6388",
+        "order": "11.00000000000000000000"
       }
     ],
     "number": null,
@@ -9018,7 +9415,8 @@
     "manuscript": [
       {
         "id": 12,
-        "value": "BSB, Clm. 6388"
+        "value": "BSB, Clm. 6388",
+        "order": "11.00000000000000000000"
       }
     ],
     "number": null,
@@ -9061,7 +9459,8 @@
     "manuscript": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6382"
+        "value": "BSB, Clm. 6382",
+        "order": "9.00000000000000000000"
       }
     ],
     "number": "2",
@@ -9079,7 +9478,8 @@
     "hands_role": [
       {
         "id": 151,
-        "value": "hit_hands_role__151"
+        "value": "hit_hands_role__151",
+        "order": "137.00000000000000000000"
       }
     ],
     "role": [
@@ -9108,13 +9508,15 @@
     "hands_placed": [
       {
         "id": 23,
-        "value": "hit_hands_placed__23"
+        "value": "hit_hands_placed__23",
+        "order": "23.00000000000000000000"
       }
     ],
     "scribe": [
       {
         "id": 4,
-        "value": "Hitto-Erchanbert Gruppe"
+        "value": "Hitto-Erchanbert Gruppe",
+        "order": "3.00000000000000000000"
       }
     ],
     "gruppe": false
@@ -9138,7 +9540,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "39",
@@ -9156,7 +9559,8 @@
     "hands_role": [
       {
         "id": 152,
-        "value": "hit_hands_role__152"
+        "value": "hit_hands_role__152",
+        "order": "138.00000000000000000000"
       }
     ],
     "role": [
@@ -9205,7 +9609,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "40",
@@ -9223,7 +9628,8 @@
     "hands_role": [
       {
         "id": 156,
-        "value": "hit_hands_role__156"
+        "value": "hit_hands_role__156",
+        "order": "142.00000000000000000000"
       }
     ],
     "role": [
@@ -9272,7 +9678,8 @@
     "manuscript": [
       {
         "id": 11,
-        "value": "BSB, Clm. 6383"
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
       }
     ],
     "number": "2",
@@ -9290,7 +9697,8 @@
     "hands_role": [
       {
         "id": 154,
-        "value": "hit_hands_role__154"
+        "value": "hit_hands_role__154",
+        "order": "140.00000000000000000000"
       }
     ],
     "role": [
@@ -9303,7 +9711,8 @@
     "hands_dated": [
       {
         "id": 89,
-        "value": "hit_hands_dated__89"
+        "value": "hit_hands_dated__89",
+        "order": "88.00000000000000000000"
       }
     ],
     "dating": [
@@ -9318,7 +9727,8 @@
     "hands_placed": [
       {
         "id": 27,
-        "value": "hit_hands_placed__27"
+        "value": "hit_hands_placed__27",
+        "order": "27.00000000000000000000"
       }
     ],
     "scribe": [],
@@ -9373,7 +9783,8 @@
     "manuscript": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6382"
+        "value": "BSB, Clm. 6382",
+        "order": "9.00000000000000000000"
       }
     ],
     "number": "4",
@@ -9391,7 +9802,8 @@
     "hands_role": [
       {
         "id": 150,
-        "value": "hit_hands_role__150"
+        "value": "hit_hands_role__150",
+        "order": "136.00000000000000000000"
       }
     ],
     "role": [
@@ -9508,7 +9920,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "number": "41",
@@ -9526,7 +9939,8 @@
     "hands_role": [
       {
         "id": 157,
-        "value": "hit_hands_role__157"
+        "value": "hit_hands_role__157",
+        "order": "143.00000000000000000000"
       }
     ],
     "role": [

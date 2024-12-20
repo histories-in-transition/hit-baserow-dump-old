@@ -6,20 +6,23 @@
     "hand": [
       {
         "id": 5,
-        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3",
+        "order": "11.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 2,
-        "value": "Bischoff"
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
       }
     ],
     "page": "134",
     "place": [
       {
         "id": 3,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
       }
     ],
     "Last modified by": {
@@ -34,24 +37,28 @@
     "hand": [
       {
         "id": 13,
-        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 4"
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 4",
+        "order": "12.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 2,
-        "value": "Bischoff"
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
       }
     ],
     "page": "134",
     "place": [
       {
         "id": 3,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
       },
       {
         "id": 5,
-        "value": "Saint-Amand-les-Eaux"
+        "value": "Saint-Amand-les-Eaux",
+        "order": "5.00000000000000000000"
       }
     ],
     "Last modified by": {
@@ -66,7 +73,8 @@
     "hand": [
       {
         "id": 11,
-        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 1"
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 1",
+        "order": "9.00000000000000000000"
       }
     ],
     "authority": [],
@@ -84,20 +92,23 @@
     "hand": [
       {
         "id": 12,
-        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 2"
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 2",
+        "order": "10.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 2,
-        "value": "Bischoff"
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
       }
     ],
     "page": "133-134",
     "place": [
       {
         "id": 5,
-        "value": "Saint-Amand-les-Eaux"
+        "value": "Saint-Amand-les-Eaux",
+        "order": "5.00000000000000000000"
       }
     ],
     "Last modified by": {
@@ -112,20 +123,23 @@
     "hand": [
       {
         "id": 14,
-        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 5"
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 5",
+        "order": "13.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 2,
-        "value": "Bischoff"
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
       }
     ],
     "page": "134",
     "place": [
       {
         "id": 5,
-        "value": "Saint-Amand-les-Eaux"
+        "value": "Saint-Amand-les-Eaux",
+        "order": "5.00000000000000000000"
       }
     ],
     "Last modified by": {
@@ -140,20 +154,23 @@
     "hand": [
       {
         "id": 15,
-        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 6"
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 6",
+        "order": "14.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 2,
-        "value": "Bischoff"
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
       }
     ],
     "page": "134",
     "place": [
       {
         "id": 3,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
       }
     ],
     "Last modified by": {
@@ -168,20 +185,23 @@
     "hand": [
       {
         "id": 16,
-        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 7"
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 7",
+        "order": "15.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 2,
-        "value": "Bischoff"
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
       }
     ],
     "page": "134",
     "place": [
       {
         "id": 5,
-        "value": "Saint-Amand-les-Eaux"
+        "value": "Saint-Amand-les-Eaux",
+        "order": "5.00000000000000000000"
       }
     ],
     "Last modified by": {
@@ -196,20 +216,23 @@
     "hand": [
       {
         "id": 17,
-        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 8"
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 8",
+        "order": "16.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 2,
-        "value": "Bischoff"
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
       }
     ],
     "page": "133-134",
     "place": [
       {
         "id": 5,
-        "value": "Saint-Amand-les-Eaux"
+        "value": "Saint-Amand-les-Eaux",
+        "order": "5.00000000000000000000"
       }
     ],
     "Last modified by": {
@@ -224,20 +247,23 @@
     "hand": [
       {
         "id": 18,
-        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 9"
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 9",
+        "order": "17.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 2,
-        "value": "Bischoff"
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
       }
     ],
     "page": "133-134",
     "place": [
       {
         "id": 5,
-        "value": "Saint-Amand-les-Eaux"
+        "value": "Saint-Amand-les-Eaux",
+        "order": "5.00000000000000000000"
       }
     ],
     "Last modified by": {
@@ -252,20 +278,23 @@
     "hand": [
       {
         "id": 23,
-        "value": "BSB, Clm. 6308_H. 1"
+        "value": "BSB, Clm. 6308_H. 1",
+        "order": "20.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 9,
-        "value": "Loewe"
+        "value": "Loewe",
+        "order": "9.00000000000000000000"
       }
     ],
     "page": "12",
     "place": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       }
     ],
     "Last modified by": {
@@ -280,20 +309,23 @@
     "hand": [
       {
         "id": 26,
-        "value": "ÖNB, Cod. 366_H. 1"
+        "value": "ÖNB, Cod. 366_H. 1",
+        "order": "22.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 2,
-        "value": "Bischoff"
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
       }
     ],
     "page": "86",
     "place": [
       {
         "id": 3,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
       }
     ],
     "Last modified by": {
@@ -308,20 +340,23 @@
     "hand": [
       {
         "id": 27,
-        "value": "ÖNB, Cod. 366_H. 2"
+        "value": "ÖNB, Cod. 366_H. 2",
+        "order": "23.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 2,
-        "value": "Bischoff"
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
       }
     ],
     "page": "86",
     "place": [
       {
         "id": 3,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
       }
     ],
     "Last modified by": {
@@ -336,20 +371,23 @@
     "hand": [
       {
         "id": 28,
-        "value": "ÖNB, Cod. 366_H. 3"
+        "value": "ÖNB, Cod. 366_H. 3",
+        "order": "24.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 2,
-        "value": "Bischoff"
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
       }
     ],
     "page": "86",
     "place": [
       {
         "id": 3,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
       }
     ],
     "Last modified by": {
@@ -364,20 +402,23 @@
     "hand": [
       {
         "id": 29,
-        "value": "ÖNB, Cod. 366_H. 4"
+        "value": "ÖNB, Cod. 366_H. 4",
+        "order": "25.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 2,
-        "value": "Bischoff"
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
       }
     ],
     "page": "86",
     "place": [
       {
         "id": 3,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
       }
     ],
     "Last modified by": {
@@ -392,20 +433,23 @@
     "hand": [
       {
         "id": 31,
-        "value": "ÖNB, Cod. 387_H. 1"
+        "value": "ÖNB, Cod. 387_H. 1",
+        "order": "27.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 2,
-        "value": "Bischoff"
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
       }
     ],
     "page": "96",
     "place": [
       {
         "id": 3,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
       }
     ],
     "Last modified by": {
@@ -420,7 +464,8 @@
     "hand": [
       {
         "id": 32,
-        "value": "ÖNB, Cod. 387_H. 2"
+        "value": "ÖNB, Cod. 387_H. 2",
+        "order": "28.00000000000000000000"
       }
     ],
     "authority": [],
@@ -428,7 +473,8 @@
     "place": [
       {
         "id": 3,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
       }
     ],
     "Last modified by": {
@@ -443,7 +489,8 @@
     "hand": [
       {
         "id": 34,
-        "value": "ÖNB, Cod. 387_H. 4"
+        "value": "ÖNB, Cod. 387_H. 4",
+        "order": "30.00000000000000000000"
       }
     ],
     "authority": [],
@@ -451,7 +498,8 @@
     "place": [
       {
         "id": 3,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
       }
     ],
     "Last modified by": {
@@ -466,7 +514,8 @@
     "hand": [
       {
         "id": 35,
-        "value": "ÖNB, Cod. 387_H. 5"
+        "value": "ÖNB, Cod. 387_H. 5",
+        "order": "31.00000000000000000000"
       }
     ],
     "authority": [],
@@ -474,7 +523,8 @@
     "place": [
       {
         "id": 3,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
       }
     ],
     "Last modified by": {
@@ -489,7 +539,8 @@
     "hand": [
       {
         "id": 33,
-        "value": "ÖNB, Cod. 387_H. 3"
+        "value": "ÖNB, Cod. 387_H. 3",
+        "order": "29.00000000000000000000"
       }
     ],
     "authority": [],
@@ -497,7 +548,8 @@
     "place": [
       {
         "id": 3,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
       }
     ],
     "Last modified by": {
@@ -512,52 +564,63 @@
     "hand": [
       {
         "id": 83,
-        "value": "BSB, Clm. 6380_H. 1"
+        "value": "BSB, Clm. 6380_H. 1",
+        "order": "75.00000000000000000000"
       },
       {
         "id": 84,
-        "value": "BSB, Clm. 6380_H. 2"
+        "value": "BSB, Clm. 6380_H. 2",
+        "order": "76.00000000000000000000"
       },
       {
         "id": 85,
-        "value": "BSB, Clm. 6380_H. 3"
+        "value": "BSB, Clm. 6380_H. 3",
+        "order": "77.00000000000000000000"
       },
       {
         "id": 86,
-        "value": "BSB, Clm. 6380_H. 4"
+        "value": "BSB, Clm. 6380_H. 4",
+        "order": "78.00000000000000000000"
       },
       {
         "id": 87,
-        "value": "BSB, Clm. 6380_H. 5"
+        "value": "BSB, Clm. 6380_H. 5",
+        "order": "79.00000000000000000000"
       },
       {
         "id": 88,
-        "value": "BSB, Clm. 6380_H. 6"
+        "value": "BSB, Clm. 6380_H. 6",
+        "order": "80.00000000000000000000"
       },
       {
         "id": 89,
-        "value": "BSB, Clm. 6380_H. 7"
+        "value": "BSB, Clm. 6380_H. 7",
+        "order": "81.00000000000000000000"
       },
       {
         "id": 90,
-        "value": "BSB, Clm. 6380_H. 8"
+        "value": "BSB, Clm. 6380_H. 8",
+        "order": "82.00000000000000000000"
       },
       {
         "id": 91,
-        "value": "BSB, Clm. 6380_H. 9"
+        "value": "BSB, Clm. 6380_H. 9",
+        "order": "83.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 6,
-        "value": "Daniel, N."
+        "value": "Daniel, N.",
+        "order": "6.00000000000000000000"
       }
     ],
     "page": "155",
     "place": [
       {
         "id": 16,
-        "value": "Bayern"
+        "value": "Bayern",
+        "order": "14.00000000000000000000"
       }
     ],
     "Last modified by": {
@@ -572,20 +635,23 @@
     "hand": [
       {
         "id": 96,
-        "value": "BSB, Clm. 6382_H. 1"
+        "value": "BSB, Clm. 6382_H. 1",
+        "order": "88.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 2,
-        "value": "Bischoff"
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
       }
     ],
     "page": "73",
     "place": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       }
     ],
     "Last modified by": {
@@ -600,20 +666,23 @@
     "hand": [
       {
         "id": 97,
-        "value": "BSB, Clm. 6382_H. 3"
+        "value": "BSB, Clm. 6382_H. 3",
+        "order": "89.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 3,
-        "value": "Glauche"
+        "value": "Glauche",
+        "order": "3.00000000000000000000"
       }
     ],
     "page": "154",
     "place": [
       {
         "id": 17,
-        "value": "Reims"
+        "value": "Reims",
+        "order": "15.00000000000000000000"
       }
     ],
     "Last modified by": {
@@ -628,20 +697,23 @@
     "hand": [
       {
         "id": 114,
-        "value": "BSB, Clm. 6382_H. 2"
+        "value": "BSB, Clm. 6382_H. 2",
+        "order": "106.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 2,
-        "value": "Bischoff"
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
       }
     ],
     "page": "73",
     "place": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       }
     ],
     "Last modified by": {
@@ -656,20 +728,23 @@
     "hand": [
       {
         "id": 19,
-        "value": "BSB, Clm. 6326_H. 1"
+        "value": "BSB, Clm. 6326_H. 1",
+        "order": "18.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 6,
-        "value": "Daniel, N."
+        "value": "Daniel, N.",
+        "order": "6.00000000000000000000"
       }
     ],
     "page": "155",
     "place": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       }
     ],
     "Last modified by": {
@@ -684,7 +759,8 @@
     "hand": [
       {
         "id": 20,
-        "value": "BSB, Clm. 6326_H. 2"
+        "value": "BSB, Clm. 6326_H. 2",
+        "order": "19.00000000000000000000"
       }
     ],
     "authority": [],
@@ -702,52 +778,63 @@
     "hand": [
       {
         "id": 83,
-        "value": "BSB, Clm. 6380_H. 1"
+        "value": "BSB, Clm. 6380_H. 1",
+        "order": "75.00000000000000000000"
       },
       {
         "id": 84,
-        "value": "BSB, Clm. 6380_H. 2"
+        "value": "BSB, Clm. 6380_H. 2",
+        "order": "76.00000000000000000000"
       },
       {
         "id": 85,
-        "value": "BSB, Clm. 6380_H. 3"
+        "value": "BSB, Clm. 6380_H. 3",
+        "order": "77.00000000000000000000"
       },
       {
         "id": 86,
-        "value": "BSB, Clm. 6380_H. 4"
+        "value": "BSB, Clm. 6380_H. 4",
+        "order": "78.00000000000000000000"
       },
       {
         "id": 87,
-        "value": "BSB, Clm. 6380_H. 5"
+        "value": "BSB, Clm. 6380_H. 5",
+        "order": "79.00000000000000000000"
       },
       {
         "id": 88,
-        "value": "BSB, Clm. 6380_H. 6"
+        "value": "BSB, Clm. 6380_H. 6",
+        "order": "80.00000000000000000000"
       },
       {
         "id": 89,
-        "value": "BSB, Clm. 6380_H. 7"
+        "value": "BSB, Clm. 6380_H. 7",
+        "order": "81.00000000000000000000"
       },
       {
         "id": 90,
-        "value": "BSB, Clm. 6380_H. 8"
+        "value": "BSB, Clm. 6380_H. 8",
+        "order": "82.00000000000000000000"
       },
       {
         "id": 91,
-        "value": "BSB, Clm. 6380_H. 9"
+        "value": "BSB, Clm. 6380_H. 9",
+        "order": "83.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 2,
-        "value": "Bischoff"
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
       }
     ],
     "page": "147",
     "place": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       }
     ],
     "Last modified by": {
@@ -762,24 +849,28 @@
     "hand": [
       {
         "id": 100,
-        "value": "BSB, Clm. 6383_H. 1"
+        "value": "BSB, Clm. 6383_H. 1",
+        "order": "92.00000000000000000000"
       },
       {
         "id": 118,
-        "value": "BSB, Clm. 6383_H. 2"
+        "value": "BSB, Clm. 6383_H. 2",
+        "order": "110.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 13,
-        "value": "O. Ernst, A. Nievergelt, M. Schiegg"
+        "value": "O. Ernst, A. Nievergelt, M. Schiegg",
+        "order": "13.00000000000000000000"
       }
     ],
     "page": "275",
     "place": [
       {
         "id": 12,
-        "value": "Bodensee"
+        "value": "Bodensee",
+        "order": "12.00000000000000000000"
       }
     ],
     "Last modified by": {
@@ -794,7 +885,8 @@
     "hand": [
       {
         "id": 41,
-        "value": "ÖNB, Cod. 2090_H. 1"
+        "value": "ÖNB, Cod. 2090_H. 1",
+        "order": "36.00000000000000000000"
       }
     ],
     "authority": [],
@@ -802,7 +894,8 @@
     "place": [
       {
         "id": 3,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
       }
     ],
     "Last modified by": {

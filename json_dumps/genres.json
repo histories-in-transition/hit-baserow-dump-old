@@ -41,7 +41,8 @@
     "main_genre": [
       {
         "id": 5,
-        "value": "Historiographie"
+        "value": "Historiographie",
+        "order": "5.00000000000000000000"
       }
     ],
     "Created by": {
@@ -63,7 +64,8 @@
     "main_genre": [
       {
         "id": 5,
-        "value": "Historiographie"
+        "value": "Historiographie",
+        "order": "5.00000000000000000000"
       }
     ],
     "Created by": {
@@ -153,7 +155,8 @@
     "main_genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur"
+        "value": "Theologische Literatur",
+        "order": "8.00000000000000000000"
       }
     ],
     "Created by": {
@@ -209,7 +212,8 @@
     "main_genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur"
+        "value": "Theologische Literatur",
+        "order": "8.00000000000000000000"
       }
     ],
     "Created by": {

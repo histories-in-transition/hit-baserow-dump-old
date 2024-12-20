@@ -6,19 +6,22 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "date": [
       {
         "id": 7,
-        "value": "9 Jh., erstes Viertel"
+        "value": "9 Jh., erstes Viertel",
+        "order": "7.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 2,
-        "value": "Bischoff"
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
       }
     ],
     "page": "133-134",
@@ -42,19 +45,22 @@
     "manuscript": [
       {
         "id": 5,
-        "value": "BSB, Clm. 6326"
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
       }
     ],
     "date": [
       {
         "id": 5,
-        "value": "10 Jh., zweite Hälfte"
+        "value": "10 Jh., zweite Hälfte",
+        "order": "5.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 2,
-        "value": "Bischoff"
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
       }
     ],
     "page": "222",
@@ -78,19 +84,22 @@
     "manuscript": [
       {
         "id": 5,
-        "value": "BSB, Clm. 6326"
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
       }
     ],
     "date": [
       {
         "id": 4,
-        "value": "10 Jh., Mitte"
+        "value": "10 Jh., Mitte",
+        "order": "4.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 3,
-        "value": "Glauche"
+        "value": "Glauche",
+        "order": "3.00000000000000000000"
       }
     ],
     "page": "20",
@@ -114,19 +123,22 @@
     "manuscript": [
       {
         "id": 9,
-        "value": "BSB, Clm. 6381"
+        "value": "BSB, Clm. 6381",
+        "order": "8.00000000000000000000"
       }
     ],
     "date": [
       {
         "id": 18,
-        "value": "820-840"
+        "value": "820-840",
+        "order": "18.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 2,
-        "value": "Bischoff"
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
       }
     ],
     "page": "25",
@@ -150,19 +162,22 @@
     "manuscript": [
       {
         "id": 9,
-        "value": "BSB, Clm. 6381"
+        "value": "BSB, Clm. 6381",
+        "order": "8.00000000000000000000"
       }
     ],
     "date": [
       {
         "id": 19,
-        "value": "vor 850"
+        "value": "vor 850",
+        "order": "19.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 3,
-        "value": "Glauche"
+        "value": "Glauche",
+        "order": "3.00000000000000000000"
       }
     ],
     "page": "152",
@@ -186,19 +201,22 @@
     "manuscript": [
       {
         "id": 6,
-        "value": "BSB, Clm. 6308"
+        "value": "BSB, Clm. 6308",
+        "order": "5.00000000000000000000"
       }
     ],
     "date": [
       {
         "id": 28,
-        "value": "8 Jh."
+        "value": "8 Jh.",
+        "order": "28.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 9,
-        "value": "Loewe"
+        "value": "Loewe",
+        "order": "9.00000000000000000000"
       }
     ],
     "page": "12",
@@ -222,19 +240,22 @@
     "manuscript": [
       {
         "id": 6,
-        "value": "BSB, Clm. 6308"
+        "value": "BSB, Clm. 6308",
+        "order": "5.00000000000000000000"
       }
     ],
     "date": [
       {
         "id": 10,
-        "value": "vor 784"
+        "value": "vor 784",
+        "order": "10.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 3,
-        "value": "Glauche"
+        "value": "Glauche",
+        "order": "3.00000000000000000000"
       }
     ],
     "page": "187",
@@ -258,19 +279,22 @@
     "manuscript": [
       {
         "id": 22,
-        "value": "ÖNB, Cod. 366"
+        "value": "ÖNB, Cod. 366",
+        "order": "1.66666666666666674068"
       }
     ],
     "date": [
       {
         "id": 22,
-        "value": "780-800"
+        "value": "780-800",
+        "order": "22.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 2,
-        "value": "Bischoff"
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
       }
     ],
     "page": "86-87",
@@ -294,19 +318,22 @@
     "manuscript": [
       {
         "id": 7,
-        "value": "BSB, Clm. 6380"
+        "value": "BSB, Clm. 6380",
+        "order": "6.00000000000000000000"
       }
     ],
     "date": [
       {
         "id": 11,
-        "value": "10 Jh., spät"
+        "value": "10 Jh., spät",
+        "order": "11.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 3,
-        "value": "Glauche"
+        "value": "Glauche",
+        "order": "3.00000000000000000000"
       }
     ],
     "page": "150",
@@ -330,19 +357,22 @@
     "manuscript": [
       {
         "id": 8,
-        "value": "BSB, Clm. 6375"
+        "value": "BSB, Clm. 6375",
+        "order": "7.00000000000000000000"
       }
     ],
     "date": [
       {
         "id": 6,
-        "value": "9 Jh., erste Hälfte"
+        "value": "9 Jh., erste Hälfte",
+        "order": "6.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 3,
-        "value": "Glauche"
+        "value": "Glauche",
+        "order": "3.00000000000000000000"
       }
     ],
     "page": "142",
@@ -366,19 +396,22 @@
     "manuscript": [
       {
         "id": 8,
-        "value": "BSB, Clm. 6375"
+        "value": "BSB, Clm. 6375",
+        "order": "7.00000000000000000000"
       }
     ],
     "date": [
       {
         "id": 2,
-        "value": "9 Jh., erstes Drittel"
+        "value": "9 Jh., erstes Drittel",
+        "order": "2.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 4,
-        "value": "Bierbrauer, K."
+        "value": "Bierbrauer, K.",
+        "order": "4.00000000000000000000"
       }
     ],
     "page": "",
@@ -402,19 +435,22 @@
     "manuscript": [
       {
         "id": 11,
-        "value": "BSB, Clm. 6383"
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
       }
     ],
     "date": [
       {
         "id": 12,
-        "value": "8 Jh., Ende"
+        "value": "8 Jh., Ende",
+        "order": "12.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 3,
-        "value": "Glauche"
+        "value": "Glauche",
+        "order": "3.00000000000000000000"
       }
     ],
     "page": "158",
@@ -438,19 +474,22 @@
     "manuscript": [
       {
         "id": 12,
-        "value": "BSB, Clm. 6388"
+        "value": "BSB, Clm. 6388",
+        "order": "11.00000000000000000000"
       }
     ],
     "date": [
       {
         "id": 5,
-        "value": "10 Jh., zweite Hälfte"
+        "value": "10 Jh., zweite Hälfte",
+        "order": "5.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 3,
-        "value": "Glauche"
+        "value": "Glauche",
+        "order": "3.00000000000000000000"
       }
     ],
     "page": "164",
@@ -474,19 +513,22 @@
     "manuscript": [
       {
         "id": 13,
-        "value": "BSB, Clm. 6391"
+        "value": "BSB, Clm. 6391",
+        "order": "12.00000000000000000000"
       }
     ],
     "date": [
       {
         "id": 11,
-        "value": "10 Jh., spät"
+        "value": "10 Jh., spät",
+        "order": "11.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 3,
-        "value": "Glauche"
+        "value": "Glauche",
+        "order": "3.00000000000000000000"
       }
     ],
     "page": "170",
@@ -510,19 +552,22 @@
     "manuscript": [
       {
         "id": 14,
-        "value": "BSB, Clm. 6392"
+        "value": "BSB, Clm. 6392",
+        "order": "13.00000000000000000000"
       }
     ],
     "date": [
       {
         "id": 13,
-        "value": "11 Jh."
+        "value": "11 Jh.",
+        "order": "13.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 3,
-        "value": "Glauche"
+        "value": "Glauche",
+        "order": "3.00000000000000000000"
       }
     ],
     "page": "171",
@@ -546,19 +591,22 @@
     "manuscript": [
       {
         "id": 15,
-        "value": "BSB, Clm. 6393"
+        "value": "BSB, Clm. 6393",
+        "order": "14.00000000000000000000"
       }
     ],
     "date": [
       {
         "id": 14,
-        "value": "8 Jh., spät"
+        "value": "8 Jh., spät",
+        "order": "14.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 3,
-        "value": "Glauche"
+        "value": "Glauche",
+        "order": "3.00000000000000000000"
       }
     ],
     "page": "173",
@@ -582,19 +630,22 @@
     "manuscript": [
       {
         "id": 16,
-        "value": "BSB, Clm. 6376"
+        "value": "BSB, Clm. 6376",
+        "order": "15.00000000000000000000"
       }
     ],
     "date": [
       {
         "id": 3,
-        "value": "9 Jh., Mitte"
+        "value": "9 Jh., Mitte",
+        "order": "3.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 3,
-        "value": "Glauche"
+        "value": "Glauche",
+        "order": "3.00000000000000000000"
       }
     ],
     "page": "144",
@@ -618,19 +669,22 @@
     "manuscript": [
       {
         "id": 16,
-        "value": "BSB, Clm. 6376"
+        "value": "BSB, Clm. 6376",
+        "order": "15.00000000000000000000"
       }
     ],
     "date": [
       {
         "id": 26,
-        "value": "9 Jh., zweites Viertel"
+        "value": "9 Jh., zweites Viertel",
+        "order": "26.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 4,
-        "value": "Bierbrauer, K."
+        "value": "Bierbrauer, K.",
+        "order": "4.00000000000000000000"
       }
     ],
     "page": "",
@@ -654,19 +708,22 @@
     "manuscript": [
       {
         "id": 17,
-        "value": "BSB, Clm. 1086"
+        "value": "BSB, Clm. 1086",
+        "order": "16.00000000000000000000"
       }
     ],
     "date": [
       {
         "id": 15,
-        "value": "nach 800"
+        "value": "nach 800",
+        "order": "15.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 5,
-        "value": "Freckmann"
+        "value": "Freckmann",
+        "order": "5.00000000000000000000"
       }
     ],
     "page": "",
@@ -690,19 +747,22 @@
     "manuscript": [
       {
         "id": 17,
-        "value": "BSB, Clm. 1086"
+        "value": "BSB, Clm. 1086",
+        "order": "16.00000000000000000000"
       }
     ],
     "date": [
       {
         "id": 7,
-        "value": "9 Jh., erstes Viertel"
+        "value": "9 Jh., erstes Viertel",
+        "order": "7.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 4,
-        "value": "Bierbrauer, K."
+        "value": "Bierbrauer, K.",
+        "order": "4.00000000000000000000"
       }
     ],
     "page": "",
@@ -726,19 +786,22 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "date": [
       {
         "id": 30,
-        "value": "809-818"
+        "value": "809-818",
+        "order": "30.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 2,
-        "value": "Bischoff"
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
       }
     ],
     "page": "96",
@@ -762,19 +825,22 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "date": [
       {
         "id": 31,
-        "value": "818"
+        "value": "818",
+        "order": "31.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 8,
-        "value": "Hermann"
+        "value": "Hermann",
+        "order": "8.00000000000000000000"
       }
     ],
     "page": "145",
@@ -798,19 +864,22 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "date": [
       {
         "id": 32,
-        "value": "vor 821"
+        "value": "vor 821",
+        "order": "32.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 7,
-        "value": "Unterkircher"
+        "value": "Unterkircher",
+        "order": "7.00000000000000000000"
       }
     ],
     "page": "22-23",
@@ -834,19 +903,22 @@
     "manuscript": [
       {
         "id": 20,
-        "value": "BSB, Clm 27305"
+        "value": "BSB, Clm 27305",
+        "order": "19.00000000000000000000"
       }
     ],
     "date": [
       {
         "id": 33,
-        "value": "10/11 Jh."
+        "value": "10/11 Jh.",
+        "order": "33.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 10,
-        "value": "Hauke, Remak-Honeff"
+        "value": "Hauke, Remak-Honeff",
+        "order": "10.00000000000000000000"
       }
     ],
     "page": "23",
@@ -870,19 +942,22 @@
     "manuscript": [
       {
         "id": 20,
-        "value": "BSB, Clm 27305"
+        "value": "BSB, Clm 27305",
+        "order": "19.00000000000000000000"
       }
     ],
     "date": [
       {
         "id": 5,
-        "value": "10 Jh., zweite Hälfte"
+        "value": "10 Jh., zweite Hälfte",
+        "order": "5.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 3,
-        "value": "Glauche"
+        "value": "Glauche",
+        "order": "3.00000000000000000000"
       }
     ],
     "page": "317",
@@ -906,23 +981,27 @@
     "manuscript": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6382"
+        "value": "BSB, Clm. 6382",
+        "order": "9.00000000000000000000"
       }
     ],
     "date": [
       {
         "id": 51,
-        "value": "8 Jh., drittes Viertel"
+        "value": "8 Jh., drittes Viertel",
+        "order": "51.00000000000000000000"
       },
       {
         "id": 52,
-        "value": "9 Jh."
+        "value": "9 Jh.",
+        "order": "52.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 3,
-        "value": "Glauche"
+        "value": "Glauche",
+        "order": "3.00000000000000000000"
       }
     ],
     "page": "154",
@@ -946,19 +1025,22 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "date": [
       {
         "id": 35,
-        "value": "810-830"
+        "value": "810-830",
+        "order": "35.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 11,
-        "value": "Borst"
+        "value": "Borst",
+        "order": "11.00000000000000000000"
       }
     ],
     "page": "198",
@@ -982,19 +1064,22 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "date": [
       {
         "id": 38,
-        "value": "1060-1065"
+        "value": "1060-1065",
+        "order": "38.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 7,
-        "value": "Unterkircher"
+        "value": "Unterkircher",
+        "order": "7.00000000000000000000"
       }
     ],
     "page": "47",
@@ -1018,19 +1103,22 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "date": [
       {
         "id": 39,
-        "value": "11. Jh., zweite Hälfte"
+        "value": "11. Jh., zweite Hälfte",
+        "order": "39.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 8,
-        "value": "Hermann"
+        "value": "Hermann",
+        "order": "8.00000000000000000000"
       }
     ],
     "page": "35",
@@ -1054,19 +1142,22 @@
     "manuscript": [
       {
         "id": 23,
-        "value": "ÖNB, Cod. 371"
+        "value": "ÖNB, Cod. 371",
+        "order": "1.75000000000000000000"
       }
     ],
     "date": [
       {
         "id": 6,
-        "value": "9 Jh., erste Hälfte"
+        "value": "9 Jh., erste Hälfte",
+        "order": "6.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 2,
-        "value": "Bischoff"
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
       }
     ],
     "page": "121",
@@ -1090,23 +1181,27 @@
     "manuscript": [
       {
         "id": 19,
-        "value": "BSB, Clm. 6341"
+        "value": "BSB, Clm. 6341",
+        "order": "18.00000000000000000000"
       }
     ],
     "date": [
       {
         "id": 49,
-        "value": "um 9. Jh., drittes Drittel"
+        "value": "um 9. Jh., drittes Drittel",
+        "order": "49.00000000000000000000"
       },
       {
         "id": 50,
-        "value": "9/10 Jh."
+        "value": "9/10 Jh.",
+        "order": "50.00000000000000000000"
       }
     ],
     "authority": [
       {
         "id": 3,
-        "value": "Glauche"
+        "value": "Glauche",
+        "order": "3.00000000000000000000"
       }
     ],
     "page": "59",

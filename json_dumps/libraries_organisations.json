@@ -10,7 +10,8 @@
     "settlement": [
       {
         "id": 6,
-        "value": "Wien"
+        "value": "Wien",
+        "order": "6.00000000000000000000"
       }
     ],
     "wikidata": "",
@@ -36,7 +37,8 @@
     "settlement": [
       {
         "id": 7,
-        "value": "Würzburg"
+        "value": "Würzburg",
+        "order": "7.00000000000000000000"
       }
     ],
     "wikidata": "",
@@ -62,7 +64,8 @@
     "settlement": [
       {
         "id": 8,
-        "value": "München"
+        "value": "München",
+        "order": "8.00000000000000000000"
       }
     ],
     "wikidata": "",
@@ -88,7 +91,8 @@
     "settlement": [
       {
         "id": 7,
-        "value": "Würzburg"
+        "value": "Würzburg",
+        "order": "7.00000000000000000000"
       }
     ],
     "wikidata": "",
@@ -114,7 +118,8 @@
     "settlement": [
       {
         "id": 4,
-        "value": "Freising"
+        "value": "Freising",
+        "order": "4.00000000000000000000"
       }
     ],
     "wikidata": "",
@@ -140,7 +145,8 @@
     "settlement": [
       {
         "id": 3,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
       }
     ],
     "wikidata": "",
@@ -166,7 +172,8 @@
     "settlement": [
       {
         "id": 3,
-        "value": "Salzburg"
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
       }
     ],
     "wikidata": "",
@@ -192,7 +199,8 @@
     "settlement": [
       {
         "id": 5,
-        "value": "Saint-Amand-les-Eaux"
+        "value": "Saint-Amand-les-Eaux",
+        "order": "5.00000000000000000000"
       }
     ],
     "wikidata": "https://www.wikidata.org/wiki/Q334131",
@@ -218,7 +226,8 @@
     "settlement": [
       {
         "id": 8,
-        "value": "München"
+        "value": "München",
+        "order": "8.00000000000000000000"
       }
     ],
     "wikidata": "",

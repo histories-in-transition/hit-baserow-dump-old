@@ -11,7 +11,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -20,7 +21,8 @@
     "title_work": [
       {
         "id": 5,
-        "value": "Argumentum descriptionis omnium terminorum singulis annis decemnovennalis cycli"
+        "value": "Argumentum descriptionis omnium terminorum singulis annis decemnovennalis cycli",
+        "order": "4.00000000000000000000"
       }
     ],
     "title_note": "Unvollständig",
@@ -33,13 +35,15 @@
     "hands_role": [
       {
         "id": 2,
-        "value": "hit_hands_role__2"
+        "value": "hit_hands_role__2",
+        "order": "2.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 3,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1",
+        "order": "3.00000000000000000000"
       }
     ],
     "Last modified": "2024-12-12",
@@ -76,7 +80,8 @@
         "color": "darker-pink"
       }
     ],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "68": {
     "id": 68,
@@ -90,7 +95,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "incipit": "[...] unius anni cum regnare coepisset",
@@ -99,7 +105,8 @@
     "title_work": [
       {
         "id": 67,
-        "value": "Bibelauszug"
+        "value": "Bibelauszug",
+        "order": "66.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -112,13 +119,15 @@
     "hands_role": [
       {
         "id": 14,
-        "value": "hit_hands_role__14"
+        "value": "hit_hands_role__14",
+        "order": "1.60000000000000008882"
       }
     ],
     "cod_unit": [
       {
         "id": 3,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1",
+        "order": "3.00000000000000000000"
       }
     ],
     "Last modified": "2024-07-11",
@@ -144,7 +153,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "10": {
     "id": 10,
@@ -158,7 +168,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -167,7 +178,8 @@
     "title_work": [
       {
         "id": 11,
-        "value": "hieronymi chronicon"
+        "value": "hieronymi chronicon",
+        "order": "10.00000000000000000000"
       }
     ],
     "title_note": "Auszug der Jahre 47, 56 und 70 n. Chr",
@@ -180,13 +192,15 @@
     "hands_role": [
       {
         "id": 6,
-        "value": "hit_hands_role__6"
+        "value": "hit_hands_role__6",
+        "order": "1.50000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 3,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1",
+        "order": "3.00000000000000000000"
       }
     ],
     "Last modified": "2024-07-29",
@@ -212,7 +226,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "5": {
     "id": 5,
@@ -226,7 +241,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -235,7 +251,8 @@
     "title_work": [
       {
         "id": 4,
-        "value": "De cyclo paschali"
+        "value": "De cyclo paschali",
+        "order": "3.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -248,25 +265,30 @@
     "hands_role": [
       {
         "id": 5,
-        "value": "hit_hands_role__5"
+        "value": "hit_hands_role__5",
+        "order": "1.75000000000000000000"
       },
       {
         "id": 3,
-        "value": "hit_hands_role__3"
+        "value": "hit_hands_role__3",
+        "order": "3.00000000000000000000"
       },
       {
         "id": 10,
-        "value": "hit_hands_role__10"
+        "value": "hit_hands_role__10",
+        "order": "4.00000000000000000000"
       },
       {
         "id": 17,
-        "value": "hit_hands_role__17"
+        "value": "hit_hands_role__17",
+        "order": "9.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 3,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1",
+        "order": "3.00000000000000000000"
       }
     ],
     "Last modified": "2024-11-19",
@@ -319,7 +341,8 @@
     ],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "12": {
     "id": 12,
@@ -333,7 +356,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -342,7 +366,8 @@
     "title_work": [
       {
         "id": 13,
-        "value": "Annales Iuvavenses maiores"
+        "value": "Annales Iuvavenses maiores",
+        "order": "12.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -355,21 +380,25 @@
     "hands_role": [
       {
         "id": 11,
-        "value": "hit_hands_role__11"
+        "value": "hit_hands_role__11",
+        "order": "5.00000000000000000000"
       },
       {
         "id": 16,
-        "value": "hit_hands_role__16"
+        "value": "hit_hands_role__16",
+        "order": "8.00000000000000000000"
       },
       {
         "id": 82,
-        "value": "hit_hands_role__82"
+        "value": "hit_hands_role__82",
+        "order": "72.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 3,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1",
+        "order": "3.00000000000000000000"
       }
     ],
     "Last modified": "2024-08-05",
@@ -409,7 +438,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "7": {
     "id": 7,
@@ -423,7 +453,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -432,7 +463,8 @@
     "title_work": [
       {
         "id": 6,
-        "value": "Epactae lunae & solis"
+        "value": "Epactae lunae & solis",
+        "order": "5.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -445,13 +477,15 @@
     "hands_role": [
       {
         "id": 24,
-        "value": "hit_hands_role__24"
+        "value": "hit_hands_role__24",
+        "order": "16.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 3,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1",
+        "order": "3.00000000000000000000"
       }
     ],
     "Last modified": "2024-07-03",
@@ -477,7 +511,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "13": {
     "id": 13,
@@ -491,7 +526,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -500,7 +536,8 @@
     "title_work": [
       {
         "id": 14,
-        "value": "Annales Iuvavenses minores"
+        "value": "Annales Iuvavenses minores",
+        "order": "13.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -513,13 +550,15 @@
     "hands_role": [
       {
         "id": 4,
-        "value": "hit_hands_role__4"
+        "value": "hit_hands_role__4",
+        "order": "1.66666666666666674068"
       }
     ],
     "cod_unit": [
       {
         "id": 3,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1",
+        "order": "3.00000000000000000000"
       }
     ],
     "Last modified": "2024-07-03",
@@ -545,7 +584,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "8": {
     "id": 8,
@@ -559,7 +599,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -568,7 +609,8 @@
     "title_work": [
       {
         "id": 7,
-        "value": "De temporum ratione"
+        "value": "De temporum ratione",
+        "order": "6.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -581,21 +623,25 @@
     "hands_role": [
       {
         "id": 18,
-        "value": "hit_hands_role__18"
+        "value": "hit_hands_role__18",
+        "order": "10.00000000000000000000"
       },
       {
         "id": 19,
-        "value": "hit_hands_role__19"
+        "value": "hit_hands_role__19",
+        "order": "11.00000000000000000000"
       },
       {
         "id": 20,
-        "value": "hit_hands_role__20"
+        "value": "hit_hands_role__20",
+        "order": "12.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 3,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1",
+        "order": "3.00000000000000000000"
       }
     ],
     "Last modified": "2024-11-19",
@@ -641,7 +687,8 @@
     ],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "11": {
     "id": 11,
@@ -655,7 +702,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -664,7 +712,8 @@
     "title_work": [
       {
         "id": 7,
-        "value": "De temporum ratione"
+        "value": "De temporum ratione",
+        "order": "6.00000000000000000000"
       }
     ],
     "title_note": "Chronik-Abschnitt",
@@ -677,21 +726,25 @@
     "hands_role": [
       {
         "id": 12,
-        "value": "hit_hands_role__12"
+        "value": "hit_hands_role__12",
+        "order": "6.00000000000000000000"
       },
       {
         "id": 15,
-        "value": "hit_hands_role__15"
+        "value": "hit_hands_role__15",
+        "order": "7.00000000000000000000"
       },
       {
         "id": 22,
-        "value": "hit_hands_role__22"
+        "value": "hit_hands_role__22",
+        "order": "14.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 5,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 2"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 2",
+        "order": "3.50000000000000000000"
       }
     ],
     "Last modified": "2024-07-03",
@@ -731,7 +784,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "69": {
     "id": 69,
@@ -745,7 +799,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -754,7 +809,8 @@
     "title_work": [
       {
         "id": 11,
-        "value": "hieronymi chronicon"
+        "value": "hieronymi chronicon",
+        "order": "10.00000000000000000000"
       }
     ],
     "title_note": "TEST. Auszüge der Jahre...",
@@ -767,13 +823,15 @@
     "hands_role": [
       {
         "id": 102,
-        "value": "hit_hands_role__102"
+        "value": "hit_hands_role__102",
+        "order": "88.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 5,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 2"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 2",
+        "order": "3.50000000000000000000"
       }
     ],
     "Last modified": "2024-09-06",
@@ -799,7 +857,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "14": {
     "id": 14,
@@ -813,7 +872,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -822,7 +882,8 @@
     "title_work": [
       {
         "id": 68,
-        "value": "Responsorien, Versikel, Antiphonen der Quadragesimalzeit"
+        "value": "Responsorien, Versikel, Antiphonen der Quadragesimalzeit",
+        "order": "67.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -835,7 +896,8 @@
     "hands_role": [
       {
         "id": 31,
-        "value": "hit_hands_role__31"
+        "value": "hit_hands_role__31",
+        "order": "23.00000000000000000000"
       }
     ],
     "cod_unit": [],
@@ -862,7 +924,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "15": {
     "id": 15,
@@ -876,7 +939,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -885,7 +949,8 @@
     "title_work": [
       {
         "id": 16,
-        "value": "Synchrone Tafeln über das Alter der Patriarchen von Noe bis Jakob"
+        "value": "Synchrone Tafeln über das Alter der Patriarchen von Noe bis Jakob",
+        "order": "15.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -898,7 +963,8 @@
     "hands_role": [
       {
         "id": 28,
-        "value": "hit_hands_role__28"
+        "value": "hit_hands_role__28",
+        "order": "20.00000000000000000000"
       }
     ],
     "cod_unit": [],
@@ -925,7 +991,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "72": {
     "id": 72,
@@ -939,7 +1006,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -948,7 +1016,8 @@
     "title_work": [
       {
         "id": 69,
-        "value": "Ephemeris"
+        "value": "Ephemeris",
+        "order": "68.00000000000000000000"
       }
     ],
     "title_note": "Auszug",
@@ -961,7 +1030,8 @@
     "hands_role": [
       {
         "id": 29,
-        "value": "hit_hands_role__29"
+        "value": "hit_hands_role__29",
+        "order": "21.00000000000000000000"
       }
     ],
     "cod_unit": [],
@@ -988,7 +1058,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "73": {
     "id": 73,
@@ -1002,7 +1073,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -1011,7 +1083,8 @@
     "title_work": [
       {
         "id": 70,
-        "value": "Tabelle mit Loca embolismorum und Concordia maris et lunae"
+        "value": "Tabelle mit Loca embolismorum und Concordia maris et lunae",
+        "order": "69.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -1024,7 +1097,8 @@
     "hands_role": [
       {
         "id": 30,
-        "value": "hit_hands_role__30"
+        "value": "hit_hands_role__30",
+        "order": "22.00000000000000000000"
       }
     ],
     "cod_unit": [],
@@ -1051,7 +1125,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "75": {
     "id": 75,
@@ -1065,7 +1140,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "incipit": "Auditum, fratres karissimi, et divulgatum est per multa loca.",
@@ -1074,7 +1150,8 @@
     "title_work": [
       {
         "id": 71,
-        "value": "Eidesformel Papst Leos III."
+        "value": "Eidesformel Papst Leos III.",
+        "order": "70.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -1087,13 +1164,15 @@
     "hands_role": [
       {
         "id": 21,
-        "value": "hit_hands_role__21"
+        "value": "hit_hands_role__21",
+        "order": "13.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 11,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 3"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 3",
+        "order": "3.66666666666666651864"
       }
     ],
     "Last modified": "2024-07-11",
@@ -1119,7 +1198,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "77": {
     "id": 77,
@@ -1133,7 +1213,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "incipit": "Asia ab oriente",
@@ -1142,7 +1223,8 @@
     "title_work": [
       {
         "id": 72,
-        "value": "De globo mundi et coniecture orbis versus"
+        "value": "De globo mundi et coniecture orbis versus",
+        "order": "71.00000000000000000000"
       }
     ],
     "title_note": "Str. 1-7",
@@ -1155,13 +1237,15 @@
     "hands_role": [
       {
         "id": 23,
-        "value": "hit_hands_role__23"
+        "value": "hit_hands_role__23",
+        "order": "15.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 11,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 3"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 3",
+        "order": "3.66666666666666651864"
       }
     ],
     "Last modified": "2024-07-11",
@@ -1187,7 +1271,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "17": {
     "id": 17,
@@ -1201,7 +1286,8 @@
     "manuscript": [
       {
         "id": 6,
-        "value": "BSB, Clm. 6308"
+        "value": "BSB, Clm. 6308",
+        "order": "5.00000000000000000000"
       }
     ],
     "incipit": "[…factum de]beat totumque tuum sit….quod libens feci",
@@ -1210,7 +1296,8 @@
     "title_work": [
       {
         "id": 3,
-        "value": "Historiae adversus paganos"
+        "value": "Historiae adversus paganos",
+        "order": "2.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -1223,21 +1310,25 @@
     "hands_role": [
       {
         "id": 36,
-        "value": "hit_hands_role__36"
+        "value": "hit_hands_role__36",
+        "order": "28.00000000000000000000"
       },
       {
         "id": 38,
-        "value": "hit_hands_role__38"
+        "value": "hit_hands_role__38",
+        "order": "30.00000000000000000000"
       },
       {
         "id": 142,
-        "value": "hit_hands_role__142"
+        "value": "hit_hands_role__142",
+        "order": "128.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 4,
-        "value": "BSB, Clm. 6308, cod. unit 1"
+        "value": "BSB, Clm. 6308, cod. unit 1",
+        "order": "4.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-28",
@@ -1277,7 +1368,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "18": {
     "id": 18,
@@ -1291,7 +1383,8 @@
     "manuscript": [
       {
         "id": 5,
-        "value": "BSB, Clm. 6326"
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
       }
     ],
     "incipit": "Ego quidem frater unanimis…",
@@ -1300,7 +1393,8 @@
     "title_work": [
       {
         "id": 17,
-        "value": "Vita sancti Martini"
+        "value": "Vita sancti Martini",
+        "order": "16.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -1313,20 +1407,23 @@
     "hands_role": [
       {
         "id": 121,
-        "value": "hit_hands_role__121"
+        "value": "hit_hands_role__121",
+        "order": "107.00000000000000000000"
       },
       {
         "id": 153,
-        "value": "hit_hands_role__153"
+        "value": "hit_hands_role__153",
+        "order": "139.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6326, cod. unit 1"
+        "value": "BSB, Clm. 6326, cod. unit 1",
+        "order": "10.00000000000000000000"
       }
     ],
-    "Last modified": "2024-07-11",
+    "Last modified": "2024-12-18",
     "Created on": "2024-07-08",
     "Created by": {
       "id": 87,
@@ -1356,7 +1453,14 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ]
   },
   "19": {
     "id": 19,
@@ -1370,7 +1474,8 @@
     "manuscript": [
       {
         "id": 5,
-        "value": "BSB, Clm. 6326"
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -1379,7 +1484,8 @@
     "title_work": [
       {
         "id": 18,
-        "value": "Epistulae"
+        "value": "Epistulae",
+        "order": "17.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -1392,16 +1498,18 @@
     "hands_role": [
       {
         "id": 121,
-        "value": "hit_hands_role__121"
+        "value": "hit_hands_role__121",
+        "order": "107.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6326, cod. unit 1"
+        "value": "BSB, Clm. 6326, cod. unit 1",
+        "order": "10.00000000000000000000"
       }
     ],
-    "Last modified": "2024-07-11",
+    "Last modified": "2024-12-18",
     "Created on": "2024-07-08",
     "Created by": {
       "id": 87,
@@ -1424,7 +1532,14 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ]
   },
   "20": {
     "id": 20,
@@ -1438,7 +1553,8 @@
     "manuscript": [
       {
         "id": 5,
-        "value": "BSB, Clm. 6326"
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -1447,7 +1563,8 @@
     "title_work": [
       {
         "id": 19,
-        "value": "Dialogi"
+        "value": "Dialogi",
+        "order": "18.00000000000000000000"
       }
     ],
     "title_note": "III",
@@ -1460,16 +1577,18 @@
     "hands_role": [
       {
         "id": 121,
-        "value": "hit_hands_role__121"
+        "value": "hit_hands_role__121",
+        "order": "107.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6326, cod. unit 1"
+        "value": "BSB, Clm. 6326, cod. unit 1",
+        "order": "10.00000000000000000000"
       }
     ],
-    "Last modified": "2024-10-27",
+    "Last modified": "2024-12-18",
     "Created on": "2024-07-08",
     "Created by": {
       "id": 87,
@@ -1492,7 +1611,14 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ]
   },
   "21": {
     "id": 21,
@@ -1506,7 +1632,8 @@
     "manuscript": [
       {
         "id": 5,
-        "value": "BSB, Clm. 6326"
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
       }
     ],
     "incipit": "Archadio uero et Honorio sanctus Martinus Turonum episcopus…",
@@ -1515,7 +1642,8 @@
     "title_work": [
       {
         "id": 60,
-        "value": "Miracula sancti Martini"
+        "value": "Miracula sancti Martini",
+        "order": "59.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -1528,28 +1656,31 @@
     "hands_role": [
       {
         "id": 121,
-        "value": "hit_hands_role__121"
+        "value": "hit_hands_role__121",
+        "order": "107.00000000000000000000"
       },
       {
         "id": 153,
-        "value": "hit_hands_role__153"
+        "value": "hit_hands_role__153",
+        "order": "139.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6326, cod. unit 1"
+        "value": "BSB, Clm. 6326, cod. unit 1",
+        "order": "10.00000000000000000000"
       }
     ],
-    "Last modified": "2024-09-05",
+    "Last modified": "2024-12-18",
     "Created on": "2024-07-08",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
     },
     "Last modified by": {
-      "id": 3,
-      "name": "Peter Andorfer"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
     "note": null,
     "hand": [
@@ -1571,7 +1702,14 @@
     "decoration": [],
     "facs_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00006546_00237/full/472,/0/default.jpg",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ]
   },
   "22": {
     "id": 22,
@@ -1585,7 +1723,8 @@
     "manuscript": [
       {
         "id": 5,
-        "value": "BSB, Clm. 6326"
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
       }
     ],
     "incipit": "Igitur post excessum beati Martini Turonicae ciuitatis episcopi…",
@@ -1594,7 +1733,8 @@
     "title_work": [
       {
         "id": 74,
-        "value": "Vita sancti Bricii"
+        "value": "Vita sancti Bricii",
+        "order": "21.50000000000000000000"
       }
     ],
     "title_note": "",
@@ -1607,16 +1747,18 @@
     "hands_role": [
       {
         "id": 121,
-        "value": "hit_hands_role__121"
+        "value": "hit_hands_role__121",
+        "order": "107.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6326, cod. unit 1"
+        "value": "BSB, Clm. 6326, cod. unit 1",
+        "order": "10.00000000000000000000"
       }
     ],
-    "Last modified": "2024-07-11",
+    "Last modified": "2024-12-18",
     "Created on": "2024-07-08",
     "Created by": {
       "id": 87,
@@ -1639,7 +1781,14 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ]
   },
   "23": {
     "id": 23,
@@ -1653,7 +1802,8 @@
     "manuscript": [
       {
         "id": 5,
-        "value": "BSB, Clm. 6326"
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
       }
     ],
     "incipit": "Venimus en istuc, hic ne personat[e] heu/ …",
@@ -1662,7 +1812,8 @@
     "title_work": [
       {
         "id": 21,
-        "value": "Tituli metrici de sancto Martino"
+        "value": "Tituli metrici de sancto Martino",
+        "order": "20.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -1675,16 +1826,18 @@
     "hands_role": [
       {
         "id": 121,
-        "value": "hit_hands_role__121"
+        "value": "hit_hands_role__121",
+        "order": "107.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6326, cod. unit 1"
+        "value": "BSB, Clm. 6326, cod. unit 1",
+        "order": "10.00000000000000000000"
       }
     ],
-    "Last modified": "2024-07-11",
+    "Last modified": "2024-12-18",
     "Created on": "2024-07-08",
     "Created by": {
       "id": 87,
@@ -1707,7 +1860,14 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ]
   },
   "79": {
     "id": 79,
@@ -1721,7 +1881,8 @@
     "manuscript": [
       {
         "id": 5,
-        "value": "BSB, Clm. 6326"
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
       }
     ],
     "incipit": "Basilica sancti Martini abest e civitate passos quingentos",
@@ -1730,7 +1891,8 @@
     "title_work": [
       {
         "id": 22,
-        "value": "De basilica sancti Martini et sollemnitatibus"
+        "value": "De basilica sancti Martini et sollemnitatibus",
+        "order": "21.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -1743,16 +1905,18 @@
     "hands_role": [
       {
         "id": 121,
-        "value": "hit_hands_role__121"
+        "value": "hit_hands_role__121",
+        "order": "107.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6326, cod. unit 1"
+        "value": "BSB, Clm. 6326, cod. unit 1",
+        "order": "10.00000000000000000000"
       }
     ],
-    "Last modified": "2024-07-11",
+    "Last modified": "2024-12-18",
     "Created on": "2024-07-11",
     "Created by": {
       "id": 87,
@@ -1775,7 +1939,14 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ]
   },
   "24": {
     "id": 24,
@@ -1789,7 +1960,8 @@
     "manuscript": [
       {
         "id": 5,
-        "value": "BSB, Clm. 6326"
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
       }
     ],
     "incipit": "Clemens trinitas est una diuinitas, ut autem per sacramentum cognoscatur…",
@@ -1798,7 +1970,8 @@
     "title_work": [
       {
         "id": 23,
-        "value": "Confessio sancti Martini"
+        "value": "Confessio sancti Martini",
+        "order": "22.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -1811,16 +1984,18 @@
     "hands_role": [
       {
         "id": 121,
-        "value": "hit_hands_role__121"
+        "value": "hit_hands_role__121",
+        "order": "107.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6326, cod. unit 1"
+        "value": "BSB, Clm. 6326, cod. unit 1",
+        "order": "10.00000000000000000000"
       }
     ],
-    "Last modified": "2024-07-11",
+    "Last modified": "2024-12-18",
     "Created on": "2024-07-08",
     "Created by": {
       "id": 87,
@@ -1843,7 +2018,14 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ]
   },
   "25": {
     "id": 25,
@@ -1857,7 +2039,8 @@
     "manuscript": [
       {
         "id": 5,
-        "value": "BSB, Clm. 6326"
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
       }
     ],
     "incipit": "Dominus ac saluator noster Jesus Christus redemptor scilicet humani generis…",
@@ -1866,7 +2049,8 @@
     "title_work": [
       {
         "id": 24,
-        "value": "Miraculum de puella ab ortu nativitatis suae muta et surda"
+        "value": "Miraculum de puella ab ortu nativitatis suae muta et surda",
+        "order": "23.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -1879,16 +2063,18 @@
     "hands_role": [
       {
         "id": 121,
-        "value": "hit_hands_role__121"
+        "value": "hit_hands_role__121",
+        "order": "107.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6326, cod. unit 1"
+        "value": "BSB, Clm. 6326, cod. unit 1",
+        "order": "10.00000000000000000000"
       }
     ],
-    "Last modified": "2024-09-24",
+    "Last modified": "2024-12-18",
     "Created on": "2024-07-08",
     "Created by": {
       "id": 87,
@@ -1911,7 +2097,14 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ]
   },
   "26": {
     "id": 26,
@@ -1925,7 +2118,8 @@
     "manuscript": [
       {
         "id": 8,
-        "value": "BSB, Clm. 6375"
+        "value": "BSB, Clm. 6375",
+        "order": "7.00000000000000000000"
       }
     ],
     "incipit": "Robor arbor est. Robur uirtutis. Rubor coloris ... seras portarum suarum",
@@ -1934,7 +2128,8 @@
     "title_work": [
       {
         "id": 25,
-        "value": "De orthographia"
+        "value": "De orthographia",
+        "order": "24.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -1947,13 +2142,15 @@
     "hands_role": [
       {
         "id": 139,
-        "value": "hit_hands_role__139"
+        "value": "hit_hands_role__139",
+        "order": "125.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 27,
-        "value": "BSB, Clm. 6375, cod. unit 1"
+        "value": "BSB, Clm. 6375, cod. unit 1",
+        "order": "25.00000000000000000000"
       }
     ],
     "Last modified": "2024-11-18",
@@ -1979,7 +2176,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "27": {
     "id": 27,
@@ -1993,7 +2191,8 @@
     "manuscript": [
       {
         "id": 8,
-        "value": "BSB, Clm. 6375"
+        "value": "BSB, Clm. 6375",
+        "order": "7.00000000000000000000"
       }
     ],
     "incipit": "Iuris ordinem conuerti postulas …",
@@ -2002,7 +2201,8 @@
     "title_work": [
       {
         "id": 26,
-        "value": "Corpus juris civilis"
+        "value": "Corpus juris civilis",
+        "order": "25.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -2015,13 +2215,15 @@
     "hands_role": [
       {
         "id": 139,
-        "value": "hit_hands_role__139"
+        "value": "hit_hands_role__139",
+        "order": "125.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 27,
-        "value": "BSB, Clm. 6375, cod. unit 1"
+        "value": "BSB, Clm. 6375, cod. unit 1",
+        "order": "25.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-27",
@@ -2047,7 +2249,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "28": {
     "id": 28,
@@ -2061,7 +2264,8 @@
     "manuscript": [
       {
         "id": 8,
-        "value": "BSB, Clm. 6375"
+        "value": "BSB, Clm. 6375",
+        "order": "7.00000000000000000000"
       }
     ],
     "incipit": "Peritorum dicunt esse medicorum ubi inmine‹ re urbibus …",
@@ -2070,7 +2274,8 @@
     "title_work": [
       {
         "id": 29,
-        "value": "Historia ecclesiastica cum Rufini continuatione"
+        "value": "Historia ecclesiastica cum Rufini continuatione",
+        "order": "28.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -2083,17 +2288,20 @@
     "hands_role": [
       {
         "id": 129,
-        "value": "hit_hands_role__129"
+        "value": "hit_hands_role__129",
+        "order": "115.00000000000000000000"
       },
       {
         "id": 139,
-        "value": "hit_hands_role__139"
+        "value": "hit_hands_role__139",
+        "order": "125.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 27,
-        "value": "BSB, Clm. 6375, cod. unit 1"
+        "value": "BSB, Clm. 6375, cod. unit 1",
+        "order": "25.00000000000000000000"
       }
     ],
     "Last modified": "2024-11-18",
@@ -2126,7 +2334,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "29": {
     "id": 29,
@@ -2140,7 +2349,8 @@
     "manuscript": [
       {
         "id": 8,
-        "value": "BSB, Clm. 6375"
+        "value": "BSB, Clm. 6375",
+        "order": "7.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -2149,7 +2359,8 @@
     "title_work": [
       {
         "id": 25,
-        "value": "De orthographia"
+        "value": "De orthographia",
+        "order": "24.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -2162,13 +2373,15 @@
     "hands_role": [
       {
         "id": 139,
-        "value": "hit_hands_role__139"
+        "value": "hit_hands_role__139",
+        "order": "125.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 27,
-        "value": "BSB, Clm. 6375, cod. unit 1"
+        "value": "BSB, Clm. 6375, cod. unit 1",
+        "order": "25.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-27",
@@ -2194,7 +2407,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "30": {
     "id": 30,
@@ -2208,7 +2422,8 @@
     "manuscript": [
       {
         "id": 16,
-        "value": "BSB, Clm. 6376"
+        "value": "BSB, Clm. 6376",
+        "order": "15.00000000000000000000"
       }
     ],
     "incipit": "Utiliter nimis in capite libri praefatio ponitur…",
@@ -2217,7 +2432,8 @@
     "title_work": [
       {
         "id": 27,
-        "value": "Historia tripartita ab Epiphanio scholastico translata"
+        "value": "Historia tripartita ab Epiphanio scholastico translata",
+        "order": "26.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -2231,7 +2447,8 @@
     "cod_unit": [
       {
         "id": 28,
-        "value": "BSB, Clm. 6376, cod. unit 1"
+        "value": "BSB, Clm. 6376, cod. unit 1",
+        "order": "26.00000000000000000000"
       }
     ],
     "Last modified": "2024-10-23",
@@ -2249,7 +2466,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "31": {
     "id": 31,
@@ -2263,7 +2481,8 @@
     "manuscript": [
       {
         "id": 7,
-        "value": "BSB, Clm. 6380"
+        "value": "BSB, Clm. 6380",
+        "order": "6.00000000000000000000"
       }
     ],
     "incipit": "Dicturus igitvr",
@@ -2272,7 +2491,8 @@
     "title_work": [
       {
         "id": 3,
-        "value": "Historiae adversus paganos"
+        "value": "Historiae adversus paganos",
+        "order": "2.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -2285,41 +2505,50 @@
     "hands_role": [
       {
         "id": 125,
-        "value": "hit_hands_role__125"
+        "value": "hit_hands_role__125",
+        "order": "111.00000000000000000000"
       },
       {
         "id": 128,
-        "value": "hit_hands_role__128"
+        "value": "hit_hands_role__128",
+        "order": "114.00000000000000000000"
       },
       {
         "id": 131,
-        "value": "hit_hands_role__131"
+        "value": "hit_hands_role__131",
+        "order": "117.00000000000000000000"
       },
       {
         "id": 132,
-        "value": "hit_hands_role__132"
+        "value": "hit_hands_role__132",
+        "order": "118.00000000000000000000"
       },
       {
         "id": 133,
-        "value": "hit_hands_role__133"
+        "value": "hit_hands_role__133",
+        "order": "119.00000000000000000000"
       },
       {
         "id": 134,
-        "value": "hit_hands_role__134"
+        "value": "hit_hands_role__134",
+        "order": "120.00000000000000000000"
       },
       {
         "id": 135,
-        "value": "hit_hands_role__135"
+        "value": "hit_hands_role__135",
+        "order": "121.00000000000000000000"
       },
       {
         "id": 146,
-        "value": "hit_hands_role__146"
+        "value": "hit_hands_role__146",
+        "order": "132.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 16,
-        "value": "BSB, Clm. 6380, cod. unit 1"
+        "value": "BSB, Clm. 6380, cod. unit 1",
+        "order": "14.00000000000000000000"
       }
     ],
     "Last modified": "2024-11-18",
@@ -2405,7 +2634,8 @@
     ],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "32": {
     "id": 32,
@@ -2419,7 +2649,8 @@
     "manuscript": [
       {
         "id": 7,
-        "value": "BSB, Clm. 6380"
+        "value": "BSB, Clm. 6380",
+        "order": "6.00000000000000000000"
       }
     ],
     "incipit": "Primo gradu superiori linea continentur pater mater, inferiori filius filia",
@@ -2428,7 +2659,8 @@
     "title_work": [
       {
         "id": 28,
-        "value": "De septem gradibus consanguinitatis"
+        "value": "De septem gradibus consanguinitatis",
+        "order": "27.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -2441,13 +2673,15 @@
     "hands_role": [
       {
         "id": 138,
-        "value": "hit_hands_role__138"
+        "value": "hit_hands_role__138",
+        "order": "124.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 16,
-        "value": "BSB, Clm. 6380, cod. unit 1"
+        "value": "BSB, Clm. 6380, cod. unit 1",
+        "order": "14.00000000000000000000"
       }
     ],
     "Last modified": "2024-11-18",
@@ -2484,7 +2718,8 @@
     ],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "33": {
     "id": 33,
@@ -2498,7 +2733,8 @@
     "manuscript": [
       {
         "id": 9,
-        "value": "BSB, Clm. 6381"
+        "value": "BSB, Clm. 6381",
+        "order": "8.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -2507,7 +2743,8 @@
     "title_work": [
       {
         "id": 29,
-        "value": "Historia ecclesiastica cum Rufini continuatione"
+        "value": "Historia ecclesiastica cum Rufini continuatione",
+        "order": "28.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -2520,21 +2757,25 @@
     "hands_role": [
       {
         "id": 120,
-        "value": "hit_hands_role__120"
+        "value": "hit_hands_role__120",
+        "order": "106.00000000000000000000"
       },
       {
         "id": 122,
-        "value": "hit_hands_role__122"
+        "value": "hit_hands_role__122",
+        "order": "108.00000000000000000000"
       },
       {
         "id": 123,
-        "value": "hit_hands_role__123"
+        "value": "hit_hands_role__123",
+        "order": "109.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 17,
-        "value": "BSB, Clm. 6381, cod. unit 1"
+        "value": "BSB, Clm. 6381, cod. unit 1",
+        "order": "15.00000000000000000000"
       }
     ],
     "Last modified": "2024-11-18",
@@ -2574,7 +2815,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "34": {
     "id": 34,
@@ -2588,7 +2830,8 @@
     "manuscript": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6382"
+        "value": "BSB, Clm. 6382",
+        "order": "9.00000000000000000000"
       }
     ],
     "incipit": "Fuit uir in Alexandria nomine Pafnutius honorabilis omnibus…",
@@ -2597,7 +2840,8 @@
     "title_work": [
       {
         "id": 41,
-        "value": "Vita sanctae Euphrosinae"
+        "value": "Vita sanctae Euphrosinae",
+        "order": "40.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -2610,17 +2854,20 @@
     "hands_role": [
       {
         "id": 148,
-        "value": "hit_hands_role__148"
+        "value": "hit_hands_role__148",
+        "order": "134.00000000000000000000"
       },
       {
         "id": 150,
-        "value": "hit_hands_role__150"
+        "value": "hit_hands_role__150",
+        "order": "136.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 18,
-        "value": "BSB, Clm. 6382, cod. unit 1"
+        "value": "BSB, Clm. 6382, cod. unit 1",
+        "order": "16.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-27",
@@ -2653,7 +2900,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "35": {
     "id": 35,
@@ -2667,7 +2915,8 @@
     "manuscript": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6382"
+        "value": "BSB, Clm. 6382",
+        "order": "9.00000000000000000000"
       }
     ],
     "incipit": "Venit nuper ad manus meas…",
@@ -2676,7 +2925,8 @@
     "title_work": [
       {
         "id": 42,
-        "value": "Synonyma"
+        "value": "Synonyma",
+        "order": "41.00000000000000000000"
       }
     ],
     "title_note": "lib. I (fragmentum)",
@@ -2689,17 +2939,20 @@
     "hands_role": [
       {
         "id": 148,
-        "value": "hit_hands_role__148"
+        "value": "hit_hands_role__148",
+        "order": "134.00000000000000000000"
       },
       {
         "id": 150,
-        "value": "hit_hands_role__150"
+        "value": "hit_hands_role__150",
+        "order": "136.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 18,
-        "value": "BSB, Clm. 6382, cod. unit 1"
+        "value": "BSB, Clm. 6382, cod. unit 1",
+        "order": "16.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-27",
@@ -2732,7 +2985,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "36": {
     "id": 36,
@@ -2746,7 +3000,8 @@
     "manuscript": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6382"
+        "value": "BSB, Clm. 6382",
+        "order": "9.00000000000000000000"
       }
     ],
     "incipit": "Paulus seruus … Non dico uos‹ seruos…",
@@ -2755,7 +3010,8 @@
     "title_work": [
       {
         "id": 46,
-        "value": "Concordia testimoniorum"
+        "value": "Concordia testimoniorum",
+        "order": "45.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -2768,17 +3024,20 @@
     "hands_role": [
       {
         "id": 148,
-        "value": "hit_hands_role__148"
+        "value": "hit_hands_role__148",
+        "order": "134.00000000000000000000"
       },
       {
         "id": 150,
-        "value": "hit_hands_role__150"
+        "value": "hit_hands_role__150",
+        "order": "136.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 18,
-        "value": "BSB, Clm. 6382, cod. unit 1"
+        "value": "BSB, Clm. 6382, cod. unit 1",
+        "order": "16.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-27",
@@ -2811,7 +3070,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "37": {
     "id": 37,
@@ -2825,7 +3085,8 @@
     "manuscript": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6382"
+        "value": "BSB, Clm. 6382",
+        "order": "9.00000000000000000000"
       }
     ],
     "incipit": "Cum me peruigil cura fecisset exsomnem his me questionibus interrogaui… –… ut quod homines carnalibus caecati curis uidere non possunt, saltim fidei conpendio nanciscantur. – Contuli ut potui cum omni solertia. Qui legis ora pro me.",
@@ -2834,7 +3095,8 @@
     "title_work": [
       {
         "id": 47,
-        "value": "De unitate sanctae trinitatis"
+        "value": "De unitate sanctae trinitatis",
+        "order": "46.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -2847,17 +3109,20 @@
     "hands_role": [
       {
         "id": 148,
-        "value": "hit_hands_role__148"
+        "value": "hit_hands_role__148",
+        "order": "134.00000000000000000000"
       },
       {
         "id": 150,
-        "value": "hit_hands_role__150"
+        "value": "hit_hands_role__150",
+        "order": "136.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 18,
-        "value": "BSB, Clm. 6382, cod. unit 1"
+        "value": "BSB, Clm. 6382, cod. unit 1",
+        "order": "16.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-27",
@@ -2890,7 +3155,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "38": {
     "id": 38,
@@ -2904,7 +3170,8 @@
     "manuscript": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6382"
+        "value": "BSB, Clm. 6382",
+        "order": "9.00000000000000000000"
       }
     ],
     "incipit": "Inter deum et dominum quid interest.",
@@ -2913,7 +3180,8 @@
     "title_work": [
       {
         "id": 43,
-        "value": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum"
+        "value": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum",
+        "order": "42.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -2926,17 +3194,20 @@
     "hands_role": [
       {
         "id": 148,
-        "value": "hit_hands_role__148"
+        "value": "hit_hands_role__148",
+        "order": "134.00000000000000000000"
       },
       {
         "id": 150,
-        "value": "hit_hands_role__150"
+        "value": "hit_hands_role__150",
+        "order": "136.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 18,
-        "value": "BSB, Clm. 6382, cod. unit 1"
+        "value": "BSB, Clm. 6382, cod. unit 1",
+        "order": "16.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-27",
@@ -2969,7 +3240,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "39": {
     "id": 39,
@@ -2983,7 +3255,8 @@
     "manuscript": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6382"
+        "value": "BSB, Clm. 6382",
+        "order": "9.00000000000000000000"
       }
     ],
     "incipit": "Symon qui interpretatur obędiens, Petrus agnoscens, filius Johannis, frater Andreę…",
@@ -2992,7 +3265,8 @@
     "title_work": [
       {
         "id": 45,
-        "value": "Breviarium apostolorum"
+        "value": "Breviarium apostolorum",
+        "order": "44.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -3005,17 +3279,20 @@
     "hands_role": [
       {
         "id": 148,
-        "value": "hit_hands_role__148"
+        "value": "hit_hands_role__148",
+        "order": "134.00000000000000000000"
       },
       {
         "id": 150,
-        "value": "hit_hands_role__150"
+        "value": "hit_hands_role__150",
+        "order": "136.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 18,
-        "value": "BSB, Clm. 6382, cod. unit 1"
+        "value": "BSB, Clm. 6382, cod. unit 1",
+        "order": "16.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-27",
@@ -3048,7 +3325,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "40": {
     "id": 40,
@@ -3062,7 +3340,8 @@
     "manuscript": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6382"
+        "value": "BSB, Clm. 6382",
+        "order": "9.00000000000000000000"
       }
     ],
     "incipit": "Kalendae Januarii si fuerint dominico die hiems bona erit et uernus(= ver) uentuosus",
@@ -3071,7 +3350,8 @@
     "title_work": [
       {
         "id": 52,
-        "value": "Revelatio Esdrae de qualitatibus anni"
+        "value": "Revelatio Esdrae de qualitatibus anni",
+        "order": "51.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -3084,17 +3364,20 @@
     "hands_role": [
       {
         "id": 148,
-        "value": "hit_hands_role__148"
+        "value": "hit_hands_role__148",
+        "order": "134.00000000000000000000"
       },
       {
         "id": 150,
-        "value": "hit_hands_role__150"
+        "value": "hit_hands_role__150",
+        "order": "136.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 18,
-        "value": "BSB, Clm. 6382, cod. unit 1"
+        "value": "BSB, Clm. 6382, cod. unit 1",
+        "order": "16.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-27",
@@ -3127,7 +3410,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "41": {
     "id": 41,
@@ -3141,7 +3425,8 @@
     "manuscript": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6382"
+        "value": "BSB, Clm. 6382",
+        "order": "9.00000000000000000000"
       }
     ],
     "incipit": "Vernus exoritur VIII. Kal. Martii permanens diebus XCI…",
@@ -3150,7 +3435,8 @@
     "title_work": [
       {
         "id": 44,
-        "value": "De natura rerum"
+        "value": "De natura rerum",
+        "order": "43.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -3163,17 +3449,20 @@
     "hands_role": [
       {
         "id": 148,
-        "value": "hit_hands_role__148"
+        "value": "hit_hands_role__148",
+        "order": "134.00000000000000000000"
       },
       {
         "id": 150,
-        "value": "hit_hands_role__150"
+        "value": "hit_hands_role__150",
+        "order": "136.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 18,
-        "value": "BSB, Clm. 6382, cod. unit 1"
+        "value": "BSB, Clm. 6382, cod. unit 1",
+        "order": "16.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-27",
@@ -3206,7 +3495,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "42": {
     "id": 42,
@@ -3220,7 +3510,8 @@
     "manuscript": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6382"
+        "value": "BSB, Clm. 6382",
+        "order": "9.00000000000000000000"
       }
     ],
     "incipit": "Luna prima quicquid uideris in gaudium conuertitur nec in malum…",
@@ -3229,7 +3520,8 @@
     "title_work": [
       {
         "id": 62,
-        "value": "De somnis"
+        "value": "De somnis",
+        "order": "61.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -3242,17 +3534,20 @@
     "hands_role": [
       {
         "id": 148,
-        "value": "hit_hands_role__148"
+        "value": "hit_hands_role__148",
+        "order": "134.00000000000000000000"
       },
       {
         "id": 150,
-        "value": "hit_hands_role__150"
+        "value": "hit_hands_role__150",
+        "order": "136.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 18,
-        "value": "BSB, Clm. 6382, cod. unit 1"
+        "value": "BSB, Clm. 6382, cod. unit 1",
+        "order": "16.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-27",
@@ -3285,7 +3580,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "43": {
     "id": 43,
@@ -3299,7 +3595,8 @@
     "manuscript": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6382"
+        "value": "BSB, Clm. 6382",
+        "order": "9.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -3308,7 +3605,8 @@
     "title_work": [
       {
         "id": 63,
-        "value": "Capitulare evangeliorum"
+        "value": "Capitulare evangeliorum",
+        "order": "62.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -3321,17 +3619,20 @@
     "hands_role": [
       {
         "id": 148,
-        "value": "hit_hands_role__148"
+        "value": "hit_hands_role__148",
+        "order": "134.00000000000000000000"
       },
       {
         "id": 150,
-        "value": "hit_hands_role__150"
+        "value": "hit_hands_role__150",
+        "order": "136.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 18,
-        "value": "BSB, Clm. 6382, cod. unit 1"
+        "value": "BSB, Clm. 6382, cod. unit 1",
+        "order": "16.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-27",
@@ -3364,7 +3665,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "44": {
     "id": 44,
@@ -3378,7 +3680,8 @@
     "manuscript": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6382"
+        "value": "BSB, Clm. 6382",
+        "order": "9.00000000000000000000"
       }
     ],
     "incipit": "Denique cognoscat beniuolentia uestra quod quidam uir nomine Felix …",
@@ -3387,7 +3690,8 @@
     "title_work": [
       {
         "id": 64,
-        "value": "Epistola de reliquiis sancti Bartholomaei apostoli nuper in Baioariam allatis"
+        "value": "Epistola de reliquiis sancti Bartholomaei apostoli nuper in Baioariam allatis",
+        "order": "63.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -3400,13 +3704,15 @@
     "hands_role": [
       {
         "id": 151,
-        "value": "hit_hands_role__151"
+        "value": "hit_hands_role__151",
+        "order": "137.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 19,
-        "value": "BSB, Clm. 6382, cod. unit 2"
+        "value": "BSB, Clm. 6382, cod. unit 2",
+        "order": "17.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-27",
@@ -3432,7 +3738,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "45": {
     "id": 45,
@@ -3446,7 +3753,8 @@
     "manuscript": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6382"
+        "value": "BSB, Clm. 6382",
+        "order": "9.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -3455,7 +3763,8 @@
     "title_work": [
       {
         "id": 48,
-        "value": "Moralia in Job"
+        "value": "Moralia in Job",
+        "order": "47.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -3469,7 +3778,8 @@
     "cod_unit": [
       {
         "id": 19,
-        "value": "BSB, Clm. 6382, cod. unit 2"
+        "value": "BSB, Clm. 6382, cod. unit 2",
+        "order": "17.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-27",
@@ -3487,7 +3797,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "46": {
     "id": 46,
@@ -3501,7 +3812,8 @@
     "manuscript": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6382"
+        "value": "BSB, Clm. 6382",
+        "order": "9.00000000000000000000"
       }
     ],
     "incipit": "Sancti uiri quo (aus quod korrigiert) apud deum…",
@@ -3510,7 +3822,8 @@
     "title_work": [
       {
         "id": 48,
-        "value": "Moralia in Job"
+        "value": "Moralia in Job",
+        "order": "47.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -3523,13 +3836,15 @@
     "hands_role": [
       {
         "id": 155,
-        "value": "hit_hands_role__155"
+        "value": "hit_hands_role__155",
+        "order": "141.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 19,
-        "value": "BSB, Clm. 6382, cod. unit 2"
+        "value": "BSB, Clm. 6382, cod. unit 2",
+        "order": "17.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-27",
@@ -3555,7 +3870,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "47": {
     "id": 47,
@@ -3569,7 +3885,8 @@
     "manuscript": [
       {
         "id": 11,
-        "value": "BSB, Clm. 6383"
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
       }
     ],
     "incipit": "Peritorum dicunt esse medicorum…",
@@ -3578,7 +3895,8 @@
     "title_work": [
       {
         "id": 29,
-        "value": "Historia ecclesiastica cum Rufini continuatione"
+        "value": "Historia ecclesiastica cum Rufini continuatione",
+        "order": "28.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -3591,13 +3909,15 @@
     "hands_role": [
       {
         "id": 126,
-        "value": "hit_hands_role__126"
+        "value": "hit_hands_role__126",
+        "order": "112.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 20,
-        "value": "BSB, Clm. 6383, cod. unit 1"
+        "value": "BSB, Clm. 6383, cod. unit 1",
+        "order": "18.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-27",
@@ -3623,7 +3943,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "48": {
     "id": 48,
@@ -3637,7 +3958,8 @@
     "manuscript": [
       {
         "id": 12,
-        "value": "BSB, Clm. 6388"
+        "value": "BSB, Clm. 6388",
+        "order": "11.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -3646,7 +3968,8 @@
     "title_work": [
       {
         "id": 30,
-        "value": "Historia Ottonis"
+        "value": "Historia Ottonis",
+        "order": "29.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -3659,17 +3982,20 @@
     "hands_role": [
       {
         "id": 127,
-        "value": "hit_hands_role__127"
+        "value": "hit_hands_role__127",
+        "order": "113.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 6,
-        "value": "BSB, Clm. 6388, cod. unit 1"
+        "value": "BSB, Clm. 6388, cod. unit 1",
+        "order": "6.00000000000000000000"
       },
       {
         "id": 8,
-        "value": "BSB, Clm. 6388, cod. unit 2"
+        "value": "BSB, Clm. 6388, cod. unit 2",
+        "order": "8.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-29",
@@ -3695,7 +4021,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "49": {
     "id": 49,
@@ -3709,7 +4036,8 @@
     "manuscript": [
       {
         "id": 12,
-        "value": "BSB, Clm. 6388"
+        "value": "BSB, Clm. 6388",
+        "order": "11.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -3718,7 +4046,8 @@
     "title_work": [
       {
         "id": 31,
-        "value": "Antapodosis"
+        "value": "Antapodosis",
+        "order": "30.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -3732,7 +4061,8 @@
     "cod_unit": [
       {
         "id": 8,
-        "value": "BSB, Clm. 6388, cod. unit 2"
+        "value": "BSB, Clm. 6388, cod. unit 2",
+        "order": "8.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-27",
@@ -3750,7 +4080,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "50": {
     "id": 50,
@@ -3764,7 +4095,8 @@
     "manuscript": [
       {
         "id": 12,
-        "value": "BSB, Clm. 6388"
+        "value": "BSB, Clm. 6388",
+        "order": "11.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -3773,7 +4105,8 @@
     "title_work": [
       {
         "id": 32,
-        "value": "Chronica cum Adalberti continuatione"
+        "value": "Chronica cum Adalberti continuatione",
+        "order": "31.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -3787,7 +4120,8 @@
     "cod_unit": [
       {
         "id": 9,
-        "value": "BSB, Clm. 6388, cod. unit 3"
+        "value": "BSB, Clm. 6388, cod. unit 3",
+        "order": "9.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-27",
@@ -3805,7 +4139,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "51": {
     "id": 51,
@@ -3819,7 +4154,8 @@
     "manuscript": [
       {
         "id": 12,
-        "value": "BSB, Clm. 6388"
+        "value": "BSB, Clm. 6388",
+        "order": "11.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -3828,7 +4164,8 @@
     "title_work": [
       {
         "id": 56,
-        "value": "Catalogus regum et imperatorum Frisingensis"
+        "value": "Catalogus regum et imperatorum Frisingensis",
+        "order": "55.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -3842,7 +4179,8 @@
     "cod_unit": [
       {
         "id": 9,
-        "value": "BSB, Clm. 6388, cod. unit 3"
+        "value": "BSB, Clm. 6388, cod. unit 3",
+        "order": "9.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-27",
@@ -3860,7 +4198,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "52": {
     "id": 52,
@@ -3874,7 +4213,8 @@
     "manuscript": [
       {
         "id": 13,
-        "value": "BSB, Clm. 6391"
+        "value": "BSB, Clm. 6391",
+        "order": "12.00000000000000000000"
       }
     ],
     "incipit": "‖ ipsoque pauore premortuus se illuc ruiturum expectaret…",
@@ -3883,7 +4223,8 @@
     "title_work": [
       {
         "id": 33,
-        "value": "Historia Langobardorum"
+        "value": "Historia Langobardorum",
+        "order": "32.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -3896,25 +4237,30 @@
     "hands_role": [
       {
         "id": 137,
-        "value": "hit_hands_role__137"
+        "value": "hit_hands_role__137",
+        "order": "123.00000000000000000000"
       },
       {
         "id": 143,
-        "value": "hit_hands_role__143"
+        "value": "hit_hands_role__143",
+        "order": "129.00000000000000000000"
       },
       {
         "id": 144,
-        "value": "hit_hands_role__144"
+        "value": "hit_hands_role__144",
+        "order": "130.00000000000000000000"
       },
       {
         "id": 145,
-        "value": "hit_hands_role__145"
+        "value": "hit_hands_role__145",
+        "order": "131.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 24,
-        "value": "BSB, Clm. 6391, cod. unit 1"
+        "value": "BSB, Clm. 6391, cod. unit 1",
+        "order": "22.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-27",
@@ -3961,7 +4307,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "53": {
     "id": 53,
@@ -3975,7 +4322,8 @@
     "manuscript": [
       {
         "id": 14,
-        "value": "BSB, Clm. 6392"
+        "value": "BSB, Clm. 6392",
+        "order": "13.00000000000000000000"
       }
     ],
     "incipit": "Populvs Romanus a rege Romulo…",
@@ -3984,7 +4332,8 @@
     "title_work": [
       {
         "id": 53,
-        "value": "Epitoma de Tito Livio"
+        "value": "Epitoma de Tito Livio",
+        "order": "52.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -3998,7 +4347,8 @@
     "cod_unit": [
       {
         "id": 25,
-        "value": "BSB, Clm. 6392, cod. unit 1"
+        "value": "BSB, Clm. 6392, cod. unit 1",
+        "order": "23.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-28",
@@ -4016,7 +4366,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "54": {
     "id": 54,
@@ -4030,7 +4381,8 @@
     "manuscript": [
       {
         "id": 14,
-        "value": "BSB, Clm. 6392"
+        "value": "BSB, Clm. 6392",
+        "order": "13.00000000000000000000"
       }
     ],
     "incipit": "Aduentus Ęnee in Italiam et res gestę …",
@@ -4039,7 +4391,8 @@
     "title_work": [
       {
         "id": 54,
-        "value": "Periochae"
+        "value": "Periochae",
+        "order": "53.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -4053,7 +4406,8 @@
     "cod_unit": [
       {
         "id": 25,
-        "value": "BSB, Clm. 6392, cod. unit 1"
+        "value": "BSB, Clm. 6392, cod. unit 1",
+        "order": "23.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-28",
@@ -4071,7 +4425,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "55": {
     "id": 55,
@@ -4085,7 +4440,8 @@
     "manuscript": [
       {
         "id": 15,
-        "value": "BSB, Clm. 6393"
+        "value": "BSB, Clm. 6393",
+        "order": "14.00000000000000000000"
       }
     ],
     "incipit": "Benedictus dominus qui uult…",
@@ -4094,7 +4450,8 @@
     "title_work": [
       {
         "id": 55,
-        "value": "Historia monachorum"
+        "value": "Historia monachorum",
+        "order": "54.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -4108,7 +4465,8 @@
     "cod_unit": [
       {
         "id": 23,
-        "value": "BSB, Clm. 6393, cod. unit 1"
+        "value": "BSB, Clm. 6393, cod. unit 1",
+        "order": "21.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-28",
@@ -4126,7 +4484,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "56": {
     "id": 56,
@@ -4140,7 +4499,8 @@
     "manuscript": [
       {
         "id": 15,
-        "value": "BSB, Clm. 6393"
+        "value": "BSB, Clm. 6393",
+        "order": "14.00000000000000000000"
       }
     ],
     "incipit": "In sanctis orationibus tuis memento mei decus ac dignitas uirginum, nonna Asella. Scripturus uitam…",
@@ -4149,7 +4509,8 @@
     "title_work": [
       {
         "id": 34,
-        "value": "Vita sancti Hilarionis"
+        "value": "Vita sancti Hilarionis",
+        "order": "33.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -4163,7 +4524,8 @@
     "cod_unit": [
       {
         "id": 23,
-        "value": "BSB, Clm. 6393, cod. unit 1"
+        "value": "BSB, Clm. 6393, cod. unit 1",
+        "order": "21.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-28",
@@ -4181,7 +4543,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "57": {
     "id": 57,
@@ -4195,7 +4558,8 @@
     "manuscript": [
       {
         "id": 15,
-        "value": "BSB, Clm. 6393"
+        "value": "BSB, Clm. 6393",
+        "order": "14.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -4204,7 +4568,8 @@
     "title_work": [
       {
         "id": 35,
-        "value": "Vita sancti Malchi"
+        "value": "Vita sancti Malchi",
+        "order": "34.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -4218,7 +4583,8 @@
     "cod_unit": [
       {
         "id": 23,
-        "value": "BSB, Clm. 6393, cod. unit 1"
+        "value": "BSB, Clm. 6393, cod. unit 1",
+        "order": "21.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-28",
@@ -4236,7 +4602,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "58": {
     "id": 58,
@@ -4250,7 +4617,8 @@
     "manuscript": [
       {
         "id": 15,
-        "value": "BSB, Clm. 6393"
+        "value": "BSB, Clm. 6393",
+        "order": "14.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -4259,7 +4627,8 @@
     "title_work": [
       {
         "id": 36,
-        "value": "Vita sancti Pauli"
+        "value": "Vita sancti Pauli",
+        "order": "35.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -4273,7 +4642,8 @@
     "cod_unit": [
       {
         "id": 23,
-        "value": "BSB, Clm. 6393, cod. unit 1"
+        "value": "BSB, Clm. 6393, cod. unit 1",
+        "order": "21.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-28",
@@ -4291,7 +4661,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "59": {
     "id": 59,
@@ -4305,7 +4676,8 @@
     "manuscript": [
       {
         "id": 15,
-        "value": "BSB, Clm. 6393"
+        "value": "BSB, Clm. 6393",
+        "order": "14.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -4314,7 +4686,8 @@
     "title_work": [
       {
         "id": 37,
-        "value": "Vita beati Antonii abbatis, Euagrio interprete"
+        "value": "Vita beati Antonii abbatis, Euagrio interprete",
+        "order": "36.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -4328,7 +4701,8 @@
     "cod_unit": [
       {
         "id": 23,
-        "value": "BSB, Clm. 6393, cod. unit 1"
+        "value": "BSB, Clm. 6393, cod. unit 1",
+        "order": "21.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-28",
@@ -4346,7 +4720,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "60": {
     "id": 60,
@@ -4360,7 +4735,8 @@
     "manuscript": [
       {
         "id": 17,
-        "value": "BSB, Clm. 1086"
+        "value": "BSB, Clm. 1086",
+        "order": "16.00000000000000000000"
       }
     ],
     "incipit": "Percepto (korrigiert aus precepto) pie paternitatis …",
@@ -4369,7 +4745,8 @@
     "title_work": [
       {
         "id": 38,
-        "value": "Vita sancti Bonifatii"
+        "value": "Vita sancti Bonifatii",
+        "order": "37.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -4383,7 +4760,8 @@
     "cod_unit": [
       {
         "id": 26,
-        "value": "BSB, Clm. 1086, cod. unit 1"
+        "value": "BSB, Clm. 1086, cod. unit 1",
+        "order": "24.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-28",
@@ -4401,7 +4779,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "61": {
     "id": 61,
@@ -4415,7 +4794,8 @@
     "manuscript": [
       {
         "id": 17,
-        "value": "BSB, Clm. 1086"
+        "value": "BSB, Clm. 1086",
+        "order": "16.00000000000000000000"
       }
     ],
     "incipit": "Originem uite exordiumque uirtutum beati Vuynnebaldi Christi confessoris atque abbatis ordinare edissereque me libet …",
@@ -4424,7 +4804,8 @@
     "title_work": [
       {
         "id": 39,
-        "value": "Vita sancti Wunebaldi"
+        "value": "Vita sancti Wunebaldi",
+        "order": "38.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -4438,7 +4819,8 @@
     "cod_unit": [
       {
         "id": 26,
-        "value": "BSB, Clm. 1086, cod. unit 1"
+        "value": "BSB, Clm. 1086, cod. unit 1",
+        "order": "24.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-28",
@@ -4456,7 +4838,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "62": {
     "id": 62,
@@ -4470,7 +4853,8 @@
     "manuscript": [
       {
         "id": 17,
-        "value": "BSB, Clm. 1086"
+        "value": "BSB, Clm. 1086",
+        "order": "16.00000000000000000000"
       }
     ],
     "incipit": "Uenerandis immoque in Christo carissimis omnibus sacerdotalis infule honore ditatis presbiteris …",
@@ -4479,7 +4863,8 @@
     "title_work": [
       {
         "id": 40,
-        "value": "Vita sancti Willibaldi"
+        "value": "Vita sancti Willibaldi",
+        "order": "39.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -4493,7 +4878,8 @@
     "cod_unit": [
       {
         "id": 26,
-        "value": "BSB, Clm. 1086, cod. unit 1"
+        "value": "BSB, Clm. 1086, cod. unit 1",
+        "order": "24.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-28",
@@ -4511,7 +4897,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "63": {
     "id": 63,
@@ -4525,7 +4912,8 @@
     "manuscript": [
       {
         "id": 19,
-        "value": "BSB, Clm. 6341"
+        "value": "BSB, Clm. 6341",
+        "order": "18.00000000000000000000"
       }
     ],
     "incipit": "Incipit prima prefatio apologiaque Adamnani abbatis sancti scriptoris",
@@ -4534,7 +4922,8 @@
     "title_work": [
       {
         "id": 49,
-        "value": "Vita sancti Columbae"
+        "value": "Vita sancti Columbae",
+        "order": "48.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -4548,7 +4937,8 @@
     "cod_unit": [
       {
         "id": 21,
-        "value": "BSB, Clm. 6341, cod. unit 1"
+        "value": "BSB, Clm. 6341, cod. unit 1",
+        "order": "19.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-28",
@@ -4566,7 +4956,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "64": {
     "id": 64,
@@ -4580,7 +4971,8 @@
     "manuscript": [
       {
         "id": 19,
-        "value": "BSB, Clm. 6341"
+        "value": "BSB, Clm. 6341",
+        "order": "18.00000000000000000000"
       }
     ],
     "incipit": "Anno ducentesimo tricesimo tertio regnante uenerabili dei cultore magno uiro Constantino…",
@@ -4589,7 +4981,8 @@
     "title_work": [
       {
         "id": 65,
-        "value": "De inventione"
+        "value": "De inventione",
+        "order": "64.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -4603,7 +4996,8 @@
     "cod_unit": [
       {
         "id": 21,
-        "value": "BSB, Clm. 6341, cod. unit 1"
+        "value": "BSB, Clm. 6341, cod. unit 1",
+        "order": "19.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-28",
@@ -4621,7 +5015,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "65": {
     "id": 65,
@@ -4635,7 +5030,8 @@
     "manuscript": [
       {
         "id": 19,
-        "value": "BSB, Clm. 6341"
+        "value": "BSB, Clm. 6341",
+        "order": "18.00000000000000000000"
       }
     ],
     "incipit": "Tempore illo postquam Constantino Augusto contra Maxentium tyrannum properante ad bellum…",
@@ -4644,7 +5040,8 @@
     "title_work": [
       {
         "id": 66,
-        "value": "De exaltatione"
+        "value": "De exaltatione",
+        "order": "65.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -4658,7 +5055,8 @@
     "cod_unit": [
       {
         "id": 21,
-        "value": "BSB, Clm. 6341, cod. unit 1"
+        "value": "BSB, Clm. 6341, cod. unit 1",
+        "order": "19.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-28",
@@ -4676,7 +5074,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "66": {
     "id": 66,
@@ -4690,7 +5089,8 @@
     "manuscript": [
       {
         "id": 19,
-        "value": "BSB, Clm. 6341"
+        "value": "BSB, Clm. 6341",
+        "order": "18.00000000000000000000"
       }
     ],
     "incipit": "[Exhortatione tua] Patrici rethorum peritissime quae…",
@@ -4699,7 +5099,8 @@
     "title_work": [
       {
         "id": 51,
-        "value": "Commentarii in Ciceronis Topica"
+        "value": "Commentarii in Ciceronis Topica",
+        "order": "50.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -4713,7 +5114,8 @@
     "cod_unit": [
       {
         "id": 22,
-        "value": "BSB, Clm. 6341, cod. unit 2"
+        "value": "BSB, Clm. 6341, cod. unit 2",
+        "order": "20.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-28",
@@ -4731,7 +5133,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "67": {
     "id": 67,
@@ -4745,7 +5148,8 @@
     "manuscript": [
       {
         "id": 11,
-        "value": "BSB, Clm. 6383"
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -4762,13 +5166,15 @@
     "hands_role": [
       {
         "id": 154,
-        "value": "hit_hands_role__154"
+        "value": "hit_hands_role__154",
+        "order": "140.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 20,
-        "value": "BSB, Clm. 6383, cod. unit 1"
+        "value": "BSB, Clm. 6383, cod. unit 1",
+        "order": "18.00000000000000000000"
       }
     ],
     "Last modified": "2024-11-13",
@@ -4794,7 +5200,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "70": {
     "id": 70,
@@ -4829,7 +5236,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "71": {
     "id": 71,
@@ -4864,7 +5272,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "74": {
     "id": 74,
@@ -4899,7 +5308,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "76": {
     "id": 76,
@@ -4913,7 +5323,8 @@
     "manuscript": [
       {
         "id": 5,
-        "value": "BSB, Clm. 6326"
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -4931,7 +5342,8 @@
     "cod_unit": [
       {
         "id": 10,
-        "value": "BSB, Clm. 6326, cod. unit 1"
+        "value": "BSB, Clm. 6326, cod. unit 1",
+        "order": "10.00000000000000000000"
       }
     ],
     "Last modified": "2024-07-11",
@@ -4949,7 +5361,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "80": {
     "id": 80,
@@ -4963,7 +5376,8 @@
     "manuscript": [
       {
         "id": 22,
-        "value": "ÖNB, Cod. 366"
+        "value": "ÖNB, Cod. 366",
+        "order": "1.66666666666666674068"
       }
     ],
     "incipit": "",
@@ -4972,7 +5386,8 @@
     "title_work": [
       {
         "id": 3,
-        "value": "Historiae adversus paganos"
+        "value": "Historiae adversus paganos",
+        "order": "2.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -4985,25 +5400,30 @@
     "hands_role": [
       {
         "id": 39,
-        "value": "hit_hands_role__39"
+        "value": "hit_hands_role__39",
+        "order": "31.00000000000000000000"
       },
       {
         "id": 41,
-        "value": "hit_hands_role__41"
+        "value": "hit_hands_role__41",
+        "order": "33.00000000000000000000"
       },
       {
         "id": 42,
-        "value": "hit_hands_role__42"
+        "value": "hit_hands_role__42",
+        "order": "34.00000000000000000000"
       },
       {
         "id": 43,
-        "value": "hit_hands_role__43"
+        "value": "hit_hands_role__43",
+        "order": "35.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 13,
-        "value": "ÖNB, Cod. 366, cod. unit 1"
+        "value": "ÖNB, Cod. 366, cod. unit 1",
+        "order": "3.75000000000000000000"
       }
     ],
     "Last modified": "2024-07-15",
@@ -5050,7 +5470,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "81": {
     "id": 81,
@@ -5064,7 +5485,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "incipit": "Porcis in pane",
@@ -5073,7 +5495,8 @@
     "title_work": [
       {
         "id": 75,
-        "value": "Tintenrezept"
+        "value": "Tintenrezept",
+        "order": "73.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -5086,13 +5509,15 @@
     "hands_role": [
       {
         "id": 32,
-        "value": "hit_hands_role__32"
+        "value": "hit_hands_role__32",
+        "order": "24.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 3,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1",
+        "order": "3.00000000000000000000"
       }
     ],
     "Last modified": "2024-07-15",
@@ -5118,7 +5543,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "82": {
     "id": 82,
@@ -5132,7 +5558,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -5141,7 +5568,8 @@
     "title_work": [
       {
         "id": 76,
-        "value": "Abergläubische Segen"
+        "value": "Abergläubische Segen",
+        "order": "74.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -5154,13 +5582,15 @@
     "hands_role": [
       {
         "id": 34,
-        "value": "hit_hands_role__34"
+        "value": "hit_hands_role__34",
+        "order": "26.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 3,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1",
+        "order": "3.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-06",
@@ -5186,7 +5616,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "83": {
     "id": 83,
@@ -5200,7 +5631,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "incipit": "Ut alium inebraris quem volueris",
@@ -5209,7 +5641,8 @@
     "title_work": [
       {
         "id": 77,
-        "value": "Rezept"
+        "value": "Rezept",
+        "order": "75.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -5222,13 +5655,15 @@
     "hands_role": [
       {
         "id": 33,
-        "value": "hit_hands_role__33"
+        "value": "hit_hands_role__33",
+        "order": "25.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 5,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 2"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 2",
+        "order": "3.50000000000000000000"
       }
     ],
     "Last modified": "2024-09-05",
@@ -5254,7 +5689,8 @@
     "decoration": [],
     "facs_url": "http://vb.uni-wuerzburg.de/ub/books/mpthf46/folio-std/DE-20__M_p_th_f_46__0195__0098r.jpg",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "84": {
     "id": 84,
@@ -5268,7 +5704,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -5277,7 +5714,8 @@
     "title_work": [
       {
         "id": 78,
-        "value": "Historiographische und komputistische Zusätze"
+        "value": "Historiographische und komputistische Zusätze",
+        "order": "76.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -5290,13 +5728,15 @@
     "hands_role": [
       {
         "id": 35,
-        "value": "hit_hands_role__35"
+        "value": "hit_hands_role__35",
+        "order": "27.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 5,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 2"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 2",
+        "order": "3.50000000000000000000"
       }
     ],
     "Last modified": "2024-07-15",
@@ -5322,7 +5762,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "85": {
     "id": 85,
@@ -5336,7 +5777,8 @@
     "manuscript": [
       {
         "id": 2,
-        "value": "UBWÜ, Cod. M. p. th. f. 46"
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -5345,7 +5787,8 @@
     "title_work": [
       {
         "id": 79,
-        "value": "Hymnus Ad Incensum Lucernae"
+        "value": "Hymnus Ad Incensum Lucernae",
+        "order": "77.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -5358,13 +5801,15 @@
     "hands_role": [
       {
         "id": 25,
-        "value": "hit_hands_role__25"
+        "value": "hit_hands_role__25",
+        "order": "17.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 3,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1",
+        "order": "3.00000000000000000000"
       }
     ],
     "Last modified": "2024-07-16",
@@ -5390,7 +5835,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "86": {
     "id": 86,
@@ -5404,7 +5850,8 @@
     "manuscript": [
       {
         "id": 22,
-        "value": "ÖNB, Cod. 366"
+        "value": "ÖNB, Cod. 366",
+        "order": "1.66666666666666674068"
       }
     ],
     "incipit": "",
@@ -5413,7 +5860,8 @@
     "title_work": [
       {
         "id": 80,
-        "value": "Decretales"
+        "value": "Decretales",
+        "order": "78.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -5426,13 +5874,15 @@
     "hands_role": [
       {
         "id": 44,
-        "value": "hit_hands_role__44"
+        "value": "hit_hands_role__44",
+        "order": "36.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 12,
-        "value": "ÖNB, Cod. 366, cod. unit 2"
+        "value": "ÖNB, Cod. 366, cod. unit 2",
+        "order": "3.79999999999999982236"
       }
     ],
     "Last modified": "2024-07-18",
@@ -5458,7 +5908,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "87": {
     "id": 87,
@@ -5472,7 +5923,8 @@
     "manuscript": [
       {
         "id": 20,
-        "value": "BSB, Clm 27305"
+        "value": "BSB, Clm 27305",
+        "order": "19.00000000000000000000"
       }
     ],
     "incipit": "sanctus Gregorius in libro d[ia]logorum cuius corpus translatum de Rauenna.",
@@ -5481,7 +5933,8 @@
     "title_work": [
       {
         "id": 81,
-        "value": "Martyrologium"
+        "value": "Martyrologium",
+        "order": "79.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -5508,7 +5961,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "88": {
     "id": 88,
@@ -5522,7 +5976,8 @@
     "manuscript": [
       {
         "id": 20,
-        "value": "BSB, Clm 27305"
+        "value": "BSB, Clm 27305",
+        "order": "19.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -5553,7 +6008,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "89": {
     "id": 89,
@@ -5567,7 +6023,8 @@
     "manuscript": [
       {
         "id": 20,
-        "value": "BSB, Clm 27305"
+        "value": "BSB, Clm 27305",
+        "order": "19.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -5598,7 +6055,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "114": {
     "id": 114,
@@ -5612,7 +6070,8 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -5621,7 +6080,8 @@
     "title_work": [
       {
         "id": 96,
-        "value": "Liber calculationis"
+        "value": "Liber calculationis",
+        "order": "94.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -5634,17 +6094,20 @@
     "hands_role": [
       {
         "id": 47,
-        "value": "hit_hands_role__47"
+        "value": "hit_hands_role__47",
+        "order": "39.00000000000000000000"
       },
       {
         "id": 57,
-        "value": "hit_hands_role__57"
+        "value": "hit_hands_role__57",
+        "order": "49.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 14,
-        "value": "ÖNB, Cod. 387, cod. unit 1"
+        "value": "ÖNB, Cod. 387, cod. unit 1",
+        "order": "12.00000000000000000000"
       }
     ],
     "Last modified": "2024-07-25",
@@ -5677,7 +6140,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "90": {
     "id": 90,
@@ -5691,7 +6155,8 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "incipit": "I Adbreviatio chronicae",
@@ -5700,7 +6165,8 @@
     "title_work": [
       {
         "id": 82,
-        "value": "Inhaltsverzeichnis"
+        "value": "Inhaltsverzeichnis",
+        "order": "80.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -5713,13 +6179,15 @@
     "hands_role": [
       {
         "id": 49,
-        "value": "hit_hands_role__49"
+        "value": "hit_hands_role__49",
+        "order": "41.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 14,
-        "value": "ÖNB, Cod. 387, cod. unit 1"
+        "value": "ÖNB, Cod. 387, cod. unit 1",
+        "order": "12.00000000000000000000"
       }
     ],
     "Last modified": "2024-07-23",
@@ -5745,7 +6213,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "91": {
     "id": 91,
@@ -5780,7 +6249,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "100": {
     "id": 100,
@@ -5794,7 +6264,8 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -5803,7 +6274,8 @@
     "title_work": [
       {
         "id": 85,
-        "value": "Komputistische Anweisungen"
+        "value": "Komputistische Anweisungen",
+        "order": "83.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -5816,13 +6288,15 @@
     "hands_role": [
       {
         "id": 60,
-        "value": "hit_hands_role__60"
+        "value": "hit_hands_role__60",
+        "order": "52.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 14,
-        "value": "ÖNB, Cod. 387, cod. unit 1"
+        "value": "ÖNB, Cod. 387, cod. unit 1",
+        "order": "12.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-06",
@@ -5848,7 +6322,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "93": {
     "id": 93,
@@ -5862,7 +6337,8 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "incipit": "nuscelihiu",
@@ -5871,7 +6347,8 @@
     "title_work": [
       {
         "id": 84,
-        "value": "Althochdeutscher Eintrag"
+        "value": "Althochdeutscher Eintrag",
+        "order": "82.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -5884,13 +6361,15 @@
     "hands_role": [
       {
         "id": 67,
-        "value": "hit_hands_role__67"
+        "value": "hit_hands_role__67",
+        "order": "59.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 14,
-        "value": "ÖNB, Cod. 387, cod. unit 1"
+        "value": "ÖNB, Cod. 387, cod. unit 1",
+        "order": "12.00000000000000000000"
       }
     ],
     "Last modified": "2024-07-23",
@@ -5916,7 +6395,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "92": {
     "id": 92,
@@ -5930,7 +6410,8 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "incipit": "Apis modicula mater matricula",
@@ -5939,7 +6420,8 @@
     "title_work": [
       {
         "id": 83,
-        "value": "Bienensegen"
+        "value": "Bienensegen",
+        "order": "81.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -5952,13 +6434,15 @@
     "hands_role": [
       {
         "id": 68,
-        "value": "hit_hands_role__68"
+        "value": "hit_hands_role__68",
+        "order": "60.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 14,
-        "value": "ÖNB, Cod. 387, cod. unit 1"
+        "value": "ÖNB, Cod. 387, cod. unit 1",
+        "order": "12.00000000000000000000"
       }
     ],
     "Last modified": "2024-07-23",
@@ -5984,7 +6468,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "94": {
     "id": 94,
@@ -6019,7 +6504,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "95": {
     "id": 95,
@@ -6054,7 +6540,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "96": {
     "id": 96,
@@ -6089,7 +6576,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "97": {
     "id": 97,
@@ -6124,7 +6612,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "98": {
     "id": 98,
@@ -6159,7 +6648,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "99": {
     "id": 99,
@@ -6194,7 +6684,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "102": {
     "id": 102,
@@ -6208,7 +6699,8 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "incipit": "Ave maris stella Dei mater alma",
@@ -6217,7 +6709,8 @@
     "title_work": [
       {
         "id": 86,
-        "value": "Ave maris stella"
+        "value": "Ave maris stella",
+        "order": "84.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -6230,13 +6723,15 @@
     "hands_role": [
       {
         "id": 69,
-        "value": "hit_hands_role__69"
+        "value": "hit_hands_role__69",
+        "order": "61.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 14,
-        "value": "ÖNB, Cod. 387, cod. unit 1"
+        "value": "ÖNB, Cod. 387, cod. unit 1",
+        "order": "12.00000000000000000000"
       }
     ],
     "Last modified": "2024-07-23",
@@ -6262,7 +6757,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "121": {
     "id": 121,
@@ -6276,7 +6772,8 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -6285,7 +6782,8 @@
     "title_work": [
       {
         "id": 100,
-        "value": "Komputistische Schriften"
+        "value": "Komputistische Schriften",
+        "order": "98.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -6298,17 +6796,20 @@
     "hands_role": [
       {
         "id": 46,
-        "value": "hit_hands_role__46"
+        "value": "hit_hands_role__46",
+        "order": "38.00000000000000000000"
       },
       {
         "id": 66,
-        "value": "hit_hands_role__66"
+        "value": "hit_hands_role__66",
+        "order": "58.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 14,
-        "value": "ÖNB, Cod. 387, cod. unit 1"
+        "value": "ÖNB, Cod. 387, cod. unit 1",
+        "order": "12.00000000000000000000"
       }
     ],
     "Last modified": "2024-07-25",
@@ -6341,7 +6842,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "103": {
     "id": 103,
@@ -6355,7 +6857,8 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "incipit": "Adam cum esset",
@@ -6364,7 +6867,8 @@
     "title_work": [
       {
         "id": 87,
-        "value": "Abbreviatio chronicae a mundo condito usque ad Carolum Magnum"
+        "value": "Abbreviatio chronicae a mundo condito usque ad Carolum Magnum",
+        "order": "85.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -6377,13 +6881,15 @@
     "hands_role": [
       {
         "id": 40,
-        "value": "hit_hands_role__40"
+        "value": "hit_hands_role__40",
+        "order": "32.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 14,
-        "value": "ÖNB, Cod. 387, cod. unit 1"
+        "value": "ÖNB, Cod. 387, cod. unit 1",
+        "order": "12.00000000000000000000"
       }
     ],
     "Last modified": "2024-07-23",
@@ -6409,7 +6915,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "104": {
     "id": 104,
@@ -6423,7 +6930,8 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -6432,7 +6940,8 @@
     "title_work": [
       {
         "id": 78,
-        "value": "Historiographische und komputistische Zusätze"
+        "value": "Historiographische und komputistische Zusätze",
+        "order": "76.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -6445,21 +6954,25 @@
     "hands_role": [
       {
         "id": 45,
-        "value": "hit_hands_role__45"
+        "value": "hit_hands_role__45",
+        "order": "37.00000000000000000000"
       },
       {
         "id": 50,
-        "value": "hit_hands_role__50"
+        "value": "hit_hands_role__50",
+        "order": "42.00000000000000000000"
       },
       {
         "id": 55,
-        "value": "hit_hands_role__55"
+        "value": "hit_hands_role__55",
+        "order": "47.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 14,
-        "value": "ÖNB, Cod. 387, cod. unit 1"
+        "value": "ÖNB, Cod. 387, cod. unit 1",
+        "order": "12.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-06",
@@ -6499,7 +7012,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "106": {
     "id": 106,
@@ -6534,7 +7048,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "108": {
     "id": 108,
@@ -6569,7 +7084,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "110": {
     "id": 110,
@@ -6583,7 +7099,8 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -6592,7 +7109,8 @@
     "title_work": [
       {
         "id": 92,
-        "value": "Martyrologium excarpsatum cum alphabetis"
+        "value": "Martyrologium excarpsatum cum alphabetis",
+        "order": "90.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -6605,13 +7123,15 @@
     "hands_role": [
       {
         "id": 51,
-        "value": "hit_hands_role__51"
+        "value": "hit_hands_role__51",
+        "order": "43.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 14,
-        "value": "ÖNB, Cod. 387, cod. unit 1"
+        "value": "ÖNB, Cod. 387, cod. unit 1",
+        "order": "12.00000000000000000000"
       }
     ],
     "Last modified": "2024-07-25",
@@ -6637,7 +7157,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "112": {
     "id": 112,
@@ -6651,7 +7172,8 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -6660,7 +7182,8 @@
     "title_work": [
       {
         "id": 94,
-        "value": "Notitiae chronologicae (Ostertafel)"
+        "value": "Notitiae chronologicae (Ostertafel)",
+        "order": "92.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -6673,13 +7196,15 @@
     "hands_role": [
       {
         "id": 56,
-        "value": "hit_hands_role__56"
+        "value": "hit_hands_role__56",
+        "order": "48.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 14,
-        "value": "ÖNB, Cod. 387, cod. unit 1"
+        "value": "ÖNB, Cod. 387, cod. unit 1",
+        "order": "12.00000000000000000000"
       }
     ],
     "Last modified": "2024-07-23",
@@ -6705,7 +7230,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "113": {
     "id": 113,
@@ -6719,7 +7245,8 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "incipit": "Iustinus minor regnavit",
@@ -6728,7 +7255,8 @@
     "title_work": [
       {
         "id": 95,
-        "value": "Annales Salisburgenses"
+        "value": "Annales Salisburgenses",
+        "order": "93.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -6741,25 +7269,30 @@
     "hands_role": [
       {
         "id": 48,
-        "value": "hit_hands_role__48"
+        "value": "hit_hands_role__48",
+        "order": "40.00000000000000000000"
       },
       {
         "id": 58,
-        "value": "hit_hands_role__58"
+        "value": "hit_hands_role__58",
+        "order": "50.00000000000000000000"
       },
       {
         "id": 59,
-        "value": "hit_hands_role__59"
+        "value": "hit_hands_role__59",
+        "order": "51.00000000000000000000"
       },
       {
         "id": 61,
-        "value": "hit_hands_role__61"
+        "value": "hit_hands_role__61",
+        "order": "53.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 14,
-        "value": "ÖNB, Cod. 387, cod. unit 1"
+        "value": "ÖNB, Cod. 387, cod. unit 1",
+        "order": "12.00000000000000000000"
       }
     ],
     "Last modified": "2024-07-23",
@@ -6806,7 +7339,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "115": {
     "id": 115,
@@ -6841,7 +7375,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "116": {
     "id": 116,
@@ -6855,7 +7390,8 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -6864,7 +7400,8 @@
     "title_work": [
       {
         "id": 97,
-        "value": "Astronomische Schriften"
+        "value": "Astronomische Schriften",
+        "order": "95.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -6877,13 +7414,15 @@
     "hands_role": [
       {
         "id": 52,
-        "value": "hit_hands_role__52"
+        "value": "hit_hands_role__52",
+        "order": "44.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 14,
-        "value": "ÖNB, Cod. 387, cod. unit 1"
+        "value": "ÖNB, Cod. 387, cod. unit 1",
+        "order": "12.00000000000000000000"
       }
     ],
     "Last modified": "2024-07-25",
@@ -6909,7 +7448,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "117": {
     "id": 117,
@@ -6923,7 +7463,8 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "incipit": "Incipit Liber",
@@ -6932,7 +7473,8 @@
     "title_work": [
       {
         "id": 98,
-        "value": "De natura rerum"
+        "value": "De natura rerum",
+        "order": "96.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -6945,13 +7487,15 @@
     "hands_role": [
       {
         "id": 53,
-        "value": "hit_hands_role__53"
+        "value": "hit_hands_role__53",
+        "order": "45.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 14,
-        "value": "ÖNB, Cod. 387, cod. unit 1"
+        "value": "ÖNB, Cod. 387, cod. unit 1",
+        "order": "12.00000000000000000000"
       }
     ],
     "Last modified": "2024-07-25",
@@ -6977,7 +7521,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "119": {
     "id": 119,
@@ -6991,7 +7536,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "Urbs Iuvavensis fuit olim splendida muris",
@@ -7000,7 +7546,8 @@
     "title_work": [
       {
         "id": 101,
-        "value": "Catalogus praesulum Iuvavensium"
+        "value": "Catalogus praesulum Iuvavensium",
+        "order": "99.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -7013,21 +7560,25 @@
     "hands_role": [
       {
         "id": 70,
-        "value": "hit_hands_role__70"
+        "value": "hit_hands_role__70",
+        "order": "62.00000000000000000000"
       },
       {
         "id": 71,
-        "value": "hit_hands_role__71"
+        "value": "hit_hands_role__71",
+        "order": "63.00000000000000000000"
       },
       {
         "id": 75,
-        "value": "hit_hands_role__75"
+        "value": "hit_hands_role__75",
+        "order": "65.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 15,
-        "value": "ÖNB, Cod. 2090, cod. unit 1"
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
       }
     ],
     "Last modified": "2024-07-26",
@@ -7067,7 +7618,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "120": {
     "id": 120,
@@ -7081,7 +7633,8 @@
     "manuscript": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 387"
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
       }
     ],
     "incipit": "",
@@ -7090,7 +7643,8 @@
     "title_work": [
       {
         "id": 99,
-        "value": "Mondkalender"
+        "value": "Mondkalender",
+        "order": "97.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -7103,13 +7657,15 @@
     "hands_role": [
       {
         "id": 54,
-        "value": "hit_hands_role__54"
+        "value": "hit_hands_role__54",
+        "order": "46.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 14,
-        "value": "ÖNB, Cod. 387, cod. unit 1"
+        "value": "ÖNB, Cod. 387, cod. unit 1",
+        "order": "12.00000000000000000000"
       }
     ],
     "Last modified": "2024-07-25",
@@ -7135,7 +7691,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "139": {
     "id": 139,
@@ -7149,7 +7706,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "Anno incarnationis domini dc xxiii sanctus Ruotpertus obiit",
@@ -7158,7 +7716,8 @@
     "title_work": [
       {
         "id": 115,
-        "value": "Berechnungen zur Lebenszeit des hl. Rupert + Bischofsabfolge"
+        "value": "Berechnungen zur Lebenszeit des hl. Rupert + Bischofsabfolge",
+        "order": "113.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -7171,13 +7730,15 @@
     "hands_role": [
       {
         "id": 77,
-        "value": "hit_hands_role__77"
+        "value": "hit_hands_role__77",
+        "order": "67.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 15,
-        "value": "ÖNB, Cod. 2090, cod. unit 1"
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
       }
     ],
     "Last modified": "2024-07-30",
@@ -7203,7 +7764,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "179": {
     "id": 179,
@@ -7217,7 +7779,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -7226,7 +7789,8 @@
     "title_work": [
       {
         "id": 103,
-        "value": "Traditionsnotizen des Salzburger Domstiftes"
+        "value": "Traditionsnotizen des Salzburger Domstiftes",
+        "order": "101.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -7239,13 +7803,15 @@
     "hands_role": [
       {
         "id": 76,
-        "value": "hit_hands_role__76"
+        "value": "hit_hands_role__76",
+        "order": "66.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 15,
-        "value": "ÖNB, Cod. 2090, cod. unit 1"
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
       }
     ],
     "Last modified": "2024-10-03",
@@ -7271,7 +7837,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "122": {
     "id": 122,
@@ -7285,7 +7852,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -7294,7 +7862,8 @@
     "title_work": [
       {
         "id": 103,
-        "value": "Traditionsnotizen des Salzburger Domstiftes"
+        "value": "Traditionsnotizen des Salzburger Domstiftes",
+        "order": "101.00000000000000000000"
       }
     ],
     "title_note": "Nr. 4, 5, 6 (bis 1147); Nr. 7a (vor 1140); Nr. 8 (um 1127)",
@@ -7308,7 +7877,8 @@
     "cod_unit": [
       {
         "id": 15,
-        "value": "ÖNB, Cod. 2090, cod. unit 1"
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-06",
@@ -7326,7 +7896,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "123": {
     "id": 123,
@@ -7340,7 +7911,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "Pippinus filius Angisi",
@@ -7349,7 +7921,8 @@
     "title_work": [
       {
         "id": 102,
-        "value": "Nomina regum Francorum"
+        "value": "Nomina regum Francorum",
+        "order": "100.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -7362,13 +7935,15 @@
     "hands_role": [
       {
         "id": 62,
-        "value": "hit_hands_role__62"
+        "value": "hit_hands_role__62",
+        "order": "54.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 15,
-        "value": "ÖNB, Cod. 2090, cod. unit 1"
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
       }
     ],
     "Last modified": "2024-12-11",
@@ -7406,7 +7981,8 @@
         "color": "darker-red"
       }
     ],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "124": {
     "id": 124,
@@ -7420,7 +7996,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "H gratia dei Ratisponenses",
@@ -7429,7 +8006,8 @@
     "title_work": [
       {
         "id": 104,
-        "value": "Epistola ad Eberhardum de electione eius in archiepiscopum Salisburgensem a. 1147"
+        "value": "Epistola ad Eberhardum de electione eius in archiepiscopum Salisburgensem a. 1147",
+        "order": "102.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -7442,13 +8020,15 @@
     "hands_role": [
       {
         "id": 72,
-        "value": "hit_hands_role__72"
+        "value": "hit_hands_role__72",
+        "order": "64.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 15,
-        "value": "ÖNB, Cod. 2090, cod. unit 1"
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
       }
     ],
     "Last modified": "2024-07-31",
@@ -7474,7 +8054,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "125": {
     "id": 125,
@@ -7488,7 +8069,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "Docti sumus veteri testamento",
@@ -7497,7 +8079,8 @@
     "title_work": [
       {
         "id": 105,
-        "value": "De ecclesiasticis officiis"
+        "value": "De ecclesiasticis officiis",
+        "order": "103.00000000000000000000"
       }
     ],
     "title_note": "Auszug aus Kapitel XIX",
@@ -7510,13 +8093,15 @@
     "hands_role": [
       {
         "id": 65,
-        "value": "hit_hands_role__65"
+        "value": "hit_hands_role__65",
+        "order": "57.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 15,
-        "value": "ÖNB, Cod. 2090, cod. unit 1"
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
       }
     ],
     "Last modified": "2024-07-31",
@@ -7542,7 +8127,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "126": {
     "id": 126,
@@ -7556,7 +8142,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -7574,7 +8161,8 @@
     "cod_unit": [
       {
         "id": 15,
-        "value": "ÖNB, Cod. 2090, cod. unit 1"
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
       }
     ],
     "Last modified": "2024-07-28",
@@ -7592,7 +8180,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "140": {
     "id": 140,
@@ -7606,7 +8195,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "Altitudo crucis christi est spes",
@@ -7615,7 +8205,8 @@
     "title_work": [
       {
         "id": 116,
-        "value": "Kreuzschrift TBD"
+        "value": "Kreuzschrift TBD",
+        "order": "114.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -7629,7 +8220,8 @@
     "cod_unit": [
       {
         "id": 15,
-        "value": "ÖNB, Cod. 2090, cod. unit 1"
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
       }
     ],
     "Last modified": "2024-08-02",
@@ -7647,7 +8239,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "127": {
     "id": 127,
@@ -7661,7 +8254,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "I Sanctus Petrus",
@@ -7670,7 +8264,8 @@
     "title_work": [
       {
         "id": 107,
-        "value": "Nomina pontificum Romanae sedis"
+        "value": "Nomina pontificum Romanae sedis",
+        "order": "105.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -7683,13 +8278,15 @@
     "hands_role": [
       {
         "id": 78,
-        "value": "hit_hands_role__78"
+        "value": "hit_hands_role__78",
+        "order": "68.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 15,
-        "value": "ÖNB, Cod. 2090, cod. unit 1"
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
       }
     ],
     "Last modified": "2024-12-11",
@@ -7727,7 +8324,8 @@
         "color": "darker-red"
       }
     ],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "128": {
     "id": 128,
@@ -7741,7 +8339,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "Sanctus Ruodbertus episcopus",
@@ -7750,7 +8349,8 @@
     "title_work": [
       {
         "id": 108,
-        "value": "Nomina pontificum Iuvavensis sedis et abbatum"
+        "value": "Nomina pontificum Iuvavensis sedis et abbatum",
+        "order": "106.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -7763,17 +8363,20 @@
     "hands_role": [
       {
         "id": 80,
-        "value": "hit_hands_role__80"
+        "value": "hit_hands_role__80",
+        "order": "70.00000000000000000000"
       },
       {
         "id": 81,
-        "value": "hit_hands_role__81"
+        "value": "hit_hands_role__81",
+        "order": "71.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 15,
-        "value": "ÖNB, Cod. 2090, cod. unit 1"
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
       }
     ],
     "Last modified": "2024-12-11",
@@ -7812,7 +8415,8 @@
         "color": "darker-red"
       }
     ],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "141": {
     "id": 141,
@@ -7826,7 +8430,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -7835,7 +8440,8 @@
     "title_work": [
       {
         "id": 117,
-        "value": "Historiographische Annotationen"
+        "value": "Historiographische Annotationen",
+        "order": "115.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -7848,13 +8454,15 @@
     "hands_role": [
       {
         "id": 79,
-        "value": "hit_hands_role__79"
+        "value": "hit_hands_role__79",
+        "order": "69.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 15,
-        "value": "ÖNB, Cod. 2090, cod. unit 1"
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
       }
     ],
     "Last modified": "2024-08-05",
@@ -7880,7 +8488,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "129": {
     "id": 129,
@@ -7894,7 +8503,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -7903,7 +8513,8 @@
     "title_work": [
       {
         "id": 109,
-        "value": "Epistolae duae de electione Eberhardi I. archiepiscopus Salisburgensis"
+        "value": "Epistolae duae de electione Eberhardi I. archiepiscopus Salisburgensis",
+        "order": "107.00000000000000000000"
       }
     ],
     "title_note": "1) Brief des Bischofs von Passau, Reginbert von Hagenau (1138-1147) an den Bischof von Gurk Romanus I. (1137-1167).\n2) Brief eines Klerikers aus Brixen an Romanus I. von Gurk.",
@@ -7916,13 +8527,15 @@
     "hands_role": [
       {
         "id": 88,
-        "value": "hit_hands_role__88"
+        "value": "hit_hands_role__88",
+        "order": "78.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 15,
-        "value": "ÖNB, Cod. 2090, cod. unit 1"
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
       }
     ],
     "Last modified": "2024-08-02",
@@ -7948,7 +8561,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "130": {
     "id": 130,
@@ -7962,7 +8576,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -7971,7 +8586,8 @@
     "title_work": [
       {
         "id": 110,
-        "value": "Nomina fratrum canonicorum et monachorum nec non et monarchum eisudem sedis"
+        "value": "Nomina fratrum canonicorum et monachorum nec non et monarchum eisudem sedis",
+        "order": "108.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -7984,21 +8600,25 @@
     "hands_role": [
       {
         "id": 83,
-        "value": "hit_hands_role__83"
+        "value": "hit_hands_role__83",
+        "order": "73.00000000000000000000"
       },
       {
         "id": 84,
-        "value": "hit_hands_role__84"
+        "value": "hit_hands_role__84",
+        "order": "74.00000000000000000000"
       },
       {
         "id": 85,
-        "value": "hit_hands_role__85"
+        "value": "hit_hands_role__85",
+        "order": "75.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 15,
-        "value": "ÖNB, Cod. 2090, cod. unit 1"
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-05",
@@ -8044,7 +8664,8 @@
     ],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "131": {
     "id": 131,
@@ -8058,7 +8679,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -8067,7 +8689,8 @@
     "title_work": [
       {
         "id": 111,
-        "value": "Annales breves Sancti Rudperti Salisburgensis"
+        "value": "Annales breves Sancti Rudperti Salisburgensis",
+        "order": "109.00000000000000000000"
       }
     ],
     "title_note": "Jahre 991-1164",
@@ -8080,73 +8703,90 @@
     "hands_role": [
       {
         "id": 90,
-        "value": "hit_hands_role__90"
+        "value": "hit_hands_role__90",
+        "order": "80.00000000000000000000"
       },
       {
         "id": 91,
-        "value": "hit_hands_role__91"
+        "value": "hit_hands_role__91",
+        "order": "81.00000000000000000000"
       },
       {
         "id": 95,
-        "value": "hit_hands_role__95"
+        "value": "hit_hands_role__95",
+        "order": "85.00000000000000000000"
       },
       {
         "id": 96,
-        "value": "hit_hands_role__96"
+        "value": "hit_hands_role__96",
+        "order": "86.00000000000000000000"
       },
       {
         "id": 101,
-        "value": "hit_hands_role__101"
+        "value": "hit_hands_role__101",
+        "order": "87.00000000000000000000"
       },
       {
         "id": 103,
-        "value": "hit_hands_role__103"
+        "value": "hit_hands_role__103",
+        "order": "89.00000000000000000000"
       },
       {
         "id": 104,
-        "value": "hit_hands_role__104"
+        "value": "hit_hands_role__104",
+        "order": "90.00000000000000000000"
       },
       {
         "id": 105,
-        "value": "hit_hands_role__105"
+        "value": "hit_hands_role__105",
+        "order": "91.00000000000000000000"
       },
       {
         "id": 106,
-        "value": "hit_hands_role__106"
+        "value": "hit_hands_role__106",
+        "order": "92.00000000000000000000"
       },
       {
         "id": 107,
-        "value": "hit_hands_role__107"
+        "value": "hit_hands_role__107",
+        "order": "93.00000000000000000000"
       },
       {
         "id": 108,
-        "value": "hit_hands_role__108"
+        "value": "hit_hands_role__108",
+        "order": "94.00000000000000000000"
       },
       {
         "id": 109,
-        "value": "hit_hands_role__109"
+        "value": "hit_hands_role__109",
+        "order": "95.00000000000000000000"
       },
       {
         "id": 110,
-        "value": "hit_hands_role__110"
+        "value": "hit_hands_role__110",
+        "order": "96.00000000000000000000"
       },
       {
         "id": 111,
-        "value": "hit_hands_role__111"
+        "value": "hit_hands_role__111",
+        "order": "97.00000000000000000000"
       },
       {
         "id": 112,
-        "value": "hit_hands_role__112"
+        "value": "hit_hands_role__112",
+        "order": "98.00000000000000000000"
       },
       {
         "id": 113,
-        "value": "hit_hands_role__113"
+        "value": "hit_hands_role__113",
+        "order": "99.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 15,
-        "value": "ÖNB, Cod. 2090, cod. unit 1"
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
       }
     ],
     "Last modified": "2024-12-11",
@@ -8283,7 +8923,8 @@
         "color": "darker-pink"
       }
     ],
-    "form_note": "Die Spaltenanzahl der dreiseitigen Annalen nimmt kontinuierlich ab. Die erste Seite der Annalen enthählt drei rot gerahmte Spalten. Die zweite Seite weist zwei Spalten auf und die letzte nur mehr eine."
+    "form_note": "Die Spaltenanzahl der dreiseitigen Annalen nimmt kontinuierlich ab. Die erste Seite der Annalen enthählt drei rot gerahmte Spalten. Die zweite Seite weist zwei Spalten auf und die letzte nur mehr eine.",
+    "column": []
   },
   "133": {
     "id": 133,
@@ -8297,7 +8938,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -8306,7 +8948,8 @@
     "title_work": [
       {
         "id": 112,
-        "value": "Enumeratio mancipiorum ecclesiae Salisburgensi oblatorum"
+        "value": "Enumeratio mancipiorum ecclesiae Salisburgensi oblatorum",
+        "order": "110.00000000000000000000"
       }
     ],
     "title_note": "Nr- 3 (wohl 1121/1122)",
@@ -8320,7 +8963,8 @@
     "cod_unit": [
       {
         "id": 15,
-        "value": "ÖNB, Cod. 2090, cod. unit 1"
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-06",
@@ -8338,7 +8982,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "134": {
     "id": 134,
@@ -8352,7 +8997,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -8361,7 +9007,8 @@
     "title_work": [
       {
         "id": 103,
-        "value": "Traditionsnotizen des Salzburger Domstiftes"
+        "value": "Traditionsnotizen des Salzburger Domstiftes",
+        "order": "101.00000000000000000000"
       }
     ],
     "title_note": "Nr. 9 (1122-1147)",
@@ -8375,7 +9022,8 @@
     "cod_unit": [
       {
         "id": 15,
-        "value": "ÖNB, Cod. 2090, cod. unit 1"
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-06",
@@ -8393,7 +9041,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "132": {
     "id": 132,
@@ -8407,7 +9056,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -8416,7 +9066,8 @@
     "title_work": [
       {
         "id": 111,
-        "value": "Annales breves Sancti Rudperti Salisburgensis"
+        "value": "Annales breves Sancti Rudperti Salisburgensis",
+        "order": "109.00000000000000000000"
       }
     ],
     "title_note": "Fortsetzung der Jahre 1165-1197",
@@ -8429,13 +9080,15 @@
     "hands_role": [
       {
         "id": 89,
-        "value": "hit_hands_role__89"
+        "value": "hit_hands_role__89",
+        "order": "79.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 15,
-        "value": "ÖNB, Cod. 2090, cod. unit 1"
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
       }
     ],
     "Last modified": "2024-07-28",
@@ -8461,7 +9114,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "135": {
     "id": 135,
@@ -8475,7 +9129,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -8484,7 +9139,8 @@
     "title_work": [
       {
         "id": 103,
-        "value": "Traditionsnotizen des Salzburger Domstiftes"
+        "value": "Traditionsnotizen des Salzburger Domstiftes",
+        "order": "101.00000000000000000000"
       }
     ],
     "title_note": "Nr. 1 (1058); Nr. 10 (1122-1147)",
@@ -8497,13 +9153,15 @@
     "hands_role": [
       {
         "id": 115,
-        "value": "hit_hands_role__115"
+        "value": "hit_hands_role__115",
+        "order": "101.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 15,
-        "value": "ÖNB, Cod. 2090, cod. unit 1"
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-11",
@@ -8529,7 +9187,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "136": {
     "id": 136,
@@ -8564,7 +9223,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "137": {
     "id": 137,
@@ -8578,7 +9238,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -8587,7 +9248,8 @@
     "title_work": [
       {
         "id": 113,
-        "value": "Fratres de foris"
+        "value": "Fratres de foris",
+        "order": "111.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -8600,17 +9262,20 @@
     "hands_role": [
       {
         "id": 63,
-        "value": "hit_hands_role__63"
+        "value": "hit_hands_role__63",
+        "order": "55.00000000000000000000"
       },
       {
         "id": 114,
-        "value": "hit_hands_role__114"
+        "value": "hit_hands_role__114",
+        "order": "100.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 15,
-        "value": "ÖNB, Cod. 2090, cod. unit 1"
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
       }
     ],
     "Last modified": "2024-07-28",
@@ -8643,7 +9308,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "144": {
     "id": 144,
@@ -8657,7 +9323,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -8666,7 +9333,8 @@
     "title_work": [
       {
         "id": 103,
-        "value": "Traditionsnotizen des Salzburger Domstiftes"
+        "value": "Traditionsnotizen des Salzburger Domstiftes",
+        "order": "101.00000000000000000000"
       }
     ],
     "title_note": "Nr. 11 (nach 1122)",
@@ -8680,7 +9348,8 @@
     "cod_unit": [
       {
         "id": 15,
-        "value": "ÖNB, Cod. 2090, cod. unit 1"
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
       }
     ],
     "Last modified": "2024-09-11",
@@ -8698,7 +9367,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "138": {
     "id": 138,
@@ -8712,7 +9382,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -8721,7 +9392,8 @@
     "title_work": [
       {
         "id": 114,
-        "value": "Necrologium Salisburgense"
+        "value": "Necrologium Salisburgense",
+        "order": "112.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -8734,33 +9406,40 @@
     "hands_role": [
       {
         "id": 64,
-        "value": "hit_hands_role__64"
+        "value": "hit_hands_role__64",
+        "order": "56.00000000000000000000"
       },
       {
         "id": 86,
-        "value": "hit_hands_role__86"
+        "value": "hit_hands_role__86",
+        "order": "76.00000000000000000000"
       },
       {
         "id": 87,
-        "value": "hit_hands_role__87"
+        "value": "hit_hands_role__87",
+        "order": "77.00000000000000000000"
       },
       {
         "id": 93,
-        "value": "hit_hands_role__93"
+        "value": "hit_hands_role__93",
+        "order": "83.00000000000000000000"
       },
       {
         "id": 94,
-        "value": "hit_hands_role__94"
+        "value": "hit_hands_role__94",
+        "order": "84.00000000000000000000"
       },
       {
         "id": 156,
-        "value": "hit_hands_role__156"
+        "value": "hit_hands_role__156",
+        "order": "142.00000000000000000000"
       }
     ],
     "cod_unit": [
       {
         "id": 15,
-        "value": "ÖNB, Cod. 2090, cod. unit 1"
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
       }
     ],
     "Last modified": "2024-12-13",
@@ -8827,7 +9506,8 @@
         "color": "light-green"
       }
     ],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "142": {
     "id": 142,
@@ -8862,7 +9542,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "160": {
     "id": 160,
@@ -8876,7 +9557,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -8885,7 +9567,8 @@
     "title_work": [
       {
         "id": 103,
-        "value": "Traditionsnotizen des Salzburger Domstiftes"
+        "value": "Traditionsnotizen des Salzburger Domstiftes",
+        "order": "101.00000000000000000000"
       }
     ],
     "title_note": "Nr. 12 (1125 April 7)",
@@ -8912,7 +9595,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "145": {
     "id": 145,
@@ -8926,7 +9610,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "Duodecim abusiva sunt saeculi",
@@ -8935,7 +9620,8 @@
     "title_work": [
       {
         "id": 119,
-        "value": "De duodecim abusivis saeculi"
+        "value": "De duodecim abusivis saeculi",
+        "order": "117.00000000000000000000"
       }
     ],
     "title_note": "Anfang des Werkes",
@@ -8948,7 +9634,8 @@
     "hands_role": [
       {
         "id": 116,
-        "value": "hit_hands_role__116"
+        "value": "hit_hands_role__116",
+        "order": "102.00000000000000000000"
       }
     ],
     "cod_unit": [],
@@ -8975,7 +9662,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "146": {
     "id": 146,
@@ -8989,7 +9677,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -8998,7 +9687,8 @@
     "title_work": [
       {
         "id": 119,
-        "value": "De duodecim abusivis saeculi"
+        "value": "De duodecim abusivis saeculi",
+        "order": "117.00000000000000000000"
       }
     ],
     "title_note": "Fortsetzung",
@@ -9011,7 +9701,8 @@
     "hands_role": [
       {
         "id": 117,
-        "value": "hit_hands_role__117"
+        "value": "hit_hands_role__117",
+        "order": "103.00000000000000000000"
       }
     ],
     "cod_unit": [],
@@ -9038,7 +9729,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "187": {
     "id": 187,
@@ -9052,7 +9744,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "Sacramentum est in aliqua cęlebratione cum res gesta",
@@ -9061,7 +9754,8 @@
     "title_work": [
       {
         "id": 133,
-        "value": "Etymologiae"
+        "value": "Etymologiae",
+        "order": "131.00000000000000000000"
       }
     ],
     "title_note": "Auszug aus Buch VI, Kapitel 39-42.",
@@ -9088,7 +9782,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "188": {
     "id": 188,
@@ -9102,7 +9797,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "Fuit quidam solitarius et veniebat ad eum presbyter",
@@ -9111,7 +9807,8 @@
     "title_work": [
       {
         "id": 134,
-        "value": "De quodam solitario"
+        "value": "De quodam solitario",
+        "order": "132.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -9138,7 +9835,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "186": {
     "id": 186,
@@ -9152,7 +9850,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "Episcopum, aut presbyterum, aut diaconum, percutientem fideles",
@@ -9161,7 +9860,8 @@
     "title_work": [
       {
         "id": 132,
-        "value": "Codex canonum ecclesiasticorum"
+        "value": "Codex canonum ecclesiasticorum",
+        "order": "130.00000000000000000000"
       }
     ],
     "title_note": "Kapitel 28",
@@ -9188,7 +9888,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "147": {
     "id": 147,
@@ -9202,7 +9903,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "Cum in nomine sanctę et individuę trinitatis christianissimus",
@@ -9211,7 +9913,8 @@
     "title_work": [
       {
         "id": 120,
-        "value": "Institutiones Aquisgranenses"
+        "value": "Institutiones Aquisgranenses",
+        "order": "118.00000000000000000000"
       }
     ],
     "title_note": "Praefatio + Capitula libri",
@@ -9244,7 +9947,8 @@
     ],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "148": {
     "id": 148,
@@ -9258,7 +9962,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "Tonsure ęcclesiasticę usus a nazarenis",
@@ -9267,7 +9972,8 @@
     "title_work": [
       {
         "id": 120,
-        "value": "Institutiones Aquisgranenses"
+        "value": "Institutiones Aquisgranenses",
+        "order": "118.00000000000000000000"
       }
     ],
     "title_note": "Fortsetzung (Hauptteil)",
@@ -9280,11 +9986,13 @@
     "hands_role": [
       {
         "id": 152,
-        "value": "hit_hands_role__152"
+        "value": "hit_hands_role__152",
+        "order": "138.00000000000000000000"
       },
       {
         "id": 157,
-        "value": "hit_hands_role__157"
+        "value": "hit_hands_role__157",
+        "order": "143.00000000000000000000"
       }
     ],
     "cod_unit": [],
@@ -9324,7 +10032,8 @@
     ],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "161": {
     "id": 161,
@@ -9338,7 +10047,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -9347,7 +10057,8 @@
     "title_work": [
       {
         "id": 103,
-        "value": "Traditionsnotizen des Salzburger Domstiftes"
+        "value": "Traditionsnotizen des Salzburger Domstiftes",
+        "order": "101.00000000000000000000"
       }
     ],
     "title_note": "Nr. 13, 14 (um 1139)",
@@ -9374,7 +10085,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "180": {
     "id": 180,
@@ -9388,7 +10100,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -9397,7 +10110,8 @@
     "title_work": [
       {
         "id": 127,
-        "value": "Urkunden des Erzbischofs Konrad I. von Abenberg"
+        "value": "Urkunden des Erzbischofs Konrad I. von Abenberg",
+        "order": "125.00000000000000000000"
       }
     ],
     "title_note": "Band 2: Nr. 145 (1130 Mai 18) und Nr. 193 (1139)",
@@ -9424,7 +10138,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "149": {
     "id": 149,
@@ -9438,7 +10153,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -9447,7 +10163,8 @@
     "title_work": [
       {
         "id": 121,
-        "value": "Definitiones et sententiae philosophicae, philologicae et theologicae"
+        "value": "Definitiones et sententiae philosophicae, philologicae et theologicae",
+        "order": "119.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -9474,7 +10191,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "164": {
     "id": 164,
@@ -9488,7 +10206,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -9497,7 +10216,8 @@
     "title_work": [
       {
         "id": 103,
-        "value": "Traditionsnotizen des Salzburger Domstiftes"
+        "value": "Traditionsnotizen des Salzburger Domstiftes",
+        "order": "101.00000000000000000000"
       }
     ],
     "title_note": "Nr. 2 (1080 Juli 18)",
@@ -9524,7 +10244,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "166": {
     "id": 166,
@@ -9538,7 +10259,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -9547,7 +10269,8 @@
     "title_work": [
       {
         "id": 103,
-        "value": "Traditionsnotizen des Salzburger Domstiftes"
+        "value": "Traditionsnotizen des Salzburger Domstiftes",
+        "order": "101.00000000000000000000"
       }
     ],
     "title_note": "Nr. 15, 16, 17, 18, 19, 20, 21, 22, 23a (1122-1147)",
@@ -9574,7 +10297,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "167": {
     "id": 167,
@@ -9588,7 +10312,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -9597,7 +10322,8 @@
     "title_work": [
       {
         "id": 103,
-        "value": "Traditionsnotizen des Salzburger Domstiftes"
+        "value": "Traditionsnotizen des Salzburger Domstiftes",
+        "order": "101.00000000000000000000"
       }
     ],
     "title_note": "Nr. 23b (1122-1147); Nr. 24 (vor 1129); Nr. 25 (1122-1147); Nr. 26 (1126 Mai 31); Nr. 27 (1126 Juni 1) und wie auf f. 4v und 5r erneut die Nr. 9, Nr. 10 (1122-1147)",
@@ -9624,7 +10350,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "183": {
     "id": 183,
@@ -9638,7 +10365,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "Omnes clerici vel lectores sicut levitę et sacerdotes detonso superius toto capite",
@@ -9647,7 +10375,8 @@
     "title_work": [
       {
         "id": 129,
-        "value": "Concilium Toletanum quartum"
+        "value": "Concilium Toletanum quartum",
+        "order": "127.00000000000000000000"
       }
     ],
     "title_note": "Kapitel XLI",
@@ -9674,7 +10403,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "150": {
     "id": 150,
@@ -9688,7 +10418,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -9697,7 +10428,8 @@
     "title_work": [
       {
         "id": 122,
-        "value": "Computationes saeculi XII de tempore sancti Ruperti"
+        "value": "Computationes saeculi XII de tempore sancti Ruperti",
+        "order": "120.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -9724,7 +10456,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "151": {
     "id": 151,
@@ -9738,7 +10471,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -9747,7 +10481,8 @@
     "title_work": [
       {
         "id": 123,
-        "value": "Notitiae de benedictione mulieris parturientis, de ritu baptismi etc."
+        "value": "Notitiae de benedictione mulieris parturientis, de ritu baptismi etc.",
+        "order": "121.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -9774,7 +10509,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "169": {
     "id": 169,
@@ -9788,7 +10524,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -9797,7 +10534,8 @@
     "title_work": [
       {
         "id": 103,
-        "value": "Traditionsnotizen des Salzburger Domstiftes"
+        "value": "Traditionsnotizen des Salzburger Domstiftes",
+        "order": "101.00000000000000000000"
       }
     ],
     "title_note": "Nr. 28 (um 1124); Nr. 29 (um 1125)",
@@ -9824,7 +10562,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "170": {
     "id": 170,
@@ -9838,7 +10577,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -9847,7 +10587,8 @@
     "title_work": [
       {
         "id": 103,
-        "value": "Traditionsnotizen des Salzburger Domstiftes"
+        "value": "Traditionsnotizen des Salzburger Domstiftes",
+        "order": "101.00000000000000000000"
       }
     ],
     "title_note": "Nr. 30 (1122-1147); Nr. 7 (nach 1121); Nr. 32, 33, 34 (1122-1147)",
@@ -9874,7 +10615,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "184": {
     "id": 184,
@@ -9888,7 +10630,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -9897,7 +10640,8 @@
     "title_work": [
       {
         "id": 130,
-        "value": "Verzeichnis der Giebigkeiten der domcapitlischen Besitzungen in Erding (Oberbayern)"
+        "value": "Verzeichnis der Giebigkeiten der domcapitlischen Besitzungen in Erding (Oberbayern)",
+        "order": "128.00000000000000000000"
       }
     ],
     "title_note": "Nr. 31 (1122-1147)",
@@ -9924,7 +10668,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "171": {
     "id": 171,
@@ -9938,7 +10683,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -9947,7 +10693,8 @@
     "title_work": [
       {
         "id": 103,
-        "value": "Traditionsnotizen des Salzburger Domstiftes"
+        "value": "Traditionsnotizen des Salzburger Domstiftes",
+        "order": "101.00000000000000000000"
       }
     ],
     "title_note": "Nr. 35 (vor 1140); Nr. 36 (vor 1139 Mai 15); Nr. 37 (vor 1140); Nr. 38, 39, 40, 41, 42, 43 (1122-1147)",
@@ -9974,7 +10721,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "185": {
     "id": 185,
@@ -9988,7 +10736,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -9997,7 +10746,8 @@
     "title_work": [
       {
         "id": 131,
-        "value": "Notiz über die Beendigung eines Besitzstreites mit Bischof Otto von Bamberg"
+        "value": "Notiz über die Beendigung eines Besitzstreites mit Bischof Otto von Bamberg",
+        "order": "129.00000000000000000000"
       }
     ],
     "title_note": "Nr. 36 (vor 1139 - Mai 15)",
@@ -10024,7 +10774,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "172": {
     "id": 172,
@@ -10038,7 +10789,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -10047,7 +10799,8 @@
     "title_work": [
       {
         "id": 103,
-        "value": "Traditionsnotizen des Salzburger Domstiftes"
+        "value": "Traditionsnotizen des Salzburger Domstiftes",
+        "order": "101.00000000000000000000"
       }
     ],
     "title_note": "Nr. 44, 45, 46, 47, 48, 49, 50 (1122-1147)",
@@ -10074,7 +10827,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "177": {
     "id": 177,
@@ -10088,7 +10842,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -10097,7 +10852,8 @@
     "title_work": [
       {
         "id": 103,
-        "value": "Traditionsnotizen des Salzburger Domstiftes"
+        "value": "Traditionsnotizen des Salzburger Domstiftes",
+        "order": "101.00000000000000000000"
       }
     ],
     "title_note": "Nr.51a (um 1146 Mai)",
@@ -10124,7 +10880,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "173": {
     "id": 173,
@@ -10138,7 +10895,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -10147,7 +10905,8 @@
     "title_work": [
       {
         "id": 103,
-        "value": "Traditionsnotizen des Salzburger Domstiftes"
+        "value": "Traditionsnotizen des Salzburger Domstiftes",
+        "order": "101.00000000000000000000"
       }
     ],
     "title_note": "Nr. 52, 53a+b, 54, 55 (1122-1147); Nr. 56 (um 1147)",
@@ -10174,7 +10933,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "178": {
     "id": 178,
@@ -10188,7 +10948,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -10197,7 +10958,8 @@
     "title_work": [
       {
         "id": 126,
-        "value": "Summa sententiarum septem tractatibus distincta"
+        "value": "Summa sententiarum septem tractatibus distincta",
+        "order": "124.00000000000000000000"
       }
     ],
     "title_note": "Auszug aus dem siebten Traktat, Cap. XIII (Utrum sibi conjungi valeant qui se prius adulterio cognoverunt)",
@@ -10224,7 +10986,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "174": {
     "id": 174,
@@ -10238,7 +11001,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -10247,7 +11011,8 @@
     "title_work": [
       {
         "id": 103,
-        "value": "Traditionsnotizen des Salzburger Domstiftes"
+        "value": "Traditionsnotizen des Salzburger Domstiftes",
+        "order": "101.00000000000000000000"
       }
     ],
     "title_note": "Nr. 57, 58 (1122-1147)",
@@ -10274,7 +11039,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "143": {
     "id": 143,
@@ -10288,7 +11054,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "Carolus princeps Pipini regis pater qui primus",
@@ -10297,7 +11064,8 @@
     "title_work": [
       {
         "id": 118,
-        "value": "Visio Eucherii"
+        "value": "Visio Eucherii",
+        "order": "116.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -10310,7 +11078,8 @@
     "hands_role": [
       {
         "id": 92,
-        "value": "hit_hands_role__92"
+        "value": "hit_hands_role__92",
+        "order": "82.00000000000000000000"
       }
     ],
     "cod_unit": [],
@@ -10337,7 +11106,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "152": {
     "id": 152,
@@ -10351,7 +11121,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -10360,7 +11131,8 @@
     "title_work": [
       {
         "id": 125,
-        "value": "Versus contra monachos raptores praediorum"
+        "value": "Versus contra monachos raptores praediorum",
+        "order": "123.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -10387,7 +11159,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "154": {
     "id": 154,
@@ -10422,7 +11195,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "155": {
     "id": 155,
@@ -10457,7 +11231,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "156": {
     "id": 156,
@@ -10492,7 +11267,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "157": {
     "id": 157,
@@ -10527,7 +11303,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "153": {
     "id": 153,
@@ -10541,7 +11318,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -10550,7 +11328,8 @@
     "title_work": [
       {
         "id": 124,
-        "value": "Versus de schismate inter papam et regem"
+        "value": "Versus de schismate inter papam et regem",
+        "order": "122.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -10577,7 +11356,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "175": {
     "id": 175,
@@ -10591,7 +11371,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -10600,7 +11381,8 @@
     "title_work": [
       {
         "id": 103,
-        "value": "Traditionsnotizen des Salzburger Domstiftes"
+        "value": "Traditionsnotizen des Salzburger Domstiftes",
+        "order": "101.00000000000000000000"
       }
     ],
     "title_note": "Nr. 59, 60 (1122-1147); Nr. 61  (um 1151 März 18); Nr. 62 (1122-1147)",
@@ -10627,7 +11409,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "176": {
     "id": 176,
@@ -10641,7 +11424,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -10650,7 +11434,8 @@
     "title_work": [
       {
         "id": 103,
-        "value": "Traditionsnotizen des Salzburger Domstiftes"
+        "value": "Traditionsnotizen des Salzburger Domstiftes",
+        "order": "101.00000000000000000000"
       }
     ],
     "title_note": "Nr. 187 (1170 Februar 22), Nr. 188 (1167-1183)",
@@ -10677,7 +11462,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "181": {
     "id": 181,
@@ -10712,7 +11498,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "182": {
     "id": 182,
@@ -10747,7 +11534,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "189": {
     "id": 189,
@@ -10782,7 +11570,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "190": {
     "id": 190,
@@ -10796,7 +11585,8 @@
     "manuscript": [
       {
         "id": 21,
-        "value": "ÖNB, Cod. 2090"
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -10827,7 +11617,8 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": null
+    "form_note": null,
+    "column": []
   },
   "191": {
     "id": 191,
@@ -10862,6 +11653,7 @@
     "decoration": [],
     "facs_url": "",
     "form": [],
-    "form_note": ""
+    "form_note": "",
+    "column": []
   }
 }

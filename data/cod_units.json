@@ -179,7 +179,7 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-12-12T16:58:44.319032Z",
+        "Last modified": "2024-12-13T11:09:30.075291Z",
         "cod_units": [
           {
             "id": 3,
@@ -321,7 +321,7 @@
           }
         ],
         "note": "",
-        "decoration": "Auf 23r und 27v roter Überschriften in sorgfältiger Monumentalkapitalis. Anonsten rote und braune Überschriften in einer Unziale des älteren Typs.",
+        "decoration": "Auf 23r und 27v rote Überschriften in sorgfältiger Monumentalkapitalis. Anonsten rote und braune Überschriften in einer Unziale des älteren Typs.",
         "quire_structure": "IV",
         "correct_number": null,
         "height": "235",
@@ -337,7 +337,7 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-07-16T12:23:47.713281Z",
+        "Last modified": "2024-12-13T11:17:28.888930Z",
         "cod_units": [
           {
             "id": 3,
@@ -1012,14 +1012,18 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-01",
-    "date": [],
+    "orig_date": [],
     "quires_number": null,
-    "measures": null,
+    "heigth": null,
     "lines_number": null,
     "description": null,
     "decorations": false,
     "codicological reworking": [],
     "basic structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
     "view_label": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1",
     "prev": {
       "id": "hit_cod_unit__29",
@@ -1286,7 +1290,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -1552,7 +1556,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-12-12T16:58:44.319032Z",
+                "Last modified": "2024-12-13T11:09:30.075291Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -1694,7 +1698,7 @@
                   }
                 ],
                 "note": "",
-                "decoration": "Auf 23r und 27v roter Überschriften in sorgfältiger Monumentalkapitalis. Anonsten rote und braune Überschriften in einer Unziale des älteren Typs.",
+                "decoration": "Auf 23r und 27v rote Überschriften in sorgfältiger Monumentalkapitalis. Anonsten rote und braune Überschriften in einer Unziale des älteren Typs.",
                 "quire_structure": "IV",
                 "correct_number": null,
                 "height": "235",
@@ -1710,7 +1714,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-16T12:23:47.713281Z",
+                "Last modified": "2024-12-13T11:17:28.888930Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -2385,14 +2389,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-01",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-12-12",
@@ -2692,7 +2700,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -2964,7 +2972,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-12-12T16:58:44.319032Z",
+                "Last modified": "2024-12-13T11:09:30.075291Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -3106,7 +3114,7 @@
                   }
                 ],
                 "note": "",
-                "decoration": "Auf 23r und 27v roter Überschriften in sorgfältiger Monumentalkapitalis. Anonsten rote und braune Überschriften in einer Unziale des älteren Typs.",
+                "decoration": "Auf 23r und 27v rote Überschriften in sorgfältiger Monumentalkapitalis. Anonsten rote und braune Überschriften in einer Unziale des älteren Typs.",
                 "quire_structure": "IV",
                 "correct_number": null,
                 "height": "235",
@@ -3122,7 +3130,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-16T12:23:47.713281Z",
+                "Last modified": "2024-12-13T11:17:28.888930Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -3797,14 +3805,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-01",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-11",
@@ -4093,7 +4105,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -4450,7 +4462,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-12-12T16:58:44.319032Z",
+                "Last modified": "2024-12-13T11:09:30.075291Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -4592,7 +4604,7 @@
                   }
                 ],
                 "note": "",
-                "decoration": "Auf 23r und 27v roter Überschriften in sorgfältiger Monumentalkapitalis. Anonsten rote und braune Überschriften in einer Unziale des älteren Typs.",
+                "decoration": "Auf 23r und 27v rote Überschriften in sorgfältiger Monumentalkapitalis. Anonsten rote und braune Überschriften in einer Unziale des älteren Typs.",
                 "quire_structure": "IV",
                 "correct_number": null,
                 "height": "235",
@@ -4608,7 +4620,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-16T12:23:47.713281Z",
+                "Last modified": "2024-12-13T11:17:28.888930Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -5283,14 +5295,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-01",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-29",
@@ -5579,7 +5595,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -6048,7 +6064,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-12-12T16:58:44.319032Z",
+                "Last modified": "2024-12-13T11:09:30.075291Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -6190,7 +6206,7 @@
                   }
                 ],
                 "note": "",
-                "decoration": "Auf 23r und 27v roter Überschriften in sorgfältiger Monumentalkapitalis. Anonsten rote und braune Überschriften in einer Unziale des älteren Typs.",
+                "decoration": "Auf 23r und 27v rote Überschriften in sorgfältiger Monumentalkapitalis. Anonsten rote und braune Überschriften in einer Unziale des älteren Typs.",
                 "quire_structure": "IV",
                 "correct_number": null,
                 "height": "235",
@@ -6206,7 +6222,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-16T12:23:47.713281Z",
+                "Last modified": "2024-12-13T11:17:28.888930Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -6881,14 +6897,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-01",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-11-19",
@@ -7204,7 +7224,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -7590,7 +7610,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-12-12T16:58:44.319032Z",
+                "Last modified": "2024-12-13T11:09:30.075291Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -7732,7 +7752,7 @@
                   }
                 ],
                 "note": "",
-                "decoration": "Auf 23r und 27v roter Überschriften in sorgfältiger Monumentalkapitalis. Anonsten rote und braune Überschriften in einer Unziale des älteren Typs.",
+                "decoration": "Auf 23r und 27v rote Überschriften in sorgfältiger Monumentalkapitalis. Anonsten rote und braune Überschriften in einer Unziale des älteren Typs.",
                 "quire_structure": "IV",
                 "correct_number": null,
                 "height": "235",
@@ -7748,7 +7768,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-16T12:23:47.713281Z",
+                "Last modified": "2024-12-13T11:17:28.888930Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -8423,14 +8443,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-01",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-08-05",
@@ -8733,7 +8757,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -9046,7 +9070,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-12-12T16:58:44.319032Z",
+                "Last modified": "2024-12-13T11:09:30.075291Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -9188,7 +9212,7 @@
                   }
                 ],
                 "note": "",
-                "decoration": "Auf 23r und 27v roter Überschriften in sorgfältiger Monumentalkapitalis. Anonsten rote und braune Überschriften in einer Unziale des älteren Typs.",
+                "decoration": "Auf 23r und 27v rote Überschriften in sorgfältiger Monumentalkapitalis. Anonsten rote und braune Überschriften in einer Unziale des älteren Typs.",
                 "quire_structure": "IV",
                 "correct_number": null,
                 "height": "235",
@@ -9204,7 +9228,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-16T12:23:47.713281Z",
+                "Last modified": "2024-12-13T11:17:28.888930Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -9879,14 +9903,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-01",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-03",
@@ -10175,7 +10203,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -10507,7 +10535,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-12-12T16:58:44.319032Z",
+                "Last modified": "2024-12-13T11:09:30.075291Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -10649,7 +10677,7 @@
                   }
                 ],
                 "note": "",
-                "decoration": "Auf 23r und 27v roter Überschriften in sorgfältiger Monumentalkapitalis. Anonsten rote und braune Überschriften in einer Unziale des älteren Typs.",
+                "decoration": "Auf 23r und 27v rote Überschriften in sorgfältiger Monumentalkapitalis. Anonsten rote und braune Überschriften in einer Unziale des älteren Typs.",
                 "quire_structure": "IV",
                 "correct_number": null,
                 "height": "235",
@@ -10665,7 +10693,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-16T12:23:47.713281Z",
+                "Last modified": "2024-12-13T11:17:28.888930Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -11340,14 +11368,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-01",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-03",
@@ -11636,7 +11668,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -12065,7 +12097,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-12-12T16:58:44.319032Z",
+                "Last modified": "2024-12-13T11:09:30.075291Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -12207,7 +12239,7 @@
                   }
                 ],
                 "note": "",
-                "decoration": "Auf 23r und 27v roter Überschriften in sorgfältiger Monumentalkapitalis. Anonsten rote und braune Überschriften in einer Unziale des älteren Typs.",
+                "decoration": "Auf 23r und 27v rote Überschriften in sorgfältiger Monumentalkapitalis. Anonsten rote und braune Überschriften in einer Unziale des älteren Typs.",
                 "quire_structure": "IV",
                 "correct_number": null,
                 "height": "235",
@@ -12223,7 +12255,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-16T12:23:47.713281Z",
+                "Last modified": "2024-12-13T11:17:28.888930Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -12898,14 +12930,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-01",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-11-19",
@@ -13214,7 +13250,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -13492,7 +13528,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-12-12T16:58:44.319032Z",
+                "Last modified": "2024-12-13T11:09:30.075291Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -13634,7 +13670,7 @@
                   }
                 ],
                 "note": "",
-                "decoration": "Auf 23r und 27v roter Überschriften in sorgfältiger Monumentalkapitalis. Anonsten rote und braune Überschriften in einer Unziale des älteren Typs.",
+                "decoration": "Auf 23r und 27v rote Überschriften in sorgfältiger Monumentalkapitalis. Anonsten rote und braune Überschriften in einer Unziale des älteren Typs.",
                 "quire_structure": "IV",
                 "correct_number": null,
                 "height": "235",
@@ -13650,7 +13686,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-16T12:23:47.713281Z",
+                "Last modified": "2024-12-13T11:17:28.888930Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -14325,14 +14361,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-01",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-15",
@@ -14621,7 +14661,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -14899,7 +14939,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-12-12T16:58:44.319032Z",
+                "Last modified": "2024-12-13T11:09:30.075291Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -15041,7 +15081,7 @@
                   }
                 ],
                 "note": "",
-                "decoration": "Auf 23r und 27v roter Überschriften in sorgfältiger Monumentalkapitalis. Anonsten rote und braune Überschriften in einer Unziale des älteren Typs.",
+                "decoration": "Auf 23r und 27v rote Überschriften in sorgfältiger Monumentalkapitalis. Anonsten rote und braune Überschriften in einer Unziale des älteren Typs.",
                 "quire_structure": "IV",
                 "correct_number": null,
                 "height": "235",
@@ -15057,7 +15097,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-16T12:23:47.713281Z",
+                "Last modified": "2024-12-13T11:17:28.888930Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -15732,14 +15772,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-01",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-06",
@@ -16028,7 +16072,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -16343,7 +16387,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-12-12T16:58:44.319032Z",
+                "Last modified": "2024-12-13T11:09:30.075291Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -16485,7 +16529,7 @@
                   }
                 ],
                 "note": "",
-                "decoration": "Auf 23r und 27v roter Überschriften in sorgfältiger Monumentalkapitalis. Anonsten rote und braune Überschriften in einer Unziale des älteren Typs.",
+                "decoration": "Auf 23r und 27v rote Überschriften in sorgfältiger Monumentalkapitalis. Anonsten rote und braune Überschriften in einer Unziale des älteren Typs.",
                 "quire_structure": "IV",
                 "correct_number": null,
                 "height": "235",
@@ -16501,7 +16545,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-16T12:23:47.713281Z",
+                "Last modified": "2024-12-13T11:17:28.888930Z",
                 "cod_units": [
                   {
                     "id": 3,
@@ -17176,14 +17220,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-01",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-16",
@@ -17769,14 +17817,18 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-11",
-    "date": [],
+    "orig_date": [],
     "quires_number": null,
-    "measures": null,
+    "heigth": null,
     "lines_number": null,
     "description": null,
     "decorations": false,
     "codicological reworking": [],
     "basic structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
     "view_label": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 2",
     "prev": {
       "id": "hit_cod_unit__4",
@@ -18043,7 +18095,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -18860,14 +18912,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-11",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-03",
@@ -19170,7 +19226,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -19886,14 +19942,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-11",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-06",
@@ -20182,7 +20242,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -20831,14 +20891,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-11",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-05",
@@ -21127,7 +21191,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -21787,14 +21851,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-11",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-15",
@@ -21980,14 +22048,18 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-11",
-    "date": [],
+    "orig_date": [],
     "quires_number": null,
-    "measures": null,
+    "heigth": null,
     "lines_number": null,
     "description": null,
     "decorations": false,
     "codicological reworking": [],
     "basic structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
     "view_label": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 3",
     "prev": {
       "id": "hit_cod_unit__10",
@@ -22254,7 +22326,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -22522,14 +22594,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-11",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-11",
@@ -22818,7 +22894,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -23094,14 +23170,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-11",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-11",
@@ -23333,14 +23413,18 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-18",
-    "date": [],
+    "orig_date": [],
     "quires_number": null,
-    "measures": null,
+    "heigth": null,
     "lines_number": null,
     "description": null,
     "decorations": false,
     "codicological reworking": [],
     "basic structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
     "view_label": "ÖNB, Cod. 366, cod. unit 1",
     "prev": {
       "id": "hit_cod_unit__12",
@@ -23574,7 +23658,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -24062,14 +24146,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-18",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-15",
@@ -24153,14 +24241,18 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-18",
-    "date": [],
+    "orig_date": [],
     "quires_number": null,
-    "measures": null,
+    "heigth": null,
     "lines_number": null,
     "description": null,
     "decorations": false,
     "codicological reworking": [],
     "basic structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
     "view_label": "ÖNB, Cod. 366, cod. unit 2",
     "prev": {
       "id": "hit_cod_unit__11",
@@ -24394,7 +24486,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -24513,14 +24605,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-18",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-18",
@@ -26061,14 +26157,18 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-18",
-    "date": [],
+    "orig_date": [],
     "quires_number": null,
-    "measures": null,
+    "heigth": null,
     "lines_number": null,
     "description": null,
     "decorations": false,
     "codicological reworking": [],
     "basic structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
     "view_label": "BSB, Clm. 6308, cod. unit 1",
     "prev": {
       "id": "hit_cod_unit__3",
@@ -28146,14 +28246,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-07-18",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-28",
@@ -28258,14 +28362,18 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-08",
-    "date": [],
+    "orig_date": [],
     "quires_number": null,
-    "measures": null,
+    "heigth": null,
     "lines_number": null,
     "description": null,
     "decorations": false,
     "codicological reworking": [],
     "basic structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
     "view_label": "BSB, Clm. 6388, cod. unit 1",
     "prev": {
       "id": "hit_cod_unit__5",
@@ -28720,14 +28828,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-07-08",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           },
           {
             "id": 8,
@@ -28785,14 +28897,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-07-08",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-29",
@@ -28883,14 +28999,18 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-08",
-    "date": [],
+    "orig_date": [],
     "quires_number": null,
-    "measures": null,
+    "heigth": null,
     "lines_number": null,
     "description": null,
     "decorations": false,
     "codicological reworking": [],
     "basic structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
     "view_label": "BSB, Clm. 6388, cod. unit 2",
     "prev": {
       "id": "hit_cod_unit__6",
@@ -29345,14 +29465,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-07-08",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           },
           {
             "id": 8,
@@ -29410,14 +29534,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-07-08",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-29",
@@ -29839,14 +29967,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-07-08",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-27",
@@ -29929,14 +30061,18 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-07-08",
-    "date": [],
+    "orig_date": [],
     "quires_number": null,
-    "measures": null,
+    "heigth": null,
     "lines_number": null,
     "description": null,
     "decorations": false,
     "codicological reworking": [],
     "basic structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
     "view_label": "BSB, Clm. 6388, cod. unit 3",
     "prev": {
       "id": "hit_cod_unit__8",
@@ -30328,14 +30464,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-07-08",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-27",
@@ -30698,14 +30838,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-07-08",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-27",
@@ -32077,11 +32221,11 @@
       }
     ],
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-12-18",
-    "date": [
+    "Last modified": "2024-12-20",
+    "orig_date": [
       {
         "id": 4,
         "value": "10 Jh., Mitte"
@@ -32092,12 +32236,16 @@
       }
     ],
     "quires_number": null,
-    "measures": "195x165, Schreibraum 155x115",
+    "heigth": "195",
     "lines_number": null,
     "description": null,
     "decorations": false,
     "codicological reworking": [],
     "basic structure": [],
+    "written_width": "115",
+    "written_height": "155",
+    "width": "165",
+    "columns": [],
     "view_label": "BSB, Clm. 6326, cod. unit 1",
     "prev": {
       "id": "hit_cod_unit__9",
@@ -34076,11 +34224,11 @@
               }
             ],
             "Last modified by": {
-              "id": 87,
-              "name": "Ksenia Borisova"
+              "id": 36,
+              "name": "Ivana Dobcheva"
             },
-            "Last modified": "2024-12-18",
-            "date": [
+            "Last modified": "2024-12-20",
+            "orig_date": [
               {
                 "id": 4,
                 "value": "10 Jh., Mitte"
@@ -34091,12 +34239,16 @@
               }
             ],
             "quires_number": null,
-            "measures": "195x165, Schreibraum 155x115",
+            "heigth": "195",
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": "115",
+            "written_height": "155",
+            "width": "165",
+            "columns": []
           }
         ],
         "Last modified": "2024-12-18",
@@ -36025,11 +36177,11 @@
               }
             ],
             "Last modified by": {
-              "id": 87,
-              "name": "Ksenia Borisova"
+              "id": 36,
+              "name": "Ivana Dobcheva"
             },
-            "Last modified": "2024-12-18",
-            "date": [
+            "Last modified": "2024-12-20",
+            "orig_date": [
               {
                 "id": 4,
                 "value": "10 Jh., Mitte"
@@ -36040,12 +36192,16 @@
               }
             ],
             "quires_number": null,
-            "measures": "195x165, Schreibraum 155x115",
+            "heigth": "195",
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": "115",
+            "written_height": "155",
+            "width": "165",
+            "columns": []
           }
         ],
         "Last modified": "2024-12-18",
@@ -37967,11 +38123,11 @@
               }
             ],
             "Last modified by": {
-              "id": 87,
-              "name": "Ksenia Borisova"
+              "id": 36,
+              "name": "Ivana Dobcheva"
             },
-            "Last modified": "2024-12-18",
-            "date": [
+            "Last modified": "2024-12-20",
+            "orig_date": [
               {
                 "id": 4,
                 "value": "10 Jh., Mitte"
@@ -37982,12 +38138,16 @@
               }
             ],
             "quires_number": null,
-            "measures": "195x165, Schreibraum 155x115",
+            "heigth": "195",
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": "115",
+            "written_height": "155",
+            "width": "165",
+            "columns": []
           }
         ],
         "Last modified": "2024-12-18",
@@ -40043,11 +40203,11 @@
               }
             ],
             "Last modified by": {
-              "id": 87,
-              "name": "Ksenia Borisova"
+              "id": 36,
+              "name": "Ivana Dobcheva"
             },
-            "Last modified": "2024-12-18",
-            "date": [
+            "Last modified": "2024-12-20",
+            "orig_date": [
               {
                 "id": 4,
                 "value": "10 Jh., Mitte"
@@ -40058,12 +40218,16 @@
               }
             ],
             "quires_number": null,
-            "measures": "195x165, Schreibraum 155x115",
+            "heigth": "195",
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": "115",
+            "written_height": "155",
+            "width": "165",
+            "columns": []
           }
         ],
         "Last modified": "2024-12-18",
@@ -42036,11 +42200,11 @@
               }
             ],
             "Last modified by": {
-              "id": 87,
-              "name": "Ksenia Borisova"
+              "id": 36,
+              "name": "Ivana Dobcheva"
             },
-            "Last modified": "2024-12-18",
-            "date": [
+            "Last modified": "2024-12-20",
+            "orig_date": [
               {
                 "id": 4,
                 "value": "10 Jh., Mitte"
@@ -42051,12 +42215,16 @@
               }
             ],
             "quires_number": null,
-            "measures": "195x165, Schreibraum 155x115",
+            "heigth": "195",
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": "115",
+            "written_height": "155",
+            "width": "165",
+            "columns": []
           }
         ],
         "Last modified": "2024-12-18",
@@ -43978,11 +44146,11 @@
               }
             ],
             "Last modified by": {
-              "id": 87,
-              "name": "Ksenia Borisova"
+              "id": 36,
+              "name": "Ivana Dobcheva"
             },
-            "Last modified": "2024-12-18",
-            "date": [
+            "Last modified": "2024-12-20",
+            "orig_date": [
               {
                 "id": 4,
                 "value": "10 Jh., Mitte"
@@ -43993,12 +44161,16 @@
               }
             ],
             "quires_number": null,
-            "measures": "195x165, Schreibraum 155x115",
+            "heigth": "195",
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": "115",
+            "written_height": "155",
+            "width": "165",
+            "columns": []
           }
         ],
         "Last modified": "2024-12-18",
@@ -45964,11 +46136,11 @@
               }
             ],
             "Last modified by": {
-              "id": 87,
-              "name": "Ksenia Borisova"
+              "id": 36,
+              "name": "Ivana Dobcheva"
             },
-            "Last modified": "2024-12-18",
-            "date": [
+            "Last modified": "2024-12-20",
+            "orig_date": [
               {
                 "id": 4,
                 "value": "10 Jh., Mitte"
@@ -45979,12 +46151,16 @@
               }
             ],
             "quires_number": null,
-            "measures": "195x165, Schreibraum 155x115",
+            "heigth": "195",
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": "115",
+            "written_height": "155",
+            "width": "165",
+            "columns": []
           }
         ],
         "Last modified": "2024-12-18",
@@ -47894,11 +48070,11 @@
               }
             ],
             "Last modified by": {
-              "id": 87,
-              "name": "Ksenia Borisova"
+              "id": 36,
+              "name": "Ivana Dobcheva"
             },
-            "Last modified": "2024-12-18",
-            "date": [
+            "Last modified": "2024-12-20",
+            "orig_date": [
               {
                 "id": 4,
                 "value": "10 Jh., Mitte"
@@ -47909,12 +48085,16 @@
               }
             ],
             "quires_number": null,
-            "measures": "195x165, Schreibraum 155x115",
+            "heigth": "195",
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": "115",
+            "written_height": "155",
+            "width": "165",
+            "columns": []
           }
         ],
         "Last modified": "2024-12-18",
@@ -49781,11 +49961,11 @@
               }
             ],
             "Last modified by": {
-              "id": 87,
-              "name": "Ksenia Borisova"
+              "id": 36,
+              "name": "Ivana Dobcheva"
             },
-            "Last modified": "2024-12-18",
-            "date": [
+            "Last modified": "2024-12-20",
+            "orig_date": [
               {
                 "id": 4,
                 "value": "10 Jh., Mitte"
@@ -49796,12 +49976,16 @@
               }
             ],
             "quires_number": null,
-            "measures": "195x165, Schreibraum 155x115",
+            "heigth": "195",
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": "115",
+            "written_height": "155",
+            "width": "165",
+            "columns": []
           }
         ],
         "Last modified": "2024-12-18",
@@ -51463,11 +51647,11 @@
               }
             ],
             "Last modified by": {
-              "id": 87,
-              "name": "Ksenia Borisova"
+              "id": 36,
+              "name": "Ivana Dobcheva"
             },
-            "Last modified": "2024-12-18",
-            "date": [
+            "Last modified": "2024-12-20",
+            "orig_date": [
               {
                 "id": 4,
                 "value": "10 Jh., Mitte"
@@ -51478,12 +51662,16 @@
               }
             ],
             "quires_number": null,
-            "measures": "195x165, Schreibraum 155x115",
+            "heigth": "195",
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": "115",
+            "written_height": "155",
+            "width": "165",
+            "columns": []
           }
         ],
         "Last modified": "2024-07-11",
@@ -52911,14 +53099,18 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-26",
-    "date": [],
+    "orig_date": [],
     "quires_number": null,
-    "measures": null,
+    "heigth": null,
     "lines_number": null,
     "description": null,
     "decorations": false,
     "codicological reworking": [],
     "basic structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
     "view_label": "ÖNB, Cod. 387, cod. unit 1",
     "prev": {
       "id": "hit_cod_unit__13",
@@ -53296,7 +53488,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -54854,14 +55046,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-25",
@@ -55268,7 +55464,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -56761,14 +56957,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-23",
@@ -57168,7 +57368,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -58660,14 +58860,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-06",
@@ -59067,7 +59271,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -60554,14 +60758,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-23",
@@ -60961,7 +61169,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -62453,14 +62661,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-23",
@@ -62860,7 +63072,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -64364,14 +64576,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-23",
@@ -64771,7 +64987,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -66318,14 +66534,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-25",
@@ -66732,7 +66952,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -68231,14 +68451,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-23",
@@ -68638,7 +68862,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -70244,14 +70468,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-06",
@@ -70665,7 +70893,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -72152,14 +72380,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-25",
@@ -72559,7 +72791,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -74046,14 +74278,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-23",
@@ -74453,7 +74689,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -76102,14 +76338,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-23",
@@ -76530,7 +76770,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -78017,14 +78257,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-25",
@@ -78424,7 +78668,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -79966,14 +80210,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-25",
@@ -80373,7 +80621,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -81860,14 +82108,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-25",
@@ -81958,14 +82210,18 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-07-26",
-    "date": [],
+    "orig_date": [],
     "quires_number": null,
-    "measures": null,
+    "heigth": null,
     "lines_number": null,
     "description": null,
     "decorations": false,
     "codicological reworking": [],
     "basic structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
     "view_label": "ÖNB, Cod. 2090, cod. unit 1",
     "prev": {
       "id": "hit_cod_unit__14",
@@ -82253,7 +82509,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -82509,14 +82765,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-26",
@@ -82840,7 +83100,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -82982,14 +83242,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-30",
@@ -83299,7 +83563,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -83441,14 +83705,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-10-03",
@@ -83758,7 +84026,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -83851,14 +84119,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-06",
@@ -84160,7 +84432,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -84326,14 +84598,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-12-11",
@@ -84655,7 +84931,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -84861,14 +85137,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-31",
@@ -85178,7 +85458,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -85400,14 +85680,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-31",
@@ -85717,7 +86001,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -85792,14 +86076,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-28",
@@ -86101,7 +86389,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -86194,14 +86482,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-08-02",
@@ -86503,7 +86795,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -86657,14 +86949,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-12-11",
@@ -86986,7 +87282,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -87188,14 +87484,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-12-11",
@@ -87518,7 +87818,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -87684,14 +87984,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-08-05",
@@ -88001,7 +88305,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -88176,14 +88480,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-08-02",
@@ -88493,7 +88801,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -88736,14 +89044,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-05",
@@ -89073,7 +89385,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -89959,14 +90271,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-12-11",
@@ -90387,7 +90703,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -90480,14 +90796,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-06",
@@ -90789,7 +91109,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -90882,14 +91202,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-06",
@@ -91191,7 +91515,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -91363,14 +91687,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-28",
@@ -91680,7 +92008,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -91822,14 +92150,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-11",
@@ -92139,7 +92471,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -92353,14 +92685,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-07-28",
@@ -92677,7 +93013,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -92770,14 +93106,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-11",
@@ -93079,7 +93419,7 @@
             "status": [
               {
                 "id": 17449,
-                "value": "an Bearbeitung",
+                "value": "in Bearbeitung",
                 "color": "light-brown"
               }
             ]
@@ -93473,14 +93813,18 @@
               "name": "Leon Pürstinger"
             },
             "Last modified": "2024-07-26",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-12-13",
@@ -93612,14 +93956,18 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-11-13",
-    "date": [],
+    "orig_date": [],
     "quires_number": null,
-    "measures": null,
+    "heigth": null,
     "lines_number": null,
     "description": null,
     "decorations": false,
     "codicological reworking": [],
     "basic structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
     "view_label": "BSB, Clm. 6380, cod. unit 1",
     "prev": {
       "id": "hit_cod_unit__15",
@@ -94363,14 +94711,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-11-13",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-11-18",
@@ -94823,14 +95175,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-11-13",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-11-18",
@@ -94932,14 +95288,18 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-19",
-    "date": [],
+    "orig_date": [],
     "quires_number": null,
-    "measures": null,
+    "heigth": null,
     "lines_number": null,
     "description": null,
     "decorations": false,
     "codicological reworking": [],
     "basic structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
     "view_label": "BSB, Clm. 6381, cod. unit 1",
     "prev": {
       "id": "hit_cod_unit__16",
@@ -95612,14 +95972,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-09-19",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-11-18",
@@ -95724,14 +96088,18 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-19",
-    "date": [],
+    "orig_date": [],
     "quires_number": null,
-    "measures": null,
+    "heigth": null,
     "lines_number": null,
     "description": null,
     "decorations": false,
     "codicological reworking": [],
     "basic structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
     "view_label": "BSB, Clm. 6382, cod. unit 1",
     "prev": {
       "id": "hit_cod_unit__17",
@@ -96499,14 +96867,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-09-19",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-27",
@@ -97366,14 +97738,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-09-19",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-27",
@@ -98201,14 +98577,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-09-19",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-27",
@@ -99044,14 +99424,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-09-19",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-27",
@@ -99911,14 +100295,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-09-19",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-27",
@@ -100715,14 +101103,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-09-19",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-27",
@@ -101550,14 +101942,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-09-19",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-27",
@@ -102417,14 +102813,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-09-19",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-27",
@@ -103221,14 +103621,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-09-19",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-27",
@@ -104013,14 +104417,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-09-19",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-27",
@@ -104118,14 +104526,18 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-11-13",
-    "date": [],
+    "orig_date": [],
     "quires_number": null,
-    "measures": null,
+    "heigth": null,
     "lines_number": null,
     "description": null,
     "decorations": false,
     "codicological reworking": [],
     "basic structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
     "view_label": "BSB, Clm. 6382, cod. unit 2",
     "prev": {
       "id": "hit_cod_unit__18",
@@ -104578,14 +104990,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-11-13",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-27",
@@ -105023,14 +105439,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-11-13",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-27",
@@ -105509,14 +105929,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-11-13",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-27",
@@ -105607,14 +106031,18 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-11-13",
-    "date": [],
+    "orig_date": [],
     "quires_number": null,
-    "measures": null,
+    "heigth": null,
     "lines_number": null,
     "description": null,
     "decorations": false,
     "codicological reworking": [],
     "basic structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
     "view_label": "BSB, Clm. 6383, cod. unit 1",
     "prev": {
       "id": "hit_cod_unit__19",
@@ -106092,14 +106520,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-11-13",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-27",
@@ -106480,14 +106912,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-11-13",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-11-13",
@@ -106578,14 +107014,18 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-28",
-    "date": [],
+    "orig_date": [],
     "quires_number": null,
-    "measures": null,
+    "heigth": null,
     "lines_number": null,
     "description": null,
     "decorations": false,
     "codicological reworking": [],
     "basic structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
     "view_label": "BSB, Clm. 6341, cod. unit 1",
     "prev": {
       "id": "hit_cod_unit__20",
@@ -106984,14 +107424,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-09-28",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-28",
@@ -107396,14 +107840,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-09-28",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-28",
@@ -107808,14 +108256,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-09-28",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-28",
@@ -107898,14 +108350,18 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-28",
-    "date": [],
+    "orig_date": [],
     "quires_number": null,
-    "measures": null,
+    "heigth": null,
     "lines_number": null,
     "description": null,
     "decorations": false,
     "codicological reworking": [],
     "basic structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
     "view_label": "BSB, Clm. 6341, cod. unit 2",
     "prev": {
       "id": "hit_cod_unit__21",
@@ -108304,14 +108760,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-09-28",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-28",
@@ -108394,14 +108854,18 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-28",
-    "date": [],
+    "orig_date": [],
     "quires_number": null,
-    "measures": null,
+    "heigth": null,
     "lines_number": null,
     "description": null,
     "decorations": false,
     "codicological reworking": [],
     "basic structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
     "view_label": "BSB, Clm. 6393, cod. unit 1",
     "prev": {
       "id": "hit_cod_unit__22",
@@ -108779,14 +109243,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-09-28",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-28",
@@ -109182,14 +109650,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-09-28",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-28",
@@ -109585,14 +110057,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-09-28",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-28",
@@ -109988,14 +110464,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-09-28",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-28",
@@ -110367,14 +110847,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-09-28",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-28",
@@ -110457,14 +110941,18 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-28",
-    "date": [],
+    "orig_date": [],
     "quires_number": null,
-    "measures": null,
+    "heigth": null,
     "lines_number": null,
     "description": null,
     "decorations": false,
     "codicological reworking": [],
     "basic structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
     "view_label": "BSB, Clm. 6391, cod. unit 1",
     "prev": {
       "id": "hit_cod_unit__23",
@@ -111021,14 +111509,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-09-28",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-27",
@@ -111140,14 +111632,18 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-28",
-    "date": [],
+    "orig_date": [],
     "quires_number": null,
-    "measures": null,
+    "heigth": null,
     "lines_number": null,
     "description": null,
     "decorations": false,
     "codicological reworking": [],
     "basic structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
     "view_label": "BSB, Clm. 6392, cod. unit 1",
     "prev": {
       "id": "hit_cod_unit__24",
@@ -111512,14 +112008,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-09-28",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-28",
@@ -111897,14 +112397,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-09-28",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-28",
@@ -111987,14 +112491,18 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-11-13",
-    "date": [],
+    "orig_date": [],
     "quires_number": null,
-    "measures": null,
+    "heigth": null,
     "lines_number": null,
     "description": null,
     "decorations": false,
     "codicological reworking": [],
     "basic structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
     "view_label": "BSB, Clm. 1086, cod. unit 1",
     "prev": {
       "id": "hit_cod_unit__25",
@@ -112400,14 +112908,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-11-13",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-28",
@@ -112835,14 +113347,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-11-13",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-28",
@@ -113270,14 +113786,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-11-13",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-28",
@@ -113360,14 +113880,18 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-11-13",
-    "date": [],
+    "orig_date": [],
     "quires_number": null,
-    "measures": null,
+    "heigth": null,
     "lines_number": null,
     "description": null,
     "decorations": false,
     "codicological reworking": [],
     "basic structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
     "view_label": "BSB, Clm. 6375, cod. unit 1",
     "prev": {
       "id": "hit_cod_unit__26",
@@ -113873,14 +114397,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-11-13",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-11-18",
@@ -114408,14 +114936,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-11-13",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-27",
@@ -115047,14 +115579,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-11-13",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-11-18",
@@ -115589,14 +116125,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-11-13",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-09-27",
@@ -115687,14 +116227,18 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-11-13",
-    "date": [],
+    "orig_date": [],
     "quires_number": null,
-    "measures": null,
+    "heigth": null,
     "lines_number": null,
     "description": null,
     "decorations": false,
     "codicological reworking": [],
     "basic structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
     "view_label": "BSB, Clm. 6376, cod. unit 1",
     "prev": {
       "id": "hit_cod_unit__27",
@@ -116112,14 +116656,18 @@
               "name": "Ksenia Borisova"
             },
             "Last modified": "2024-11-13",
-            "date": [],
+            "orig_date": [],
             "quires_number": null,
-            "measures": null,
+            "heigth": null,
             "lines_number": null,
             "description": null,
             "decorations": false,
             "codicological reworking": [],
-            "basic structure": []
+            "basic structure": [],
+            "written_width": null,
+            "written_height": null,
+            "width": null,
+            "columns": []
           }
         ],
         "Last modified": "2024-10-23",
@@ -116202,14 +116750,18 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-11-13",
-    "date": [],
+    "orig_date": [],
     "quires_number": null,
-    "measures": null,
+    "heigth": null,
     "lines_number": null,
     "description": null,
     "decorations": false,
     "codicological reworking": [],
     "basic structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
     "view_label": "BSB, Clm. 210, cod. unit 1",
     "prev": {
       "id": "hit_cod_unit__28",

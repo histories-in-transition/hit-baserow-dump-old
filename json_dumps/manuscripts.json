@@ -140,7 +140,7 @@
     "status": [
       {
         "id": 17449,
-        "value": "an Bearbeitung",
+        "value": "in Bearbeitung",
         "color": "light-brown"
       }
     ]
@@ -268,7 +268,7 @@
     "status": [
       {
         "id": 17449,
-        "value": "an Bearbeitung",
+        "value": "in Bearbeitung",
         "color": "light-brown"
       }
     ]
@@ -378,7 +378,7 @@
     "status": [
       {
         "id": 17449,
-        "value": "an Bearbeitung",
+        "value": "in Bearbeitung",
         "color": "light-brown"
       }
     ]
@@ -476,7 +476,7 @@
     "status": [
       {
         "id": 17449,
-        "value": "an Bearbeitung",
+        "value": "in Bearbeitung",
         "color": "light-brown"
       }
     ]
@@ -597,7 +597,7 @@
     "status": [
       {
         "id": 17449,
-        "value": "an Bearbeitung",
+        "value": "in Bearbeitung",
         "color": "light-brown"
       }
     ]
@@ -2527,5 +2527,79 @@
     "charakter": [],
     "case_study": [],
     "status": []
+  },
+  "30": {
+    "id": 30,
+    "order": "23.00000000000000000000",
+    "shelfmark": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 420"
+      }
+    ],
+    "hit_id": "hit_manuscript__30",
+    "library": [
+      {
+        "id": 1,
+        "value": "ÖNB",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "Cod. 420",
+    "idno_former": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 1,
+        "value": "Österreichische Nationalbibliothek"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "history": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material_spec": "",
+    "orig_place": [],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": null,
+    "provenance": [],
+    "manuscripts_dated": [],
+    "orig_dated": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-12-21",
+    "Last modified": "2024-12-21",
+    "content_summary": "",
+    "charakter": [],
+    "case_study": [
+      {
+        "id": 17442,
+        "value": "Salzburg",
+        "color": "purple"
+      }
+    ],
+    "status": [
+      {
+        "id": 17449,
+        "value": "in Bearbeitung",
+        "color": "light-brown"
+      }
+    ]
   }
 }

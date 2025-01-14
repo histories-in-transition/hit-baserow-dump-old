@@ -11648,9 +11648,9 @@
                       "id": 87,
                       "name": "Ksenia Borisova"
                     },
-                    "Last modified": "2025-01-09",
+                    "Last modified": "2025-01-13",
                     "orig_date": [],
-                    "quires_number": null,
+                    "quires_number": "7-16",
                     "heigth": "240",
                     "lines_number": "29",
                     "description": null,
@@ -28495,6 +28495,10 @@
               {
                 "id": 32,
                 "value": "ÖNB, Cod. 387_H. 2"
+              },
+              {
+                "id": 122,
+                "value": "ÖNB, Cod. 420_H. 1"
               }
             ],
             "hand": [
@@ -28511,6 +28515,13 @@
                   "database_table_3488": 1
                 },
                 "value": "ÖNB, Cod. 387_H. 2"
+              },
+              {
+                "ids": {
+                  "database_table_3487": 30,
+                  "database_table_3488": 1
+                },
+                "value": "ÖNB, Cod. 420_H. 1"
               }
             ],
             "Last modified": "2024-12-12",
@@ -30745,6 +30756,10 @@
               {
                 "id": 32,
                 "value": "ÖNB, Cod. 387_H. 2"
+              },
+              {
+                "id": 122,
+                "value": "ÖNB, Cod. 420_H. 1"
               }
             ],
             "hand": [
@@ -30761,6 +30776,100 @@
                   "database_table_3488": 1
                 },
                 "value": "ÖNB, Cod. 387_H. 2"
+              },
+              {
+                "ids": {
+                  "database_table_3487": 30,
+                  "database_table_3488": 1
+                },
+                "value": "ÖNB, Cod. 420_H. 1"
+              }
+            ],
+            "Last modified": "2024-12-12",
+            "Last modified by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            }
+          }
+        ],
+        "gruppe": false
+      },
+      {
+        "id": 122,
+        "label": [
+          {
+            "ids": {
+              "database_table_3487": 30,
+              "database_table_3488": 1
+            },
+            "value": "ÖNB, Cod. 420_H. 1"
+          }
+        ],
+        "description": "Korrekturen des Magister Baldo",
+        "hit_id": "hit_hands__122",
+        "similar_hands": [],
+        "nr_daniel": "",
+        "manuscript": [
+          {
+            "id": 30,
+            "value": "ÖNB, Cod. 420"
+          }
+        ],
+        "number": "1",
+        "note": "",
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-13",
+        "hands_role": [],
+        "role": [],
+        "texts": [],
+        "hands_dated": [],
+        "dating": [],
+        "hands_placed": [],
+        "scribe": [
+          {
+            "id": 14,
+            "name": "Magister Baldo",
+            "hit_id": "hit_scribes__14",
+            "description": "",
+            "group": false,
+            "hands": [
+              {
+                "id": 5,
+                "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
+              },
+              {
+                "id": 32,
+                "value": "ÖNB, Cod. 387_H. 2"
+              },
+              {
+                "id": 122,
+                "value": "ÖNB, Cod. 420_H. 1"
+              }
+            ],
+            "hand": [
+              {
+                "ids": {
+                  "database_table_3487": 2,
+                  "database_table_3488": 2
+                },
+                "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
+              },
+              {
+                "ids": {
+                  "database_table_3487": 1,
+                  "database_table_3488": 1
+                },
+                "value": "ÖNB, Cod. 387_H. 2"
+              },
+              {
+                "ids": {
+                  "database_table_3487": 30,
+                  "database_table_3488": 1
+                },
+                "value": "ÖNB, Cod. 420_H. 1"
               }
             ],
             "Last modified": "2024-12-12",
@@ -30787,6 +30896,13 @@
           "database_table_3488": 1
         },
         "value": "ÖNB, Cod. 387_H. 2"
+      },
+      {
+        "ids": {
+          "database_table_3487": 30,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 420_H. 1"
       }
     ],
     "Last modified": "2024-12-12",

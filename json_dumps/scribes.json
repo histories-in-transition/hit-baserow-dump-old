@@ -375,6 +375,11 @@
         "id": 32,
         "value": "ÖNB, Cod. 387_H. 2",
         "order": "28.00000000000000000000"
+      },
+      {
+        "id": 122,
+        "value": "ÖNB, Cod. 420_H. 1",
+        "order": "114.00000000000000000000"
       }
     ],
     "hand": [
@@ -391,6 +396,13 @@
           "database_table_3488": 1
         },
         "value": "ÖNB, Cod. 387_H. 2"
+      },
+      {
+        "ids": {
+          "database_table_3487": 30,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 420_H. 1"
       }
     ],
     "Last modified": "2024-12-12",

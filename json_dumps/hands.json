@@ -9969,5 +9969,55 @@
     "hands_placed": [],
     "scribe": [],
     "gruppe": false
+  },
+  "122": {
+    "id": 122,
+    "order": "114.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 30,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 420_H. 1"
+      }
+    ],
+    "description": "Korrekturen des Magister Baldo",
+    "hit_id": "hit_hands__122",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 30,
+        "value": "ÖNB, Cod. 420",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-13",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-13",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [
+      {
+        "id": 14,
+        "value": "Magister Baldo",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "gruppe": false
   }
 }

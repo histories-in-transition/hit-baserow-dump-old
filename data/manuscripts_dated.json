@@ -91,8 +91,8 @@
     "note": null,
     "view_label": "hit_dated__4",
     "prev": {
-      "id": "hit_dated__33",
-      "label": "hit_dated__33"
+      "id": "hit_dated__34",
+      "label": "hit_dated__34"
     },
     "next": {
       "id": "hit_dated__5",
@@ -1567,6 +1567,56 @@
     "prev": {
       "id": "hit_dated__32",
       "label": "hit_dated__32"
+    },
+    "next": {
+      "id": "hit_dated__34",
+      "label": "hit_dated__34"
+    }
+  },
+  "34": {
+    "id": 34,
+    "hit_id": "hit_dated__34",
+    "manuscript": [
+      {
+        "id": 31,
+        "value": "Saint-Omer, ms. 706"
+      }
+    ],
+    "date": [
+      {
+        "id": 60,
+        "label": "986-1007",
+        "not_before": "0986-01-01",
+        "hit_id": "hit_date__60",
+        "not_after": null,
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-15"
+      }
+    ],
+    "authority": [
+      {
+        "id": 14,
+        "name": "Pürstinger",
+        "short_title": "Masterarbeit bzw. Publikation",
+        "zotero_id": "",
+        "hit_id": "hit_bibl__14"
+      }
+    ],
+    "page": "58-62",
+    "preferred_date": true,
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-15T13:57:28.111748Z",
+    "note": "",
+    "view_label": "hit_dated__34",
+    "prev": {
+      "id": "hit_dated__33",
+      "label": "hit_dated__33"
     },
     "next": {
       "id": "hit_dated__4",

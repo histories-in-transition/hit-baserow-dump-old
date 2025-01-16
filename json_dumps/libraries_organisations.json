@@ -241,5 +241,59 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-24"
+  },
+  "11": {
+    "id": 11,
+    "order": "10.00000000000000000000",
+    "label": "Saint-Omer",
+    "hit_id": "hit_org__11",
+    "gnd_url": "https://d-nb.info/gnd/411822-4",
+    "library_full": "Saint-Omer, Bibliothèque d'agglomération de Saint-Omer",
+    "library_website": "https://www.bibliotheque-agglo-stomer.fr/BibliothequeagglomerationsSaintOmer",
+    "settlement": [
+      {
+        "id": 20,
+        "value": "Saint-Omer",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/wiki/Q61931287",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-15"
+  },
+  "12": {
+    "id": 12,
+    "order": "11.00000000000000000000",
+    "label": "Abbaye Saint-Bertin",
+    "hit_id": "hit_org__12",
+    "gnd_url": "https://d-nb.info/gnd/4309440-5",
+    "library_full": "Abbaye Saint-Bertin",
+    "library_website": "",
+    "settlement": [
+      {
+        "id": 20,
+        "value": "Saint-Omer",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "wikidata": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-15"
   }
 }

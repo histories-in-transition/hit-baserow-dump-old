@@ -1776,7 +1776,6 @@
         "quires_number": null,
         "heigth": null,
         "lines_number": null,
-        "description": null,
         "decorations": false,
         "codicological reworking": [],
         "basic structure": [],
@@ -2138,7 +2137,6 @@
         "quires_number": null,
         "heigth": null,
         "lines_number": null,
-        "description": null,
         "decorations": false,
         "codicological reworking": [],
         "basic structure": [],
@@ -2587,7 +2585,6 @@
         "quires_number": null,
         "heigth": null,
         "lines_number": null,
-        "description": null,
         "decorations": false,
         "codicological reworking": [],
         "basic structure": [],
@@ -2637,7 +2634,6 @@
         "quires_number": null,
         "heigth": null,
         "lines_number": null,
-        "description": null,
         "decorations": false,
         "codicological reworking": [],
         "basic structure": [],
@@ -4124,7 +4120,6 @@
         "quires_number": null,
         "heigth": null,
         "lines_number": null,
-        "description": null,
         "decorations": false,
         "codicological reworking": [],
         "basic structure": [],
@@ -4689,15 +4684,14 @@
           }
         ],
         "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
+          "id": 87,
+          "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-07-11",
+        "Last modified": "2025-01-15",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
         "lines_number": null,
-        "description": null,
         "decorations": false,
         "codicological reworking": [],
         "basic structure": [],
@@ -4862,15 +4856,14 @@
           }
         ],
         "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
+          "id": 87,
+          "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-12-27",
+        "Last modified": "2025-01-15",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
         "lines_number": null,
-        "description": null,
         "decorations": false,
         "codicological reworking": [],
         "basic structure": [],
@@ -5059,8 +5052,8 @@
     "status": [],
     "view_label": "BSB, Clm. 210",
     "prev": {
-      "id": "hit_manuscript__30",
-      "label": "ÖNB, Cod. 420"
+      "id": "hit_manuscript__31",
+      "label": "Saint-Omer, ms. 706"
     },
     "next": {
       "id": "hit_manuscript__5",
@@ -5127,7 +5120,6 @@
         "quires_number": null,
         "heigth": null,
         "lines_number": null,
-        "description": null,
         "decorations": false,
         "codicological reworking": [],
         "basic structure": [],
@@ -5396,9 +5388,15 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-01-09",
+    "Last modified": "2025-01-15",
     "content_summary": "Martinellus, Geschichtliche Texte, Hagiographische Texte, Lyrik",
-    "charakter": [],
+    "charakter": [
+      {
+        "id": 17439,
+        "value": "Kompendium",
+        "color": "green"
+      }
+    ],
     "case_study": [
       {
         "id": 17441,
@@ -6779,7 +6777,6 @@
         "quires_number": "1-17",
         "heigth": "195",
         "lines_number": "17",
-        "description": null,
         "decorations": false,
         "codicological reworking": [],
         "basic structure": [],
@@ -8585,7 +8582,6 @@
         "quires_number": "1-19",
         "heigth": "255",
         "lines_number": "23",
-        "description": null,
         "decorations": false,
         "codicological reworking": [],
         "basic structure": [],
@@ -8888,7 +8884,6 @@
         "quires_number": "1-13",
         "heigth": "285",
         "lines_number": "35",
-        "description": null,
         "decorations": false,
         "codicological reworking": [],
         "basic structure": [],
@@ -9244,7 +9239,6 @@
         "quires_number": "1-29",
         "heigth": "325",
         "lines_number": "27",
-        "description": null,
         "decorations": false,
         "codicological reworking": [],
         "basic structure": [],
@@ -9649,12 +9643,11 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2025-01-09",
+        "Last modified": "2025-01-15",
         "orig_date": [],
         "quires_number": "1-35",
         "heigth": "280",
-        "lines_number": "20/21 (ab 4ⱽund  bis 131ʳ); 28 (bis 4ⱽund ab 131ʳ)",
-        "description": null,
+        "lines_number": "20-21 (ab 4ⱽund  bis 131ʳ); 28 (bis 4ⱽund ab 131ʳ)",
         "decorations": false,
         "codicological reworking": [],
         "basic structure": [],
@@ -10008,7 +10001,6 @@
         "quires_number": "1-6",
         "heigth": "240",
         "lines_number": "21",
-        "description": null,
         "decorations": false,
         "codicological reworking": [],
         "basic structure": [],
@@ -10092,7 +10084,6 @@
         "quires_number": "7-16",
         "heigth": "240",
         "lines_number": "29",
-        "description": null,
         "decorations": false,
         "codicological reworking": [],
         "basic structure": [],
@@ -10427,7 +10418,6 @@
         "quires_number": "1-19",
         "heigth": "260",
         "lines_number": "31-38",
-        "description": null,
         "decorations": false,
         "codicological reworking": [],
         "basic structure": [],
@@ -10757,7 +10747,6 @@
         "quires_number": "1-2",
         "heigth": "250",
         "lines_number": "25-30",
-        "description": null,
         "decorations": false,
         "codicological reworking": [],
         "basic structure": [],
@@ -10835,7 +10824,6 @@
         "quires_number": "3-12",
         "heigth": "250",
         "lines_number": "22",
-        "description": null,
         "decorations": false,
         "codicological reworking": [],
         "basic structure": [],
@@ -10913,7 +10901,6 @@
         "quires_number": "13-26",
         "heigth": "250",
         "lines_number": "25-30",
-        "description": null,
         "decorations": false,
         "codicological reworking": [],
         "basic structure": [],
@@ -11215,7 +11202,6 @@
         "quires_number": "1-26",
         "heigth": "190",
         "lines_number": "18",
-        "description": null,
         "decorations": false,
         "codicological reworking": [],
         "basic structure": [],
@@ -11518,7 +11504,6 @@
         "quires_number": "1-7",
         "heigth": "180",
         "lines_number": "22-24",
-        "description": null,
         "decorations": false,
         "codicological reworking": [],
         "basic structure": [],
@@ -11826,7 +11811,6 @@
         "quires_number": "1-26",
         "heigth": "165-170",
         "lines_number": "16-20",
-        "description": null,
         "decorations": false,
         "codicological reworking": [],
         "basic structure": [],
@@ -12182,7 +12166,6 @@
         "quires_number": "1-27",
         "heigth": "330",
         "lines_number": "31",
-        "description": null,
         "decorations": false,
         "codicological reworking": [],
         "basic structure": [],
@@ -12538,7 +12521,6 @@
         "quires_number": null,
         "heigth": "205",
         "lines_number": "18",
-        "description": null,
         "decorations": false,
         "codicological reworking": [],
         "basic structure": [],
@@ -12992,7 +12974,6 @@
         "quires_number": null,
         "heigth": "250",
         "lines_number": "25",
-        "description": null,
         "decorations": true,
         "codicological reworking": [],
         "basic structure": [],
@@ -13076,7 +13057,6 @@
         "quires_number": null,
         "heigth": "250",
         "lines_number": "28",
-        "description": null,
         "decorations": false,
         "codicological reworking": [],
         "basic structure": [],
@@ -13564,7 +13544,35 @@
     "height": null,
     "width": null,
     "material_spec": "",
-    "orig_place": [],
+    "orig_place": [
+      {
+        "id": 4,
+        "name": "Freising",
+        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+        "hit_id": "hit_place__4",
+        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+        "country": [
+          {
+            "id": 2,
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
     "catchwords": "",
     "quiremarks": "",
     "material": null,
@@ -13575,7 +13583,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-13",
+    "Last modified": "2025-01-15",
     "content_summary": "",
     "charakter": [],
     "case_study": [],
@@ -13659,7 +13667,35 @@
     "height": null,
     "width": null,
     "material_spec": "",
-    "orig_place": [],
+    "orig_place": [
+      {
+        "id": 4,
+        "name": "Freising",
+        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+        "hit_id": "hit_place__4",
+        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+        "country": [
+          {
+            "id": 2,
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
     "catchwords": "",
     "quiremarks": "",
     "material": null,
@@ -13670,7 +13706,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-13",
+    "Last modified": "2025-01-15",
     "content_summary": "",
     "charakter": [],
     "case_study": [],
@@ -13786,6 +13822,230 @@
     "prev": {
       "id": "hit_manuscript__29",
       "label": "BSB, Clm 6279"
+    },
+    "next": {
+      "id": "hit_manuscript__31",
+      "label": "Saint-Omer, ms. 706"
+    },
+    "related__cod_units": []
+  },
+  "31": {
+    "id": 31,
+    "shelfmark": [
+      {
+        "id": 11,
+        "value": "Saint-Omer, ms. 706"
+      }
+    ],
+    "hit_id": "hit_manuscript__31",
+    "library": [
+      {
+        "id": 11,
+        "value": "Saint-Omer"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "ms. 706",
+    "idno_former": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 11,
+        "label": "Saint-Omer",
+        "hit_id": "hit_org__11",
+        "gnd_url": "https://d-nb.info/gnd/411822-4",
+        "library_full": "Saint-Omer, Bibliothèque d'agglomération de Saint-Omer",
+        "library_website": "https://www.bibliotheque-agglo-stomer.fr/BibliothequeagglomerationsSaintOmer",
+        "settlement": [
+          {
+            "id": 20,
+            "name": "Saint-Omer",
+            "geonames_url": "https://www.geonames.org/6618320/saint-omer.html",
+            "hit_id": "hit_place__20",
+            "wikidata_url": "https://www.wikidata.org/wiki/Q208793",
+            "country": [
+              {
+                "id": 14,
+                "value": "Frankreich"
+              }
+            ],
+            "Last modified by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Last modified": "2025-01-15"
+          }
+        ],
+        "wikidata": "https://www.wikidata.org/wiki/Q61931287",
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-15"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "history": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material_spec": "",
+    "orig_place": [
+      {
+        "id": 21,
+        "name": "Saint-Bertin",
+        "geonames_url": "https://www.geonames.org/12470210/abbaye-saint-bertin.html",
+        "hit_id": "hit_place__21",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q334144",
+        "country": [
+          {
+            "id": 14,
+            "name": "Frankreich",
+            "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+            "hit_id": "hit_place__14",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-15"
+      }
+    ],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": {
+      "id": 14782,
+      "value": "parchment",
+      "color": "darker-orange"
+    },
+    "provenance": [
+      {
+        "id": 12,
+        "label": "Abbaye Saint-Bertin",
+        "hit_id": "hit_org__12",
+        "gnd_url": "https://d-nb.info/gnd/4309440-5",
+        "library_full": "Abbaye Saint-Bertin",
+        "library_website": "",
+        "settlement": [
+          {
+            "id": 20,
+            "name": "Saint-Omer",
+            "geonames_url": "https://www.geonames.org/6618320/saint-omer.html",
+            "hit_id": "hit_place__20",
+            "wikidata_url": "https://www.wikidata.org/wiki/Q208793",
+            "country": [
+              {
+                "id": 14,
+                "value": "Frankreich"
+              }
+            ],
+            "Last modified by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Last modified": "2025-01-15"
+          }
+        ],
+        "wikidata": "",
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-15"
+      }
+    ],
+    "manuscripts_dated": [
+      {
+        "id": 34,
+        "hit_id": "hit_dated__34",
+        "manuscript": [
+          {
+            "id": 31,
+            "value": "Saint-Omer, ms. 706"
+          }
+        ],
+        "date": [
+          {
+            "id": 60,
+            "label": "986-1007",
+            "not_before": "0986-01-01",
+            "hit_id": "hit_date__60",
+            "not_after": null,
+            "Last modified by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Last modified": "2025-01-15"
+          }
+        ],
+        "authority": [
+          {
+            "id": 14,
+            "name": "Pürstinger",
+            "short_title": "Masterarbeit bzw. Publikation",
+            "zotero_id": "",
+            "hit_id": "hit_bibl__14"
+          }
+        ],
+        "page": "58-62",
+        "preferred_date": true,
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-15T13:57:28.111748Z",
+        "note": ""
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 60,
+          "database_table_3516": 34
+        },
+        "value": "986-1007"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-15",
+    "content_summary": "",
+    "charakter": [],
+    "case_study": [
+      {
+        "id": 18149,
+        "value": "Gregory of Tours",
+        "color": "darker-brown"
+      }
+    ],
+    "status": [
+      {
+        "id": 17449,
+        "value": "in Bearbeitung",
+        "color": "light-brown"
+      }
+    ],
+    "view_label": "Saint-Omer, ms. 706",
+    "prev": {
+      "id": "hit_manuscript__30",
+      "label": "ÖNB, Cod. 420"
     },
     "next": {
       "id": "hit_manuscript__4",

@@ -39,8 +39,8 @@
       "label": "Regensburg"
     },
     "next": {
-      "id": "hit_place__3",
-      "label": "Salzburg"
+      "id": "hit_place__20",
+      "label": "Saint-Omer"
     }
   },
   "13": {
@@ -115,8 +115,8 @@
     "Last modified": "2024-07-11",
     "view_label": "Salzburg",
     "prev": {
-      "id": "hit_place__2",
-      "label": "Deutschland"
+      "id": "hit_place__21",
+      "label": "Saint-Bertin"
     },
     "next": {
       "id": "hit_place__4",
@@ -625,6 +625,78 @@
     "next": {
       "id": "hit_place__2",
       "label": "Deutschland"
+    }
+  },
+  "20": {
+    "id": 20,
+    "name": "Saint-Omer",
+    "geonames_url": "https://www.geonames.org/6618320/saint-omer.html",
+    "hit_id": "hit_place__20",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q208793",
+    "country": [
+      {
+        "id": 14,
+        "name": "Frankreich",
+        "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+        "hit_id": "hit_place__14",
+        "wikidata_url": "",
+        "country": [],
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-15",
+    "view_label": "Saint-Omer",
+    "prev": {
+      "id": "hit_place__2",
+      "label": "Deutschland"
+    },
+    "next": {
+      "id": "hit_place__21",
+      "label": "Saint-Bertin"
+    }
+  },
+  "21": {
+    "id": 21,
+    "name": "Saint-Bertin",
+    "geonames_url": "https://www.geonames.org/12470210/abbaye-saint-bertin.html",
+    "hit_id": "hit_place__21",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q334144",
+    "country": [
+      {
+        "id": 14,
+        "name": "Frankreich",
+        "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+        "hit_id": "hit_place__14",
+        "wikidata_url": "",
+        "country": [],
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-15",
+    "view_label": "Saint-Bertin",
+    "prev": {
+      "id": "hit_place__20",
+      "label": "Saint-Omer"
+    },
+    "next": {
+      "id": "hit_place__3",
+      "label": "Salzburg"
     }
   }
 }

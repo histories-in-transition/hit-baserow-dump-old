@@ -801,9 +801,15 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-13",
-    "Last modified": "2025-01-09",
+    "Last modified": "2025-01-15",
     "content_summary": "Martinellus, Geschichtliche Texte, Hagiographische Texte, Lyrik",
-    "charakter": [],
+    "charakter": [
+      {
+        "id": 17439,
+        "value": "Kompendium",
+        "color": "green"
+      }
+    ],
     "case_study": [
       {
         "id": 17441,
@@ -2540,7 +2546,13 @@
     "height": null,
     "width": null,
     "material_spec": "",
-    "orig_place": [],
+    "orig_place": [
+      {
+        "id": 4,
+        "value": "Freising",
+        "order": "4.00000000000000000000"
+      }
+    ],
     "catchwords": "",
     "quiremarks": "",
     "material": null,
@@ -2556,7 +2568,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-12-13",
-    "Last modified": "2024-12-13",
+    "Last modified": "2025-01-15",
     "content_summary": "",
     "charakter": [],
     "case_study": [],
@@ -2602,7 +2614,13 @@
     "height": null,
     "width": null,
     "material_spec": "",
-    "orig_place": [],
+    "orig_place": [
+      {
+        "id": 4,
+        "value": "Freising",
+        "order": "4.00000000000000000000"
+      }
+    ],
     "catchwords": "",
     "quiremarks": "",
     "material": null,
@@ -2618,7 +2636,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-12-13",
-    "Last modified": "2024-12-13",
+    "Last modified": "2025-01-15",
     "content_summary": "",
     "charakter": [],
     "case_study": [],
@@ -2688,6 +2706,110 @@
         "id": 17442,
         "value": "Salzburg",
         "color": "purple"
+      }
+    ],
+    "status": [
+      {
+        "id": 17449,
+        "value": "in Bearbeitung",
+        "color": "light-brown"
+      }
+    ]
+  },
+  "31": {
+    "id": 31,
+    "order": "24.00000000000000000000",
+    "shelfmark": [
+      {
+        "id": 11,
+        "value": "Saint-Omer, ms. 706"
+      }
+    ],
+    "hit_id": "hit_manuscript__31",
+    "library": [
+      {
+        "id": 11,
+        "value": "Saint-Omer",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "ms. 706",
+    "idno_former": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 11,
+        "value": "Saint-Omer, Bibliothèque d'agglomération de Saint-Omer"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "history": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material_spec": "",
+    "orig_place": [
+      {
+        "id": 21,
+        "value": "Saint-Bertin",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": {
+      "id": 14782,
+      "value": "parchment",
+      "color": "darker-orange"
+    },
+    "provenance": [
+      {
+        "id": 12,
+        "value": "Abbaye Saint-Bertin",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "manuscripts_dated": [
+      {
+        "id": 34,
+        "value": "hit_dated__34",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 60,
+          "database_table_3516": 34
+        },
+        "value": "986-1007"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-15",
+    "Last modified": "2025-01-15",
+    "content_summary": "",
+    "charakter": [],
+    "case_study": [
+      {
+        "id": 18149,
+        "value": "Gregory of Tours",
+        "color": "darker-brown"
       }
     ],
     "status": [

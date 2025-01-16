@@ -77,8 +77,8 @@
     "Last modified": "2024-07-11",
     "view_label": "UBWÜ",
     "prev": {
-      "id": "hit_org__10",
-      "label": "Hofbibliothek München"
+      "id": "hit_org__12",
+      "label": "Abbaye Saint-Bertin"
     },
     "next": {
       "id": "hit_org__4",
@@ -380,6 +380,92 @@
     "prev": {
       "id": "hit_org__1",
       "label": "ÖNB"
+    },
+    "next": {
+      "id": "hit_org__11",
+      "label": "Saint-Omer"
+    }
+  },
+  "11": {
+    "id": 11,
+    "label": "Saint-Omer",
+    "hit_id": "hit_org__11",
+    "gnd_url": "https://d-nb.info/gnd/411822-4",
+    "library_full": "Saint-Omer, Bibliothèque d'agglomération de Saint-Omer",
+    "library_website": "https://www.bibliotheque-agglo-stomer.fr/BibliothequeagglomerationsSaintOmer",
+    "settlement": [
+      {
+        "id": 20,
+        "name": "Saint-Omer",
+        "geonames_url": "https://www.geonames.org/6618320/saint-omer.html",
+        "hit_id": "hit_place__20",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q208793",
+        "country": [
+          {
+            "id": 14,
+            "value": "Frankreich"
+          }
+        ],
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-15"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/wiki/Q61931287",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-15",
+    "view_label": "Saint-Omer",
+    "prev": {
+      "id": "hit_org__10",
+      "label": "Hofbibliothek München"
+    },
+    "next": {
+      "id": "hit_org__12",
+      "label": "Abbaye Saint-Bertin"
+    }
+  },
+  "12": {
+    "id": 12,
+    "label": "Abbaye Saint-Bertin",
+    "hit_id": "hit_org__12",
+    "gnd_url": "https://d-nb.info/gnd/4309440-5",
+    "library_full": "Abbaye Saint-Bertin",
+    "library_website": "",
+    "settlement": [
+      {
+        "id": 20,
+        "name": "Saint-Omer",
+        "geonames_url": "https://www.geonames.org/6618320/saint-omer.html",
+        "hit_id": "hit_place__20",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q208793",
+        "country": [
+          {
+            "id": 14,
+            "value": "Frankreich"
+          }
+        ],
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-15"
+      }
+    ],
+    "wikidata": "",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-15",
+    "view_label": "Abbaye Saint-Bertin",
+    "prev": {
+      "id": "hit_org__11",
+      "label": "Saint-Omer"
     },
     "next": {
       "id": "hit_org__2",

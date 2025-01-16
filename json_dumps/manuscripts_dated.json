@@ -1217,5 +1217,44 @@
     },
     "Last modified": "2024-09-20T09:26:24.068100Z",
     "note": ""
+  },
+  "34": {
+    "id": 34,
+    "order": "31.00000000000000000000",
+    "hit_id": "hit_dated__34",
+    "manuscript": [
+      {
+        "id": 31,
+        "value": "Saint-Omer, ms. 706",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "date": [
+      {
+        "id": 60,
+        "value": "986-1007",
+        "order": "60.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 14,
+        "value": "Pürstinger",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "page": "58-62",
+    "preferred_date": true,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-15T13:57:28.111748Z",
+    "note": ""
   }
 }

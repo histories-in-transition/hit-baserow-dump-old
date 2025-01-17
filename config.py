@@ -192,13 +192,13 @@ MODEL_CONFIG = [
                 "source_file": "ms_items",
                 "lookup_field": "cod_unit",
             },
+             {
+                "source_file": "cod_unit_placed",
+                "lookup_field": "cod_unit",
+            },
         ],
         "fields": [
-            {
-                "field_name": "prov_place",
-                "seed_file": [DATA_FOLDER, "places.json"],
-                "source_file": [JSON_FOLDER, "cod_units.json"],
-            },
+           
             {
                 "field_name": "quire",
                 "seed_file": [JSON_FOLDER, "quires.json"],

@@ -7084,7 +7084,7 @@
         "value": "BSB, Clm. 6380_H. 1"
       }
     ],
-    "description": "\"Eine Gruppe der rasch wechselnden Hände\"; \"Bayerische Minuskel der Generation Willihalm\"; konservativ, ohne Sorgfalt (Daniel, 48). Zu den gemeinen Eigenschaften gehören Ligaturen ct, st, rt; gespitzte v; Ligatur us am Ende; manchmal rundes d. Kleine gerade stehende Buchstaben.",
+    "description": "\"Eine Gruppe der rasch wechselnden Hände\"; \"Bayerische Minuskel der Generation Willihalm\"; konservativ, ohne Sorgfalt (Daniel, 48). Zu den gemeinen Eigenschaften gehören Ligaturen ct, st, rt; gespitzte v; Ligatur us am Ende; manchmal rundes d. Kleine gerade stehende Buchstaben. Eine Hand (25r-33v, 40r, 41r-43v, 46r-48v) fällt aus der Umgebung aus. Sie ist durch aufrechte Haltung und quadratischen Aufriß der Buchstaben in mittlerer\n\nHöhe nah zu italienischen Schriften, vor allem auch dadurch,\n\ndaß alle Kanten abgerundet werden. Die Oberlängen sind\n\noft knöpfchen- oder schlingenartig gebildet. Die Einzelformen,\n\ndie Ligaturen und die Kürzungen haben aber nichts Italienisches; es wurde eine harte Feder mit stumpfer\n\nSpitze benutzt, italienische Schreiber bevorzugen dagegen für gewöhnlich\n\nweiche und scharf geschnittene Federn. \"Die Hand\n\nwirkt hier sehr konservativ\" (Daniel); Italienischer Einfluss umstritten.",
     "hit_id": "hit_hands__83",
     "similar_hands": [],
     "nr_daniel": "48",
@@ -7106,7 +7106,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-23",
+    "Last modified": "2025-01-17",
     "hands_role": [
       {
         "id": 125,
@@ -7170,795 +7170,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "gruppe": false
-  },
-  "84": {
-    "id": 84,
-    "order": "76.00000000000000000000",
-    "label": [
-      {
-        "ids": {
-          "database_table_3487": 7,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6380_H. 2"
-      }
-    ],
-    "description": "\"Eine Gruppe der rasch wechselnden Hände\"; \"Bayerische Minuskel der Generation Willihalm\"; konservativ, ohne Sorgfalt (Daniel, 48). Zu den gemeinen Eigenschaften gehören Ligaturen ct, st, rt; gespitzte v; Ligatur us am Ende; manchmal rundes d. Kleine gerade stehende Buchstaben.\\\nDie Hand überscheidet sich von den anderen durch Ansätze, die sie \n\ndurch breite, dreieckige Schlingen bildet ähnlich der Hand\n\n33r ff.",
-    "hit_id": "hit_hands__84",
-    "similar_hands": [],
-    "nr_daniel": "48",
-    "manuscript": [
-      {
-        "id": 7,
-        "value": "BSB, Clm. 6380",
-        "order": "6.00000000000000000000"
-      }
-    ],
-    "number": "2",
-    "note": "",
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-09-01",
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-10-23",
-    "hands_role": [
-      {
-        "id": 128,
-        "value": "hit_hands_role__128",
-        "order": "114.00000000000000000000"
-      }
-    ],
-    "role": [
-      {
-        "id": 128,
-        "value": [
-          {
-            "id": 14758,
-            "value": "Schreiber",
-            "color": "darker-red"
-          }
-        ]
-      }
-    ],
-    "texts": [
-      {
-        "ids": {
-          "database_table_3489": 3,
-          "database_table_3491": 31
-        },
-        "value": "Historiae adversus paganos"
-      }
-    ],
-    "hands_dated": [
-      {
-        "id": 75,
-        "value": "hit_hands_dated__75",
-        "order": "75.00000000000000000000"
-      }
-    ],
-    "dating": [
-      {
-        "ids": {
-          "database_table_3512": 3,
-          "database_table_3520": 75
-        },
-        "value": "9 Jh., Mitte"
-      }
-    ],
-    "hands_placed": [
-      {
-        "id": 20,
-        "value": "hit_hands_placed__20",
-        "order": "20.00000000000000000000"
-      },
-      {
-        "id": 26,
-        "value": "hit_hands_placed__26",
-        "order": "26.00000000000000000000"
-      }
-    ],
-    "scribe": [
-      {
-        "id": 1,
-        "value": "Willihalms bayerische Schüler",
-        "order": "1.00000000000000000000"
-      }
-    ],
-    "gruppe": false
-  },
-  "85": {
-    "id": 85,
-    "order": "77.00000000000000000000",
-    "label": [
-      {
-        "ids": {
-          "database_table_3487": 7,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6380_H. 3"
-      }
-    ],
-    "description": "\"Eine Gruppe der rasch wechselnden Hände\"; \"Bayerische Minuskel der Generation Willihalm\"; konservativ, ohne Sorgfalt (Daniel, 48). Zu den gemeinen Eigenschaften gehören Ligaturen ct, st, rt; gespitzte v; Ligatur us am Ende; manchmal rundes d. Kleine gerade stehende Buchstaben.",
-    "hit_id": "hit_hands__85",
-    "similar_hands": [],
-    "nr_daniel": "48",
-    "manuscript": [
-      {
-        "id": 7,
-        "value": "BSB, Clm. 6380",
-        "order": "6.00000000000000000000"
-      }
-    ],
-    "number": "3",
-    "note": "",
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-09-02",
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-10-23",
-    "hands_role": [
-      {
-        "id": 131,
-        "value": "hit_hands_role__131",
-        "order": "117.00000000000000000000"
-      }
-    ],
-    "role": [
-      {
-        "id": 131,
-        "value": [
-          {
-            "id": 14758,
-            "value": "Schreiber",
-            "color": "darker-red"
-          }
-        ]
-      }
-    ],
-    "texts": [
-      {
-        "ids": {
-          "database_table_3489": 3,
-          "database_table_3491": 31
-        },
-        "value": "Historiae adversus paganos"
-      }
-    ],
-    "hands_dated": [
-      {
-        "id": 76,
-        "value": "hit_hands_dated__76",
-        "order": "76.00000000000000000000"
-      }
-    ],
-    "dating": [
-      {
-        "ids": {
-          "database_table_3512": 3,
-          "database_table_3520": 76
-        },
-        "value": "9 Jh., Mitte"
-      }
-    ],
-    "hands_placed": [
-      {
-        "id": 20,
-        "value": "hit_hands_placed__20",
-        "order": "20.00000000000000000000"
-      },
-      {
-        "id": 26,
-        "value": "hit_hands_placed__26",
-        "order": "26.00000000000000000000"
-      }
-    ],
-    "scribe": [
-      {
-        "id": 1,
-        "value": "Willihalms bayerische Schüler",
-        "order": "1.00000000000000000000"
-      }
-    ],
-    "gruppe": false
-  },
-  "86": {
-    "id": 86,
-    "order": "78.00000000000000000000",
-    "label": [
-      {
-        "ids": {
-          "database_table_3487": 7,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6380_H. 4"
-      }
-    ],
-    "description": "Die Hand fällt aus der Umgebung aus. Sie ist durch aufrechte Haltung und quadratischen Aufriß der Buchstaben in mittlerer\n\nHöhe nah zu italienischen Schriften, vor allem auch dadurch,\n\ndaß alle Kanten abgerundet werden. Die Oberlängen sind\n\noft knöpfchen- oder schlingenartig gebildet. Die Einzelformen,\n\ndie Ligaturen und die Kürzungen haben aber nichts Italienisches; es wurde eine harte Feder mit stumpfer\n\nSpitze benutzt, italienische Schreiber bevorzugen dagegen für gewöhnlich\n\nweiche und scharf geschnittene Federn. \"Die Hand\n\nwirkt hier sehr konservativ\" (Daniel); Italienischer Einfluss umstritten.",
-    "hit_id": "hit_hands__86",
-    "similar_hands": [],
-    "nr_daniel": "48",
-    "manuscript": [
-      {
-        "id": 7,
-        "value": "BSB, Clm. 6380",
-        "order": "6.00000000000000000000"
-      }
-    ],
-    "number": "4",
-    "note": "",
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-09-02",
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-11-06",
-    "hands_role": [
-      {
-        "id": 132,
-        "value": "hit_hands_role__132",
-        "order": "118.00000000000000000000"
-      }
-    ],
-    "role": [
-      {
-        "id": 132,
-        "value": [
-          {
-            "id": 14758,
-            "value": "Schreiber",
-            "color": "darker-red"
-          }
-        ]
-      }
-    ],
-    "texts": [
-      {
-        "ids": {
-          "database_table_3489": 3,
-          "database_table_3491": 31
-        },
-        "value": "Historiae adversus paganos"
-      }
-    ],
-    "hands_dated": [
-      {
-        "id": 77,
-        "value": "hit_hands_dated__77",
-        "order": "77.00000000000000000000"
-      }
-    ],
-    "dating": [
-      {
-        "ids": {
-          "database_table_3512": 3,
-          "database_table_3520": 77
-        },
-        "value": "9 Jh., Mitte"
-      }
-    ],
-    "hands_placed": [
-      {
-        "id": 20,
-        "value": "hit_hands_placed__20",
-        "order": "20.00000000000000000000"
-      },
-      {
-        "id": 26,
-        "value": "hit_hands_placed__26",
-        "order": "26.00000000000000000000"
-      }
-    ],
-    "scribe": [
-      {
-        "id": 1,
-        "value": "Willihalms bayerische Schüler",
-        "order": "1.00000000000000000000"
-      }
-    ],
-    "gruppe": false
-  },
-  "87": {
-    "id": 87,
-    "order": "79.00000000000000000000",
-    "label": [
-      {
-        "ids": {
-          "database_table_3487": 7,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6380_H. 5"
-      }
-    ],
-    "description": "\"Eine Gruppe der rasch wechselnden Hände\"; \"Bayerische Minuskel der Generation Willihalm\"; konservativ, ohne Sorgfalt (Daniel, 48). Zu den gemeinen Eigenschaften gehören Ligaturen ct, st, rt; gespitzte v; Ligatur us am Ende; manchmal rundes d. Kleine gerade stehende Buchstaben. \\\nDie Eigenschaften der Hand:\n\nOberlängen in dreieckigen Schlingen von unten an geführt, \n\naber 33v oben, 35r oben, 38v mit ästchenartigen Quer- und\n\nAnstrichen\" (Daniel)",
-    "hit_id": "hit_hands__87",
-    "similar_hands": [],
-    "nr_daniel": "48",
-    "manuscript": [
-      {
-        "id": 7,
-        "value": "BSB, Clm. 6380",
-        "order": "6.00000000000000000000"
-      }
-    ],
-    "number": "5",
-    "note": "",
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-09-02",
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-10-23",
-    "hands_role": [
-      {
-        "id": 133,
-        "value": "hit_hands_role__133",
-        "order": "119.00000000000000000000"
-      }
-    ],
-    "role": [
-      {
-        "id": 133,
-        "value": [
-          {
-            "id": 14758,
-            "value": "Schreiber",
-            "color": "darker-red"
-          }
-        ]
-      }
-    ],
-    "texts": [
-      {
-        "ids": {
-          "database_table_3489": 3,
-          "database_table_3491": 31
-        },
-        "value": "Historiae adversus paganos"
-      }
-    ],
-    "hands_dated": [
-      {
-        "id": 78,
-        "value": "hit_hands_dated__78",
-        "order": "78.00000000000000000000"
-      }
-    ],
-    "dating": [
-      {
-        "ids": {
-          "database_table_3512": 3,
-          "database_table_3520": 78
-        },
-        "value": "9 Jh., Mitte"
-      }
-    ],
-    "hands_placed": [
-      {
-        "id": 20,
-        "value": "hit_hands_placed__20",
-        "order": "20.00000000000000000000"
-      },
-      {
-        "id": 26,
-        "value": "hit_hands_placed__26",
-        "order": "26.00000000000000000000"
-      }
-    ],
-    "scribe": [
-      {
-        "id": 1,
-        "value": "Willihalms bayerische Schüler",
-        "order": "1.00000000000000000000"
-      }
-    ],
-    "gruppe": false
-  },
-  "88": {
-    "id": 88,
-    "order": "80.00000000000000000000",
-    "label": [
-      {
-        "ids": {
-          "database_table_3487": 7,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6380_H. 6"
-      }
-    ],
-    "description": "\"Eine Gruppe der rasch wechselnden Hände\"; \"Bayerische Minuskel der Generation Willihalm\"; konservativ, ohne Sorgfalt (Daniel, 48). Zu den gemeinen Eigenschaften gehören Ligaturen ct, st, rt; gespitzte v; Ligatur us am Ende; manchmal rundes d. Kleine gerade stehende Buchstaben.",
-    "hit_id": "hit_hands__88",
-    "similar_hands": [],
-    "nr_daniel": "48",
-    "manuscript": [
-      {
-        "id": 7,
-        "value": "BSB, Clm. 6380",
-        "order": "6.00000000000000000000"
-      }
-    ],
-    "number": "6",
-    "note": "",
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-09-02",
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-10-23",
-    "hands_role": [
-      {
-        "id": 134,
-        "value": "hit_hands_role__134",
-        "order": "120.00000000000000000000"
-      }
-    ],
-    "role": [
-      {
-        "id": 134,
-        "value": [
-          {
-            "id": 14758,
-            "value": "Schreiber",
-            "color": "darker-red"
-          }
-        ]
-      }
-    ],
-    "texts": [
-      {
-        "ids": {
-          "database_table_3489": 3,
-          "database_table_3491": 31
-        },
-        "value": "Historiae adversus paganos"
-      }
-    ],
-    "hands_dated": [
-      {
-        "id": 79,
-        "value": "hit_hands_dated__79",
-        "order": "79.00000000000000000000"
-      }
-    ],
-    "dating": [
-      {
-        "ids": {
-          "database_table_3512": 3,
-          "database_table_3520": 79
-        },
-        "value": "9 Jh., Mitte"
-      }
-    ],
-    "hands_placed": [
-      {
-        "id": 20,
-        "value": "hit_hands_placed__20",
-        "order": "20.00000000000000000000"
-      },
-      {
-        "id": 26,
-        "value": "hit_hands_placed__26",
-        "order": "26.00000000000000000000"
-      }
-    ],
-    "scribe": [
-      {
-        "id": 1,
-        "value": "Willihalms bayerische Schüler",
-        "order": "1.00000000000000000000"
-      }
-    ],
-    "gruppe": false
-  },
-  "89": {
-    "id": 89,
-    "order": "81.00000000000000000000",
-    "label": [
-      {
-        "ids": {
-          "database_table_3487": 7,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6380_H. 7"
-      }
-    ],
-    "description": "\"Eine Gruppe der rasch wechselnden Hände\"; \"Bayerische Minuskel der Generation Willihalm\"; konservativ, ohne Sorgfalt (Daniel, 48). Zu den gemeinen Eigenschaften gehören Ligaturen ct, st, rt; gespitzte v; Ligatur us am Ende; manchmal rundes d. Kleine gerade stehende Buchstaben.",
-    "hit_id": "hit_hands__89",
-    "similar_hands": [],
-    "nr_daniel": "48",
-    "manuscript": [
-      {
-        "id": 7,
-        "value": "BSB, Clm. 6380",
-        "order": "6.00000000000000000000"
-      }
-    ],
-    "number": "7",
-    "note": "",
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-09-02",
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-10-23",
-    "hands_role": [
-      {
-        "id": 135,
-        "value": "hit_hands_role__135",
-        "order": "121.00000000000000000000"
-      }
-    ],
-    "role": [
-      {
-        "id": 135,
-        "value": [
-          {
-            "id": 14758,
-            "value": "Schreiber",
-            "color": "darker-red"
-          }
-        ]
-      }
-    ],
-    "texts": [
-      {
-        "ids": {
-          "database_table_3489": 3,
-          "database_table_3491": 31
-        },
-        "value": "Historiae adversus paganos"
-      }
-    ],
-    "hands_dated": [
-      {
-        "id": 80,
-        "value": "hit_hands_dated__80",
-        "order": "80.00000000000000000000"
-      }
-    ],
-    "dating": [
-      {
-        "ids": {
-          "database_table_3512": 3,
-          "database_table_3520": 80
-        },
-        "value": "9 Jh., Mitte"
-      }
-    ],
-    "hands_placed": [
-      {
-        "id": 20,
-        "value": "hit_hands_placed__20",
-        "order": "20.00000000000000000000"
-      },
-      {
-        "id": 26,
-        "value": "hit_hands_placed__26",
-        "order": "26.00000000000000000000"
-      }
-    ],
-    "scribe": [
-      {
-        "id": 1,
-        "value": "Willihalms bayerische Schüler",
-        "order": "1.00000000000000000000"
-      }
-    ],
-    "gruppe": false
-  },
-  "90": {
-    "id": 90,
-    "order": "82.00000000000000000000",
-    "label": [
-      {
-        "ids": {
-          "database_table_3487": 7,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6380_H. 8"
-      }
-    ],
-    "description": "\"Eine Gruppe der rasch wechselnden Hände\"; \"Bayerische Minuskel der Generation Willihalm\"; konservativ, ohne Sorgfalt (Daniel, 48). Zu den gemeinen Eigenschaften gehören Ligaturen ct, st, rt; gespitzte v; Ligatur us am Ende; manchmal rundes d. Kleine gerade stehende Buchstaben.",
-    "hit_id": "hit_hands__90",
-    "similar_hands": [],
-    "nr_daniel": "48",
-    "manuscript": [
-      {
-        "id": 7,
-        "value": "BSB, Clm. 6380",
-        "order": "6.00000000000000000000"
-      }
-    ],
-    "number": "8",
-    "note": "",
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-09-02",
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-10-23",
-    "hands_role": [
-      {
-        "id": 138,
-        "value": "hit_hands_role__138",
-        "order": "124.00000000000000000000"
-      },
-      {
-        "id": 146,
-        "value": "hit_hands_role__146",
-        "order": "132.00000000000000000000"
-      }
-    ],
-    "role": [
-      {
-        "id": 138,
-        "value": [
-          {
-            "id": 14758,
-            "value": "Schreiber",
-            "color": "darker-red"
-          }
-        ]
-      },
-      {
-        "id": 146,
-        "value": []
-      }
-    ],
-    "texts": [
-      {
-        "ids": {
-          "database_table_3489": 28,
-          "database_table_3491": 32
-        },
-        "value": "De septem gradibus consanguinitatis"
-      },
-      {
-        "ids": {
-          "database_table_3489": 3,
-          "database_table_3491": 31
-        },
-        "value": "Historiae adversus paganos"
-      }
-    ],
-    "hands_dated": [
-      {
-        "id": 81,
-        "value": "hit_hands_dated__81",
-        "order": "81.00000000000000000000"
-      }
-    ],
-    "dating": [
-      {
-        "ids": {
-          "database_table_3512": 3,
-          "database_table_3520": 81
-        },
-        "value": "9 Jh., Mitte"
-      }
-    ],
-    "hands_placed": [
-      {
-        "id": 20,
-        "value": "hit_hands_placed__20",
-        "order": "20.00000000000000000000"
-      },
-      {
-        "id": 26,
-        "value": "hit_hands_placed__26",
-        "order": "26.00000000000000000000"
-      }
-    ],
-    "scribe": [
-      {
-        "id": 1,
-        "value": "Willihalms bayerische Schüler",
-        "order": "1.00000000000000000000"
-      }
-    ],
-    "gruppe": false
-  },
-  "91": {
-    "id": 91,
-    "order": "83.00000000000000000000",
-    "label": [
-      {
-        "ids": {
-          "database_table_3487": 7,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6380_H. 9"
-      }
-    ],
-    "description": "\"Eine Gruppe der rasch wechselnden Hände\"; \"Bayerische Minuskel der Generation Willihalm\"; konservativ, ohne Sorgfalt (Daniel, 48). Zu den gemeinen Eigenschaften gehören Ligaturen ct, st, rt; gespitzte v; Ligatur us am Ende; manchmal rundes d. Kleine gerade stehende Buchstaben.",
-    "hit_id": "hit_hands__91",
-    "similar_hands": [],
-    "nr_daniel": "48",
-    "manuscript": [
-      {
-        "id": 7,
-        "value": "BSB, Clm. 6380",
-        "order": "6.00000000000000000000"
-      }
-    ],
-    "number": "9",
-    "note": "",
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-09-02",
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-10-23",
-    "hands_role": [
-      {
-        "id": 149,
-        "value": "hit_hands_role__149",
-        "order": "135.00000000000000000000"
-      }
-    ],
-    "role": [
-      {
-        "id": 149,
-        "value": []
-      }
-    ],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [
-      {
-        "id": 20,
-        "value": "hit_hands_placed__20",
-        "order": "20.00000000000000000000"
-      },
-      {
-        "id": 26,
-        "value": "hit_hands_placed__26",
-        "order": "26.00000000000000000000"
-      }
-    ],
-    "scribe": [
-      {
-        "id": 1,
-        "value": "Willihalms bayerische Schüler",
-        "order": "1.00000000000000000000"
-      }
-    ],
-    "gruppe": false
+    "gruppe": true
   },
   "92": {
     "id": 92,
@@ -8289,7 +7501,7 @@
         "value": "BSB, Clm. 6382_H. 1"
       }
     ],
-    "description": "Vorkarolingische Minuskel, u in Form von v am Ende der Zeilen, Q in spezifischer Form von zwei Arken auf einem Basis.",
+    "description": "Vorkarolingische Minuskel, u in Form von v am Ende der Zeilen, Q in spezifischer Form von zwei Arken auf einem Basis. (Daniel)",
     "hit_id": "hit_hands__96",
     "similar_hands": [],
     "nr_daniel": "",
@@ -8311,7 +7523,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-03",
+    "Last modified": "2025-01-17",
     "hands_role": [
       {
         "id": 155,
@@ -8613,7 +7825,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-20",
+    "Last modified": "2025-01-17",
     "hands_role": [
       {
         "id": 126,
@@ -8660,7 +7872,7 @@
       }
     ],
     "scribe": [],
-    "gruppe": false
+    "gruppe": true
   },
   "101": {
     "id": 101,
@@ -8832,21 +8044,12 @@
     "Last modified": "2024-10-23",
     "hands_role": [
       {
-        "id": 137,
-        "value": "hit_hands_role__137",
-        "order": "123.00000000000000000000"
-      },
-      {
         "id": 143,
         "value": "hit_hands_role__143",
         "order": "129.00000000000000000000"
       }
     ],
     "role": [
-      {
-        "id": 137,
-        "value": []
-      },
       {
         "id": 143,
         "value": [
@@ -8859,13 +8062,6 @@
       }
     ],
     "texts": [
-      {
-        "ids": {
-          "database_table_3489": 33,
-          "database_table_3491": 52
-        },
-        "value": "Historia Langobardorum"
-      },
       {
         "ids": {
           "database_table_3489": 33,
@@ -8892,7 +8088,7 @@
         "value": "BSB, Clm. 6391_H. 2"
       }
     ],
-    "description": "bayerische Hand, mittlerer Stil, neigt zu dem Urkundenstil (rundes d, Verkürzung us), viele Ligaturen (darunter us, ct, st, auch miteinander verknüpft), Verkürzungen (g mit einem Strich - gre, pt - post, q mit cc-a - qua etc.), weicher Feder und dünnere Linien als die Hand A",
+    "description": "bayerische Hand, mittlerer Stil, neigt zu dem Urkundenstil (rundes d, Verkürzung us), viele Ligaturen (darunter us, ct, st, auch miteinander verknüpft), Verkürzungen (g mit einem Strich - *gre*, *pt - post*, *q* mit *cc-a* - *qua* etc.), weicher Feder und dünnere Linien als die Hand A",
     "hit_id": "hit_hands__104",
     "similar_hands": [],
     "nr_daniel": "",
@@ -8914,7 +8110,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-19",
+    "Last modified": "2025-01-17",
     "hands_role": [
       {
         "id": 140,
@@ -8944,6 +8140,13 @@
       }
     ],
     "texts": [
+      {
+        "ids": {
+          "database_table_3489": 33,
+          "database_table_3491": 52
+        },
+        "value": "Historia Langobardorum"
+      },
       {
         "ids": {
           "database_table_3489": 33,
@@ -8993,19 +8196,8 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-04",
-    "hands_role": [
-      {
-        "id": 141,
-        "value": "hit_hands_role__141",
-        "order": "127.00000000000000000000"
-      }
-    ],
-    "role": [
-      {
-        "id": 141,
-        "value": []
-      }
-    ],
+    "hands_role": [],
+    "role": [],
     "texts": [],
     "hands_dated": [],
     "dating": [],
@@ -10018,6 +9210,182 @@
         "order": "13.00000000000000000000"
       }
     ],
+    "gruppe": false
+  },
+  "123": {
+    "id": 123,
+    "order": "115.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 31,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 706_H. 1"
+      }
+    ],
+    "description": "",
+    "hit_id": "hit_hands__123",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 31,
+        "value": "Saint-Omer, ms. 706",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-17",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": false
+  },
+  "124": {
+    "id": 124,
+    "order": "116.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 31,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 706_H. 2"
+      }
+    ],
+    "description": "",
+    "hit_id": "hit_hands__124",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 31,
+        "value": "Saint-Omer, ms. 706",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "number": "2",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-17",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": false
+  },
+  "125": {
+    "id": 125,
+    "order": "117.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 31,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 706_H. 3"
+      }
+    ],
+    "description": "",
+    "hit_id": "hit_hands__125",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 31,
+        "value": "Saint-Omer, ms. 706",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "number": "3",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-17",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": false
+  },
+  "126": {
+    "id": 126,
+    "order": "118.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 31,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 706_H. 4"
+      }
+    ],
+    "description": "",
+    "hit_id": "hit_hands__126",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 31,
+        "value": "Saint-Omer, ms. 706",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "number": "4",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-17",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [],
     "gruppe": false
   }
 }

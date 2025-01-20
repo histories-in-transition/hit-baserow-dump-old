@@ -89,7 +89,7 @@
       }
     ],
     "number": "1",
-    "prov_place": [
+    "prov_place_old": [
       {
         "id": 5,
         "value": "Saint-Amand-les-Eaux",
@@ -111,12 +111,40 @@
     "heigth": null,
     "lines_number": null,
     "decorations": false,
-    "codicological reworking": [],
-    "basic structure": [],
+    "codicological_reworking": [],
+    "basic_structure": [],
     "written_width": null,
     "written_height": null,
     "width": null,
-    "columns": []
+    "columns": [],
+    "cod_unit_placed": [
+      {
+        "id": 1,
+        "value": "hit_codunit_place__1",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "hit_codunit_place__2",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 3,
+          "database_table_3840": 2
+        },
+        "value": "Salzburg"
+      },
+      {
+        "ids": {
+          "database_table_3492": 5,
+          "database_table_3840": 1
+        },
+        "value": "Saint-Amand-les-Eaux"
+      }
+    ]
   },
   "5": {
     "id": 5,
@@ -178,7 +206,7 @@
       }
     ],
     "number": "2",
-    "prov_place": [
+    "prov_place_old": [
       {
         "id": 3,
         "value": "Salzburg",
@@ -200,12 +228,28 @@
     "heigth": null,
     "lines_number": null,
     "decorations": false,
-    "codicological reworking": [],
-    "basic structure": [],
+    "codicological_reworking": [],
+    "basic_structure": [],
     "written_width": null,
     "written_height": null,
     "width": null,
-    "columns": []
+    "columns": [],
+    "cod_unit_placed": [
+      {
+        "id": 3,
+        "value": "hit_codunit_place__3",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 3,
+          "database_table_3840": 3
+        },
+        "value": "Salzburg"
+      }
+    ]
   },
   "11": {
     "id": 11,
@@ -237,7 +281,7 @@
       }
     ],
     "number": "3",
-    "prov_place": [
+    "prov_place_old": [
       {
         "id": 5,
         "value": "Saint-Amand-les-Eaux",
@@ -259,12 +303,14 @@
     "heigth": null,
     "lines_number": null,
     "decorations": false,
-    "codicological reworking": [],
-    "basic structure": [],
+    "codicological_reworking": [],
+    "basic_structure": [],
     "written_width": null,
     "written_height": null,
     "width": null,
-    "columns": []
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": []
   },
   "13": {
     "id": 13,
@@ -301,7 +347,7 @@
       }
     ],
     "number": "1",
-    "prov_place": [
+    "prov_place_old": [
       {
         "id": 3,
         "value": "Salzburg",
@@ -323,12 +369,14 @@
     "heigth": null,
     "lines_number": null,
     "decorations": false,
-    "codicological reworking": [],
-    "basic structure": [],
+    "codicological_reworking": [],
+    "basic_structure": [],
     "written_width": null,
     "written_height": null,
     "width": null,
-    "columns": []
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": []
   },
   "12": {
     "id": 12,
@@ -354,7 +402,7 @@
     ],
     "quire": [],
     "number": "2",
-    "prov_place": [],
+    "prov_place_old": [],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -370,12 +418,14 @@
     "heigth": null,
     "lines_number": null,
     "decorations": false,
-    "codicological reworking": [],
-    "basic structure": [],
+    "codicological_reworking": [],
+    "basic_structure": [],
     "written_width": null,
     "written_height": null,
     "width": null,
-    "columns": []
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": []
   },
   "4": {
     "id": 4,
@@ -497,7 +547,7 @@
       }
     ],
     "number": "1",
-    "prov_place": [
+    "prov_place_old": [
       {
         "id": 4,
         "value": "Freising",
@@ -519,8 +569,8 @@
     "heigth": "255",
     "lines_number": "23",
     "decorations": false,
-    "codicological reworking": [],
-    "basic structure": [],
+    "codicological_reworking": [],
+    "basic_structure": [],
     "written_width": "120",
     "written_height": "200",
     "width": "160",
@@ -530,7 +580,9 @@
         "value": "1",
         "color": "darker-gray"
       }
-    ]
+    ],
+    "cod_unit_placed": [],
+    "prov_place": []
   },
   "6": {
     "id": 6,
@@ -556,7 +608,7 @@
     ],
     "quire": [],
     "number": "1",
-    "prov_place": [
+    "prov_place_old": [
       {
         "id": 4,
         "value": "Freising",
@@ -578,12 +630,14 @@
     "heigth": "250",
     "lines_number": "25-30",
     "decorations": false,
-    "codicological reworking": [],
-    "basic structure": [],
+    "codicological_reworking": [],
+    "basic_structure": [],
     "written_width": "133",
     "written_height": "195-215",
     "width": "180",
-    "columns": []
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": []
   },
   "8": {
     "id": 8,
@@ -609,7 +663,7 @@
     ],
     "quire": [],
     "number": "2",
-    "prov_place": [
+    "prov_place_old": [
       {
         "id": 9,
         "value": "Norditalien",
@@ -631,12 +685,14 @@
     "heigth": "250",
     "lines_number": "22",
     "decorations": false,
-    "codicological reworking": [],
-    "basic structure": [],
+    "codicological_reworking": [],
+    "basic_structure": [],
     "written_width": "110-120",
     "written_height": "180",
     "width": "180",
-    "columns": []
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": []
   },
   "9": {
     "id": 9,
@@ -662,7 +718,7 @@
     ],
     "quire": [],
     "number": "3",
-    "prov_place": [
+    "prov_place_old": [
       {
         "id": 4,
         "value": "Freising",
@@ -684,12 +740,14 @@
     "heigth": "250",
     "lines_number": "25-30",
     "decorations": false,
-    "codicological reworking": [],
-    "basic structure": [],
+    "codicological_reworking": [],
+    "basic_structure": [],
     "written_width": "133",
     "written_height": "195-215",
     "width": "180",
-    "columns": []
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": []
   },
   "10": {
     "id": 10,
@@ -801,7 +859,7 @@
       }
     ],
     "number": "1",
-    "prov_place": [
+    "prov_place_old": [
       {
         "id": 4,
         "value": "Freising",
@@ -834,8 +892,8 @@
     "heigth": "195",
     "lines_number": "17",
     "decorations": false,
-    "codicological reworking": [],
-    "basic structure": [],
+    "codicological_reworking": [],
+    "basic_structure": [],
     "written_width": "115",
     "written_height": "155",
     "width": "165",
@@ -845,7 +903,9 @@
         "value": "1",
         "color": "darker-gray"
       }
-    ]
+    ],
+    "cod_unit_placed": [],
+    "prov_place": []
   },
   "14": {
     "id": 14,
@@ -977,7 +1037,7 @@
       }
     ],
     "number": "1",
-    "prov_place": [
+    "prov_place_old": [
       {
         "id": 3,
         "value": "Salzburg",
@@ -999,12 +1059,14 @@
     "heigth": null,
     "lines_number": null,
     "decorations": false,
-    "codicological reworking": [],
-    "basic structure": [],
+    "codicological_reworking": [],
+    "basic_structure": [],
     "written_width": null,
     "written_height": null,
     "width": null,
-    "columns": []
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": []
   },
   "15": {
     "id": 15,
@@ -1030,7 +1092,7 @@
     ],
     "quire": [],
     "number": "1",
-    "prov_place": [
+    "prov_place_old": [
       {
         "id": 3,
         "value": "Salzburg",
@@ -1052,12 +1114,14 @@
     "heigth": null,
     "lines_number": null,
     "decorations": false,
-    "codicological reworking": [],
-    "basic structure": [],
+    "codicological_reworking": [],
+    "basic_structure": [],
     "written_width": null,
     "written_height": null,
     "width": null,
-    "columns": []
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": []
   },
   "16": {
     "id": 16,
@@ -1083,7 +1147,7 @@
     ],
     "quire": [],
     "number": "1",
-    "prov_place": [
+    "prov_place_old": [
       {
         "id": 4,
         "value": "Freising",
@@ -1105,8 +1169,8 @@
     "heigth": "285",
     "lines_number": "35",
     "decorations": false,
-    "codicological reworking": [],
-    "basic structure": [],
+    "codicological_reworking": [],
+    "basic_structure": [],
     "written_width": "150",
     "written_height": "225",
     "width": "220",
@@ -1116,7 +1180,9 @@
         "value": "1",
         "color": "darker-gray"
       }
-    ]
+    ],
+    "cod_unit_placed": [],
+    "prov_place": []
   },
   "17": {
     "id": 17,
@@ -1142,7 +1208,7 @@
     ],
     "quire": [],
     "number": "1",
-    "prov_place": [
+    "prov_place_old": [
       {
         "id": 11,
         "value": "Benediktbeuern",
@@ -1164,8 +1230,8 @@
     "heigth": "280",
     "lines_number": "20-21 (ab 4ⱽund  bis 131ʳ); 28 (bis 4ⱽund ab 131ʳ)",
     "decorations": false,
-    "codicological reworking": [],
-    "basic structure": [],
+    "codicological_reworking": [],
+    "basic_structure": [],
     "written_width": "120 (ab 4ⱽund  bis 131ʳ); 150 (bis 4ⱽund ab 131ʳ)",
     "written_height": "180–190 (ab 4ⱽund  bis 131ʳ); 210 (bis 4ⱽund ab 131ʳ)",
     "width": "190-200",
@@ -1175,7 +1241,9 @@
         "value": "1",
         "color": "darker-gray"
       }
-    ]
+    ],
+    "cod_unit_placed": [],
+    "prov_place": []
   },
   "18": {
     "id": 18,
@@ -1201,7 +1269,7 @@
     ],
     "quire": [],
     "number": "1",
-    "prov_place": [
+    "prov_place_old": [
       {
         "id": 17,
         "value": "Reims",
@@ -1223,8 +1291,8 @@
     "heigth": "240",
     "lines_number": "21",
     "decorations": false,
-    "codicological reworking": [],
-    "basic structure": [],
+    "codicological_reworking": [],
+    "basic_structure": [],
     "written_width": "110-145",
     "written_height": "170",
     "width": "175",
@@ -1234,7 +1302,9 @@
         "value": "1",
         "color": "darker-gray"
       }
-    ]
+    ],
+    "cod_unit_placed": [],
+    "prov_place": []
   },
   "19": {
     "id": 19,
@@ -1260,7 +1330,7 @@
     ],
     "quire": [],
     "number": "2",
-    "prov_place": [
+    "prov_place_old": [
       {
         "id": 4,
         "value": "Freising",
@@ -1282,8 +1352,8 @@
     "heigth": "240",
     "lines_number": "29",
     "decorations": false,
-    "codicological reworking": [],
-    "basic structure": [],
+    "codicological_reworking": [],
+    "basic_structure": [],
     "written_width": "130",
     "written_height": "205",
     "width": "175",
@@ -1293,7 +1363,9 @@
         "value": "2",
         "color": "dark-blue"
       }
-    ]
+    ],
+    "cod_unit_placed": [],
+    "prov_place": []
   },
   "20": {
     "id": 20,
@@ -1319,7 +1391,7 @@
     ],
     "quire": [],
     "number": "1",
-    "prov_place": [
+    "prov_place_old": [
       {
         "id": 4,
         "value": "Freising",
@@ -1341,8 +1413,8 @@
     "heigth": "260",
     "lines_number": "31-38",
     "decorations": false,
-    "codicological reworking": [],
-    "basic structure": [],
+    "codicological_reworking": [],
+    "basic_structure": [],
     "written_width": "160-175",
     "written_height": "210-225",
     "width": "205",
@@ -1352,7 +1424,9 @@
         "value": "1",
         "color": "darker-gray"
       }
-    ]
+    ],
+    "cod_unit_placed": [],
+    "prov_place": []
   },
   "21": {
     "id": 21,
@@ -1378,7 +1452,7 @@
     ],
     "quire": [],
     "number": "1",
-    "prov_place": [
+    "prov_place_old": [
       {
         "id": 12,
         "value": "Bodensee",
@@ -1400,8 +1474,8 @@
     "heigth": "250",
     "lines_number": "25",
     "decorations": true,
-    "codicological reworking": [],
-    "basic structure": [],
+    "codicological_reworking": [],
+    "basic_structure": [],
     "written_width": "145",
     "written_height": "180-190",
     "width": "195",
@@ -1411,7 +1485,9 @@
         "value": "1",
         "color": "darker-gray"
       }
-    ]
+    ],
+    "cod_unit_placed": [],
+    "prov_place": []
   },
   "22": {
     "id": 22,
@@ -1437,7 +1513,7 @@
     ],
     "quire": [],
     "number": "2",
-    "prov_place": [
+    "prov_place_old": [
       {
         "id": 4,
         "value": "Freising",
@@ -1459,8 +1535,8 @@
     "heigth": "250",
     "lines_number": "28",
     "decorations": false,
-    "codicological reworking": [],
-    "basic structure": [],
+    "codicological_reworking": [],
+    "basic_structure": [],
     "written_width": "140",
     "written_height": "205",
     "width": "195",
@@ -1470,7 +1546,9 @@
         "value": "1",
         "color": "darker-gray"
       }
-    ]
+    ],
+    "cod_unit_placed": [],
+    "prov_place": []
   },
   "23": {
     "id": 23,
@@ -1496,7 +1574,7 @@
     ],
     "quire": [],
     "number": "1",
-    "prov_place": [
+    "prov_place_old": [
       {
         "id": 4,
         "value": "Freising",
@@ -1518,8 +1596,8 @@
     "heigth": "165-170",
     "lines_number": "16-20",
     "decorations": false,
-    "codicological reworking": [],
-    "basic structure": [],
+    "codicological_reworking": [],
+    "basic_structure": [],
     "written_width": "75-85",
     "written_height": "135-145",
     "width": "105",
@@ -1529,7 +1607,9 @@
         "value": "1",
         "color": "darker-gray"
       }
-    ]
+    ],
+    "cod_unit_placed": [],
+    "prov_place": []
   },
   "24": {
     "id": 24,
@@ -1555,7 +1635,7 @@
     ],
     "quire": [],
     "number": "1",
-    "prov_place": [
+    "prov_place_old": [
       {
         "id": 4,
         "value": "Freising",
@@ -1577,8 +1657,8 @@
     "heigth": "190",
     "lines_number": "18",
     "decorations": false,
-    "codicological reworking": [],
-    "basic structure": [],
+    "codicological_reworking": [],
+    "basic_structure": [],
     "written_width": "105",
     "written_height": "145",
     "width": "140",
@@ -1588,7 +1668,9 @@
         "value": "1",
         "color": "darker-gray"
       }
-    ]
+    ],
+    "cod_unit_placed": [],
+    "prov_place": []
   },
   "25": {
     "id": 25,
@@ -1614,7 +1696,7 @@
     ],
     "quire": [],
     "number": "1",
-    "prov_place": [
+    "prov_place_old": [
       {
         "id": 4,
         "value": "Freising",
@@ -1636,8 +1718,8 @@
     "heigth": "180",
     "lines_number": "22-24",
     "decorations": false,
-    "codicological reworking": [],
-    "basic structure": [],
+    "codicological_reworking": [],
+    "basic_structure": [],
     "written_width": "105",
     "written_height": "140-150",
     "width": "140",
@@ -1647,7 +1729,9 @@
         "value": "1",
         "color": "darker-gray"
       }
-    ]
+    ],
+    "cod_unit_placed": [],
+    "prov_place": []
   },
   "26": {
     "id": 26,
@@ -1673,7 +1757,7 @@
     ],
     "quire": [],
     "number": "1",
-    "prov_place": [
+    "prov_place_old": [
       {
         "id": 10,
         "value": "Bistum Eichstätt",
@@ -1695,8 +1779,8 @@
     "heigth": "205",
     "lines_number": "18",
     "decorations": false,
-    "codicological reworking": [],
-    "basic structure": [],
+    "codicological_reworking": [],
+    "basic_structure": [],
     "written_width": "95-105",
     "written_height": "145-155",
     "width": "140",
@@ -1706,7 +1790,9 @@
         "value": "1",
         "color": "darker-gray"
       }
-    ]
+    ],
+    "cod_unit_placed": [],
+    "prov_place": []
   },
   "27": {
     "id": 27,
@@ -1732,7 +1818,7 @@
     ],
     "quire": [],
     "number": "1",
-    "prov_place": [
+    "prov_place_old": [
       {
         "id": 18,
         "value": "Südbayern",
@@ -1754,8 +1840,8 @@
     "heigth": "325",
     "lines_number": "27",
     "decorations": false,
-    "codicological reworking": [],
-    "basic structure": [],
+    "codicological_reworking": [],
+    "basic_structure": [],
     "written_width": "180",
     "written_height": "265-275",
     "width": "225",
@@ -1765,7 +1851,9 @@
         "value": "1",
         "color": "darker-gray"
       }
-    ]
+    ],
+    "cod_unit_placed": [],
+    "prov_place": []
   },
   "28": {
     "id": 28,
@@ -1791,7 +1879,7 @@
     ],
     "quire": [],
     "number": "1",
-    "prov_place": [
+    "prov_place_old": [
       {
         "id": 19,
         "value": "Regensburg",
@@ -1813,8 +1901,8 @@
     "heigth": "330",
     "lines_number": "31",
     "decorations": false,
-    "codicological reworking": [],
-    "basic structure": [],
+    "codicological_reworking": [],
+    "basic_structure": [],
     "written_width": "155-165",
     "written_height": "265",
     "width": "225",
@@ -1824,7 +1912,9 @@
         "value": "1",
         "color": "darker-gray"
       }
-    ]
+    ],
+    "cod_unit_placed": [],
+    "prov_place": []
   },
   "29": {
     "id": 29,
@@ -1850,7 +1940,7 @@
     ],
     "quire": [],
     "number": "1",
-    "prov_place": [
+    "prov_place_old": [
       {
         "id": 3,
         "value": "Salzburg",
@@ -1872,11 +1962,105 @@
     "heigth": null,
     "lines_number": null,
     "decorations": false,
-    "codicological reworking": [],
-    "basic structure": [],
+    "codicological_reworking": [],
+    "basic_structure": [],
     "written_width": null,
     "written_height": null,
     "width": null,
-    "columns": []
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": []
+  },
+  "32": {
+    "id": 32,
+    "order": "28.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 31,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 706, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__32",
+    "locus": "1r-223v",
+    "manuscript": [
+      {
+        "id": 31,
+        "value": "Saint-Omer, ms. 706",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "prov_place_old": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-16",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-16",
+    "orig_date": [
+      {
+        "id": 60,
+        "value": "986-1007",
+        "order": "60.00000000000000000000"
+      }
+    ],
+    "quires_number": "1-28",
+    "heigth": "",
+    "lines_number": "",
+    "decorations": false,
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "",
+    "written_height": "",
+    "width": "",
+    "columns": [
+      {
+        "id": 18124,
+        "value": "2",
+        "color": "dark-blue"
+      },
+      {
+        "id": 18123,
+        "value": "1",
+        "color": "darker-gray"
+      }
+    ],
+    "cod_unit_placed": [
+      {
+        "id": 4,
+        "value": "hit_codunit_place__4",
+        "order": "4.00000000000000000000"
+      },
+      {
+        "id": 5,
+        "value": "hit_codunit_place__5",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 20,
+          "database_table_3840": 5
+        },
+        "value": "Saint-Omer"
+      },
+      {
+        "ids": {
+          "database_table_3492": 21,
+          "database_table_3840": 4
+        },
+        "value": "Abtei Saint-Bertin"
+      }
+    ]
   }
 }

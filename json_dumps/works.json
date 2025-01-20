@@ -3750,14 +3750,31 @@
   "128": {
     "id": 128,
     "order": "126.00000000000000000000",
-    "title": "",
-    "gnd_url": "",
+    "title": "Annales Bertiniani",
+    "gnd_url": "https://d-nb.info/gnd/4309442-9",
     "note": "",
     "hit_id": "hit_works__128",
-    "author": [],
+    "author": [
+      {
+        "id": 44,
+        "value": "Hinkmar, Reims, Erzbischof",
+        "order": "43.00000000000000000000"
+      },
+      {
+        "id": 50,
+        "value": "Prudentius, Troyes, Bischof, Heiliger",
+        "order": "48.00000000000000000000"
+      }
+    ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 3,
+        "value": "Annalistik",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "note_source": "",
     "Created by": {
       "id": 86,
@@ -3768,7 +3785,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-10-03"
+    "Last modified": "2025-01-16"
   },
   "129": {
     "id": 129,
@@ -3925,5 +3942,121 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-10-09"
+  },
+  "135": {
+    "id": 135,
+    "order": "133.00000000000000000000",
+    "title": "Annales regni Francorum",
+    "gnd_url": "https://d-nb.info/gnd/4833771-7",
+    "note": "",
+    "hit_id": "hit_works__135",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 3,
+        "value": "Annalistik",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-16",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-16"
+  },
+  "136": {
+    "id": 136,
+    "order": "134.00000000000000000000",
+    "title": "Fredegar-Chronik",
+    "gnd_url": "https://d-nb.info/gnd/4217731-5",
+    "note": "",
+    "hit_id": "hit_works__136",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-16",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-16"
+  },
+  "137": {
+    "id": 137,
+    "order": "135.00000000000000000000",
+    "title": "Fredegarii Continuationes",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__137",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-16",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-16"
+  },
+  "138": {
+    "id": 138,
+    "order": "136.00000000000000000000",
+    "title": "Hybrid Decem libri historiarum + LHF",
+    "gnd_url": "",
+    "note": "Platzhalter",
+    "hit_id": "hit_works__138",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-17"
   }
 }

@@ -205,7 +205,7 @@ MODEL_CONFIG = [
             },
             {
                 "field_name": "cod_unit_placed",
-                "seed_fiel": [JSON_FOLDER, "cod_unit_placed.json"],
+                "seed_file": [JSON_FOLDER, "cod_unit_placed.json"],
                 "source_file": [DATA_FOLDER, "cod_units.json"],
             },
         ],

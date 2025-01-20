@@ -1713,12 +1713,21 @@
         "id": 118,
         "value": "Visio Eucherii",
         "order": "116.00000000000000000000"
+      },
+      {
+        "id": 128,
+        "value": "Annales Bertiniani",
+        "order": "126.00000000000000000000"
       }
     ],
     "work": [
       {
         "id": 118,
         "value": "Visio Eucherii"
+      },
+      {
+        "id": 128,
+        "value": "Annales Bertiniani"
       }
     ]
   },
@@ -1856,6 +1865,43 @@
       {
         "id": 132,
         "value": "Codex canonum ecclesiasticorum"
+      }
+    ]
+  },
+  "50": {
+    "id": 50,
+    "order": "48.00000000000000000000",
+    "name": "Prudentius, Troyes, Bischof, Heiliger",
+    "gnd_url": "https://d-nb.info/gnd/100958753",
+    "hit_id": "hit_people__50",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-16",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-16",
+    "works": [
+      {
+        "id": 128,
+        "value": "Annales Bertiniani",
+        "order": "126.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 128,
+        "value": "Annales Bertiniani"
       }
     ]
   }

@@ -2469,7 +2469,7 @@
     "authority": [
       {
         "id": 3,
-        "value": "Glauche",
+        "value": "Glauche G.",
         "order": "3.00000000000000000000"
       }
     ],
@@ -2508,7 +2508,7 @@
     "authority": [
       {
         "id": 3,
-        "value": "Glauche",
+        "value": "Glauche G.",
         "order": "3.00000000000000000000"
       }
     ],
@@ -2520,13 +2520,7 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "hand": [
-      {
-        "id": 84,
-        "value": "BSB, Clm. 6380_H. 2",
-        "order": "76.00000000000000000000"
-      }
-    ],
+    "hand": [],
     "new_dating": false,
     "Created by": {
       "id": 87,
@@ -2547,7 +2541,7 @@
     "authority": [
       {
         "id": 3,
-        "value": "Glauche",
+        "value": "Glauche G.",
         "order": "3.00000000000000000000"
       }
     ],
@@ -2559,13 +2553,7 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "hand": [
-      {
-        "id": 85,
-        "value": "BSB, Clm. 6380_H. 3",
-        "order": "77.00000000000000000000"
-      }
-    ],
+    "hand": [],
     "new_dating": false,
     "Created by": {
       "id": 87,
@@ -2586,7 +2574,7 @@
     "authority": [
       {
         "id": 3,
-        "value": "Glauche",
+        "value": "Glauche G.",
         "order": "3.00000000000000000000"
       }
     ],
@@ -2598,13 +2586,7 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "hand": [
-      {
-        "id": 86,
-        "value": "BSB, Clm. 6380_H. 4",
-        "order": "78.00000000000000000000"
-      }
-    ],
+    "hand": [],
     "new_dating": false,
     "Created by": {
       "id": 87,
@@ -2625,7 +2607,7 @@
     "authority": [
       {
         "id": 3,
-        "value": "Glauche",
+        "value": "Glauche G.",
         "order": "3.00000000000000000000"
       }
     ],
@@ -2637,13 +2619,7 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "hand": [
-      {
-        "id": 87,
-        "value": "BSB, Clm. 6380_H. 5",
-        "order": "79.00000000000000000000"
-      }
-    ],
+    "hand": [],
     "new_dating": false,
     "Created by": {
       "id": 87,
@@ -2664,7 +2640,7 @@
     "authority": [
       {
         "id": 3,
-        "value": "Glauche",
+        "value": "Glauche G.",
         "order": "3.00000000000000000000"
       }
     ],
@@ -2676,13 +2652,7 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "hand": [
-      {
-        "id": 88,
-        "value": "BSB, Clm. 6380_H. 6",
-        "order": "80.00000000000000000000"
-      }
-    ],
+    "hand": [],
     "new_dating": false,
     "Created by": {
       "id": 87,
@@ -2703,7 +2673,7 @@
     "authority": [
       {
         "id": 3,
-        "value": "Glauche",
+        "value": "Glauche G.",
         "order": "3.00000000000000000000"
       }
     ],
@@ -2715,13 +2685,7 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "hand": [
-      {
-        "id": 89,
-        "value": "BSB, Clm. 6380_H. 7",
-        "order": "81.00000000000000000000"
-      }
-    ],
+    "hand": [],
     "new_dating": false,
     "Created by": {
       "id": 87,
@@ -2742,7 +2706,7 @@
     "authority": [
       {
         "id": 3,
-        "value": "Glauche",
+        "value": "Glauche G.",
         "order": "3.00000000000000000000"
       }
     ],
@@ -2754,13 +2718,7 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "hand": [
-      {
-        "id": 90,
-        "value": "BSB, Clm. 6380_H. 8",
-        "order": "82.00000000000000000000"
-      }
-    ],
+    "hand": [],
     "new_dating": false,
     "Created by": {
       "id": 87,
@@ -3021,6 +2979,27 @@
     },
     "Last modified": "2024-11-13",
     "Created on": "2024-11-13",
+    "note": ""
+  },
+  "90": {
+    "id": 90,
+    "order": "89.00000000000000000000",
+    "hit_id": "hit_hands_dated__90",
+    "authority": [],
+    "page": "",
+    "dated": [],
+    "hand": [],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-17",
+    "Created on": "2025-01-17",
     "note": ""
   }
 }

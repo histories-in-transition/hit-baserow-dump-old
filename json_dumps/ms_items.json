@@ -2507,41 +2507,6 @@
         "id": 125,
         "value": "hit_hands_role__125",
         "order": "111.00000000000000000000"
-      },
-      {
-        "id": 128,
-        "value": "hit_hands_role__128",
-        "order": "114.00000000000000000000"
-      },
-      {
-        "id": 131,
-        "value": "hit_hands_role__131",
-        "order": "117.00000000000000000000"
-      },
-      {
-        "id": 132,
-        "value": "hit_hands_role__132",
-        "order": "118.00000000000000000000"
-      },
-      {
-        "id": 133,
-        "value": "hit_hands_role__133",
-        "order": "119.00000000000000000000"
-      },
-      {
-        "id": 134,
-        "value": "hit_hands_role__134",
-        "order": "120.00000000000000000000"
-      },
-      {
-        "id": 135,
-        "value": "hit_hands_role__135",
-        "order": "121.00000000000000000000"
-      },
-      {
-        "id": 146,
-        "value": "hit_hands_role__146",
-        "order": "132.00000000000000000000"
       }
     ],
     "cod_unit": [
@@ -2569,55 +2534,6 @@
           "database_table_3488": 4
         },
         "value": "BSB, Clm. 6380_H. 1"
-      },
-      {
-        "ids": {
-          "database_table_3487": 7,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6380_H. 2"
-      },
-      {
-        "ids": {
-          "database_table_3487": 7,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6380_H. 3"
-      },
-      {
-        "ids": {
-          "database_table_3487": 7,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6380_H. 4"
-      },
-      {
-        "ids": {
-          "database_table_3487": 7,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6380_H. 5"
-      },
-      {
-        "ids": {
-          "database_table_3487": 7,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6380_H. 6"
-      },
-      {
-        "ids": {
-          "database_table_3487": 7,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6380_H. 7"
-      },
-      {
-        "ids": {
-          "database_table_3487": 7,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6380_H. 8"
       }
     ],
     "decoration": [
@@ -2695,15 +2611,7 @@
       "name": "Ivana Dobcheva"
     },
     "note": null,
-    "hand": [
-      {
-        "ids": {
-          "database_table_3487": 7,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6380_H. 8"
-      }
-    ],
+    "hand": [],
     "decoration": [
       {
         "id": 15101,
@@ -4236,9 +4144,9 @@
     "locus_grp": "1r-193v",
     "hands_role": [
       {
-        "id": 137,
-        "value": "hit_hands_role__137",
-        "order": "123.00000000000000000000"
+        "id": 140,
+        "value": "hit_hands_role__140",
+        "order": "126.00000000000000000000"
       },
       {
         "id": 143,
@@ -4280,7 +4188,7 @@
           "database_table_3487": 13,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6391_H. 1"
+        "value": "BSB, Clm. 6391_H. 2"
       },
       {
         "ids": {
@@ -11162,150 +11070,6 @@
     "form_note": null,
     "column": []
   },
-  "154": {
-    "id": 154,
-    "order": "136.00000000000000000000",
-    "label": [],
-    "manuscript": [],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [],
-    "title_note": "",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__154",
-    "filiation": [],
-    "locus_grp": "",
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-09-06",
-    "Created on": "2024-09-06",
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "note": "",
-    "hand": [],
-    "decoration": [],
-    "facs_url": "",
-    "form": [],
-    "form_note": null,
-    "column": []
-  },
-  "155": {
-    "id": 155,
-    "order": "137.00000000000000000000",
-    "label": [],
-    "manuscript": [],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [],
-    "title_note": "",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__155",
-    "filiation": [],
-    "locus_grp": "",
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-09-06",
-    "Created on": "2024-09-06",
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "note": "",
-    "hand": [],
-    "decoration": [],
-    "facs_url": "",
-    "form": [],
-    "form_note": null,
-    "column": []
-  },
-  "156": {
-    "id": 156,
-    "order": "138.00000000000000000000",
-    "label": [],
-    "manuscript": [],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [],
-    "title_note": "",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__156",
-    "filiation": [],
-    "locus_grp": "",
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-09-06",
-    "Created on": "2024-09-06",
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "note": "",
-    "hand": [],
-    "decoration": [],
-    "facs_url": "",
-    "form": [],
-    "form_note": null,
-    "column": []
-  },
-  "157": {
-    "id": 157,
-    "order": "139.00000000000000000000",
-    "label": [],
-    "manuscript": [],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [],
-    "title_note": "",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__157",
-    "filiation": [],
-    "locus_grp": "",
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-09-06",
-    "Created on": "2024-09-06",
-    "Created by": {
-      "id": 96,
-      "name": "Jesper van der Most"
-    },
-    "Last modified by": {
-      "id": 96,
-      "name": "Jesper van der Most"
-    },
-    "note": "",
-    "hand": [],
-    "decoration": [],
-    "facs_url": "",
-    "form": [],
-    "form_note": null,
-    "column": []
-  },
   "153": {
     "id": 153,
     "order": "140.00000000000000000000",
@@ -11465,114 +11229,6 @@
     "form_note": null,
     "column": []
   },
-  "181": {
-    "id": 181,
-    "order": "144.00000000000000000000",
-    "label": [],
-    "manuscript": [],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [],
-    "title_note": "",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__181",
-    "filiation": [],
-    "locus_grp": "",
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-10-03",
-    "Created on": "2024-10-03",
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "note": "",
-    "hand": [],
-    "decoration": [],
-    "facs_url": "",
-    "form": [],
-    "form_note": null,
-    "column": []
-  },
-  "182": {
-    "id": 182,
-    "order": "145.00000000000000000000",
-    "label": [],
-    "manuscript": [],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [],
-    "title_note": "",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__182",
-    "filiation": [],
-    "locus_grp": "",
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-10-03",
-    "Created on": "2024-10-03",
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "note": "",
-    "hand": [],
-    "decoration": [],
-    "facs_url": "",
-    "form": [],
-    "form_note": null,
-    "column": []
-  },
-  "189": {
-    "id": 189,
-    "order": "147.00000000000000000000",
-    "label": [],
-    "manuscript": [],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [],
-    "title_note": "",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__189",
-    "filiation": [],
-    "locus_grp": "",
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-10-09",
-    "Created on": "2024-10-09",
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "note": "",
-    "hand": [],
-    "decoration": [],
-    "facs_url": "",
-    "form": [],
-    "form_note": null,
-    "column": []
-  },
   "190": {
     "id": 190,
     "order": "148.00000000000000000000",
@@ -11623,6 +11279,337 @@
   "191": {
     "id": 191,
     "order": "149.00000000000000000000",
+    "label": [
+      {
+        "id": 31,
+        "value": "ms_706__191"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 31,
+        "value": "Saint-Omer, ms. 706",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 73,
+        "value": "Decem libri historiarum",
+        "order": "72.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__191",
+    "filiation": [],
+    "locus_grp": "1v-144v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 32,
+        "value": "Saint-Omer, ms. 706, cod. unit 1",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-01-16",
+    "Created on": "2024-12-13",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "Es handelt sich um die karolingische Fassung der Historien, in der Gregors neuntes und zehntes Buch zu Liber IX kombiniert wurde. Das vorliegende Liber X besteht aus dem vierten Buch der Fredegar-Chronik samt den Continuationes.",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 17437,
+        "value": "Mehrspaltig",
+        "color": "darker-pink"
+      }
+    ],
+    "form_note": "",
+    "column": [
+      {
+        "id": 17458,
+        "value": "2",
+        "color": "dark-yellow"
+      }
+    ]
+  },
+  "194": {
+    "id": 194,
+    "order": "149.33333333333334280724",
+    "label": [
+      {
+        "id": 31,
+        "value": "ms_706__194"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 31,
+        "value": "Saint-Omer, ms. 706",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 136,
+        "value": "Fredegar-Chronik",
+        "order": "134.00000000000000000000"
+      }
+    ],
+    "title_note": "Liber IV",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": null,
+    "filiation": [],
+    "locus_grp": "118v-144v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 32,
+        "value": "Saint-Omer, ms. 706, cod. unit 1",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-01-17",
+    "Created on": "2025-01-16",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": []
+  },
+  "196": {
+    "id": 196,
+    "order": "149.50000000000000000000",
+    "label": [
+      {
+        "id": 31,
+        "value": "ms_706__196"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 31,
+        "value": "Saint-Omer, ms. 706",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 137,
+        "value": "Fredegarii Continuationes",
+        "order": "135.00000000000000000000"
+      }
+    ],
+    "title_note": "Bis Kapitel 21",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": null,
+    "filiation": [],
+    "locus_grp": "140v-144v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 32,
+        "value": "Saint-Omer, ms. 706, cod. unit 1",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-01-17",
+    "Created on": "2025-01-16",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "Abweichende Kapitelzählung",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 17437,
+        "value": "Mehrspaltig",
+        "color": "darker-pink"
+      }
+    ],
+    "form_note": "",
+    "column": [
+      {
+        "id": 17458,
+        "value": "2",
+        "color": "dark-yellow"
+      }
+    ]
+  },
+  "192": {
+    "id": 192,
+    "order": "150.00000000000000000000",
+    "label": [
+      {
+        "id": 31,
+        "value": "ms_706__192"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 31,
+        "value": "Saint-Omer, ms. 706",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 135,
+        "value": "Annales regni Francorum",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__192",
+    "filiation": [],
+    "locus_grp": "145r-170v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 32,
+        "value": "Saint-Omer, ms. 706, cod. unit 1",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-01-16",
+    "Created on": "2025-01-16",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "In der Handschrift nicht von den Annales Bertiniani abgetrennt, sondern als ein Annalenwerk überliefert.",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ]
+  },
+  "193": {
+    "id": 193,
+    "order": "151.00000000000000000000",
+    "label": [
+      {
+        "id": 31,
+        "value": "ms_706__193"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 31,
+        "value": "Saint-Omer, ms. 706",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 128,
+        "value": "Annales Bertiniani",
+        "order": "126.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__193",
+    "filiation": [],
+    "locus_grp": "170v-223r",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 32,
+        "value": "Saint-Omer, ms. 706, cod. unit 1",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-01-16",
+    "Created on": "2025-01-16",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "In der Handschrift nicht von den Annales regni Francorum abgetrennt, sondern als ein Annalenwerk überliefert.",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ]
+  },
+  "195": {
+    "id": 195,
+    "order": "153.00000000000000000000",
     "label": [],
     "manuscript": [],
     "incipit": "",
@@ -11633,13 +11620,144 @@
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
-    "hit_id": "hit_ms_items__191",
+    "hit_id": "hit_ms_items__195",
     "filiation": [],
     "locus_grp": "",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-12-13",
-    "Created on": "2024-12-13",
+    "Last modified": "2025-01-16",
+    "Created on": "2025-01-16",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": []
+  },
+  "197": {
+    "id": 197,
+    "order": "154.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__197",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2025-01-17",
+    "Created on": "2025-01-17",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": []
+  },
+  "198": {
+    "id": 198,
+    "order": "155.00000000000000000000",
+    "label": [
+      {
+        "id": 31,
+        "value": "ms_706__198"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 31,
+        "value": "Saint-Omer, ms. 706",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 138,
+        "value": "Hybrid Decem libri historiarum + LHF",
+        "order": "136.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__198",
+    "filiation": [],
+    "locus_grp": "12r-33r",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 32,
+        "value": "Saint-Omer, ms. 706, cod. unit 1",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-01-17",
+    "Created on": "2025-01-17",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "In der Handschrift als das zweite Buch der Decem libri historiarum markiert. Enthält sowohl Kapitel der Historien als auch des Liber historiae Francorum in einer originellen Neubearbeitung.",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": []
+  },
+  "199": {
+    "id": 199,
+    "order": "156.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__199",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2025-01-17",
+    "Created on": "2025-01-17",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"

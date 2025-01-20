@@ -184,6 +184,17 @@ MODEL_CONFIG = [
         ],
     },
     {
+        "table_label": "CODICOLIGAL UNIT PLACED",
+        "final_file": [DATA_FOLDER, "cod_unit_placed.json"],
+        "fields": [
+            {
+                "field_name": "place",
+                "seed_file": [DATA_FOLDER, "places.json"],
+                "source_file": [JSON_FOLDER, "cod_unit_placed.json"]
+            }
+        ]
+    },
+    {
         "table_label": "CODICOLIGAL UNIT",
         "label_lookup_expression": "$..label[0].value",
         "final_file": [DATA_FOLDER, "cod_units.json"],
@@ -201,7 +212,7 @@ MODEL_CONFIG = [
             },
             {
                 "field_name": "cod_unit_placed",
-                "seed_file": [JSON_FOLDER, "cod_unit_placed.json"],
+                "seed_file": [DATA_FOLDER, "cod_unit_placed.json"],
                 "source_file": [DATA_FOLDER, "cod_units.json"],
             },
         ],

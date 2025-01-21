@@ -7978,28 +7978,8 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-04",
-    "hands_role": [
-      {
-        "id": 130,
-        "value": "hit_hands_role__130",
-        "order": "116.00000000000000000000"
-      },
-      {
-        "id": 136,
-        "value": "hit_hands_role__136",
-        "order": "122.00000000000000000000"
-      }
-    ],
-    "role": [
-      {
-        "id": 130,
-        "value": []
-      },
-      {
-        "id": 136,
-        "value": []
-      }
-    ],
+    "hands_role": [],
+    "role": [],
     "texts": [],
     "hands_dated": [],
     "dating": [],
@@ -8923,36 +8903,6 @@
         "order": "27.00000000000000000000"
       }
     ],
-    "scribe": [],
-    "gruppe": false
-  },
-  "119": {
-    "id": 119,
-    "order": "111.00000000000000000000",
-    "label": [],
-    "description": "",
-    "hit_id": "hit_hands__119",
-    "similar_hands": [],
-    "nr_daniel": "",
-    "manuscript": [],
-    "number": null,
-    "note": "",
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-12-05",
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-12-05",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
     "scribe": [],
     "gruppe": false
   },

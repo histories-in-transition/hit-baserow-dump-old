@@ -448,8 +448,73 @@
                         "color": "darker-gray"
                       }
                     ],
-                    "cod_unit_placed": [],
-                    "prov_place": []
+                    "cod_unit_placed": [
+                      {
+                        "id": 12,
+                        "hit_id": "hit_codunit_place__12",
+                        "cod_unit": [
+                          {
+                            "id": 16,
+                            "value": "BSB, Clm. 6380, cod. unit 1"
+                          }
+                        ],
+                        "place": [
+                          {
+                            "id": 4,
+                            "name": "Freising",
+                            "geonames_url": "https://www.geonames.org/2925034/freising.html",
+                            "hit_id": "hit_place__4",
+                            "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+                            "country": [
+                              {
+                                "id": 2,
+                                "name": "Deutschland",
+                                "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+                                "hit_id": "hit_place__2",
+                                "wikidata_url": "",
+                                "country": [],
+                                "Last modified by": {
+                                  "id": 36,
+                                  "name": "Ivana Dobcheva"
+                                },
+                                "Last modified": "2024-07-11"
+                              }
+                            ],
+                            "Last modified by": {
+                              "id": 36,
+                              "name": "Ivana Dobcheva"
+                            },
+                            "Last modified": "2024-07-11"
+                          }
+                        ],
+                        "from": [],
+                        "type": [
+                          {
+                            "id": 18150,
+                            "value": "orig",
+                            "color": "deep-dark-orange"
+                          }
+                        ],
+                        "till": [],
+                        "ms": [
+                          {
+                            "id": 4,
+                            "value": "BSB, Clm. 6380"
+                          }
+                        ],
+                        "authority": [],
+                        "page": ""
+                      }
+                    ],
+                    "prov_place": [
+                      {
+                        "ids": {
+                          "database_table_3492": 4,
+                          "database_table_3840": 12
+                        },
+                        "value": "Freising"
+                      }
+                    ]
                   }
                 ],
                 "Last modified": "2024-11-18",
@@ -1267,8 +1332,73 @@
                         "color": "dark-blue"
                       }
                     ],
-                    "cod_unit_placed": [],
-                    "prov_place": []
+                    "cod_unit_placed": [
+                      {
+                        "id": 15,
+                        "hit_id": "hit_codunit_place__15",
+                        "cod_unit": [
+                          {
+                            "id": 19,
+                            "value": "BSB, Clm. 6382, cod. unit 2"
+                          }
+                        ],
+                        "place": [
+                          {
+                            "id": 4,
+                            "name": "Freising",
+                            "geonames_url": "https://www.geonames.org/2925034/freising.html",
+                            "hit_id": "hit_place__4",
+                            "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+                            "country": [
+                              {
+                                "id": 2,
+                                "name": "Deutschland",
+                                "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+                                "hit_id": "hit_place__2",
+                                "wikidata_url": "",
+                                "country": [],
+                                "Last modified by": {
+                                  "id": 36,
+                                  "name": "Ivana Dobcheva"
+                                },
+                                "Last modified": "2024-07-11"
+                              }
+                            ],
+                            "Last modified by": {
+                              "id": 36,
+                              "name": "Ivana Dobcheva"
+                            },
+                            "Last modified": "2024-07-11"
+                          }
+                        ],
+                        "from": [],
+                        "type": [
+                          {
+                            "id": 18150,
+                            "value": "orig",
+                            "color": "deep-dark-orange"
+                          }
+                        ],
+                        "till": [],
+                        "ms": [
+                          {
+                            "id": 4,
+                            "value": "BSB, Clm. 6382"
+                          }
+                        ],
+                        "authority": [],
+                        "page": ""
+                      }
+                    ],
+                    "prov_place": [
+                      {
+                        "ids": {
+                          "database_table_3492": 4,
+                          "database_table_3840": 15
+                        },
+                        "value": "Freising"
+                      }
+                    ]
                   }
                 ],
                 "Last modified": "2024-09-27",
@@ -2092,52 +2222,6 @@
       "label": "Hitto-Erchanbert Gruppe"
     },
     "next": {
-      "id": "hit_scribes__6",
-      "label": ""
-    }
-  },
-  "6": {
-    "id": 6,
-    "name": "",
-    "hit_id": "hit_scribes__6",
-    "description": "",
-    "group": false,
-    "hands": [],
-    "hand": [],
-    "Last modified": "2024-10-09",
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "view_label": "",
-    "prev": {
-      "id": "hit_scribes__5",
-      "label": "ÖNB_Cod. 2090_1"
-    },
-    "next": {
-      "id": "hit_scribes__7",
-      "label": ""
-    }
-  },
-  "7": {
-    "id": 7,
-    "name": "",
-    "hit_id": "hit_scribes__7",
-    "description": "",
-    "group": false,
-    "hands": [],
-    "hand": [],
-    "Last modified": "2024-10-10",
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "view_label": "",
-    "prev": {
-      "id": "hit_scribes__6",
-      "label": ""
-    },
-    "next": {
       "id": "hit_scribes__8",
       "label": "ÖNB Cod. 2090_2"
     }
@@ -2848,8 +2932,8 @@
     },
     "view_label": "ÖNB Cod. 2090_2",
     "prev": {
-      "id": "hit_scribes__7",
-      "label": ""
+      "id": "hit_scribes__5",
+      "label": "ÖNB_Cod. 2090_1"
     },
     "next": {
       "id": "hit_scribes__9",

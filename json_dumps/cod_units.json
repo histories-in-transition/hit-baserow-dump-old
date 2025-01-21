@@ -581,8 +581,22 @@
         "color": "darker-gray"
       }
     ],
-    "cod_unit_placed": [],
-    "prov_place": []
+    "cod_unit_placed": [
+      {
+        "id": 7,
+        "value": "hit_codunit_place__7",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 7
+        },
+        "value": "Freising"
+      }
+    ]
   },
   "6": {
     "id": 6,
@@ -636,8 +650,22 @@
     "written_height": "195-215",
     "width": "180",
     "columns": [],
-    "cod_unit_placed": [],
-    "prov_place": []
+    "cod_unit_placed": [
+      {
+        "id": 8,
+        "value": "hit_codunit_place__8",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 8
+        },
+        "value": "Freising"
+      }
+    ]
   },
   "8": {
     "id": 8,
@@ -691,8 +719,34 @@
     "written_height": "180",
     "width": "180",
     "columns": [],
-    "cod_unit_placed": [],
-    "prov_place": []
+    "cod_unit_placed": [
+      {
+        "id": 9,
+        "value": "hit_codunit_place__9",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 26,
+        "value": "hit_codunit_place__26",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 26
+        },
+        "value": "Freising"
+      },
+      {
+        "ids": {
+          "database_table_3492": 9,
+          "database_table_3840": 9
+        },
+        "value": "Norditalien"
+      }
+    ]
   },
   "9": {
     "id": 9,
@@ -746,8 +800,22 @@
     "written_height": "195-215",
     "width": "180",
     "columns": [],
-    "cod_unit_placed": [],
-    "prov_place": []
+    "cod_unit_placed": [
+      {
+        "id": 10,
+        "value": "hit_codunit_place__10",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 10
+        },
+        "value": "Freising"
+      }
+    ]
   },
   "10": {
     "id": 10,
@@ -904,8 +972,22 @@
         "color": "darker-gray"
       }
     ],
-    "cod_unit_placed": [],
-    "prov_place": []
+    "cod_unit_placed": [
+      {
+        "id": 11,
+        "value": "hit_codunit_place__11",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 11
+        },
+        "value": "Freising"
+      }
+    ]
   },
   "14": {
     "id": 14,
@@ -1181,8 +1263,22 @@
         "color": "darker-gray"
       }
     ],
-    "cod_unit_placed": [],
-    "prov_place": []
+    "cod_unit_placed": [
+      {
+        "id": 12,
+        "value": "hit_codunit_place__12",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 12
+        },
+        "value": "Freising"
+      }
+    ]
   },
   "17": {
     "id": 17,
@@ -1242,8 +1338,22 @@
         "color": "darker-gray"
       }
     ],
-    "cod_unit_placed": [],
-    "prov_place": []
+    "cod_unit_placed": [
+      {
+        "id": 13,
+        "value": "hit_codunit_place__13",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 11,
+          "database_table_3840": 13
+        },
+        "value": "Benediktbeuern"
+      }
+    ]
   },
   "18": {
     "id": 18,
@@ -1303,8 +1413,22 @@
         "color": "darker-gray"
       }
     ],
-    "cod_unit_placed": [],
-    "prov_place": []
+    "cod_unit_placed": [
+      {
+        "id": 14,
+        "value": "hit_codunit_place__14",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 17,
+          "database_table_3840": 14
+        },
+        "value": "Reims"
+      }
+    ]
   },
   "19": {
     "id": 19,
@@ -1364,8 +1488,22 @@
         "color": "dark-blue"
       }
     ],
-    "cod_unit_placed": [],
-    "prov_place": []
+    "cod_unit_placed": [
+      {
+        "id": 15,
+        "value": "hit_codunit_place__15",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 15
+        },
+        "value": "Freising"
+      }
+    ]
   },
   "20": {
     "id": 20,
@@ -1425,8 +1563,22 @@
         "color": "darker-gray"
       }
     ],
-    "cod_unit_placed": [],
-    "prov_place": []
+    "cod_unit_placed": [
+      {
+        "id": 16,
+        "value": "hit_codunit_place__16",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 16
+        },
+        "value": "Freising"
+      }
+    ]
   },
   "21": {
     "id": 21,
@@ -1486,8 +1638,22 @@
         "color": "darker-gray"
       }
     ],
-    "cod_unit_placed": [],
-    "prov_place": []
+    "cod_unit_placed": [
+      {
+        "id": 17,
+        "value": "hit_codunit_place__17",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 12,
+          "database_table_3840": 17
+        },
+        "value": "Bodensee"
+      }
+    ]
   },
   "22": {
     "id": 22,
@@ -1547,8 +1713,22 @@
         "color": "darker-gray"
       }
     ],
-    "cod_unit_placed": [],
-    "prov_place": []
+    "cod_unit_placed": [
+      {
+        "id": 18,
+        "value": "hit_codunit_place__18",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 18
+        },
+        "value": "Freising"
+      }
+    ]
   },
   "23": {
     "id": 23,
@@ -1608,8 +1788,22 @@
         "color": "darker-gray"
       }
     ],
-    "cod_unit_placed": [],
-    "prov_place": []
+    "cod_unit_placed": [
+      {
+        "id": 19,
+        "value": "hit_codunit_place__19",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 19
+        },
+        "value": "Freising"
+      }
+    ]
   },
   "24": {
     "id": 24,
@@ -1669,8 +1863,22 @@
         "color": "darker-gray"
       }
     ],
-    "cod_unit_placed": [],
-    "prov_place": []
+    "cod_unit_placed": [
+      {
+        "id": 20,
+        "value": "hit_codunit_place__20",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 20
+        },
+        "value": "Freising"
+      }
+    ]
   },
   "25": {
     "id": 25,
@@ -1730,8 +1938,22 @@
         "color": "darker-gray"
       }
     ],
-    "cod_unit_placed": [],
-    "prov_place": []
+    "cod_unit_placed": [
+      {
+        "id": 21,
+        "value": "hit_codunit_place__21",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 21
+        },
+        "value": "Freising"
+      }
+    ]
   },
   "26": {
     "id": 26,
@@ -1791,8 +2013,22 @@
         "color": "darker-gray"
       }
     ],
-    "cod_unit_placed": [],
-    "prov_place": []
+    "cod_unit_placed": [
+      {
+        "id": 22,
+        "value": "hit_codunit_place__22",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 10,
+          "database_table_3840": 22
+        },
+        "value": "Bistum Eichstätt"
+      }
+    ]
   },
   "27": {
     "id": 27,
@@ -1852,8 +2088,22 @@
         "color": "darker-gray"
       }
     ],
-    "cod_unit_placed": [],
-    "prov_place": []
+    "cod_unit_placed": [
+      {
+        "id": 23,
+        "value": "hit_codunit_place__23",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 18,
+          "database_table_3840": 23
+        },
+        "value": "Südbayern"
+      }
+    ]
   },
   "28": {
     "id": 28,
@@ -1913,8 +2163,22 @@
         "color": "darker-gray"
       }
     ],
-    "cod_unit_placed": [],
-    "prov_place": []
+    "cod_unit_placed": [
+      {
+        "id": 24,
+        "value": "hit_codunit_place__24",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 19,
+          "database_table_3840": 24
+        },
+        "value": "Regensburg"
+      }
+    ]
   },
   "29": {
     "id": 29,
@@ -1968,8 +2232,22 @@
     "written_height": null,
     "width": null,
     "columns": [],
-    "cod_unit_placed": [],
-    "prov_place": []
+    "cod_unit_placed": [
+      {
+        "id": 25,
+        "value": "hit_codunit_place__25",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 3,
+          "database_table_3840": 25
+        },
+        "value": "Salzburg"
+      }
+    ]
   },
   "32": {
     "id": 32,

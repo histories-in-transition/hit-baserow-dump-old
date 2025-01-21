@@ -61,12 +61,12 @@
     "page": null,
     "view_label": "hit_codunit_place__1",
     "prev": {
-      "id": "hit_codunit_place__7",
-      "label": "hit_codunit_place__7"
+      "id": "hit_codunit_place__9",
+      "label": "hit_codunit_place__9"
     },
     "next": {
-      "id": "hit_codunit_place__2",
-      "label": "hit_codunit_place__2"
+      "id": "hit_codunit_place__10",
+      "label": "hit_codunit_place__10"
     }
   },
   "2": {
@@ -126,12 +126,12 @@
     "page": null,
     "view_label": "hit_codunit_place__2",
     "prev": {
-      "id": "hit_codunit_place__1",
-      "label": "hit_codunit_place__1"
+      "id": "hit_codunit_place__19",
+      "label": "hit_codunit_place__19"
     },
     "next": {
-      "id": "hit_codunit_place__3",
-      "label": "hit_codunit_place__3"
+      "id": "hit_codunit_place__20",
+      "label": "hit_codunit_place__20"
     }
   },
   "3": {
@@ -191,8 +191,8 @@
     "page": "",
     "view_label": "hit_codunit_place__3",
     "prev": {
-      "id": "hit_codunit_place__2",
-      "label": "hit_codunit_place__2"
+      "id": "hit_codunit_place__26",
+      "label": "hit_codunit_place__26"
     },
     "next": {
       "id": "hit_codunit_place__4",
@@ -417,12 +417,56 @@
   "7": {
     "id": 7,
     "hit_id": "hit_codunit_place__7",
-    "cod_unit": [],
-    "place": [],
+    "cod_unit": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6308, cod. unit 1"
+      }
+    ],
+    "place": [
+      {
+        "id": 4,
+        "name": "Freising",
+        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+        "hit_id": "hit_place__4",
+        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+        "country": [
+          {
+            "id": 2,
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
     "from": [],
-    "type": [],
+    "type": [
+      {
+        "id": 18150,
+        "value": "orig",
+        "color": "deep-dark-orange"
+      }
+    ],
     "till": [],
-    "ms": [],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6308"
+      }
+    ],
     "authority": [],
     "page": "",
     "view_label": "hit_codunit_place__7",
@@ -431,8 +475,1243 @@
       "label": "hit_codunit_place__6"
     },
     "next": {
+      "id": "hit_codunit_place__8",
+      "label": "hit_codunit_place__8"
+    }
+  },
+  "8": {
+    "id": 8,
+    "hit_id": "hit_codunit_place__8",
+    "cod_unit": [
+      {
+        "id": 6,
+        "value": "BSB, Clm. 6388, cod. unit 1"
+      }
+    ],
+    "place": [
+      {
+        "id": 4,
+        "name": "Freising",
+        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+        "hit_id": "hit_place__4",
+        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+        "country": [
+          {
+            "id": 2,
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "from": [],
+    "type": [
+      {
+        "id": 18150,
+        "value": "orig",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "till": [],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6388"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "view_label": "hit_codunit_place__8",
+    "prev": {
+      "id": "hit_codunit_place__7",
+      "label": "hit_codunit_place__7"
+    },
+    "next": {
+      "id": "hit_codunit_place__9",
+      "label": "hit_codunit_place__9"
+    }
+  },
+  "9": {
+    "id": 9,
+    "hit_id": "hit_codunit_place__9",
+    "cod_unit": [
+      {
+        "id": 8,
+        "value": "BSB, Clm. 6388, cod. unit 2"
+      }
+    ],
+    "place": [
+      {
+        "id": 9,
+        "name": "Norditalien",
+        "geonames_url": "",
+        "hit_id": "hit_place__9",
+        "wikidata_url": "",
+        "country": [
+          {
+            "id": 13,
+            "name": "Italien",
+            "geonames_url": "https://www.geonames.org/3175395/italian-republic.html",
+            "hit_id": "hit_place__13",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "from": [],
+    "type": [
+      {
+        "id": 18150,
+        "value": "orig",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "till": [],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6388"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "view_label": "hit_codunit_place__9",
+    "prev": {
+      "id": "hit_codunit_place__8",
+      "label": "hit_codunit_place__8"
+    },
+    "next": {
       "id": "hit_codunit_place__1",
       "label": "hit_codunit_place__1"
+    }
+  },
+  "10": {
+    "id": 10,
+    "hit_id": "hit_codunit_place__10",
+    "cod_unit": [
+      {
+        "id": 9,
+        "value": "BSB, Clm. 6388, cod. unit 3"
+      }
+    ],
+    "place": [
+      {
+        "id": 4,
+        "name": "Freising",
+        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+        "hit_id": "hit_place__4",
+        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+        "country": [
+          {
+            "id": 2,
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "from": [],
+    "type": [
+      {
+        "id": 18150,
+        "value": "orig",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "till": [],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6388"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "view_label": "hit_codunit_place__10",
+    "prev": {
+      "id": "hit_codunit_place__1",
+      "label": "hit_codunit_place__1"
+    },
+    "next": {
+      "id": "hit_codunit_place__11",
+      "label": "hit_codunit_place__11"
+    }
+  },
+  "11": {
+    "id": 11,
+    "hit_id": "hit_codunit_place__11",
+    "cod_unit": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6326, cod. unit 1"
+      }
+    ],
+    "place": [
+      {
+        "id": 4,
+        "name": "Freising",
+        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+        "hit_id": "hit_place__4",
+        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+        "country": [
+          {
+            "id": 2,
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "from": [],
+    "type": [
+      {
+        "id": 18150,
+        "value": "orig",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "till": [],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6326"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "view_label": "hit_codunit_place__11",
+    "prev": {
+      "id": "hit_codunit_place__10",
+      "label": "hit_codunit_place__10"
+    },
+    "next": {
+      "id": "hit_codunit_place__12",
+      "label": "hit_codunit_place__12"
+    }
+  },
+  "12": {
+    "id": 12,
+    "hit_id": "hit_codunit_place__12",
+    "cod_unit": [
+      {
+        "id": 16,
+        "value": "BSB, Clm. 6380, cod. unit 1"
+      }
+    ],
+    "place": [
+      {
+        "id": 4,
+        "name": "Freising",
+        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+        "hit_id": "hit_place__4",
+        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+        "country": [
+          {
+            "id": 2,
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "from": [],
+    "type": [
+      {
+        "id": 18150,
+        "value": "orig",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "till": [],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6380"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "view_label": "hit_codunit_place__12",
+    "prev": {
+      "id": "hit_codunit_place__11",
+      "label": "hit_codunit_place__11"
+    },
+    "next": {
+      "id": "hit_codunit_place__13",
+      "label": "hit_codunit_place__13"
+    }
+  },
+  "13": {
+    "id": 13,
+    "hit_id": "hit_codunit_place__13",
+    "cod_unit": [
+      {
+        "id": 17,
+        "value": "BSB, Clm. 6381, cod. unit 1"
+      }
+    ],
+    "place": [
+      {
+        "id": 11,
+        "name": "Benediktbeuern",
+        "geonames_url": "https://www.geonames.org/2951104/benediktbeuern.html",
+        "hit_id": "hit_place__11",
+        "wikidata_url": "",
+        "country": [
+          {
+            "id": 2,
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "from": [],
+    "type": [
+      {
+        "id": 18150,
+        "value": "orig",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "till": [],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6381"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "view_label": "hit_codunit_place__13",
+    "prev": {
+      "id": "hit_codunit_place__12",
+      "label": "hit_codunit_place__12"
+    },
+    "next": {
+      "id": "hit_codunit_place__14",
+      "label": "hit_codunit_place__14"
+    }
+  },
+  "14": {
+    "id": 14,
+    "hit_id": "hit_codunit_place__14",
+    "cod_unit": [
+      {
+        "id": 18,
+        "value": "BSB, Clm. 6382, cod. unit 1"
+      }
+    ],
+    "place": [
+      {
+        "id": 17,
+        "name": "Reims",
+        "geonames_url": "https://www.geonames.org/2984114/reims.html",
+        "hit_id": "hit_place__17",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q41876",
+        "country": [
+          {
+            "id": 14,
+            "name": "Frankreich",
+            "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+            "hit_id": "hit_place__14",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-09-17"
+      }
+    ],
+    "from": [],
+    "type": [
+      {
+        "id": 18150,
+        "value": "orig",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "till": [],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "view_label": "hit_codunit_place__14",
+    "prev": {
+      "id": "hit_codunit_place__13",
+      "label": "hit_codunit_place__13"
+    },
+    "next": {
+      "id": "hit_codunit_place__15",
+      "label": "hit_codunit_place__15"
+    }
+  },
+  "15": {
+    "id": 15,
+    "hit_id": "hit_codunit_place__15",
+    "cod_unit": [
+      {
+        "id": 19,
+        "value": "BSB, Clm. 6382, cod. unit 2"
+      }
+    ],
+    "place": [
+      {
+        "id": 4,
+        "name": "Freising",
+        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+        "hit_id": "hit_place__4",
+        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+        "country": [
+          {
+            "id": 2,
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "from": [],
+    "type": [
+      {
+        "id": 18150,
+        "value": "orig",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "till": [],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "view_label": "hit_codunit_place__15",
+    "prev": {
+      "id": "hit_codunit_place__14",
+      "label": "hit_codunit_place__14"
+    },
+    "next": {
+      "id": "hit_codunit_place__16",
+      "label": "hit_codunit_place__16"
+    }
+  },
+  "16": {
+    "id": 16,
+    "hit_id": "hit_codunit_place__16",
+    "cod_unit": [
+      {
+        "id": 20,
+        "value": "BSB, Clm. 6383, cod. unit 1"
+      }
+    ],
+    "place": [
+      {
+        "id": 4,
+        "name": "Freising",
+        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+        "hit_id": "hit_place__4",
+        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+        "country": [
+          {
+            "id": 2,
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "from": [],
+    "type": [
+      {
+        "id": 18150,
+        "value": "orig",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "till": [],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6383"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "view_label": "hit_codunit_place__16",
+    "prev": {
+      "id": "hit_codunit_place__15",
+      "label": "hit_codunit_place__15"
+    },
+    "next": {
+      "id": "hit_codunit_place__17",
+      "label": "hit_codunit_place__17"
+    }
+  },
+  "17": {
+    "id": 17,
+    "hit_id": "hit_codunit_place__17",
+    "cod_unit": [
+      {
+        "id": 21,
+        "value": "BSB, Clm. 6341, cod. unit 1"
+      }
+    ],
+    "place": [
+      {
+        "id": 12,
+        "name": "Bodensee",
+        "geonames_url": "https://www.geonames.org/11919717/bodenseeregion.html",
+        "hit_id": "hit_place__12",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q579011",
+        "country": [
+          {
+            "id": 2,
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-11-20"
+      }
+    ],
+    "from": [],
+    "type": [
+      {
+        "id": 18150,
+        "value": "orig",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "till": [],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6341"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "view_label": "hit_codunit_place__17",
+    "prev": {
+      "id": "hit_codunit_place__16",
+      "label": "hit_codunit_place__16"
+    },
+    "next": {
+      "id": "hit_codunit_place__18",
+      "label": "hit_codunit_place__18"
+    }
+  },
+  "18": {
+    "id": 18,
+    "hit_id": "hit_codunit_place__18",
+    "cod_unit": [
+      {
+        "id": 22,
+        "value": "BSB, Clm. 6341, cod. unit 2"
+      }
+    ],
+    "place": [
+      {
+        "id": 4,
+        "name": "Freising",
+        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+        "hit_id": "hit_place__4",
+        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+        "country": [
+          {
+            "id": 2,
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "from": [],
+    "type": [
+      {
+        "id": 18150,
+        "value": "orig",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "till": [],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6341"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "view_label": "hit_codunit_place__18",
+    "prev": {
+      "id": "hit_codunit_place__17",
+      "label": "hit_codunit_place__17"
+    },
+    "next": {
+      "id": "hit_codunit_place__19",
+      "label": "hit_codunit_place__19"
+    }
+  },
+  "19": {
+    "id": 19,
+    "hit_id": "hit_codunit_place__19",
+    "cod_unit": [
+      {
+        "id": 23,
+        "value": "BSB, Clm. 6393, cod. unit 1"
+      }
+    ],
+    "place": [
+      {
+        "id": 4,
+        "name": "Freising",
+        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+        "hit_id": "hit_place__4",
+        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+        "country": [
+          {
+            "id": 2,
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "from": [],
+    "type": [
+      {
+        "id": 18150,
+        "value": "orig",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "till": [],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6393"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "view_label": "hit_codunit_place__19",
+    "prev": {
+      "id": "hit_codunit_place__18",
+      "label": "hit_codunit_place__18"
+    },
+    "next": {
+      "id": "hit_codunit_place__2",
+      "label": "hit_codunit_place__2"
+    }
+  },
+  "20": {
+    "id": 20,
+    "hit_id": "hit_codunit_place__20",
+    "cod_unit": [
+      {
+        "id": 24,
+        "value": "BSB, Clm. 6391, cod. unit 1"
+      }
+    ],
+    "place": [
+      {
+        "id": 4,
+        "name": "Freising",
+        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+        "hit_id": "hit_place__4",
+        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+        "country": [
+          {
+            "id": 2,
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "from": [],
+    "type": [
+      {
+        "id": 18150,
+        "value": "orig",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "till": [],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6391"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "view_label": "hit_codunit_place__20",
+    "prev": {
+      "id": "hit_codunit_place__2",
+      "label": "hit_codunit_place__2"
+    },
+    "next": {
+      "id": "hit_codunit_place__21",
+      "label": "hit_codunit_place__21"
+    }
+  },
+  "21": {
+    "id": 21,
+    "hit_id": "hit_codunit_place__21",
+    "cod_unit": [
+      {
+        "id": 25,
+        "value": "BSB, Clm. 6392, cod. unit 1"
+      }
+    ],
+    "place": [
+      {
+        "id": 4,
+        "name": "Freising",
+        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+        "hit_id": "hit_place__4",
+        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+        "country": [
+          {
+            "id": 2,
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "from": [],
+    "type": [
+      {
+        "id": 18150,
+        "value": "orig",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "till": [],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6392"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "view_label": "hit_codunit_place__21",
+    "prev": {
+      "id": "hit_codunit_place__20",
+      "label": "hit_codunit_place__20"
+    },
+    "next": {
+      "id": "hit_codunit_place__22",
+      "label": "hit_codunit_place__22"
+    }
+  },
+  "22": {
+    "id": 22,
+    "hit_id": "hit_codunit_place__22",
+    "cod_unit": [
+      {
+        "id": 26,
+        "value": "BSB, Clm. 1086, cod. unit 1"
+      }
+    ],
+    "place": [
+      {
+        "id": 10,
+        "name": "Bistum Eichstätt",
+        "geonames_url": "https://www.geonames.org/2932069/eichstaett.html",
+        "hit_id": "hit_place__10",
+        "wikidata_url": "https://de.wikipedia.org/wiki/Bistum_Eichstätt",
+        "country": [
+          {
+            "id": 2,
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 3,
+          "name": "Peter Andorfer"
+        },
+        "Last modified": "2024-07-04"
+      }
+    ],
+    "from": [],
+    "type": [
+      {
+        "id": 18150,
+        "value": "orig",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "till": [],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 1086"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "view_label": "hit_codunit_place__22",
+    "prev": {
+      "id": "hit_codunit_place__21",
+      "label": "hit_codunit_place__21"
+    },
+    "next": {
+      "id": "hit_codunit_place__23",
+      "label": "hit_codunit_place__23"
+    }
+  },
+  "23": {
+    "id": 23,
+    "hit_id": "hit_codunit_place__23",
+    "cod_unit": [
+      {
+        "id": 27,
+        "value": "BSB, Clm. 6375, cod. unit 1"
+      }
+    ],
+    "place": [
+      {
+        "id": 18,
+        "name": "Südbayern",
+        "geonames_url": "",
+        "hit_id": "hit_place__18",
+        "wikidata_url": "",
+        "country": [
+          {
+            "id": 2,
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-09-19"
+      }
+    ],
+    "from": [],
+    "type": [
+      {
+        "id": 18150,
+        "value": "orig",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "till": [],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6375"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "view_label": "hit_codunit_place__23",
+    "prev": {
+      "id": "hit_codunit_place__22",
+      "label": "hit_codunit_place__22"
+    },
+    "next": {
+      "id": "hit_codunit_place__24",
+      "label": "hit_codunit_place__24"
+    }
+  },
+  "24": {
+    "id": 24,
+    "hit_id": "hit_codunit_place__24",
+    "cod_unit": [
+      {
+        "id": 28,
+        "value": "BSB, Clm. 6376, cod. unit 1"
+      }
+    ],
+    "place": [
+      {
+        "id": 19,
+        "name": "Regensburg",
+        "geonames_url": "http://www.geonames.org/2849483/regensburg.html",
+        "hit_id": "hit_place__19",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q2978",
+        "country": [
+          {
+            "id": 2,
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2024-09-19"
+      }
+    ],
+    "from": [],
+    "type": [
+      {
+        "id": 18150,
+        "value": "orig",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "till": [],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6376"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "view_label": "hit_codunit_place__24",
+    "prev": {
+      "id": "hit_codunit_place__23",
+      "label": "hit_codunit_place__23"
+    },
+    "next": {
+      "id": "hit_codunit_place__25",
+      "label": "hit_codunit_place__25"
+    }
+  },
+  "25": {
+    "id": 25,
+    "hit_id": "hit_codunit_place__25",
+    "cod_unit": [
+      {
+        "id": 29,
+        "value": "BSB, Clm. 210, cod. unit 1"
+      }
+    ],
+    "place": [
+      {
+        "id": 3,
+        "name": "Salzburg",
+        "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
+        "hit_id": "hit_place__3",
+        "wikidata_url": "",
+        "country": [
+          {
+            "id": 1,
+            "name": "Österreich",
+            "geonames_url": "https://www.geonames.org/2782113/republic-of-austria.html",
+            "hit_id": "hit_place__1",
+            "wikidata_url": "https://www.wikidata.org/wiki/Q40",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-06-09"
+          }
+        ],
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "from": [],
+    "type": [
+      {
+        "id": 18150,
+        "value": "orig",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "till": [],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 210"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "view_label": "hit_codunit_place__25",
+    "prev": {
+      "id": "hit_codunit_place__24",
+      "label": "hit_codunit_place__24"
+    },
+    "next": {
+      "id": "hit_codunit_place__26",
+      "label": "hit_codunit_place__26"
+    }
+  },
+  "26": {
+    "id": 26,
+    "hit_id": "hit_codunit_place__26",
+    "cod_unit": [
+      {
+        "id": 8,
+        "value": "BSB, Clm. 6388, cod. unit 2"
+      }
+    ],
+    "place": [
+      {
+        "id": 4,
+        "name": "Freising",
+        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+        "hit_id": "hit_place__4",
+        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+        "country": [
+          {
+            "id": 2,
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "from": [],
+    "type": [
+      {
+        "id": 18151,
+        "value": "prov",
+        "color": "darker-blue"
+      }
+    ],
+    "till": [],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6388"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "view_label": "hit_codunit_place__26",
+    "prev": {
+      "id": "hit_codunit_place__25",
+      "label": "hit_codunit_place__25"
+    },
+    "next": {
+      "id": "hit_codunit_place__3",
+      "label": "hit_codunit_place__3"
     }
   }
 }

@@ -191,12 +191,12 @@
     "note": null,
     "view_label": "hit_hands_dated__8",
     "prev": {
-      "id": "hit_hands_dated__79",
-      "label": "hit_hands_dated__79"
+      "id": "hit_hands_dated__74",
+      "label": "hit_hands_dated__74"
     },
     "next": {
-      "id": "hit_hands_dated__80",
-      "label": "hit_hands_dated__80"
+      "id": "hit_hands_dated__82",
+      "label": "hit_hands_dated__82"
     }
   },
   "6": {
@@ -295,8 +295,8 @@
       "label": "hit_hands_dated__89"
     },
     "next": {
-      "id": "hit_hands_dated__90",
-      "label": "hit_hands_dated__90"
+      "id": "hit_hands_dated__11",
+      "label": "hit_hands_dated__11"
     }
   },
   "11": {
@@ -341,8 +341,8 @@
     "note": "",
     "view_label": "hit_hands_dated__11",
     "prev": {
-      "id": "hit_hands_dated__90",
-      "label": "hit_hands_dated__90"
+      "id": "hit_hands_dated__9",
+      "label": "hit_hands_dated__9"
     },
     "next": {
       "id": "hit_hands_dated__12",
@@ -3218,323 +3218,8 @@
       "label": "hit_hands_dated__73"
     },
     "next": {
-      "id": "hit_hands_dated__75",
-      "label": "hit_hands_dated__75"
-    }
-  },
-  "75": {
-    "id": 75,
-    "hit_id": "hit_hands_dated__75",
-    "authority": [
-      {
-        "id": 3,
-        "name": "Glauche G.",
-        "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
-        "zotero_id": "",
-        "hit_id": "hit_bibl__3"
-      }
-    ],
-    "page": "150",
-    "dated": [
-      {
-        "id": 3,
-        "label": "9 Jh., Mitte",
-        "not_before": "0840-01-01",
-        "hit_id": "hit_date__3",
-        "not_after": "0860-12-31",
-        "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
-        },
-        "Last modified": "2024-07-12"
-      }
-    ],
-    "hand": [],
-    "new_dating": false,
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-10-23",
-    "note": "",
-    "view_label": "hit_hands_dated__75",
-    "prev": {
-      "id": "hit_hands_dated__74",
-      "label": "hit_hands_dated__74"
-    },
-    "next": {
-      "id": "hit_hands_dated__76",
-      "label": "hit_hands_dated__76"
-    }
-  },
-  "76": {
-    "id": 76,
-    "hit_id": "hit_hands_dated__76",
-    "authority": [
-      {
-        "id": 3,
-        "name": "Glauche G.",
-        "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
-        "zotero_id": "",
-        "hit_id": "hit_bibl__3"
-      }
-    ],
-    "page": "150",
-    "dated": [
-      {
-        "id": 3,
-        "label": "9 Jh., Mitte",
-        "not_before": "0840-01-01",
-        "hit_id": "hit_date__3",
-        "not_after": "0860-12-31",
-        "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
-        },
-        "Last modified": "2024-07-12"
-      }
-    ],
-    "hand": [],
-    "new_dating": false,
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-10-23",
-    "note": "",
-    "view_label": "hit_hands_dated__76",
-    "prev": {
-      "id": "hit_hands_dated__75",
-      "label": "hit_hands_dated__75"
-    },
-    "next": {
-      "id": "hit_hands_dated__77",
-      "label": "hit_hands_dated__77"
-    }
-  },
-  "77": {
-    "id": 77,
-    "hit_id": "hit_hands_dated__77",
-    "authority": [
-      {
-        "id": 3,
-        "name": "Glauche G.",
-        "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
-        "zotero_id": "",
-        "hit_id": "hit_bibl__3"
-      }
-    ],
-    "page": "150",
-    "dated": [
-      {
-        "id": 3,
-        "label": "9 Jh., Mitte",
-        "not_before": "0840-01-01",
-        "hit_id": "hit_date__3",
-        "not_after": "0860-12-31",
-        "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
-        },
-        "Last modified": "2024-07-12"
-      }
-    ],
-    "hand": [],
-    "new_dating": false,
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-10-23",
-    "note": "",
-    "view_label": "hit_hands_dated__77",
-    "prev": {
-      "id": "hit_hands_dated__76",
-      "label": "hit_hands_dated__76"
-    },
-    "next": {
-      "id": "hit_hands_dated__78",
-      "label": "hit_hands_dated__78"
-    }
-  },
-  "78": {
-    "id": 78,
-    "hit_id": "hit_hands_dated__78",
-    "authority": [
-      {
-        "id": 3,
-        "name": "Glauche G.",
-        "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
-        "zotero_id": "",
-        "hit_id": "hit_bibl__3"
-      }
-    ],
-    "page": "150",
-    "dated": [
-      {
-        "id": 3,
-        "label": "9 Jh., Mitte",
-        "not_before": "0840-01-01",
-        "hit_id": "hit_date__3",
-        "not_after": "0860-12-31",
-        "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
-        },
-        "Last modified": "2024-07-12"
-      }
-    ],
-    "hand": [],
-    "new_dating": false,
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-10-23",
-    "note": "",
-    "view_label": "hit_hands_dated__78",
-    "prev": {
-      "id": "hit_hands_dated__77",
-      "label": "hit_hands_dated__77"
-    },
-    "next": {
-      "id": "hit_hands_dated__79",
-      "label": "hit_hands_dated__79"
-    }
-  },
-  "79": {
-    "id": 79,
-    "hit_id": "hit_hands_dated__79",
-    "authority": [
-      {
-        "id": 3,
-        "name": "Glauche G.",
-        "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
-        "zotero_id": "",
-        "hit_id": "hit_bibl__3"
-      }
-    ],
-    "page": "150",
-    "dated": [
-      {
-        "id": 3,
-        "label": "9 Jh., Mitte",
-        "not_before": "0840-01-01",
-        "hit_id": "hit_date__3",
-        "not_after": "0860-12-31",
-        "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
-        },
-        "Last modified": "2024-07-12"
-      }
-    ],
-    "hand": [],
-    "new_dating": false,
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-10-23",
-    "note": "",
-    "view_label": "hit_hands_dated__79",
-    "prev": {
-      "id": "hit_hands_dated__78",
-      "label": "hit_hands_dated__78"
-    },
-    "next": {
       "id": "hit_hands_dated__8",
       "label": "hit_hands_dated__8"
-    }
-  },
-  "80": {
-    "id": 80,
-    "hit_id": "hit_hands_dated__80",
-    "authority": [
-      {
-        "id": 3,
-        "name": "Glauche G.",
-        "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
-        "zotero_id": "",
-        "hit_id": "hit_bibl__3"
-      }
-    ],
-    "page": "150",
-    "dated": [
-      {
-        "id": 3,
-        "label": "9 Jh., Mitte",
-        "not_before": "0840-01-01",
-        "hit_id": "hit_date__3",
-        "not_after": "0860-12-31",
-        "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
-        },
-        "Last modified": "2024-07-12"
-      }
-    ],
-    "hand": [],
-    "new_dating": false,
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-10-23",
-    "note": "",
-    "view_label": "hit_hands_dated__80",
-    "prev": {
-      "id": "hit_hands_dated__8",
-      "label": "hit_hands_dated__8"
-    },
-    "next": {
-      "id": "hit_hands_dated__81",
-      "label": "hit_hands_dated__81"
-    }
-  },
-  "81": {
-    "id": 81,
-    "hit_id": "hit_hands_dated__81",
-    "authority": [
-      {
-        "id": 3,
-        "name": "Glauche G.",
-        "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
-        "zotero_id": "",
-        "hit_id": "hit_bibl__3"
-      }
-    ],
-    "page": "150",
-    "dated": [
-      {
-        "id": 3,
-        "label": "9 Jh., Mitte",
-        "not_before": "0840-01-01",
-        "hit_id": "hit_date__3",
-        "not_after": "0860-12-31",
-        "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
-        },
-        "Last modified": "2024-07-12"
-      }
-    ],
-    "hand": [],
-    "new_dating": false,
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-10-23",
-    "note": "",
-    "view_label": "hit_hands_dated__81",
-    "prev": {
-      "id": "hit_hands_dated__80",
-      "label": "hit_hands_dated__80"
-    },
-    "next": {
-      "id": "hit_hands_dated__82",
-      "label": "hit_hands_dated__82"
     }
   },
   "82": {
@@ -3571,8 +3256,8 @@
     "note": "",
     "view_label": "hit_hands_dated__82",
     "prev": {
-      "id": "hit_hands_dated__81",
-      "label": "hit_hands_dated__81"
+      "id": "hit_hands_dated__8",
+      "label": "hit_hands_dated__8"
     },
     "next": {
       "id": "hit_hands_dated__83",
@@ -3843,30 +3528,6 @@
     "next": {
       "id": "hit_hands_dated__9",
       "label": "hit_hands_dated__9"
-    }
-  },
-  "90": {
-    "id": 90,
-    "hit_id": "hit_hands_dated__90",
-    "authority": [],
-    "page": "",
-    "dated": [],
-    "hand": [],
-    "new_dating": false,
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified": "2025-01-17",
-    "note": "",
-    "view_label": "hit_hands_dated__90",
-    "prev": {
-      "id": "hit_hands_dated__9",
-      "label": "hit_hands_dated__9"
-    },
-    "next": {
-      "id": "hit_hands_dated__11",
-      "label": "hit_hands_dated__11"
     }
   }
 }

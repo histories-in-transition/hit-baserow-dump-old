@@ -208,5 +208,41 @@
     ],
     "authority": [],
     "page": ""
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "hit_id": "hit_codunit_place__6",
+    "cod_unit": [
+      {
+        "id": 33,
+        "value": "BSB, Clm. 29226, cod. unit 1",
+        "order": "29.00000000000000000000"
+      }
+    ],
+    "place": [
+      {
+        "id": 4,
+        "value": "Freising",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "from": [],
+    "type": [
+      {
+        "id": 18150,
+        "value": "orig",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "till": [],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 29226"
+      }
+    ],
+    "authority": [],
+    "page": ""
   }
 }

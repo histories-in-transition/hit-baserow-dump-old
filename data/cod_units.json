@@ -27589,8 +27589,8 @@
     "prov_place": [],
     "view_label": "BSB, Clm. 6308, cod. unit 1",
     "prev": {
-      "id": "hit_cod_unit__32",
-      "label": "Saint-Omer, ms. 706, cod. unit 1"
+      "id": "hit_cod_unit__33",
+      "label": "BSB, Clm. 29226, cod. unit 1"
     },
     "next": {
       "id": "hit_cod_unit__5",
@@ -116298,8 +116298,8 @@
       "label": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
     },
     "next": {
-      "id": "hit_cod_unit__4",
-      "label": "BSB, Clm. 6308, cod. unit 1"
+      "id": "hit_cod_unit__33",
+      "label": "BSB, Clm. 29226, cod. unit 1"
     },
     "related__ms_items": [
       {
@@ -119515,5 +119515,132 @@
         }
       }
     ]
+  },
+  "33": {
+    "id": 33,
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 18,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 29226, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__33",
+    "locus": "",
+    "manuscript": [
+      {
+        "id": 18,
+        "value": "BSB, Clm. 29226"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "prov_place_old": [
+      {
+        "id": 4,
+        "value": "Freising"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-01-20",
+    "orig_date": [
+      {
+        "id": 36,
+        "value": "12. Jh."
+      }
+    ],
+    "quires_number": "",
+    "heigth": "",
+    "lines_number": "",
+    "decorations": false,
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "",
+    "written_height": "",
+    "width": "",
+    "columns": [],
+    "cod_unit_placed": [
+      {
+        "id": 6,
+        "hit_id": "hit_codunit_place__6",
+        "cod_unit": [
+          {
+            "id": 33,
+            "value": "BSB, Clm. 29226, cod. unit 1"
+          }
+        ],
+        "place": [
+          {
+            "id": 4,
+            "name": "Freising",
+            "geonames_url": "https://www.geonames.org/2925034/freising.html",
+            "hit_id": "hit_place__4",
+            "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+            "country": [
+              {
+                "id": 2,
+                "name": "Deutschland",
+                "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+                "hit_id": "hit_place__2",
+                "wikidata_url": "",
+                "country": [],
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "from": [],
+        "type": [
+          {
+            "id": 18150,
+            "value": "orig",
+            "color": "deep-dark-orange"
+          }
+        ],
+        "till": [],
+        "ms": [
+          {
+            "id": 4,
+            "value": "BSB, Clm. 29226"
+          }
+        ],
+        "authority": [],
+        "page": ""
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 6
+        },
+        "value": "Freising"
+      }
+    ],
+    "view_label": "BSB, Clm. 29226, cod. unit 1",
+    "prev": {
+      "id": "hit_cod_unit__32",
+      "label": "Saint-Omer, ms. 706, cod. unit 1"
+    },
+    "next": {
+      "id": "hit_cod_unit__4",
+      "label": "BSB, Clm. 6308, cod. unit 1"
+    },
+    "related__ms_items": []
   }
 }

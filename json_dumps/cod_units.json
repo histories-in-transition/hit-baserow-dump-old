@@ -2062,5 +2062,80 @@
         "value": "Abtei Saint-Bertin"
       }
     ]
+  },
+  "33": {
+    "id": 33,
+    "order": "29.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 18,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 29226, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__33",
+    "locus": "",
+    "manuscript": [
+      {
+        "id": 18,
+        "value": "BSB, Clm. 29226",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "prov_place_old": [
+      {
+        "id": 4,
+        "value": "Freising",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-01-20",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-01-20",
+    "orig_date": [
+      {
+        "id": 36,
+        "value": "12. Jh.",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "quires_number": "",
+    "heigth": "",
+    "lines_number": "",
+    "decorations": false,
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "",
+    "written_height": "",
+    "width": "",
+    "columns": [],
+    "cod_unit_placed": [
+      {
+        "id": 6,
+        "value": "hit_codunit_place__6",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 6
+        },
+        "value": "Freising"
+      }
+    ]
   }
 }

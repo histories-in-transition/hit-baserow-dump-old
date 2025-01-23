@@ -969,7 +969,13 @@
     "foliation": "19 Jh.",
     "acc_mat": "am Anfang ein Verzeichnis der Kirchensachen und Bücher der Kirche von Hl. Primus und Hl. Felicianus",
     "binding": "Heller spätgotischer Ledereinband mit Streicheisenlinien. Schließen (eine davon am Hinterdeckel rot) und Kettenöse abgerissen. Am Vorderdeckel je ein Papierschild mit Titel Orosius ad Augustinumund Nummer R 27(zweite Ziffer beschädigt). Am Rücken je ein Papierzettel (17.Jh.) mit Inhaltsangabe und Fachbezeichnung N 1[0] bzw. Standortsignatur L[K] 17.",
-    "binding_date": [],
+    "binding_date": [
+      {
+        "id": 20,
+        "value": "14-15 Jh.",
+        "order": "20.00000000000000000000"
+      }
+    ],
     "history": "Gemäß Schriftbefund in Freising entstanden. Besitzvermerk Iste liber est sancte Marie et sancti Corbiniani Frisinge (12.Jh., 1 r). (Glauche)",
     "bibliography": [],
     "height": "285",
@@ -1017,11 +1023,11 @@
       "name": "Ksenia Borisova"
     },
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-13",
-    "Last modified": "2025-01-16",
+    "Last modified": "2025-01-22",
     "content_summary": null,
     "charakter": [],
     "case_study": [
@@ -2820,7 +2826,7 @@
     "case_study": [
       {
         "id": 18149,
-        "value": "Projekt Gregor von Tours",
+        "value": "Projekt \"Carolingian Editions\"",
         "color": "darker-brown"
       }
     ],
@@ -2831,5 +2837,193 @@
         "color": "light-brown"
       }
     ]
+  },
+  "32": {
+    "id": 32,
+    "order": "25.00000000000000000000",
+    "shelfmark": [
+      {
+        "id": 11,
+        "value": "Saint-Omer, ms. 697"
+      }
+    ],
+    "hit_id": "hit_manuscript__32",
+    "library": [
+      {
+        "id": 11,
+        "value": "Saint-Omer",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "ms. 697",
+    "idno_former": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 11,
+        "value": "Saint-Omer, Bibliothèque d'agglomération de Saint-Omer"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "history": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material_spec": "",
+    "orig_place": [
+      {
+        "id": 21,
+        "value": "Abtei Saint-Bertin",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": null,
+    "provenance": [
+      {
+        "id": 12,
+        "value": "Abtei Saint-Bertin",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "manuscripts_dated": [
+      {
+        "id": 35,
+        "value": "hit_dated__35",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 60,
+          "database_table_3516": 35
+        },
+        "value": "986-1007"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-22",
+    "Last modified": "2025-01-22",
+    "content_summary": "",
+    "charakter": [],
+    "case_study": [
+      {
+        "id": 18149,
+        "value": "Projekt \"Carolingian Editions\"",
+        "color": "darker-brown"
+      }
+    ],
+    "status": []
+  },
+  "33": {
+    "id": 33,
+    "order": "26.00000000000000000000",
+    "shelfmark": [
+      {
+        "id": 13,
+        "value": "Bruxelles KBR, ms. 15835"
+      }
+    ],
+    "hit_id": "hit_manuscript__33",
+    "library": [
+      {
+        "id": 13,
+        "value": "Bruxelles KBR",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "ms. 15835",
+    "idno_former": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 13,
+        "value": "Bibliothèque royale de Belgique"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "history": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material_spec": "",
+    "orig_place": [
+      {
+        "id": 21,
+        "value": "Abtei Saint-Bertin",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": null,
+    "provenance": [
+      {
+        "id": 12,
+        "value": "Abtei Saint-Bertin",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "manuscripts_dated": [
+      {
+        "id": 36,
+        "value": "hit_dated__36",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 60,
+          "database_table_3516": 36
+        },
+        "value": "986-1007"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-22",
+    "Last modified": "2025-01-22",
+    "content_summary": "",
+    "charakter": [],
+    "case_study": [
+      {
+        "id": 18149,
+        "value": "Projekt \"Carolingian Editions\"",
+        "color": "darker-brown"
+      }
+    ],
+    "status": []
   }
 }

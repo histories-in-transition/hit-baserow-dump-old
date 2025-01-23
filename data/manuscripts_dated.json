@@ -91,8 +91,8 @@
     "note": null,
     "view_label": "hit_dated__4",
     "prev": {
-      "id": "hit_dated__34",
-      "label": "hit_dated__34"
+      "id": "hit_dated__37",
+      "label": "hit_dated__37"
     },
     "next": {
       "id": "hit_dated__5",
@@ -1617,6 +1617,130 @@
     "prev": {
       "id": "hit_dated__33",
       "label": "hit_dated__33"
+    },
+    "next": {
+      "id": "hit_dated__35",
+      "label": "hit_dated__35"
+    }
+  },
+  "35": {
+    "id": 35,
+    "hit_id": "hit_dated__35",
+    "manuscript": [
+      {
+        "id": 32,
+        "value": "Saint-Omer, ms. 697"
+      }
+    ],
+    "date": [
+      {
+        "id": 60,
+        "label": "986-1007",
+        "not_before": "0986-01-01",
+        "hit_id": "hit_date__60",
+        "not_after": null,
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-15"
+      }
+    ],
+    "authority": [
+      {
+        "id": 14,
+        "name": "Pürstinger",
+        "short_title": "Masterarbeit bzw. Publikation",
+        "zotero_id": "",
+        "hit_id": "hit_bibl__14"
+      }
+    ],
+    "page": "58-62",
+    "preferred_date": true,
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-22T10:40:39.958695Z",
+    "note": "",
+    "view_label": "hit_dated__35",
+    "prev": {
+      "id": "hit_dated__34",
+      "label": "hit_dated__34"
+    },
+    "next": {
+      "id": "hit_dated__36",
+      "label": "hit_dated__36"
+    }
+  },
+  "36": {
+    "id": 36,
+    "hit_id": "hit_dated__36",
+    "manuscript": [
+      {
+        "id": 33,
+        "value": "Bruxelles KBR, ms. 15835"
+      }
+    ],
+    "date": [
+      {
+        "id": 60,
+        "label": "986-1007",
+        "not_before": "0986-01-01",
+        "hit_id": "hit_date__60",
+        "not_after": null,
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-15"
+      }
+    ],
+    "authority": [
+      {
+        "id": 14,
+        "name": "Pürstinger",
+        "short_title": "Masterarbeit bzw. Publikation",
+        "zotero_id": "",
+        "hit_id": "hit_bibl__14"
+      }
+    ],
+    "page": "58-62",
+    "preferred_date": true,
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-22T11:00:57.382700Z",
+    "note": "",
+    "view_label": "hit_dated__36",
+    "prev": {
+      "id": "hit_dated__35",
+      "label": "hit_dated__35"
+    },
+    "next": {
+      "id": "hit_dated__37",
+      "label": "hit_dated__37"
+    }
+  },
+  "37": {
+    "id": 37,
+    "hit_id": "hit_dated__37",
+    "manuscript": [],
+    "date": [],
+    "authority": [],
+    "page": "",
+    "preferred_date": false,
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-22T11:00:33.953287Z",
+    "note": "",
+    "view_label": "hit_dated__37",
+    "prev": {
+      "id": "hit_dated__36",
+      "label": "hit_dated__36"
     },
     "next": {
       "id": "hit_dated__4",

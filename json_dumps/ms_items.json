@@ -4197,13 +4197,6 @@
           "database_table_3488": 4
         },
         "value": "BSB, Clm. 6391_H. 2"
-      },
-      {
-        "ids": {
-          "database_table_3487": 13,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6391_H. 3"
       }
     ],
     "decoration": [],
@@ -10683,53 +10676,6 @@
     "form_note": null,
     "column": []
   },
-  "190": {
-    "id": 190,
-    "order": "148.00000000000000000000",
-    "label": [
-      {
-        "id": 21,
-        "value": "cod_2090__190"
-      }
-    ],
-    "manuscript": [
-      {
-        "id": 21,
-        "value": "ÖNB, Cod. 2090",
-        "order": "1.50000000000000000000"
-      }
-    ],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [],
-    "title_note": "",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__190",
-    "filiation": [],
-    "locus_grp": "",
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-10-10",
-    "Created on": "2024-10-10",
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "note": "",
-    "hand": [],
-    "decoration": [],
-    "facs_url": "",
-    "form": [],
-    "form_note": null,
-    "column": []
-  },
   "191": {
     "id": 191,
     "order": "149.00000000000000000000",
@@ -11113,6 +11059,42 @@
       "name": "Leon Pürstinger"
     },
     "note": "In der Handschrift als das zweite Buch der Decem libri historiarum markiert. Enthält sowohl Kapitel der Historien als auch des Liber historiae Francorum in einer originellen Neubearbeitung.",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": []
+  },
+  "200": {
+    "id": 200,
+    "order": "156.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__200",
+    "filiation": [],
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2025-01-22",
+    "Created on": "2025-01-22",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
     "hand": [],
     "decoration": [],
     "facs_url": "",

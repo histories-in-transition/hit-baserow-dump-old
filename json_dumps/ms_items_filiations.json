@@ -2,12 +2,34 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "shelfmark": [],
-    "work": [],
-    "library": [],
-    "idno": null,
+    "shelfmark": [
+      {
+        "id": 11,
+        "value": "Saint-Omer 2345355"
+      }
+    ],
+    "work": [
+      {
+        "id": 4,
+        "value": "De cyclo paschali",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 7,
+        "value": "De temporum ratione",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "library": [
+      {
+        "id": 11,
+        "value": "Saint-Omer",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "idno": "2345355",
     "hit_id": "hit_ms_filiations__1",
-    "locus": "-"
+    "locus": ""
   },
   "2": {
     "id": 2,

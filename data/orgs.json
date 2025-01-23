@@ -77,8 +77,8 @@
     "Last modified": "2024-07-11",
     "view_label": "UBWÜ",
     "prev": {
-      "id": "hit_org__12",
-      "label": "Abtei Saint-Bertin"
+      "id": "hit_org__13",
+      "label": "Bruxelles KBR"
     },
     "next": {
       "id": "hit_org__4",
@@ -466,6 +466,49 @@
     "prev": {
       "id": "hit_org__11",
       "label": "Saint-Omer"
+    },
+    "next": {
+      "id": "hit_org__13",
+      "label": "Bruxelles KBR"
+    }
+  },
+  "13": {
+    "id": 13,
+    "label": "Bruxelles KBR",
+    "hit_id": "hit_org__13",
+    "gnd_url": "https://d-nb.info/gnd/1023393-3",
+    "library_full": "Bibliothèque royale de Belgique",
+    "library_website": "",
+    "settlement": [
+      {
+        "id": 24,
+        "name": "Brüssel",
+        "geonames_url": "https://www.geonames.org/2800866/brussels.html",
+        "hit_id": "hit_place__24",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q239",
+        "country": [
+          {
+            "id": 23,
+            "value": "Belgien"
+          }
+        ],
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-22"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/wiki/Q383931",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-22",
+    "view_label": "Bruxelles KBR",
+    "prev": {
+      "id": "hit_org__12",
+      "label": "Abtei Saint-Bertin"
     },
     "next": {
       "id": "hit_org__2",

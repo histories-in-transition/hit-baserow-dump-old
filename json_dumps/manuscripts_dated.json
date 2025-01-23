@@ -1256,5 +1256,104 @@
     },
     "Last modified": "2025-01-15T13:57:28.111748Z",
     "note": ""
+  },
+  "35": {
+    "id": 35,
+    "order": "32.00000000000000000000",
+    "hit_id": "hit_dated__35",
+    "manuscript": [
+      {
+        "id": 32,
+        "value": "Saint-Omer, ms. 697",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "date": [
+      {
+        "id": 60,
+        "value": "986-1007",
+        "order": "60.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 14,
+        "value": "Pürstinger",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "page": "58-62",
+    "preferred_date": true,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-22",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-22T10:40:39.958695Z",
+    "note": ""
+  },
+  "36": {
+    "id": 36,
+    "order": "33.00000000000000000000",
+    "hit_id": "hit_dated__36",
+    "manuscript": [
+      {
+        "id": 33,
+        "value": "Bruxelles KBR, ms. 15835",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "date": [
+      {
+        "id": 60,
+        "value": "986-1007",
+        "order": "60.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 14,
+        "value": "Pürstinger",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "page": "58-62",
+    "preferred_date": true,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-22",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-22T11:00:57.382700Z",
+    "note": ""
+  },
+  "37": {
+    "id": 37,
+    "order": "34.00000000000000000000",
+    "hit_id": "hit_dated__37",
+    "manuscript": [],
+    "date": [],
+    "authority": [],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-22",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-22T11:00:33.953287Z",
+    "note": ""
   }
 }

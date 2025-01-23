@@ -176,7 +176,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 3,
@@ -224,7 +224,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 10,
@@ -272,7 +272,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 17,
@@ -320,7 +320,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -1310,15 +1310,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-01",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -1385,7 +1385,9 @@
                         "value": "Bischoff"
                       }
                     ],
-                    "page": null
+                    "page": null,
+                    "certain_from": false,
+                    "ceratin_till": false
                   },
                   {
                     "id": 2,
@@ -1441,7 +1443,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": null
+                    "page": null,
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -1542,7 +1546,7 @@
         "locus_layout": [],
         "function": [],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       },
       {
         "id": 17,
@@ -1697,7 +1701,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 3,
@@ -1745,7 +1749,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 10,
@@ -1793,7 +1797,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 17,
@@ -1841,7 +1845,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -2831,15 +2835,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-01",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -2906,7 +2910,9 @@
                         "value": "Bischoff"
                       }
                     ],
-                    "page": null
+                    "page": null,
+                    "certain_from": false,
+                    "ceratin_till": false
                   },
                   {
                     "id": 2,
@@ -2962,7 +2968,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": null
+                    "page": null,
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -3063,7 +3071,7 @@
         "locus_layout": [],
         "function": [],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       },
       {
         "id": 18,
@@ -3226,7 +3234,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 19,
@@ -3274,7 +3282,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 20,
@@ -3322,7 +3330,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -4312,15 +4320,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-01",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -4387,7 +4395,9 @@
                         "value": "Bischoff"
                       }
                     ],
-                    "page": null
+                    "page": null,
+                    "certain_from": false,
+                    "ceratin_till": false
                   },
                   {
                     "id": 2,
@@ -4443,7 +4453,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": null
+                    "page": null,
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -4537,7 +4549,7 @@
         "locus_layout": [],
         "function": [],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       },
       {
         "id": 19,
@@ -4700,7 +4712,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 19,
@@ -4748,7 +4760,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 20,
@@ -4796,7 +4808,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -5786,15 +5798,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-01",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -5861,7 +5873,9 @@
                         "value": "Bischoff"
                       }
                     ],
-                    "page": null
+                    "page": null,
+                    "certain_from": false,
+                    "ceratin_till": false
                   },
                   {
                     "id": 2,
@@ -5917,7 +5931,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": null
+                    "page": null,
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -6011,7 +6027,7 @@
         "locus_layout": [],
         "function": [],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       },
       {
         "id": 20,
@@ -6174,7 +6190,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 19,
@@ -6222,7 +6238,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 20,
@@ -6270,7 +6286,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -7260,15 +7276,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-01",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -7335,7 +7351,9 @@
                         "value": "Bischoff"
                       }
                     ],
-                    "page": null
+                    "page": null,
+                    "certain_from": false,
+                    "ceratin_till": false
                   },
                   {
                     "id": 2,
@@ -7391,7 +7409,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": null
+                    "page": null,
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -7485,7 +7505,7 @@
         "locus_layout": [],
         "function": [],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       },
       {
         "id": 24,
@@ -7628,7 +7648,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -8618,15 +8638,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-01",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -8693,7 +8713,9 @@
                         "value": "Bischoff"
                       }
                     ],
-                    "page": null
+                    "page": null,
+                    "certain_from": false,
+                    "ceratin_till": false
                   },
                   {
                     "id": 2,
@@ -8749,7 +8771,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": null
+                    "page": null,
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -8823,15 +8847,21 @@
         "locus_layout": [],
         "function": [],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       }
     ],
     "note": "Dieses Stratum beschreibt die Anlage der Handschrift und besteht aus der Ostertafel samt den annalistischen Einträgen, den Mondtabellen und Bedas De temporum ratione ohne den Chronik-Abschnitt.",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-12-14",
+    "Last modified": "2025-01-22",
+    "strata_filiation": [
+      {
+        "id": 1,
+        "value": "Saint-Omer 2345355"
+      }
+    ],
     "view_label": "Cod. M. p. th. f. 46, Stratum 1",
     "prev": {
       "id": "hit_strata__9",
@@ -9051,7 +9081,7 @@
                   }
                 ],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -10041,15 +10071,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-01",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -10116,7 +10146,9 @@
                         "value": "Bischoff"
                       }
                     ],
-                    "page": null
+                    "page": null,
+                    "certain_from": false,
+                    "ceratin_till": false
                   },
                   {
                     "id": 2,
@@ -10172,7 +10204,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": null
+                    "page": null,
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -10258,7 +10292,7 @@
           }
         ],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       },
       {
         "id": 14,
@@ -10360,7 +10394,7 @@
                 ],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -11350,15 +11384,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-01",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -11425,7 +11459,9 @@
                         "value": "Bischoff"
                       }
                     ],
-                    "page": null
+                    "page": null,
+                    "certain_from": false,
+                    "ceratin_till": false
                   },
                   {
                     "id": 2,
@@ -11481,7 +11517,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": null
+                    "page": null,
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -11561,7 +11599,7 @@
         ],
         "function": [],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       },
       {
         "id": 4,
@@ -11723,7 +11761,7 @@
                 ],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -12713,15 +12751,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-01",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -12788,7 +12826,9 @@
                         "value": "Bischoff"
                       }
                     ],
-                    "page": null
+                    "page": null,
+                    "certain_from": false,
+                    "ceratin_till": false
                   },
                   {
                     "id": 2,
@@ -12844,7 +12884,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": null
+                    "page": null,
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -12924,7 +12966,7 @@
         ],
         "function": [],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       },
       {
         "id": 11,
@@ -13044,7 +13086,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 16,
@@ -13092,7 +13134,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 82,
@@ -13140,7 +13182,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -14130,15 +14172,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-01",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -14205,7 +14247,9 @@
                         "value": "Bischoff"
                       }
                     ],
-                    "page": null
+                    "page": null,
+                    "certain_from": false,
+                    "ceratin_till": false
                   },
                   {
                     "id": 2,
@@ -14261,7 +14305,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": null
+                    "page": null,
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -14349,7 +14395,7 @@
         "locus_layout": [],
         "function": [],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       },
       {
         "id": 16,
@@ -14469,7 +14515,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 16,
@@ -14517,7 +14563,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 82,
@@ -14565,7 +14611,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -15555,15 +15601,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-01",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -15630,7 +15676,9 @@
                         "value": "Bischoff"
                       }
                     ],
-                    "page": null
+                    "page": null,
+                    "certain_from": false,
+                    "ceratin_till": false
                   },
                   {
                     "id": 2,
@@ -15686,7 +15734,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": null
+                    "page": null,
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -15774,7 +15824,7 @@
         "locus_layout": [],
         "function": [],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       }
     ],
     "note": "Diverse Schreiber haben in Salzburg Annotationen, Korrekturen und Marginaltexte eingefügt. Das Gros dieser Bearbeitungen wurde durch den magister Baldo vorgenommen.",
@@ -15783,6 +15833,7 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-10-15",
+    "strata_filiation": [],
     "view_label": "Cod. M. p. th. f. 46, Stratum 2",
     "prev": {
       "id": "hit_strata__19",
@@ -16000,7 +16051,7 @@
                   }
                 ],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 15,
@@ -16048,7 +16099,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 22,
@@ -16096,7 +16147,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -16624,15 +16675,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-15",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -16694,7 +16745,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": ""
+                    "page": "",
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -16775,7 +16828,7 @@
         "locus_layout": [],
         "function": [],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       }
     ],
     "note": "Dieses Stratum umfasst die Arbeit eines einziges Schreibers, der den Chronik-Abschnitt von Bedas De temporum ratione anfertigt.",
@@ -16784,6 +16837,7 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-10-15",
+    "strata_filiation": [],
     "view_label": "Cod. M. p. th. f. 46, Stratum 3",
     "prev": {
       "id": "hit_strata__3",
@@ -16948,7 +17002,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -17076,15 +17130,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-15",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -17148,7 +17202,7 @@
         "locus_layout": [],
         "function": [],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       },
       {
         "id": 23,
@@ -17283,7 +17337,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -17411,15 +17465,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-15",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -17483,7 +17537,7 @@
         "locus_layout": [],
         "function": [],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       }
     ],
     "note": "Ein einzelnes, in Saint-Amand beschriebenes Blatt wurde der Handschrift nach Fertigstellung des primären Textbestandes entweder noch in Saint-Amand oder bereits in Salzburg hinzugefügt.",
@@ -17492,6 +17546,7 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-09-19",
+    "strata_filiation": [],
     "view_label": "Cod. M. p. th. f. 46, Stratum 4",
     "prev": {
       "id": "hit_strata__4",
@@ -17632,7 +17687,7 @@
                   }
                 ],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -18622,15 +18677,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-01",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -18697,7 +18752,9 @@
                         "value": "Bischoff"
                       }
                     ],
-                    "page": null
+                    "page": null,
+                    "certain_from": false,
+                    "ceratin_till": false
                   },
                   {
                     "id": 2,
@@ -18753,7 +18810,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": null
+                    "page": null,
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -18839,7 +18898,7 @@
           }
         ],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       },
       {
         "id": 33,
@@ -18947,7 +19006,7 @@
                   }
                 ],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -19475,15 +19534,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-15",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -19545,7 +19604,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": ""
+                    "page": "",
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -19624,7 +19685,7 @@
           }
         ],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       },
       {
         "id": 34,
@@ -19732,7 +19793,7 @@
                   }
                 ],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -20722,15 +20783,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-01",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -20797,7 +20858,9 @@
                         "value": "Bischoff"
                       }
                     ],
-                    "page": null
+                    "page": null,
+                    "certain_from": false,
+                    "ceratin_till": false
                   },
                   {
                     "id": 2,
@@ -20853,7 +20916,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": null
+                    "page": null,
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -20939,7 +21004,7 @@
           }
         ],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       }
     ],
     "note": "Diese Stratum markiert die Zusätze eines einzelnen Schreibers aus dem 10. Jahrhundert, der am unteren Rand der großen Ostertafel und Bedas De tempore ratione diverse Rezepte und abergläubische Segen einfügt.",
@@ -20948,6 +21013,7 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-09-19",
+    "strata_filiation": [],
     "view_label": "Cod. M. p. th. f. 46, Stratum 5",
     "prev": {
       "id": "hit_strata__1",
@@ -21125,7 +21191,7 @@
                 ],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -22115,15 +22181,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-01",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -22190,7 +22256,9 @@
                         "value": "Bischoff"
                       }
                     ],
-                    "page": null
+                    "page": null,
+                    "certain_from": false,
+                    "ceratin_till": false
                   },
                   {
                     "id": 2,
@@ -22246,7 +22314,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": null
+                    "page": null,
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -22326,7 +22396,7 @@
         ],
         "function": [],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       },
       {
         "id": 31,
@@ -22422,7 +22492,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [],
@@ -22479,7 +22549,7 @@
         "locus_layout": [],
         "function": [],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       }
     ],
     "note": "Stratum umfasst liturgische und teils neumierte Zusätze aus dem 11. Jahrhundert.",
@@ -22488,6 +22558,7 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-09-19",
+    "strata_filiation": [],
     "view_label": "Cod. M. p. th. f. 46, Stratum 6",
     "prev": {
       "id": "hit_strata__10",
@@ -22814,7 +22885,7 @@
                 ],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 153,
@@ -22899,7 +22970,7 @@
                   }
                 ],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -24225,10 +24296,10 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-09",
+                "Last modified": "2025-01-22",
                 "orig_date": [
                   {
                     "id": 4,
@@ -24242,7 +24313,7 @@
                 "quires_number": "1-17",
                 "heigth": "195",
                 "lines_number": "17",
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": "115",
@@ -24302,7 +24373,12 @@
                         "color": "deep-dark-orange"
                       }
                     ],
-                    "till": [],
+                    "till": [
+                      {
+                        "id": 62,
+                        "value": "1802-1803"
+                      }
+                    ],
                     "ms": [
                       {
                         "id": 4,
@@ -24310,7 +24386,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": ""
+                    "page": "",
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -24635,7 +24713,7 @@
                 ],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -25961,10 +26039,10 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-09",
+                "Last modified": "2025-01-22",
                 "orig_date": [
                   {
                     "id": 4,
@@ -25978,7 +26056,7 @@
                 "quires_number": "1-17",
                 "heigth": "195",
                 "lines_number": "17",
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": "115",
@@ -26038,7 +26116,12 @@
                         "color": "deep-dark-orange"
                       }
                     ],
-                    "till": [],
+                    "till": [
+                      {
+                        "id": 62,
+                        "value": "1802-1803"
+                      }
+                    ],
                     "ms": [
                       {
                         "id": 4,
@@ -26046,7 +26129,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": ""
+                    "page": "",
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -26364,7 +26449,7 @@
                 ],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -27690,10 +27775,10 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-09",
+                "Last modified": "2025-01-22",
                 "orig_date": [
                   {
                     "id": 4,
@@ -27707,7 +27792,7 @@
                 "quires_number": "1-17",
                 "heigth": "195",
                 "lines_number": "17",
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": "115",
@@ -27767,7 +27852,12 @@
                         "color": "deep-dark-orange"
                       }
                     ],
-                    "till": [],
+                    "till": [
+                      {
+                        "id": 62,
+                        "value": "1802-1803"
+                      }
+                    ],
                     "ms": [
                       {
                         "id": 4,
@@ -27775,7 +27865,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": ""
+                    "page": "",
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -28142,7 +28234,7 @@
                 ],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 153,
@@ -28227,7 +28319,7 @@
                   }
                 ],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -29553,10 +29645,10 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-09",
+                "Last modified": "2025-01-22",
                 "orig_date": [
                   {
                     "id": 4,
@@ -29570,7 +29662,7 @@
                 "quires_number": "1-17",
                 "heigth": "195",
                 "lines_number": "17",
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": "115",
@@ -29630,7 +29722,12 @@
                         "color": "deep-dark-orange"
                       }
                     ],
-                    "till": [],
+                    "till": [
+                      {
+                        "id": 62,
+                        "value": "1802-1803"
+                      }
+                    ],
                     "ms": [
                       {
                         "id": 4,
@@ -29638,7 +29735,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": ""
+                    "page": "",
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -30007,7 +30106,7 @@
                 ],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -31333,10 +31432,10 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-09",
+                "Last modified": "2025-01-22",
                 "orig_date": [
                   {
                     "id": 4,
@@ -31350,7 +31449,7 @@
                 "quires_number": "1-17",
                 "heigth": "195",
                 "lines_number": "17",
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": "115",
@@ -31410,7 +31509,12 @@
                         "color": "deep-dark-orange"
                       }
                     ],
-                    "till": [],
+                    "till": [
+                      {
+                        "id": 62,
+                        "value": "1802-1803"
+                      }
+                    ],
                     "ms": [
                       {
                         "id": 4,
@@ -31418,7 +31522,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": ""
+                    "page": "",
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -31736,7 +31842,7 @@
                 ],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -33062,10 +33168,10 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-09",
+                "Last modified": "2025-01-22",
                 "orig_date": [
                   {
                     "id": 4,
@@ -33079,7 +33185,7 @@
                 "quires_number": "1-17",
                 "heigth": "195",
                 "lines_number": "17",
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": "115",
@@ -33139,7 +33245,12 @@
                         "color": "deep-dark-orange"
                       }
                     ],
-                    "till": [],
+                    "till": [
+                      {
+                        "id": 62,
+                        "value": "1802-1803"
+                      }
+                    ],
                     "ms": [
                       {
                         "id": 4,
@@ -33147,7 +33258,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": ""
+                    "page": "",
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -33509,7 +33622,7 @@
                 ],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -34835,10 +34948,10 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-09",
+                "Last modified": "2025-01-22",
                 "orig_date": [
                   {
                     "id": 4,
@@ -34852,7 +34965,7 @@
                 "quires_number": "1-17",
                 "heigth": "195",
                 "lines_number": "17",
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": "115",
@@ -34912,7 +35025,12 @@
                         "color": "deep-dark-orange"
                       }
                     ],
-                    "till": [],
+                    "till": [
+                      {
+                        "id": 62,
+                        "value": "1802-1803"
+                      }
+                    ],
                     "ms": [
                       {
                         "id": 4,
@@ -34920,7 +35038,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": ""
+                    "page": "",
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -35226,7 +35346,7 @@
                 ],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -36552,10 +36672,10 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-09",
+                "Last modified": "2025-01-22",
                 "orig_date": [
                   {
                     "id": 4,
@@ -36569,7 +36689,7 @@
                 "quires_number": "1-17",
                 "heigth": "195",
                 "lines_number": "17",
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": "115",
@@ -36629,7 +36749,12 @@
                         "color": "deep-dark-orange"
                       }
                     ],
-                    "till": [],
+                    "till": [
+                      {
+                        "id": 62,
+                        "value": "1802-1803"
+                      }
+                    ],
                     "ms": [
                       {
                         "id": 4,
@@ -36637,7 +36762,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": ""
+                    "page": "",
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -36900,7 +37027,7 @@
                 ],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -38226,10 +38353,10 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-09",
+                "Last modified": "2025-01-22",
                 "orig_date": [
                   {
                     "id": 4,
@@ -38243,7 +38370,7 @@
                 "quires_number": "1-17",
                 "heigth": "195",
                 "lines_number": "17",
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": "115",
@@ -38303,7 +38430,12 @@
                         "color": "deep-dark-orange"
                       }
                     ],
-                    "till": [],
+                    "till": [
+                      {
+                        "id": 62,
+                        "value": "1802-1803"
+                      }
+                    ],
                     "ms": [
                       {
                         "id": 4,
@@ -38311,7 +38443,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": ""
+                    "page": "",
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -38478,7 +38612,7 @@
         ],
         "function": [],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       }
     ],
     "note": "Hauptstratum, umfasst das ganze Codex, außer Korrekturen. Entweder ein oder zwei Hauptschreiber, die zusammen arbeiten.",
@@ -38487,10 +38621,11 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-23",
+    "strata_filiation": [],
     "view_label": "Clm. 6326, Stratum 1",
     "prev": {
-      "id": "hit_strata__22",
-      "label": "Clm. 6383, Stratum 1"
+      "id": "hit_strata__24",
+      "label": "NO MATCH FOR $..label[0].value"
     },
     "next": {
       "id": "hit_strata__4",
@@ -38676,7 +38811,7 @@
                 ],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 38,
@@ -38756,7 +38891,7 @@
                   }
                 ],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 142,
@@ -38831,7 +38966,7 @@
                   }
                 ],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -40314,15 +40449,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-09",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": "1-19",
                 "heigth": "255",
                 "lines_number": "23",
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": "120",
@@ -40382,7 +40517,12 @@
                         "color": "deep-dark-orange"
                       }
                     ],
-                    "till": [],
+                    "till": [
+                      {
+                        "id": 62,
+                        "value": "1802-1803"
+                      }
+                    ],
                     "ms": [
                       {
                         "id": 4,
@@ -40390,7 +40530,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": ""
+                    "page": "",
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -40477,7 +40619,7 @@
         ],
         "function": [],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       }
     ],
     "note": "Hauptstratum",
@@ -40486,6 +40628,7 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-18",
+    "strata_filiation": [],
     "view_label": "Clm. 6308, Stratum 1",
     "prev": {
       "id": "hit_strata__5",
@@ -40680,7 +40823,7 @@
                 ],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 38,
@@ -40760,7 +40903,7 @@
                   }
                 ],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 142,
@@ -40835,7 +40978,7 @@
                   }
                 ],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -42318,15 +42461,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-09",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": "1-19",
                 "heigth": "255",
                 "lines_number": "23",
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": "120",
@@ -42386,7 +42529,12 @@
                         "color": "deep-dark-orange"
                       }
                     ],
-                    "till": [],
+                    "till": [
+                      {
+                        "id": 62,
+                        "value": "1802-1803"
+                      }
+                    ],
                     "ms": [
                       {
                         "id": 4,
@@ -42394,7 +42542,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": ""
+                    "page": "",
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -42507,7 +42657,7 @@
           }
         ],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       }
     ],
     "note": "Textkorrekturen am Rand, mind. 30-40 Jahre später.",
@@ -42516,6 +42666,7 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-18",
+    "strata_filiation": [],
     "view_label": "Clm. 6308, Stratum 2",
     "prev": {
       "id": "hit_strata__6",
@@ -42705,7 +42856,7 @@
                 ],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 41,
@@ -42753,7 +42904,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 42,
@@ -42801,7 +42952,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 43,
@@ -42849,7 +43000,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -43023,15 +43174,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-18",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -43122,7 +43273,7 @@
         ],
         "function": [],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       },
       {
         "id": 41,
@@ -43279,7 +43430,7 @@
                 ],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 41,
@@ -43327,7 +43478,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 42,
@@ -43375,7 +43526,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 43,
@@ -43423,7 +43574,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -43597,15 +43748,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-18",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -43690,7 +43841,7 @@
         "locus_layout": [],
         "function": [],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       },
       {
         "id": 42,
@@ -43847,7 +43998,7 @@
                 ],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 41,
@@ -43895,7 +44046,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 42,
@@ -43943,7 +44094,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 43,
@@ -43991,7 +44142,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -44165,15 +44316,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-18",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -44258,7 +44409,7 @@
         "locus_layout": [],
         "function": [],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       },
       {
         "id": 43,
@@ -44415,7 +44566,7 @@
                 ],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 41,
@@ -44463,7 +44614,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 42,
@@ -44511,7 +44662,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 43,
@@ -44559,7 +44710,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -44733,15 +44884,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-18",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -44826,7 +44977,7 @@
         "locus_layout": [],
         "function": [],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       }
     ],
     "note": "Hauptstratum",
@@ -44835,6 +44986,7 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-10-15",
+    "strata_filiation": [],
     "view_label": "Cod. 366, Stratum 1",
     "prev": {
       "id": "hit_strata__7",
@@ -44975,7 +45127,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -46353,15 +46505,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-26",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -46425,7 +46577,7 @@
         "locus_layout": [],
         "function": [],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       }
     ],
     "note": "",
@@ -46434,6 +46586,7 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-10-15",
+    "strata_filiation": [],
     "view_label": "Cod. 387, Stratum 1",
     "prev": {
       "id": "hit_strata__8",
@@ -46562,7 +46715,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -47940,15 +48093,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-26",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -48012,7 +48165,7 @@
         "locus_layout": [],
         "function": [],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       },
       {
         "id": 68,
@@ -48113,7 +48266,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -49491,15 +49644,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-26",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -49568,7 +49721,7 @@
         "locus_layout": [],
         "function": [],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       }
     ],
     "note": "Bienensegen TBD",
@@ -49577,6 +49730,7 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-10-15",
+    "strata_filiation": [],
     "view_label": "Cod. 387, Stratum 2",
     "prev": {
       "id": "hit_strata__13",
@@ -49729,7 +49883,7 @@
                   }
                 ],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -49762,15 +49916,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-09",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -49858,7 +50012,7 @@
           }
         ],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       },
       {
         "id": 63,
@@ -49966,7 +50120,7 @@
                   }
                 ],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 114,
@@ -50026,7 +50180,7 @@
                   }
                 ],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -50059,15 +50213,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-09",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -50150,7 +50304,7 @@
           }
         ],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       },
       {
         "id": 64,
@@ -50246,7 +50400,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 86,
@@ -50294,7 +50448,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 87,
@@ -50342,7 +50496,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 93,
@@ -50390,7 +50544,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 94,
@@ -50438,7 +50592,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 156,
@@ -50498,7 +50652,7 @@
                   }
                 ],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -50531,15 +50685,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-09",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -50644,7 +50798,7 @@
         "locus_layout": [],
         "function": [],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       },
       {
         "id": 70,
@@ -50746,7 +50900,7 @@
                   }
                 ],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 71,
@@ -50800,7 +50954,7 @@
                   }
                 ],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 75,
@@ -50854,7 +51008,7 @@
                   }
                 ],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -50887,15 +51041,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-09",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -50979,7 +51133,7 @@
           }
         ],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       },
       {
         "id": 78,
@@ -51087,7 +51241,7 @@
                   }
                 ],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -51120,15 +51274,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-09",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -51216,7 +51370,7 @@
           }
         ],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       },
       {
         "id": 79,
@@ -51336,7 +51490,7 @@
                   }
                 ],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -51369,15 +51523,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-09",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -51453,7 +51607,7 @@
           }
         ],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       }
     ],
     "note": "Dieses Stratum beschreibt die Anlage der Handschrift und besteht u.a. aus den Königs-, Papst- und Bischofslisten und den verbrüderten Geistlichen sowie dem Nekrolog, deren Grundstruktur zu Lebzeiten des Erzbischofs Gebhard entstanden sind.\nCatalogus auch und Fortsetzung des Catalogus. Texte aus spätem 11. Jahrhundert auch eigens zählen?",
@@ -51462,6 +51616,7 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-10-15",
+    "strata_filiation": [],
     "view_label": "Cod. 2090, Stratum 1",
     "prev": {
       "id": "hit_strata__11",
@@ -51502,6 +51657,7 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-10-15",
+    "strata_filiation": [],
     "view_label": "Cod. 2090, Stratum 2",
     "prev": {
       "id": "hit_strata__12",
@@ -51630,7 +51786,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -51663,15 +51819,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-09",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -51735,7 +51891,7 @@
         "locus_layout": [],
         "function": [],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       }
     ],
     "note": "Traditionsnotizen aus der 1. Hälfte des 12. Jahrhunderts als eigenes Stratum?",
@@ -51744,6 +51900,7 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-10-15",
+    "strata_filiation": [],
     "view_label": "Cod. 2090, Stratum 3",
     "prev": {
       "id": "hit_strata__14",
@@ -51911,7 +52068,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-12-14",
+                "Last modified": "2025-01-22",
                 "locus_layout": [],
                 "function": [
                   {
@@ -51920,17 +52077,8 @@
                     "color": "darker-orange"
                   }
                 ],
-                "bezug_msitem": [
-                  {
-                    "id": 123,
-                    "value": "cod_2090__123"
-                  },
-                  {
-                    "id": 125,
-                    "value": "cod_2090__125"
-                  }
-                ],
-                "role_to_reworked_msitem": [
+                "bezug_msitem": [],
+                "role_to_bezug_msitem": [
                   {
                     "id": 17452,
                     "value": "\"Erweiterer\"",
@@ -51969,15 +52117,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-09",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -52037,7 +52185,7 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-12-14",
+        "Last modified": "2025-01-22",
         "locus_layout": [],
         "function": [
           {
@@ -52046,17 +52194,8 @@
             "color": "darker-orange"
           }
         ],
-        "bezug_msitem": [
-          {
-            "id": 123,
-            "value": "cod_2090__123"
-          },
-          {
-            "id": 125,
-            "value": "cod_2090__125"
-          }
-        ],
-        "role_to_reworked_msitem": [
+        "bezug_msitem": [],
+        "role_to_bezug_msitem": [
           {
             "id": 17452,
             "value": "\"Erweiterer\"",
@@ -52185,7 +52324,7 @@
                     "value": "cod_2090__128"
                   }
                 ],
-                "role_to_reworked_msitem": [
+                "role_to_bezug_msitem": [
                   {
                     "id": 17452,
                     "value": "\"Erweiterer\"",
@@ -52224,15 +52363,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-09",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": null,
                 "heigth": null,
                 "lines_number": null,
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": null,
@@ -52311,7 +52450,7 @@
             "value": "cod_2090__128"
           }
         ],
-        "role_to_reworked_msitem": [
+        "role_to_bezug_msitem": [
           {
             "id": 17452,
             "value": "\"Erweiterer\"",
@@ -52326,6 +52465,7 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-10-15",
+    "strata_filiation": [],
     "view_label": "Cod. 2090, Stratum 4",
     "prev": {
       "id": "hit_strata__15",
@@ -52520,7 +52660,7 @@
                 ],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 38,
@@ -52600,7 +52740,7 @@
                   }
                 ],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 142,
@@ -52675,7 +52815,7 @@
                   }
                 ],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -54158,15 +54298,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-09",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": "1-19",
                 "heigth": "255",
                 "lines_number": "23",
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": "120",
@@ -54226,7 +54366,12 @@
                         "color": "deep-dark-orange"
                       }
                     ],
-                    "till": [],
+                    "till": [
+                      {
+                        "id": 62,
+                        "value": "1802-1803"
+                      }
+                    ],
                     "ms": [
                       {
                         "id": 4,
@@ -54234,7 +54379,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": ""
+                    "page": "",
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -54342,7 +54489,7 @@
           }
         ],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       }
     ],
     "note": "Das Stratum besteht aus vielfaltigen Korrekturen, einschliessend eine Umschreibung des Textes auf 8r, und Annotationen, darunter auch Glossen. Die Hand hat offensichtlich später (mind. +50 Jahre) gearbeitet, weil die Hände des Hauptschreibers und des Korrektors zu verschiedenen Entwicklungsphasen der Minuskel gehören.",
@@ -54351,6 +54498,7 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-18",
+    "strata_filiation": [],
     "view_label": "Clm. 6308, Stratum 3",
     "prev": {
       "id": "hit_strata__16",
@@ -54672,7 +54820,7 @@
                 ],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 153,
@@ -54757,7 +54905,7 @@
                   }
                 ],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -56083,10 +56231,10 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-09",
+                "Last modified": "2025-01-22",
                 "orig_date": [
                   {
                     "id": 4,
@@ -56100,7 +56248,7 @@
                 "quires_number": "1-17",
                 "heigth": "195",
                 "lines_number": "17",
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": "115",
@@ -56160,7 +56308,12 @@
                         "color": "deep-dark-orange"
                       }
                     ],
-                    "till": [],
+                    "till": [
+                      {
+                        "id": 62,
+                        "value": "1802-1803"
+                      }
+                    ],
                     "ms": [
                       {
                         "id": 4,
@@ -56168,7 +56321,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": ""
+                    "page": "",
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -56542,7 +56697,7 @@
                 ],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 153,
@@ -56627,7 +56782,7 @@
                   }
                 ],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -57953,10 +58108,10 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-09",
+                "Last modified": "2025-01-22",
                 "orig_date": [
                   {
                     "id": 4,
@@ -57970,7 +58125,7 @@
                 "quires_number": "1-17",
                 "heigth": "195",
                 "lines_number": "17",
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": "115",
@@ -58030,7 +58185,12 @@
                         "color": "deep-dark-orange"
                       }
                     ],
-                    "till": [],
+                    "till": [
+                      {
+                        "id": 62,
+                        "value": "1802-1803"
+                      }
+                    ],
                     "ms": [
                       {
                         "id": 4,
@@ -58038,7 +58198,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": ""
+                    "page": "",
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -58151,7 +58313,7 @@
           }
         ],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       }
     ],
     "note": "Korrekturen meistens zu Vita sancti Martini",
@@ -58160,6 +58322,7 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-23",
+    "strata_filiation": [],
     "view_label": "Clm. 6326, Stratum 2",
     "prev": {
       "id": "hit_strata__17",
@@ -58382,7 +58545,7 @@
                 ],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -58415,15 +58578,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-13",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": "1-29",
                 "heigth": "325",
                 "lines_number": "27",
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": "180",
@@ -58491,10 +58654,82 @@
                       }
                     ],
                     "authority": [],
-                    "page": ""
+                    "page": "",
+                    "certain_from": false,
+                    "ceratin_till": false
+                  },
+                  {
+                    "id": 30,
+                    "hit_id": "hit_codunit_place__30",
+                    "cod_unit": [
+                      {
+                        "id": 27,
+                        "value": "BSB, Clm. 6375, cod. unit 1"
+                      }
+                    ],
+                    "place": [
+                      {
+                        "id": 4,
+                        "name": "Freising",
+                        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+                        "hit_id": "hit_place__4",
+                        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+                        "country": [
+                          {
+                            "id": 2,
+                            "name": "Deutschland",
+                            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+                            "hit_id": "hit_place__2",
+                            "wikidata_url": "",
+                            "country": [],
+                            "Last modified by": {
+                              "id": 36,
+                              "name": "Ivana Dobcheva"
+                            },
+                            "Last modified": "2024-07-11"
+                          }
+                        ],
+                        "Last modified by": {
+                          "id": 36,
+                          "name": "Ivana Dobcheva"
+                        },
+                        "Last modified": "2024-07-11"
+                      }
+                    ],
+                    "from": [],
+                    "type": [
+                      {
+                        "id": 18151,
+                        "value": "prov",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "till": [
+                      {
+                        "id": 62,
+                        "value": "1802-1803"
+                      }
+                    ],
+                    "ms": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6375"
+                      }
+                    ],
+                    "authority": [],
+                    "page": "",
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
+                  {
+                    "ids": {
+                      "database_table_3492": 4,
+                      "database_table_3840": 30
+                    },
+                    "value": "Freising"
+                  },
                   {
                     "ids": {
                       "database_table_3492": 18,
@@ -58704,7 +58939,7 @@
                 ],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -58737,15 +58972,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-13",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": "1-29",
                 "heigth": "325",
                 "lines_number": "27",
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": "180",
@@ -58813,10 +59048,82 @@
                       }
                     ],
                     "authority": [],
-                    "page": ""
+                    "page": "",
+                    "certain_from": false,
+                    "ceratin_till": false
+                  },
+                  {
+                    "id": 30,
+                    "hit_id": "hit_codunit_place__30",
+                    "cod_unit": [
+                      {
+                        "id": 27,
+                        "value": "BSB, Clm. 6375, cod. unit 1"
+                      }
+                    ],
+                    "place": [
+                      {
+                        "id": 4,
+                        "name": "Freising",
+                        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+                        "hit_id": "hit_place__4",
+                        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+                        "country": [
+                          {
+                            "id": 2,
+                            "name": "Deutschland",
+                            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+                            "hit_id": "hit_place__2",
+                            "wikidata_url": "",
+                            "country": [],
+                            "Last modified by": {
+                              "id": 36,
+                              "name": "Ivana Dobcheva"
+                            },
+                            "Last modified": "2024-07-11"
+                          }
+                        ],
+                        "Last modified by": {
+                          "id": 36,
+                          "name": "Ivana Dobcheva"
+                        },
+                        "Last modified": "2024-07-11"
+                      }
+                    ],
+                    "from": [],
+                    "type": [
+                      {
+                        "id": 18151,
+                        "value": "prov",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "till": [
+                      {
+                        "id": 62,
+                        "value": "1802-1803"
+                      }
+                    ],
+                    "ms": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6375"
+                      }
+                    ],
+                    "authority": [],
+                    "page": "",
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
+                  {
+                    "ids": {
+                      "database_table_3492": 4,
+                      "database_table_3840": 30
+                    },
+                    "value": "Freising"
+                  },
                   {
                     "ids": {
                       "database_table_3492": 18,
@@ -59031,7 +59338,7 @@
                   }
                 ],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 139,
@@ -59130,7 +59437,7 @@
                 ],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -59163,15 +59470,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-13",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": "1-29",
                 "heigth": "325",
                 "lines_number": "27",
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": "180",
@@ -59239,10 +59546,82 @@
                       }
                     ],
                     "authority": [],
-                    "page": ""
+                    "page": "",
+                    "certain_from": false,
+                    "ceratin_till": false
+                  },
+                  {
+                    "id": 30,
+                    "hit_id": "hit_codunit_place__30",
+                    "cod_unit": [
+                      {
+                        "id": 27,
+                        "value": "BSB, Clm. 6375, cod. unit 1"
+                      }
+                    ],
+                    "place": [
+                      {
+                        "id": 4,
+                        "name": "Freising",
+                        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+                        "hit_id": "hit_place__4",
+                        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+                        "country": [
+                          {
+                            "id": 2,
+                            "name": "Deutschland",
+                            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+                            "hit_id": "hit_place__2",
+                            "wikidata_url": "",
+                            "country": [],
+                            "Last modified by": {
+                              "id": 36,
+                              "name": "Ivana Dobcheva"
+                            },
+                            "Last modified": "2024-07-11"
+                          }
+                        ],
+                        "Last modified by": {
+                          "id": 36,
+                          "name": "Ivana Dobcheva"
+                        },
+                        "Last modified": "2024-07-11"
+                      }
+                    ],
+                    "from": [],
+                    "type": [
+                      {
+                        "id": 18151,
+                        "value": "prov",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "till": [
+                      {
+                        "id": 62,
+                        "value": "1802-1803"
+                      }
+                    ],
+                    "ms": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6375"
+                      }
+                    ],
+                    "authority": [],
+                    "page": "",
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
+                  {
+                    "ids": {
+                      "database_table_3492": 4,
+                      "database_table_3840": 30
+                    },
+                    "value": "Freising"
+                  },
                   {
                     "ids": {
                       "database_table_3492": 18,
@@ -59459,7 +59838,7 @@
                 ],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -59492,15 +59871,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-13",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": "1-29",
                 "heigth": "325",
                 "lines_number": "27",
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": "180",
@@ -59568,10 +59947,82 @@
                       }
                     ],
                     "authority": [],
-                    "page": ""
+                    "page": "",
+                    "certain_from": false,
+                    "ceratin_till": false
+                  },
+                  {
+                    "id": 30,
+                    "hit_id": "hit_codunit_place__30",
+                    "cod_unit": [
+                      {
+                        "id": 27,
+                        "value": "BSB, Clm. 6375, cod. unit 1"
+                      }
+                    ],
+                    "place": [
+                      {
+                        "id": 4,
+                        "name": "Freising",
+                        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+                        "hit_id": "hit_place__4",
+                        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+                        "country": [
+                          {
+                            "id": 2,
+                            "name": "Deutschland",
+                            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+                            "hit_id": "hit_place__2",
+                            "wikidata_url": "",
+                            "country": [],
+                            "Last modified by": {
+                              "id": 36,
+                              "name": "Ivana Dobcheva"
+                            },
+                            "Last modified": "2024-07-11"
+                          }
+                        ],
+                        "Last modified by": {
+                          "id": 36,
+                          "name": "Ivana Dobcheva"
+                        },
+                        "Last modified": "2024-07-11"
+                      }
+                    ],
+                    "from": [],
+                    "type": [
+                      {
+                        "id": 18151,
+                        "value": "prov",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "till": [
+                      {
+                        "id": 62,
+                        "value": "1802-1803"
+                      }
+                    ],
+                    "ms": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6375"
+                      }
+                    ],
+                    "authority": [],
+                    "page": "",
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
+                  {
+                    "ids": {
+                      "database_table_3492": 4,
+                      "database_table_3840": 30
+                    },
+                    "value": "Freising"
+                  },
                   {
                     "ids": {
                       "database_table_3492": 18,
@@ -59674,7 +60125,7 @@
         ],
         "function": [],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       }
     ],
     "note": "Hauptstratum von einer Hand, abgeschrieben von einem voraussichtlich Merowingischen Protograph.",
@@ -59683,6 +60134,7 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-23",
+    "strata_filiation": [],
     "view_label": "Clm. 6375, Stratum 1",
     "prev": {
       "id": "hit_strata__18",
@@ -59910,7 +60362,7 @@
                   }
                 ],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               },
               {
                 "id": 139,
@@ -60009,7 +60461,7 @@
                 ],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -60042,15 +60494,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-13",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": "1-29",
                 "heigth": "325",
                 "lines_number": "27",
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": "180",
@@ -60118,10 +60570,82 @@
                       }
                     ],
                     "authority": [],
-                    "page": ""
+                    "page": "",
+                    "certain_from": false,
+                    "ceratin_till": false
+                  },
+                  {
+                    "id": 30,
+                    "hit_id": "hit_codunit_place__30",
+                    "cod_unit": [
+                      {
+                        "id": 27,
+                        "value": "BSB, Clm. 6375, cod. unit 1"
+                      }
+                    ],
+                    "place": [
+                      {
+                        "id": 4,
+                        "name": "Freising",
+                        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+                        "hit_id": "hit_place__4",
+                        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+                        "country": [
+                          {
+                            "id": 2,
+                            "name": "Deutschland",
+                            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+                            "hit_id": "hit_place__2",
+                            "wikidata_url": "",
+                            "country": [],
+                            "Last modified by": {
+                              "id": 36,
+                              "name": "Ivana Dobcheva"
+                            },
+                            "Last modified": "2024-07-11"
+                          }
+                        ],
+                        "Last modified by": {
+                          "id": 36,
+                          "name": "Ivana Dobcheva"
+                        },
+                        "Last modified": "2024-07-11"
+                      }
+                    ],
+                    "from": [],
+                    "type": [
+                      {
+                        "id": 18151,
+                        "value": "prov",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "till": [
+                      {
+                        "id": 62,
+                        "value": "1802-1803"
+                      }
+                    ],
+                    "ms": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6375"
+                      }
+                    ],
+                    "authority": [],
+                    "page": "",
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
+                  {
+                    "ids": {
+                      "database_table_3492": 4,
+                      "database_table_3840": 30
+                    },
+                    "value": "Freising"
+                  },
                   {
                     "ids": {
                       "database_table_3492": 18,
@@ -60198,7 +60722,7 @@
           }
         ],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       }
     ],
     "note": "Korrekturen",
@@ -60207,6 +60731,7 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-23",
+    "strata_filiation": [],
     "view_label": "Clm. 6375, Stratum 2",
     "prev": {
       "id": "hit_strata__2",
@@ -60390,7 +60915,7 @@
                 "locus_layout": [],
                 "function": [],
                 "bezug_msitem": [],
-                "role_to_reworked_msitem": []
+                "role_to_bezug_msitem": []
               }
             ],
             "cod_unit": [
@@ -60423,15 +60948,15 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2025-01-09",
+                "Last modified": "2025-01-22",
                 "orig_date": [],
                 "quires_number": "1-13",
                 "heigth": "285",
                 "lines_number": "35",
-                "decorations": false,
+                "decorations": "",
                 "codicological_reworking": [],
                 "basic_structure": [],
                 "written_width": "150",
@@ -60491,7 +61016,12 @@
                         "color": "deep-dark-orange"
                       }
                     ],
-                    "till": [],
+                    "till": [
+                      {
+                        "id": 62,
+                        "value": "1802-1803"
+                      }
+                    ],
                     "ms": [
                       {
                         "id": 4,
@@ -60499,7 +61029,9 @@
                       }
                     ],
                     "authority": [],
-                    "page": ""
+                    "page": "",
+                    "certain_from": false,
+                    "ceratin_till": false
                   }
                 ],
                 "prov_place": [
@@ -60577,7 +61109,7 @@
         "locus_layout": [],
         "function": [],
         "bezug_msitem": [],
-        "role_to_reworked_msitem": []
+        "role_to_bezug_msitem": []
       }
     ],
     "note": "",
@@ -60586,6 +61118,7 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-23",
+    "strata_filiation": [],
     "view_label": "Clm. 6380, Stratum 1",
     "prev": {
       "id": "hit_strata__20",
@@ -60620,10 +61153,61 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-11-13",
+    "strata_filiation": [],
     "view_label": "Clm. 6383, Stratum 1",
     "prev": {
       "id": "hit_strata__21",
       "label": "Clm. 6380, Stratum 1"
+    },
+    "next": {
+      "id": "hit_strata__23",
+      "label": "NO MATCH FOR $..label[0].value"
+    }
+  },
+  "23": {
+    "id": 23,
+    "label": [],
+    "character": [],
+    "manuscript": [],
+    "number": "0",
+    "hit_id": "hit_strata__23",
+    "hand_role": [],
+    "note": "",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-22",
+    "strata_filiation": [],
+    "view_label": "NO MATCH FOR $..label[0].value",
+    "prev": {
+      "id": "hit_strata__22",
+      "label": "Clm. 6383, Stratum 1"
+    },
+    "next": {
+      "id": "hit_strata__24",
+      "label": "NO MATCH FOR $..label[0].value"
+    }
+  },
+  "24": {
+    "id": 24,
+    "label": [],
+    "character": [],
+    "manuscript": [],
+    "number": null,
+    "hit_id": "hit_strata__24",
+    "hand_role": [],
+    "note": "",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-22",
+    "strata_filiation": [],
+    "view_label": "NO MATCH FOR $..label[0].value",
+    "prev": {
+      "id": "hit_strata__23",
+      "label": "NO MATCH FOR $..label[0].value"
     },
     "next": {
       "id": "hit_strata__3",

@@ -1745,15 +1745,15 @@
           }
         ],
         "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2024-07-26",
+        "Last modified": "2025-01-22",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
         "lines_number": null,
-        "decorations": false,
+        "decorations": "",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": null,
@@ -2085,15 +2085,15 @@
           }
         ],
         "Last modified by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2025-01-09",
+        "Last modified": "2025-01-22",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
         "lines_number": null,
-        "decorations": false,
+        "decorations": "",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": null,
@@ -2512,15 +2512,15 @@
           }
         ],
         "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2024-07-18",
+        "Last modified": "2025-01-22",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
         "lines_number": null,
-        "decorations": false,
+        "decorations": "",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": null,
@@ -2563,15 +2563,15 @@
         "number": "2",
         "prov_place_old": [],
         "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2024-07-18",
+        "Last modified": "2025-01-22",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
         "lines_number": null,
-        "decorations": false,
+        "decorations": "",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": null,
@@ -4028,15 +4028,15 @@
           }
         ],
         "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2024-07-01",
+        "Last modified": "2025-01-22",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
         "lines_number": null,
-        "decorations": false,
+        "decorations": "",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": null,
@@ -4103,7 +4103,9 @@
                 "value": "Bischoff"
               }
             ],
-            "page": null
+            "page": null,
+            "certain_from": false,
+            "ceratin_till": false
           },
           {
             "id": 2,
@@ -4159,7 +4161,9 @@
               }
             ],
             "authority": [],
-            "page": null
+            "page": null,
+            "certain_from": false,
+            "ceratin_till": false
           }
         ],
         "prov_place": [
@@ -4712,15 +4716,15 @@
           }
         ],
         "Last modified by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2025-01-15",
+        "Last modified": "2025-01-22",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
         "lines_number": null,
-        "decorations": false,
+        "decorations": "",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": null,
@@ -4782,7 +4786,9 @@
               }
             ],
             "authority": [],
-            "page": ""
+            "page": "",
+            "certain_from": false,
+            "ceratin_till": false
           }
         ],
         "prov_place": [
@@ -4928,15 +4934,15 @@
           }
         ],
         "Last modified by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2025-01-15",
+        "Last modified": "2025-01-22",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
         "lines_number": null,
-        "decorations": false,
+        "decorations": "",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": null,
@@ -5126,8 +5132,8 @@
     "status": [],
     "view_label": "BSB, Clm. 210",
     "prev": {
-      "id": "hit_manuscript__31",
-      "label": "Saint-Omer, ms. 706"
+      "id": "hit_manuscript__33",
+      "label": "Bruxelles KBR, ms. 15835"
     },
     "next": {
       "id": "hit_manuscript__5",
@@ -5163,15 +5169,15 @@
           }
         ],
         "Last modified by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2024-11-13",
+        "Last modified": "2025-01-22",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
         "lines_number": null,
-        "decorations": false,
+        "decorations": "",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": null,
@@ -5233,7 +5239,9 @@
               }
             ],
             "authority": [],
-            "page": ""
+            "page": "",
+            "certain_from": false,
+            "ceratin_till": false
           }
         ],
         "prov_place": [
@@ -6855,10 +6863,10 @@
           }
         ],
         "Last modified by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2025-01-09",
+        "Last modified": "2025-01-22",
         "orig_date": [
           {
             "id": 4,
@@ -6872,7 +6880,7 @@
         "quires_number": "1-17",
         "heigth": "195",
         "lines_number": "17",
-        "decorations": false,
+        "decorations": "",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": "115",
@@ -6932,7 +6940,12 @@
                 "color": "deep-dark-orange"
               }
             ],
-            "till": [],
+            "till": [
+              {
+                "id": 62,
+                "value": "1802-1803"
+              }
+            ],
             "ms": [
               {
                 "id": 4,
@@ -6940,7 +6953,9 @@
               }
             ],
             "authority": [],
-            "page": ""
+            "page": "",
+            "certain_from": false,
+            "ceratin_till": false
           }
         ],
         "prov_place": [
@@ -8713,15 +8728,15 @@
           }
         ],
         "Last modified by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2025-01-09",
+        "Last modified": "2025-01-22",
         "orig_date": [],
         "quires_number": "1-19",
         "heigth": "255",
         "lines_number": "23",
-        "decorations": false,
+        "decorations": "",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": "120",
@@ -8781,7 +8796,12 @@
                 "color": "deep-dark-orange"
               }
             ],
-            "till": [],
+            "till": [
+              {
+                "id": 62,
+                "value": "1802-1803"
+              }
+            ],
             "ms": [
               {
                 "id": 4,
@@ -8789,7 +8809,9 @@
               }
             ],
             "authority": [],
-            "page": ""
+            "page": "",
+            "certain_from": false,
+            "ceratin_till": false
           }
         ],
         "prov_place": [
@@ -8875,7 +8897,12 @@
     "foliation": "19 Jh.",
     "acc_mat": "am Anfang ein Verzeichnis der Kirchensachen und Bücher der Kirche von Hl. Primus und Hl. Felicianus",
     "binding": "Heller spätgotischer Ledereinband mit Streicheisenlinien. Schließen (eine davon am Hinterdeckel rot) und Kettenöse abgerissen. Am Vorderdeckel je ein Papierschild mit Titel Orosius ad Augustinumund Nummer R 27(zweite Ziffer beschädigt). Am Rücken je ein Papierzettel (17.Jh.) mit Inhaltsangabe und Fachbezeichnung N 1[0] bzw. Standortsignatur L[K] 17.",
-    "binding_date": [],
+    "binding_date": [
+      {
+        "id": 20,
+        "value": "14-15 Jh."
+      }
+    ],
     "history": "Gemäß Schriftbefund in Freising entstanden. Besitzvermerk Iste liber est sancte Marie et sancti Corbiniani Frisinge (12.Jh., 1 r). (Glauche)",
     "bibliography": [],
     "height": "285",
@@ -9006,10 +9033,10 @@
       }
     ],
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-01-16",
+    "Last modified": "2025-01-22",
     "content_summary": null,
     "charakter": [],
     "case_study": [
@@ -9059,15 +9086,15 @@
           }
         ],
         "Last modified by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2025-01-09",
+        "Last modified": "2025-01-22",
         "orig_date": [],
         "quires_number": "1-13",
         "heigth": "285",
         "lines_number": "35",
-        "decorations": false,
+        "decorations": "",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": "150",
@@ -9127,7 +9154,12 @@
                 "color": "deep-dark-orange"
               }
             ],
-            "till": [],
+            "till": [
+              {
+                "id": 62,
+                "value": "1802-1803"
+              }
+            ],
             "ms": [
               {
                 "id": 4,
@@ -9135,7 +9167,9 @@
               }
             ],
             "authority": [],
-            "page": ""
+            "page": "",
+            "certain_from": false,
+            "ceratin_till": false
           }
         ],
         "prov_place": [
@@ -9458,15 +9492,15 @@
           }
         ],
         "Last modified by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2025-01-13",
+        "Last modified": "2025-01-22",
         "orig_date": [],
         "quires_number": "1-29",
         "heigth": "325",
         "lines_number": "27",
-        "decorations": false,
+        "decorations": "",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": "180",
@@ -9534,10 +9568,82 @@
               }
             ],
             "authority": [],
-            "page": ""
+            "page": "",
+            "certain_from": false,
+            "ceratin_till": false
+          },
+          {
+            "id": 30,
+            "hit_id": "hit_codunit_place__30",
+            "cod_unit": [
+              {
+                "id": 27,
+                "value": "BSB, Clm. 6375, cod. unit 1"
+              }
+            ],
+            "place": [
+              {
+                "id": 4,
+                "name": "Freising",
+                "geonames_url": "https://www.geonames.org/2925034/freising.html",
+                "hit_id": "hit_place__4",
+                "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+                "country": [
+                  {
+                    "id": 2,
+                    "name": "Deutschland",
+                    "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+                    "hit_id": "hit_place__2",
+                    "wikidata_url": "",
+                    "country": [],
+                    "Last modified by": {
+                      "id": 36,
+                      "name": "Ivana Dobcheva"
+                    },
+                    "Last modified": "2024-07-11"
+                  }
+                ],
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "from": [],
+            "type": [
+              {
+                "id": 18151,
+                "value": "prov",
+                "color": "darker-blue"
+              }
+            ],
+            "till": [
+              {
+                "id": 62,
+                "value": "1802-1803"
+              }
+            ],
+            "ms": [
+              {
+                "id": 4,
+                "value": "BSB, Clm. 6375"
+              }
+            ],
+            "authority": [],
+            "page": "",
+            "certain_from": false,
+            "ceratin_till": false
           }
         ],
         "prov_place": [
+          {
+            "ids": {
+              "database_table_3492": 4,
+              "database_table_3840": 30
+            },
+            "value": "Freising"
+          },
           {
             "ids": {
               "database_table_3492": 18,
@@ -9911,15 +10017,15 @@
           }
         ],
         "Last modified by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2025-01-15",
+        "Last modified": "2025-01-22",
         "orig_date": [],
         "quires_number": "1-35",
         "heigth": "280",
         "lines_number": "20-21 (ab 4ⱽund  bis 131ʳ); 28 (bis 4ⱽund ab 131ʳ)",
-        "decorations": false,
+        "decorations": "",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": "120 (ab 4ⱽund  bis 131ʳ); 150 (bis 4ⱽund ab 131ʳ)",
@@ -9987,10 +10093,82 @@
               }
             ],
             "authority": [],
-            "page": ""
+            "page": "",
+            "certain_from": false,
+            "ceratin_till": false
+          },
+          {
+            "id": 29,
+            "hit_id": "hit_codunit_place__29",
+            "cod_unit": [
+              {
+                "id": 17,
+                "value": "BSB, Clm. 6381, cod. unit 1"
+              }
+            ],
+            "place": [
+              {
+                "id": 4,
+                "name": "Freising",
+                "geonames_url": "https://www.geonames.org/2925034/freising.html",
+                "hit_id": "hit_place__4",
+                "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+                "country": [
+                  {
+                    "id": 2,
+                    "name": "Deutschland",
+                    "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+                    "hit_id": "hit_place__2",
+                    "wikidata_url": "",
+                    "country": [],
+                    "Last modified by": {
+                      "id": 36,
+                      "name": "Ivana Dobcheva"
+                    },
+                    "Last modified": "2024-07-11"
+                  }
+                ],
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "from": [],
+            "type": [
+              {
+                "id": 18151,
+                "value": "prov",
+                "color": "darker-blue"
+              }
+            ],
+            "till": [
+              {
+                "id": 62,
+                "value": "1802-1803"
+              }
+            ],
+            "ms": [
+              {
+                "id": 4,
+                "value": "BSB, Clm. 6381"
+              }
+            ],
+            "authority": [],
+            "page": "",
+            "certain_from": false,
+            "ceratin_till": false
           }
         ],
         "prov_place": [
+          {
+            "ids": {
+              "database_table_3492": 4,
+              "database_table_3840": 29
+            },
+            "value": "Freising"
+          },
           {
             "ids": {
               "database_table_3492": 11,
@@ -10308,15 +10486,15 @@
           }
         ],
         "Last modified by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2025-01-13",
+        "Last modified": "2025-01-22",
         "orig_date": [],
         "quires_number": "1-6",
         "heigth": "240",
         "lines_number": "21",
-        "decorations": false,
+        "decorations": "",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": "110-145",
@@ -10384,10 +10562,82 @@
               }
             ],
             "authority": [],
-            "page": ""
+            "page": "",
+            "certain_from": false,
+            "ceratin_till": false
+          },
+          {
+            "id": 28,
+            "hit_id": "hit_codunit_place__28",
+            "cod_unit": [
+              {
+                "id": 18,
+                "value": "BSB, Clm. 6382, cod. unit 1"
+              }
+            ],
+            "place": [
+              {
+                "id": 4,
+                "name": "Freising",
+                "geonames_url": "https://www.geonames.org/2925034/freising.html",
+                "hit_id": "hit_place__4",
+                "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+                "country": [
+                  {
+                    "id": 2,
+                    "name": "Deutschland",
+                    "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+                    "hit_id": "hit_place__2",
+                    "wikidata_url": "",
+                    "country": [],
+                    "Last modified by": {
+                      "id": 36,
+                      "name": "Ivana Dobcheva"
+                    },
+                    "Last modified": "2024-07-11"
+                  }
+                ],
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "from": [],
+            "type": [
+              {
+                "id": 18151,
+                "value": "prov",
+                "color": "darker-blue"
+              }
+            ],
+            "till": [
+              {
+                "id": 62,
+                "value": "1802-1803"
+              }
+            ],
+            "ms": [
+              {
+                "id": 4,
+                "value": "BSB, Clm. 6382"
+              }
+            ],
+            "authority": [],
+            "page": "",
+            "certain_from": false,
+            "ceratin_till": false
           }
         ],
         "prov_place": [
+          {
+            "ids": {
+              "database_table_3492": 4,
+              "database_table_3840": 28
+            },
+            "value": "Freising"
+          },
           {
             "ids": {
               "database_table_3492": 17,
@@ -10435,15 +10685,15 @@
           }
         ],
         "Last modified by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2025-01-13",
+        "Last modified": "2025-01-22",
         "orig_date": [],
         "quires_number": "7-16",
         "heigth": "240",
         "lines_number": "29",
-        "decorations": false,
+        "decorations": "",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": "130",
@@ -10503,7 +10753,12 @@
                 "color": "deep-dark-orange"
               }
             ],
-            "till": [],
+            "till": [
+              {
+                "id": 62,
+                "value": "1802-1803"
+              }
+            ],
             "ms": [
               {
                 "id": 4,
@@ -10511,7 +10766,9 @@
               }
             ],
             "authority": [],
-            "page": ""
+            "page": "",
+            "certain_from": false,
+            "ceratin_till": false
           }
         ],
         "prov_place": [
@@ -10813,15 +11070,15 @@
           }
         ],
         "Last modified by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2025-01-09",
+        "Last modified": "2025-01-22",
         "orig_date": [],
         "quires_number": "1-19",
         "heigth": "260",
         "lines_number": "31-38",
-        "decorations": false,
+        "decorations": "",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": "160-175",
@@ -10881,7 +11138,12 @@
                 "color": "deep-dark-orange"
               }
             ],
-            "till": [],
+            "till": [
+              {
+                "id": 62,
+                "value": "1802-1803"
+              }
+            ],
             "ms": [
               {
                 "id": 4,
@@ -10889,7 +11151,9 @@
               }
             ],
             "authority": [],
-            "page": ""
+            "page": "",
+            "certain_from": false,
+            "ceratin_till": false
           }
         ],
         "prov_place": [
@@ -11186,15 +11450,15 @@
           }
         ],
         "Last modified by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2025-01-13",
+        "Last modified": "2025-01-22",
         "orig_date": [],
         "quires_number": "1-2",
         "heigth": "250",
         "lines_number": "25-30",
-        "decorations": false,
+        "decorations": "",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": "133",
@@ -11248,7 +11512,12 @@
                 "color": "deep-dark-orange"
               }
             ],
-            "till": [],
+            "till": [
+              {
+                "id": 62,
+                "value": "1802-1803"
+              }
+            ],
             "ms": [
               {
                 "id": 4,
@@ -11256,7 +11525,9 @@
               }
             ],
             "authority": [],
-            "page": ""
+            "page": "",
+            "certain_from": false,
+            "ceratin_till": false
           }
         ],
         "prov_place": [
@@ -11307,15 +11578,15 @@
           }
         ],
         "Last modified by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2025-01-13",
+        "Last modified": "2025-01-22",
         "orig_date": [],
         "quires_number": "3-12",
         "heigth": "250",
         "lines_number": "22",
-        "decorations": false,
+        "decorations": "",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": "110-120",
@@ -11377,7 +11648,9 @@
               }
             ],
             "authority": [],
-            "page": ""
+            "page": "",
+            "certain_from": false,
+            "ceratin_till": false
           },
           {
             "id": 26,
@@ -11425,7 +11698,12 @@
                 "color": "darker-blue"
               }
             ],
-            "till": [],
+            "till": [
+              {
+                "id": 62,
+                "value": "1802-1803"
+              }
+            ],
             "ms": [
               {
                 "id": 4,
@@ -11433,7 +11711,9 @@
               }
             ],
             "authority": [],
-            "page": ""
+            "page": "",
+            "certain_from": false,
+            "ceratin_till": false
           }
         ],
         "prov_place": [
@@ -11491,15 +11771,15 @@
           }
         ],
         "Last modified by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2025-01-13",
+        "Last modified": "2025-01-22",
         "orig_date": [],
         "quires_number": "13-26",
         "heigth": "250",
         "lines_number": "25-30",
-        "decorations": false,
+        "decorations": "",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": "133",
@@ -11553,7 +11833,12 @@
                 "color": "deep-dark-orange"
               }
             ],
-            "till": [],
+            "till": [
+              {
+                "id": 62,
+                "value": "1802-1803"
+              }
+            ],
             "ms": [
               {
                 "id": 4,
@@ -11561,7 +11846,9 @@
               }
             ],
             "authority": [],
-            "page": ""
+            "page": "",
+            "certain_from": false,
+            "ceratin_till": false
           }
         ],
         "prov_place": [
@@ -11836,15 +12123,15 @@
           }
         ],
         "Last modified by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2025-01-09",
+        "Last modified": "2025-01-22",
         "orig_date": [],
         "quires_number": "1-26",
         "heigth": "190",
         "lines_number": "18",
-        "decorations": false,
+        "decorations": "",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": "105",
@@ -11904,7 +12191,12 @@
                 "color": "deep-dark-orange"
               }
             ],
-            "till": [],
+            "till": [
+              {
+                "id": 62,
+                "value": "1802-1803"
+              }
+            ],
             "ms": [
               {
                 "id": 4,
@@ -11912,7 +12204,9 @@
               }
             ],
             "authority": [],
-            "page": ""
+            "page": "",
+            "certain_from": false,
+            "ceratin_till": false
           }
         ],
         "prov_place": [
@@ -12182,15 +12476,15 @@
           }
         ],
         "Last modified by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2025-01-13",
+        "Last modified": "2025-01-22",
         "orig_date": [],
         "quires_number": "1-7",
         "heigth": "180",
         "lines_number": "22-24",
-        "decorations": false,
+        "decorations": "",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": "105",
@@ -12250,7 +12544,12 @@
                 "color": "deep-dark-orange"
               }
             ],
-            "till": [],
+            "till": [
+              {
+                "id": 62,
+                "value": "1802-1803"
+              }
+            ],
             "ms": [
               {
                 "id": 4,
@@ -12258,7 +12557,9 @@
               }
             ],
             "authority": [],
-            "page": ""
+            "page": "",
+            "certain_from": false,
+            "ceratin_till": false
           }
         ],
         "prov_place": [
@@ -12533,15 +12834,15 @@
           }
         ],
         "Last modified by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2025-01-09",
+        "Last modified": "2025-01-22",
         "orig_date": [],
         "quires_number": "1-26",
         "heigth": "165-170",
         "lines_number": "16-20",
-        "decorations": false,
+        "decorations": "",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": "75-85",
@@ -12601,7 +12902,12 @@
                 "color": "deep-dark-orange"
               }
             ],
-            "till": [],
+            "till": [
+              {
+                "id": 62,
+                "value": "1802-1803"
+              }
+            ],
             "ms": [
               {
                 "id": 4,
@@ -12609,7 +12915,9 @@
               }
             ],
             "authority": [],
-            "page": ""
+            "page": "",
+            "certain_from": false,
+            "ceratin_till": false
           }
         ],
         "prov_place": [
@@ -12932,15 +13240,15 @@
           }
         ],
         "Last modified by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2025-01-13",
+        "Last modified": "2025-01-22",
         "orig_date": [],
         "quires_number": "1-27",
         "heigth": "330",
         "lines_number": "31",
-        "decorations": false,
+        "decorations": "",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": "155-165",
@@ -13008,7 +13316,9 @@
               }
             ],
             "authority": [],
-            "page": ""
+            "page": "",
+            "certain_from": false,
+            "ceratin_till": false
           }
         ],
         "prov_place": [
@@ -13331,15 +13641,15 @@
           }
         ],
         "Last modified by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2025-01-13",
+        "Last modified": "2025-01-22",
         "orig_date": [],
         "quires_number": null,
         "heigth": "205",
         "lines_number": "18",
-        "decorations": false,
+        "decorations": "",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": "95-105",
@@ -13407,10 +13717,82 @@
               }
             ],
             "authority": [],
-            "page": ""
+            "page": "",
+            "certain_from": false,
+            "ceratin_till": false
+          },
+          {
+            "id": 32,
+            "hit_id": "hit_codunit_place__32",
+            "cod_unit": [
+              {
+                "id": 26,
+                "value": "BSB, Clm. 1086, cod. unit 1"
+              }
+            ],
+            "place": [
+              {
+                "id": 4,
+                "name": "Freising",
+                "geonames_url": "https://www.geonames.org/2925034/freising.html",
+                "hit_id": "hit_place__4",
+                "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+                "country": [
+                  {
+                    "id": 2,
+                    "name": "Deutschland",
+                    "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+                    "hit_id": "hit_place__2",
+                    "wikidata_url": "",
+                    "country": [],
+                    "Last modified by": {
+                      "id": 36,
+                      "name": "Ivana Dobcheva"
+                    },
+                    "Last modified": "2024-07-11"
+                  }
+                ],
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "from": [],
+            "type": [
+              {
+                "id": 18151,
+                "value": "prov",
+                "color": "darker-blue"
+              }
+            ],
+            "till": [
+              {
+                "id": 62,
+                "value": "1802-1803"
+              }
+            ],
+            "ms": [
+              {
+                "id": 4,
+                "value": "BSB, Clm. 1086"
+              }
+            ],
+            "authority": [],
+            "page": "",
+            "certain_from": false,
+            "ceratin_till": false
           }
         ],
         "prov_place": [
+          {
+            "ids": {
+              "database_table_3492": 4,
+              "database_table_3840": 32
+            },
+            "value": "Freising"
+          },
           {
             "ids": {
               "database_table_3492": 10,
@@ -13564,10 +13946,10 @@
           }
         ],
         "Last modified by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2025-01-20",
+        "Last modified": "2025-01-22",
         "orig_date": [
           {
             "id": 36,
@@ -13577,7 +13959,7 @@
         "quires_number": "",
         "heigth": "",
         "lines_number": "",
-        "decorations": false,
+        "decorations": "",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": "",
@@ -13631,7 +14013,12 @@
                 "color": "deep-dark-orange"
               }
             ],
-            "till": [],
+            "till": [
+              {
+                "id": 62,
+                "value": "1802-1803"
+              }
+            ],
             "ms": [
               {
                 "id": 4,
@@ -13639,7 +14026,9 @@
               }
             ],
             "authority": [],
-            "page": ""
+            "page": "",
+            "certain_from": false,
+            "ceratin_till": false
           }
         ],
         "prov_place": [
@@ -13955,15 +14344,15 @@
           }
         ],
         "Last modified by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2025-01-13",
+        "Last modified": "2025-01-22",
         "orig_date": [],
         "quires_number": null,
         "heigth": "250",
         "lines_number": "25",
-        "decorations": true,
+        "decorations": "",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": "145",
@@ -14015,7 +14404,12 @@
                 "Last modified": "2024-11-20"
               }
             ],
-            "from": [],
+            "from": [
+              {
+                "id": 49,
+                "value": "um 9. Jh., drittes Drittel"
+              }
+            ],
             "type": [
               {
                 "id": 18150,
@@ -14023,7 +14417,12 @@
                 "color": "deep-dark-orange"
               }
             ],
-            "till": [],
+            "till": [
+              {
+                "id": 13,
+                "value": "11 Jh."
+              }
+            ],
             "ms": [
               {
                 "id": 4,
@@ -14031,10 +14430,87 @@
               }
             ],
             "authority": [],
-            "page": ""
+            "page": "",
+            "certain_from": false,
+            "ceratin_till": false
+          },
+          {
+            "id": 31,
+            "hit_id": "hit_codunit_place__31",
+            "cod_unit": [
+              {
+                "id": 21,
+                "value": "BSB, Clm. 6341, cod. unit 1"
+              }
+            ],
+            "place": [
+              {
+                "id": 4,
+                "name": "Freising",
+                "geonames_url": "https://www.geonames.org/2925034/freising.html",
+                "hit_id": "hit_place__4",
+                "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+                "country": [
+                  {
+                    "id": 2,
+                    "name": "Deutschland",
+                    "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+                    "hit_id": "hit_place__2",
+                    "wikidata_url": "",
+                    "country": [],
+                    "Last modified by": {
+                      "id": 36,
+                      "name": "Ivana Dobcheva"
+                    },
+                    "Last modified": "2024-07-11"
+                  }
+                ],
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "from": [
+              {
+                "id": 13,
+                "value": "11 Jh."
+              }
+            ],
+            "type": [
+              {
+                "id": 18151,
+                "value": "prov",
+                "color": "darker-blue"
+              }
+            ],
+            "till": [
+              {
+                "id": 62,
+                "value": "1802-1803"
+              }
+            ],
+            "ms": [
+              {
+                "id": 4,
+                "value": "BSB, Clm. 6341"
+              }
+            ],
+            "authority": [],
+            "page": "",
+            "certain_from": false,
+            "ceratin_till": false
           }
         ],
         "prov_place": [
+          {
+            "ids": {
+              "database_table_3492": 4,
+              "database_table_3840": 31
+            },
+            "value": "Freising"
+          },
           {
             "ids": {
               "database_table_3492": 12,
@@ -14082,15 +14558,15 @@
           }
         ],
         "Last modified by": {
-          "id": 87,
-          "name": "Ksenia Borisova"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2025-01-13",
+        "Last modified": "2025-01-22",
         "orig_date": [],
         "quires_number": null,
         "heigth": "250",
         "lines_number": "28",
-        "decorations": false,
+        "decorations": "",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": "140",
@@ -14150,7 +14626,12 @@
                 "color": "deep-dark-orange"
               }
             ],
-            "till": [],
+            "till": [
+              {
+                "id": 62,
+                "value": "1802-1803"
+              }
+            ],
             "ms": [
               {
                 "id": 4,
@@ -14158,7 +14639,9 @@
               }
             ],
             "authority": [],
-            "page": ""
+            "page": "",
+            "certain_from": false,
+            "ceratin_till": false
           }
         ],
         "prov_place": [
@@ -15143,7 +15626,7 @@
     "case_study": [
       {
         "id": 18149,
-        "value": "Projekt Gregor von Tours",
+        "value": "Projekt \"Carolingian Editions\"",
         "color": "darker-brown"
       }
     ],
@@ -15160,8 +15643,8 @@
       "label": "ÖNB, Cod. 420"
     },
     "next": {
-      "id": "hit_manuscript__4",
-      "label": "BSB, Clm. 210"
+      "id": "hit_manuscript__32",
+      "label": "Saint-Omer, ms. 697"
     },
     "related__cod_units": [
       {
@@ -15188,10 +15671,10 @@
         "number": "1",
         "prov_place_old": [],
         "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2025-01-16",
+        "Last modified": "2025-01-22",
         "orig_date": [
           {
             "id": 60,
@@ -15201,7 +15684,7 @@
         "quires_number": "1-28",
         "heigth": "",
         "lines_number": "",
-        "decorations": false,
+        "decorations": "",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": "",
@@ -15289,7 +15772,9 @@
                 "value": "Pürstinger"
               }
             ],
-            "page": "58-62"
+            "page": "58-62",
+            "certain_from": false,
+            "ceratin_till": false
           },
           {
             "id": 5,
@@ -15350,7 +15835,9 @@
               }
             ],
             "authority": [],
-            "page": ""
+            "page": "",
+            "certain_from": false,
+            "ceratin_till": false
           }
         ],
         "prov_place": [
@@ -15380,5 +15867,433 @@
         }
       }
     ]
+  },
+  "32": {
+    "id": 32,
+    "shelfmark": [
+      {
+        "id": 11,
+        "value": "Saint-Omer, ms. 697"
+      }
+    ],
+    "hit_id": "hit_manuscript__32",
+    "library": [
+      {
+        "id": 11,
+        "value": "Saint-Omer"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "ms. 697",
+    "idno_former": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 11,
+        "label": "Saint-Omer",
+        "hit_id": "hit_org__11",
+        "gnd_url": "https://d-nb.info/gnd/411822-4",
+        "library_full": "Saint-Omer, Bibliothèque d'agglomération de Saint-Omer",
+        "library_website": "https://www.bibliotheque-agglo-stomer.fr/BibliothequeagglomerationsSaintOmer",
+        "settlement": [
+          {
+            "id": 20,
+            "name": "Saint-Omer",
+            "geonames_url": "https://www.geonames.org/6618320/saint-omer.html",
+            "hit_id": "hit_place__20",
+            "wikidata_url": "https://www.wikidata.org/wiki/Q208793",
+            "country": [
+              {
+                "id": 14,
+                "value": "Frankreich"
+              }
+            ],
+            "Last modified by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Last modified": "2025-01-15"
+          }
+        ],
+        "wikidata": "https://www.wikidata.org/wiki/Q61931287",
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-15"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "history": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material_spec": "",
+    "orig_place": [
+      {
+        "id": 21,
+        "name": "Abtei Saint-Bertin",
+        "geonames_url": "https://www.geonames.org/12470210/abbaye-saint-bertin.html",
+        "hit_id": "hit_place__21",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q334144",
+        "country": [
+          {
+            "id": 14,
+            "name": "Frankreich",
+            "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+            "hit_id": "hit_place__14",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-16"
+      }
+    ],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": null,
+    "provenance": [
+      {
+        "id": 12,
+        "label": "Abtei Saint-Bertin",
+        "hit_id": "hit_org__12",
+        "gnd_url": "https://d-nb.info/gnd/4309440-5",
+        "library_full": "Abbaye Saint-Bertin",
+        "library_website": "",
+        "settlement": [
+          {
+            "id": 20,
+            "name": "Saint-Omer",
+            "geonames_url": "https://www.geonames.org/6618320/saint-omer.html",
+            "hit_id": "hit_place__20",
+            "wikidata_url": "https://www.wikidata.org/wiki/Q208793",
+            "country": [
+              {
+                "id": 14,
+                "value": "Frankreich"
+              }
+            ],
+            "Last modified by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Last modified": "2025-01-15"
+          }
+        ],
+        "wikidata": "",
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-16"
+      }
+    ],
+    "manuscripts_dated": [
+      {
+        "id": 35,
+        "hit_id": "hit_dated__35",
+        "manuscript": [
+          {
+            "id": 32,
+            "value": "Saint-Omer, ms. 697"
+          }
+        ],
+        "date": [
+          {
+            "id": 60,
+            "label": "986-1007",
+            "not_before": "0986-01-01",
+            "hit_id": "hit_date__60",
+            "not_after": null,
+            "Last modified by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Last modified": "2025-01-15"
+          }
+        ],
+        "authority": [
+          {
+            "id": 14,
+            "name": "Pürstinger",
+            "short_title": "Masterarbeit bzw. Publikation",
+            "zotero_id": "",
+            "hit_id": "hit_bibl__14"
+          }
+        ],
+        "page": "58-62",
+        "preferred_date": true,
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-22T10:40:39.958695Z",
+        "note": ""
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 60,
+          "database_table_3516": 35
+        },
+        "value": "986-1007"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-22",
+    "content_summary": "",
+    "charakter": [],
+    "case_study": [
+      {
+        "id": 18149,
+        "value": "Projekt \"Carolingian Editions\"",
+        "color": "darker-brown"
+      }
+    ],
+    "status": [],
+    "view_label": "Saint-Omer, ms. 697",
+    "prev": {
+      "id": "hit_manuscript__31",
+      "label": "Saint-Omer, ms. 706"
+    },
+    "next": {
+      "id": "hit_manuscript__33",
+      "label": "Bruxelles KBR, ms. 15835"
+    },
+    "related__cod_units": []
+  },
+  "33": {
+    "id": 33,
+    "shelfmark": [
+      {
+        "id": 13,
+        "value": "Bruxelles KBR, ms. 15835"
+      }
+    ],
+    "hit_id": "hit_manuscript__33",
+    "library": [
+      {
+        "id": 13,
+        "value": "Bruxelles KBR"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "ms. 15835",
+    "idno_former": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 13,
+        "label": "Bruxelles KBR",
+        "hit_id": "hit_org__13",
+        "gnd_url": "https://d-nb.info/gnd/1023393-3",
+        "library_full": "Bibliothèque royale de Belgique",
+        "library_website": "",
+        "settlement": [
+          {
+            "id": 24,
+            "name": "Brüssel",
+            "geonames_url": "https://www.geonames.org/2800866/brussels.html",
+            "hit_id": "hit_place__24",
+            "wikidata_url": "https://www.wikidata.org/wiki/Q239",
+            "country": [
+              {
+                "id": 23,
+                "value": "Belgien"
+              }
+            ],
+            "Last modified by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Last modified": "2025-01-22"
+          }
+        ],
+        "wikidata": "https://www.wikidata.org/wiki/Q383931",
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-22"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "history": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material_spec": "",
+    "orig_place": [
+      {
+        "id": 21,
+        "name": "Abtei Saint-Bertin",
+        "geonames_url": "https://www.geonames.org/12470210/abbaye-saint-bertin.html",
+        "hit_id": "hit_place__21",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q334144",
+        "country": [
+          {
+            "id": 14,
+            "name": "Frankreich",
+            "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+            "hit_id": "hit_place__14",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-16"
+      }
+    ],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": null,
+    "provenance": [
+      {
+        "id": 12,
+        "label": "Abtei Saint-Bertin",
+        "hit_id": "hit_org__12",
+        "gnd_url": "https://d-nb.info/gnd/4309440-5",
+        "library_full": "Abbaye Saint-Bertin",
+        "library_website": "",
+        "settlement": [
+          {
+            "id": 20,
+            "name": "Saint-Omer",
+            "geonames_url": "https://www.geonames.org/6618320/saint-omer.html",
+            "hit_id": "hit_place__20",
+            "wikidata_url": "https://www.wikidata.org/wiki/Q208793",
+            "country": [
+              {
+                "id": 14,
+                "value": "Frankreich"
+              }
+            ],
+            "Last modified by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Last modified": "2025-01-15"
+          }
+        ],
+        "wikidata": "",
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-16"
+      }
+    ],
+    "manuscripts_dated": [
+      {
+        "id": 36,
+        "hit_id": "hit_dated__36",
+        "manuscript": [
+          {
+            "id": 33,
+            "value": "Bruxelles KBR, ms. 15835"
+          }
+        ],
+        "date": [
+          {
+            "id": 60,
+            "label": "986-1007",
+            "not_before": "0986-01-01",
+            "hit_id": "hit_date__60",
+            "not_after": null,
+            "Last modified by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Last modified": "2025-01-15"
+          }
+        ],
+        "authority": [
+          {
+            "id": 14,
+            "name": "Pürstinger",
+            "short_title": "Masterarbeit bzw. Publikation",
+            "zotero_id": "",
+            "hit_id": "hit_bibl__14"
+          }
+        ],
+        "page": "58-62",
+        "preferred_date": true,
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-22T11:00:57.382700Z",
+        "note": ""
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 60,
+          "database_table_3516": 36
+        },
+        "value": "986-1007"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-22",
+    "content_summary": "",
+    "charakter": [],
+    "case_study": [
+      {
+        "id": 18149,
+        "value": "Projekt \"Carolingian Editions\"",
+        "color": "darker-brown"
+      }
+    ],
+    "status": [],
+    "view_label": "Bruxelles KBR, ms. 15835",
+    "prev": {
+      "id": "hit_manuscript__32",
+      "label": "Saint-Omer, ms. 697"
+    },
+    "next": {
+      "id": "hit_manuscript__4",
+      "label": "BSB, Clm. 210"
+    },
+    "related__cod_units": []
   }
 }

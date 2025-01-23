@@ -59,6 +59,8 @@
       }
     ],
     "page": null,
+    "certain_from": false,
+    "ceratin_till": false,
     "view_label": "hit_codunit_place__1",
     "prev": {
       "id": "hit_codunit_place__9",
@@ -124,6 +126,8 @@
     ],
     "authority": [],
     "page": null,
+    "certain_from": false,
+    "ceratin_till": false,
     "view_label": "hit_codunit_place__2",
     "prev": {
       "id": "hit_codunit_place__19",
@@ -189,14 +193,16 @@
     ],
     "authority": [],
     "page": "",
+    "certain_from": false,
+    "ceratin_till": false,
     "view_label": "hit_codunit_place__3",
     "prev": {
-      "id": "hit_codunit_place__26",
-      "label": "hit_codunit_place__26"
+      "id": "hit_codunit_place__29",
+      "label": "hit_codunit_place__29"
     },
     "next": {
-      "id": "hit_codunit_place__4",
-      "label": "hit_codunit_place__4"
+      "id": "hit_codunit_place__30",
+      "label": "hit_codunit_place__30"
     }
   },
   "4": {
@@ -269,10 +275,12 @@
       }
     ],
     "page": "58-62",
+    "certain_from": false,
+    "ceratin_till": false,
     "view_label": "hit_codunit_place__4",
     "prev": {
-      "id": "hit_codunit_place__3",
-      "label": "hit_codunit_place__3"
+      "id": "hit_codunit_place__32",
+      "label": "hit_codunit_place__32"
     },
     "next": {
       "id": "hit_codunit_place__5",
@@ -339,6 +347,8 @@
     ],
     "authority": [],
     "page": "",
+    "certain_from": false,
+    "ceratin_till": false,
     "view_label": "hit_codunit_place__5",
     "prev": {
       "id": "hit_codunit_place__4",
@@ -395,7 +405,12 @@
         "color": "deep-dark-orange"
       }
     ],
-    "till": [],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803"
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -404,6 +419,8 @@
     ],
     "authority": [],
     "page": "",
+    "certain_from": false,
+    "ceratin_till": false,
     "view_label": "hit_codunit_place__6",
     "prev": {
       "id": "hit_codunit_place__5",
@@ -460,7 +477,12 @@
         "color": "deep-dark-orange"
       }
     ],
-    "till": [],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803"
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -469,6 +491,8 @@
     ],
     "authority": [],
     "page": "",
+    "certain_from": false,
+    "ceratin_till": false,
     "view_label": "hit_codunit_place__7",
     "prev": {
       "id": "hit_codunit_place__6",
@@ -525,7 +549,12 @@
         "color": "deep-dark-orange"
       }
     ],
-    "till": [],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803"
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -534,6 +563,8 @@
     ],
     "authority": [],
     "page": "",
+    "certain_from": false,
+    "ceratin_till": false,
     "view_label": "hit_codunit_place__8",
     "prev": {
       "id": "hit_codunit_place__7",
@@ -599,6 +630,8 @@
     ],
     "authority": [],
     "page": "",
+    "certain_from": false,
+    "ceratin_till": false,
     "view_label": "hit_codunit_place__9",
     "prev": {
       "id": "hit_codunit_place__8",
@@ -655,7 +688,12 @@
         "color": "deep-dark-orange"
       }
     ],
-    "till": [],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803"
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -664,6 +702,8 @@
     ],
     "authority": [],
     "page": "",
+    "certain_from": false,
+    "ceratin_till": false,
     "view_label": "hit_codunit_place__10",
     "prev": {
       "id": "hit_codunit_place__1",
@@ -720,7 +760,12 @@
         "color": "deep-dark-orange"
       }
     ],
-    "till": [],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803"
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -729,6 +774,8 @@
     ],
     "authority": [],
     "page": "",
+    "certain_from": false,
+    "ceratin_till": false,
     "view_label": "hit_codunit_place__11",
     "prev": {
       "id": "hit_codunit_place__10",
@@ -785,7 +832,12 @@
         "color": "deep-dark-orange"
       }
     ],
-    "till": [],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803"
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -794,6 +846,8 @@
     ],
     "authority": [],
     "page": "",
+    "certain_from": false,
+    "ceratin_till": false,
     "view_label": "hit_codunit_place__12",
     "prev": {
       "id": "hit_codunit_place__11",
@@ -859,6 +913,8 @@
     ],
     "authority": [],
     "page": "",
+    "certain_from": false,
+    "ceratin_till": false,
     "view_label": "hit_codunit_place__13",
     "prev": {
       "id": "hit_codunit_place__12",
@@ -924,6 +980,8 @@
     ],
     "authority": [],
     "page": "",
+    "certain_from": false,
+    "ceratin_till": false,
     "view_label": "hit_codunit_place__14",
     "prev": {
       "id": "hit_codunit_place__13",
@@ -980,7 +1038,12 @@
         "color": "deep-dark-orange"
       }
     ],
-    "till": [],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803"
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -989,6 +1052,8 @@
     ],
     "authority": [],
     "page": "",
+    "certain_from": false,
+    "ceratin_till": false,
     "view_label": "hit_codunit_place__15",
     "prev": {
       "id": "hit_codunit_place__14",
@@ -1045,7 +1110,12 @@
         "color": "deep-dark-orange"
       }
     ],
-    "till": [],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803"
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -1054,6 +1124,8 @@
     ],
     "authority": [],
     "page": "",
+    "certain_from": false,
+    "ceratin_till": false,
     "view_label": "hit_codunit_place__16",
     "prev": {
       "id": "hit_codunit_place__15",
@@ -1102,7 +1174,12 @@
         "Last modified": "2024-11-20"
       }
     ],
-    "from": [],
+    "from": [
+      {
+        "id": 49,
+        "value": "um 9. Jh., drittes Drittel"
+      }
+    ],
     "type": [
       {
         "id": 18150,
@@ -1110,7 +1187,12 @@
         "color": "deep-dark-orange"
       }
     ],
-    "till": [],
+    "till": [
+      {
+        "id": 13,
+        "value": "11 Jh."
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -1119,6 +1201,8 @@
     ],
     "authority": [],
     "page": "",
+    "certain_from": false,
+    "ceratin_till": false,
     "view_label": "hit_codunit_place__17",
     "prev": {
       "id": "hit_codunit_place__16",
@@ -1175,7 +1259,12 @@
         "color": "deep-dark-orange"
       }
     ],
-    "till": [],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803"
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -1184,6 +1273,8 @@
     ],
     "authority": [],
     "page": "",
+    "certain_from": false,
+    "ceratin_till": false,
     "view_label": "hit_codunit_place__18",
     "prev": {
       "id": "hit_codunit_place__17",
@@ -1240,7 +1331,12 @@
         "color": "deep-dark-orange"
       }
     ],
-    "till": [],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803"
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -1249,6 +1345,8 @@
     ],
     "authority": [],
     "page": "",
+    "certain_from": false,
+    "ceratin_till": false,
     "view_label": "hit_codunit_place__19",
     "prev": {
       "id": "hit_codunit_place__18",
@@ -1305,7 +1403,12 @@
         "color": "deep-dark-orange"
       }
     ],
-    "till": [],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803"
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -1314,6 +1417,8 @@
     ],
     "authority": [],
     "page": "",
+    "certain_from": false,
+    "ceratin_till": false,
     "view_label": "hit_codunit_place__20",
     "prev": {
       "id": "hit_codunit_place__2",
@@ -1370,7 +1475,12 @@
         "color": "deep-dark-orange"
       }
     ],
-    "till": [],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803"
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -1379,6 +1489,8 @@
     ],
     "authority": [],
     "page": "",
+    "certain_from": false,
+    "ceratin_till": false,
     "view_label": "hit_codunit_place__21",
     "prev": {
       "id": "hit_codunit_place__20",
@@ -1444,6 +1556,8 @@
     ],
     "authority": [],
     "page": "",
+    "certain_from": false,
+    "ceratin_till": false,
     "view_label": "hit_codunit_place__22",
     "prev": {
       "id": "hit_codunit_place__21",
@@ -1509,6 +1623,8 @@
     ],
     "authority": [],
     "page": "",
+    "certain_from": false,
+    "ceratin_till": false,
     "view_label": "hit_codunit_place__23",
     "prev": {
       "id": "hit_codunit_place__22",
@@ -1574,6 +1690,8 @@
     ],
     "authority": [],
     "page": "",
+    "certain_from": false,
+    "ceratin_till": false,
     "view_label": "hit_codunit_place__24",
     "prev": {
       "id": "hit_codunit_place__23",
@@ -1639,6 +1757,8 @@
     ],
     "authority": [],
     "page": "",
+    "certain_from": false,
+    "ceratin_till": false,
     "view_label": "hit_codunit_place__25",
     "prev": {
       "id": "hit_codunit_place__24",
@@ -1695,7 +1815,12 @@
         "color": "darker-blue"
       }
     ],
-    "till": [],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803"
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -1704,14 +1829,381 @@
     ],
     "authority": [],
     "page": "",
+    "certain_from": false,
+    "ceratin_till": false,
     "view_label": "hit_codunit_place__26",
     "prev": {
       "id": "hit_codunit_place__25",
       "label": "hit_codunit_place__25"
     },
     "next": {
+      "id": "hit_codunit_place__28",
+      "label": "hit_codunit_place__28"
+    }
+  },
+  "28": {
+    "id": 28,
+    "hit_id": "hit_codunit_place__28",
+    "cod_unit": [
+      {
+        "id": 18,
+        "value": "BSB, Clm. 6382, cod. unit 1"
+      }
+    ],
+    "place": [
+      {
+        "id": 4,
+        "name": "Freising",
+        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+        "hit_id": "hit_place__4",
+        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+        "country": [
+          {
+            "id": 2,
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "from": [],
+    "type": [
+      {
+        "id": 18151,
+        "value": "prov",
+        "color": "darker-blue"
+      }
+    ],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803"
+      }
+    ],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false,
+    "view_label": "hit_codunit_place__28",
+    "prev": {
+      "id": "hit_codunit_place__26",
+      "label": "hit_codunit_place__26"
+    },
+    "next": {
+      "id": "hit_codunit_place__29",
+      "label": "hit_codunit_place__29"
+    }
+  },
+  "29": {
+    "id": 29,
+    "hit_id": "hit_codunit_place__29",
+    "cod_unit": [
+      {
+        "id": 17,
+        "value": "BSB, Clm. 6381, cod. unit 1"
+      }
+    ],
+    "place": [
+      {
+        "id": 4,
+        "name": "Freising",
+        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+        "hit_id": "hit_place__4",
+        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+        "country": [
+          {
+            "id": 2,
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "from": [],
+    "type": [
+      {
+        "id": 18151,
+        "value": "prov",
+        "color": "darker-blue"
+      }
+    ],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803"
+      }
+    ],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6381"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false,
+    "view_label": "hit_codunit_place__29",
+    "prev": {
+      "id": "hit_codunit_place__28",
+      "label": "hit_codunit_place__28"
+    },
+    "next": {
       "id": "hit_codunit_place__3",
       "label": "hit_codunit_place__3"
+    }
+  },
+  "30": {
+    "id": 30,
+    "hit_id": "hit_codunit_place__30",
+    "cod_unit": [
+      {
+        "id": 27,
+        "value": "BSB, Clm. 6375, cod. unit 1"
+      }
+    ],
+    "place": [
+      {
+        "id": 4,
+        "name": "Freising",
+        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+        "hit_id": "hit_place__4",
+        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+        "country": [
+          {
+            "id": 2,
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "from": [],
+    "type": [
+      {
+        "id": 18151,
+        "value": "prov",
+        "color": "darker-blue"
+      }
+    ],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803"
+      }
+    ],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6375"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false,
+    "view_label": "hit_codunit_place__30",
+    "prev": {
+      "id": "hit_codunit_place__3",
+      "label": "hit_codunit_place__3"
+    },
+    "next": {
+      "id": "hit_codunit_place__31",
+      "label": "hit_codunit_place__31"
+    }
+  },
+  "31": {
+    "id": 31,
+    "hit_id": "hit_codunit_place__31",
+    "cod_unit": [
+      {
+        "id": 21,
+        "value": "BSB, Clm. 6341, cod. unit 1"
+      }
+    ],
+    "place": [
+      {
+        "id": 4,
+        "name": "Freising",
+        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+        "hit_id": "hit_place__4",
+        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+        "country": [
+          {
+            "id": 2,
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "from": [
+      {
+        "id": 13,
+        "value": "11 Jh."
+      }
+    ],
+    "type": [
+      {
+        "id": 18151,
+        "value": "prov",
+        "color": "darker-blue"
+      }
+    ],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803"
+      }
+    ],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6341"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false,
+    "view_label": "hit_codunit_place__31",
+    "prev": {
+      "id": "hit_codunit_place__30",
+      "label": "hit_codunit_place__30"
+    },
+    "next": {
+      "id": "hit_codunit_place__32",
+      "label": "hit_codunit_place__32"
+    }
+  },
+  "32": {
+    "id": 32,
+    "hit_id": "hit_codunit_place__32",
+    "cod_unit": [
+      {
+        "id": 26,
+        "value": "BSB, Clm. 1086, cod. unit 1"
+      }
+    ],
+    "place": [
+      {
+        "id": 4,
+        "name": "Freising",
+        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+        "hit_id": "hit_place__4",
+        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+        "country": [
+          {
+            "id": 2,
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "from": [],
+    "type": [
+      {
+        "id": 18151,
+        "value": "prov",
+        "color": "darker-blue"
+      }
+    ],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803"
+      }
+    ],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 1086"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false,
+    "view_label": "hit_codunit_place__32",
+    "prev": {
+      "id": "hit_codunit_place__31",
+      "label": "hit_codunit_place__31"
+    },
+    "next": {
+      "id": "hit_codunit_place__4",
+      "label": "hit_codunit_place__4"
     }
   }
 }

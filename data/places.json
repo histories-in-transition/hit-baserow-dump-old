@@ -115,8 +115,8 @@
     "Last modified": "2024-07-11",
     "view_label": "Salzburg",
     "prev": {
-      "id": "hit_place__21",
-      "label": "Abtei Saint-Bertin"
+      "id": "hit_place__24",
+      "label": "Brüssel"
     },
     "next": {
       "id": "hit_place__4",
@@ -693,6 +693,64 @@
     "prev": {
       "id": "hit_place__20",
       "label": "Saint-Omer"
+    },
+    "next": {
+      "id": "hit_place__23",
+      "label": "Belgien"
+    }
+  },
+  "23": {
+    "id": 23,
+    "name": "Belgien",
+    "geonames_url": "https://www.geonames.org/2802361/kingdom-of-belgium.html",
+    "hit_id": "hit_place__23",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q31",
+    "country": [],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-22",
+    "view_label": "Belgien",
+    "prev": {
+      "id": "hit_place__21",
+      "label": "Abtei Saint-Bertin"
+    },
+    "next": {
+      "id": "hit_place__24",
+      "label": "Brüssel"
+    }
+  },
+  "24": {
+    "id": 24,
+    "name": "Brüssel",
+    "geonames_url": "https://www.geonames.org/2800866/brussels.html",
+    "hit_id": "hit_place__24",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q239",
+    "country": [
+      {
+        "id": 23,
+        "name": "Belgien",
+        "geonames_url": "https://www.geonames.org/2802361/kingdom-of-belgium.html",
+        "hit_id": "hit_place__23",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q31",
+        "country": [],
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-22"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-22",
+    "view_label": "Brüssel",
+    "prev": {
+      "id": "hit_place__23",
+      "label": "Belgien"
     },
     "next": {
       "id": "hit_place__3",

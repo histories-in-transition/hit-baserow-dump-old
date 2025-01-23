@@ -499,5 +499,49 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2025-01-16"
+  },
+  "23": {
+    "id": 23,
+    "order": "21.00000000000000000000",
+    "name": "Belgien",
+    "geonames_url": "https://www.geonames.org/2802361/kingdom-of-belgium.html",
+    "hit_id": "hit_place__23",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q31",
+    "country": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-22",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-22"
+  },
+  "24": {
+    "id": 24,
+    "order": "22.00000000000000000000",
+    "name": "Brüssel",
+    "geonames_url": "https://www.geonames.org/2800866/brussels.html",
+    "hit_id": "hit_place__24",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q239",
+    "country": [
+      {
+        "id": 23,
+        "value": "Belgien",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-22",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-22"
   }
 }

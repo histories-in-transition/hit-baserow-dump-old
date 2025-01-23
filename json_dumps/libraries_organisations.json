@@ -295,5 +295,32 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2025-01-16"
+  },
+  "13": {
+    "id": 13,
+    "order": "12.00000000000000000000",
+    "label": "Bruxelles KBR",
+    "hit_id": "hit_org__13",
+    "gnd_url": "https://d-nb.info/gnd/1023393-3",
+    "library_full": "Bibliothèque royale de Belgique",
+    "library_website": "",
+    "settlement": [
+      {
+        "id": 24,
+        "value": "Brüssel",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/wiki/Q383931",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-22",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-22"
   }
 }

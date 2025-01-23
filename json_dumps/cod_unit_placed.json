@@ -39,7 +39,9 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "page": null
+    "page": null,
+    "certain_from": false,
+    "ceratin_till": false
   },
   "2": {
     "id": 2,
@@ -75,7 +77,9 @@
       }
     ],
     "authority": [],
-    "page": null
+    "page": null,
+    "certain_from": false,
+    "ceratin_till": false
   },
   "3": {
     "id": 3,
@@ -111,7 +115,9 @@
       }
     ],
     "authority": [],
-    "page": ""
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false
   },
   "4": {
     "id": 4,
@@ -165,7 +171,9 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "page": "58-62"
+    "page": "58-62",
+    "certain_from": false,
+    "ceratin_till": false
   },
   "5": {
     "id": 5,
@@ -207,7 +215,9 @@
       }
     ],
     "authority": [],
-    "page": ""
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false
   },
   "6": {
     "id": 6,
@@ -235,7 +245,13 @@
         "color": "deep-dark-orange"
       }
     ],
-    "till": [],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803",
+        "order": "62.00000000000000000000"
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -243,7 +259,9 @@
       }
     ],
     "authority": [],
-    "page": ""
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false
   },
   "7": {
     "id": 7,
@@ -271,7 +289,13 @@
         "color": "deep-dark-orange"
       }
     ],
-    "till": [],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803",
+        "order": "62.00000000000000000000"
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -279,7 +303,9 @@
       }
     ],
     "authority": [],
-    "page": ""
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false
   },
   "8": {
     "id": 8,
@@ -307,7 +333,13 @@
         "color": "deep-dark-orange"
       }
     ],
-    "till": [],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803",
+        "order": "62.00000000000000000000"
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -315,7 +347,9 @@
       }
     ],
     "authority": [],
-    "page": ""
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false
   },
   "9": {
     "id": 9,
@@ -351,7 +385,9 @@
       }
     ],
     "authority": [],
-    "page": ""
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false
   },
   "10": {
     "id": 10,
@@ -379,7 +415,13 @@
         "color": "deep-dark-orange"
       }
     ],
-    "till": [],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803",
+        "order": "62.00000000000000000000"
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -387,7 +429,9 @@
       }
     ],
     "authority": [],
-    "page": ""
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false
   },
   "11": {
     "id": 11,
@@ -415,7 +459,13 @@
         "color": "deep-dark-orange"
       }
     ],
-    "till": [],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803",
+        "order": "62.00000000000000000000"
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -423,7 +473,9 @@
       }
     ],
     "authority": [],
-    "page": ""
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false
   },
   "12": {
     "id": 12,
@@ -451,7 +503,13 @@
         "color": "deep-dark-orange"
       }
     ],
-    "till": [],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803",
+        "order": "62.00000000000000000000"
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -459,7 +517,9 @@
       }
     ],
     "authority": [],
-    "page": ""
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false
   },
   "13": {
     "id": 13,
@@ -495,7 +555,9 @@
       }
     ],
     "authority": [],
-    "page": ""
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false
   },
   "14": {
     "id": 14,
@@ -531,7 +593,9 @@
       }
     ],
     "authority": [],
-    "page": ""
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false
   },
   "15": {
     "id": 15,
@@ -559,7 +623,13 @@
         "color": "deep-dark-orange"
       }
     ],
-    "till": [],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803",
+        "order": "62.00000000000000000000"
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -567,7 +637,9 @@
       }
     ],
     "authority": [],
-    "page": ""
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false
   },
   "16": {
     "id": 16,
@@ -595,7 +667,13 @@
         "color": "deep-dark-orange"
       }
     ],
-    "till": [],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803",
+        "order": "62.00000000000000000000"
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -603,7 +681,9 @@
       }
     ],
     "authority": [],
-    "page": ""
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false
   },
   "17": {
     "id": 17,
@@ -623,7 +703,13 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "from": [],
+    "from": [
+      {
+        "id": 49,
+        "value": "um 9. Jh., drittes Drittel",
+        "order": "49.00000000000000000000"
+      }
+    ],
     "type": [
       {
         "id": 18150,
@@ -631,7 +717,13 @@
         "color": "deep-dark-orange"
       }
     ],
-    "till": [],
+    "till": [
+      {
+        "id": 13,
+        "value": "11 Jh.",
+        "order": "13.00000000000000000000"
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -639,7 +731,9 @@
       }
     ],
     "authority": [],
-    "page": ""
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false
   },
   "18": {
     "id": 18,
@@ -667,7 +761,13 @@
         "color": "deep-dark-orange"
       }
     ],
-    "till": [],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803",
+        "order": "62.00000000000000000000"
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -675,7 +775,9 @@
       }
     ],
     "authority": [],
-    "page": ""
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false
   },
   "19": {
     "id": 19,
@@ -703,7 +805,13 @@
         "color": "deep-dark-orange"
       }
     ],
-    "till": [],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803",
+        "order": "62.00000000000000000000"
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -711,7 +819,9 @@
       }
     ],
     "authority": [],
-    "page": ""
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false
   },
   "20": {
     "id": 20,
@@ -739,7 +849,13 @@
         "color": "deep-dark-orange"
       }
     ],
-    "till": [],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803",
+        "order": "62.00000000000000000000"
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -747,7 +863,9 @@
       }
     ],
     "authority": [],
-    "page": ""
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false
   },
   "21": {
     "id": 21,
@@ -775,7 +893,13 @@
         "color": "deep-dark-orange"
       }
     ],
-    "till": [],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803",
+        "order": "62.00000000000000000000"
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -783,7 +907,9 @@
       }
     ],
     "authority": [],
-    "page": ""
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false
   },
   "22": {
     "id": 22,
@@ -819,7 +945,9 @@
       }
     ],
     "authority": [],
-    "page": ""
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false
   },
   "23": {
     "id": 23,
@@ -855,7 +983,9 @@
       }
     ],
     "authority": [],
-    "page": ""
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false
   },
   "24": {
     "id": 24,
@@ -891,7 +1021,9 @@
       }
     ],
     "authority": [],
-    "page": ""
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false
   },
   "25": {
     "id": 25,
@@ -927,7 +1059,9 @@
       }
     ],
     "authority": [],
-    "page": ""
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false
   },
   "26": {
     "id": 26,
@@ -955,7 +1089,13 @@
         "color": "darker-blue"
       }
     ],
-    "till": [],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803",
+        "order": "62.00000000000000000000"
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -963,6 +1103,234 @@
       }
     ],
     "authority": [],
-    "page": ""
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "hit_id": "hit_codunit_place__28",
+    "cod_unit": [
+      {
+        "id": 18,
+        "value": "BSB, Clm. 6382, cod. unit 1",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "place": [
+      {
+        "id": 4,
+        "value": "Freising",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "from": [],
+    "type": [
+      {
+        "id": 18151,
+        "value": "prov",
+        "color": "darker-blue"
+      }
+    ],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803",
+        "order": "62.00000000000000000000"
+      }
+    ],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6382"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "hit_id": "hit_codunit_place__29",
+    "cod_unit": [
+      {
+        "id": 17,
+        "value": "BSB, Clm. 6381, cod. unit 1",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "place": [
+      {
+        "id": 4,
+        "value": "Freising",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "from": [],
+    "type": [
+      {
+        "id": 18151,
+        "value": "prov",
+        "color": "darker-blue"
+      }
+    ],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803",
+        "order": "62.00000000000000000000"
+      }
+    ],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6381"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "hit_id": "hit_codunit_place__30",
+    "cod_unit": [
+      {
+        "id": 27,
+        "value": "BSB, Clm. 6375, cod. unit 1",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "place": [
+      {
+        "id": 4,
+        "value": "Freising",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "from": [],
+    "type": [
+      {
+        "id": 18151,
+        "value": "prov",
+        "color": "darker-blue"
+      }
+    ],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803",
+        "order": "62.00000000000000000000"
+      }
+    ],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6375"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "hit_id": "hit_codunit_place__31",
+    "cod_unit": [
+      {
+        "id": 21,
+        "value": "BSB, Clm. 6341, cod. unit 1",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "place": [
+      {
+        "id": 4,
+        "value": "Freising",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "from": [
+      {
+        "id": 13,
+        "value": "11 Jh.",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "type": [
+      {
+        "id": 18151,
+        "value": "prov",
+        "color": "darker-blue"
+      }
+    ],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803",
+        "order": "62.00000000000000000000"
+      }
+    ],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6341"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "hit_id": "hit_codunit_place__32",
+    "cod_unit": [
+      {
+        "id": 26,
+        "value": "BSB, Clm. 1086, cod. unit 1",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "place": [
+      {
+        "id": 4,
+        "value": "Freising",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "from": [],
+    "type": [
+      {
+        "id": 18151,
+        "value": "prov",
+        "color": "darker-blue"
+      }
+    ],
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803",
+        "order": "62.00000000000000000000"
+      }
+    ],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 1086"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "certain_from": false,
+    "ceratin_till": false
   }
 }

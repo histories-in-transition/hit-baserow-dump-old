@@ -10788,7 +10788,7 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "Last modified": "2025-01-17",
+    "Last modified": "2025-01-24",
     "Created on": "2025-01-16",
     "Created by": {
       "id": 86,
@@ -10802,9 +10802,21 @@
     "hand": [],
     "decoration": [],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 17437,
+        "value": "Mehrspaltig",
+        "color": "darker-pink"
+      }
+    ],
     "form_note": "",
-    "column": []
+    "column": [
+      {
+        "id": 17458,
+        "value": "2",
+        "color": "dark-yellow"
+      }
+    ]
   },
   "196": {
     "id": 196,
@@ -11048,7 +11060,7 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "Last modified": "2025-01-17",
+    "Last modified": "2025-01-24",
     "Created on": "2025-01-17",
     "Created by": {
       "id": 86,
@@ -11062,9 +11074,21 @@
     "hand": [],
     "decoration": [],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 17437,
+        "value": "Mehrspaltig",
+        "color": "darker-pink"
+      }
+    ],
     "form_note": "",
-    "column": []
+    "column": [
+      {
+        "id": 17458,
+        "value": "2",
+        "color": "dark-yellow"
+      }
+    ]
   },
   "200": {
     "id": 200,

@@ -399,7 +399,7 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   }
                 ],
                 "cod_unit": [
@@ -593,7 +593,7 @@
             "locus_layout": [],
             "function": [],
             "bezug_msitem": [],
-            "role_to_bezug_msitem": []
+            "role_bezug": []
           }
         ],
         "role": [
@@ -1290,7 +1290,7 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   }
                 ],
                 "cod_unit": [
@@ -1473,7 +1473,7 @@
             "locus_layout": [],
             "function": [],
             "bezug_msitem": [],
-            "role_to_bezug_msitem": []
+            "role_bezug": []
           }
         ],
         "role": [
@@ -2015,7 +2015,7 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   }
                 ],
                 "cod_unit": [
@@ -2120,7 +2120,7 @@
             "locus_layout": [],
             "function": [],
             "bezug_msitem": [],
-            "role_to_bezug_msitem": []
+            "role_bezug": []
           }
         ],
         "role": [
@@ -2656,7 +2656,7 @@
                       }
                     ],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   },
                   {
                     "id": 81,
@@ -2710,7 +2710,7 @@
                       }
                     ],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   }
                 ],
                 "cod_unit": [
@@ -2834,7 +2834,7 @@
               }
             ],
             "bezug_msitem": [],
-            "role_to_bezug_msitem": []
+            "role_bezug": []
           }
         ],
         "role": [
@@ -3369,7 +3369,7 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   },
                   {
                     "id": 84,
@@ -3417,7 +3417,7 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   },
                   {
                     "id": 85,
@@ -3465,7 +3465,7 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   }
                 ],
                 "cod_unit": [
@@ -3590,7 +3590,7 @@
             "locus_layout": [],
             "function": [],
             "bezug_msitem": [],
-            "role_to_bezug_msitem": []
+            "role_bezug": []
           }
         ],
         "role": [
@@ -4166,7 +4166,7 @@
                         "value": "cod_2090__128"
                       }
                     ],
-                    "role_to_bezug_msitem": [
+                    "role_bezug": [
                       {
                         "id": 17452,
                         "value": "\"Erweiterer\"",
@@ -4292,7 +4292,7 @@
                 "value": "cod_2090__128"
               }
             ],
-            "role_to_bezug_msitem": [
+            "role_bezug": [
               {
                 "id": 17452,
                 "value": "\"Erweiterer\"",
@@ -4840,7 +4840,7 @@
                       }
                     ],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   },
                   {
                     "id": 114,
@@ -4900,7 +4900,7 @@
                       }
                     ],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   }
                 ],
                 "cod_unit": [
@@ -5024,7 +5024,7 @@
               }
             ],
             "bezug_msitem": [],
-            "role_to_bezug_msitem": []
+            "role_bezug": []
           }
         ],
         "role": [
@@ -5652,7 +5652,7 @@
                       }
                     ],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   }
                 ],
                 "cod_unit": [
@@ -6863,7 +6863,7 @@
               }
             ],
             "bezug_msitem": [],
-            "role_to_bezug_msitem": []
+            "role_bezug": []
           },
           {
             "id": 14,
@@ -7219,7 +7219,7 @@
                     ],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   }
                 ],
                 "cod_unit": [
@@ -8424,7 +8424,7 @@
             ],
             "function": [],
             "bezug_msitem": [],
-            "role_to_bezug_msitem": []
+            "role_bezug": []
           },
           {
             "id": 4,
@@ -8840,7 +8840,7 @@
                     ],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   }
                 ],
                 "cod_unit": [
@@ -10045,7 +10045,7 @@
             ],
             "function": [],
             "bezug_msitem": [],
-            "role_to_bezug_msitem": []
+            "role_bezug": []
           },
           {
             "id": 5,
@@ -10454,7 +10454,7 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   },
                   {
                     "id": 3,
@@ -10502,7 +10502,7 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   },
                   {
                     "id": 10,
@@ -10550,7 +10550,7 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   },
                   {
                     "id": 17,
@@ -10598,7 +10598,7 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   }
                 ],
                 "cod_unit": [
@@ -11824,7 +11824,7 @@
             "locus_layout": [],
             "function": [],
             "bezug_msitem": [],
-            "role_to_bezug_msitem": []
+            "role_bezug": []
           },
           {
             "id": 10,
@@ -12233,7 +12233,7 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   },
                   {
                     "id": 3,
@@ -12281,7 +12281,7 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   },
                   {
                     "id": 10,
@@ -12329,7 +12329,7 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   },
                   {
                     "id": 17,
@@ -12377,7 +12377,7 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   }
                 ],
                 "cod_unit": [
@@ -13603,7 +13603,7 @@
             "locus_layout": [],
             "function": [],
             "bezug_msitem": [],
-            "role_to_bezug_msitem": []
+            "role_bezug": []
           },
           {
             "id": 11,
@@ -13977,7 +13977,7 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   },
                   {
                     "id": 16,
@@ -14025,7 +14025,7 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   },
                   {
                     "id": 82,
@@ -14073,7 +14073,7 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   }
                 ],
                 "cod_unit": [
@@ -15286,7 +15286,7 @@
             "locus_layout": [],
             "function": [],
             "bezug_msitem": [],
-            "role_to_bezug_msitem": []
+            "role_bezug": []
           },
           {
             "id": 15,
@@ -15720,7 +15720,7 @@
                       }
                     ],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   },
                   {
                     "id": 15,
@@ -15768,7 +15768,7 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   },
                   {
                     "id": 22,
@@ -15816,7 +15816,7 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   }
                 ],
                 "cod_unit": [
@@ -16497,7 +16497,7 @@
             "locus_layout": [],
             "function": [],
             "bezug_msitem": [],
-            "role_to_bezug_msitem": []
+            "role_bezug": []
           },
           {
             "id": 35,
@@ -16870,7 +16870,7 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   }
                 ],
                 "cod_unit": [
@@ -17537,7 +17537,7 @@
             "locus_layout": [],
             "function": [],
             "bezug_msitem": [],
-            "role_to_bezug_msitem": []
+            "role_bezug": []
           },
           {
             "id": 102,
@@ -17966,7 +17966,7 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   }
                 ],
                 "cod_unit": [
@@ -18633,7 +18633,7 @@
             "locus_layout": [],
             "function": [],
             "bezug_msitem": [],
-            "role_to_bezug_msitem": []
+            "role_bezug": []
           }
         ],
         "role": [
@@ -19464,7 +19464,7 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   },
                   {
                     "id": 50,
@@ -19512,7 +19512,7 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   },
                   {
                     "id": 55,
@@ -19560,7 +19560,7 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_to_bezug_msitem": []
+                    "role_bezug": []
                   }
                 ],
                 "cod_unit": [
@@ -21024,7 +21024,7 @@
             "locus_layout": [],
             "function": [],
             "bezug_msitem": [],
-            "role_to_bezug_msitem": []
+            "role_bezug": []
           }
         ],
         "role": [

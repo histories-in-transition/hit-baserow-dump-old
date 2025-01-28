@@ -399,7 +399,8 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   }
                 ],
                 "cod_unit": [
@@ -593,7 +594,8 @@
             "locus_layout": [],
             "function": [],
             "bezug_msitem": [],
-            "role_bezug": []
+            "role_bezug": [],
+            "bezug_text": []
           }
         ],
         "role": [
@@ -1290,7 +1292,8 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   }
                 ],
                 "cod_unit": [
@@ -1473,7 +1476,8 @@
             "locus_layout": [],
             "function": [],
             "bezug_msitem": [],
-            "role_bezug": []
+            "role_bezug": [],
+            "bezug_text": []
           }
         ],
         "role": [
@@ -2015,7 +2019,8 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   }
                 ],
                 "cod_unit": [
@@ -2120,7 +2125,8 @@
             "locus_layout": [],
             "function": [],
             "bezug_msitem": [],
-            "role_bezug": []
+            "role_bezug": [],
+            "bezug_text": []
           }
         ],
         "role": [
@@ -2656,7 +2662,8 @@
                       }
                     ],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   },
                   {
                     "id": 81,
@@ -2710,7 +2717,8 @@
                       }
                     ],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   }
                 ],
                 "cod_unit": [
@@ -2834,7 +2842,8 @@
               }
             ],
             "bezug_msitem": [],
-            "role_bezug": []
+            "role_bezug": [],
+            "bezug_text": []
           }
         ],
         "role": [
@@ -3369,7 +3378,8 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   },
                   {
                     "id": 84,
@@ -3417,7 +3427,8 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   },
                   {
                     "id": 85,
@@ -3465,7 +3476,8 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   }
                 ],
                 "cod_unit": [
@@ -3590,7 +3602,8 @@
             "locus_layout": [],
             "function": [],
             "bezug_msitem": [],
-            "role_bezug": []
+            "role_bezug": [],
+            "bezug_text": []
           }
         ],
         "role": [
@@ -4172,6 +4185,22 @@
                         "value": "\"Erweiterer\"",
                         "color": "darker-cyan"
                       }
+                    ],
+                    "bezug_text": [
+                      {
+                        "ids": {
+                          "database_table_3489": 107,
+                          "database_table_3491": 127
+                        },
+                        "value": "Nomina pontificum Romanae sedis"
+                      },
+                      {
+                        "ids": {
+                          "database_table_3489": 108,
+                          "database_table_3491": 128
+                        },
+                        "value": "Nomina pontificum Iuvavensis sedis et abbatum"
+                      }
                     ]
                   }
                 ],
@@ -4297,6 +4326,22 @@
                 "id": 17452,
                 "value": "\"Erweiterer\"",
                 "color": "darker-cyan"
+              }
+            ],
+            "bezug_text": [
+              {
+                "ids": {
+                  "database_table_3489": 107,
+                  "database_table_3491": 127
+                },
+                "value": "Nomina pontificum Romanae sedis"
+              },
+              {
+                "ids": {
+                  "database_table_3489": 108,
+                  "database_table_3491": 128
+                },
+                "value": "Nomina pontificum Iuvavensis sedis et abbatum"
               }
             ]
           }
@@ -4840,7 +4885,8 @@
                       }
                     ],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   },
                   {
                     "id": 114,
@@ -4900,7 +4946,8 @@
                       }
                     ],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   }
                 ],
                 "cod_unit": [
@@ -5024,7 +5071,8 @@
               }
             ],
             "bezug_msitem": [],
-            "role_bezug": []
+            "role_bezug": [],
+            "bezug_text": []
           }
         ],
         "role": [
@@ -5652,7 +5700,8 @@
                       }
                     ],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   }
                 ],
                 "cod_unit": [
@@ -6863,7 +6912,8 @@
               }
             ],
             "bezug_msitem": [],
-            "role_bezug": []
+            "role_bezug": [],
+            "bezug_text": []
           },
           {
             "id": 14,
@@ -7219,7 +7269,8 @@
                     ],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   }
                 ],
                 "cod_unit": [
@@ -8424,7 +8475,8 @@
             ],
             "function": [],
             "bezug_msitem": [],
-            "role_bezug": []
+            "role_bezug": [],
+            "bezug_text": []
           },
           {
             "id": 4,
@@ -8840,7 +8892,8 @@
                     ],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   }
                 ],
                 "cod_unit": [
@@ -10045,7 +10098,8 @@
             ],
             "function": [],
             "bezug_msitem": [],
-            "role_bezug": []
+            "role_bezug": [],
+            "bezug_text": []
           },
           {
             "id": 5,
@@ -10454,7 +10508,8 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   },
                   {
                     "id": 3,
@@ -10502,7 +10557,8 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   },
                   {
                     "id": 10,
@@ -10550,7 +10606,8 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   },
                   {
                     "id": 17,
@@ -10598,7 +10655,8 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   }
                 ],
                 "cod_unit": [
@@ -11824,7 +11882,8 @@
             "locus_layout": [],
             "function": [],
             "bezug_msitem": [],
-            "role_bezug": []
+            "role_bezug": [],
+            "bezug_text": []
           },
           {
             "id": 10,
@@ -12233,7 +12292,8 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   },
                   {
                     "id": 3,
@@ -12281,7 +12341,8 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   },
                   {
                     "id": 10,
@@ -12329,7 +12390,8 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   },
                   {
                     "id": 17,
@@ -12377,7 +12439,8 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   }
                 ],
                 "cod_unit": [
@@ -13603,7 +13666,8 @@
             "locus_layout": [],
             "function": [],
             "bezug_msitem": [],
-            "role_bezug": []
+            "role_bezug": [],
+            "bezug_text": []
           },
           {
             "id": 11,
@@ -13977,7 +14041,8 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   },
                   {
                     "id": 16,
@@ -14025,7 +14090,8 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   },
                   {
                     "id": 82,
@@ -14073,7 +14139,8 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   }
                 ],
                 "cod_unit": [
@@ -15286,7 +15353,8 @@
             "locus_layout": [],
             "function": [],
             "bezug_msitem": [],
-            "role_bezug": []
+            "role_bezug": [],
+            "bezug_text": []
           },
           {
             "id": 15,
@@ -15720,7 +15788,8 @@
                       }
                     ],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   },
                   {
                     "id": 15,
@@ -15768,7 +15837,8 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   },
                   {
                     "id": 22,
@@ -15816,7 +15886,8 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   }
                 ],
                 "cod_unit": [
@@ -16497,7 +16568,8 @@
             "locus_layout": [],
             "function": [],
             "bezug_msitem": [],
-            "role_bezug": []
+            "role_bezug": [],
+            "bezug_text": []
           },
           {
             "id": 35,
@@ -16870,7 +16942,8 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   }
                 ],
                 "cod_unit": [
@@ -17537,7 +17610,8 @@
             "locus_layout": [],
             "function": [],
             "bezug_msitem": [],
-            "role_bezug": []
+            "role_bezug": [],
+            "bezug_text": []
           },
           {
             "id": 102,
@@ -17966,7 +18040,8 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   }
                 ],
                 "cod_unit": [
@@ -18633,7 +18708,8 @@
             "locus_layout": [],
             "function": [],
             "bezug_msitem": [],
-            "role_bezug": []
+            "role_bezug": [],
+            "bezug_text": []
           }
         ],
         "role": [
@@ -19464,7 +19540,8 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   },
                   {
                     "id": 50,
@@ -19512,7 +19589,8 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   },
                   {
                     "id": 55,
@@ -19560,7 +19638,8 @@
                     "locus_layout": [],
                     "function": [],
                     "bezug_msitem": [],
-                    "role_bezug": []
+                    "role_bezug": [],
+                    "bezug_text": []
                   }
                 ],
                 "cod_unit": [
@@ -21024,7 +21103,8 @@
             "locus_layout": [],
             "function": [],
             "bezug_msitem": [],
-            "role_bezug": []
+            "role_bezug": [],
+            "bezug_text": []
           }
         ],
         "role": [

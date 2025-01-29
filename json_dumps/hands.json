@@ -8986,7 +8986,7 @@
         "value": "ÖNB, Cod. 2090_H. 41"
       }
     ],
-    "description": "Fertigt um ??? die Darstellung eines Königs an.",
+    "description": "Fertigt die figürliche Darstellung eines Königs neben einer inhaltlich interessanten Textstelle über die verba turpia et lividia ac sęcularia an.",
     "hit_id": "hit_hands__121",
     "similar_hands": [],
     "nr_daniel": "",
@@ -9008,7 +9008,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-12-14",
+    "Last modified": "2025-01-28",
     "hands_role": [
       {
         "id": 157,
@@ -9263,6 +9263,75 @@
     "hands_role": [],
     "role": [],
     "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": false
+  },
+  "127": {
+    "id": 127,
+    "order": "119.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 42"
+      }
+    ],
+    "description": "Fertigt die figürliche Darstellung eines Königs neben einer inhaltlich interessanten Textstelle über die verba turpia et lividia ac sęcularia an.",
+    "hit_id": "hit_hands__127",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
+      }
+    ],
+    "number": "42",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-28",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-28",
+    "hands_role": [
+      {
+        "id": 158,
+        "value": "hit_hands_role__158",
+        "order": "144.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 158,
+        "value": [
+          {
+            "id": 15379,
+            "value": "Illustrator",
+            "color": "darker-orange"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 120,
+          "database_table_3491": 148
+        },
+        "value": "Institutiones Aquisgranenses"
+      }
+    ],
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],

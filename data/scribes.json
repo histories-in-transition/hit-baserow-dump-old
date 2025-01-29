@@ -2652,13 +2652,19 @@
                       "id": 86,
                       "name": "Leon Pürstinger"
                     },
-                    "Last modified": "2024-12-14",
-                    "locus_layout": [],
+                    "Last modified": "2025-01-28",
+                    "locus_layout": [
+                      {
+                        "id": 18158,
+                        "value": "Schriftraum (mehrspaltig, graphisch divers))",
+                        "color": "darker-green"
+                      }
+                    ],
                     "function": [
                       {
-                        "id": 15836,
-                        "value": "inhaltsbezogen",
-                        "color": "darker-orange"
+                        "id": 18156,
+                        "value": "inhaltlich",
+                        "color": "darker-blue"
                       }
                     ],
                     "bezug_msitem": [],
@@ -2707,13 +2713,19 @@
                       "id": 86,
                       "name": "Leon Pürstinger"
                     },
-                    "Last modified": "2024-12-14",
-                    "locus_layout": [],
+                    "Last modified": "2025-01-28",
+                    "locus_layout": [
+                      {
+                        "id": 18158,
+                        "value": "Schriftraum (mehrspaltig, graphisch divers))",
+                        "color": "darker-green"
+                      }
+                    ],
                     "function": [
                       {
-                        "id": 15836,
-                        "value": "inhaltsbezogen",
-                        "color": "darker-orange"
+                        "id": 18156,
+                        "value": "inhaltlich",
+                        "color": "darker-blue"
                       }
                     ],
                     "bezug_msitem": [],
@@ -2832,13 +2844,19 @@
               "id": 86,
               "name": "Leon Pürstinger"
             },
-            "Last modified": "2024-12-14",
-            "locus_layout": [],
+            "Last modified": "2025-01-28",
+            "locus_layout": [
+              {
+                "id": 18158,
+                "value": "Schriftraum (mehrspaltig, graphisch divers))",
+                "color": "darker-green"
+              }
+            ],
             "function": [
               {
-                "id": 15836,
-                "value": "inhaltsbezogen",
-                "color": "darker-orange"
+                "id": 18156,
+                "value": "inhaltlich",
+                "color": "darker-blue"
               }
             ],
             "bezug_msitem": [],
@@ -4160,13 +4178,19 @@
                       "id": 86,
                       "name": "Leon Pürstinger"
                     },
-                    "Last modified": "2024-12-14",
-                    "locus_layout": [],
+                    "Last modified": "2025-01-28",
+                    "locus_layout": [
+                      {
+                        "id": 18158,
+                        "value": "Schriftraum (mehrspaltig, graphisch divers))",
+                        "color": "darker-green"
+                      }
+                    ],
                     "function": [
                       {
-                        "id": 15836,
-                        "value": "inhaltsbezogen",
-                        "color": "darker-orange"
+                        "id": 18155,
+                        "value": "konzeptbezogen",
+                        "color": "darker-brown"
                       }
                     ],
                     "bezug_msitem": [
@@ -4302,13 +4326,19 @@
               "id": 86,
               "name": "Leon Pürstinger"
             },
-            "Last modified": "2024-12-14",
-            "locus_layout": [],
+            "Last modified": "2025-01-28",
+            "locus_layout": [
+              {
+                "id": 18158,
+                "value": "Schriftraum (mehrspaltig, graphisch divers))",
+                "color": "darker-green"
+              }
+            ],
             "function": [
               {
-                "id": 15836,
-                "value": "inhaltsbezogen",
-                "color": "darker-orange"
+                "id": 18155,
+                "value": "konzeptbezogen",
+                "color": "darker-brown"
               }
             ],
             "bezug_msitem": [
@@ -4873,8 +4903,8 @@
                     "locus_layout": [
                       {
                         "id": 15841,
-                        "value": "Schriftraum/Haupttext",
-                        "color": "dark-green"
+                        "value": "Schriftraum (einspaltig/ausfüllend))",
+                        "color": "green"
                       }
                     ],
                     "function": [
@@ -4934,8 +4964,8 @@
                     "locus_layout": [
                       {
                         "id": 15841,
-                        "value": "Schriftraum/Haupttext",
-                        "color": "dark-green"
+                        "value": "Schriftraum (einspaltig/ausfüllend))",
+                        "color": "green"
                       }
                     ],
                     "function": [
@@ -5059,8 +5089,8 @@
             "locus_layout": [
               {
                 "id": 15841,
-                "value": "Schriftraum/Haupttext",
-                "color": "dark-green"
+                "value": "Schriftraum (einspaltig/ausfüllend))",
+                "color": "green"
               }
             ],
             "function": [
@@ -8886,8 +8916,8 @@
                     "locus_layout": [
                       {
                         "id": 15841,
-                        "value": "Schriftraum/Haupttext",
-                        "color": "dark-green"
+                        "value": "Schriftraum (einspaltig/ausfüllend))",
+                        "color": "green"
                       }
                     ],
                     "function": [],
@@ -10092,8 +10122,8 @@
             "locus_layout": [
               {
                 "id": 15841,
-                "value": "Schriftraum/Haupttext",
-                "color": "dark-green"
+                "value": "Schriftraum (einspaltig/ausfüllend))",
+                "color": "green"
               }
             ],
             "function": [],
@@ -15779,7 +15809,7 @@
                       {
                         "id": 15098,
                         "value": "grammatikalisch",
-                        "color": "green"
+                        "color": "red"
                       },
                       {
                         "id": 15838,

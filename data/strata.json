@@ -1516,7 +1516,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -3046,7 +3049,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -4528,7 +4534,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -6010,7 +6019,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -7492,7 +7504,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -8836,7 +8851,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -10271,7 +10289,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -11586,7 +11607,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -12955,7 +12979,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -14394,7 +14421,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -15827,7 +15857,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -16835,7 +16868,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -17211,7 +17247,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -17548,7 +17587,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -18899,7 +18941,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -19688,7 +19733,10 @@
             "facs_url": "http://vb.uni-wuerzburg.de/ub/books/mpthf46/folio-std/DE-20__M_p_th_f_46__0195__0098r.jpg",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -21009,7 +21057,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -22409,7 +22460,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -22570,7 +22624,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -24492,7 +24549,10 @@
                 "value": "1",
                 "color": "light-red"
               }
-            ]
+            ],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           },
           {
             "id": 19,
@@ -26229,7 +26289,10 @@
                 "value": "1",
                 "color": "light-red"
               }
-            ]
+            ],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           },
           {
             "id": 20,
@@ -27966,7 +28029,10 @@
                 "value": "1",
                 "color": "light-red"
               }
-            ]
+            ],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           },
           {
             "id": 21,
@@ -29845,7 +29911,10 @@
                 "value": "1",
                 "color": "light-red"
               }
-            ]
+            ],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           },
           {
             "id": 22,
@@ -31626,7 +31695,10 @@
                 "value": "1",
                 "color": "light-red"
               }
-            ]
+            ],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           },
           {
             "id": 23,
@@ -33363,7 +33435,10 @@
                 "value": "1",
                 "color": "light-red"
               }
-            ]
+            ],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           },
           {
             "id": 79,
@@ -35144,7 +35219,10 @@
                 "value": "1",
                 "color": "light-red"
               }
-            ]
+            ],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           },
           {
             "id": 24,
@@ -36869,7 +36947,10 @@
                 "value": "1",
                 "color": "light-red"
               }
-            ]
+            ],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           },
           {
             "id": 25,
@@ -38551,7 +38632,10 @@
                 "value": "1",
                 "color": "light-red"
               }
-            ]
+            ],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -40650,7 +40734,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -42666,7 +42753,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -43313,7 +43403,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -43892,7 +43985,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -44465,7 +44561,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -45038,7 +45137,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -46640,7 +46742,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -48230,7 +48335,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -49783,7 +49891,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -50069,7 +50180,10 @@
               }
             ],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -50364,7 +50478,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -50877,7 +50994,10 @@
               }
             ],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -51238,7 +51358,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -51477,7 +51600,10 @@
               }
             ],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -51716,7 +51842,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -52014,7 +52143,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -52325,10 +52457,10 @@
                 "prov_place": []
               }
             ],
-            "Last modified": "2024-07-31",
+            "Last modified": "2025-01-30",
             "Last modified by": {
-              "id": 86,
-              "name": "Leon Pürstinger"
+              "id": 36,
+              "name": "Ivana Dobcheva"
             },
             "note": "",
             "hand": [
@@ -52344,7 +52476,29 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": {
+              "id": 18159,
+              "value": "Erweiterung",
+              "color": "pink"
+            },
+            "role_msitem": [
+              {
+                "id": 123,
+                "value": "cod_2090__123"
+              },
+              {
+                "id": 125,
+                "value": "cod_2090__125"
+              }
+            ],
+            "function_role": [
+              {
+                "id": 18162,
+                "value": "konzeptbezogen",
+                "color": "dark-brown"
+              }
+            ]
           }
         ],
         "role": [
@@ -52624,10 +52778,10 @@
                 "prov_place": []
               }
             ],
-            "Last modified": "2024-08-02",
+            "Last modified": "2025-01-30",
             "Last modified by": {
-              "id": 86,
-              "name": "Leon Pürstinger"
+              "id": 36,
+              "name": "Ivana Dobcheva"
             },
             "note": "",
             "hand": [
@@ -52643,7 +52797,29 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": {
+              "id": 18159,
+              "value": "Erweiterung",
+              "color": "pink"
+            },
+            "role_msitem": [
+              {
+                "id": 127,
+                "value": "cod_2090__127"
+              },
+              {
+                "id": 128,
+                "value": "cod_2090__128"
+              }
+            ],
+            "function_role": [
+              {
+                "id": 18162,
+                "value": "konzeptbezogen",
+                "color": "dark-brown"
+              }
+            ]
           }
         ],
         "role": [
@@ -54695,7 +54871,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -56639,7 +56818,10 @@
                 "value": "1",
                 "color": "light-red"
               }
-            ]
+            ],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           },
           {
             "id": 21,
@@ -58518,7 +58700,10 @@
                 "value": "1",
                 "color": "light-red"
               }
-            ]
+            ],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -59033,7 +59218,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           },
           {
             "id": 27,
@@ -59428,7 +59616,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           },
           {
             "id": 28,
@@ -59935,7 +60126,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           },
           {
             "id": 29,
@@ -60330,7 +60524,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -60963,7 +61160,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [
@@ -61358,7 +61558,10 @@
             "facs_url": "",
             "form": [],
             "form_note": null,
-            "column": []
+            "column": [],
+            "role": null,
+            "role_msitem": [],
+            "function_role": []
           }
         ],
         "role": [

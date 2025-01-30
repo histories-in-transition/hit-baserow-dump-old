@@ -560,7 +560,10 @@
                 "facs_url": "",
                 "form": [],
                 "form_note": null,
-                "column": []
+                "column": [],
+                "role": null,
+                "role_msitem": [],
+                "function_role": []
               }
             ],
             "role": [
@@ -1442,7 +1445,10 @@
                 "facs_url": "",
                 "form": [],
                 "form_note": null,
-                "column": []
+                "column": [],
+                "role": null,
+                "role_msitem": [],
+                "function_role": []
               }
             ],
             "role": [
@@ -2091,7 +2097,10 @@
                 "facs_url": "",
                 "form": [],
                 "form_note": null,
-                "column": []
+                "column": [],
+                "role": null,
+                "role_msitem": [],
+                "function_role": []
               }
             ],
             "role": [
@@ -2814,7 +2823,10 @@
                   }
                 ],
                 "form_note": null,
-                "column": []
+                "column": [],
+                "role": null,
+                "role_msitem": [],
+                "function_role": []
               }
             ],
             "role": [
@@ -3586,7 +3598,10 @@
                 "facs_url": "",
                 "form": [],
                 "form_note": null,
-                "column": []
+                "column": [],
+                "role": null,
+                "role_msitem": [],
+                "function_role": []
               }
             ],
             "role": [
@@ -4277,10 +4292,10 @@
                     "prov_place": []
                   }
                 ],
-                "Last modified": "2024-08-02",
+                "Last modified": "2025-01-30",
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
                 "note": "",
                 "hand": [
@@ -4296,7 +4311,29 @@
                 "facs_url": "",
                 "form": [],
                 "form_note": null,
-                "column": []
+                "column": [],
+                "role": {
+                  "id": 18159,
+                  "value": "Erweiterung",
+                  "color": "pink"
+                },
+                "role_msitem": [
+                  {
+                    "id": 127,
+                    "value": "cod_2090__127"
+                  },
+                  {
+                    "id": 128,
+                    "value": "cod_2090__128"
+                  }
+                ],
+                "function_role": [
+                  {
+                    "id": 18162,
+                    "value": "konzeptbezogen",
+                    "color": "dark-brown"
+                  }
+                ]
               }
             ],
             "role": [
@@ -5055,7 +5092,10 @@
                 "facs_url": "",
                 "form": [],
                 "form_note": null,
-                "column": []
+                "column": [],
+                "role": null,
+                "role_msitem": [],
+                "function_role": []
               }
             ],
             "role": [
@@ -6896,7 +6936,10 @@
                 "facs_url": "",
                 "form": [],
                 "form_note": null,
-                "column": []
+                "column": [],
+                "role": null,
+                "role_msitem": [],
+                "function_role": []
               }
             ],
             "role": [
@@ -8465,7 +8508,10 @@
                 "facs_url": "",
                 "form": [],
                 "form_note": null,
-                "column": []
+                "column": [],
+                "role": null,
+                "role_msitem": [],
+                "function_role": []
               }
             ],
             "role": [
@@ -10088,7 +10134,10 @@
                 "facs_url": "",
                 "form": [],
                 "form_note": null,
-                "column": []
+                "column": [],
+                "role": null,
+                "role_msitem": [],
+                "function_role": []
               }
             ],
             "role": [
@@ -11878,7 +11927,10 @@
                 "facs_url": "",
                 "form": [],
                 "form_note": null,
-                "column": []
+                "column": [],
+                "role": null,
+                "role_msitem": [],
+                "function_role": []
               }
             ],
             "role": [
@@ -13662,7 +13714,10 @@
                 "facs_url": "",
                 "form": [],
                 "form_note": null,
-                "column": []
+                "column": [],
+                "role": null,
+                "role_msitem": [],
+                "function_role": []
               }
             ],
             "role": [
@@ -15349,7 +15404,10 @@
                 "facs_url": "",
                 "form": [],
                 "form_note": null,
-                "column": []
+                "column": [],
+                "role": null,
+                "role_msitem": [],
+                "function_role": []
               }
             ],
             "role": [
@@ -16564,7 +16622,10 @@
                 "facs_url": "",
                 "form": [],
                 "form_note": null,
-                "column": []
+                "column": [],
+                "role": null,
+                "role_msitem": [],
+                "function_role": []
               }
             ],
             "role": [
@@ -17606,7 +17667,10 @@
                 "facs_url": "",
                 "form": [],
                 "form_note": null,
-                "column": []
+                "column": [],
+                "role": null,
+                "role_msitem": [],
+                "function_role": []
               }
             ],
             "role": [
@@ -18704,7 +18768,10 @@
                 "facs_url": "",
                 "form": [],
                 "form_note": null,
-                "column": []
+                "column": [],
+                "role": null,
+                "role_msitem": [],
+                "function_role": []
               }
             ],
             "role": [
@@ -21099,7 +21166,10 @@
                 "facs_url": "",
                 "form": [],
                 "form_note": null,
-                "column": []
+                "column": [],
+                "role": null,
+                "role_msitem": [],
+                "function_role": []
               }
             ],
             "role": [

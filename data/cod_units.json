@@ -1486,9 +1486,7 @@
             "Last modified": "2024-07-01",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -2666,7 +2664,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_m_p_th_f_46__6",
         "prev": {
@@ -3021,9 +3019,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -4190,7 +4186,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_m_p_th_f_46__68",
         "prev": {
@@ -4630,9 +4626,7 @@
                 "color": "darker-orange"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -5799,7 +5793,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_m_p_th_f_46__10",
         "prev": {
@@ -6207,9 +6201,7 @@
             "Last modified": "2024-11-19",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 3,
@@ -6256,9 +6248,7 @@
             "Last modified": "2024-07-01",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 10,
@@ -6305,9 +6295,7 @@
             "Last modified": "2024-10-09",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 17,
@@ -6354,9 +6342,7 @@
             "Last modified": "2024-10-09",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -7550,7 +7536,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_m_p_th_f_46__5",
         "prev": {
@@ -7923,9 +7909,7 @@
             "Last modified": "2024-12-13",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 16,
@@ -7945,7 +7929,7 @@
             "role": [
               {
                 "id": 14763,
-                "value": "annotator",
+                "value": "Annotation",
                 "color": "cyan"
               }
             ],
@@ -7972,9 +7956,7 @@
             "Last modified": "2024-07-11",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 82,
@@ -7994,7 +7976,7 @@
             "role": [
               {
                 "id": 14763,
-                "value": "annotator",
+                "value": "Annotation",
                 "color": "cyan"
               }
             ],
@@ -8021,9 +8003,7 @@
             "Last modified": "2024-08-05",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -9204,7 +9184,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_m_p_th_f_46__12",
         "prev": {
@@ -9600,9 +9580,7 @@
             "Last modified": "2024-07-11",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -10769,7 +10747,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_m_p_th_f_46__7",
         "prev": {
@@ -11184,9 +11162,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -12353,7 +12329,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_m_p_th_f_46__13",
         "prev": {
@@ -12769,9 +12745,7 @@
             "Last modified": "2024-07-11",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 19,
@@ -12818,9 +12792,7 @@
             "Last modified": "2024-07-11",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 20,
@@ -12867,9 +12839,7 @@
             "Last modified": "2024-07-11",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -14056,7 +14026,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_m_p_th_f_46__8",
         "prev": {
@@ -14417,9 +14387,7 @@
                 "color": "dark-purple"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -15586,7 +15554,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_m_p_th_f_46__81",
         "prev": {
@@ -15947,9 +15915,7 @@
                 "color": "dark-purple"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -17116,7 +17082,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_m_p_th_f_46__82",
         "prev": {
@@ -17514,9 +17480,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -18683,7 +18647,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_m_p_th_f_46__85",
         "prev": {
@@ -19736,9 +19700,7 @@
                 "color": "darker-red"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 15,
@@ -19785,9 +19747,7 @@
             "Last modified": "2024-10-09",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 22,
@@ -19834,9 +19794,7 @@
             "Last modified": "2024-07-11",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -20485,7 +20443,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_m_p_th_f_46__11",
         "prev": {
@@ -20885,9 +20843,9 @@
             ],
             "role": [
               {
-                "id": 14763,
-                "value": "annotator",
-                "color": "cyan"
+                "id": 14758,
+                "value": "Schreiber",
+                "color": "darker-red"
               }
             ],
             "locus": "",
@@ -20907,15 +20865,25 @@
               }
             ],
             "Last modified by": {
-              "id": 86,
-              "name": "Leon Pürstinger"
+              "id": 36,
+              "name": "Ivana Dobcheva"
             },
-            "Last modified": "2024-08-26",
+            "Last modified": "2025-01-30",
             "locus_layout": [],
-            "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "function": [
+              {
+                "id": 15836,
+                "value": "inhaltsbezogen",
+                "color": "darker-orange"
+              }
+            ],
+            "role_to_ms": [
+              {
+                "id": 18165,
+                "value": "Erweiterung",
+                "color": "darker-blue"
+              }
+            ]
           }
         ],
         "cod_unit": [
@@ -21529,7 +21497,7 @@
             ]
           }
         ],
-        "Last modified": "2024-09-06",
+        "Last modified": "2025-01-30",
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -21549,9 +21517,24 @@
         "form": [],
         "form_note": null,
         "column": [],
-        "role": null,
-        "role_msitem": [],
-        "function_role": [],
+        "role": {
+          "id": 18160,
+          "value": "Kommentar",
+          "color": "light-orange"
+        },
+        "commented_msitem": [
+          {
+            "id": 5,
+            "value": "cod_m_p_th_f_46__5"
+          }
+        ],
+        "function_role": [
+          {
+            "id": 18161,
+            "value": "inhaltsbezogen",
+            "color": "dark-red"
+          }
+        ],
         "view_label": "cod_m_p_th_f_46__69",
         "prev": {
           "id": "hit_ms_items__68",
@@ -21911,9 +21894,7 @@
                 "color": "dark-purple"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -22548,7 +22529,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_m_p_th_f_46__83",
         "prev": {
@@ -22920,9 +22901,7 @@
             "Last modified": "2024-10-09",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -23557,7 +23536,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_m_p_th_f_46__84",
         "prev": {
@@ -24090,9 +24069,7 @@
             "Last modified": "2024-07-11",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -24260,7 +24237,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_m_p_th_f_46__75",
         "prev": {
@@ -24648,9 +24625,7 @@
             "Last modified": "2024-07-11",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -24818,7 +24793,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_m_p_th_f_46__77",
         "prev": {
@@ -25382,10 +25357,10 @@
               }
             ],
             "Last modified by": {
-              "id": 86,
-              "name": "Leon Pürstinger"
+              "id": 36,
+              "name": "Ivana Dobcheva"
             },
-            "Last modified": "2024-10-10",
+            "Last modified": "2025-01-30",
             "locus_layout": [
               {
                 "id": 15841,
@@ -25394,9 +25369,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 41,
@@ -25437,15 +25410,13 @@
               }
             ],
             "Last modified by": {
-              "id": 86,
-              "name": "Leon Pürstinger"
+              "id": 36,
+              "name": "Ivana Dobcheva"
             },
-            "Last modified": "2024-07-16",
+            "Last modified": "2025-01-30",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 42,
@@ -25486,15 +25457,13 @@
               }
             ],
             "Last modified by": {
-              "id": 86,
-              "name": "Leon Pürstinger"
+              "id": 36,
+              "name": "Ivana Dobcheva"
             },
-            "Last modified": "2024-07-16",
+            "Last modified": "2025-01-30",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 43,
@@ -25535,15 +25504,13 @@
               }
             ],
             "Last modified by": {
-              "id": 86,
-              "name": "Leon Pürstinger"
+              "id": 36,
+              "name": "Ivana Dobcheva"
             },
-            "Last modified": "2024-07-16",
+            "Last modified": "2025-01-30",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -25778,7 +25745,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_366__80",
         "prev": {
@@ -26147,9 +26114,7 @@
             "Last modified": "2025-01-01",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -26217,7 +26182,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_366__86",
         "prev": {
@@ -28222,9 +28187,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 38,
@@ -28244,7 +28207,7 @@
             "role": [
               {
                 "id": 14763,
-                "value": "annotator",
+                "value": "Annotation",
                 "color": "cyan"
               },
               {
@@ -28303,9 +28266,7 @@
                 "color": "dark-cyan"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 142,
@@ -28330,7 +28291,7 @@
               },
               {
                 "id": 14763,
-                "value": "annotator",
+                "value": "Annotation",
                 "color": "cyan"
               }
             ],
@@ -28379,9 +28340,7 @@
                 "color": "red"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -29996,7 +29955,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6308__17",
         "prev": {
@@ -30527,9 +30486,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -30858,7 +30815,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6388__48",
         "prev": {
@@ -31454,9 +31411,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -31785,7 +31740,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6388__48",
         "prev": {
@@ -32334,7 +32289,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6388__49",
         "prev": {
@@ -32940,7 +32895,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6388__50",
         "prev": {
@@ -33373,7 +33328,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6388__51",
         "prev": {
@@ -35368,9 +35323,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 153,
@@ -35454,9 +35407,7 @@
                 "color": "darker-orange"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -36922,7 +36873,7 @@
           }
         ],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6326__18",
         "prev": {
@@ -37479,9 +37430,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -38940,7 +38889,7 @@
           }
         ],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6326__19",
         "prev": {
@@ -39497,9 +39446,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -40958,7 +40905,7 @@
           }
         ],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6326__20",
         "prev": {
@@ -41564,9 +41511,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 153,
@@ -41650,9 +41595,7 @@
                 "color": "darker-orange"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -43118,7 +43061,7 @@
           }
         ],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6326__21",
         "prev": {
@@ -43719,9 +43662,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -45180,7 +45121,7 @@
           }
         ],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6326__22",
         "prev": {
@@ -45737,9 +45678,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -47198,7 +47137,7 @@
           }
         ],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6326__23",
         "prev": {
@@ -47799,9 +47738,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -49260,7 +49197,7 @@
           }
         ],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6326__79",
         "prev": {
@@ -49805,9 +49742,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -51266,7 +51201,7 @@
           }
         ],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6326__24",
         "prev": {
@@ -51768,9 +51703,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -53229,7 +53162,7 @@
           }
         ],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6326__25",
         "prev": {
@@ -54972,7 +54905,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6326__76",
         "prev": {
@@ -56858,9 +56791,7 @@
             "Last modified": "2024-07-25",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 57,
@@ -56907,9 +56838,7 @@
             "Last modified": "2024-07-25",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -58334,7 +58263,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_387__114",
         "prev": {
@@ -58800,9 +58729,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -60220,7 +60147,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_387__90",
         "prev": {
@@ -60685,9 +60612,7 @@
             "Last modified": "2024-10-09",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -62105,7 +62030,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_387__100",
         "prev": {
@@ -62565,9 +62490,7 @@
             "Last modified": "2024-10-09",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -63985,7 +63908,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_387__93",
         "prev": {
@@ -64450,9 +64373,7 @@
             "Last modified": "2024-10-09",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -65870,7 +65791,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_387__92",
         "prev": {
@@ -66347,9 +66268,7 @@
             "Last modified": "2024-10-09",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -67767,7 +67686,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_387__102",
         "prev": {
@@ -68239,9 +68158,7 @@
             "Last modified": "2024-07-25",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 66,
@@ -68288,9 +68205,7 @@
             "Last modified": "2024-07-29",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -69715,7 +69630,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_387__121",
         "prev": {
@@ -70187,9 +70102,7 @@
             "Last modified": "2024-07-20",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -71607,7 +71520,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_387__103",
         "prev": {
@@ -72090,9 +72003,7 @@
             "Last modified": "2024-10-09",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 50,
@@ -72139,9 +72050,7 @@
             "Last modified": "2024-10-09",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 55,
@@ -72188,9 +72097,7 @@
             "Last modified": "2024-10-09",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -73622,7 +73529,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_387__104",
         "prev": {
@@ -74082,9 +73989,7 @@
             "Last modified": "2024-07-23",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -75502,7 +75407,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_387__110",
         "prev": {
@@ -75962,9 +75867,7 @@
             "Last modified": "2024-07-23",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -77382,7 +77285,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_387__112",
         "prev": {
@@ -77854,9 +77757,7 @@
             "Last modified": "2024-10-09",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 58,
@@ -77903,9 +77804,7 @@
             "Last modified": "2024-10-09",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 59,
@@ -77952,9 +77851,7 @@
             "Last modified": "2024-10-09",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 61,
@@ -78007,9 +77904,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -79448,7 +79343,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_387__113",
         "prev": {
@@ -79908,9 +79803,7 @@
             "Last modified": "2024-07-25",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -81328,7 +81221,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_387__116",
         "prev": {
@@ -81843,9 +81736,7 @@
             "Last modified": "2024-07-25",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -83263,7 +83154,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_387__117",
         "prev": {
@@ -83723,9 +83614,7 @@
             "Last modified": "2024-07-25",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -85143,7 +85032,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_387__120",
         "prev": {
@@ -85583,9 +85472,7 @@
                 "color": "darker-brown"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 71,
@@ -85649,9 +85536,7 @@
                 "color": "darker-brown"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 75,
@@ -85715,9 +85600,7 @@
                 "color": "darker-brown"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -85804,7 +85687,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_2090__119",
         "prev": {
@@ -86186,9 +86069,7 @@
                 "color": "darker-brown"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -86261,7 +86142,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_2090__139",
         "prev": {
@@ -86631,9 +86512,7 @@
             "Last modified": "2024-10-03",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -86706,7 +86585,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_2090__179",
         "prev": {
@@ -87093,7 +86972,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_2090__122",
         "prev": {
@@ -87487,9 +87366,7 @@
                 "color": "darker-blue"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -87574,7 +87451,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_2090__123",
         "prev": {
@@ -87999,39 +87876,7 @@
                 "color": "darker-brown"
               }
             ],
-            "bezug_msitem": [
-              {
-                "id": 123,
-                "value": "cod_2090__123"
-              },
-              {
-                "id": 125,
-                "value": "cod_2090__125"
-              }
-            ],
-            "role_bezug": [
-              {
-                "id": 17452,
-                "value": "\"Erweiterer\"",
-                "color": "darker-cyan"
-              }
-            ],
-            "bezug_text": [
-              {
-                "ids": {
-                  "database_table_3489": 102,
-                  "database_table_3491": 123
-                },
-                "value": "Nomina regum Francorum"
-              },
-              {
-                "ids": {
-                  "database_table_3489": 105,
-                  "database_table_3491": 125
-                },
-                "value": "De ecclesiasticis officiis"
-              }
-            ]
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -88108,7 +87953,7 @@
           "value": "Erweiterung",
           "color": "pink"
         },
-        "role_msitem": [
+        "commented_msitem": [
           {
             "id": 123,
             "value": "cod_2090__123"
@@ -88568,28 +88413,7 @@
                 "color": "darker-orange"
               }
             ],
-            "bezug_msitem": [
-              {
-                "id": 123,
-                "value": "cod_2090__123"
-              }
-            ],
-            "role_bezug": [
-              {
-                "id": 17452,
-                "value": "\"Erweiterer\"",
-                "color": "darker-cyan"
-              }
-            ],
-            "bezug_text": [
-              {
-                "ids": {
-                  "database_table_3489": 102,
-                  "database_table_3491": 123
-                },
-                "value": "Nomina regum Francorum"
-              }
-            ]
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -88666,7 +88490,7 @@
           "value": "Erweiterung",
           "color": "pink"
         },
-        "role_msitem": [
+        "commented_msitem": [
           {
             "id": 123,
             "value": "cod_2090__123"
@@ -89046,7 +88870,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_2090__126",
         "prev": {
@@ -89433,7 +89257,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_2090__140",
         "prev": {
@@ -89815,9 +89639,7 @@
                 "color": "darker-blue"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -89902,7 +89724,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_2090__127",
         "prev": {
@@ -90284,9 +90106,7 @@
                 "color": "darker-blue"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 81,
@@ -90345,9 +90165,7 @@
                 "color": "darker-blue"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -90433,7 +90251,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_2090__128",
         "prev": {
@@ -90827,9 +90645,7 @@
                 "color": "darker-blue"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -90902,7 +90718,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_2090__141",
         "prev": {
@@ -91296,39 +91112,7 @@
                 "color": "darker-brown"
               }
             ],
-            "bezug_msitem": [
-              {
-                "id": 127,
-                "value": "cod_2090__127"
-              },
-              {
-                "id": 128,
-                "value": "cod_2090__128"
-              }
-            ],
-            "role_bezug": [
-              {
-                "id": 17452,
-                "value": "\"Erweiterer\"",
-                "color": "darker-cyan"
-              }
-            ],
-            "bezug_text": [
-              {
-                "ids": {
-                  "database_table_3489": 107,
-                  "database_table_3491": 127
-                },
-                "value": "Nomina pontificum Romanae sedis"
-              },
-              {
-                "ids": {
-                  "database_table_3489": 108,
-                  "database_table_3491": 128
-                },
-                "value": "Nomina pontificum Iuvavensis sedis et abbatum"
-              }
-            ]
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -91405,7 +91189,7 @@
           "value": "Erweiterung",
           "color": "pink"
         },
-        "role_msitem": [
+        "commented_msitem": [
           {
             "id": 127,
             "value": "cod_2090__127"
@@ -91795,9 +91579,7 @@
             "Last modified": "2024-09-25",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 84,
@@ -91844,9 +91626,7 @@
             "Last modified": "2024-08-01",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 85,
@@ -91893,9 +91673,7 @@
             "Last modified": "2024-09-25",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -91988,7 +91766,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_2090__130",
         "prev": {
@@ -92382,9 +92160,7 @@
             "Last modified": "2024-08-06",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 91,
@@ -92431,9 +92207,7 @@
             "Last modified": "2024-08-06",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 95,
@@ -92480,9 +92254,7 @@
             "Last modified": "2024-08-26",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 96,
@@ -92529,9 +92301,7 @@
             "Last modified": "2024-08-26",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 101,
@@ -92578,9 +92348,7 @@
             "Last modified": "2024-08-26",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 103,
@@ -92627,9 +92395,7 @@
             "Last modified": "2024-08-26",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 104,
@@ -92676,9 +92442,7 @@
             "Last modified": "2024-08-26",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 105,
@@ -92725,9 +92489,7 @@
             "Last modified": "2024-08-26",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 106,
@@ -92774,9 +92536,7 @@
             "Last modified": "2024-09-25",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 107,
@@ -92823,9 +92583,7 @@
             "Last modified": "2024-09-25",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 108,
@@ -92872,9 +92630,7 @@
             "Last modified": "2024-09-25",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 109,
@@ -92921,9 +92677,7 @@
             "Last modified": "2024-09-25",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 110,
@@ -92970,9 +92724,7 @@
             "Last modified": "2024-09-25",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 111,
@@ -93019,9 +92771,7 @@
             "Last modified": "2024-09-25",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 112,
@@ -93068,9 +92818,7 @@
             "Last modified": "2024-09-25",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 113,
@@ -93117,9 +92865,7 @@
             "Last modified": "2024-09-25",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -93303,7 +93049,7 @@
         "form_note": "Die Spaltenanzahl der dreiseitigen Annalen nimmt kontinuierlich ab. Die erste Seite der Annalen enthählt drei rot gerahmte Spalten. Die zweite Seite weist zwei Spalten auf und die letzte nur mehr eine.",
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_2090__131",
         "prev": {
@@ -93690,7 +93436,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_2090__133",
         "prev": {
@@ -94077,7 +93823,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_2090__134",
         "prev": {
@@ -94477,9 +94223,7 @@
                 "color": "darker-orange"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -94552,7 +94296,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_2090__132",
         "prev": {
@@ -94922,9 +94666,7 @@
             "Last modified": "2024-12-14",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -94997,7 +94739,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_2090__135",
         "prev": {
@@ -95379,9 +95121,7 @@
                 "color": "darker-orange"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 114,
@@ -95440,9 +95180,7 @@
                 "color": "darker-orange"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -95522,7 +95260,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_2090__137",
         "prev": {
@@ -95909,7 +95647,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_2090__144",
         "prev": {
@@ -96279,9 +96017,7 @@
             "Last modified": "2024-07-28",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 86,
@@ -96328,9 +96064,7 @@
             "Last modified": "2024-10-03",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 87,
@@ -96377,9 +96111,7 @@
             "Last modified": "2024-10-03",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 93,
@@ -96426,9 +96158,7 @@
             "Last modified": "2024-10-03",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 94,
@@ -96475,9 +96205,7 @@
             "Last modified": "2024-10-03",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 156,
@@ -96536,9 +96264,7 @@
                 "color": "darker-orange"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -96652,7 +96378,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "cod_2090__138",
         "prev": {
@@ -97153,9 +96879,7 @@
             "Last modified": "2025-01-17",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -97317,7 +97041,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6380__31",
         "prev": {
@@ -97745,7 +97469,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6380__32",
         "prev": {
@@ -98457,9 +98181,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 122,
@@ -98512,9 +98234,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 123,
@@ -98567,9 +98287,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -98799,7 +98517,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6381__33",
         "prev": {
@@ -99509,9 +99227,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 150,
@@ -99572,7 +99288,7 @@
               },
               {
                 "id": 14763,
-                "value": "annotator",
+                "value": "Annotation",
                 "color": "cyan"
               }
             ],
@@ -99715,9 +99431,7 @@
                 "color": "darker-orange"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -99940,7 +99654,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6382__34",
         "prev": {
@@ -100512,9 +100226,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 150,
@@ -100575,7 +100287,7 @@
               },
               {
                 "id": 14763,
-                "value": "annotator",
+                "value": "Annotation",
                 "color": "cyan"
               }
             ],
@@ -100718,9 +100430,7 @@
                 "color": "darker-orange"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -100943,7 +100653,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6382__35",
         "prev": {
@@ -101483,9 +101193,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 150,
@@ -101546,7 +101254,7 @@
               },
               {
                 "id": 14763,
-                "value": "annotator",
+                "value": "Annotation",
                 "color": "cyan"
               }
             ],
@@ -101689,9 +101397,7 @@
                 "color": "darker-orange"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -101914,7 +101620,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6382__36",
         "prev": {
@@ -102462,9 +102168,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 150,
@@ -102525,7 +102229,7 @@
               },
               {
                 "id": 14763,
-                "value": "annotator",
+                "value": "Annotation",
                 "color": "cyan"
               }
             ],
@@ -102668,9 +102372,7 @@
                 "color": "darker-orange"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -102893,7 +102595,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6382__37",
         "prev": {
@@ -103465,9 +103167,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 150,
@@ -103528,7 +103228,7 @@
               },
               {
                 "id": 14763,
-                "value": "annotator",
+                "value": "Annotation",
                 "color": "cyan"
               }
             ],
@@ -103671,9 +103371,7 @@
                 "color": "darker-orange"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -103896,7 +103594,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6382__38",
         "prev": {
@@ -104405,9 +104103,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 150,
@@ -104468,7 +104164,7 @@
               },
               {
                 "id": 14763,
-                "value": "annotator",
+                "value": "Annotation",
                 "color": "cyan"
               }
             ],
@@ -104611,9 +104307,7 @@
                 "color": "darker-orange"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -104836,7 +104530,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6382__39",
         "prev": {
@@ -105376,9 +105070,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 150,
@@ -105439,7 +105131,7 @@
               },
               {
                 "id": 14763,
-                "value": "annotator",
+                "value": "Annotation",
                 "color": "cyan"
               }
             ],
@@ -105582,9 +105274,7 @@
                 "color": "darker-orange"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -105807,7 +105497,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6382__40",
         "prev": {
@@ -106379,9 +106069,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 150,
@@ -106442,7 +106130,7 @@
               },
               {
                 "id": 14763,
-                "value": "annotator",
+                "value": "Annotation",
                 "color": "cyan"
               }
             ],
@@ -106585,9 +106273,7 @@
                 "color": "darker-orange"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -106810,7 +106496,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6382__41",
         "prev": {
@@ -107319,9 +107005,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 150,
@@ -107382,7 +107066,7 @@
               },
               {
                 "id": 14763,
-                "value": "annotator",
+                "value": "Annotation",
                 "color": "cyan"
               }
             ],
@@ -107525,9 +107209,7 @@
                 "color": "darker-orange"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -107750,7 +107432,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6382__42",
         "prev": {
@@ -108247,9 +107929,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 150,
@@ -108310,7 +107990,7 @@
               },
               {
                 "id": 14763,
-                "value": "annotator",
+                "value": "Annotation",
                 "color": "cyan"
               }
             ],
@@ -108453,9 +108133,7 @@
                 "color": "darker-orange"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -108678,7 +108356,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6382__43",
         "prev": {
@@ -109213,9 +108891,7 @@
             "Last modified": "2024-12-04",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -109366,7 +109042,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6382__44",
         "prev": {
@@ -109872,7 +109548,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6382__45",
         "prev": {
@@ -110283,9 +109959,7 @@
             "Last modified": "2024-12-05",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -110436,7 +110110,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6382__46",
         "prev": {
@@ -110996,9 +110670,7 @@
             "Last modified": "2024-11-13",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -111149,7 +110821,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6383__47",
         "prev": {
@@ -111454,9 +111126,7 @@
             "Last modified": "2024-11-13",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -111607,7 +111277,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6383__67",
         "prev": {
@@ -112392,7 +112062,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6341__63",
         "prev": {
@@ -112953,7 +112623,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6341__64",
         "prev": {
@@ -113514,7 +113184,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6341__65",
         "prev": {
@@ -114139,7 +113809,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6341__66",
         "prev": {
@@ -114743,7 +114413,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6393__55",
         "prev": {
@@ -115215,7 +114885,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6393__56",
         "prev": {
@@ -115687,7 +115357,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6393__57",
         "prev": {
@@ -116159,7 +115829,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6393__58",
         "prev": {
@@ -116607,7 +116277,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6393__59",
         "prev": {
@@ -117102,9 +116772,7 @@
             "Last modified": "2025-01-17",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 143,
@@ -117151,9 +116819,7 @@
             "Last modified": "2024-09-19",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 144,
@@ -117200,9 +116866,7 @@
             "Last modified": "2024-09-19",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 145,
@@ -117256,9 +116920,7 @@
                 "color": "darker-orange"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -117423,7 +117085,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6391__52",
         "prev": {
@@ -118014,7 +117676,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6392__53",
         "prev": {
@@ -118468,7 +118130,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6392__54",
         "prev": {
@@ -119230,7 +118892,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_1086__60",
         "prev": {
@@ -119799,7 +119461,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_1086__61",
         "prev": {
@@ -120368,7 +120030,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_1086__62",
         "prev": {
@@ -121021,9 +120683,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -121239,7 +120899,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6375__26",
         "prev": {
@@ -121691,9 +121351,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -121909,7 +121567,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6375__27",
         "prev": {
@@ -122366,9 +122024,7 @@
                 "color": "red"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 139,
@@ -122466,9 +122122,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -122691,7 +122345,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6375__28",
         "prev": {
@@ -123143,9 +122797,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "cod_unit": [
@@ -123361,7 +123013,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6375__29",
         "prev": {
@@ -123995,7 +123647,7 @@
         "form_note": null,
         "column": [],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "clm_6376__30",
         "prev": {
@@ -124926,7 +124578,7 @@
           }
         ],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "ms_706__191",
         "prev": {
@@ -125453,7 +125105,7 @@
           }
         ],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "ms_706__194",
         "prev": {
@@ -125980,7 +125632,7 @@
           }
         ],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "ms_706__196",
         "prev": {
@@ -126501,7 +126153,7 @@
           }
         ],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "ms_706__192",
         "prev": {
@@ -127091,7 +126743,7 @@
           }
         ],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "ms_706__193",
         "prev": {
@@ -127618,7 +127270,7 @@
           }
         ],
         "role": null,
-        "role_msitem": [],
+        "commented_msitem": [],
         "function_role": [],
         "view_label": "ms_706__198",
         "prev": {

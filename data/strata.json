@@ -175,9 +175,7 @@
                 "Last modified": "2024-11-19",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 3,
@@ -224,9 +222,7 @@
                 "Last modified": "2024-07-01",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 10,
@@ -273,9 +269,7 @@
                 "Last modified": "2024-10-09",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 17,
@@ -322,9 +316,7 @@
                 "Last modified": "2024-10-09",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -1518,7 +1510,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -1552,9 +1544,7 @@
         "Last modified": "2024-07-01",
         "locus_layout": [],
         "function": [],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       },
       {
         "id": 17,
@@ -1708,9 +1698,7 @@
                 "Last modified": "2024-11-19",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 3,
@@ -1757,9 +1745,7 @@
                 "Last modified": "2024-07-01",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 10,
@@ -1806,9 +1792,7 @@
                 "Last modified": "2024-10-09",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 17,
@@ -1855,9 +1839,7 @@
                 "Last modified": "2024-10-09",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -3051,7 +3033,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -3085,9 +3067,7 @@
         "Last modified": "2024-10-09",
         "locus_layout": [],
         "function": [],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       },
       {
         "id": 18,
@@ -3249,9 +3229,7 @@
                 "Last modified": "2024-07-11",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 19,
@@ -3298,9 +3276,7 @@
                 "Last modified": "2024-07-11",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 20,
@@ -3347,9 +3323,7 @@
                 "Last modified": "2024-07-11",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -4536,7 +4510,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -4570,9 +4544,7 @@
         "Last modified": "2024-07-11",
         "locus_layout": [],
         "function": [],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       },
       {
         "id": 19,
@@ -4734,9 +4706,7 @@
                 "Last modified": "2024-07-11",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 19,
@@ -4783,9 +4753,7 @@
                 "Last modified": "2024-07-11",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 20,
@@ -4832,9 +4800,7 @@
                 "Last modified": "2024-07-11",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -6021,7 +5987,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -6055,9 +6021,7 @@
         "Last modified": "2024-07-11",
         "locus_layout": [],
         "function": [],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       },
       {
         "id": 20,
@@ -6219,9 +6183,7 @@
                 "Last modified": "2024-07-11",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 19,
@@ -6268,9 +6230,7 @@
                 "Last modified": "2024-07-11",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 20,
@@ -6317,9 +6277,7 @@
                 "Last modified": "2024-07-11",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -7506,7 +7464,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -7540,9 +7498,7 @@
         "Last modified": "2024-07-11",
         "locus_layout": [],
         "function": [],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       },
       {
         "id": 24,
@@ -7684,9 +7640,7 @@
                 "Last modified": "2024-07-11",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -8853,7 +8807,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -8887,9 +8841,7 @@
         "Last modified": "2024-07-11",
         "locus_layout": [],
         "function": [],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       }
     ],
     "note": "Dieses Stratum beschreibt die Anlage der Handschrift und besteht aus der Ostertafel samt den annalistischen Einträgen, den Mondtabellen und Bedas De temporum ratione ohne den Chronik-Abschnitt.",
@@ -9122,9 +9074,7 @@
                     "color": "darker-orange"
                   }
                 ],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -10291,7 +10241,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -10337,9 +10287,7 @@
             "color": "darker-orange"
           }
         ],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       },
       {
         "id": 14,
@@ -10440,9 +10388,7 @@
                   }
                 ],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -11609,7 +11555,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -11649,9 +11595,7 @@
           }
         ],
         "function": [],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       },
       {
         "id": 4,
@@ -11812,9 +11756,7 @@
                   }
                 ],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -12981,7 +12923,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -13021,9 +12963,7 @@
           }
         ],
         "function": [],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       },
       {
         "id": 11,
@@ -13142,9 +13082,7 @@
                 "Last modified": "2024-12-13",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 16,
@@ -13164,7 +13102,7 @@
                 "role": [
                   {
                     "id": 14763,
-                    "value": "annotator",
+                    "value": "Annotation",
                     "color": "cyan"
                   }
                 ],
@@ -13191,9 +13129,7 @@
                 "Last modified": "2024-07-11",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 82,
@@ -13213,7 +13149,7 @@
                 "role": [
                   {
                     "id": 14763,
-                    "value": "annotator",
+                    "value": "Annotation",
                     "color": "cyan"
                   }
                 ],
@@ -13240,9 +13176,7 @@
                 "Last modified": "2024-08-05",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -14423,7 +14357,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -14457,9 +14391,7 @@
         "Last modified": "2024-12-13",
         "locus_layout": [],
         "function": [],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       },
       {
         "id": 16,
@@ -14578,9 +14510,7 @@
                 "Last modified": "2024-12-13",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 16,
@@ -14600,7 +14530,7 @@
                 "role": [
                   {
                     "id": 14763,
-                    "value": "annotator",
+                    "value": "Annotation",
                     "color": "cyan"
                   }
                 ],
@@ -14627,9 +14557,7 @@
                 "Last modified": "2024-07-11",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 82,
@@ -14649,7 +14577,7 @@
                 "role": [
                   {
                     "id": 14763,
-                    "value": "annotator",
+                    "value": "Annotation",
                     "color": "cyan"
                   }
                 ],
@@ -14676,9 +14604,7 @@
                 "Last modified": "2024-08-05",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -15859,14 +15785,14 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
         "role": [
           {
             "id": 14763,
-            "value": "annotator",
+            "value": "Annotation",
             "color": "cyan"
           }
         ],
@@ -15893,9 +15819,7 @@
         "Last modified": "2024-07-11",
         "locus_layout": [],
         "function": [],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       }
     ],
     "note": "Diverse Schreiber haben in Salzburg Annotationen, Korrekturen und Marginaltexte eingefügt. Das Gros dieser Bearbeitungen wurde durch den magister Baldo vorgenommen.",
@@ -16121,9 +16045,7 @@
                     "color": "darker-red"
                   }
                 ],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 15,
@@ -16170,9 +16092,7 @@
                 "Last modified": "2024-10-09",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 22,
@@ -16219,9 +16139,7 @@
                 "Last modified": "2024-07-11",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -16870,7 +16788,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -16904,9 +16822,7 @@
         "Last modified": "2024-07-11",
         "locus_layout": [],
         "function": [],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       }
     ],
     "note": "Dieses Stratum umfasst die Arbeit eines einziges Schreibers, der den Chronik-Abschnitt von Bedas De temporum ratione anfertigt.",
@@ -17079,9 +16995,7 @@
                 "Last modified": "2024-07-11",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -17249,7 +17163,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -17283,9 +17197,7 @@
         "Last modified": "2024-07-11",
         "locus_layout": [],
         "function": [],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       },
       {
         "id": 23,
@@ -17419,9 +17331,7 @@
                 "Last modified": "2024-07-11",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -17589,7 +17499,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -17623,9 +17533,7 @@
         "Last modified": "2024-07-11",
         "locus_layout": [],
         "function": [],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       }
     ],
     "note": "Ein einzelnes, in Saint-Amand beschriebenes Blatt wurde der Handschrift nach Fertigstellung des primären Textbestandes entweder noch in Saint-Amand oder bereits in Salzburg hinzugefügt.",
@@ -17774,9 +17682,7 @@
                     "color": "dark-purple"
                   }
                 ],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -18943,7 +18849,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -18989,9 +18895,7 @@
             "color": "dark-purple"
           }
         ],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       },
       {
         "id": 33,
@@ -19098,9 +19002,7 @@
                     "color": "dark-purple"
                   }
                 ],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -19735,7 +19637,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -19781,9 +19683,7 @@
             "color": "dark-purple"
           }
         ],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       },
       {
         "id": 34,
@@ -19890,9 +19790,7 @@
                     "color": "dark-purple"
                   }
                 ],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -21059,7 +20957,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -21105,9 +21003,7 @@
             "color": "dark-purple"
           }
         ],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       }
     ],
     "note": "Diese Stratum markiert die Zusätze eines einzelnen Schreibers aus dem 10. Jahrhundert, der am unteren Rand der großen Ostertafel und Bedas De tempore ratione diverse Rezepte und abergläubische Segen einfügt.",
@@ -21293,9 +21189,7 @@
                   }
                 ],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -22462,7 +22356,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -22502,9 +22396,7 @@
           }
         ],
         "function": [],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       },
       {
         "id": 31,
@@ -22572,7 +22464,7 @@
                 "role": [
                   {
                     "id": 14763,
-                    "value": "annotator",
+                    "value": "Annotation",
                     "color": "cyan"
                   }
                 ],
@@ -22599,9 +22491,7 @@
                 "Last modified": "2024-07-15",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [],
@@ -22626,14 +22516,14 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
         "role": [
           {
             "id": 14763,
-            "value": "annotator",
+            "value": "Annotation",
             "color": "cyan"
           }
         ],
@@ -22660,9 +22550,7 @@
         "Last modified": "2024-07-15",
         "locus_layout": [],
         "function": [],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       }
     ],
     "note": "Stratum umfasst liturgische und teils neumierte Zusätze aus dem 11. Jahrhundert.",
@@ -22997,9 +22885,7 @@
                   }
                 ],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 153,
@@ -23083,9 +22969,7 @@
                     "color": "darker-orange"
                   }
                 ],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -24551,7 +24435,7 @@
               }
             ],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           },
           {
@@ -24830,9 +24714,7 @@
                   }
                 ],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -26291,7 +26173,7 @@
               }
             ],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           },
           {
@@ -26570,9 +26452,7 @@
                   }
                 ],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -28031,7 +27911,7 @@
               }
             ],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           },
           {
@@ -28359,9 +28239,7 @@
                   }
                 ],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 153,
@@ -28445,9 +28323,7 @@
                     "color": "darker-orange"
                   }
                 ],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -29913,7 +29789,7 @@
               }
             ],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           },
           {
@@ -30236,9 +30112,7 @@
                   }
                 ],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -31697,7 +31571,7 @@
               }
             ],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           },
           {
@@ -31976,9 +31850,7 @@
                   }
                 ],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -33437,7 +33309,7 @@
               }
             ],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           },
           {
@@ -33760,9 +33632,7 @@
                   }
                 ],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -35221,7 +35091,7 @@
               }
             ],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           },
           {
@@ -35488,9 +35358,7 @@
                   }
                 ],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -36949,7 +36817,7 @@
               }
             ],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           },
           {
@@ -37173,9 +37041,7 @@
                   }
                 ],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -38634,7 +38500,7 @@
               }
             ],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -38762,9 +38628,7 @@
           }
         ],
         "function": [],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       }
     ],
     "note": "Hauptstratum, umfasst das ganze Codex, außer Korrekturen. Entweder ein oder zwei Hauptschreiber, die zusammen arbeiten.",
@@ -38962,9 +38826,7 @@
                   }
                 ],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 38,
@@ -38984,7 +38846,7 @@
                 "role": [
                   {
                     "id": 14763,
-                    "value": "annotator",
+                    "value": "Annotation",
                     "color": "cyan"
                   },
                   {
@@ -39043,9 +38905,7 @@
                     "color": "dark-cyan"
                   }
                 ],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 142,
@@ -39070,7 +38930,7 @@
                   },
                   {
                     "id": 14763,
-                    "value": "annotator",
+                    "value": "Annotation",
                     "color": "cyan"
                   }
                 ],
@@ -39119,9 +38979,7 @@
                     "color": "red"
                   }
                 ],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -40736,7 +40594,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -40776,9 +40634,7 @@
           }
         ],
         "function": [],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       }
     ],
     "note": "Hauptstratum",
@@ -40981,9 +40837,7 @@
                   }
                 ],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 38,
@@ -41003,7 +40857,7 @@
                 "role": [
                   {
                     "id": 14763,
-                    "value": "annotator",
+                    "value": "Annotation",
                     "color": "cyan"
                   },
                   {
@@ -41062,9 +40916,7 @@
                     "color": "dark-cyan"
                   }
                 ],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 142,
@@ -41089,7 +40941,7 @@
                   },
                   {
                     "id": 14763,
-                    "value": "annotator",
+                    "value": "Annotation",
                     "color": "cyan"
                   }
                 ],
@@ -41138,9 +40990,7 @@
                     "color": "red"
                   }
                 ],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -42755,14 +42605,14 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
         "role": [
           {
             "id": 14763,
-            "value": "annotator",
+            "value": "Annotation",
             "color": "cyan"
           },
           {
@@ -42821,9 +42671,7 @@
             "color": "dark-cyan"
           }
         ],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       }
     ],
     "note": "Textkorrekturen am Rand, mind. 30-40 Jahre später.",
@@ -43009,10 +42857,10 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-10-10",
+                "Last modified": "2025-01-30",
                 "locus_layout": [
                   {
                     "id": 15841,
@@ -43021,9 +42869,7 @@
                   }
                 ],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 41,
@@ -43064,15 +42910,13 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-16",
+                "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 42,
@@ -43113,15 +42957,13 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-16",
+                "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 43,
@@ -43162,15 +43004,13 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-16",
+                "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -43405,7 +43245,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -43433,10 +43273,10 @@
           }
         ],
         "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2024-10-10",
+        "Last modified": "2025-01-30",
         "locus_layout": [
           {
             "id": 15841,
@@ -43445,9 +43285,7 @@
           }
         ],
         "function": [],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       },
       {
         "id": 41,
@@ -43591,10 +43429,10 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-10-10",
+                "Last modified": "2025-01-30",
                 "locus_layout": [
                   {
                     "id": 15841,
@@ -43603,9 +43441,7 @@
                   }
                 ],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 41,
@@ -43646,15 +43482,13 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-16",
+                "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 42,
@@ -43695,15 +43529,13 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-16",
+                "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 43,
@@ -43744,15 +43576,13 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-16",
+                "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -43987,7 +43817,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -44015,15 +43845,13 @@
           }
         ],
         "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2024-07-16",
+        "Last modified": "2025-01-30",
         "locus_layout": [],
         "function": [],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       },
       {
         "id": 42,
@@ -44167,10 +43995,10 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-10-10",
+                "Last modified": "2025-01-30",
                 "locus_layout": [
                   {
                     "id": 15841,
@@ -44179,9 +44007,7 @@
                   }
                 ],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 41,
@@ -44222,15 +44048,13 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-16",
+                "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 42,
@@ -44271,15 +44095,13 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-16",
+                "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 43,
@@ -44320,15 +44142,13 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-16",
+                "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -44563,7 +44383,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -44591,15 +44411,13 @@
           }
         ],
         "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2024-07-16",
+        "Last modified": "2025-01-30",
         "locus_layout": [],
         "function": [],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       },
       {
         "id": 43,
@@ -44743,10 +44561,10 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-10-10",
+                "Last modified": "2025-01-30",
                 "locus_layout": [
                   {
                     "id": 15841,
@@ -44755,9 +44573,7 @@
                   }
                 ],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 41,
@@ -44798,15 +44614,13 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-16",
+                "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 42,
@@ -44847,15 +44661,13 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-16",
+                "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 43,
@@ -44896,15 +44708,13 @@
                   }
                 ],
                 "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
                 },
-                "Last modified": "2024-07-16",
+                "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -45139,7 +44949,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -45167,15 +44977,13 @@
           }
         ],
         "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
+          "id": 36,
+          "name": "Ivana Dobcheva"
         },
-        "Last modified": "2024-07-16",
+        "Last modified": "2025-01-30",
         "locus_layout": [],
         "function": [],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       }
     ],
     "note": "Hauptstratum",
@@ -45324,9 +45132,7 @@
                 "Last modified": "2024-07-20",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -46744,7 +46550,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -46778,9 +46584,7 @@
         "Last modified": "2024-07-20",
         "locus_layout": [],
         "function": [],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       }
     ],
     "note": "",
@@ -46917,9 +46721,7 @@
                 "Last modified": "2024-10-09",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -48337,7 +48139,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -48371,9 +48173,7 @@
         "Last modified": "2024-10-09",
         "locus_layout": [],
         "function": [],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       },
       {
         "id": 68,
@@ -48473,9 +48273,7 @@
                 "Last modified": "2024-10-09",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -49893,7 +49691,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -49932,9 +49730,7 @@
         "Last modified": "2024-10-09",
         "locus_layout": [],
         "function": [],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       }
     ],
     "note": "Bienensegen TBD",
@@ -50095,9 +49891,7 @@
                     "color": "darker-blue"
                   }
                 ],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -50182,7 +49976,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -50228,9 +50022,7 @@
             "color": "darker-blue"
           }
         ],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       },
       {
         "id": 63,
@@ -50337,9 +50129,7 @@
                     "color": "darker-orange"
                   }
                 ],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 114,
@@ -50398,9 +50188,7 @@
                     "color": "darker-orange"
                   }
                 ],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -50480,7 +50268,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -50526,9 +50314,7 @@
             "color": "darker-orange"
           }
         ],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       },
       {
         "id": 64,
@@ -50623,9 +50409,7 @@
                 "Last modified": "2024-07-28",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 86,
@@ -50672,9 +50456,7 @@
                 "Last modified": "2024-10-03",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 87,
@@ -50721,9 +50503,7 @@
                 "Last modified": "2024-10-03",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 93,
@@ -50770,9 +50550,7 @@
                 "Last modified": "2024-10-03",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 94,
@@ -50819,9 +50597,7 @@
                 "Last modified": "2024-10-03",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 156,
@@ -50880,9 +50656,7 @@
                     "color": "darker-orange"
                   }
                 ],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -50996,7 +50770,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -51030,9 +50804,7 @@
         "Last modified": "2024-07-28",
         "locus_layout": [],
         "function": [],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       },
       {
         "id": 70,
@@ -51139,9 +50911,7 @@
                     "color": "darker-brown"
                   }
                 ],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 71,
@@ -51205,9 +50975,7 @@
                     "color": "darker-brown"
                   }
                 ],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 75,
@@ -51271,9 +51039,7 @@
                     "color": "darker-brown"
                   }
                 ],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -51360,7 +51126,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -51406,9 +51172,7 @@
             "color": "darker-brown"
           }
         ],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       },
       {
         "id": 78,
@@ -51515,9 +51279,7 @@
                     "color": "darker-blue"
                   }
                 ],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -51602,7 +51364,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -51648,9 +51410,7 @@
             "color": "darker-blue"
           }
         ],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       },
       {
         "id": 79,
@@ -51769,9 +51529,7 @@
                     "color": "darker-blue"
                   }
                 ],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -51844,7 +51602,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -51890,9 +51648,7 @@
             "color": "darker-blue"
           }
         ],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       }
     ],
     "note": "Dieses Stratum beschreibt die Anlage der Handschrift und besteht u.a. aus den Königs-, Papst- und Bischofslisten und den verbrüderten Geistlichen sowie dem Nekrolog, deren Grundstruktur zu Lebzeiten des Erzbischofs Gebhard entstanden sind.\nCatalogus auch und Fortsetzung des Catalogus. Texte aus spätem 11. Jahrhundert auch eigens zählen?",
@@ -52070,9 +51826,7 @@
                 "Last modified": "2024-10-03",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -52145,7 +51899,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -52179,9 +51933,7 @@
         "Last modified": "2024-10-03",
         "locus_layout": [],
         "function": [],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       }
     ],
     "note": "Traditionsnotizen aus der 1. Hälfte des 12. Jahrhunderts als eigenes Stratum?",
@@ -52373,39 +52125,7 @@
                     "color": "darker-brown"
                   }
                 ],
-                "bezug_msitem": [
-                  {
-                    "id": 123,
-                    "value": "cod_2090__123"
-                  },
-                  {
-                    "id": 125,
-                    "value": "cod_2090__125"
-                  }
-                ],
-                "role_bezug": [
-                  {
-                    "id": 17452,
-                    "value": "\"Erweiterer\"",
-                    "color": "darker-cyan"
-                  }
-                ],
-                "bezug_text": [
-                  {
-                    "ids": {
-                      "database_table_3489": 102,
-                      "database_table_3491": 123
-                    },
-                    "value": "Nomina regum Francorum"
-                  },
-                  {
-                    "ids": {
-                      "database_table_3489": 105,
-                      "database_table_3491": 125
-                    },
-                    "value": "De ecclesiasticis officiis"
-                  }
-                ]
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -52482,7 +52202,7 @@
               "value": "Erweiterung",
               "color": "pink"
             },
-            "role_msitem": [
+            "commented_msitem": [
               {
                 "id": 123,
                 "value": "cod_2090__123"
@@ -52543,39 +52263,7 @@
             "color": "darker-brown"
           }
         ],
-        "bezug_msitem": [
-          {
-            "id": 123,
-            "value": "cod_2090__123"
-          },
-          {
-            "id": 125,
-            "value": "cod_2090__125"
-          }
-        ],
-        "role_bezug": [
-          {
-            "id": 17452,
-            "value": "\"Erweiterer\"",
-            "color": "darker-cyan"
-          }
-        ],
-        "bezug_text": [
-          {
-            "ids": {
-              "database_table_3489": 102,
-              "database_table_3491": 123
-            },
-            "value": "Nomina regum Francorum"
-          },
-          {
-            "ids": {
-              "database_table_3489": 105,
-              "database_table_3491": 125
-            },
-            "value": "De ecclesiasticis officiis"
-          }
-        ]
+        "role_to_ms": []
       },
       {
         "id": 88,
@@ -52694,39 +52382,7 @@
                     "color": "darker-brown"
                   }
                 ],
-                "bezug_msitem": [
-                  {
-                    "id": 127,
-                    "value": "cod_2090__127"
-                  },
-                  {
-                    "id": 128,
-                    "value": "cod_2090__128"
-                  }
-                ],
-                "role_bezug": [
-                  {
-                    "id": 17452,
-                    "value": "\"Erweiterer\"",
-                    "color": "darker-cyan"
-                  }
-                ],
-                "bezug_text": [
-                  {
-                    "ids": {
-                      "database_table_3489": 107,
-                      "database_table_3491": 127
-                    },
-                    "value": "Nomina pontificum Romanae sedis"
-                  },
-                  {
-                    "ids": {
-                      "database_table_3489": 108,
-                      "database_table_3491": 128
-                    },
-                    "value": "Nomina pontificum Iuvavensis sedis et abbatum"
-                  }
-                ]
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -52803,7 +52459,7 @@
               "value": "Erweiterung",
               "color": "pink"
             },
-            "role_msitem": [
+            "commented_msitem": [
               {
                 "id": 127,
                 "value": "cod_2090__127"
@@ -52864,39 +52520,7 @@
             "color": "darker-brown"
           }
         ],
-        "bezug_msitem": [
-          {
-            "id": 127,
-            "value": "cod_2090__127"
-          },
-          {
-            "id": 128,
-            "value": "cod_2090__128"
-          }
-        ],
-        "role_bezug": [
-          {
-            "id": 17452,
-            "value": "\"Erweiterer\"",
-            "color": "darker-cyan"
-          }
-        ],
-        "bezug_text": [
-          {
-            "ids": {
-              "database_table_3489": 107,
-              "database_table_3491": 127
-            },
-            "value": "Nomina pontificum Romanae sedis"
-          },
-          {
-            "ids": {
-              "database_table_3489": 108,
-              "database_table_3491": 128
-            },
-            "value": "Nomina pontificum Iuvavensis sedis et abbatum"
-          }
-        ]
+        "role_to_ms": []
       }
     ],
     "note": "Dieses Stratum umfasst die Einfügung mehrerer Briefe zu Salzburger Erzbischöfen in der zweiten Hälfte des 12. Jahrhunderts durch 1-2 Hände.",
@@ -53099,9 +52723,7 @@
                   }
                 ],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 38,
@@ -53121,7 +52743,7 @@
                 "role": [
                   {
                     "id": 14763,
-                    "value": "annotator",
+                    "value": "Annotation",
                     "color": "cyan"
                   },
                   {
@@ -53180,9 +52802,7 @@
                     "color": "dark-cyan"
                   }
                 ],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 142,
@@ -53207,7 +52827,7 @@
                   },
                   {
                     "id": 14763,
-                    "value": "annotator",
+                    "value": "Annotation",
                     "color": "cyan"
                   }
                 ],
@@ -53256,9 +52876,7 @@
                     "color": "red"
                   }
                 ],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -54873,7 +54491,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -54885,7 +54503,7 @@
           },
           {
             "id": 14763,
-            "value": "annotator",
+            "value": "Annotation",
             "color": "cyan"
           }
         ],
@@ -54934,9 +54552,7 @@
             "color": "red"
           }
         ],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       }
     ],
     "note": "Das Stratum besteht aus vielfaltigen Korrekturen, einschliessend eine Umschreibung des Textes auf 8r, und Annotationen, darunter auch Glossen. Die Hand hat offensichtlich später (mind. +50 Jahre) gearbeitet, weil die Hände des Hauptschreibers und des Korrektors zu verschiedenen Entwicklungsphasen der Minuskel gehören.",
@@ -55266,9 +54882,7 @@
                   }
                 ],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 153,
@@ -55352,9 +54966,7 @@
                     "color": "darker-orange"
                   }
                 ],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -56820,7 +56432,7 @@
               }
             ],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           },
           {
@@ -57148,9 +56760,7 @@
                   }
                 ],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 153,
@@ -57234,9 +56844,7 @@
                     "color": "darker-orange"
                   }
                 ],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -58702,7 +58310,7 @@
               }
             ],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -58769,9 +58377,7 @@
             "color": "darker-orange"
           }
         ],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       }
     ],
     "note": "Korrekturen meistens zu Vita sancti Martini",
@@ -59002,9 +58608,7 @@
                   }
                 ],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -59220,7 +58824,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           },
           {
@@ -59400,9 +59004,7 @@
                   }
                 ],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -59618,7 +59220,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           },
           {
@@ -59803,9 +59405,7 @@
                     "color": "red"
                   }
                 ],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 139,
@@ -59903,9 +59503,7 @@
                   }
                 ],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -60128,7 +59726,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           },
           {
@@ -60308,9 +59906,7 @@
                   }
                 ],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -60526,7 +60122,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -60599,9 +60195,7 @@
           }
         ],
         "function": [],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       }
     ],
     "note": "Hauptstratum von einer Hand, abgeschrieben von einem voraussichtlich Merowingischen Protograph.",
@@ -60837,9 +60431,7 @@
                     "color": "red"
                   }
                 ],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               },
               {
                 "id": 139,
@@ -60937,9 +60529,7 @@
                   }
                 ],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -61162,7 +60752,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -61202,9 +60792,7 @@
             "color": "red"
           }
         ],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       }
     ],
     "note": "Korrekturen",
@@ -61396,9 +60984,7 @@
                 "Last modified": "2025-01-17",
                 "locus_layout": [],
                 "function": [],
-                "bezug_msitem": [],
-                "role_bezug": [],
-                "bezug_text": []
+                "role_to_ms": []
               }
             ],
             "cod_unit": [
@@ -61560,7 +61146,7 @@
             "form_note": null,
             "column": [],
             "role": null,
-            "role_msitem": [],
+            "commented_msitem": [],
             "function_role": []
           }
         ],
@@ -61594,9 +61180,7 @@
         "Last modified": "2025-01-17",
         "locus_layout": [],
         "function": [],
-        "bezug_msitem": [],
-        "role_bezug": [],
-        "bezug_text": []
+        "role_to_ms": []
       }
     ],
     "note": "",

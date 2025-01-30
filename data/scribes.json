@@ -398,9 +398,7 @@
                     "Last modified": "2025-01-17",
                     "locus_layout": [],
                     "function": [],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   }
                 ],
                 "cod_unit": [
@@ -562,7 +560,7 @@
                 "form_note": null,
                 "column": [],
                 "role": null,
-                "role_msitem": [],
+                "commented_msitem": [],
                 "function_role": []
               }
             ],
@@ -596,9 +594,7 @@
             "Last modified": "2025-01-17",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "role": [
@@ -1294,9 +1290,7 @@
                     "Last modified": "2024-12-04",
                     "locus_layout": [],
                     "function": [],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   }
                 ],
                 "cod_unit": [
@@ -1447,7 +1441,7 @@
                 "form_note": null,
                 "column": [],
                 "role": null,
-                "role_msitem": [],
+                "commented_msitem": [],
                 "function_role": []
               }
             ],
@@ -1481,9 +1475,7 @@
             "Last modified": "2024-12-04",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "role": [
@@ -2024,9 +2016,7 @@
                     "Last modified": "2024-10-03",
                     "locus_layout": [],
                     "function": [],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   }
                 ],
                 "cod_unit": [
@@ -2099,7 +2089,7 @@
                 "form_note": null,
                 "column": [],
                 "role": null,
-                "role_msitem": [],
+                "commented_msitem": [],
                 "function_role": []
               }
             ],
@@ -2133,9 +2123,7 @@
             "Last modified": "2024-10-03",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "role": [
@@ -2676,9 +2664,7 @@
                         "color": "darker-blue"
                       }
                     ],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   },
                   {
                     "id": 81,
@@ -2737,9 +2723,7 @@
                         "color": "darker-blue"
                       }
                     ],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   }
                 ],
                 "cod_unit": [
@@ -2825,7 +2809,7 @@
                 "form_note": null,
                 "column": [],
                 "role": null,
-                "role_msitem": [],
+                "commented_msitem": [],
                 "function_role": []
               }
             ],
@@ -2871,9 +2855,7 @@
                 "color": "darker-blue"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "role": [
@@ -3407,9 +3389,7 @@
                     "Last modified": "2024-09-25",
                     "locus_layout": [],
                     "function": [],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   },
                   {
                     "id": 84,
@@ -3456,9 +3436,7 @@
                     "Last modified": "2024-08-01",
                     "locus_layout": [],
                     "function": [],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   },
                   {
                     "id": 85,
@@ -3505,9 +3483,7 @@
                     "Last modified": "2024-09-25",
                     "locus_layout": [],
                     "function": [],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   }
                 ],
                 "cod_unit": [
@@ -3600,7 +3576,7 @@
                 "form_note": null,
                 "column": [],
                 "role": null,
-                "role_msitem": [],
+                "commented_msitem": [],
                 "function_role": []
               }
             ],
@@ -3634,9 +3610,7 @@
             "Last modified": "2024-09-25",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "role": [
@@ -4208,39 +4182,7 @@
                         "color": "darker-brown"
                       }
                     ],
-                    "bezug_msitem": [
-                      {
-                        "id": 127,
-                        "value": "cod_2090__127"
-                      },
-                      {
-                        "id": 128,
-                        "value": "cod_2090__128"
-                      }
-                    ],
-                    "role_bezug": [
-                      {
-                        "id": 17452,
-                        "value": "\"Erweiterer\"",
-                        "color": "darker-cyan"
-                      }
-                    ],
-                    "bezug_text": [
-                      {
-                        "ids": {
-                          "database_table_3489": 107,
-                          "database_table_3491": 127
-                        },
-                        "value": "Nomina pontificum Romanae sedis"
-                      },
-                      {
-                        "ids": {
-                          "database_table_3489": 108,
-                          "database_table_3491": 128
-                        },
-                        "value": "Nomina pontificum Iuvavensis sedis et abbatum"
-                      }
-                    ]
+                    "role_to_ms": []
                   }
                 ],
                 "cod_unit": [
@@ -4317,7 +4259,7 @@
                   "value": "Erweiterung",
                   "color": "pink"
                 },
-                "role_msitem": [
+                "commented_msitem": [
                   {
                     "id": 127,
                     "value": "cod_2090__127"
@@ -4378,39 +4320,7 @@
                 "color": "darker-brown"
               }
             ],
-            "bezug_msitem": [
-              {
-                "id": 127,
-                "value": "cod_2090__127"
-              },
-              {
-                "id": 128,
-                "value": "cod_2090__128"
-              }
-            ],
-            "role_bezug": [
-              {
-                "id": 17452,
-                "value": "\"Erweiterer\"",
-                "color": "darker-cyan"
-              }
-            ],
-            "bezug_text": [
-              {
-                "ids": {
-                  "database_table_3489": 107,
-                  "database_table_3491": 127
-                },
-                "value": "Nomina pontificum Romanae sedis"
-              },
-              {
-                "ids": {
-                  "database_table_3489": 108,
-                  "database_table_3491": 128
-                },
-                "value": "Nomina pontificum Iuvavensis sedis et abbatum"
-              }
-            ]
+            "role_to_ms": []
           }
         ],
         "role": [
@@ -4951,9 +4861,7 @@
                         "color": "darker-orange"
                       }
                     ],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   },
                   {
                     "id": 114,
@@ -5012,9 +4920,7 @@
                         "color": "darker-orange"
                       }
                     ],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   }
                 ],
                 "cod_unit": [
@@ -5094,7 +5000,7 @@
                 "form_note": null,
                 "column": [],
                 "role": null,
-                "role_msitem": [],
+                "commented_msitem": [],
                 "function_role": []
               }
             ],
@@ -5140,9 +5046,7 @@
                 "color": "darker-orange"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "role": [
@@ -5769,9 +5673,7 @@
                         "color": "darker-orange"
                       }
                     ],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   }
                 ],
                 "cod_unit": [
@@ -6938,7 +6840,7 @@
                 "form_note": null,
                 "column": [],
                 "role": null,
-                "role_msitem": [],
+                "commented_msitem": [],
                 "function_role": []
               }
             ],
@@ -6984,9 +6886,7 @@
                 "color": "darker-orange"
               }
             ],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 14,
@@ -7341,9 +7241,7 @@
                       }
                     ],
                     "function": [],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   }
                 ],
                 "cod_unit": [
@@ -8510,7 +8408,7 @@
                 "form_note": null,
                 "column": [],
                 "role": null,
-                "role_msitem": [],
+                "commented_msitem": [],
                 "function_role": []
               }
             ],
@@ -8550,9 +8448,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 4,
@@ -8967,9 +8863,7 @@
                       }
                     ],
                     "function": [],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   }
                 ],
                 "cod_unit": [
@@ -10136,7 +10030,7 @@
                 "form_note": null,
                 "column": [],
                 "role": null,
-                "role_msitem": [],
+                "commented_msitem": [],
                 "function_role": []
               }
             ],
@@ -10176,9 +10070,7 @@
               }
             ],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 5,
@@ -10586,9 +10478,7 @@
                     "Last modified": "2024-11-19",
                     "locus_layout": [],
                     "function": [],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   },
                   {
                     "id": 3,
@@ -10635,9 +10525,7 @@
                     "Last modified": "2024-07-01",
                     "locus_layout": [],
                     "function": [],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   },
                   {
                     "id": 10,
@@ -10684,9 +10572,7 @@
                     "Last modified": "2024-10-09",
                     "locus_layout": [],
                     "function": [],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   },
                   {
                     "id": 17,
@@ -10733,9 +10619,7 @@
                     "Last modified": "2024-10-09",
                     "locus_layout": [],
                     "function": [],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   }
                 ],
                 "cod_unit": [
@@ -11929,7 +11813,7 @@
                 "form_note": null,
                 "column": [],
                 "role": null,
-                "role_msitem": [],
+                "commented_msitem": [],
                 "function_role": []
               }
             ],
@@ -11963,9 +11847,7 @@
             "Last modified": "2024-11-19",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 10,
@@ -12373,9 +12255,7 @@
                     "Last modified": "2024-11-19",
                     "locus_layout": [],
                     "function": [],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   },
                   {
                     "id": 3,
@@ -12422,9 +12302,7 @@
                     "Last modified": "2024-07-01",
                     "locus_layout": [],
                     "function": [],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   },
                   {
                     "id": 10,
@@ -12471,9 +12349,7 @@
                     "Last modified": "2024-10-09",
                     "locus_layout": [],
                     "function": [],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   },
                   {
                     "id": 17,
@@ -12520,9 +12396,7 @@
                     "Last modified": "2024-10-09",
                     "locus_layout": [],
                     "function": [],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   }
                 ],
                 "cod_unit": [
@@ -13716,7 +13590,7 @@
                 "form_note": null,
                 "column": [],
                 "role": null,
-                "role_msitem": [],
+                "commented_msitem": [],
                 "function_role": []
               }
             ],
@@ -13750,9 +13624,7 @@
             "Last modified": "2024-10-09",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 11,
@@ -14125,9 +13997,7 @@
                     "Last modified": "2024-12-13",
                     "locus_layout": [],
                     "function": [],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   },
                   {
                     "id": 16,
@@ -14147,7 +14017,7 @@
                     "role": [
                       {
                         "id": 14763,
-                        "value": "annotator",
+                        "value": "Annotation",
                         "color": "cyan"
                       }
                     ],
@@ -14174,9 +14044,7 @@
                     "Last modified": "2024-07-11",
                     "locus_layout": [],
                     "function": [],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   },
                   {
                     "id": 82,
@@ -14196,7 +14064,7 @@
                     "role": [
                       {
                         "id": 14763,
-                        "value": "annotator",
+                        "value": "Annotation",
                         "color": "cyan"
                       }
                     ],
@@ -14223,9 +14091,7 @@
                     "Last modified": "2024-08-05",
                     "locus_layout": [],
                     "function": [],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   }
                 ],
                 "cod_unit": [
@@ -15406,7 +15272,7 @@
                 "form_note": null,
                 "column": [],
                 "role": null,
-                "role_msitem": [],
+                "commented_msitem": [],
                 "function_role": []
               }
             ],
@@ -15440,9 +15306,7 @@
             "Last modified": "2024-12-13",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 15,
@@ -15875,9 +15739,7 @@
                         "color": "darker-red"
                       }
                     ],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   },
                   {
                     "id": 15,
@@ -15924,9 +15786,7 @@
                     "Last modified": "2024-10-09",
                     "locus_layout": [],
                     "function": [],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   },
                   {
                     "id": 22,
@@ -15973,9 +15833,7 @@
                     "Last modified": "2024-07-11",
                     "locus_layout": [],
                     "function": [],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   }
                 ],
                 "cod_unit": [
@@ -16624,7 +16482,7 @@
                 "form_note": null,
                 "column": [],
                 "role": null,
-                "role_msitem": [],
+                "commented_msitem": [],
                 "function_role": []
               }
             ],
@@ -16658,9 +16516,7 @@
             "Last modified": "2024-10-09",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 35,
@@ -17032,9 +16888,7 @@
                     "Last modified": "2024-10-09",
                     "locus_layout": [],
                     "function": [],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   }
                 ],
                 "cod_unit": [
@@ -17669,7 +17523,7 @@
                 "form_note": null,
                 "column": [],
                 "role": null,
-                "role_msitem": [],
+                "commented_msitem": [],
                 "function_role": []
               }
             ],
@@ -17703,9 +17557,7 @@
             "Last modified": "2024-10-09",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           },
           {
             "id": 102,
@@ -18105,9 +17957,9 @@
                     ],
                     "role": [
                       {
-                        "id": 14763,
-                        "value": "annotator",
-                        "color": "cyan"
+                        "id": 14758,
+                        "value": "Schreiber",
+                        "color": "darker-red"
                       }
                     ],
                     "locus": "",
@@ -18127,15 +17979,25 @@
                       }
                     ],
                     "Last modified by": {
-                      "id": 86,
-                      "name": "Leon Pürstinger"
+                      "id": 36,
+                      "name": "Ivana Dobcheva"
                     },
-                    "Last modified": "2024-08-26",
+                    "Last modified": "2025-01-30",
                     "locus_layout": [],
-                    "function": [],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "function": [
+                      {
+                        "id": 15836,
+                        "value": "inhaltsbezogen",
+                        "color": "darker-orange"
+                      }
+                    ],
+                    "role_to_ms": [
+                      {
+                        "id": 18165,
+                        "value": "Erweiterung",
+                        "color": "darker-blue"
+                      }
+                    ]
                   }
                 ],
                 "cod_unit": [
@@ -18749,7 +18611,7 @@
                     ]
                   }
                 ],
-                "Last modified": "2024-09-06",
+                "Last modified": "2025-01-30",
                 "Last modified by": {
                   "id": 36,
                   "name": "Ivana Dobcheva"
@@ -18769,16 +18631,31 @@
                 "form": [],
                 "form_note": null,
                 "column": [],
-                "role": null,
-                "role_msitem": [],
-                "function_role": []
+                "role": {
+                  "id": 18160,
+                  "value": "Kommentar",
+                  "color": "light-orange"
+                },
+                "commented_msitem": [
+                  {
+                    "id": 5,
+                    "value": "cod_m_p_th_f_46__5"
+                  }
+                ],
+                "function_role": [
+                  {
+                    "id": 18161,
+                    "value": "inhaltsbezogen",
+                    "color": "dark-red"
+                  }
+                ]
               }
             ],
             "role": [
               {
-                "id": 14763,
-                "value": "annotator",
-                "color": "cyan"
+                "id": 14758,
+                "value": "Schreiber",
+                "color": "darker-red"
               }
             ],
             "locus": "",
@@ -18798,15 +18675,25 @@
               }
             ],
             "Last modified by": {
-              "id": 86,
-              "name": "Leon Pürstinger"
+              "id": 36,
+              "name": "Ivana Dobcheva"
             },
-            "Last modified": "2024-08-26",
+            "Last modified": "2025-01-30",
             "locus_layout": [],
-            "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "function": [
+              {
+                "id": 15836,
+                "value": "inhaltsbezogen",
+                "color": "darker-orange"
+              }
+            ],
+            "role_to_ms": [
+              {
+                "id": 18165,
+                "value": "Erweiterung",
+                "color": "darker-blue"
+              }
+            ]
           }
         ],
         "role": [
@@ -18894,9 +18781,9 @@
             "id": 102,
             "value": [
               {
-                "id": 14763,
-                "value": "annotator",
-                "color": "cyan"
+                "id": 14758,
+                "value": "Schreiber",
+                "color": "darker-red"
               }
             ]
           }
@@ -19636,9 +19523,7 @@
                     "Last modified": "2024-10-09",
                     "locus_layout": [],
                     "function": [],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   },
                   {
                     "id": 50,
@@ -19685,9 +19570,7 @@
                     "Last modified": "2024-10-09",
                     "locus_layout": [],
                     "function": [],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   },
                   {
                     "id": 55,
@@ -19734,9 +19617,7 @@
                     "Last modified": "2024-10-09",
                     "locus_layout": [],
                     "function": [],
-                    "bezug_msitem": [],
-                    "role_bezug": [],
-                    "bezug_text": []
+                    "role_to_ms": []
                   }
                 ],
                 "cod_unit": [
@@ -21168,7 +21049,7 @@
                 "form_note": null,
                 "column": [],
                 "role": null,
-                "role_msitem": [],
+                "commented_msitem": [],
                 "function_role": []
               }
             ],
@@ -21202,9 +21083,7 @@
             "Last modified": "2024-10-09",
             "locus_layout": [],
             "function": [],
-            "bezug_msitem": [],
-            "role_bezug": [],
-            "bezug_text": []
+            "role_to_ms": []
           }
         ],
         "role": [

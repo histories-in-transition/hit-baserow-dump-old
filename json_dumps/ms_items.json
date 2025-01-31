@@ -209,7 +209,7 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "Last modified": "2024-07-29",
+    "Last modified": "2025-01-30",
     "Created on": "2024-06-19",
     "Created by": {
       "id": 3,
@@ -234,9 +234,25 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "role": {
+      "id": 18159,
+      "value": "Erweiterung",
+      "color": "pink"
+    },
+    "commented_msitem": [
+      {
+        "id": 5,
+        "value": "cod_m_p_th_f_46__5",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "function_role": [
+      {
+        "id": 18161,
+        "value": "inhaltsbezogen",
+        "color": "dark-red"
+      }
+    ]
   },
   "5": {
     "id": 5,

@@ -172,9 +172,21 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-11-19",
-                "locus_layout": [],
-                "function": [],
+                "Last modified": "2025-01-31",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
+                    "color": "green"
+                  }
+                ],
+                "function": [
+                  {
+                    "id": 18156,
+                    "value": "inhaltlich",
+                    "color": "dark-blue"
+                  }
+                ],
                 "role_to_ms": []
               },
               {
@@ -219,115 +231,21 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2025-01-30",
+                "Last modified": "2025-01-31",
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
                 "function": [
                   {
-                    "id": 18156,
-                    "value": "inhaltlich",
-                    "color": "darker-blue"
+                    "id": 18168,
+                    "value": "anlegend (?) = inhaltlich?",
+                    "color": "light-blue"
                   }
                 ],
-                "role_to_ms": []
-              },
-              {
-                "id": 10,
-                "hit_id": "hit_hands_role__10",
-                "hand": [
-                  {
-                    "id": 5,
-                    "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
-                  }
-                ],
-                "ms_item": [
-                  {
-                    "id": 5,
-                    "value": "cod_m_p_th_f_46__5"
-                  }
-                ],
-                "role": [
-                  {
-                    "id": 15378,
-                    "value": "\"Erweiterer\"",
-                    "color": "darker-cyan"
-                  }
-                ],
-                "locus": "",
-                "text": [
-                  {
-                    "ids": {
-                      "database_table_3489": 4,
-                      "database_table_3491": 5
-                    },
-                    "value": "De cyclo paschali"
-                  }
-                ],
-                "locus_text": [
-                  {
-                    "id": 5,
-                    "value": "1v-21r"
-                  }
-                ],
-                "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
-                },
-                "Last modified": "2024-10-09",
-                "locus_layout": [],
-                "function": [],
-                "role_to_ms": []
-              },
-              {
-                "id": 17,
-                "hit_id": "hit_hands_role__17",
-                "hand": [
-                  {
-                    "id": 12,
-                    "value": "UBWÜ, Cod. M. p. th. f. 46_H. 2"
-                  }
-                ],
-                "ms_item": [
-                  {
-                    "id": 5,
-                    "value": "cod_m_p_th_f_46__5"
-                  }
-                ],
-                "role": [
-                  {
-                    "id": 15378,
-                    "value": "\"Erweiterer\"",
-                    "color": "darker-cyan"
-                  }
-                ],
-                "locus": "",
-                "text": [
-                  {
-                    "ids": {
-                      "database_table_3489": 4,
-                      "database_table_3491": 5
-                    },
-                    "value": "De cyclo paschali"
-                  }
-                ],
-                "locus_text": [
-                  {
-                    "id": 5,
-                    "value": "1v-21r"
-                  }
-                ],
-                "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
-                },
-                "Last modified": "2024-10-09",
-                "locus_layout": [],
-                "function": [],
                 "role_to_ms": []
               }
             ],
@@ -1474,12 +1392,12 @@
                 ]
               }
             ],
-            "Last modified": "2024-11-19",
+            "Last modified": "2025-01-31",
             "Last modified by": {
               "id": 86,
               "name": "Leon Pürstinger"
             },
-            "note": null,
+            "note": "",
             "hand": [
               {
                 "ids": {
@@ -1494,20 +1412,6 @@
                   "database_table_3488": 2
                 },
                 "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
-              },
-              {
-                "ids": {
-                  "database_table_3487": 2,
-                  "database_table_3488": 2
-                },
-                "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
-              },
-              {
-                "ids": {
-                  "database_table_3487": 2,
-                  "database_table_3488": 2
-                },
-                "value": "UBWÜ, Cod. M. p. th. f. 46_H. 2"
               }
             ],
             "decoration": [
@@ -1553,1556 +1457,21 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2025-01-30",
+        "Last modified": "2025-01-31",
         "locus_layout": [
           {
             "id": 15841,
-            "value": "Schriftraum (einspaltig/ausfüllend))",
+            "value": "Schriftraum (einspaltig/mehrspaltig)",
             "color": "green"
           }
         ],
         "function": [
           {
-            "id": 18156,
-            "value": "inhaltlich",
-            "color": "darker-blue"
+            "id": 18168,
+            "value": "anlegend (?) = inhaltlich?",
+            "color": "light-blue"
           }
         ],
-        "role_to_ms": []
-      },
-      {
-        "id": 17,
-        "hit_id": "hit_hands_role__17",
-        "hand": [
-          {
-            "id": 12,
-            "value": "UBWÜ, Cod. M. p. th. f. 46_H. 2"
-          }
-        ],
-        "ms_item": [
-          {
-            "id": 5,
-            "label": [
-              {
-                "id": 2,
-                "value": "cod_m_p_th_f_46__5"
-              }
-            ],
-            "incipit": "",
-            "explicit": "",
-            "rubric": "",
-            "title_work": [
-              {
-                "id": 4,
-                "title": "De cyclo paschali",
-                "gnd_url": "",
-                "note": "",
-                "hit_id": "hit_works__4",
-                "author": [
-                  {
-                    "id": 5,
-                    "name": "Ps.-Beda",
-                    "gnd_url": "",
-                    "hit_id": "hit_people__5",
-                    "role": [
-                      {
-                        "id": 14753,
-                        "value": "author",
-                        "color": "dark-green"
-                      }
-                    ],
-                    "Last modified by": {
-                      "id": 86,
-                      "name": "Leon Pürstinger"
-                    },
-                    "Last modified": "2024-07-12",
-                    "works": [
-                      {
-                        "id": 4,
-                        "value": "De cyclo paschali"
-                      },
-                      {
-                        "id": 6,
-                        "value": "Epactae lunae & solis"
-                      },
-                      {
-                        "id": 90,
-                        "value": "De argumentis lunae"
-                      }
-                    ],
-                    "work": [
-                      {
-                        "id": 4,
-                        "value": "De cyclo paschali"
-                      },
-                      {
-                        "id": 6,
-                        "value": "Epactae lunae & solis"
-                      },
-                      {
-                        "id": 90,
-                        "value": "De argumentis lunae"
-                      }
-                    ]
-                  }
-                ],
-                "bibliography": [],
-                "source_text": [],
-                "genre": [
-                  {
-                    "id": 16,
-                    "genre": "Komputistik",
-                    "hit_id": "hit_genres__16",
-                    "main_genre": [],
-                    "Last modified by": {
-                      "id": 86,
-                      "name": "Leon Pürstinger"
-                    },
-                    "Last modified": "2024-07-23"
-                  }
-                ],
-                "note_source": null,
-                "Last modified by": {
-                  "id": 87,
-                  "name": "Ksenia Borisova"
-                },
-                "Last modified": "2024-10-22"
-              }
-            ],
-            "title_note": "",
-            "bibl": [],
-            "final_rubric": "",
-            "siglum": "",
-            "hit_id": "hit_ms_items__5",
-            "filiation": [],
-            "locus_grp": "1v-21r",
-            "hands_role": [
-              {
-                "id": 5,
-                "hit_id": "hit_hands_role__5",
-                "hand": [
-                  {
-                    "id": 5,
-                    "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
-                  }
-                ],
-                "ms_item": [
-                  {
-                    "id": 5,
-                    "value": "cod_m_p_th_f_46__5"
-                  }
-                ],
-                "role": [
-                  {
-                    "id": 15373,
-                    "value": "Korrektor",
-                    "color": "darker-brown"
-                  }
-                ],
-                "locus": "",
-                "text": [
-                  {
-                    "ids": {
-                      "database_table_3489": 4,
-                      "database_table_3491": 5
-                    },
-                    "value": "De cyclo paschali"
-                  }
-                ],
-                "locus_text": [
-                  {
-                    "id": 5,
-                    "value": "1v-21r"
-                  }
-                ],
-                "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
-                },
-                "Last modified": "2024-11-19",
-                "locus_layout": [],
-                "function": [],
-                "role_to_ms": []
-              },
-              {
-                "id": 3,
-                "hit_id": "hit_hands_role__3",
-                "hand": [
-                  {
-                    "id": 12,
-                    "value": "UBWÜ, Cod. M. p. th. f. 46_H. 2"
-                  }
-                ],
-                "ms_item": [
-                  {
-                    "id": 5,
-                    "value": "cod_m_p_th_f_46__5"
-                  }
-                ],
-                "role": [
-                  {
-                    "id": 14758,
-                    "value": "Schreiber",
-                    "color": "darker-red"
-                  }
-                ],
-                "locus": "",
-                "text": [
-                  {
-                    "ids": {
-                      "database_table_3489": 4,
-                      "database_table_3491": 5
-                    },
-                    "value": "De cyclo paschali"
-                  }
-                ],
-                "locus_text": [
-                  {
-                    "id": 5,
-                    "value": "1v-21r"
-                  }
-                ],
-                "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
-                },
-                "Last modified": "2025-01-30",
-                "locus_layout": [
-                  {
-                    "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
-                    "color": "green"
-                  }
-                ],
-                "function": [
-                  {
-                    "id": 18156,
-                    "value": "inhaltlich",
-                    "color": "darker-blue"
-                  }
-                ],
-                "role_to_ms": []
-              },
-              {
-                "id": 10,
-                "hit_id": "hit_hands_role__10",
-                "hand": [
-                  {
-                    "id": 5,
-                    "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
-                  }
-                ],
-                "ms_item": [
-                  {
-                    "id": 5,
-                    "value": "cod_m_p_th_f_46__5"
-                  }
-                ],
-                "role": [
-                  {
-                    "id": 15378,
-                    "value": "\"Erweiterer\"",
-                    "color": "darker-cyan"
-                  }
-                ],
-                "locus": "",
-                "text": [
-                  {
-                    "ids": {
-                      "database_table_3489": 4,
-                      "database_table_3491": 5
-                    },
-                    "value": "De cyclo paschali"
-                  }
-                ],
-                "locus_text": [
-                  {
-                    "id": 5,
-                    "value": "1v-21r"
-                  }
-                ],
-                "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
-                },
-                "Last modified": "2024-10-09",
-                "locus_layout": [],
-                "function": [],
-                "role_to_ms": []
-              },
-              {
-                "id": 17,
-                "hit_id": "hit_hands_role__17",
-                "hand": [
-                  {
-                    "id": 12,
-                    "value": "UBWÜ, Cod. M. p. th. f. 46_H. 2"
-                  }
-                ],
-                "ms_item": [
-                  {
-                    "id": 5,
-                    "value": "cod_m_p_th_f_46__5"
-                  }
-                ],
-                "role": [
-                  {
-                    "id": 15378,
-                    "value": "\"Erweiterer\"",
-                    "color": "darker-cyan"
-                  }
-                ],
-                "locus": "",
-                "text": [
-                  {
-                    "ids": {
-                      "database_table_3489": 4,
-                      "database_table_3491": 5
-                    },
-                    "value": "De cyclo paschali"
-                  }
-                ],
-                "locus_text": [
-                  {
-                    "id": 5,
-                    "value": "1v-21r"
-                  }
-                ],
-                "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
-                },
-                "Last modified": "2024-10-09",
-                "locus_layout": [],
-                "function": [],
-                "role_to_ms": []
-              }
-            ],
-            "cod_unit": [
-              {
-                "id": 3,
-                "label": [
-                  {
-                    "ids": {
-                      "database_table_3487": 2,
-                      "database_table_3488": 2
-                    },
-                    "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
-                  }
-                ],
-                "notes": "",
-                "hit_id": "hit_cod_unit__3",
-                "locus": "1r-97v",
-                "manuscript": [
-                  {
-                    "id": 2,
-                    "value": "UBWÜ, Cod. M. p. th. f. 46"
-                  }
-                ],
-                "quire": [
-                  {
-                    "id": 5,
-                    "label": [
-                      {
-                        "ids": {
-                          "database_table_3487": 2,
-                          "database_table_3488": 2
-                        },
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 1"
-                      }
-                    ],
-                    "hit_id": "hit_quire__5",
-                    "number": "1",
-                    "locus": "1r-8v",
-                    "library": [
-                      {
-                        "ids": {
-                          "database_table_3487": 2,
-                          "database_table_3488": 2
-                        },
-                        "value": "UBWÜ"
-                      }
-                    ],
-                    "locus_from": "1r",
-                    "locus_to": "8v",
-                    "manuscript": [
-                      {
-                        "id": 2,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46"
-                      }
-                    ],
-                    "quiremark": "5",
-                    "written_height": "185",
-                    "written_width": "110",
-                    "written": "185×110",
-                    "hair_flesh": [
-                      {
-                        "id": 14740,
-                        "value": "HFFH",
-                        "color": "darker-purple"
-                      }
-                    ],
-                    "ruling": "21 Zeilen",
-                    "column": [
-                      {
-                        "id": 14780,
-                        "value": "4",
-                        "color": "dark-pink"
-                      },
-                      {
-                        "id": 14781,
-                        "value": "5",
-                        "color": "red"
-                      }
-                    ],
-                    "note": "Ostertafeln bestehend aus 5 Rubriken auf der Verso- und 4 Rubriken auf der Rectoseite. Blatt 1 weist einen kreuzförmigen Ausschnitt auf. Bei Blatt 5 fehlt der untere Rand, wohl ohne Textverlust.",
-                    "decoration": "Rote Überschriften in einer Unziale des älteren Typs, gelegentlich vermischt mit halbunzialen Formen. Rote Spaltenrahmung innerhalb der Ostertafel.",
-                    "quire_structure": "IV<sup>8</sup>",
-                    "correct_number": null,
-                    "height": "235",
-                    "width": "170",
-                    "catchwords": false,
-                    "stratum": [
-                      {
-                        "id": 1,
-                        "value": "Cod. M. p. th. f. 46, Stratum 1"
-                      },
-                      {
-                        "id": 2,
-                        "value": "Cod. M. p. th. f. 46, Stratum 2"
-                      },
-                      {
-                        "id": 11,
-                        "value": "Cod. M. p. th. f. 46, Stratum 6"
-                      }
-                    ],
-                    "Last modified by": {
-                      "id": 86,
-                      "name": "Leon Pürstinger"
-                    },
-                    "Last modified": "2024-07-26T09:17:05.018280Z",
-                    "cod_units": [
-                      {
-                        "id": 3,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
-                      }
-                    ],
-                    "besonderheiten": []
-                  },
-                  {
-                    "id": 7,
-                    "label": [
-                      {
-                        "ids": {
-                          "database_table_3487": 2,
-                          "database_table_3488": 2
-                        },
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 2"
-                      }
-                    ],
-                    "hit_id": "hit_quire__7",
-                    "number": "2",
-                    "locus": "9r-16v",
-                    "library": [
-                      {
-                        "ids": {
-                          "database_table_3487": 2,
-                          "database_table_3488": 2
-                        },
-                        "value": "UBWÜ"
-                      }
-                    ],
-                    "locus_from": "9r",
-                    "locus_to": "16v",
-                    "manuscript": [
-                      {
-                        "id": 2,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46"
-                      }
-                    ],
-                    "quiremark": null,
-                    "written_height": null,
-                    "written_width": null,
-                    "written": "×",
-                    "hair_flesh": [],
-                    "ruling": "",
-                    "column": [
-                      {
-                        "id": 14780,
-                        "value": "4",
-                        "color": "dark-pink"
-                      },
-                      {
-                        "id": 14781,
-                        "value": "5",
-                        "color": "red"
-                      }
-                    ],
-                    "note": "",
-                    "decoration": "",
-                    "quire_structure": "IV<sup>16</sup>",
-                    "correct_number": null,
-                    "height": "235",
-                    "width": "170",
-                    "catchwords": false,
-                    "stratum": [
-                      {
-                        "id": 1,
-                        "value": "Cod. M. p. th. f. 46, Stratum 1"
-                      },
-                      {
-                        "id": 2,
-                        "value": "Cod. M. p. th. f. 46, Stratum 2"
-                      }
-                    ],
-                    "Last modified by": {
-                      "id": 86,
-                      "name": "Leon Pürstinger"
-                    },
-                    "Last modified": "2024-12-13T11:09:30.075291Z",
-                    "cod_units": [
-                      {
-                        "id": 3,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
-                      }
-                    ],
-                    "besonderheiten": []
-                  },
-                  {
-                    "id": 8,
-                    "label": [
-                      {
-                        "ids": {
-                          "database_table_3487": 2,
-                          "database_table_3488": 2
-                        },
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 3"
-                      }
-                    ],
-                    "hit_id": "hit_quire__8",
-                    "number": "3",
-                    "locus": "17r-22v",
-                    "library": [
-                      {
-                        "ids": {
-                          "database_table_3487": 2,
-                          "database_table_3488": 2
-                        },
-                        "value": "UBWÜ"
-                      }
-                    ],
-                    "locus_from": "17r",
-                    "locus_to": "22v",
-                    "manuscript": [
-                      {
-                        "id": 2,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46"
-                      }
-                    ],
-                    "quiremark": null,
-                    "written_height": null,
-                    "written_width": null,
-                    "written": "×",
-                    "hair_flesh": [],
-                    "ruling": "",
-                    "column": [
-                      {
-                        "id": 14780,
-                        "value": "4",
-                        "color": "dark-pink"
-                      },
-                      {
-                        "id": 14781,
-                        "value": "5",
-                        "color": "red"
-                      },
-                      {
-                        "id": 14743,
-                        "value": "1",
-                        "color": "darker-blue"
-                      }
-                    ],
-                    "note": "",
-                    "decoration": "",
-                    "quire_structure": "III<sup>22</sup>",
-                    "correct_number": null,
-                    "height": "235",
-                    "width": "170",
-                    "catchwords": false,
-                    "stratum": [
-                      {
-                        "id": 1,
-                        "value": "Cod. M. p. th. f. 46, Stratum 1"
-                      },
-                      {
-                        "id": 2,
-                        "value": "Cod. M. p. th. f. 46, Stratum 2"
-                      },
-                      {
-                        "id": 10,
-                        "value": "Cod. M. p. th. f. 46, Stratum 5"
-                      }
-                    ],
-                    "Last modified by": {
-                      "id": 86,
-                      "name": "Leon Pürstinger"
-                    },
-                    "Last modified": "2024-07-16T11:56:54.133246Z",
-                    "cod_units": [
-                      {
-                        "id": 3,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
-                      }
-                    ],
-                    "besonderheiten": []
-                  },
-                  {
-                    "id": 10,
-                    "label": [
-                      {
-                        "ids": {
-                          "database_table_3487": 2,
-                          "database_table_3488": 2
-                        },
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 4"
-                      }
-                    ],
-                    "hit_id": "hit_quire__10",
-                    "number": "4",
-                    "locus": "23r-30v",
-                    "library": [
-                      {
-                        "ids": {
-                          "database_table_3487": 2,
-                          "database_table_3488": 2
-                        },
-                        "value": "UBWÜ"
-                      }
-                    ],
-                    "locus_from": "23r",
-                    "locus_to": "30v",
-                    "manuscript": [
-                      {
-                        "id": 2,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46"
-                      }
-                    ],
-                    "quiremark": null,
-                    "written_height": null,
-                    "written_width": null,
-                    "written": "×",
-                    "hair_flesh": [],
-                    "ruling": "",
-                    "column": [
-                      {
-                        "id": 14743,
-                        "value": "1",
-                        "color": "darker-blue"
-                      }
-                    ],
-                    "note": "",
-                    "decoration": "Auf 23r und 27v rote Überschriften in sorgfältiger Monumentalkapitalis. Anonsten rote und braune Überschriften in einer Unziale des älteren Typs.",
-                    "quire_structure": "IV",
-                    "correct_number": null,
-                    "height": "235",
-                    "width": "170",
-                    "catchwords": false,
-                    "stratum": [
-                      {
-                        "id": 1,
-                        "value": "Cod. M. p. th. f. 46, Stratum 1"
-                      }
-                    ],
-                    "Last modified by": {
-                      "id": 86,
-                      "name": "Leon Pürstinger"
-                    },
-                    "Last modified": "2024-12-13T11:17:28.888930Z",
-                    "cod_units": [
-                      {
-                        "id": 3,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
-                      }
-                    ],
-                    "besonderheiten": []
-                  },
-                  {
-                    "id": 11,
-                    "label": [
-                      {
-                        "ids": {
-                          "database_table_3487": 2,
-                          "database_table_3488": 2
-                        },
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 5"
-                      }
-                    ],
-                    "hit_id": "hit_quire__11",
-                    "number": "5",
-                    "locus": "31r-38v",
-                    "library": [
-                      {
-                        "ids": {
-                          "database_table_3487": 2,
-                          "database_table_3488": 2
-                        },
-                        "value": "UBWÜ"
-                      }
-                    ],
-                    "locus_from": "31r",
-                    "locus_to": "38v",
-                    "manuscript": [
-                      {
-                        "id": 2,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46"
-                      }
-                    ],
-                    "quiremark": null,
-                    "written_height": null,
-                    "written_width": null,
-                    "written": "×",
-                    "hair_flesh": [],
-                    "ruling": "",
-                    "column": [
-                      {
-                        "id": 14743,
-                        "value": "1",
-                        "color": "darker-blue"
-                      }
-                    ],
-                    "note": "",
-                    "decoration": "",
-                    "quire_structure": "IV",
-                    "correct_number": null,
-                    "height": "235",
-                    "width": "170",
-                    "catchwords": false,
-                    "stratum": [
-                      {
-                        "id": 1,
-                        "value": "Cod. M. p. th. f. 46, Stratum 1"
-                      }
-                    ],
-                    "Last modified by": {
-                      "id": 86,
-                      "name": "Leon Pürstinger"
-                    },
-                    "Last modified": "2024-07-16T11:57:19.264909Z",
-                    "cod_units": [
-                      {
-                        "id": 3,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
-                      }
-                    ],
-                    "besonderheiten": []
-                  },
-                  {
-                    "id": 12,
-                    "label": [
-                      {
-                        "ids": {
-                          "database_table_3487": 2,
-                          "database_table_3488": 2
-                        },
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 6"
-                      }
-                    ],
-                    "hit_id": "hit_quire__12",
-                    "number": "6",
-                    "locus": "39r-46v",
-                    "library": [
-                      {
-                        "ids": {
-                          "database_table_3487": 2,
-                          "database_table_3488": 2
-                        },
-                        "value": "UBWÜ"
-                      }
-                    ],
-                    "locus_from": "39r",
-                    "locus_to": "46v",
-                    "manuscript": [
-                      {
-                        "id": 2,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46"
-                      }
-                    ],
-                    "quiremark": null,
-                    "written_height": null,
-                    "written_width": null,
-                    "written": "×",
-                    "hair_flesh": [],
-                    "ruling": "",
-                    "column": [
-                      {
-                        "id": 14743,
-                        "value": "1",
-                        "color": "darker-blue"
-                      }
-                    ],
-                    "note": "",
-                    "decoration": "",
-                    "quire_structure": "IV",
-                    "correct_number": null,
-                    "height": "235",
-                    "width": "170",
-                    "catchwords": false,
-                    "stratum": [
-                      {
-                        "id": 1,
-                        "value": "Cod. M. p. th. f. 46, Stratum 1"
-                      }
-                    ],
-                    "Last modified by": {
-                      "id": 86,
-                      "name": "Leon Pürstinger"
-                    },
-                    "Last modified": "2024-07-16T11:57:19.272245Z",
-                    "cod_units": [
-                      {
-                        "id": 3,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
-                      }
-                    ],
-                    "besonderheiten": []
-                  },
-                  {
-                    "id": 13,
-                    "label": [
-                      {
-                        "ids": {
-                          "database_table_3487": 2,
-                          "database_table_3488": 2
-                        },
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 7"
-                      }
-                    ],
-                    "hit_id": "hit_quire__13",
-                    "number": "7",
-                    "locus": "47r-52v",
-                    "library": [
-                      {
-                        "ids": {
-                          "database_table_3487": 2,
-                          "database_table_3488": 2
-                        },
-                        "value": "UBWÜ"
-                      }
-                    ],
-                    "locus_from": "47r",
-                    "locus_to": "52v",
-                    "manuscript": [
-                      {
-                        "id": 2,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46"
-                      }
-                    ],
-                    "quiremark": null,
-                    "written_height": null,
-                    "written_width": null,
-                    "written": "×",
-                    "hair_flesh": [],
-                    "ruling": "",
-                    "column": [
-                      {
-                        "id": 14743,
-                        "value": "1",
-                        "color": "darker-blue"
-                      }
-                    ],
-                    "note": "",
-                    "decoration": "",
-                    "quire_structure": "III",
-                    "correct_number": null,
-                    "height": "235",
-                    "width": "170",
-                    "catchwords": false,
-                    "stratum": [
-                      {
-                        "id": 1,
-                        "value": "Cod. M. p. th. f. 46, Stratum 1"
-                      }
-                    ],
-                    "Last modified by": {
-                      "id": 86,
-                      "name": "Leon Pürstinger"
-                    },
-                    "Last modified": "2024-07-16T11:57:19.277219Z",
-                    "cod_units": [
-                      {
-                        "id": 3,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
-                      }
-                    ],
-                    "besonderheiten": []
-                  },
-                  {
-                    "id": 14,
-                    "label": [
-                      {
-                        "ids": {
-                          "database_table_3487": 2,
-                          "database_table_3488": 2
-                        },
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 8"
-                      }
-                    ],
-                    "hit_id": "hit_quire__14",
-                    "number": "8",
-                    "locus": "53r-58v",
-                    "library": [
-                      {
-                        "ids": {
-                          "database_table_3487": 2,
-                          "database_table_3488": 2
-                        },
-                        "value": "UBWÜ"
-                      }
-                    ],
-                    "locus_from": "53r",
-                    "locus_to": "58v",
-                    "manuscript": [
-                      {
-                        "id": 2,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46"
-                      }
-                    ],
-                    "quiremark": null,
-                    "written_height": null,
-                    "written_width": null,
-                    "written": "×",
-                    "hair_flesh": [],
-                    "ruling": "",
-                    "column": [
-                      {
-                        "id": 14743,
-                        "value": "1",
-                        "color": "darker-blue"
-                      }
-                    ],
-                    "note": "",
-                    "decoration": "",
-                    "quire_structure": "III",
-                    "correct_number": null,
-                    "height": "235",
-                    "width": "170",
-                    "catchwords": false,
-                    "stratum": [
-                      {
-                        "id": 1,
-                        "value": "Cod. M. p. th. f. 46, Stratum 1"
-                      }
-                    ],
-                    "Last modified by": {
-                      "id": 86,
-                      "name": "Leon Pürstinger"
-                    },
-                    "Last modified": "2024-07-16T11:57:19.282265Z",
-                    "cod_units": [
-                      {
-                        "id": 3,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
-                      }
-                    ],
-                    "besonderheiten": []
-                  },
-                  {
-                    "id": 15,
-                    "label": [
-                      {
-                        "ids": {
-                          "database_table_3487": 2,
-                          "database_table_3488": 2
-                        },
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 9"
-                      }
-                    ],
-                    "hit_id": "hit_quire__15",
-                    "number": "9",
-                    "locus": "59r-66v",
-                    "library": [
-                      {
-                        "ids": {
-                          "database_table_3487": 2,
-                          "database_table_3488": 2
-                        },
-                        "value": "UBWÜ"
-                      }
-                    ],
-                    "locus_from": "59r",
-                    "locus_to": "66v",
-                    "manuscript": [
-                      {
-                        "id": 2,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46"
-                      }
-                    ],
-                    "quiremark": null,
-                    "written_height": null,
-                    "written_width": null,
-                    "written": "×",
-                    "hair_flesh": [],
-                    "ruling": "",
-                    "column": [
-                      {
-                        "id": 14743,
-                        "value": "1",
-                        "color": "darker-blue"
-                      }
-                    ],
-                    "note": "",
-                    "decoration": "",
-                    "quire_structure": "IV",
-                    "correct_number": null,
-                    "height": "235",
-                    "width": "170",
-                    "catchwords": false,
-                    "stratum": [
-                      {
-                        "id": 1,
-                        "value": "Cod. M. p. th. f. 46, Stratum 1"
-                      }
-                    ],
-                    "Last modified by": {
-                      "id": 86,
-                      "name": "Leon Pürstinger"
-                    },
-                    "Last modified": "2024-07-16T11:57:19.287127Z",
-                    "cod_units": [
-                      {
-                        "id": 3,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
-                      }
-                    ],
-                    "besonderheiten": []
-                  },
-                  {
-                    "id": 16,
-                    "label": [
-                      {
-                        "ids": {
-                          "database_table_3487": 2,
-                          "database_table_3488": 2
-                        },
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 10"
-                      }
-                    ],
-                    "hit_id": "hit_quire__16",
-                    "number": "10",
-                    "locus": "67r-74v",
-                    "library": [
-                      {
-                        "ids": {
-                          "database_table_3487": 2,
-                          "database_table_3488": 2
-                        },
-                        "value": "UBWÜ"
-                      }
-                    ],
-                    "locus_from": "67r",
-                    "locus_to": "74v",
-                    "manuscript": [
-                      {
-                        "id": 2,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46"
-                      }
-                    ],
-                    "quiremark": null,
-                    "written_height": null,
-                    "written_width": null,
-                    "written": "×",
-                    "hair_flesh": [],
-                    "ruling": "",
-                    "column": [
-                      {
-                        "id": 14743,
-                        "value": "1",
-                        "color": "darker-blue"
-                      }
-                    ],
-                    "note": "",
-                    "decoration": "",
-                    "quire_structure": "IV",
-                    "correct_number": null,
-                    "height": "235",
-                    "width": "170",
-                    "catchwords": false,
-                    "stratum": [
-                      {
-                        "id": 1,
-                        "value": "Cod. M. p. th. f. 46, Stratum 1"
-                      }
-                    ],
-                    "Last modified by": {
-                      "id": 86,
-                      "name": "Leon Pürstinger"
-                    },
-                    "Last modified": "2024-07-16T11:57:19.291937Z",
-                    "cod_units": [
-                      {
-                        "id": 3,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
-                      }
-                    ],
-                    "besonderheiten": []
-                  },
-                  {
-                    "id": 17,
-                    "label": [
-                      {
-                        "ids": {
-                          "database_table_3487": 2,
-                          "database_table_3488": 2
-                        },
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 11"
-                      }
-                    ],
-                    "hit_id": "hit_quire__17",
-                    "number": "11",
-                    "locus": "75r-83v",
-                    "library": [
-                      {
-                        "ids": {
-                          "database_table_3487": 2,
-                          "database_table_3488": 2
-                        },
-                        "value": "UBWÜ"
-                      }
-                    ],
-                    "locus_from": "75r",
-                    "locus_to": "83v",
-                    "manuscript": [
-                      {
-                        "id": 2,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46"
-                      }
-                    ],
-                    "quiremark": null,
-                    "written_height": null,
-                    "written_width": null,
-                    "written": "×",
-                    "hair_flesh": [],
-                    "ruling": "",
-                    "column": [
-                      {
-                        "id": 14743,
-                        "value": "1",
-                        "color": "darker-blue"
-                      }
-                    ],
-                    "note": "",
-                    "decoration": "",
-                    "quire_structure": "IV + 1 Bl. TBD!",
-                    "correct_number": null,
-                    "height": "235",
-                    "width": "170",
-                    "catchwords": false,
-                    "stratum": [
-                      {
-                        "id": 1,
-                        "value": "Cod. M. p. th. f. 46, Stratum 1"
-                      }
-                    ],
-                    "Last modified by": {
-                      "id": 86,
-                      "name": "Leon Pürstinger"
-                    },
-                    "Last modified": "2024-07-16T11:57:19.296779Z",
-                    "cod_units": [
-                      {
-                        "id": 3,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
-                      }
-                    ],
-                    "besonderheiten": []
-                  },
-                  {
-                    "id": 18,
-                    "label": [
-                      {
-                        "ids": {
-                          "database_table_3487": 2,
-                          "database_table_3488": 2
-                        },
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 12"
-                      }
-                    ],
-                    "hit_id": "hit_quire__18",
-                    "number": "12",
-                    "locus": "84r-89v",
-                    "library": [
-                      {
-                        "ids": {
-                          "database_table_3487": 2,
-                          "database_table_3488": 2
-                        },
-                        "value": "UBWÜ"
-                      }
-                    ],
-                    "locus_from": "84r",
-                    "locus_to": "89v",
-                    "manuscript": [
-                      {
-                        "id": 2,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46"
-                      }
-                    ],
-                    "quiremark": null,
-                    "written_height": null,
-                    "written_width": null,
-                    "written": "×",
-                    "hair_flesh": [],
-                    "ruling": "",
-                    "column": [
-                      {
-                        "id": 14743,
-                        "value": "1",
-                        "color": "darker-blue"
-                      }
-                    ],
-                    "note": "",
-                    "decoration": "",
-                    "quire_structure": "III TBD",
-                    "correct_number": null,
-                    "height": "235",
-                    "width": "170",
-                    "catchwords": false,
-                    "stratum": [
-                      {
-                        "id": 1,
-                        "value": "Cod. M. p. th. f. 46, Stratum 1"
-                      }
-                    ],
-                    "Last modified by": {
-                      "id": 86,
-                      "name": "Leon Pürstinger"
-                    },
-                    "Last modified": "2024-07-16T11:57:19.301268Z",
-                    "cod_units": [
-                      {
-                        "id": 3,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
-                      }
-                    ],
-                    "besonderheiten": []
-                  },
-                  {
-                    "id": 19,
-                    "label": [
-                      {
-                        "ids": {
-                          "database_table_3487": 2,
-                          "database_table_3488": 2
-                        },
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 13"
-                      }
-                    ],
-                    "hit_id": "hit_quire__19",
-                    "number": "13",
-                    "locus": "90r-97v",
-                    "library": [
-                      {
-                        "ids": {
-                          "database_table_3487": 2,
-                          "database_table_3488": 2
-                        },
-                        "value": "UBWÜ"
-                      }
-                    ],
-                    "locus_from": "90r",
-                    "locus_to": "97v",
-                    "manuscript": [
-                      {
-                        "id": 2,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46"
-                      }
-                    ],
-                    "quiremark": null,
-                    "written_height": null,
-                    "written_width": null,
-                    "written": "×",
-                    "hair_flesh": [],
-                    "ruling": "",
-                    "column": [
-                      {
-                        "id": 14743,
-                        "value": "1",
-                        "color": "darker-blue"
-                      }
-                    ],
-                    "note": "",
-                    "decoration": "",
-                    "quire_structure": "IV",
-                    "correct_number": null,
-                    "height": "235",
-                    "width": "170",
-                    "catchwords": false,
-                    "stratum": [
-                      {
-                        "id": 1,
-                        "value": "Cod. M. p. th. f. 46, Stratum 1"
-                      }
-                    ],
-                    "Last modified by": {
-                      "id": 86,
-                      "name": "Leon Pürstinger"
-                    },
-                    "Last modified": "2024-07-16T11:57:19.305993Z",
-                    "cod_units": [
-                      {
-                        "id": 3,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
-                      }
-                    ],
-                    "besonderheiten": []
-                  }
-                ],
-                "number": "1",
-                "prov_place_old": [
-                  {
-                    "id": 5,
-                    "value": "Saint-Amand-les-Eaux"
-                  }
-                ],
-                "Last modified by": {
-                  "id": 36,
-                  "name": "Ivana Dobcheva"
-                },
-                "Last modified": "2025-01-22",
-                "orig_date": [],
-                "quires_number": null,
-                "heigth": null,
-                "lines_number": null,
-                "decorations": "",
-                "codicological_reworking": [],
-                "basic_structure": [],
-                "written_width": null,
-                "written_height": null,
-                "width": null,
-                "columns": [],
-                "cod_unit_placed": [
-                  {
-                    "id": 1,
-                    "hit_id": "hit_codunit_place__1",
-                    "cod_unit": [
-                      {
-                        "id": 3,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
-                      }
-                    ],
-                    "place": [
-                      {
-                        "id": 5,
-                        "name": "Saint-Amand-les-Eaux",
-                        "geonames_url": "https://www.geonames.org/2981839/saint-amand-les-eaux.html",
-                        "hit_id": "hit_place__5",
-                        "wikidata_url": "https://www.wikidata.org/wiki/Q334131",
-                        "country": [
-                          {
-                            "id": 14,
-                            "name": "Frankreich",
-                            "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
-                            "hit_id": "hit_place__14",
-                            "wikidata_url": "",
-                            "country": [],
-                            "Last modified by": {
-                              "id": 36,
-                              "name": "Ivana Dobcheva"
-                            },
-                            "Last modified": "2024-07-11"
-                          }
-                        ],
-                        "Last modified by": {
-                          "id": 36,
-                          "name": "Ivana Dobcheva"
-                        },
-                        "Last modified": "2024-07-11"
-                      }
-                    ],
-                    "from": [],
-                    "type": [
-                      {
-                        "id": 18150,
-                        "value": "orig",
-                        "color": "deep-dark-orange"
-                      }
-                    ],
-                    "till": [],
-                    "ms": [
-                      {
-                        "id": 2,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46"
-                      }
-                    ],
-                    "authority": [
-                      {
-                        "id": 2,
-                        "value": "Bischoff"
-                      }
-                    ],
-                    "page": null,
-                    "uncertain_from": false,
-                    "unceratin_till": false
-                  },
-                  {
-                    "id": 2,
-                    "hit_id": "hit_codunit_place__2",
-                    "cod_unit": [
-                      {
-                        "id": 3,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
-                      }
-                    ],
-                    "place": [
-                      {
-                        "id": 3,
-                        "name": "Salzburg",
-                        "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
-                        "hit_id": "hit_place__3",
-                        "wikidata_url": "",
-                        "country": [
-                          {
-                            "id": 1,
-                            "name": "Österreich",
-                            "geonames_url": "https://www.geonames.org/2782113/republic-of-austria.html",
-                            "hit_id": "hit_place__1",
-                            "wikidata_url": "https://www.wikidata.org/wiki/Q40",
-                            "country": [],
-                            "Last modified by": {
-                              "id": 36,
-                              "name": "Ivana Dobcheva"
-                            },
-                            "Last modified": "2024-06-09"
-                          }
-                        ],
-                        "Last modified by": {
-                          "id": 36,
-                          "name": "Ivana Dobcheva"
-                        },
-                        "Last modified": "2024-07-11"
-                      }
-                    ],
-                    "from": [],
-                    "type": [
-                      {
-                        "id": 18151,
-                        "value": "prov",
-                        "color": "darker-blue"
-                      }
-                    ],
-                    "till": [],
-                    "ms": [
-                      {
-                        "id": 2,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46"
-                      }
-                    ],
-                    "authority": [],
-                    "page": null,
-                    "uncertain_from": false,
-                    "unceratin_till": false
-                  }
-                ],
-                "prov_place": [
-                  {
-                    "ids": {
-                      "database_table_3492": 3,
-                      "database_table_3840": 2
-                    },
-                    "value": "Salzburg"
-                  },
-                  {
-                    "ids": {
-                      "database_table_3492": 5,
-                      "database_table_3840": 1
-                    },
-                    "value": "Saint-Amand-les-Eaux"
-                  }
-                ]
-              }
-            ],
-            "Last modified": "2024-11-19",
-            "Last modified by": {
-              "id": 86,
-              "name": "Leon Pürstinger"
-            },
-            "note": null,
-            "hand": [
-              {
-                "ids": {
-                  "database_table_3487": 2,
-                  "database_table_3488": 2
-                },
-                "value": "UBWÜ, Cod. M. p. th. f. 46_H. 2"
-              },
-              {
-                "ids": {
-                  "database_table_3487": 2,
-                  "database_table_3488": 2
-                },
-                "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
-              },
-              {
-                "ids": {
-                  "database_table_3487": 2,
-                  "database_table_3488": 2
-                },
-                "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
-              },
-              {
-                "ids": {
-                  "database_table_3487": 2,
-                  "database_table_3488": 2
-                },
-                "value": "UBWÜ, Cod. M. p. th. f. 46_H. 2"
-              }
-            ],
-            "decoration": [
-              {
-                "id": 15104,
-                "value": "Unziale_Rot",
-                "color": "darker-pink"
-              }
-            ],
-            "facs_url": "",
-            "form": [],
-            "form_note": null,
-            "column": [],
-            "role": null,
-            "commented_msitem": [],
-            "function_role": []
-          }
-        ],
-        "role": [
-          {
-            "id": 15378,
-            "value": "\"Erweiterer\"",
-            "color": "darker-cyan"
-          }
-        ],
-        "locus": "",
-        "text": [
-          {
-            "ids": {
-              "database_table_3489": 4,
-              "database_table_3491": 5
-            },
-            "value": "De cyclo paschali"
-          }
-        ],
-        "locus_text": [
-          {
-            "id": 5,
-            "value": "1v-21r"
-          }
-        ],
-        "Last modified by": {
-          "id": 86,
-          "name": "Leon Pürstinger"
-        },
-        "Last modified": "2024-10-09",
-        "locus_layout": [],
-        "function": [],
         "role_to_ms": []
       },
       {
@@ -3262,9 +1631,21 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-11",
-                "locus_layout": [],
-                "function": [],
+                "Last modified": "2025-01-31",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
+                    "color": "green"
+                  }
+                ],
+                "function": [
+                  {
+                    "id": 18168,
+                    "value": "anlegend (?) = inhaltlich?",
+                    "color": "light-blue"
+                  }
+                ],
                 "role_to_ms": []
               },
               {
@@ -3309,9 +1690,21 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-11",
-                "locus_layout": [],
-                "function": [],
+                "Last modified": "2025-01-31",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
+                    "color": "green"
+                  }
+                ],
+                "function": [
+                  {
+                    "id": 18168,
+                    "value": "anlegend (?) = inhaltlich?",
+                    "color": "light-blue"
+                  }
+                ],
                 "role_to_ms": []
               },
               {
@@ -3356,9 +1749,21 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-11",
-                "locus_layout": [],
-                "function": [],
+                "Last modified": "2025-01-31",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
+                    "color": "green"
+                  }
+                ],
+                "function": [
+                  {
+                    "id": 18168,
+                    "value": "anlegend (?) = inhaltlich?",
+                    "color": "light-blue"
+                  }
+                ],
                 "role_to_ms": []
               }
             ],
@@ -4577,9 +2982,21 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-07-11",
-        "locus_layout": [],
-        "function": [],
+        "Last modified": "2025-01-31",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum (einspaltig/mehrspaltig)",
+            "color": "green"
+          }
+        ],
+        "function": [
+          {
+            "id": 18168,
+            "value": "anlegend (?) = inhaltlich?",
+            "color": "light-blue"
+          }
+        ],
         "role_to_ms": []
       },
       {
@@ -4739,9 +3156,21 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-11",
-                "locus_layout": [],
-                "function": [],
+                "Last modified": "2025-01-31",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
+                    "color": "green"
+                  }
+                ],
+                "function": [
+                  {
+                    "id": 18168,
+                    "value": "anlegend (?) = inhaltlich?",
+                    "color": "light-blue"
+                  }
+                ],
                 "role_to_ms": []
               },
               {
@@ -4786,9 +3215,21 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-11",
-                "locus_layout": [],
-                "function": [],
+                "Last modified": "2025-01-31",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
+                    "color": "green"
+                  }
+                ],
+                "function": [
+                  {
+                    "id": 18168,
+                    "value": "anlegend (?) = inhaltlich?",
+                    "color": "light-blue"
+                  }
+                ],
                 "role_to_ms": []
               },
               {
@@ -4833,9 +3274,21 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-11",
-                "locus_layout": [],
-                "function": [],
+                "Last modified": "2025-01-31",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
+                    "color": "green"
+                  }
+                ],
+                "function": [
+                  {
+                    "id": 18168,
+                    "value": "anlegend (?) = inhaltlich?",
+                    "color": "light-blue"
+                  }
+                ],
                 "role_to_ms": []
               }
             ],
@@ -6054,9 +4507,21 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-07-11",
-        "locus_layout": [],
-        "function": [],
+        "Last modified": "2025-01-31",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum (einspaltig/mehrspaltig)",
+            "color": "green"
+          }
+        ],
+        "function": [
+          {
+            "id": 18168,
+            "value": "anlegend (?) = inhaltlich?",
+            "color": "light-blue"
+          }
+        ],
         "role_to_ms": []
       },
       {
@@ -6216,9 +4681,21 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-11",
-                "locus_layout": [],
-                "function": [],
+                "Last modified": "2025-01-31",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
+                    "color": "green"
+                  }
+                ],
+                "function": [
+                  {
+                    "id": 18168,
+                    "value": "anlegend (?) = inhaltlich?",
+                    "color": "light-blue"
+                  }
+                ],
                 "role_to_ms": []
               },
               {
@@ -6263,9 +4740,21 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-11",
-                "locus_layout": [],
-                "function": [],
+                "Last modified": "2025-01-31",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
+                    "color": "green"
+                  }
+                ],
+                "function": [
+                  {
+                    "id": 18168,
+                    "value": "anlegend (?) = inhaltlich?",
+                    "color": "light-blue"
+                  }
+                ],
                 "role_to_ms": []
               },
               {
@@ -6310,9 +4799,21 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-11",
-                "locus_layout": [],
-                "function": [],
+                "Last modified": "2025-01-31",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
+                    "color": "green"
+                  }
+                ],
+                "function": [
+                  {
+                    "id": 18168,
+                    "value": "anlegend (?) = inhaltlich?",
+                    "color": "light-blue"
+                  }
+                ],
                 "role_to_ms": []
               }
             ],
@@ -7531,9 +6032,21 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-07-11",
-        "locus_layout": [],
-        "function": [],
+        "Last modified": "2025-01-31",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum (einspaltig/mehrspaltig)",
+            "color": "green"
+          }
+        ],
+        "function": [
+          {
+            "id": 18168,
+            "value": "anlegend (?) = inhaltlich?",
+            "color": "light-blue"
+          }
+        ],
         "role_to_ms": []
       },
       {
@@ -11834,16 +10347,28 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-11-19",
+                "Last modified": "2025-01-31",
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
-                "function": [],
-                "role_to_ms": []
+                "function": [
+                  {
+                    "id": 18155,
+                    "value": "konzeptbezogen",
+                    "color": "darker-brown"
+                  }
+                ],
+                "role_to_ms": [
+                  {
+                    "id": 18165,
+                    "value": "Erweiterung",
+                    "color": "darker-blue"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -13041,16 +11566,28 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-11-19",
+        "Last modified": "2025-01-31",
         "locus_layout": [
           {
             "id": 15841,
-            "value": "Schriftraum (einspaltig/ausfüllend))",
+            "value": "Schriftraum (einspaltig/mehrspaltig)",
             "color": "green"
           }
         ],
-        "function": [],
-        "role_to_ms": []
+        "function": [
+          {
+            "id": 18155,
+            "value": "konzeptbezogen",
+            "color": "darker-brown"
+          }
+        ],
+        "role_to_ms": [
+          {
+            "id": 18165,
+            "value": "Erweiterung",
+            "color": "darker-blue"
+          }
+        ]
       },
       {
         "id": 11,
@@ -13141,9 +11678,9 @@
                 ],
                 "role": [
                   {
-                    "id": 15378,
-                    "value": "\"Erweiterer\"",
-                    "color": "darker-cyan"
+                    "id": 14758,
+                    "value": "Schreiber",
+                    "color": "darker-red"
                   }
                 ],
                 "locus": "",
@@ -13166,10 +11703,28 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-12-13",
-                "locus_layout": [],
-                "function": [],
-                "role_to_ms": []
+                "Last modified": "2025-01-31",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
+                    "color": "green"
+                  }
+                ],
+                "function": [
+                  {
+                    "id": 18156,
+                    "value": "inhaltlich",
+                    "color": "dark-blue"
+                  }
+                ],
+                "role_to_ms": [
+                  {
+                    "id": 18165,
+                    "value": "Erweiterung",
+                    "color": "darker-blue"
+                  }
+                ]
               },
               {
                 "id": 16,
@@ -13188,9 +11743,9 @@
                 ],
                 "role": [
                   {
-                    "id": 14763,
-                    "value": "Annotation",
-                    "color": "cyan"
+                    "id": 14758,
+                    "value": "Schreiber",
+                    "color": "darker-red"
                   }
                 ],
                 "locus": "",
@@ -13213,10 +11768,28 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-11",
-                "locus_layout": [],
-                "function": [],
-                "role_to_ms": []
+                "Last modified": "2025-01-31",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
+                    "color": "green"
+                  }
+                ],
+                "function": [
+                  {
+                    "id": 18156,
+                    "value": "inhaltlich",
+                    "color": "dark-blue"
+                  }
+                ],
+                "role_to_ms": [
+                  {
+                    "id": 18165,
+                    "value": "Erweiterung",
+                    "color": "darker-blue"
+                  }
+                ]
               },
               {
                 "id": 82,
@@ -13235,9 +11808,9 @@
                 ],
                 "role": [
                   {
-                    "id": 14763,
-                    "value": "Annotation",
-                    "color": "cyan"
+                    "id": 14758,
+                    "value": "Schreiber",
+                    "color": "darker-red"
                   }
                 ],
                 "locus": "17r",
@@ -13260,10 +11833,28 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-08-05",
-                "locus_layout": [],
-                "function": [],
-                "role_to_ms": []
+                "Last modified": "2025-01-31",
+                "locus_layout": [
+                  {
+                    "id": 18158,
+                    "value": "graphisch divers",
+                    "color": "darker-green"
+                  }
+                ],
+                "function": [
+                  {
+                    "id": 18156,
+                    "value": "inhaltlich",
+                    "color": "dark-blue"
+                  }
+                ],
+                "role_to_ms": [
+                  {
+                    "id": 18165,
+                    "value": "Erweiterung",
+                    "color": "darker-blue"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -14409,7 +13000,7 @@
                 ]
               }
             ],
-            "Last modified": "2024-08-05",
+            "Last modified": "2025-01-31",
             "Last modified by": {
               "id": 86,
               "name": "Leon Pürstinger"
@@ -14443,16 +13034,31 @@
             "form": [],
             "form_note": null,
             "column": [],
-            "role": null,
-            "commented_msitem": [],
-            "function_role": []
+            "role": {
+              "id": 18159,
+              "value": "Erweiterung",
+              "color": "pink"
+            },
+            "commented_msitem": [
+              {
+                "id": 5,
+                "value": "cod_m_p_th_f_46__5"
+              }
+            ],
+            "function_role": [
+              {
+                "id": 18170,
+                "value": "inhaltlich",
+                "color": "pink"
+              }
+            ]
           }
         ],
         "role": [
           {
-            "id": 15378,
-            "value": "\"Erweiterer\"",
-            "color": "darker-cyan"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ],
         "locus": "",
@@ -14475,10 +13081,28 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-12-13",
-        "locus_layout": [],
-        "function": [],
-        "role_to_ms": []
+        "Last modified": "2025-01-31",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum (einspaltig/mehrspaltig)",
+            "color": "green"
+          }
+        ],
+        "function": [
+          {
+            "id": 18156,
+            "value": "inhaltlich",
+            "color": "dark-blue"
+          }
+        ],
+        "role_to_ms": [
+          {
+            "id": 18165,
+            "value": "Erweiterung",
+            "color": "darker-blue"
+          }
+        ]
       },
       {
         "id": 16,
@@ -14569,9 +13193,9 @@
                 ],
                 "role": [
                   {
-                    "id": 15378,
-                    "value": "\"Erweiterer\"",
-                    "color": "darker-cyan"
+                    "id": 14758,
+                    "value": "Schreiber",
+                    "color": "darker-red"
                   }
                 ],
                 "locus": "",
@@ -14594,10 +13218,28 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-12-13",
-                "locus_layout": [],
-                "function": [],
-                "role_to_ms": []
+                "Last modified": "2025-01-31",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
+                    "color": "green"
+                  }
+                ],
+                "function": [
+                  {
+                    "id": 18156,
+                    "value": "inhaltlich",
+                    "color": "dark-blue"
+                  }
+                ],
+                "role_to_ms": [
+                  {
+                    "id": 18165,
+                    "value": "Erweiterung",
+                    "color": "darker-blue"
+                  }
+                ]
               },
               {
                 "id": 16,
@@ -14616,9 +13258,9 @@
                 ],
                 "role": [
                   {
-                    "id": 14763,
-                    "value": "Annotation",
-                    "color": "cyan"
+                    "id": 14758,
+                    "value": "Schreiber",
+                    "color": "darker-red"
                   }
                 ],
                 "locus": "",
@@ -14641,10 +13283,28 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-11",
-                "locus_layout": [],
-                "function": [],
-                "role_to_ms": []
+                "Last modified": "2025-01-31",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
+                    "color": "green"
+                  }
+                ],
+                "function": [
+                  {
+                    "id": 18156,
+                    "value": "inhaltlich",
+                    "color": "dark-blue"
+                  }
+                ],
+                "role_to_ms": [
+                  {
+                    "id": 18165,
+                    "value": "Erweiterung",
+                    "color": "darker-blue"
+                  }
+                ]
               },
               {
                 "id": 82,
@@ -14663,9 +13323,9 @@
                 ],
                 "role": [
                   {
-                    "id": 14763,
-                    "value": "Annotation",
-                    "color": "cyan"
+                    "id": 14758,
+                    "value": "Schreiber",
+                    "color": "darker-red"
                   }
                 ],
                 "locus": "17r",
@@ -14688,10 +13348,28 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-08-05",
-                "locus_layout": [],
-                "function": [],
-                "role_to_ms": []
+                "Last modified": "2025-01-31",
+                "locus_layout": [
+                  {
+                    "id": 18158,
+                    "value": "graphisch divers",
+                    "color": "darker-green"
+                  }
+                ],
+                "function": [
+                  {
+                    "id": 18156,
+                    "value": "inhaltlich",
+                    "color": "dark-blue"
+                  }
+                ],
+                "role_to_ms": [
+                  {
+                    "id": 18165,
+                    "value": "Erweiterung",
+                    "color": "darker-blue"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -15837,7 +14515,7 @@
                 ]
               }
             ],
-            "Last modified": "2024-08-05",
+            "Last modified": "2025-01-31",
             "Last modified by": {
               "id": 86,
               "name": "Leon Pürstinger"
@@ -15871,16 +14549,31 @@
             "form": [],
             "form_note": null,
             "column": [],
-            "role": null,
-            "commented_msitem": [],
-            "function_role": []
+            "role": {
+              "id": 18159,
+              "value": "Erweiterung",
+              "color": "pink"
+            },
+            "commented_msitem": [
+              {
+                "id": 5,
+                "value": "cod_m_p_th_f_46__5"
+              }
+            ],
+            "function_role": [
+              {
+                "id": 18170,
+                "value": "inhaltlich",
+                "color": "pink"
+              }
+            ]
           }
         ],
         "role": [
           {
-            "id": 14763,
-            "value": "Annotation",
-            "color": "cyan"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ],
         "locus": "",
@@ -15903,10 +14596,28 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-07-11",
-        "locus_layout": [],
-        "function": [],
-        "role_to_ms": []
+        "Last modified": "2025-01-31",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum (einspaltig/mehrspaltig)",
+            "color": "green"
+          }
+        ],
+        "function": [
+          {
+            "id": 18156,
+            "value": "inhaltlich",
+            "color": "dark-blue"
+          }
+        ],
+        "role_to_ms": [
+          {
+            "id": 18165,
+            "value": "Erweiterung",
+            "color": "darker-blue"
+          }
+        ]
       }
     ],
     "note": "Diverse Schreiber haben in Salzburg Annotationen, Korrekturen und Marginaltexte eingefügt. Das Gros dieser Bearbeitungen wurde durch den magister Baldo vorgenommen.",
@@ -16112,24 +14823,19 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-10-10",
+                "Last modified": "2025-01-31",
                 "locus_layout": [
                   {
-                    "id": 15097,
-                    "value": "interlinear",
-                    "color": "darker-pink"
+                    "id": 15382,
+                    "value": "marginal unten",
+                    "color": "cyan"
                   }
                 ],
                 "function": [
                   {
-                    "id": 15098,
-                    "value": "grammatikalisch",
-                    "color": "red"
-                  },
-                  {
-                    "id": 15838,
-                    "value": "orthografisch",
-                    "color": "darker-red"
+                    "id": 18156,
+                    "value": "inhaltlich",
+                    "color": "dark-blue"
                   }
                 ],
                 "role_to_ms": []
@@ -16156,7 +14862,7 @@
                     "color": "darker-brown"
                   }
                 ],
-                "locus": "",
+                "locus": "119r",
                 "text": [
                   {
                     "ids": {
@@ -16176,9 +14882,21 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-10-09",
-                "locus_layout": [],
-                "function": [],
+                "Last modified": "2025-01-31",
+                "locus_layout": [
+                  {
+                    "id": 15097,
+                    "value": "interlinear",
+                    "color": "darker-pink"
+                  }
+                ],
+                "function": [
+                  {
+                    "id": 18156,
+                    "value": "inhaltlich",
+                    "color": "dark-blue"
+                  }
+                ],
                 "role_to_ms": []
               },
               {
@@ -16223,9 +14941,80 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-11",
-                "locus_layout": [],
-                "function": [],
+                "Last modified": "2025-01-31",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
+                    "color": "green"
+                  }
+                ],
+                "function": [
+                  {
+                    "id": 18168,
+                    "value": "anlegend (?) = inhaltlich?",
+                    "color": "light-blue"
+                  }
+                ],
+                "role_to_ms": []
+              },
+              {
+                "id": 164,
+                "hit_id": "hit_hands_role__164",
+                "hand": [
+                  {
+                    "id": 5,
+                    "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
+                  }
+                ],
+                "ms_item": [
+                  {
+                    "id": 11,
+                    "value": "cod_m_p_th_f_46__11"
+                  }
+                ],
+                "role": [
+                  {
+                    "id": 15376,
+                    "value": "Kommentator",
+                    "color": "darker-green"
+                  }
+                ],
+                "locus": "119r",
+                "text": [
+                  {
+                    "ids": {
+                      "database_table_3489": 7,
+                      "database_table_3491": 11
+                    },
+                    "value": "De temporum ratione"
+                  }
+                ],
+                "locus_text": [
+                  {
+                    "id": 11,
+                    "value": "98r-144v"
+                  }
+                ],
+                "Last modified by": {
+                  "id": 86,
+                  "name": "Leon Pürstinger"
+                },
+                "Last modified": "2025-01-31",
+                "locus_layout": [
+                  {
+                    "id": 18172,
+                    "value": "auf der Zeile",
+                    "color": "dark-yellow"
+                  }
+                ],
+                "function": [
+                  {
+                    "id": 18156,
+                    "value": "inhaltlich",
+                    "color": "dark-blue"
+                  }
+                ],
                 "role_to_ms": []
               }
             ],
@@ -16867,6 +15656,13 @@
                   "database_table_3488": 2
                 },
                 "value": "UBWÜ, Cod. M. p. th. f. 46_H. 4"
+              },
+              {
+                "ids": {
+                  "database_table_3487": 2,
+                  "database_table_3488": 2
+                },
+                "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
               }
             ],
             "decoration": [],
@@ -16906,9 +15702,21 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-07-11",
-        "locus_layout": [],
-        "function": [],
+        "Last modified": "2025-01-31",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum (einspaltig/mehrspaltig)",
+            "color": "green"
+          }
+        ],
+        "function": [
+          {
+            "id": 18168,
+            "value": "anlegend (?) = inhaltlich?",
+            "color": "light-blue"
+          }
+        ],
         "role_to_ms": []
       }
     ],
@@ -17079,10 +15887,28 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-11",
-                "locus_layout": [],
-                "function": [],
-                "role_to_ms": []
+                "Last modified": "2025-01-31",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
+                    "color": "green"
+                  }
+                ],
+                "function": [
+                  {
+                    "id": 18168,
+                    "value": "anlegend (?) = inhaltlich?",
+                    "color": "light-blue"
+                  }
+                ],
+                "role_to_ms": [
+                  {
+                    "id": 18165,
+                    "value": "Erweiterung",
+                    "color": "darker-blue"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -17281,10 +16107,28 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-07-11",
-        "locus_layout": [],
-        "function": [],
-        "role_to_ms": []
+        "Last modified": "2025-01-31",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum (einspaltig/mehrspaltig)",
+            "color": "green"
+          }
+        ],
+        "function": [
+          {
+            "id": 18168,
+            "value": "anlegend (?) = inhaltlich?",
+            "color": "light-blue"
+          }
+        ],
+        "role_to_ms": [
+          {
+            "id": 18165,
+            "value": "Erweiterung",
+            "color": "darker-blue"
+          }
+        ]
       },
       {
         "id": 23,
@@ -17415,10 +16259,28 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-11",
-                "locus_layout": [],
-                "function": [],
-                "role_to_ms": []
+                "Last modified": "2025-01-31",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
+                    "color": "green"
+                  }
+                ],
+                "function": [
+                  {
+                    "id": 18168,
+                    "value": "anlegend (?) = inhaltlich?",
+                    "color": "light-blue"
+                  }
+                ],
+                "role_to_ms": [
+                  {
+                    "id": 18165,
+                    "value": "Erweiterung",
+                    "color": "darker-blue"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -17617,10 +16479,28 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-07-11",
-        "locus_layout": [],
-        "function": [],
-        "role_to_ms": []
+        "Last modified": "2025-01-31",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum (einspaltig/mehrspaltig)",
+            "color": "green"
+          }
+        ],
+        "function": [
+          {
+            "id": 18168,
+            "value": "anlegend (?) = inhaltlich?",
+            "color": "light-blue"
+          }
+        ],
+        "role_to_ms": [
+          {
+            "id": 18165,
+            "value": "Erweiterung",
+            "color": "darker-blue"
+          }
+        ]
       }
     ],
     "note": "Ein einzelnes, in Saint-Amand beschriebenes Blatt wurde der Handschrift nach Fertigstellung des primären Textbestandes entweder noch in Saint-Amand oder bereits in Salzburg hinzugefügt.",
@@ -21303,7 +20183,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2025-01-30",
+                "Last modified": "2025-01-31",
                 "locus_layout": [
                   {
                     "id": 15382,
@@ -21311,7 +20191,13 @@
                     "color": "cyan"
                   }
                 ],
-                "function": [],
+                "function": [
+                  {
+                    "id": 15837,
+                    "value": "unabhängig",
+                    "color": "dark-purple"
+                  }
+                ],
                 "role_to_ms": [
                   {
                     "id": 18165,
@@ -22516,7 +21402,7 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2025-01-30",
+        "Last modified": "2025-01-31",
         "locus_layout": [
           {
             "id": 15382,
@@ -22524,7 +21410,13 @@
             "color": "cyan"
           }
         ],
-        "function": [],
+        "function": [
+          {
+            "id": 15837,
+            "value": "unabhängig",
+            "color": "dark-purple"
+          }
+        ],
         "role_to_ms": [
           {
             "id": 18165,
@@ -22598,9 +21490,9 @@
                 ],
                 "role": [
                   {
-                    "id": 14763,
-                    "value": "Annotation",
-                    "color": "cyan"
+                    "id": 14758,
+                    "value": "Schreiber",
+                    "color": "darker-red"
                   }
                 ],
                 "locus": "",
@@ -22623,10 +21515,28 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-15",
-                "locus_layout": [],
-                "function": [],
-                "role_to_ms": []
+                "Last modified": "2025-01-31",
+                "locus_layout": [
+                  {
+                    "id": 18158,
+                    "value": "graphisch divers",
+                    "color": "darker-green"
+                  }
+                ],
+                "function": [
+                  {
+                    "id": 15837,
+                    "value": "unabhängig",
+                    "color": "dark-purple"
+                  }
+                ],
+                "role_to_ms": [
+                  {
+                    "id": 18165,
+                    "value": "Erweiterung",
+                    "color": "darker-blue"
+                  }
+                ]
               }
             ],
             "cod_unit": [],
@@ -22657,9 +21567,9 @@
         ],
         "role": [
           {
-            "id": 14763,
-            "value": "Annotation",
-            "color": "cyan"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ],
         "locus": "",
@@ -22682,10 +21592,28 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-07-15",
-        "locus_layout": [],
-        "function": [],
-        "role_to_ms": []
+        "Last modified": "2025-01-31",
+        "locus_layout": [
+          {
+            "id": 18158,
+            "value": "graphisch divers",
+            "color": "darker-green"
+          }
+        ],
+        "function": [
+          {
+            "id": 15837,
+            "value": "unabhängig",
+            "color": "dark-purple"
+          }
+        ],
+        "role_to_ms": [
+          {
+            "id": 18165,
+            "value": "Erweiterung",
+            "color": "darker-blue"
+          }
+        ]
       }
     ],
     "note": "Stratum umfasst liturgische und teils neumierte Zusätze aus dem 11. Jahrhundert.",
@@ -23015,7 +21943,7 @@
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
@@ -24844,7 +23772,7 @@
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
@@ -26582,7 +25510,7 @@
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
@@ -28369,7 +27297,7 @@
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
@@ -30242,7 +29170,7 @@
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
@@ -31980,7 +30908,7 @@
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
@@ -33762,7 +32690,7 @@
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
@@ -35488,7 +34416,7 @@
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
@@ -37171,7 +36099,7 @@
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
@@ -38758,7 +37686,7 @@
         "locus_layout": [
           {
             "id": 15841,
-            "value": "Schriftraum (einspaltig/ausfüllend))",
+            "value": "Schriftraum (einspaltig/mehrspaltig)",
             "color": "green"
           }
         ],
@@ -38956,7 +37884,7 @@
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
@@ -40764,7 +39692,7 @@
         "locus_layout": [
           {
             "id": 15841,
-            "value": "Schriftraum (einspaltig/ausfüllend))",
+            "value": "Schriftraum (einspaltig/mehrspaltig)",
             "color": "green"
           }
         ],
@@ -40967,7 +39895,7 @@
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
@@ -42999,7 +41927,7 @@
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
@@ -43415,7 +42343,7 @@
         "locus_layout": [
           {
             "id": 15841,
-            "value": "Schriftraum (einspaltig/ausfüllend))",
+            "value": "Schriftraum (einspaltig/mehrspaltig)",
             "color": "green"
           }
         ],
@@ -43571,7 +42499,7 @@
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
@@ -44137,7 +43065,7 @@
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
@@ -44703,7 +43631,7 @@
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
@@ -50015,7 +48943,7 @@
                 "locus_layout": [
                   {
                     "id": 18158,
-                    "value": "Schriftraum (mehrspaltig, graphisch divers))",
+                    "value": "graphisch divers",
                     "color": "darker-green"
                   }
                 ],
@@ -50023,7 +48951,7 @@
                   {
                     "id": 18156,
                     "value": "inhaltlich",
-                    "color": "darker-blue"
+                    "color": "dark-blue"
                   }
                 ],
                 "role_to_ms": []
@@ -50146,7 +49074,7 @@
         "locus_layout": [
           {
             "id": 18158,
-            "value": "Schriftraum (mehrspaltig, graphisch divers))",
+            "value": "graphisch divers",
             "color": "darker-green"
           }
         ],
@@ -50154,7 +49082,7 @@
           {
             "id": 18156,
             "value": "inhaltlich",
-            "color": "darker-blue"
+            "color": "dark-blue"
           }
         ],
         "role_to_ms": []
@@ -50253,7 +49181,7 @@
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
@@ -50312,7 +49240,7 @@
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
@@ -50438,7 +49366,7 @@
         "locus_layout": [
           {
             "id": 15841,
-            "value": "Schriftraum (einspaltig/ausfüllend))",
+            "value": "Schriftraum (einspaltig/mehrspaltig)",
             "color": "green"
           }
         ],
@@ -50780,7 +49708,7 @@
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
@@ -51035,7 +49963,7 @@
                 "locus_layout": [
                   {
                     "id": 18158,
-                    "value": "Schriftraum (mehrspaltig, graphisch divers))",
+                    "value": "graphisch divers",
                     "color": "darker-green"
                   }
                 ],
@@ -51094,7 +50022,7 @@
                 "locus_layout": [
                   {
                     "id": 18158,
-                    "value": "Schriftraum (mehrspaltig, graphisch divers))",
+                    "value": "graphisch divers",
                     "color": "darker-green"
                   }
                 ],
@@ -51102,7 +50030,7 @@
                   {
                     "id": 18156,
                     "value": "inhaltlich",
-                    "color": "darker-blue"
+                    "color": "dark-blue"
                   },
                   {
                     "id": 18155,
@@ -51158,7 +50086,7 @@
                 "locus_layout": [
                   {
                     "id": 18158,
-                    "value": "Schriftraum (mehrspaltig, graphisch divers))",
+                    "value": "graphisch divers",
                     "color": "darker-green"
                   }
                 ],
@@ -51166,7 +50094,7 @@
                   {
                     "id": 18156,
                     "value": "inhaltlich",
-                    "color": "darker-blue"
+                    "color": "dark-blue"
                   },
                   {
                     "id": 18155,
@@ -51296,7 +50224,7 @@
         "locus_layout": [
           {
             "id": 18158,
-            "value": "Schriftraum (mehrspaltig, graphisch divers))",
+            "value": "graphisch divers",
             "color": "darker-green"
           }
         ],
@@ -51403,7 +50331,7 @@
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
@@ -51411,7 +50339,7 @@
                   {
                     "id": 18156,
                     "value": "inhaltlich",
-                    "color": "darker-blue"
+                    "color": "dark-blue"
                   }
                 ],
                 "role_to_ms": []
@@ -51534,7 +50462,7 @@
         "locus_layout": [
           {
             "id": 15841,
-            "value": "Schriftraum (einspaltig/ausfüllend))",
+            "value": "Schriftraum (einspaltig/mehrspaltig)",
             "color": "green"
           }
         ],
@@ -51542,7 +50470,7 @@
           {
             "id": 18156,
             "value": "inhaltlich",
-            "color": "darker-blue"
+            "color": "dark-blue"
           }
         ],
         "role_to_ms": []
@@ -51653,7 +50581,7 @@
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
@@ -51661,7 +50589,7 @@
                   {
                     "id": 18156,
                     "value": "inhaltlich",
-                    "color": "darker-blue"
+                    "color": "dark-blue"
                   }
                 ],
                 "role_to_ms": []
@@ -51772,7 +50700,7 @@
         "locus_layout": [
           {
             "id": 15841,
-            "value": "Schriftraum (einspaltig/ausfüllend))",
+            "value": "Schriftraum (einspaltig/mehrspaltig)",
             "color": "green"
           }
         ],
@@ -51780,7 +50708,7 @@
           {
             "id": 18156,
             "value": "inhaltlich",
-            "color": "darker-blue"
+            "color": "dark-blue"
           }
         ],
         "role_to_ms": []
@@ -52249,7 +51177,7 @@
                 "locus_layout": [
                   {
                     "id": 18158,
-                    "value": "Schriftraum (mehrspaltig, graphisch divers))",
+                    "value": "graphisch divers",
                     "color": "darker-green"
                   }
                 ],
@@ -52387,7 +51315,7 @@
         "locus_layout": [
           {
             "id": 18158,
-            "value": "Schriftraum (mehrspaltig, graphisch divers))",
+            "value": "graphisch divers",
             "color": "darker-green"
           }
         ],
@@ -52506,7 +51434,7 @@
                 "locus_layout": [
                   {
                     "id": 18158,
-                    "value": "Schriftraum (mehrspaltig, graphisch divers))",
+                    "value": "graphisch divers",
                     "color": "darker-green"
                   }
                 ],
@@ -52644,7 +51572,7 @@
         "locus_layout": [
           {
             "id": 18158,
-            "value": "Schriftraum (mehrspaltig, graphisch divers))",
+            "value": "graphisch divers",
             "color": "darker-green"
           }
         ],
@@ -52853,7 +51781,7 @@
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
@@ -55012,7 +53940,7 @@
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
@@ -56890,7 +55818,7 @@
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
@@ -58738,7 +57666,7 @@
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
@@ -59134,7 +58062,7 @@
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
@@ -59633,7 +58561,7 @@
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
@@ -60036,7 +58964,7 @@
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],
@@ -60325,7 +59253,7 @@
         "locus_layout": [
           {
             "id": 15841,
-            "value": "Schriftraum (einspaltig/ausfüllend))",
+            "value": "Schriftraum (einspaltig/mehrspaltig)",
             "color": "green"
           }
         ],
@@ -60659,7 +59587,7 @@
                 "locus_layout": [
                   {
                     "id": 15841,
-                    "value": "Schriftraum (einspaltig/ausfüllend))",
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
                     "color": "green"
                   }
                 ],

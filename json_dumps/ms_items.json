@@ -297,16 +297,6 @@
         "id": 3,
         "value": "hit_hands_role__3",
         "order": "3.00000000000000000000"
-      },
-      {
-        "id": 10,
-        "value": "hit_hands_role__10",
-        "order": "4.00000000000000000000"
-      },
-      {
-        "id": 17,
-        "value": "hit_hands_role__17",
-        "order": "9.00000000000000000000"
       }
     ],
     "cod_unit": [
@@ -316,7 +306,7 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "Last modified": "2024-11-19",
+    "Last modified": "2025-01-31",
     "Created on": "2024-06-17",
     "Created by": {
       "id": 86,
@@ -326,7 +316,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "note": null,
+    "note": "",
     "hand": [
       {
         "ids": {
@@ -341,20 +331,6 @@
           "database_table_3488": 2
         },
         "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
-      },
-      {
-        "ids": {
-          "database_table_3487": 2,
-          "database_table_3488": 2
-        },
-        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
-      },
-      {
-        "ids": {
-          "database_table_3487": 2,
-          "database_table_3488": 2
-        },
-        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 2"
       }
     ],
     "decoration": [
@@ -429,7 +405,7 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "Last modified": "2024-08-05",
+    "Last modified": "2025-01-31",
     "Created on": "2024-07-03",
     "Created by": {
       "id": 86,
@@ -468,9 +444,25 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "role": {
+      "id": 18159,
+      "value": "Erweiterung",
+      "color": "pink"
+    },
+    "commented_msitem": [
+      {
+        "id": 5,
+        "value": "cod_m_p_th_f_46__5",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "function_role": [
+      {
+        "id": 18170,
+        "value": "inhaltlich",
+        "color": "pink"
+      }
+    ]
   },
   "7": {
     "id": 7,
@@ -778,6 +770,11 @@
         "id": 22,
         "value": "hit_hands_role__22",
         "order": "14.00000000000000000000"
+      },
+      {
+        "id": 164,
+        "value": "hit_hands_role__164",
+        "order": "150.00000000000000000000"
       }
     ],
     "cod_unit": [
@@ -819,6 +816,13 @@
           "database_table_3488": 2
         },
         "value": "UBWÜ, Cod. M. p. th. f. 46_H. 4"
+      },
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
       }
     ],
     "decoration": [],
@@ -856,13 +860,13 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "title_note": "TEST. Auszüge der Jahre...",
+    "title_note": "Auszüge der Jahre...",
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
     "hit_id": "hit_ms_items__69",
     "filiation": [],
-    "locus_grp": "107v | 117v",
+    "locus_grp": "117v; 118v",
     "hands_role": [
       {
         "id": 102,
@@ -877,17 +881,17 @@
         "order": "3.50000000000000000000"
       }
     ],
-    "Last modified": "2025-01-30",
+    "Last modified": "2025-01-31",
     "Created on": "2024-07-11",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "note": "",
+    "note": "Baldo fügt kurze wörtliche Zusätze aus der Hieronymus-Eusebius Chronik ein, z.B. 117v: qui ut similitudinem troiae ardentis inspiceret plurimam partem romanae urbis incendit",
     "hand": [
       {
         "ids": {
@@ -903,22 +907,22 @@
     "form_note": null,
     "column": [],
     "role": {
-      "id": 18160,
-      "value": "Kommentar",
-      "color": "light-orange"
+      "id": 18159,
+      "value": "Erweiterung",
+      "color": "pink"
     },
     "commented_msitem": [
       {
-        "id": 5,
-        "value": "cod_m_p_th_f_46__5",
-        "order": "4.00000000000000000000"
+        "id": 11,
+        "value": "cod_m_p_th_f_46__11",
+        "order": "7.00000000000000000000"
       }
     ],
     "function_role": [
       {
-        "id": 18161,
-        "value": "inhaltsbezogen",
-        "color": "dark-red"
+        "id": 18170,
+        "value": "inhaltlich",
+        "color": "pink"
       }
     ]
   },
@@ -11653,5 +11657,189 @@
     "role": null,
     "commented_msitem": [],
     "function_role": []
+  },
+  "201": {
+    "id": 201,
+    "order": "156.00000000000000000000",
+    "label": [
+      {
+        "id": 2,
+        "value": "cod_m_p_th_f_46__201"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 11,
+        "value": "hieronymi chronicon",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "title_note": "Auszug des Jahres ? (vgl. Edition S. 98a)",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__201",
+    "filiation": [],
+    "locus_grp": "107v",
+    "hands_role": [
+      {
+        "id": 159,
+        "value": "hit_hands_role__159",
+        "order": "145.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 5,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 2",
+        "order": "3.50000000000000000000"
+      }
+    ],
+    "Last modified": "2025-01-31",
+    "Created on": "2025-01-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "Kommentar von Baldo, der die Namensverweise der Hieronymus-Eusebius Chronik umdreht und auf den Beda-Text anwendet, z.B. 107v: [Ioachim] qui et Heliachim",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [],
+    "role": {
+      "id": 18160,
+      "value": "Kommentar",
+      "color": "light-orange"
+    },
+    "commented_msitem": [
+      {
+        "id": 11,
+        "value": "cod_m_p_th_f_46__11",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "function_role": [
+      {
+        "id": 18161,
+        "value": "inhaltsbezogen",
+        "color": "dark-red"
+      }
+    ]
+  },
+  "202": {
+    "id": 202,
+    "order": "157.00000000000000000000",
+    "label": [
+      {
+        "id": 2,
+        "value": "cod_m_p_th_f_46__202"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 11,
+        "value": "hieronymi chronicon",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "title_note": "Diverse Zusätze zu verschiedenen Jahren und Herrschern",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__202",
+    "filiation": [],
+    "locus_grp": "1v-21r",
+    "hands_role": [
+      {
+        "id": 163,
+        "value": "hit_hands_role__163",
+        "order": "149.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 3,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-01-31",
+    "Created on": "2025-01-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [],
+    "role": {
+      "id": 18159,
+      "value": "Erweiterung",
+      "color": "pink"
+    },
+    "commented_msitem": [
+      {
+        "id": 5,
+        "value": "cod_m_p_th_f_46__5",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "function_role": [
+      {
+        "id": 18170,
+        "value": "inhaltlich",
+        "color": "pink"
+      }
+    ]
   }
 }

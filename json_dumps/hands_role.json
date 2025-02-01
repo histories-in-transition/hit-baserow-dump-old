@@ -195,16 +195,28 @@
       "name": "Ivana Dobcheva"
     },
     "Created on": "2024-06-24",
-    "Last modified": "2024-11-19",
+    "Last modified": "2025-01-31",
     "locus_layout": [
       {
         "id": 15841,
-        "value": "Schriftraum (einspaltig/ausfüllend))",
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
         "color": "green"
       }
     ],
-    "function": [],
-    "role_to_ms": []
+    "function": [
+      {
+        "id": 18155,
+        "value": "konzeptbezogen",
+        "color": "darker-brown"
+      }
+    ],
+    "role_to_ms": [
+      {
+        "id": 18165,
+        "value": "Erweiterung",
+        "color": "darker-blue"
+      }
+    ]
   },
   "5": {
     "id": 5,
@@ -256,9 +268,21 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-06-25",
-    "Last modified": "2024-11-19",
-    "locus_layout": [],
-    "function": [],
+    "Last modified": "2025-01-31",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18156,
+        "value": "inhaltlich",
+        "color": "dark-blue"
+      }
+    ],
     "role_to_ms": []
   },
   "2": {
@@ -311,10 +335,28 @@
       "name": "Ivana Dobcheva"
     },
     "Created on": "2024-06-20",
-    "Last modified": "2024-07-01",
-    "locus_layout": [],
-    "function": [],
-    "role_to_ms": []
+    "Last modified": "2025-01-31",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18155,
+        "value": "konzeptbezogen",
+        "color": "darker-brown"
+      }
+    ],
+    "role_to_ms": [
+      {
+        "id": 18165,
+        "value": "Erweiterung",
+        "color": "darker-blue"
+      }
+    ]
   },
   "3": {
     "id": 3,
@@ -366,76 +408,21 @@
       "name": "Ivana Dobcheva"
     },
     "Created on": "2024-06-24",
-    "Last modified": "2025-01-30",
+    "Last modified": "2025-01-31",
     "locus_layout": [
       {
         "id": 15841,
-        "value": "Schriftraum (einspaltig/ausfüllend))",
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
         "color": "green"
       }
     ],
     "function": [
       {
-        "id": 18156,
-        "value": "inhaltlich",
-        "color": "darker-blue"
+        "id": 18168,
+        "value": "anlegend (?) = inhaltlich?",
+        "color": "light-blue"
       }
     ],
-    "role_to_ms": []
-  },
-  "10": {
-    "id": 10,
-    "order": "4.00000000000000000000",
-    "hit_id": "hit_hands_role__10",
-    "hand": [
-      {
-        "id": 5,
-        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3",
-        "order": "11.00000000000000000000"
-      }
-    ],
-    "ms_item": [
-      {
-        "id": 5,
-        "value": "cod_m_p_th_f_46__5",
-        "order": "4.00000000000000000000"
-      }
-    ],
-    "role": [
-      {
-        "id": 15378,
-        "value": "\"Erweiterer\"",
-        "color": "darker-cyan"
-      }
-    ],
-    "locus": "",
-    "text": [
-      {
-        "ids": {
-          "database_table_3489": 4,
-          "database_table_3491": 5
-        },
-        "value": "De cyclo paschali"
-      }
-    ],
-    "locus_text": [
-      {
-        "id": 5,
-        "value": "1v-21r"
-      }
-    ],
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Created by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
-    },
-    "Created on": "2024-07-09",
-    "Last modified": "2024-10-09",
-    "locus_layout": [],
-    "function": [],
     "role_to_ms": []
   },
   "11": {
@@ -458,9 +445,9 @@
     ],
     "role": [
       {
-        "id": 15378,
-        "value": "\"Erweiterer\"",
-        "color": "darker-cyan"
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
       }
     ],
     "locus": "",
@@ -488,10 +475,28 @@
       "name": "Ivana Dobcheva"
     },
     "Created on": "2024-07-09",
-    "Last modified": "2024-12-13",
-    "locus_layout": [],
-    "function": [],
-    "role_to_ms": []
+    "Last modified": "2025-01-31",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18156,
+        "value": "inhaltlich",
+        "color": "dark-blue"
+      }
+    ],
+    "role_to_ms": [
+      {
+        "id": 18165,
+        "value": "Erweiterung",
+        "color": "darker-blue"
+      }
+    ]
   },
   "12": {
     "id": 12,
@@ -543,24 +548,19 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-10",
-    "Last modified": "2024-10-10",
+    "Last modified": "2025-01-31",
     "locus_layout": [
       {
-        "id": 15097,
-        "value": "interlinear",
-        "color": "darker-pink"
+        "id": 15382,
+        "value": "marginal unten",
+        "color": "cyan"
       }
     ],
     "function": [
       {
-        "id": 15098,
-        "value": "grammatikalisch",
-        "color": "red"
-      },
-      {
-        "id": 15838,
-        "value": "orthografisch",
-        "color": "darker-red"
+        "id": 18156,
+        "value": "inhaltlich",
+        "color": "dark-blue"
       }
     ],
     "role_to_ms": []
@@ -590,7 +590,7 @@
         "color": "darker-brown"
       }
     ],
-    "locus": "",
+    "locus": "119r",
     "text": [
       {
         "ids": {
@@ -615,9 +615,21 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-11",
-    "Last modified": "2024-10-09",
-    "locus_layout": [],
-    "function": [],
+    "Last modified": "2025-01-31",
+    "locus_layout": [
+      {
+        "id": 15097,
+        "value": "interlinear",
+        "color": "darker-pink"
+      }
+    ],
+    "function": [
+      {
+        "id": 18156,
+        "value": "inhaltlich",
+        "color": "dark-blue"
+      }
+    ],
     "role_to_ms": []
   },
   "16": {
@@ -640,9 +652,9 @@
     ],
     "role": [
       {
-        "id": 14763,
-        "value": "Annotation",
-        "color": "cyan"
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
       }
     ],
     "locus": "",
@@ -670,65 +682,28 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-11",
-    "Last modified": "2024-07-11",
-    "locus_layout": [],
-    "function": [],
-    "role_to_ms": []
-  },
-  "17": {
-    "id": 17,
-    "order": "9.00000000000000000000",
-    "hit_id": "hit_hands_role__17",
-    "hand": [
+    "Last modified": "2025-01-31",
+    "locus_layout": [
       {
-        "id": 12,
-        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 2",
-        "order": "10.00000000000000000000"
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
       }
     ],
-    "ms_item": [
+    "function": [
       {
-        "id": 5,
-        "value": "cod_m_p_th_f_46__5",
-        "order": "4.00000000000000000000"
+        "id": 18156,
+        "value": "inhaltlich",
+        "color": "dark-blue"
       }
     ],
-    "role": [
+    "role_to_ms": [
       {
-        "id": 15378,
-        "value": "\"Erweiterer\"",
-        "color": "darker-cyan"
+        "id": 18165,
+        "value": "Erweiterung",
+        "color": "darker-blue"
       }
-    ],
-    "locus": "",
-    "text": [
-      {
-        "ids": {
-          "database_table_3489": 4,
-          "database_table_3491": 5
-        },
-        "value": "De cyclo paschali"
-      }
-    ],
-    "locus_text": [
-      {
-        "id": 5,
-        "value": "1v-21r"
-      }
-    ],
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Created on": "2024-07-11",
-    "Last modified": "2024-10-09",
-    "locus_layout": [],
-    "function": [],
-    "role_to_ms": []
+    ]
   },
   "18": {
     "id": 18,
@@ -780,9 +755,21 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-11",
-    "Last modified": "2024-07-11",
-    "locus_layout": [],
-    "function": [],
+    "Last modified": "2025-01-31",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend (?) = inhaltlich?",
+        "color": "light-blue"
+      }
+    ],
     "role_to_ms": []
   },
   "19": {
@@ -835,9 +822,21 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-11",
-    "Last modified": "2024-07-11",
-    "locus_layout": [],
-    "function": [],
+    "Last modified": "2025-01-31",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend (?) = inhaltlich?",
+        "color": "light-blue"
+      }
+    ],
     "role_to_ms": []
   },
   "20": {
@@ -890,9 +889,21 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-11",
-    "Last modified": "2024-07-11",
-    "locus_layout": [],
-    "function": [],
+    "Last modified": "2025-01-31",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend (?) = inhaltlich?",
+        "color": "light-blue"
+      }
+    ],
     "role_to_ms": []
   },
   "21": {
@@ -945,10 +956,28 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-11",
-    "Last modified": "2024-07-11",
-    "locus_layout": [],
-    "function": [],
-    "role_to_ms": []
+    "Last modified": "2025-01-31",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend (?) = inhaltlich?",
+        "color": "light-blue"
+      }
+    ],
+    "role_to_ms": [
+      {
+        "id": 18165,
+        "value": "Erweiterung",
+        "color": "darker-blue"
+      }
+    ]
   },
   "22": {
     "id": 22,
@@ -1000,9 +1029,21 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-11",
-    "Last modified": "2024-07-11",
-    "locus_layout": [],
-    "function": [],
+    "Last modified": "2025-01-31",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend (?) = inhaltlich?",
+        "color": "light-blue"
+      }
+    ],
     "role_to_ms": []
   },
   "23": {
@@ -1055,10 +1096,28 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-11",
-    "Last modified": "2024-07-11",
-    "locus_layout": [],
-    "function": [],
-    "role_to_ms": []
+    "Last modified": "2025-01-31",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend (?) = inhaltlich?",
+        "color": "light-blue"
+      }
+    ],
+    "role_to_ms": [
+      {
+        "id": 18165,
+        "value": "Erweiterung",
+        "color": "darker-blue"
+      }
+    ]
   },
   "24": {
     "id": 24,
@@ -1165,7 +1224,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-12",
-    "Last modified": "2025-01-30",
+    "Last modified": "2025-01-31",
     "locus_layout": [
       {
         "id": 15382,
@@ -1173,7 +1232,13 @@
         "color": "cyan"
       }
     ],
-    "function": [],
+    "function": [
+      {
+        "id": 15837,
+        "value": "unabhängig",
+        "color": "dark-purple"
+      }
+    ],
     "role_to_ms": [
       {
         "id": 18165,
@@ -1367,9 +1432,9 @@
     ],
     "role": [
       {
-        "id": 14763,
-        "value": "Annotation",
-        "color": "cyan"
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
       }
     ],
     "locus": "",
@@ -1397,10 +1462,28 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-12",
-    "Last modified": "2024-07-15",
-    "locus_layout": [],
-    "function": [],
-    "role_to_ms": []
+    "Last modified": "2025-01-31",
+    "locus_layout": [
+      {
+        "id": 18158,
+        "value": "graphisch divers",
+        "color": "darker-green"
+      }
+    ],
+    "function": [
+      {
+        "id": 15837,
+        "value": "unabhängig",
+        "color": "dark-purple"
+      }
+    ],
+    "role_to_ms": [
+      {
+        "id": 18165,
+        "value": "Erweiterung",
+        "color": "darker-blue"
+      }
+    ]
   },
   "32": {
     "id": 32,
@@ -1730,7 +1813,7 @@
     "locus_layout": [
       {
         "id": 15841,
-        "value": "Schriftraum (einspaltig/ausfüllend))",
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
         "color": "green"
       }
     ],
@@ -1878,7 +1961,7 @@
     "locus_layout": [
       {
         "id": 15841,
-        "value": "Schriftraum (einspaltig/ausfüllend))",
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
         "color": "green"
       }
     ],
@@ -2434,7 +2517,7 @@
     "locus_layout": [
       {
         "id": 15841,
-        "value": "Schriftraum (einspaltig/ausfüllend))",
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
         "color": "green"
       }
     ],
@@ -3166,7 +3249,7 @@
     "locus_layout": [
       {
         "id": 18158,
-        "value": "Schriftraum (mehrspaltig, graphisch divers))",
+        "value": "graphisch divers",
         "color": "darker-green"
       }
     ],
@@ -3174,7 +3257,7 @@
       {
         "id": 18156,
         "value": "inhaltlich",
-        "color": "darker-blue"
+        "color": "dark-blue"
       }
     ],
     "role_to_ms": []
@@ -3233,7 +3316,7 @@
     "locus_layout": [
       {
         "id": 15841,
-        "value": "Schriftraum (einspaltig/ausfüllend))",
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
         "color": "green"
       }
     ],
@@ -3355,7 +3438,7 @@
     "locus_layout": [
       {
         "id": 18158,
-        "value": "Schriftraum (mehrspaltig, graphisch divers))",
+        "value": "graphisch divers",
         "color": "darker-green"
       }
     ],
@@ -3652,7 +3735,7 @@
     "locus_layout": [
       {
         "id": 18158,
-        "value": "Schriftraum (mehrspaltig, graphisch divers))",
+        "value": "graphisch divers",
         "color": "darker-green"
       }
     ],
@@ -3719,7 +3802,7 @@
     "locus_layout": [
       {
         "id": 18158,
-        "value": "Schriftraum (mehrspaltig, graphisch divers))",
+        "value": "graphisch divers",
         "color": "darker-green"
       }
     ],
@@ -3727,7 +3810,7 @@
       {
         "id": 18156,
         "value": "inhaltlich",
-        "color": "darker-blue"
+        "color": "dark-blue"
       },
       {
         "id": 18155,
@@ -3791,7 +3874,7 @@
     "locus_layout": [
       {
         "id": 18158,
-        "value": "Schriftraum (mehrspaltig, graphisch divers))",
+        "value": "graphisch divers",
         "color": "darker-green"
       }
     ],
@@ -3858,7 +3941,7 @@
     "locus_layout": [
       {
         "id": 18158,
-        "value": "Schriftraum (mehrspaltig, graphisch divers))",
+        "value": "graphisch divers",
         "color": "darker-green"
       }
     ],
@@ -3866,7 +3949,7 @@
       {
         "id": 18156,
         "value": "inhaltlich",
-        "color": "darker-blue"
+        "color": "dark-blue"
       },
       {
         "id": 18155,
@@ -3985,7 +4068,7 @@
     "locus_layout": [
       {
         "id": 18158,
-        "value": "Schriftraum (mehrspaltig, graphisch divers))",
+        "value": "graphisch divers",
         "color": "darker-green"
       }
     ],
@@ -4052,7 +4135,7 @@
     "locus_layout": [
       {
         "id": 15841,
-        "value": "Schriftraum (einspaltig/ausfüllend))",
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
         "color": "green"
       }
     ],
@@ -4060,7 +4143,7 @@
       {
         "id": 18156,
         "value": "inhaltlich",
-        "color": "darker-blue"
+        "color": "dark-blue"
       }
     ],
     "role_to_ms": []
@@ -4119,7 +4202,7 @@
     "locus_layout": [
       {
         "id": 15841,
-        "value": "Schriftraum (einspaltig/ausfüllend))",
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
         "color": "green"
       }
     ],
@@ -4127,7 +4210,7 @@
       {
         "id": 18156,
         "value": "inhaltlich",
-        "color": "darker-blue"
+        "color": "dark-blue"
       }
     ],
     "role_to_ms": []
@@ -4186,7 +4269,7 @@
     "locus_layout": [
       {
         "id": 18158,
-        "value": "Schriftraum (mehrspaltig, graphisch divers))",
+        "value": "graphisch divers",
         "color": "darker-green"
       }
     ],
@@ -4194,7 +4277,7 @@
       {
         "id": 18156,
         "value": "inhaltlich",
-        "color": "darker-blue"
+        "color": "dark-blue"
       }
     ],
     "role_to_ms": []
@@ -4253,7 +4336,7 @@
     "locus_layout": [
       {
         "id": 18158,
-        "value": "Schriftraum (mehrspaltig, graphisch divers))",
+        "value": "graphisch divers",
         "color": "darker-green"
       }
     ],
@@ -4261,7 +4344,7 @@
       {
         "id": 18156,
         "value": "inhaltlich",
-        "color": "darker-blue"
+        "color": "dark-blue"
       }
     ],
     "role_to_ms": []
@@ -4286,9 +4369,9 @@
     ],
     "role": [
       {
-        "id": 14763,
-        "value": "Annotation",
-        "color": "cyan"
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
       }
     ],
     "locus": "17r",
@@ -4316,10 +4399,28 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-08-01",
-    "Last modified": "2024-08-05",
-    "locus_layout": [],
-    "function": [],
-    "role_to_ms": []
+    "Last modified": "2025-01-31",
+    "locus_layout": [
+      {
+        "id": 18158,
+        "value": "graphisch divers",
+        "color": "darker-green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18156,
+        "value": "inhaltlich",
+        "color": "dark-blue"
+      }
+    ],
+    "role_to_ms": [
+      {
+        "id": 18165,
+        "value": "Erweiterung",
+        "color": "darker-blue"
+      }
+    ]
   },
   "83": {
     "id": 83,
@@ -4655,7 +4756,7 @@
     "locus_layout": [
       {
         "id": 18158,
-        "value": "Schriftraum (mehrspaltig, graphisch divers))",
+        "value": "graphisch divers",
         "color": "darker-green"
       }
     ],
@@ -5213,25 +5314,31 @@
     "locus_text": [
       {
         "id": 69,
-        "value": "107v | 117v"
+        "value": "117v; 118v"
       }
     ],
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-08-26",
-    "Last modified": "2025-01-30",
-    "locus_layout": [],
+    "Last modified": "2025-01-31",
+    "locus_layout": [
+      {
+        "id": 15382,
+        "value": "marginal unten",
+        "color": "cyan"
+      }
+    ],
     "function": [
       {
-        "id": 15836,
-        "value": "inhaltsbezogen",
-        "color": "darker-orange"
+        "id": 18156,
+        "value": "inhaltlich",
+        "color": "dark-blue"
       }
     ],
     "role_to_ms": [
@@ -5901,7 +6008,7 @@
     "locus_layout": [
       {
         "id": 15841,
-        "value": "Schriftraum (einspaltig/ausfüllend))",
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
         "color": "green"
       }
     ],
@@ -6025,7 +6132,7 @@
       {
         "id": 18156,
         "value": "inhaltlich",
-        "color": "darker-blue"
+        "color": "dark-blue"
       }
     ],
     "role_to_ms": []
@@ -6139,7 +6246,7 @@
     "locus_layout": [
       {
         "id": 15841,
-        "value": "Schriftraum (einspaltig/ausfüllend))",
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
         "color": "green"
       }
     ],
@@ -6328,7 +6435,7 @@
     "locus_layout": [
       {
         "id": 15841,
-        "value": "Schriftraum (einspaltig/ausfüllend))",
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
         "color": "green"
       }
     ],
@@ -6389,7 +6496,7 @@
     "locus_layout": [
       {
         "id": 15841,
-        "value": "Schriftraum (einspaltig/ausfüllend))",
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
         "color": "green"
       }
     ],
@@ -6450,7 +6557,7 @@
     "locus_layout": [
       {
         "id": 15841,
-        "value": "Schriftraum (einspaltig/ausfüllend))",
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
         "color": "green"
       }
     ],
@@ -6615,7 +6722,7 @@
     "locus_layout": [
       {
         "id": 15841,
-        "value": "Schriftraum (einspaltig/ausfüllend))",
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
         "color": "green"
       }
     ],
@@ -6785,7 +6892,7 @@
     "locus_layout": [
       {
         "id": 15841,
-        "value": "Schriftraum (einspaltig/ausfüllend))",
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
         "color": "green"
       }
     ],
@@ -7292,7 +7399,7 @@
     "locus_layout": [
       {
         "id": 15841,
-        "value": "Schriftraum (einspaltig/ausfüllend))",
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
         "color": "green"
       }
     ],
@@ -7873,7 +7980,7 @@
     "locus_layout": [
       {
         "id": 15841,
-        "value": "Schriftraum (einspaltig/ausfüllend))",
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
         "color": "green"
       }
     ],
@@ -8006,6 +8113,291 @@
     "Last modified": "2025-01-28",
     "locus_layout": [],
     "function": [],
+    "role_to_ms": []
+  },
+  "159": {
+    "id": 159,
+    "order": "145.00000000000000000000",
+    "hit_id": "hit_hands_role__159",
+    "hand": [
+      {
+        "id": 5,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 201,
+        "value": "cod_m_p_th_f_46__201",
+        "order": "156.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 11,
+          "database_table_3491": 201
+        },
+        "value": "hieronymi chronicon"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 201,
+        "value": "107v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-31",
+    "Last modified": "2025-01-31",
+    "locus_layout": [
+      {
+        "id": 15383,
+        "value": "marginal links",
+        "color": "darker-brown"
+      }
+    ],
+    "function": [
+      {
+        "id": 18156,
+        "value": "inhaltlich",
+        "color": "dark-blue"
+      }
+    ],
+    "role_to_ms": [
+      {
+        "id": 18169,
+        "value": "Kommentar",
+        "color": "green"
+      }
+    ]
+  },
+  "160": {
+    "id": 160,
+    "order": "146.00000000000000000000",
+    "hit_id": "hit_hands_role__160",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-31",
+    "Last modified": "2025-01-31",
+    "locus_layout": [],
+    "function": [],
+    "role_to_ms": []
+  },
+  "161": {
+    "id": 161,
+    "order": "147.00000000000000000000",
+    "hit_id": "hit_hands_role__161",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-31",
+    "Last modified": "2025-01-31",
+    "locus_layout": [],
+    "function": [],
+    "role_to_ms": []
+  },
+  "162": {
+    "id": 162,
+    "order": "148.00000000000000000000",
+    "hit_id": "hit_hands_role__162",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-31",
+    "Last modified": "2025-01-31",
+    "locus_layout": [],
+    "function": [],
+    "role_to_ms": []
+  },
+  "163": {
+    "id": 163,
+    "order": "149.00000000000000000000",
+    "hit_id": "hit_hands_role__163",
+    "hand": [
+      {
+        "id": 5,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 202,
+        "value": "cod_m_p_th_f_46__202",
+        "order": "157.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 11,
+          "database_table_3491": 202
+        },
+        "value": "hieronymi chronicon"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 202,
+        "value": "1v-21r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-31",
+    "Last modified": "2025-01-31",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18156,
+        "value": "inhaltlich",
+        "color": "dark-blue"
+      }
+    ],
+    "role_to_ms": [
+      {
+        "id": 18165,
+        "value": "Erweiterung",
+        "color": "darker-blue"
+      }
+    ]
+  },
+  "164": {
+    "id": 164,
+    "order": "150.00000000000000000000",
+    "hit_id": "hit_hands_role__164",
+    "hand": [
+      {
+        "id": 5,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 11,
+        "value": "cod_m_p_th_f_46__11",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 15376,
+        "value": "Kommentator",
+        "color": "darker-green"
+      }
+    ],
+    "locus": "119r",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 7,
+          "database_table_3491": 11
+        },
+        "value": "De temporum ratione"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 11,
+        "value": "98r-144v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-31",
+    "Last modified": "2025-01-31",
+    "locus_layout": [
+      {
+        "id": 18172,
+        "value": "auf der Zeile",
+        "color": "dark-yellow"
+      }
+    ],
+    "function": [
+      {
+        "id": 18156,
+        "value": "inhaltlich",
+        "color": "dark-blue"
+      }
+    ],
     "role_to_ms": []
   }
 }

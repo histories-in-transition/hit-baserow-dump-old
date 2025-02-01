@@ -31,11 +31,6 @@
         "order": "3.00000000000000000000"
       },
       {
-        "id": 17,
-        "value": "hit_hands_role__17",
-        "order": "9.00000000000000000000"
-      },
-      {
         "id": 18,
         "value": "hit_hands_role__18",
         "order": "10.00000000000000000000"
@@ -57,13 +52,6 @@
       }
     ],
     "ms_items": [
-      {
-        "ids": {
-          "database_table_3489": 4,
-          "database_table_3491": 5
-        },
-        "value": "De cyclo paschali"
-      },
       {
         "ids": {
           "database_table_3489": 4,
@@ -168,10 +156,6 @@
       }
     ],
     "locus": [
-      {
-        "id": 5,
-        "value": "1v-21r"
-      },
       {
         "id": 5,
         "value": "1v-21r"

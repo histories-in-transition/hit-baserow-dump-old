@@ -122,11 +122,6 @@
         "order": "3.00000000000000000000"
       },
       {
-        "id": 17,
-        "value": "hit_hands_role__17",
-        "order": "9.00000000000000000000"
-      },
-      {
         "id": 20,
         "value": "hit_hands_role__20",
         "order": "12.00000000000000000000"
@@ -144,16 +139,6 @@
         ]
       },
       {
-        "id": 17,
-        "value": [
-          {
-            "id": 15378,
-            "value": "\"Erweiterer\"",
-            "color": "darker-cyan"
-          }
-        ]
-      },
-      {
         "id": 20,
         "value": [
           {
@@ -165,13 +150,6 @@
       }
     ],
     "texts": [
-      {
-        "ids": {
-          "database_table_3489": 4,
-          "database_table_3491": 5
-        },
-        "value": "De cyclo paschali"
-      },
       {
         "ids": {
           "database_table_3489": 4,
@@ -276,11 +254,6 @@
         "order": "1.75000000000000000000"
       },
       {
-        "id": 10,
-        "value": "hit_hands_role__10",
-        "order": "4.00000000000000000000"
-      },
-      {
         "id": 11,
         "value": "hit_hands_role__11",
         "order": "5.00000000000000000000"
@@ -299,6 +272,21 @@
         "id": 102,
         "value": "hit_hands_role__102",
         "order": "88.00000000000000000000"
+      },
+      {
+        "id": 159,
+        "value": "hit_hands_role__159",
+        "order": "145.00000000000000000000"
+      },
+      {
+        "id": 163,
+        "value": "hit_hands_role__163",
+        "order": "149.00000000000000000000"
+      },
+      {
+        "id": 164,
+        "value": "hit_hands_role__164",
+        "order": "150.00000000000000000000"
       }
     ],
     "role": [
@@ -343,22 +331,12 @@
         ]
       },
       {
-        "id": 10,
-        "value": [
-          {
-            "id": 15378,
-            "value": "\"Erweiterer\"",
-            "color": "darker-cyan"
-          }
-        ]
-      },
-      {
         "id": 11,
         "value": [
           {
-            "id": 15378,
-            "value": "\"Erweiterer\"",
-            "color": "darker-cyan"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       },
@@ -391,6 +369,36 @@
             "color": "darker-red"
           }
         ]
+      },
+      {
+        "id": 159,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 163,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 164,
+        "value": [
+          {
+            "id": 15376,
+            "value": "Kommentator",
+            "color": "darker-green"
+          }
+        ]
       }
     ],
     "texts": [
@@ -407,13 +415,6 @@
           "database_table_3491": 13
         },
         "value": "Annales Iuvavenses minores"
-      },
-      {
-        "ids": {
-          "database_table_3489": 4,
-          "database_table_3491": 5
-        },
-        "value": "De cyclo paschali"
       },
       {
         "ids": {
@@ -456,6 +457,27 @@
           "database_table_3491": 69
         },
         "value": "hieronymi chronicon"
+      },
+      {
+        "ids": {
+          "database_table_3489": 11,
+          "database_table_3491": 201
+        },
+        "value": "hieronymi chronicon"
+      },
+      {
+        "ids": {
+          "database_table_3489": 11,
+          "database_table_3491": 202
+        },
+        "value": "hieronymi chronicon"
+      },
+      {
+        "ids": {
+          "database_table_3489": 7,
+          "database_table_3491": 11
+        },
+        "value": "De temporum ratione"
       }
     ],
     "hands_dated": [
@@ -702,7 +724,7 @@
         "value": "UBWÜ, Cod. M. p. th. f. 46_H. 6"
       }
     ],
-    "description": "",
+    "description": "Gruppe an Händen, welche die Annaleneinträge am Rande der Ostertafel hinzufügen.",
     "hit_id": "hit_hands__15",
     "similar_hands": [],
     "nr_daniel": "",
@@ -724,7 +746,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-10",
+    "Last modified": "2025-01-31",
     "hands_role": [
       {
         "id": 16,
@@ -737,9 +759,9 @@
         "id": 16,
         "value": [
           {
-            "id": 14763,
-            "value": "Annotation",
-            "color": "cyan"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       }
@@ -1181,9 +1203,9 @@
         "id": 31,
         "value": [
           {
-            "id": 14763,
-            "value": "Annotation",
-            "color": "cyan"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       }
@@ -1451,7 +1473,7 @@
       }
     ],
     "number": "13",
-    "note": "",
+    "note": "Trägt den Eintrag zum Jahre 975 über den Konflikt Ottos II. mit Heinrich dem Zänker ein.",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -1461,7 +1483,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-08-06",
+    "Last modified": "2025-01-31",
     "hands_role": [
       {
         "id": 82,
@@ -1474,9 +1496,9 @@
         "id": 82,
         "value": [
           {
-            "id": 14763,
-            "value": "Annotation",
-            "color": "cyan"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       }

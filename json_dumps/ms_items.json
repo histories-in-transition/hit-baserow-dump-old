@@ -1098,7 +1098,7 @@
     "siglum": "",
     "hit_id": "hit_ms_items__72",
     "filiation": [],
-    "locus_grp": "146r-147r",
+    "locus_grp": "146v-147r",
     "hands_role": [
       {
         "id": 29,
@@ -1107,7 +1107,7 @@
       }
     ],
     "cod_unit": [],
-    "Last modified": "2024-07-11",
+    "Last modified": "2025-02-01",
     "Created on": "2024-07-11",
     "Created by": {
       "id": 86,
@@ -5767,13 +5767,7 @@
     "hit_id": "hit_ms_items__84",
     "filiation": [],
     "locus_grp": "98r-148v",
-    "hands_role": [
-      {
-        "id": 35,
-        "value": "hit_hands_role__35",
-        "order": "27.00000000000000000000"
-      }
-    ],
+    "hands_role": [],
     "cod_unit": [
       {
         "id": 5,
@@ -5792,15 +5786,7 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [
-      {
-        "ids": {
-          "database_table_3487": 2,
-          "database_table_3488": 2
-        },
-        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
-      }
-    ],
+    "hand": [],
     "decoration": [],
     "facs_url": "",
     "form": [],

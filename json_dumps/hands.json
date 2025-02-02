@@ -264,11 +264,6 @@
         "order": "7.00000000000000000000"
       },
       {
-        "id": 35,
-        "value": "hit_hands_role__35",
-        "order": "27.00000000000000000000"
-      },
-      {
         "id": 102,
         "value": "hit_hands_role__102",
         "order": "88.00000000000000000000"
@@ -347,16 +342,6 @@
             "id": 15373,
             "value": "Korrektor",
             "color": "darker-brown"
-          }
-        ]
-      },
-      {
-        "id": 35,
-        "value": [
-          {
-            "id": 15378,
-            "value": "\"Erweiterer\"",
-            "color": "darker-cyan"
           }
         ]
       },
@@ -443,13 +428,6 @@
           "database_table_3491": 68
         },
         "value": "Bibelauszug"
-      },
-      {
-        "ids": {
-          "database_table_3489": 78,
-          "database_table_3491": 84
-        },
-        "value": "Historiographische und komputistische Zusätze"
       },
       {
         "ids": {

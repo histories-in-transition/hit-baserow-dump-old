@@ -398,7 +398,7 @@
                     "Last modified": "2025-01-17",
                     "locus_layout": [],
                     "function": [],
-                    "role_to_ms": []
+                    "role_to_ms_context": []
                   }
                 ],
                 "cod_unit": [
@@ -594,7 +594,7 @@
             "Last modified": "2025-01-17",
             "locus_layout": [],
             "function": [],
-            "role_to_ms": []
+            "role_to_ms_context": []
           }
         ],
         "role": [
@@ -1290,7 +1290,7 @@
                     "Last modified": "2024-12-04",
                     "locus_layout": [],
                     "function": [],
-                    "role_to_ms": []
+                    "role_to_ms_context": []
                   }
                 ],
                 "cod_unit": [
@@ -1475,7 +1475,7 @@
             "Last modified": "2024-12-04",
             "locus_layout": [],
             "function": [],
-            "role_to_ms": []
+            "role_to_ms_context": []
           }
         ],
         "role": [
@@ -2016,7 +2016,7 @@
                     "Last modified": "2024-10-03",
                     "locus_layout": [],
                     "function": [],
-                    "role_to_ms": []
+                    "role_to_ms_context": []
                   }
                 ],
                 "cod_unit": [
@@ -2123,7 +2123,7 @@
             "Last modified": "2024-10-03",
             "locus_layout": [],
             "function": [],
-            "role_to_ms": []
+            "role_to_ms_context": []
           }
         ],
         "role": [
@@ -2664,7 +2664,7 @@
                         "color": "dark-blue"
                       }
                     ],
-                    "role_to_ms": []
+                    "role_to_ms_context": []
                   },
                   {
                     "id": 81,
@@ -2723,7 +2723,7 @@
                         "color": "dark-blue"
                       }
                     ],
-                    "role_to_ms": []
+                    "role_to_ms_context": []
                   }
                 ],
                 "cod_unit": [
@@ -2855,7 +2855,7 @@
                 "color": "dark-blue"
               }
             ],
-            "role_to_ms": []
+            "role_to_ms_context": []
           }
         ],
         "role": [
@@ -3389,7 +3389,7 @@
                     "Last modified": "2024-09-25",
                     "locus_layout": [],
                     "function": [],
-                    "role_to_ms": []
+                    "role_to_ms_context": []
                   },
                   {
                     "id": 84,
@@ -3436,7 +3436,7 @@
                     "Last modified": "2024-08-01",
                     "locus_layout": [],
                     "function": [],
-                    "role_to_ms": []
+                    "role_to_ms_context": []
                   },
                   {
                     "id": 85,
@@ -3483,7 +3483,7 @@
                     "Last modified": "2024-09-25",
                     "locus_layout": [],
                     "function": [],
-                    "role_to_ms": []
+                    "role_to_ms_context": []
                   }
                 ],
                 "cod_unit": [
@@ -3610,7 +3610,7 @@
             "Last modified": "2024-09-25",
             "locus_layout": [],
             "function": [],
-            "role_to_ms": []
+            "role_to_ms_context": []
           }
         ],
         "role": [
@@ -4182,7 +4182,7 @@
                         "color": "darker-brown"
                       }
                     ],
-                    "role_to_ms": []
+                    "role_to_ms_context": []
                   }
                 ],
                 "cod_unit": [
@@ -4320,7 +4320,7 @@
                 "color": "darker-brown"
               }
             ],
-            "role_to_ms": []
+            "role_to_ms_context": []
           }
         ],
         "role": [
@@ -4861,7 +4861,7 @@
                         "color": "darker-orange"
                       }
                     ],
-                    "role_to_ms": []
+                    "role_to_ms_context": []
                   },
                   {
                     "id": 114,
@@ -4920,7 +4920,7 @@
                         "color": "darker-orange"
                       }
                     ],
-                    "role_to_ms": []
+                    "role_to_ms_context": []
                   }
                 ],
                 "cod_unit": [
@@ -5046,7 +5046,7 @@
                 "color": "darker-orange"
               }
             ],
-            "role_to_ms": []
+            "role_to_ms_context": []
           }
         ],
         "role": [
@@ -5673,7 +5673,7 @@
                         "color": "darker-orange"
                       }
                     ],
-                    "role_to_ms": [
+                    "role_to_ms_context": [
                       {
                         "id": 18165,
                         "value": "Erweiterung",
@@ -6907,7 +6907,7 @@
                 "color": "darker-orange"
               }
             ],
-            "role_to_ms": [
+            "role_to_ms_context": [
               {
                 "id": 18165,
                 "value": "Erweiterung",
@@ -7274,7 +7274,7 @@
                         "color": "darker-orange"
                       }
                     ],
-                    "role_to_ms": [
+                    "role_to_ms_context": [
                       {
                         "id": 18165,
                         "value": "Erweiterung",
@@ -8493,7 +8493,7 @@
                 "color": "darker-orange"
               }
             ],
-            "role_to_ms": [
+            "role_to_ms_context": [
               {
                 "id": 18165,
                 "value": "Erweiterung",
@@ -8920,7 +8920,7 @@
                         "color": "darker-brown"
                       }
                     ],
-                    "role_to_ms": [
+                    "role_to_ms_context": [
                       {
                         "id": 18165,
                         "value": "Erweiterung",
@@ -10139,7 +10139,7 @@
                 "color": "darker-brown"
               }
             ],
-            "role_to_ms": [
+            "role_to_ms_context": [
               {
                 "id": 18165,
                 "value": "Erweiterung",
@@ -10565,7 +10565,7 @@
                         "color": "dark-blue"
                       }
                     ],
-                    "role_to_ms": []
+                    "role_to_ms_context": []
                   },
                   {
                     "id": 3,
@@ -10624,7 +10624,7 @@
                         "color": "light-blue"
                       }
                     ],
-                    "role_to_ms": []
+                    "role_to_ms_context": []
                   }
                 ],
                 "cod_unit": [
@@ -11850,7 +11850,7 @@
                 "color": "dark-blue"
               }
             ],
-            "role_to_ms": []
+            "role_to_ms_context": []
           },
           {
             "id": 11,
@@ -12235,7 +12235,7 @@
                         "color": "dark-blue"
                       }
                     ],
-                    "role_to_ms": [
+                    "role_to_ms_context": [
                       {
                         "id": 18165,
                         "value": "Erweiterung",
@@ -12300,7 +12300,7 @@
                         "color": "dark-blue"
                       }
                     ],
-                    "role_to_ms": [
+                    "role_to_ms_context": [
                       {
                         "id": 18165,
                         "value": "Erweiterung",
@@ -12365,7 +12365,7 @@
                         "color": "dark-blue"
                       }
                     ],
-                    "role_to_ms": [
+                    "role_to_ms_context": [
                       {
                         "id": 18165,
                         "value": "Erweiterung",
@@ -13613,7 +13613,7 @@
                 "color": "dark-blue"
               }
             ],
-            "role_to_ms": [
+            "role_to_ms_context": [
               {
                 "id": 18165,
                 "value": "Erweiterung",
@@ -14047,7 +14047,7 @@
                         "color": "dark-blue"
                       }
                     ],
-                    "role_to_ms": []
+                    "role_to_ms_context": []
                   },
                   {
                     "id": 15,
@@ -14106,7 +14106,7 @@
                         "color": "dark-blue"
                       }
                     ],
-                    "role_to_ms": []
+                    "role_to_ms_context": []
                   },
                   {
                     "id": 22,
@@ -14165,7 +14165,7 @@
                         "color": "light-blue"
                       }
                     ],
-                    "role_to_ms": []
+                    "role_to_ms_context": []
                   },
                   {
                     "id": 164,
@@ -14224,7 +14224,7 @@
                         "color": "dark-blue"
                       }
                     ],
-                    "role_to_ms": []
+                    "role_to_ms_context": []
                   }
                 ],
                 "cod_unit": [
@@ -14926,1048 +14926,7 @@
                 "color": "dark-blue"
               }
             ],
-            "role_to_ms": []
-          },
-          {
-            "id": 35,
-            "hit_id": "hit_hands_role__35",
-            "hand": [
-              {
-                "id": 5,
-                "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
-              }
-            ],
-            "ms_item": [
-              {
-                "id": 84,
-                "label": [
-                  {
-                    "id": 2,
-                    "value": "cod_m_p_th_f_46__84"
-                  }
-                ],
-                "manuscript": [
-                  {
-                    "id": 2,
-                    "shelfmark": [
-                      {
-                        "id": 2,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46"
-                      }
-                    ],
-                    "hit_id": "hit_manuscript__2",
-                    "library": [
-                      {
-                        "id": 2,
-                        "value": "UBWÜ"
-                      }
-                    ],
-                    "manuscripta_url": "",
-                    "handschriftenportal_url": "https://resolver.staatsbibliothek-berlin.de/HSP0004634000000000",
-                    "catalog_url": "http://vb.uni-wuerzburg.de/ub/mpthf46/ueber.html",
-                    "digi_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46",
-                    "idno": "Cod. M. p. th. f. 46",
-                    "idno_former": null,
-                    "quire_structure": "2 IV<sup>16</sup> + III<sup>22</sup> + 3 IV<sup>46</sup> + 2 III<sup>58</sup> + 2 IV<sup>74</sup> + IV<sup>82</sup> und 1 Bl.<sup>83</sup> + III<sup>89</sup> + 4 IV<sup>121</sup> + II<sup>125</sup> und 1Bl.<sup>126</sup> + IV<sup>134</sup> + 2 II<sup>142</sup> und 2 Bl.<sup>144</sup> + I und 3 Bl.<sup>149</sup>\n",
-                    "library_full": [
-                      {
-                        "id": 2,
-                        "label": "UBWÜ",
-                        "hit_id": "hit_org__2",
-                        "gnd_url": "https://d-nb.info/gnd/2025026-5",
-                        "library_full": "Universitätsbibliothek Würzburg",
-                        "library_website": "https://www.bibliothek.uni-wuerzburg.de/",
-                        "settlement": [
-                          {
-                            "id": 7,
-                            "name": "Würzburg",
-                            "geonames_url": "https://www.geonames.org/2805615/wuerzburg.html",
-                            "hit_id": "hit_place__7",
-                            "wikidata_url": "",
-                            "country": [
-                              {
-                                "id": 2,
-                                "value": "Deutschland"
-                              }
-                            ],
-                            "Last modified by": {
-                              "id": 87,
-                              "name": "Ksenia Borisova"
-                            },
-                            "Last modified": "2024-07-09"
-                          }
-                        ],
-                        "wikidata": "",
-                        "Last modified by": {
-                          "id": 36,
-                          "name": "Ivana Dobcheva"
-                        },
-                        "Last modified": "2024-07-11"
-                      }
-                    ],
-                    "extent": "149",
-                    "foliation": null,
-                    "acc_mat": "Als Makulatur wurden Pergamentstreifen aus M. p. th. f. 188 verwendet.",
-                    "binding": "Würzburger Dombibliothekseinband. Holzdeckel mit unregelmäßig beschnittenem Schaflederrücken. Titel auf Pergamentstreifen auf dem Vorderdeckel. Signaturschild auf dem Rücken. Reste einer Schließe. Spuren von Kettenbefestigung am Hinterdeckel oben. Restauriert. Der gesprungene Hintere Deckel wird von alten Metallklammern zusammengehalten",
-                    "binding_date": [
-                      {
-                        "id": 8,
-                        "value": "15 Jh."
-                      }
-                    ],
-                    "history": "In Zusammenarbeit der beiden Schriftzentren Saint-Amand und Salzburg entstanden. Befand sich im Jahr 976 noch in Salzburg. Signaturen: 1r (LXXXIII, 15. Jhdt), 2r (LXXXIII, 15. Jhdt), Buchrücken (81, 18. Jhdt).",
-                    "bibliography": [],
-                    "height": "235",
-                    "width": "170",
-                    "material_spec": "Schafpergament",
-                    "orig_place": [
-                      {
-                        "id": 3,
-                        "name": "Salzburg",
-                        "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
-                        "hit_id": "hit_place__3",
-                        "wikidata_url": "",
-                        "country": [
-                          {
-                            "id": 1,
-                            "name": "Österreich",
-                            "geonames_url": "https://www.geonames.org/2782113/republic-of-austria.html",
-                            "hit_id": "hit_place__1",
-                            "wikidata_url": "https://www.wikidata.org/wiki/Q40",
-                            "country": [],
-                            "Last modified by": {
-                              "id": 36,
-                              "name": "Ivana Dobcheva"
-                            },
-                            "Last modified": "2024-06-09"
-                          }
-                        ],
-                        "Last modified by": {
-                          "id": 36,
-                          "name": "Ivana Dobcheva"
-                        },
-                        "Last modified": "2024-07-11"
-                      },
-                      {
-                        "id": 5,
-                        "name": "Saint-Amand-les-Eaux",
-                        "geonames_url": "https://www.geonames.org/2981839/saint-amand-les-eaux.html",
-                        "hit_id": "hit_place__5",
-                        "wikidata_url": "https://www.wikidata.org/wiki/Q334131",
-                        "country": [
-                          {
-                            "id": 14,
-                            "name": "Frankreich",
-                            "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
-                            "hit_id": "hit_place__14",
-                            "wikidata_url": "",
-                            "country": [],
-                            "Last modified by": {
-                              "id": 36,
-                              "name": "Ivana Dobcheva"
-                            },
-                            "Last modified": "2024-07-11"
-                          }
-                        ],
-                        "Last modified by": {
-                          "id": 36,
-                          "name": "Ivana Dobcheva"
-                        },
-                        "Last modified": "2024-07-11"
-                      }
-                    ],
-                    "catchwords": "",
-                    "quiremarks": "Nicht durchgehend; in römischen Zahlen.",
-                    "material": {
-                      "id": 14782,
-                      "value": "parchment",
-                      "color": "darker-orange"
-                    },
-                    "provenance": [
-                      {
-                        "id": 5,
-                        "label": "Dombibliothek Würzburg",
-                        "hit_id": "hit_org__5",
-                        "gnd_url": "https://d-nb.info/gnd/16186778-9",
-                        "library_full": "Dombibliothek Würzburg",
-                        "library_website": "",
-                        "settlement": [
-                          {
-                            "id": 7,
-                            "name": "Würzburg",
-                            "geonames_url": "https://www.geonames.org/2805615/wuerzburg.html",
-                            "hit_id": "hit_place__7",
-                            "wikidata_url": "",
-                            "country": [
-                              {
-                                "id": 2,
-                                "value": "Deutschland"
-                              }
-                            ],
-                            "Last modified by": {
-                              "id": 87,
-                              "name": "Ksenia Borisova"
-                            },
-                            "Last modified": "2024-07-09"
-                          }
-                        ],
-                        "wikidata": "",
-                        "Last modified by": {
-                          "id": 36,
-                          "name": "Ivana Dobcheva"
-                        },
-                        "Last modified": "2024-07-05"
-                      }
-                    ],
-                    "manuscripts_dated": [
-                      {
-                        "id": 3,
-                        "hit_id": "hit_dated__3",
-                        "manuscript": [
-                          {
-                            "id": 2,
-                            "value": "UBWÜ, Cod. M. p. th. f. 46"
-                          }
-                        ],
-                        "date": [
-                          {
-                            "id": 7,
-                            "label": "9 Jh., erstes Viertel",
-                            "not_before": "0801-01-01",
-                            "hit_id": "hit_date__7",
-                            "not_after": "0825-12-31",
-                            "Last modified by": {
-                              "id": 86,
-                              "name": "Leon Pürstinger"
-                            },
-                            "Last modified": "2024-07-12"
-                          }
-                        ],
-                        "authority": [
-                          {
-                            "id": 2,
-                            "name": "Bischoff",
-                            "short_title": "Die südostdeutschen Schreibschulen und Bibliotheken in der Karolingerzeit",
-                            "zotero_id": "",
-                            "hit_id": "hit_bibl__2"
-                          }
-                        ],
-                        "page": "133-134",
-                        "preferred_date": true,
-                        "Last modified by": {
-                          "id": 86,
-                          "name": "Leon Pürstinger"
-                        },
-                        "Last modified": "2024-07-10T14:24:24.632188Z",
-                        "note": null
-                      }
-                    ],
-                    "orig_dated": [
-                      {
-                        "ids": {
-                          "database_table_3512": 7,
-                          "database_table_3516": 3
-                        },
-                        "value": "9 Jh., erstes Viertel"
-                      }
-                    ],
-                    "Last modified by": {
-                      "id": 86,
-                      "name": "Leon Pürstinger"
-                    },
-                    "Last modified": "2024-12-13",
-                    "content_summary": "",
-                    "charakter": [
-                      {
-                        "id": 17451,
-                        "value": "Gebrauchshandschrift",
-                        "color": "light-orange"
-                      }
-                    ],
-                    "case_study": [
-                      {
-                        "id": 17442,
-                        "value": "Salzburg",
-                        "color": "purple"
-                      }
-                    ],
-                    "status": [
-                      {
-                        "id": 17449,
-                        "value": "in Bearbeitung",
-                        "color": "light-brown"
-                      }
-                    ]
-                  }
-                ],
-                "incipit": "",
-                "explicit": "",
-                "rubric": "",
-                "title_work": [
-                  {
-                    "id": 78,
-                    "title": "Historiographische und komputistische Zusätze",
-                    "gnd_url": "",
-                    "note": "",
-                    "hit_id": "hit_works__78",
-                    "author": [],
-                    "bibliography": [],
-                    "source_text": [],
-                    "genre": [
-                      {
-                        "id": 5,
-                        "genre": "Historiographie",
-                        "hit_id": "hit_genres__5",
-                        "main_genre": [],
-                        "Last modified by": {
-                          "id": 36,
-                          "name": "Ivana Dobcheva"
-                        },
-                        "Last modified": "2024-07-11"
-                      },
-                      {
-                        "id": 16,
-                        "genre": "Komputistik",
-                        "hit_id": "hit_genres__16",
-                        "main_genre": [],
-                        "Last modified by": {
-                          "id": 86,
-                          "name": "Leon Pürstinger"
-                        },
-                        "Last modified": "2024-07-23"
-                      }
-                    ],
-                    "note_source": "",
-                    "Last modified by": {
-                      "id": 86,
-                      "name": "Leon Pürstinger"
-                    },
-                    "Last modified": "2024-07-23"
-                  }
-                ],
-                "title_note": "",
-                "bibl": [],
-                "final_rubric": "",
-                "siglum": "",
-                "hit_id": "hit_ms_items__84",
-                "filiation": [],
-                "locus_grp": "98r-148v",
-                "hands_role": [
-                  {
-                    "id": 35,
-                    "hit_id": "hit_hands_role__35",
-                    "hand": [
-                      {
-                        "id": 5,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
-                      }
-                    ],
-                    "ms_item": [
-                      {
-                        "id": 84,
-                        "value": "cod_m_p_th_f_46__84"
-                      }
-                    ],
-                    "role": [
-                      {
-                        "id": 15378,
-                        "value": "\"Erweiterer\"",
-                        "color": "darker-cyan"
-                      }
-                    ],
-                    "locus": "107v; 117v; 118v; 147v; 148r",
-                    "text": [
-                      {
-                        "ids": {
-                          "database_table_3489": 78,
-                          "database_table_3491": 84
-                        },
-                        "value": "Historiographische und komputistische Zusätze"
-                      }
-                    ],
-                    "locus_text": [
-                      {
-                        "id": 84,
-                        "value": "98r-148v"
-                      }
-                    ],
-                    "Last modified by": {
-                      "id": 86,
-                      "name": "Leon Pürstinger"
-                    },
-                    "Last modified": "2024-10-09",
-                    "locus_layout": [],
-                    "function": [],
-                    "role_to_ms": []
-                  }
-                ],
-                "cod_unit": [
-                  {
-                    "id": 5,
-                    "label": [
-                      {
-                        "ids": {
-                          "database_table_3487": 2,
-                          "database_table_3488": 2
-                        },
-                        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 2"
-                      }
-                    ],
-                    "notes": "",
-                    "hit_id": "hit_cod_unit__5",
-                    "locus": "98r-144v",
-                    "manuscript": [
-                      {
-                        "id": 2,
-                        "value": "UBWÜ, Cod. M. p. th. f. 46"
-                      }
-                    ],
-                    "quire": [
-                      {
-                        "id": 20,
-                        "label": [
-                          {
-                            "ids": {
-                              "database_table_3487": 2,
-                              "database_table_3488": 2
-                            },
-                            "value": "UBWÜ, Cod. M. p. th. f. 46, L. 14"
-                          }
-                        ],
-                        "hit_id": "hit_quire__20",
-                        "number": "14",
-                        "locus": "98r-105v",
-                        "library": [
-                          {
-                            "ids": {
-                              "database_table_3487": 2,
-                              "database_table_3488": 2
-                            },
-                            "value": "UBWÜ"
-                          }
-                        ],
-                        "locus_from": "98r",
-                        "locus_to": "105v",
-                        "manuscript": [
-                          {
-                            "id": 2,
-                            "value": "UBWÜ, Cod. M. p. th. f. 46"
-                          }
-                        ],
-                        "quiremark": null,
-                        "written_height": null,
-                        "written_width": null,
-                        "written": "×",
-                        "hair_flesh": [],
-                        "ruling": "",
-                        "column": [
-                          {
-                            "id": 14743,
-                            "value": "1",
-                            "color": "darker-blue"
-                          }
-                        ],
-                        "note": "",
-                        "decoration": "",
-                        "quire_structure": "IV",
-                        "correct_number": null,
-                        "height": "235",
-                        "width": "170",
-                        "catchwords": false,
-                        "stratum": [
-                          {
-                            "id": 4,
-                            "value": "Cod. M. p. th. f. 46, Stratum 3"
-                          },
-                          {
-                            "id": 10,
-                            "value": "Cod. M. p. th. f. 46, Stratum 5"
-                          }
-                        ],
-                        "Last modified by": {
-                          "id": 86,
-                          "name": "Leon Pürstinger"
-                        },
-                        "Last modified": "2024-07-16T11:57:19.310877Z",
-                        "cod_units": [
-                          {
-                            "id": 5,
-                            "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 2"
-                          }
-                        ],
-                        "besonderheiten": []
-                      },
-                      {
-                        "id": 21,
-                        "label": [
-                          {
-                            "ids": {
-                              "database_table_3487": 2,
-                              "database_table_3488": 2
-                            },
-                            "value": "UBWÜ, Cod. M. p. th. f. 46, L. 15"
-                          }
-                        ],
-                        "hit_id": "hit_quire__21",
-                        "number": "15",
-                        "locus": "106r-113v",
-                        "library": [
-                          {
-                            "ids": {
-                              "database_table_3487": 2,
-                              "database_table_3488": 2
-                            },
-                            "value": "UBWÜ"
-                          }
-                        ],
-                        "locus_from": "106r",
-                        "locus_to": "113v",
-                        "manuscript": [
-                          {
-                            "id": 2,
-                            "value": "UBWÜ, Cod. M. p. th. f. 46"
-                          }
-                        ],
-                        "quiremark": null,
-                        "written_height": null,
-                        "written_width": null,
-                        "written": "×",
-                        "hair_flesh": [],
-                        "ruling": "",
-                        "column": [
-                          {
-                            "id": 14743,
-                            "value": "1",
-                            "color": "darker-blue"
-                          }
-                        ],
-                        "note": "",
-                        "decoration": "",
-                        "quire_structure": "IV",
-                        "correct_number": null,
-                        "height": "235",
-                        "width": "170",
-                        "catchwords": false,
-                        "stratum": [
-                          {
-                            "id": 4,
-                            "value": "Cod. M. p. th. f. 46, Stratum 3"
-                          }
-                        ],
-                        "Last modified by": {
-                          "id": 86,
-                          "name": "Leon Pürstinger"
-                        },
-                        "Last modified": "2024-07-16T11:57:19.316267Z",
-                        "cod_units": [
-                          {
-                            "id": 5,
-                            "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 2"
-                          }
-                        ],
-                        "besonderheiten": []
-                      },
-                      {
-                        "id": 22,
-                        "label": [
-                          {
-                            "ids": {
-                              "database_table_3487": 2,
-                              "database_table_3488": 2
-                            },
-                            "value": "UBWÜ, Cod. M. p. th. f. 46, L. 16"
-                          }
-                        ],
-                        "hit_id": "hit_quire__22",
-                        "number": "16",
-                        "locus": "114r-121v",
-                        "library": [
-                          {
-                            "ids": {
-                              "database_table_3487": 2,
-                              "database_table_3488": 2
-                            },
-                            "value": "UBWÜ"
-                          }
-                        ],
-                        "locus_from": "114r",
-                        "locus_to": "121v",
-                        "manuscript": [
-                          {
-                            "id": 2,
-                            "value": "UBWÜ, Cod. M. p. th. f. 46"
-                          }
-                        ],
-                        "quiremark": null,
-                        "written_height": null,
-                        "written_width": null,
-                        "written": "×",
-                        "hair_flesh": [],
-                        "ruling": "",
-                        "column": [
-                          {
-                            "id": 14743,
-                            "value": "1",
-                            "color": "darker-blue"
-                          }
-                        ],
-                        "note": "",
-                        "decoration": "",
-                        "quire_structure": "IV",
-                        "correct_number": null,
-                        "height": "235",
-                        "width": "170",
-                        "catchwords": false,
-                        "stratum": [
-                          {
-                            "id": 4,
-                            "value": "Cod. M. p. th. f. 46, Stratum 3"
-                          }
-                        ],
-                        "Last modified by": {
-                          "id": 86,
-                          "name": "Leon Pürstinger"
-                        },
-                        "Last modified": "2024-07-16T11:57:19.321966Z",
-                        "cod_units": [
-                          {
-                            "id": 5,
-                            "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 2"
-                          }
-                        ],
-                        "besonderheiten": []
-                      },
-                      {
-                        "id": 38,
-                        "label": [
-                          {
-                            "ids": {
-                              "database_table_3487": 2,
-                              "database_table_3488": 2
-                            },
-                            "value": "UBWÜ, Cod. M. p. th. f. 46, L. 17"
-                          }
-                        ],
-                        "hit_id": "hit_quire__38",
-                        "number": "17",
-                        "locus": "122r-126v",
-                        "library": [
-                          {
-                            "ids": {
-                              "database_table_3487": 2,
-                              "database_table_3488": 2
-                            },
-                            "value": "UBWÜ"
-                          }
-                        ],
-                        "locus_from": "122r",
-                        "locus_to": "126v",
-                        "manuscript": [
-                          {
-                            "id": 2,
-                            "value": "UBWÜ, Cod. M. p. th. f. 46"
-                          }
-                        ],
-                        "quiremark": null,
-                        "written_height": null,
-                        "written_width": null,
-                        "written": "×",
-                        "hair_flesh": [],
-                        "ruling": "",
-                        "column": [
-                          {
-                            "id": 14743,
-                            "value": "1",
-                            "color": "darker-blue"
-                          }
-                        ],
-                        "note": "",
-                        "decoration": "",
-                        "quire_structure": "II + 1 Bl. TBD",
-                        "correct_number": null,
-                        "height": "235",
-                        "width": "170",
-                        "catchwords": false,
-                        "stratum": [
-                          {
-                            "id": 4,
-                            "value": "Cod. M. p. th. f. 46, Stratum 3"
-                          }
-                        ],
-                        "Last modified by": {
-                          "id": 86,
-                          "name": "Leon Pürstinger"
-                        },
-                        "Last modified": "2024-07-16T11:57:19.330090Z",
-                        "cod_units": [
-                          {
-                            "id": 5,
-                            "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 2"
-                          }
-                        ],
-                        "besonderheiten": []
-                      },
-                      {
-                        "id": 39,
-                        "label": [
-                          {
-                            "ids": {
-                              "database_table_3487": 2,
-                              "database_table_3488": 2
-                            },
-                            "value": "UBWÜ, Cod. M. p. th. f. 46, L. 18"
-                          }
-                        ],
-                        "hit_id": "hit_quire__39",
-                        "number": "18",
-                        "locus": "127r-134v",
-                        "library": [
-                          {
-                            "ids": {
-                              "database_table_3487": 2,
-                              "database_table_3488": 2
-                            },
-                            "value": "UBWÜ"
-                          }
-                        ],
-                        "locus_from": "127r",
-                        "locus_to": "134v",
-                        "manuscript": [
-                          {
-                            "id": 2,
-                            "value": "UBWÜ, Cod. M. p. th. f. 46"
-                          }
-                        ],
-                        "quiremark": null,
-                        "written_height": null,
-                        "written_width": null,
-                        "written": "×",
-                        "hair_flesh": [],
-                        "ruling": "",
-                        "column": [
-                          {
-                            "id": 14743,
-                            "value": "1",
-                            "color": "darker-blue"
-                          }
-                        ],
-                        "note": "",
-                        "decoration": "",
-                        "quire_structure": "IV",
-                        "correct_number": null,
-                        "height": "235",
-                        "width": "170",
-                        "catchwords": false,
-                        "stratum": [
-                          {
-                            "id": 4,
-                            "value": "Cod. M. p. th. f. 46, Stratum 3"
-                          }
-                        ],
-                        "Last modified by": {
-                          "id": 86,
-                          "name": "Leon Pürstinger"
-                        },
-                        "Last modified": "2024-07-16T11:57:19.335593Z",
-                        "cod_units": [
-                          {
-                            "id": 5,
-                            "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 2"
-                          }
-                        ],
-                        "besonderheiten": []
-                      },
-                      {
-                        "id": 40,
-                        "label": [
-                          {
-                            "ids": {
-                              "database_table_3487": 2,
-                              "database_table_3488": 2
-                            },
-                            "value": "UBWÜ, Cod. M. p. th. f. 46, L. 19"
-                          }
-                        ],
-                        "hit_id": "hit_quire__40",
-                        "number": "19",
-                        "locus": "135r-138v",
-                        "library": [
-                          {
-                            "ids": {
-                              "database_table_3487": 2,
-                              "database_table_3488": 2
-                            },
-                            "value": "UBWÜ"
-                          }
-                        ],
-                        "locus_from": "135r",
-                        "locus_to": "138v",
-                        "manuscript": [
-                          {
-                            "id": 2,
-                            "value": "UBWÜ, Cod. M. p. th. f. 46"
-                          }
-                        ],
-                        "quiremark": null,
-                        "written_height": null,
-                        "written_width": null,
-                        "written": "×",
-                        "hair_flesh": [],
-                        "ruling": "",
-                        "column": [
-                          {
-                            "id": 14743,
-                            "value": "1",
-                            "color": "darker-blue"
-                          }
-                        ],
-                        "note": "",
-                        "decoration": "",
-                        "quire_structure": "II TBD",
-                        "correct_number": null,
-                        "height": "235",
-                        "width": "170",
-                        "catchwords": false,
-                        "stratum": [
-                          {
-                            "id": 4,
-                            "value": "Cod. M. p. th. f. 46, Stratum 3"
-                          }
-                        ],
-                        "Last modified by": {
-                          "id": 86,
-                          "name": "Leon Pürstinger"
-                        },
-                        "Last modified": "2024-07-16T11:57:19.340882Z",
-                        "cod_units": [
-                          {
-                            "id": 5,
-                            "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 2"
-                          }
-                        ],
-                        "besonderheiten": []
-                      },
-                      {
-                        "id": 41,
-                        "label": [
-                          {
-                            "ids": {
-                              "database_table_3487": 2,
-                              "database_table_3488": 2
-                            },
-                            "value": "UBWÜ, Cod. M. p. th. f. 46, L. 20"
-                          }
-                        ],
-                        "hit_id": "hit_quire__41",
-                        "number": "20",
-                        "locus": "139r-144v",
-                        "library": [
-                          {
-                            "ids": {
-                              "database_table_3487": 2,
-                              "database_table_3488": 2
-                            },
-                            "value": "UBWÜ"
-                          }
-                        ],
-                        "locus_from": "139r",
-                        "locus_to": "144v",
-                        "manuscript": [
-                          {
-                            "id": 2,
-                            "value": "UBWÜ, Cod. M. p. th. f. 46"
-                          }
-                        ],
-                        "quiremark": null,
-                        "written_height": null,
-                        "written_width": null,
-                        "written": "×",
-                        "hair_flesh": [],
-                        "ruling": "",
-                        "column": [
-                          {
-                            "id": 14743,
-                            "value": "1",
-                            "color": "darker-blue"
-                          }
-                        ],
-                        "note": "",
-                        "decoration": "",
-                        "quire_structure": "II + 2 Bl. TBD",
-                        "correct_number": null,
-                        "height": "235",
-                        "width": "170",
-                        "catchwords": false,
-                        "stratum": [
-                          {
-                            "id": 4,
-                            "value": "Cod. M. p. th. f. 46, Stratum 3"
-                          }
-                        ],
-                        "Last modified by": {
-                          "id": 86,
-                          "name": "Leon Pürstinger"
-                        },
-                        "Last modified": "2024-07-16T11:57:19.346503Z",
-                        "cod_units": [
-                          {
-                            "id": 5,
-                            "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 2"
-                          }
-                        ],
-                        "besonderheiten": []
-                      }
-                    ],
-                    "number": "2",
-                    "prov_place_old": [
-                      {
-                        "id": 3,
-                        "value": "Salzburg"
-                      }
-                    ],
-                    "Last modified by": {
-                      "id": 36,
-                      "name": "Ivana Dobcheva"
-                    },
-                    "Last modified": "2025-01-22",
-                    "orig_date": [],
-                    "quires_number": null,
-                    "heigth": null,
-                    "lines_number": null,
-                    "decorations": "",
-                    "codicological_reworking": [],
-                    "basic_structure": [],
-                    "written_width": null,
-                    "written_height": null,
-                    "width": null,
-                    "columns": [],
-                    "cod_unit_placed": [
-                      {
-                        "id": 3,
-                        "hit_id": "hit_codunit_place__3",
-                        "cod_unit": [
-                          {
-                            "id": 5,
-                            "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 2"
-                          }
-                        ],
-                        "place": [
-                          {
-                            "id": 3,
-                            "name": "Salzburg",
-                            "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
-                            "hit_id": "hit_place__3",
-                            "wikidata_url": "",
-                            "country": [
-                              {
-                                "id": 1,
-                                "name": "Österreich",
-                                "geonames_url": "https://www.geonames.org/2782113/republic-of-austria.html",
-                                "hit_id": "hit_place__1",
-                                "wikidata_url": "https://www.wikidata.org/wiki/Q40",
-                                "country": [],
-                                "Last modified by": {
-                                  "id": 36,
-                                  "name": "Ivana Dobcheva"
-                                },
-                                "Last modified": "2024-06-09"
-                              }
-                            ],
-                            "Last modified by": {
-                              "id": 36,
-                              "name": "Ivana Dobcheva"
-                            },
-                            "Last modified": "2024-07-11"
-                          }
-                        ],
-                        "from": [],
-                        "type": [
-                          {
-                            "id": 18150,
-                            "value": "orig",
-                            "color": "deep-dark-orange"
-                          }
-                        ],
-                        "till": [],
-                        "ms": [
-                          {
-                            "id": 2,
-                            "value": "UBWÜ, Cod. M. p. th. f. 46"
-                          }
-                        ],
-                        "authority": [],
-                        "page": "",
-                        "uncertain_from": false,
-                        "unceratin_till": false
-                      }
-                    ],
-                    "prov_place": [
-                      {
-                        "ids": {
-                          "database_table_3492": 3,
-                          "database_table_3840": 3
-                        },
-                        "value": "Salzburg"
-                      }
-                    ]
-                  }
-                ],
-                "Last modified": "2024-07-15",
-                "Last modified by": {
-                  "id": 86,
-                  "name": "Leon Pürstinger"
-                },
-                "note": "",
-                "hand": [
-                  {
-                    "ids": {
-                      "database_table_3487": 2,
-                      "database_table_3488": 2
-                    },
-                    "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3"
-                  }
-                ],
-                "decoration": [],
-                "facs_url": "",
-                "form": [],
-                "form_note": null,
-                "column": [],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
-              }
-            ],
-            "role": [
-              {
-                "id": 15378,
-                "value": "\"Erweiterer\"",
-                "color": "darker-cyan"
-              }
-            ],
-            "locus": "107v; 117v; 118v; 147v; 148r",
-            "text": [
-              {
-                "ids": {
-                  "database_table_3489": 78,
-                  "database_table_3491": 84
-                },
-                "value": "Historiographische und komputistische Zusätze"
-              }
-            ],
-            "locus_text": [
-              {
-                "id": 84,
-                "value": "98r-148v"
-              }
-            ],
-            "Last modified by": {
-              "id": 86,
-              "name": "Leon Pürstinger"
-            },
-            "Last modified": "2024-10-09",
-            "locus_layout": [],
-            "function": [],
-            "role_to_ms": []
+            "role_to_ms_context": []
           },
           {
             "id": 102,
@@ -16407,7 +15366,7 @@
                         "color": "dark-blue"
                       }
                     ],
-                    "role_to_ms": [
+                    "role_to_ms_context": [
                       {
                         "id": 18165,
                         "value": "Erweiterung",
@@ -17109,7 +16068,7 @@
                 "color": "dark-blue"
               }
             ],
-            "role_to_ms": [
+            "role_to_ms_context": [
               {
                 "id": 18165,
                 "value": "Erweiterung",
@@ -17555,7 +16514,7 @@
                         "color": "dark-blue"
                       }
                     ],
-                    "role_to_ms": [
+                    "role_to_ms_context": [
                       {
                         "id": 18169,
                         "value": "Kommentar",
@@ -18257,7 +17216,7 @@
                 "color": "dark-blue"
               }
             ],
-            "role_to_ms": [
+            "role_to_ms_context": [
               {
                 "id": 18169,
                 "value": "Kommentar",
@@ -18703,7 +17662,7 @@
                         "color": "dark-blue"
                       }
                     ],
-                    "role_to_ms": [
+                    "role_to_ms_context": [
                       {
                         "id": 18165,
                         "value": "Erweiterung",
@@ -19937,7 +18896,7 @@
                 "color": "dark-blue"
               }
             ],
-            "role_to_ms": [
+            "role_to_ms_context": [
               {
                 "id": 18165,
                 "value": "Erweiterung",
@@ -20371,7 +19330,7 @@
                         "color": "dark-blue"
                       }
                     ],
-                    "role_to_ms": []
+                    "role_to_ms_context": []
                   },
                   {
                     "id": 15,
@@ -20430,7 +19389,7 @@
                         "color": "dark-blue"
                       }
                     ],
-                    "role_to_ms": []
+                    "role_to_ms_context": []
                   },
                   {
                     "id": 22,
@@ -20489,7 +19448,7 @@
                         "color": "light-blue"
                       }
                     ],
-                    "role_to_ms": []
+                    "role_to_ms_context": []
                   },
                   {
                     "id": 164,
@@ -20548,7 +19507,7 @@
                         "color": "dark-blue"
                       }
                     ],
-                    "role_to_ms": []
+                    "role_to_ms_context": []
                   }
                 ],
                 "cod_unit": [
@@ -21250,7 +20209,7 @@
                 "color": "dark-blue"
               }
             ],
-            "role_to_ms": []
+            "role_to_ms_context": []
           }
         ],
         "role": [
@@ -21311,16 +20270,6 @@
                 "id": 15373,
                 "value": "Korrektor",
                 "color": "darker-brown"
-              }
-            ]
-          },
-          {
-            "id": 35,
-            "value": [
-              {
-                "id": 15378,
-                "value": "\"Erweiterer\"",
-                "color": "darker-cyan"
               }
             ]
           },
@@ -21407,13 +20356,6 @@
               "database_table_3491": 68
             },
             "value": "Bibelauszug"
-          },
-          {
-            "ids": {
-              "database_table_3489": 78,
-              "database_table_3491": 84
-            },
-            "value": "Historiographische und komputistische Zusätze"
           },
           {
             "ids": {
@@ -22114,7 +21056,7 @@
                     "Last modified": "2024-10-09",
                     "locus_layout": [],
                     "function": [],
-                    "role_to_ms": []
+                    "role_to_ms_context": []
                   },
                   {
                     "id": 50,
@@ -22161,7 +21103,7 @@
                     "Last modified": "2024-10-09",
                     "locus_layout": [],
                     "function": [],
-                    "role_to_ms": []
+                    "role_to_ms_context": []
                   },
                   {
                     "id": 55,
@@ -22208,7 +21150,7 @@
                     "Last modified": "2024-10-09",
                     "locus_layout": [],
                     "function": [],
-                    "role_to_ms": []
+                    "role_to_ms_context": []
                   }
                 ],
                 "cod_unit": [
@@ -23674,7 +22616,7 @@
             "Last modified": "2024-10-09",
             "locus_layout": [],
             "function": [],
-            "role_to_ms": []
+            "role_to_ms_context": []
           }
         ],
         "role": [

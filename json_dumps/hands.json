@@ -9269,56 +9269,100 @@
     "scribe": [],
     "gruppe": false
   },
-  "127": {
-    "id": 127,
-    "order": "119.00000000000000000000",
+  "131": {
+    "id": 131,
+    "order": "122.00000000000000000000",
     "label": [
       {
         "ids": {
-          "database_table_3487": 21,
-          "database_table_3488": 1
+          "database_table_3487": 31,
+          "database_table_3488": 11
         },
-        "value": "ÖNB, Cod. 2090_H. 42"
+        "value": "Saint-Omer, ms. 706_H. "
       }
     ],
-    "description": "Fertigt die figürliche Darstellung eines Königs neben einer inhaltlich interessanten Textstelle über die verba turpia et lividia ac sęcularia an.",
-    "hit_id": "hit_hands__127",
+    "description": "",
+    "hit_id": "hit_hands__131",
     "similar_hands": [],
     "nr_daniel": "",
     "manuscript": [
       {
-        "id": 21,
-        "value": "ÖNB, Cod. 2090",
-        "order": "1.50000000000000000000"
+        "id": 31,
+        "value": "Saint-Omer, ms. 706",
+        "order": "24.00000000000000000000"
       }
     ],
-    "number": "42",
+    "number": null,
     "note": "",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Created on": "2025-01-28",
+    "Created on": "2025-02-03",
     "Last modified by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-01-28",
+    "Last modified": "2025-02-03",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": false
+  },
+  "133": {
+    "id": 133,
+    "order": "124.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 31,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 706_H. 5"
+      }
+    ],
+    "description": "",
+    "hit_id": "hit_hands__133",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 31,
+        "value": "Saint-Omer, ms. 706",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "number": "5",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-03",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-03",
     "hands_role": [
       {
-        "id": 158,
-        "value": "hit_hands_role__158",
-        "order": "144.00000000000000000000"
+        "id": 165,
+        "value": "hit_hands_role__165",
+        "order": "151.00000000000000000000"
       }
     ],
     "role": [
       {
-        "id": 158,
+        "id": 165,
         "value": [
           {
-            "id": 15379,
-            "value": "Illustrator",
-            "color": "darker-orange"
+            "id": 18174,
+            "value": "Interpolator",
+            "color": "green"
           }
         ]
       }
@@ -9326,10 +9370,10 @@
     "texts": [
       {
         "ids": {
-          "database_table_3489": 120,
-          "database_table_3491": 148
+          "database_table_3489": 135,
+          "database_table_3491": 192
         },
-        "value": "Institutiones Aquisgranenses"
+        "value": "Annales regni Francorum"
       }
     ],
     "hands_dated": [],

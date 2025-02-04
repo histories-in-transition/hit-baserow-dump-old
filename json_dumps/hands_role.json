@@ -8063,13 +8063,7 @@
     "id": 158,
     "order": "144.00000000000000000000",
     "hit_id": "hit_hands_role__158",
-    "hand": [
-      {
-        "id": 127,
-        "value": "ÖNB, Cod. 2090_H. 42",
-        "order": "119.00000000000000000000"
-      }
-    ],
+    "hand": [],
     "ms_item": [
       {
         "id": 148,
@@ -8383,6 +8377,73 @@
     },
     "Created on": "2025-01-31",
     "Last modified": "2025-01-31",
+    "locus_layout": [
+      {
+        "id": 18172,
+        "value": "auf der Zeile",
+        "color": "dark-yellow"
+      }
+    ],
+    "function": [
+      {
+        "id": 18156,
+        "value": "inhaltlich",
+        "color": "dark-blue"
+      }
+    ],
+    "role_to_ms_context": []
+  },
+  "165": {
+    "id": 165,
+    "order": "151.00000000000000000000",
+    "hit_id": "hit_hands_role__165",
+    "hand": [
+      {
+        "id": 133,
+        "value": "Saint-Omer, ms. 706_H. 5",
+        "order": "124.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 192,
+        "value": "ms_706__192",
+        "order": "150.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 18174,
+        "value": "Interpolator",
+        "color": "green"
+      }
+    ],
+    "locus": "150r",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 135,
+          "database_table_3491": 192
+        },
+        "value": "Annales regni Francorum"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 192,
+        "value": "145r-170v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-03",
+    "Last modified": "2025-02-03",
     "locus_layout": [
       {
         "id": 18172,

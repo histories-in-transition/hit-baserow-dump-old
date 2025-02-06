@@ -238,9 +238,9 @@
     ],
     "role": [
       {
-        "id": 15373,
-        "value": "Korrektor",
-        "color": "darker-brown"
+        "id": 18175,
+        "value": "Überarbeiter",
+        "color": "dark-gray"
       }
     ],
     "locus": "",
@@ -268,7 +268,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-06-25",
-    "Last modified": "2025-01-31",
+    "Last modified": "2025-02-05",
     "locus_layout": [
       {
         "id": 15841,
@@ -585,9 +585,9 @@
     ],
     "role": [
       {
-        "id": 15373,
-        "value": "Korrektor",
-        "color": "darker-brown"
+        "id": 18175,
+        "value": "Überarbeiter",
+        "color": "dark-gray"
       }
     ],
     "locus": "119r",
@@ -615,12 +615,17 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-11",
-    "Last modified": "2025-01-31",
+    "Last modified": "2025-02-05",
     "locus_layout": [
       {
         "id": 15097,
         "value": "interlinear",
         "color": "darker-pink"
+      },
+      {
+        "id": 18172,
+        "value": "auf der Zeile",
+        "color": "dark-yellow"
       }
     ],
     "function": [
@@ -8158,7 +8163,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2025-01-31",
-    "Last modified": "2025-01-31",
+    "Last modified": "2025-02-05",
     "locus_layout": [
       {
         "id": 15383,
@@ -8175,9 +8180,9 @@
     ],
     "role_to_ms_context": [
       {
-        "id": 18169,
-        "value": "Kommentar",
-        "color": "green"
+        "id": 18167,
+        "value": "Überarbeitung",
+        "color": "dark-pink"
       }
     ]
   },
@@ -8326,73 +8331,6 @@
       }
     ]
   },
-  "164": {
-    "id": 164,
-    "order": "150.00000000000000000000",
-    "hit_id": "hit_hands_role__164",
-    "hand": [
-      {
-        "id": 5,
-        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3",
-        "order": "11.00000000000000000000"
-      }
-    ],
-    "ms_item": [
-      {
-        "id": 11,
-        "value": "cod_m_p_th_f_46__11",
-        "order": "7.00000000000000000000"
-      }
-    ],
-    "role": [
-      {
-        "id": 15376,
-        "value": "Kommentator",
-        "color": "darker-green"
-      }
-    ],
-    "locus": "119r",
-    "text": [
-      {
-        "ids": {
-          "database_table_3489": 7,
-          "database_table_3491": 11
-        },
-        "value": "De temporum ratione"
-      }
-    ],
-    "locus_text": [
-      {
-        "id": 11,
-        "value": "98r-144v"
-      }
-    ],
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Created on": "2025-01-31",
-    "Last modified": "2025-01-31",
-    "locus_layout": [
-      {
-        "id": 18172,
-        "value": "auf der Zeile",
-        "color": "dark-yellow"
-      }
-    ],
-    "function": [
-      {
-        "id": 18156,
-        "value": "inhaltlich",
-        "color": "dark-blue"
-      }
-    ],
-    "role_to_ms_context": []
-  },
   "165": {
     "id": 165,
     "order": "151.00000000000000000000",
@@ -8443,7 +8381,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2025-02-03",
-    "Last modified": "2025-02-03",
+    "Last modified": "2025-02-05",
     "locus_layout": [
       {
         "id": 18172,

@@ -277,11 +277,6 @@
         "id": 163,
         "value": "hit_hands_role__163",
         "order": "149.00000000000000000000"
-      },
-      {
-        "id": 164,
-        "value": "hit_hands_role__164",
-        "order": "150.00000000000000000000"
       }
     ],
     "role": [
@@ -319,9 +314,9 @@
         "id": 5,
         "value": [
           {
-            "id": 15373,
-            "value": "Korrektor",
-            "color": "darker-brown"
+            "id": 18175,
+            "value": "Überarbeiter",
+            "color": "dark-gray"
           }
         ]
       },
@@ -339,9 +334,9 @@
         "id": 15,
         "value": [
           {
-            "id": 15373,
-            "value": "Korrektor",
-            "color": "darker-brown"
+            "id": 18175,
+            "value": "Überarbeiter",
+            "color": "dark-gray"
           }
         ]
       },
@@ -372,16 +367,6 @@
             "id": 14758,
             "value": "Schreiber",
             "color": "darker-red"
-          }
-        ]
-      },
-      {
-        "id": 164,
-        "value": [
-          {
-            "id": 15376,
-            "value": "Kommentator",
-            "color": "darker-green"
           }
         ]
       }
@@ -449,13 +434,6 @@
           "database_table_3491": 202
         },
         "value": "hieronymi chronicon"
-      },
-      {
-        "ids": {
-          "database_table_3489": 7,
-          "database_table_3491": 11
-        },
-        "value": "De temporum ratione"
       }
     ],
     "hands_dated": [

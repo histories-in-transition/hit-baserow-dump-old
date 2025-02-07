@@ -4105,7 +4105,8 @@
             ],
             "page": null,
             "uncertain_from": false,
-            "unceratin_till": false
+            "unceratin_till": false,
+            "uncertain_place": false
           },
           {
             "id": 2,
@@ -4163,7 +4164,8 @@
             "authority": [],
             "page": null,
             "uncertain_from": false,
-            "unceratin_till": false
+            "unceratin_till": false,
+            "uncertain_place": false
           }
         ],
         "prov_place": [
@@ -4788,7 +4790,8 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false
+            "unceratin_till": false,
+            "uncertain_place": false
           }
         ],
         "prov_place": [
@@ -5241,7 +5244,8 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false
+            "unceratin_till": false,
+            "uncertain_place": false
           }
         ],
         "prov_place": [
@@ -5511,16 +5515,21 @@
       }
     ],
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-01-16",
+    "Last modified": "2025-02-06",
     "content_summary": "Martinellus, Geschichtliche Texte, Hagiographische Texte, Lyrik",
     "charakter": [
       {
         "id": 17439,
         "value": "Kompendium",
         "color": "green"
+      },
+      {
+        "id": 17440,
+        "value": "Vade mecum",
+        "color": "light-green"
       }
     ],
     "case_study": [
@@ -6863,10 +6872,10 @@
           }
         ],
         "Last modified by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
+          "id": 87,
+          "name": "Ksenia Borisova"
         },
-        "Last modified": "2025-01-22",
+        "Last modified": "2025-02-06",
         "orig_date": [
           {
             "id": 4,
@@ -6880,7 +6889,7 @@
         "quires_number": "1-17",
         "heigth": "195",
         "lines_number": "17",
-        "decorations": "",
+        "decorations": "1r - rotes Initial E in 4 Zeilen, 4r - rotes Initial P in 5 Zeilen, beide ornamental und nah zu den Initialen in Clm 27305, Clm 17027, Clm 17043. Auf 5v - rotes Tierkopfinitial I in 11 Zeilen.",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": "115",
@@ -6955,7 +6964,8 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false
+            "unceratin_till": false,
+            "uncertain_place": false
           }
         ],
         "prov_place": [
@@ -7228,9 +7238,15 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-01-21",
+    "Last modified": "2025-02-06",
     "content_summary": "Historia adversus paganos",
-    "charakter": [],
+    "charakter": [
+      {
+        "id": 17451,
+        "value": "Gebrauchshandschrift",
+        "color": "light-orange"
+      }
+    ],
     "case_study": [
       {
         "id": 17441,
@@ -8728,15 +8744,15 @@
           }
         ],
         "Last modified by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
+          "id": 87,
+          "name": "Ksenia Borisova"
         },
-        "Last modified": "2025-01-22",
+        "Last modified": "2025-02-06",
         "orig_date": [],
         "quires_number": "1-19",
         "heigth": "255",
         "lines_number": "23",
-        "decorations": "",
+        "decorations": "Auf 4r ein rundes Bild, darstellend drei Kontinenten. \nDie beiden letzten,einander gegenüberliegenden Seiten (148V/149R) sind gleichartig figural geschrieben: beide in Form eines auf der Spitze stehenden gleichschenkligen Dreiecks (Bishoff, 77)",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": "120",
@@ -8811,7 +8827,8 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false
+            "unceratin_till": false,
+            "uncertain_place": false
           }
         ],
         "prov_place": [
@@ -9036,9 +9053,15 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-01-22",
+    "Last modified": "2025-02-06",
     "content_summary": null,
-    "charakter": [],
+    "charakter": [
+      {
+        "id": 17451,
+        "value": "Gebrauchshandschrift",
+        "color": "light-orange"
+      }
+    ],
     "case_study": [
       {
         "id": 17441,
@@ -9169,7 +9192,8 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false
+            "unceratin_till": false,
+            "uncertain_place": false
           }
         ],
         "prov_place": [
@@ -9439,12 +9463,18 @@
       }
     ],
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-01-16",
+    "Last modified": "2025-02-06",
     "content_summary": null,
-    "charakter": [],
+    "charakter": [
+      {
+        "id": 17451,
+        "value": "Gebrauchshandschrift",
+        "color": "light-orange"
+      }
+    ],
     "case_study": [
       {
         "id": 17441,
@@ -9570,7 +9600,8 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false
+            "unceratin_till": false,
+            "uncertain_place": false
           },
           {
             "id": 30,
@@ -9610,7 +9641,12 @@
                 "Last modified": "2024-07-11"
               }
             ],
-            "from": [],
+            "from": [
+              {
+                "id": 36,
+                "value": "12. Jh."
+              }
+            ],
             "type": [
               {
                 "id": 18151,
@@ -9632,8 +9668,9 @@
             ],
             "authority": [],
             "page": "",
-            "uncertain_from": false,
-            "unceratin_till": false
+            "uncertain_from": true,
+            "unceratin_till": false,
+            "uncertain_place": false
           }
         ],
         "prov_place": [
@@ -9964,12 +10001,18 @@
       }
     ],
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-01-16",
+    "Last modified": "2025-02-06",
     "content_summary": null,
-    "charakter": [],
+    "charakter": [
+      {
+        "id": 17451,
+        "value": "Gebrauchshandschrift",
+        "color": "light-orange"
+      }
+    ],
     "case_study": [
       {
         "id": 17441,
@@ -10095,7 +10138,8 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false
+            "unceratin_till": false,
+            "uncertain_place": false
           },
           {
             "id": 29,
@@ -10135,7 +10179,12 @@
                 "Last modified": "2024-07-11"
               }
             ],
-            "from": [],
+            "from": [
+              {
+                "id": 36,
+                "value": "12. Jh."
+              }
+            ],
             "type": [
               {
                 "id": 18151,
@@ -10157,8 +10206,9 @@
             ],
             "authority": [],
             "page": "",
-            "uncertain_from": false,
-            "unceratin_till": false
+            "uncertain_from": true,
+            "unceratin_till": false,
+            "uncertain_place": false
           }
         ],
         "prov_place": [
@@ -10433,12 +10483,18 @@
       }
     ],
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-01-16",
+    "Last modified": "2025-02-06",
     "content_summary": null,
-    "charakter": [],
+    "charakter": [
+      {
+        "id": 17451,
+        "value": "Gebrauchshandschrift",
+        "color": "light-orange"
+      }
+    ],
     "case_study": [
       {
         "id": 17441,
@@ -10564,7 +10620,8 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false
+            "unceratin_till": false,
+            "uncertain_place": false
           },
           {
             "id": 28,
@@ -10604,7 +10661,12 @@
                 "Last modified": "2024-07-11"
               }
             ],
-            "from": [],
+            "from": [
+              {
+                "id": 36,
+                "value": "12. Jh."
+              }
+            ],
             "type": [
               {
                 "id": 18151,
@@ -10626,8 +10688,9 @@
             ],
             "authority": [],
             "page": "",
-            "uncertain_from": false,
-            "unceratin_till": false
+            "uncertain_from": true,
+            "unceratin_till": false,
+            "uncertain_place": false
           }
         ],
         "prov_place": [
@@ -10768,7 +10831,8 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false
+            "unceratin_till": false,
+            "uncertain_place": false
           }
         ],
         "prov_place": [
@@ -11017,12 +11081,18 @@
       }
     ],
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-01-16",
+    "Last modified": "2025-02-06",
     "content_summary": null,
-    "charakter": [],
+    "charakter": [
+      {
+        "id": 17451,
+        "value": "Gebrauchshandschrift",
+        "color": "light-orange"
+      }
+    ],
     "case_study": [
       {
         "id": 17441,
@@ -11153,7 +11223,8 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false
+            "unceratin_till": false,
+            "uncertain_place": false
           }
         ],
         "prov_place": [
@@ -11397,12 +11468,18 @@
       }
     ],
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-01-16",
+    "Last modified": "2025-02-06",
     "content_summary": null,
-    "charakter": [],
+    "charakter": [
+      {
+        "id": 17451,
+        "value": "Gebrauchshandschrift",
+        "color": "light-orange"
+      }
+    ],
     "case_study": [
       {
         "id": 17441,
@@ -11527,7 +11604,8 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false
+            "unceratin_till": false,
+            "uncertain_place": false
           }
         ],
         "prov_place": [
@@ -11650,7 +11728,8 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false
+            "unceratin_till": false,
+            "uncertain_place": false
           },
           {
             "id": 26,
@@ -11690,7 +11769,12 @@
                 "Last modified": "2024-07-11"
               }
             ],
-            "from": [],
+            "from": [
+              {
+                "id": 36,
+                "value": "12. Jh."
+              }
+            ],
             "type": [
               {
                 "id": 18151,
@@ -11712,8 +11796,9 @@
             ],
             "authority": [],
             "page": "",
-            "uncertain_from": false,
-            "unceratin_till": false
+            "uncertain_from": true,
+            "unceratin_till": false,
+            "uncertain_place": false
           }
         ],
         "prov_place": [
@@ -11848,7 +11933,8 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false
+            "unceratin_till": false,
+            "uncertain_place": false
           }
         ],
         "prov_place": [
@@ -12070,12 +12156,18 @@
       }
     ],
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-01-16",
+    "Last modified": "2025-02-06",
     "content_summary": null,
-    "charakter": [],
+    "charakter": [
+      {
+        "id": 17451,
+        "value": "Gebrauchshandschrift",
+        "color": "light-orange"
+      }
+    ],
     "case_study": [
       {
         "id": 17441,
@@ -12123,15 +12215,15 @@
           }
         ],
         "Last modified by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
+          "id": 87,
+          "name": "Ksenia Borisova"
         },
-        "Last modified": "2025-01-22",
+        "Last modified": "2025-02-06",
         "orig_date": [],
         "quires_number": "1-26",
         "heigth": "190",
         "lines_number": "18",
-        "decorations": "",
+        "decorations": "Über- und Unterschriften in roter Majuskel.",
         "codicological_reworking": [],
         "basic_structure": [],
         "written_width": "105",
@@ -12206,7 +12298,8 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false
+            "unceratin_till": false,
+            "uncertain_place": false
           }
         ],
         "prov_place": [
@@ -12423,12 +12516,18 @@
       }
     ],
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-01-16",
+    "Last modified": "2025-02-06",
     "content_summary": null,
-    "charakter": [],
+    "charakter": [
+      {
+        "id": 17451,
+        "value": "Gebrauchshandschrift",
+        "color": "light-orange"
+      }
+    ],
     "case_study": [
       {
         "id": 17441,
@@ -12559,7 +12658,8 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false
+            "unceratin_till": false,
+            "uncertain_place": false
           }
         ],
         "prov_place": [
@@ -12781,12 +12881,18 @@
       }
     ],
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-01-16",
+    "Last modified": "2025-02-06",
     "content_summary": null,
-    "charakter": [],
+    "charakter": [
+      {
+        "id": 17451,
+        "value": "Gebrauchshandschrift",
+        "color": "light-orange"
+      }
+    ],
     "case_study": [
       {
         "id": 17441,
@@ -12917,7 +13023,8 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false
+            "unceratin_till": false,
+            "uncertain_place": false
           }
         ],
         "prov_place": [
@@ -13187,12 +13294,18 @@
       }
     ],
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-01-16",
+    "Last modified": "2025-02-06",
     "content_summary": null,
-    "charakter": [],
+    "charakter": [
+      {
+        "id": 17451,
+        "value": "Gebrauchshandschrift",
+        "color": "light-orange"
+      }
+    ],
     "case_study": [
       {
         "id": 17441,
@@ -13318,7 +13431,8 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false
+            "unceratin_till": false,
+            "uncertain_place": false
           }
         ],
         "prov_place": [
@@ -13591,9 +13705,15 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-01-16",
+    "Last modified": "2025-02-06",
     "content_summary": null,
-    "charakter": [],
+    "charakter": [
+      {
+        "id": 17451,
+        "value": "Gebrauchshandschrift",
+        "color": "light-orange"
+      }
+    ],
     "case_study": [
       {
         "id": 17441,
@@ -13719,7 +13839,8 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false
+            "unceratin_till": false,
+            "uncertain_place": false
           },
           {
             "id": 32,
@@ -13759,7 +13880,12 @@
                 "Last modified": "2024-07-11"
               }
             ],
-            "from": [],
+            "from": [
+              {
+                "id": 36,
+                "value": "12. Jh."
+              }
+            ],
             "type": [
               {
                 "id": 18151,
@@ -13781,8 +13907,9 @@
             ],
             "authority": [],
             "page": "",
-            "uncertain_from": false,
-            "unceratin_till": false
+            "uncertain_from": true,
+            "unceratin_till": false,
+            "uncertain_place": false
           }
         ],
         "prov_place": [
@@ -14028,7 +14155,8 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false
+            "unceratin_till": false,
+            "uncertain_place": false
           }
         ],
         "prov_place": [
@@ -14291,12 +14419,18 @@
       }
     ],
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-01-16",
+    "Last modified": "2025-02-06",
     "content_summary": null,
-    "charakter": [],
+    "charakter": [
+      {
+        "id": 17451,
+        "value": "Gebrauchshandschrift",
+        "color": "light-orange"
+      }
+    ],
     "case_study": [
       {
         "id": 17441,
@@ -14432,7 +14566,8 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false
+            "unceratin_till": false,
+            "uncertain_place": false
           },
           {
             "id": 31,
@@ -14499,8 +14634,9 @@
             ],
             "authority": [],
             "page": "",
-            "uncertain_from": false,
-            "unceratin_till": false
+            "uncertain_from": true,
+            "unceratin_till": false,
+            "uncertain_place": false
           }
         ],
         "prov_place": [
@@ -14641,7 +14777,8 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false
+            "unceratin_till": false,
+            "uncertain_place": false
           }
         ],
         "prov_place": [
@@ -15774,7 +15911,8 @@
             ],
             "page": "58-62",
             "uncertain_from": false,
-            "unceratin_till": false
+            "unceratin_till": false,
+            "uncertain_place": false
           },
           {
             "id": 5,
@@ -15837,7 +15975,8 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false
+            "unceratin_till": false,
+            "uncertain_place": false
           }
         ],
         "prov_place": [

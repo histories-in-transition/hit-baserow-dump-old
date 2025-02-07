@@ -255,9 +255,15 @@
                       "id": 87,
                       "name": "Ksenia Borisova"
                     },
-                    "Last modified": "2025-01-22",
+                    "Last modified": "2025-02-06",
                     "content_summary": null,
-                    "charakter": [],
+                    "charakter": [
+                      {
+                        "id": 17451,
+                        "value": "Gebrauchshandschrift",
+                        "color": "light-orange"
+                      }
+                    ],
                     "case_study": [
                       {
                         "id": 17441,
@@ -514,7 +520,8 @@
                         "authority": [],
                         "page": "",
                         "uncertain_from": false,
-                        "unceratin_till": false
+                        "unceratin_till": false,
+                        "uncertain_place": false
                       }
                     ],
                     "prov_place": [
@@ -1156,12 +1163,18 @@
                       }
                     ],
                     "Last modified by": {
-                      "id": 36,
-                      "name": "Ivana Dobcheva"
+                      "id": 87,
+                      "name": "Ksenia Borisova"
                     },
-                    "Last modified": "2025-01-16",
+                    "Last modified": "2025-02-06",
                     "content_summary": null,
-                    "charakter": [],
+                    "charakter": [
+                      {
+                        "id": 17451,
+                        "value": "Gebrauchshandschrift",
+                        "color": "light-orange"
+                      }
+                    ],
                     "case_study": [
                       {
                         "id": 17441,
@@ -1406,7 +1419,8 @@
                         "authority": [],
                         "page": "",
                         "uncertain_from": false,
-                        "unceratin_till": false
+                        "unceratin_till": false,
+                        "uncertain_place": false
                       }
                     ],
                     "prov_place": [
@@ -6746,7 +6760,8 @@
                         ],
                         "page": null,
                         "uncertain_from": false,
-                        "unceratin_till": false
+                        "unceratin_till": false,
+                        "uncertain_place": false
                       },
                       {
                         "id": 2,
@@ -6804,7 +6819,8 @@
                         "authority": [],
                         "page": null,
                         "uncertain_from": false,
-                        "unceratin_till": false
+                        "unceratin_till": false,
+                        "uncertain_place": false
                       }
                     ],
                     "prov_place": [
@@ -8347,7 +8363,8 @@
                         ],
                         "page": null,
                         "uncertain_from": false,
-                        "unceratin_till": false
+                        "unceratin_till": false,
+                        "uncertain_place": false
                       },
                       {
                         "id": 2,
@@ -8405,7 +8422,8 @@
                         "authority": [],
                         "page": null,
                         "uncertain_from": false,
-                        "unceratin_till": false
+                        "unceratin_till": false,
+                        "uncertain_place": false
                       }
                     ],
                     "prov_place": [
@@ -9993,7 +10011,8 @@
                         ],
                         "page": null,
                         "uncertain_from": false,
-                        "unceratin_till": false
+                        "unceratin_till": false,
+                        "uncertain_place": false
                       },
                       {
                         "id": 2,
@@ -10051,7 +10070,8 @@
                         "authority": [],
                         "page": null,
                         "uncertain_from": false,
-                        "unceratin_till": false
+                        "unceratin_till": false,
+                        "uncertain_place": false
                       }
                     ],
                     "prov_place": [
@@ -10620,7 +10640,7 @@
                     "function": [
                       {
                         "id": 18168,
-                        "value": "anlegend (?) = inhaltlich?",
+                        "value": "anlegend / Anlage",
                         "color": "light-blue"
                       }
                     ],
@@ -11691,7 +11711,8 @@
                         ],
                         "page": null,
                         "uncertain_from": false,
-                        "unceratin_till": false
+                        "unceratin_till": false,
+                        "uncertain_place": false
                       },
                       {
                         "id": 2,
@@ -11749,7 +11770,8 @@
                         "authority": [],
                         "page": null,
                         "uncertain_from": false,
-                        "unceratin_till": false
+                        "unceratin_till": false,
+                        "uncertain_place": false
                       }
                     ],
                     "prov_place": [
@@ -13438,7 +13460,8 @@
                         ],
                         "page": null,
                         "uncertain_from": false,
-                        "unceratin_till": false
+                        "unceratin_till": false,
+                        "uncertain_place": false
                       },
                       {
                         "id": 2,
@@ -13496,7 +13519,8 @@
                         "authority": [],
                         "page": null,
                         "uncertain_from": false,
-                        "unceratin_till": false
+                        "unceratin_till": false,
+                        "uncertain_place": false
                       }
                     ],
                     "prov_place": [
@@ -14155,7 +14179,7 @@
                       "id": 86,
                       "name": "Leon Pürstinger"
                     },
-                    "Last modified": "2025-01-31",
+                    "Last modified": "2025-02-06",
                     "locus_layout": [
                       {
                         "id": 15841,
@@ -14166,11 +14190,17 @@
                     "function": [
                       {
                         "id": 18168,
-                        "value": "anlegend (?) = inhaltlich?",
+                        "value": "anlegend / Anlage",
                         "color": "light-blue"
                       }
                     ],
-                    "role_to_ms_context": []
+                    "role_to_ms_context": [
+                      {
+                        "id": 18173,
+                        "value": "Fortsetzung",
+                        "color": "red"
+                      }
+                    ]
                   }
                 ],
                 "cod_unit": [
@@ -14770,7 +14800,8 @@
                         "authority": [],
                         "page": "",
                         "uncertain_from": false,
-                        "unceratin_till": false
+                        "unceratin_till": false,
+                        "uncertain_place": false
                       }
                     ],
                     "prov_place": [
@@ -15916,7 +15947,8 @@
                         "authority": [],
                         "page": "",
                         "uncertain_from": false,
-                        "unceratin_till": false
+                        "unceratin_till": false,
+                        "uncertain_place": false
                       }
                     ],
                     "prov_place": [
@@ -17064,7 +17096,8 @@
                         "authority": [],
                         "page": "",
                         "uncertain_from": false,
-                        "unceratin_till": false
+                        "unceratin_till": false,
+                        "uncertain_place": false
                       }
                     ],
                     "prov_place": [
@@ -17591,7 +17624,7 @@
                       "id": 86,
                       "name": "Leon Pürstinger"
                     },
-                    "Last modified": "2025-01-31",
+                    "Last modified": "2025-02-06",
                     "locus_layout": [
                       {
                         "id": 15841,
@@ -17608,9 +17641,9 @@
                     ],
                     "role_to_ms_context": [
                       {
-                        "id": 18165,
-                        "value": "Erweiterung",
-                        "color": "darker-blue"
+                        "id": 18167,
+                        "value": "Überarbeitung",
+                        "color": "dark-pink"
                       }
                     ]
                   }
@@ -18679,7 +18712,8 @@
                         ],
                         "page": null,
                         "uncertain_from": false,
-                        "unceratin_till": false
+                        "unceratin_till": false,
+                        "uncertain_place": false
                       },
                       {
                         "id": 2,
@@ -18737,7 +18771,8 @@
                         "authority": [],
                         "page": null,
                         "uncertain_from": false,
-                        "unceratin_till": false
+                        "unceratin_till": false,
+                        "uncertain_place": false
                       }
                     ],
                     "prov_place": [
@@ -18825,7 +18860,7 @@
               "id": 86,
               "name": "Leon Pürstinger"
             },
-            "Last modified": "2025-01-31",
+            "Last modified": "2025-02-06",
             "locus_layout": [
               {
                 "id": 15841,
@@ -18842,9 +18877,9 @@
             ],
             "role_to_ms_context": [
               {
-                "id": 18165,
-                "value": "Erweiterung",
-                "color": "darker-blue"
+                "id": 18167,
+                "value": "Überarbeitung",
+                "color": "dark-pink"
               }
             ]
           }

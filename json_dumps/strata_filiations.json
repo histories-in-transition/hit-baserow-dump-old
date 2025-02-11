@@ -1,0 +1,57 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "label": [
+      {
+        "id": 11,
+        "value": "Saint-Omer, Cod. Test, "
+      }
+    ],
+    "work": [
+      {
+        "id": 4,
+        "value": "De cyclo paschali",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 7,
+        "value": "De temporum ratione",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "library": [
+      {
+        "id": 11,
+        "value": "Saint-Omer",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "idno": "Cod. Test",
+    "locus": "",
+    "catalog_url": "",
+    "hit_id": "hit_filiation__1"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "label": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. TEST, 21-12"
+      }
+    ],
+    "work": [],
+    "library": [
+      {
+        "id": 1,
+        "value": "ÖNB",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "idno": "Cod. TEST",
+    "locus": "21-12",
+    "catalog_url": "",
+    "hit_id": "hit_filiation__2"
+  }
+}

@@ -7799,12 +7799,27 @@
         "id": 126,
         "value": "hit_hands_role__126",
         "order": "112.00000000000000000000"
+      },
+      {
+        "id": 127,
+        "value": "hit_hands_role__127",
+        "order": "113.00000000000000000000"
       }
     ],
     "role": [
       {
         "id": 126,
         "value": []
+      },
+      {
+        "id": 127,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
       }
     ],
     "texts": [
@@ -7814,6 +7829,13 @@
           "database_table_3491": 47
         },
         "value": "Historia ecclesiastica cum Rufini continuatione"
+      },
+      {
+        "ids": {
+          "database_table_3489": 30,
+          "database_table_3491": 48
+        },
+        "value": "Historia Ottonis"
       }
     ],
     "hands_dated": [
@@ -7851,80 +7873,11 @@
           "database_table_3487": 12,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6388_H. 1"
-      }
-    ],
-    "description": "",
-    "hit_id": "hit_hands__101",
-    "similar_hands": [],
-    "nr_daniel": "",
-    "manuscript": [
-      {
-        "id": 12,
-        "value": "BSB, Clm. 6388",
-        "order": "11.00000000000000000000"
-      }
-    ],
-    "number": "1",
-    "note": "",
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-09-04",
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-09-04",
-    "hands_role": [
-      {
-        "id": 127,
-        "value": "hit_hands_role__127",
-        "order": "113.00000000000000000000"
-      }
-    ],
-    "role": [
-      {
-        "id": 127,
-        "value": [
-          {
-            "id": 14758,
-            "value": "Schreiber",
-            "color": "darker-red"
-          }
-        ]
-      }
-    ],
-    "texts": [
-      {
-        "ids": {
-          "database_table_3489": 30,
-          "database_table_3491": 48
-        },
-        "value": "Historia Ottonis"
-      }
-    ],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
-    "scribe": [],
-    "gruppe": false
-  },
-  "102": {
-    "id": 102,
-    "order": "94.00000000000000000000",
-    "label": [
-      {
-        "ids": {
-          "database_table_3487": 12,
-          "database_table_3488": 4
-        },
         "value": "BSB, Clm. 6388_H. 2"
       }
     ],
-    "description": "",
-    "hit_id": "hit_hands__102",
+    "description": "eine italienische Hand",
+    "hit_id": "hit_hands__101",
     "similar_hands": [],
     "nr_daniel": "",
     "manuscript": [
@@ -7945,10 +7898,98 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-04",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
+    "Last modified": "2025-02-11",
+    "hands_role": [
+      {
+        "id": 160,
+        "value": "hit_hands_role__160",
+        "order": "146.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 160,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 31,
+          "database_table_3491": 49
+        },
+        "value": "Antapodosis"
+      }
+    ],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": false
+  },
+  "102": {
+    "id": 102,
+    "order": "94.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 12,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6388_H. 1"
+      }
+    ],
+    "description": "",
+    "hit_id": "hit_hands__102",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 12,
+        "value": "BSB, Clm. 6388",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-11",
+    "hands_role": [
+      {
+        "id": 161,
+        "value": "hit_hands_role__161",
+        "order": "147.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 161,
+        "value": []
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 30,
+          "database_table_3491": 48
+        },
+        "value": "Historia Ottonis"
+      }
+    ],
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
@@ -8291,182 +8332,6 @@
     "scribe": [],
     "gruppe": false
   },
-  "109": {
-    "id": 109,
-    "order": "101.00000000000000000000",
-    "label": [
-      {
-        "ids": {
-          "database_table_3487": 12,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6388_H. "
-      }
-    ],
-    "description": "",
-    "hit_id": "hit_hands__109",
-    "similar_hands": [],
-    "nr_daniel": "",
-    "manuscript": [
-      {
-        "id": 12,
-        "value": "BSB, Clm. 6388",
-        "order": "11.00000000000000000000"
-      }
-    ],
-    "number": null,
-    "note": "",
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-10-01",
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-10-01",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
-    "scribe": [],
-    "gruppe": false
-  },
-  "110": {
-    "id": 110,
-    "order": "102.00000000000000000000",
-    "label": [
-      {
-        "ids": {
-          "database_table_3487": 12,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6388_H. "
-      }
-    ],
-    "description": "",
-    "hit_id": "hit_hands__110",
-    "similar_hands": [],
-    "nr_daniel": "",
-    "manuscript": [
-      {
-        "id": 12,
-        "value": "BSB, Clm. 6388",
-        "order": "11.00000000000000000000"
-      }
-    ],
-    "number": null,
-    "note": "",
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-10-01",
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-10-01",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
-    "scribe": [],
-    "gruppe": false
-  },
-  "111": {
-    "id": 111,
-    "order": "103.00000000000000000000",
-    "label": [
-      {
-        "ids": {
-          "database_table_3487": 12,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6388_H. "
-      }
-    ],
-    "description": "",
-    "hit_id": "hit_hands__111",
-    "similar_hands": [],
-    "nr_daniel": "",
-    "manuscript": [
-      {
-        "id": 12,
-        "value": "BSB, Clm. 6388",
-        "order": "11.00000000000000000000"
-      }
-    ],
-    "number": null,
-    "note": "",
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-10-01",
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-10-01",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
-    "scribe": [],
-    "gruppe": false
-  },
-  "112": {
-    "id": 112,
-    "order": "104.00000000000000000000",
-    "label": [
-      {
-        "ids": {
-          "database_table_3487": 12,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6388_H. "
-      }
-    ],
-    "description": "",
-    "hit_id": "hit_hands__112",
-    "similar_hands": [],
-    "nr_daniel": "",
-    "manuscript": [
-      {
-        "id": 12,
-        "value": "BSB, Clm. 6388",
-        "order": "11.00000000000000000000"
-      }
-    ],
-    "number": null,
-    "note": "",
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-10-01",
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-10-01",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
-    "scribe": [],
-    "gruppe": false
-  },
   "113": {
     "id": 113,
     "order": "105.00000000000000000000",
@@ -8476,7 +8341,7 @@
           "database_table_3487": 12,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6388_H. "
+        "value": "BSB, Clm. 6388_H. 3"
       }
     ],
     "description": "",
@@ -8490,7 +8355,7 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "number": null,
+    "number": "3",
     "note": "",
     "Created by": {
       "id": 87,
@@ -8501,7 +8366,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-01",
+    "Last modified": "2025-02-11",
     "hands_role": [],
     "role": [],
     "texts": [],
@@ -8778,7 +8643,15 @@
         "value": []
       }
     ],
-    "texts": [],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 31,
+          "database_table_3491": 49
+        },
+        "value": "Antapodosis"
+      }
+    ],
     "hands_dated": [
       {
         "id": 89,

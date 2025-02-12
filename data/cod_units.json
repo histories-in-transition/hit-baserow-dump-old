@@ -33359,8 +33359,8 @@
             "hit_id": "hit_hands_role__127",
             "hand": [
               {
-                "id": 101,
-                "value": "BSB, Clm. 6388_H. 1"
+                "id": 100,
+                "value": "BSB, Clm. 6383_H. 1"
               }
             ],
             "ms_item": [
@@ -33396,7 +33396,7 @@
               "id": 87,
               "name": "Ksenia Borisova"
             },
-            "Last modified": "2024-12-05",
+            "Last modified": "2025-02-11",
             "locus_layout": [
               {
                 "id": 15841,
@@ -33404,6 +33404,47 @@
                 "color": "green"
               }
             ],
+            "function": [],
+            "role_to_ms_context": []
+          },
+          {
+            "id": 161,
+            "hit_id": "hit_hands_role__161",
+            "hand": [
+              {
+                "id": 102,
+                "value": "BSB, Clm. 6388_H. 1"
+              }
+            ],
+            "ms_item": [
+              {
+                "id": 48,
+                "value": "clm_6388__48"
+              }
+            ],
+            "role": [],
+            "locus": "",
+            "text": [
+              {
+                "ids": {
+                  "database_table_3489": 30,
+                  "database_table_3491": 48
+                },
+                "value": "Historia Ottonis"
+              }
+            ],
+            "locus_text": [
+              {
+                "id": 48,
+                "value": "1r-8r"
+              }
+            ],
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2025-02-11",
+            "locus_layout": [],
             "function": [],
             "role_to_ms_context": []
           }
@@ -33728,6 +33769,13 @@
         },
         "note": null,
         "hand": [
+          {
+            "ids": {
+              "database_table_3487": 11,
+              "database_table_3488": 4
+            },
+            "value": "BSB, Clm. 6383_H. 1"
+          },
           {
             "ids": {
               "database_table_3487": 12,
@@ -34305,8 +34353,8 @@
             "hit_id": "hit_hands_role__127",
             "hand": [
               {
-                "id": 101,
-                "value": "BSB, Clm. 6388_H. 1"
+                "id": 100,
+                "value": "BSB, Clm. 6383_H. 1"
               }
             ],
             "ms_item": [
@@ -34342,7 +34390,7 @@
               "id": 87,
               "name": "Ksenia Borisova"
             },
-            "Last modified": "2024-12-05",
+            "Last modified": "2025-02-11",
             "locus_layout": [
               {
                 "id": 15841,
@@ -34350,6 +34398,47 @@
                 "color": "green"
               }
             ],
+            "function": [],
+            "role_to_ms_context": []
+          },
+          {
+            "id": 161,
+            "hit_id": "hit_hands_role__161",
+            "hand": [
+              {
+                "id": 102,
+                "value": "BSB, Clm. 6388_H. 1"
+              }
+            ],
+            "ms_item": [
+              {
+                "id": 48,
+                "value": "clm_6388__48"
+              }
+            ],
+            "role": [],
+            "locus": "",
+            "text": [
+              {
+                "ids": {
+                  "database_table_3489": 30,
+                  "database_table_3491": 48
+                },
+                "value": "Historia Ottonis"
+              }
+            ],
+            "locus_text": [
+              {
+                "id": 48,
+                "value": "1r-8r"
+              }
+            ],
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2025-02-11",
+            "locus_layout": [],
             "function": [],
             "role_to_ms_context": []
           }
@@ -34674,6 +34763,13 @@
         },
         "note": null,
         "hand": [
+          {
+            "ids": {
+              "database_table_3487": 11,
+              "database_table_3488": 4
+            },
+            "value": "BSB, Clm. 6383_H. 1"
+          },
           {
             "ids": {
               "database_table_3487": 12,
@@ -35043,7 +35139,108 @@
         "hit_id": "hit_ms_items__49",
         "filiation": [],
         "locus_grp": "8v-85v",
-        "hands_role": [],
+        "hands_role": [
+          {
+            "id": 154,
+            "hit_id": "hit_hands_role__154",
+            "hand": [
+              {
+                "id": 118,
+                "value": "BSB, Clm. 6383_H. 2"
+              }
+            ],
+            "ms_item": [
+              {
+                "id": 49,
+                "value": "clm_6388__49"
+              }
+            ],
+            "role": [],
+            "locus": "151v",
+            "text": [
+              {
+                "ids": {
+                  "database_table_3489": 31,
+                  "database_table_3491": 49
+                },
+                "value": "Antapodosis"
+              }
+            ],
+            "locus_text": [
+              {
+                "id": 49,
+                "value": "8v-85v"
+              }
+            ],
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2025-02-11",
+            "locus_layout": [],
+            "function": [],
+            "role_to_ms_context": []
+          },
+          {
+            "id": 160,
+            "hit_id": "hit_hands_role__160",
+            "hand": [
+              {
+                "id": 101,
+                "value": "BSB, Clm. 6388_H. 2"
+              }
+            ],
+            "ms_item": [
+              {
+                "id": 49,
+                "value": "clm_6388__49"
+              }
+            ],
+            "role": [
+              {
+                "id": 14758,
+                "value": "Schreiber",
+                "color": "darker-red"
+              }
+            ],
+            "locus": "8r, 9v-82r (oben)",
+            "text": [
+              {
+                "ids": {
+                  "database_table_3489": 31,
+                  "database_table_3491": 49
+                },
+                "value": "Antapodosis"
+              }
+            ],
+            "locus_text": [
+              {
+                "id": 49,
+                "value": "8v-85v"
+              }
+            ],
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2025-02-11",
+            "locus_layout": [
+              {
+                "id": 15841,
+                "value": "Schriftraum (einspaltig/mehrspaltig)",
+                "color": "green"
+              }
+            ],
+            "function": [
+              {
+                "id": 18156,
+                "value": "inhaltlich",
+                "color": "dark-blue"
+              }
+            ],
+            "role_to_ms_context": []
+          }
+        ],
         "cod_unit": [
           {
             "id": 8,
@@ -35243,7 +35440,22 @@
           "name": "Ksenia Borisova"
         },
         "note": null,
-        "hand": [],
+        "hand": [
+          {
+            "ids": {
+              "database_table_3487": 11,
+              "database_table_3488": 4
+            },
+            "value": "BSB, Clm. 6383_H. 2"
+          },
+          {
+            "ids": {
+              "database_table_3487": 12,
+              "database_table_3488": 4
+            },
+            "value": "BSB, Clm. 6388_H. 2"
+          }
+        ],
         "decoration": [],
         "facs_url": "",
         "form": [],
@@ -114448,41 +114660,7 @@
         "hit_id": "hit_ms_items__67",
         "filiation": [],
         "locus_grp": "151v",
-        "hands_role": [
-          {
-            "id": 154,
-            "hit_id": "hit_hands_role__154",
-            "hand": [
-              {
-                "id": 118,
-                "value": "BSB, Clm. 6383_H. 2"
-              }
-            ],
-            "ms_item": [
-              {
-                "id": 67,
-                "value": "clm_6383__67"
-              }
-            ],
-            "role": [],
-            "locus": "151v",
-            "text": [],
-            "locus_text": [
-              {
-                "id": 67,
-                "value": "151v"
-              }
-            ],
-            "Last modified by": {
-              "id": 87,
-              "name": "Ksenia Borisova"
-            },
-            "Last modified": "2024-11-13",
-            "locus_layout": [],
-            "function": [],
-            "role_to_ms_context": []
-          }
-        ],
+        "hands_role": [],
         "cod_unit": [
           {
             "id": 20,
@@ -114617,15 +114795,7 @@
           "name": "Ksenia Borisova"
         },
         "note": null,
-        "hand": [
-          {
-            "ids": {
-              "database_table_3487": 11,
-              "database_table_3488": 4
-            },
-            "value": "BSB, Clm. 6383_H. 2"
-          }
-        ],
+        "hand": [],
         "decoration": [],
         "facs_url": "",
         "form": [],

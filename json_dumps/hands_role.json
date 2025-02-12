@@ -6811,9 +6811,9 @@
     "hit_id": "hit_hands_role__127",
     "hand": [
       {
-        "id": 101,
-        "value": "BSB, Clm. 6388_H. 1",
-        "order": "93.00000000000000000000"
+        "id": 100,
+        "value": "BSB, Clm. 6383_H. 1",
+        "order": "92.00000000000000000000"
       }
     ],
     "ms_item": [
@@ -6855,7 +6855,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-09-02",
-    "Last modified": "2024-12-05",
+    "Last modified": "2025-02-11",
     "locus_layout": [
       {
         "id": 15841,
@@ -7980,18 +7980,26 @@
     ],
     "ms_item": [
       {
-        "id": 67,
-        "value": "clm_6383__67",
-        "order": "60.00000000000000000000"
+        "id": 49,
+        "value": "clm_6388__49",
+        "order": "42.00000000000000000000"
       }
     ],
     "role": [],
     "locus": "151v",
-    "text": [],
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 31,
+          "database_table_3491": 49
+        },
+        "value": "Antapodosis"
+      }
+    ],
     "locus_text": [
       {
-        "id": 67,
-        "value": "151v"
+        "id": 49,
+        "value": "8v-85v"
       }
     ],
     "Last modified by": {
@@ -8003,7 +8011,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-11-13",
-    "Last modified": "2024-11-13",
+    "Last modified": "2025-02-11",
     "locus_layout": [],
     "function": [],
     "role_to_ms_context": []
@@ -8323,46 +8331,114 @@
     "id": 160,
     "order": "146.00000000000000000000",
     "hit_id": "hit_hands_role__160",
-    "hand": [],
-    "ms_item": [],
-    "role": [],
-    "locus": "",
-    "text": [],
-    "locus_text": [],
+    "hand": [
+      {
+        "id": 101,
+        "value": "BSB, Clm. 6388_H. 2",
+        "order": "93.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 49,
+        "value": "clm_6388__49",
+        "order": "42.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "8r, 9v-82r (oben)",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 31,
+          "database_table_3491": 49
+        },
+        "value": "Antapodosis"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 49,
+        "value": "8v-85v"
+      }
+    ],
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Created on": "2025-01-31",
-    "Last modified": "2025-01-31",
-    "locus_layout": [],
-    "function": [],
+    "Last modified": "2025-02-11",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18156,
+        "value": "inhaltlich",
+        "color": "dark-blue"
+      }
+    ],
     "role_to_ms_context": []
   },
   "161": {
     "id": 161,
     "order": "147.00000000000000000000",
     "hit_id": "hit_hands_role__161",
-    "hand": [],
-    "ms_item": [],
+    "hand": [
+      {
+        "id": 102,
+        "value": "BSB, Clm. 6388_H. 1",
+        "order": "94.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 48,
+        "value": "clm_6388__48",
+        "order": "41.00000000000000000000"
+      }
+    ],
     "role": [],
     "locus": "",
-    "text": [],
-    "locus_text": [],
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 30,
+          "database_table_3491": 48
+        },
+        "value": "Historia Ottonis"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 48,
+        "value": "1r-8r"
+      }
+    ],
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Created on": "2025-01-31",
-    "Last modified": "2025-01-31",
+    "Last modified": "2025-02-11",
     "locus_layout": [],
     "function": [],
     "role_to_ms_context": []

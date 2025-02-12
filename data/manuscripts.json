@@ -5135,12 +5135,12 @@
     "status": [],
     "view_label": "BSB, Clm. 210",
     "prev": {
-      "id": "hit_manuscript__33",
-      "label": "Bruxelles KBR, ms. 15835"
+      "id": "hit_manuscript__39",
+      "label": "BSB, Clm 14040"
     },
     "next": {
-      "id": "hit_manuscript__5",
-      "label": "BSB, Clm. 6326"
+      "id": "hit_manuscript__40",
+      "label": "BSB, Clm 14031"
     },
     "related__cod_units": [
       {
@@ -5542,8 +5542,8 @@
     "status": [],
     "view_label": "BSB, Clm. 6326",
     "prev": {
-      "id": "hit_manuscript__4",
-      "label": "BSB, Clm. 210"
+      "id": "hit_manuscript__41",
+      "label": "BSB, Clm 14030"
     },
     "next": {
       "id": "hit_manuscript__6",
@@ -16430,8 +16430,768 @@
       "label": "Saint-Omer, ms. 697"
     },
     "next": {
+      "id": "hit_manuscript__34",
+      "label": "BSB, Clm 14226"
+    },
+    "related__cod_units": []
+  },
+  "34": {
+    "id": 34,
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm 14226"
+      }
+    ],
+    "hit_id": "hit_manuscript__34",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "Clm 14226",
+    "idno_former": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 4,
+        "label": "BSB",
+        "hit_id": "hit_org__4",
+        "gnd_url": "https://d-nb.info/gnd/2031351-2",
+        "library_full": "Bayerische Staatsbibliothek",
+        "library_website": "https://www.bsb-muenchen.de/",
+        "settlement": [
+          {
+            "id": 8,
+            "name": "München",
+            "geonames_url": "https://www.geonames.org/2867714/munich.html",
+            "hit_id": "hit_place__8",
+            "wikidata_url": "",
+            "country": [
+              {
+                "id": 2,
+                "value": "Deutschland"
+              }
+            ],
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-07-09"
+          }
+        ],
+        "wikidata": "",
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-03"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "history": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material_spec": "",
+    "orig_place": [],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": null,
+    "provenance": [],
+    "manuscripts_dated": [],
+    "orig_dated": [],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-11",
+    "content_summary": "",
+    "charakter": [],
+    "case_study": [],
+    "status": [],
+    "view_label": "BSB, Clm 14226",
+    "prev": {
+      "id": "hit_manuscript__33",
+      "label": "Bruxelles KBR, ms. 15835"
+    },
+    "next": {
+      "id": "hit_manuscript__35",
+      "label": "BSB, Clm 14221"
+    },
+    "related__cod_units": []
+  },
+  "35": {
+    "id": 35,
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm 14221"
+      }
+    ],
+    "hit_id": "hit_manuscript__35",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "Clm 14221",
+    "idno_former": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 4,
+        "label": "BSB",
+        "hit_id": "hit_org__4",
+        "gnd_url": "https://d-nb.info/gnd/2031351-2",
+        "library_full": "Bayerische Staatsbibliothek",
+        "library_website": "https://www.bsb-muenchen.de/",
+        "settlement": [
+          {
+            "id": 8,
+            "name": "München",
+            "geonames_url": "https://www.geonames.org/2867714/munich.html",
+            "hit_id": "hit_place__8",
+            "wikidata_url": "",
+            "country": [
+              {
+                "id": 2,
+                "value": "Deutschland"
+              }
+            ],
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-07-09"
+          }
+        ],
+        "wikidata": "",
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-03"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "history": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material_spec": "",
+    "orig_place": [],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": null,
+    "provenance": [],
+    "manuscripts_dated": [],
+    "orig_dated": [],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-11",
+    "content_summary": "",
+    "charakter": [],
+    "case_study": [],
+    "status": [],
+    "view_label": "BSB, Clm 14221",
+    "prev": {
+      "id": "hit_manuscript__34",
+      "label": "BSB, Clm 14226"
+    },
+    "next": {
+      "id": "hit_manuscript__36",
+      "label": "BSB, Clm 14210"
+    },
+    "related__cod_units": []
+  },
+  "36": {
+    "id": 36,
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm 14210"
+      }
+    ],
+    "hit_id": "hit_manuscript__36",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "Clm 14210",
+    "idno_former": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 4,
+        "label": "BSB",
+        "hit_id": "hit_org__4",
+        "gnd_url": "https://d-nb.info/gnd/2031351-2",
+        "library_full": "Bayerische Staatsbibliothek",
+        "library_website": "https://www.bsb-muenchen.de/",
+        "settlement": [
+          {
+            "id": 8,
+            "name": "München",
+            "geonames_url": "https://www.geonames.org/2867714/munich.html",
+            "hit_id": "hit_place__8",
+            "wikidata_url": "",
+            "country": [
+              {
+                "id": 2,
+                "value": "Deutschland"
+              }
+            ],
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-07-09"
+          }
+        ],
+        "wikidata": "",
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-03"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "history": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material_spec": "",
+    "orig_place": [],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": null,
+    "provenance": [],
+    "manuscripts_dated": [],
+    "orig_dated": [],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-11",
+    "content_summary": "",
+    "charakter": [],
+    "case_study": [],
+    "status": [],
+    "view_label": "BSB, Clm 14210",
+    "prev": {
+      "id": "hit_manuscript__35",
+      "label": "BSB, Clm 14221"
+    },
+    "next": {
+      "id": "hit_manuscript__37",
+      "label": "BSB, Clm 14095"
+    },
+    "related__cod_units": []
+  },
+  "37": {
+    "id": 37,
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm 14095"
+      }
+    ],
+    "hit_id": "hit_manuscript__37",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "Clm 14095",
+    "idno_former": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 4,
+        "label": "BSB",
+        "hit_id": "hit_org__4",
+        "gnd_url": "https://d-nb.info/gnd/2031351-2",
+        "library_full": "Bayerische Staatsbibliothek",
+        "library_website": "https://www.bsb-muenchen.de/",
+        "settlement": [
+          {
+            "id": 8,
+            "name": "München",
+            "geonames_url": "https://www.geonames.org/2867714/munich.html",
+            "hit_id": "hit_place__8",
+            "wikidata_url": "",
+            "country": [
+              {
+                "id": 2,
+                "value": "Deutschland"
+              }
+            ],
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-07-09"
+          }
+        ],
+        "wikidata": "",
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-03"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "history": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material_spec": "",
+    "orig_place": [],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": null,
+    "provenance": [],
+    "manuscripts_dated": [],
+    "orig_dated": [],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-11",
+    "content_summary": "",
+    "charakter": [],
+    "case_study": [],
+    "status": [],
+    "view_label": "BSB, Clm 14095",
+    "prev": {
+      "id": "hit_manuscript__36",
+      "label": "BSB, Clm 14210"
+    },
+    "next": {
+      "id": "hit_manuscript__38",
+      "label": "BSB, Clm 14070"
+    },
+    "related__cod_units": []
+  },
+  "38": {
+    "id": 38,
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm 14070"
+      }
+    ],
+    "hit_id": "hit_manuscript__38",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "Clm 14070",
+    "idno_former": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 4,
+        "label": "BSB",
+        "hit_id": "hit_org__4",
+        "gnd_url": "https://d-nb.info/gnd/2031351-2",
+        "library_full": "Bayerische Staatsbibliothek",
+        "library_website": "https://www.bsb-muenchen.de/",
+        "settlement": [
+          {
+            "id": 8,
+            "name": "München",
+            "geonames_url": "https://www.geonames.org/2867714/munich.html",
+            "hit_id": "hit_place__8",
+            "wikidata_url": "",
+            "country": [
+              {
+                "id": 2,
+                "value": "Deutschland"
+              }
+            ],
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-07-09"
+          }
+        ],
+        "wikidata": "",
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-03"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "history": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material_spec": "",
+    "orig_place": [],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": null,
+    "provenance": [],
+    "manuscripts_dated": [],
+    "orig_dated": [],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-11",
+    "content_summary": "",
+    "charakter": [],
+    "case_study": [],
+    "status": [],
+    "view_label": "BSB, Clm 14070",
+    "prev": {
+      "id": "hit_manuscript__37",
+      "label": "BSB, Clm 14095"
+    },
+    "next": {
+      "id": "hit_manuscript__39",
+      "label": "BSB, Clm 14040"
+    },
+    "related__cod_units": []
+  },
+  "39": {
+    "id": 39,
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm 14040"
+      }
+    ],
+    "hit_id": "hit_manuscript__39",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "Clm 14040",
+    "idno_former": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 4,
+        "label": "BSB",
+        "hit_id": "hit_org__4",
+        "gnd_url": "https://d-nb.info/gnd/2031351-2",
+        "library_full": "Bayerische Staatsbibliothek",
+        "library_website": "https://www.bsb-muenchen.de/",
+        "settlement": [
+          {
+            "id": 8,
+            "name": "München",
+            "geonames_url": "https://www.geonames.org/2867714/munich.html",
+            "hit_id": "hit_place__8",
+            "wikidata_url": "",
+            "country": [
+              {
+                "id": 2,
+                "value": "Deutschland"
+              }
+            ],
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-07-09"
+          }
+        ],
+        "wikidata": "",
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-03"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "history": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material_spec": "",
+    "orig_place": [],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": null,
+    "provenance": [],
+    "manuscripts_dated": [],
+    "orig_dated": [],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-11",
+    "content_summary": "",
+    "charakter": [],
+    "case_study": [],
+    "status": [],
+    "view_label": "BSB, Clm 14040",
+    "prev": {
+      "id": "hit_manuscript__38",
+      "label": "BSB, Clm 14070"
+    },
+    "next": {
       "id": "hit_manuscript__4",
       "label": "BSB, Clm. 210"
+    },
+    "related__cod_units": []
+  },
+  "40": {
+    "id": 40,
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm 14031"
+      }
+    ],
+    "hit_id": "hit_manuscript__40",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "Clm 14031",
+    "idno_former": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 4,
+        "label": "BSB",
+        "hit_id": "hit_org__4",
+        "gnd_url": "https://d-nb.info/gnd/2031351-2",
+        "library_full": "Bayerische Staatsbibliothek",
+        "library_website": "https://www.bsb-muenchen.de/",
+        "settlement": [
+          {
+            "id": 8,
+            "name": "München",
+            "geonames_url": "https://www.geonames.org/2867714/munich.html",
+            "hit_id": "hit_place__8",
+            "wikidata_url": "",
+            "country": [
+              {
+                "id": 2,
+                "value": "Deutschland"
+              }
+            ],
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-07-09"
+          }
+        ],
+        "wikidata": "",
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-03"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "history": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material_spec": "",
+    "orig_place": [],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": null,
+    "provenance": [],
+    "manuscripts_dated": [],
+    "orig_dated": [],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-11",
+    "content_summary": "",
+    "charakter": [],
+    "case_study": [],
+    "status": [],
+    "view_label": "BSB, Clm 14031",
+    "prev": {
+      "id": "hit_manuscript__4",
+      "label": "BSB, Clm. 210"
+    },
+    "next": {
+      "id": "hit_manuscript__41",
+      "label": "BSB, Clm 14030"
+    },
+    "related__cod_units": []
+  },
+  "41": {
+    "id": 41,
+    "shelfmark": [
+      {
+        "id": 4,
+        "value": "BSB, Clm 14030"
+      }
+    ],
+    "hit_id": "hit_manuscript__41",
+    "library": [
+      {
+        "id": 4,
+        "value": "BSB"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "Clm 14030",
+    "idno_former": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 4,
+        "label": "BSB",
+        "hit_id": "hit_org__4",
+        "gnd_url": "https://d-nb.info/gnd/2031351-2",
+        "library_full": "Bayerische Staatsbibliothek",
+        "library_website": "https://www.bsb-muenchen.de/",
+        "settlement": [
+          {
+            "id": 8,
+            "name": "München",
+            "geonames_url": "https://www.geonames.org/2867714/munich.html",
+            "hit_id": "hit_place__8",
+            "wikidata_url": "",
+            "country": [
+              {
+                "id": 2,
+                "value": "Deutschland"
+              }
+            ],
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "Last modified": "2024-07-09"
+          }
+        ],
+        "wikidata": "",
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-03"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "history": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material_spec": "",
+    "orig_place": [],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": null,
+    "provenance": [],
+    "manuscripts_dated": [],
+    "orig_dated": [],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-11",
+    "content_summary": "",
+    "charakter": [],
+    "case_study": [],
+    "status": [],
+    "view_label": "BSB, Clm 14030",
+    "prev": {
+      "id": "hit_manuscript__40",
+      "label": "BSB, Clm 14031"
+    },
+    "next": {
+      "id": "hit_manuscript__5",
+      "label": "BSB, Clm. 6326"
     },
     "related__cod_units": []
   }

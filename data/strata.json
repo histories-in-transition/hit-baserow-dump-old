@@ -127,7 +127,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__5",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "1v-21r",
             "hands_role": [
               {
@@ -1588,7 +1588,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__8",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "23r-97v",
             "hands_role": [
               {
@@ -3115,7 +3115,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__8",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "23r-97v",
             "hands_role": [
               {
@@ -4642,7 +4642,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__8",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "23r-97v",
             "hands_role": [
               {
@@ -6149,7 +6149,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__7",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "21v-22r",
             "hands_role": [
               {
@@ -7448,13 +7448,14 @@
     "strata_filiation": [
       {
         "id": 1,
-        "value": "Saint-Omer, Cod. Test, "
+        "value": "Saint-Omer, Cod. 123, "
       },
       {
         "id": 2,
         "value": "ÖNB, Cod. TEST, 21-12"
       }
     ],
+    "note_filiation": null,
     "view_label": "Cod. M. p. th. f. 46, Stratum 1",
     "prev": {
       "id": "hit_strata__9",
@@ -7613,7 +7614,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__10",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "1v-2r",
             "hands_role": [
               {
@@ -8962,7 +8963,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__68",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "1r",
             "hands_role": [
               {
@@ -10356,7 +10357,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__13",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "22v-22v",
             "hands_role": [
               {
@@ -11714,7 +11715,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__12",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "11v-17r",
             "hands_role": [
               {
@@ -13231,7 +13232,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__12",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "11v-17r",
             "hands_role": [
               {
@@ -14687,6 +14688,7 @@
     },
     "Last modified": "2024-10-15",
     "strata_filiation": [],
+    "note_filiation": null,
     "view_label": "Cod. M. p. th. f. 46, Stratum 2",
     "prev": {
       "id": "hit_strata__19",
@@ -14838,7 +14840,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__11",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "98r-144v",
             "hands_role": [
               {
@@ -15739,6 +15741,7 @@
     },
     "Last modified": "2024-10-15",
     "strata_filiation": [],
+    "note_filiation": null,
     "view_label": "Cod. M. p. th. f. 46, Stratum 3",
     "prev": {
       "id": "hit_strata__3",
@@ -15854,7 +15857,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__75",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "149r",
             "hands_role": [
               {
@@ -16226,7 +16229,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__77",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "149v",
             "hands_role": [
               {
@@ -16522,6 +16525,7 @@
     },
     "Last modified": "2024-09-19",
     "strata_filiation": [],
+    "note_filiation": null,
     "view_label": "Cod. M. p. th. f. 46, Stratum 4",
     "prev": {
       "id": "hit_strata__4",
@@ -16601,7 +16605,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__81",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "19v",
             "hands_role": [
               {
@@ -17935,7 +17939,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__83",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "98r",
             "hands_role": [
               {
@@ -18736,7 +18740,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__82",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "20v | 21r | 98v (?)",
             "hands_role": [
               {
@@ -20033,6 +20037,7 @@
     },
     "Last modified": "2024-09-19",
     "strata_filiation": [],
+    "note_filiation": null,
     "view_label": "Cod. M. p. th. f. 46, Stratum 5",
     "prev": {
       "id": "hit_strata__1",
@@ -20155,7 +20160,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__85",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "6r",
             "hands_role": [
               {
@@ -21489,7 +21494,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__14",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "145r",
             "hands_role": [
               {
@@ -21642,6 +21647,7 @@
     },
     "Last modified": "2024-09-19",
     "strata_filiation": [],
+    "note_filiation": null,
     "view_label": "Cod. M. p. th. f. 46, Stratum 6",
     "prev": {
       "id": "hit_strata__10",
@@ -21793,7 +21799,7 @@
             "final_rubric": "Explicit liber primus",
             "siglum": "",
             "hit_id": "hit_ms_items__18",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "1r-32r",
             "hands_role": [
               {
@@ -21991,7 +21997,7 @@
                 "role": [
                   {
                     "id": 14760,
-                    "value": "corrector",
+                    "value": "corrector OUTDATED",
                     "color": "darker-yellow"
                   }
                 ],
@@ -22042,7 +22048,7 @@
                 "function": [
                   {
                     "id": 15098,
-                    "value": "grammatikalisch",
+                    "value": "grammatikalisch OUTDATED",
                     "color": "red"
                   },
                   {
@@ -23623,7 +23629,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__19",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "32v-45r",
             "hands_role": [
               {
@@ -25362,7 +25368,7 @@
             "final_rubric": "Explicit dialogus secundus de vita sancti Martini",
             "siglum": "",
             "hit_id": "hit_ms_items__20",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "45v-117v",
             "hands_role": [
               {
@@ -27150,7 +27156,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__21",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "117v-122r",
             "hands_role": [
               {
@@ -27348,7 +27354,7 @@
                 "role": [
                   {
                     "id": 14760,
-                    "value": "corrector",
+                    "value": "corrector OUTDATED",
                     "color": "darker-yellow"
                   }
                 ],
@@ -27399,7 +27405,7 @@
                 "function": [
                   {
                     "id": 15098,
-                    "value": "grammatikalisch",
+                    "value": "grammatikalisch OUTDATED",
                     "color": "red"
                   },
                   {
@@ -29024,7 +29030,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__22",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "122r-125r",
             "hands_role": [
               {
@@ -30763,7 +30769,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__23",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "125r-129r",
             "hands_role": [
               {
@@ -32546,7 +32552,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__79",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "129v",
             "hands_role": [
               {
@@ -34273,7 +34279,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__24",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "129rv-130v",
             "hands_role": [
               {
@@ -35957,7 +35963,7 @@
             "final_rubric": "Explicit liber beati Martini episcopi",
             "siglum": "",
             "hit_id": "hit_ms_items__25",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "130v-133r",
             "hands_role": [
               {
@@ -37729,9 +37735,10 @@
     },
     "Last modified": "2024-10-23",
     "strata_filiation": [],
+    "note_filiation": null,
     "view_label": "Clm. 6326, Stratum 1",
     "prev": {
-      "id": "hit_strata__24",
+      "id": "hit_strata__25",
       "label": "NO MATCH FOR $..label[0].value"
     },
     "next": {
@@ -37863,7 +37870,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__17",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "1r-149r",
             "hands_role": [
               {
@@ -37937,12 +37944,12 @@
                 "role": [
                   {
                     "id": 14763,
-                    "value": "Annotation",
+                    "value": "Annotation OUTDATED",
                     "color": "cyan"
                   },
                   {
                     "id": 14760,
-                    "value": "corrector",
+                    "value": "corrector OUTDATED",
                     "color": "darker-yellow"
                   }
                 ],
@@ -37987,7 +37994,7 @@
                   },
                   {
                     "id": 15098,
-                    "value": "grammatikalisch",
+                    "value": "grammatikalisch OUTDATED",
                     "color": "red"
                   },
                   {
@@ -38016,12 +38023,12 @@
                 "role": [
                   {
                     "id": 14760,
-                    "value": "corrector",
+                    "value": "corrector OUTDATED",
                     "color": "darker-yellow"
                   },
                   {
                     "id": 14763,
-                    "value": "Annotation",
+                    "value": "Annotation OUTDATED",
                     "color": "cyan"
                   }
                 ],
@@ -38066,7 +38073,7 @@
                   },
                   {
                     "id": 15098,
-                    "value": "grammatikalisch",
+                    "value": "grammatikalisch OUTDATED",
                     "color": "red"
                   }
                 ],
@@ -39736,6 +39743,7 @@
     },
     "Last modified": "2024-09-18",
     "strata_filiation": [],
+    "note_filiation": null,
     "view_label": "Clm. 6308, Stratum 1",
     "prev": {
       "id": "hit_strata__5",
@@ -39875,7 +39883,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__17",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "1r-149r",
             "hands_role": [
               {
@@ -39949,12 +39957,12 @@
                 "role": [
                   {
                     "id": 14763,
-                    "value": "Annotation",
+                    "value": "Annotation OUTDATED",
                     "color": "cyan"
                   },
                   {
                     "id": 14760,
-                    "value": "corrector",
+                    "value": "corrector OUTDATED",
                     "color": "darker-yellow"
                   }
                 ],
@@ -39999,7 +40007,7 @@
                   },
                   {
                     "id": 15098,
-                    "value": "grammatikalisch",
+                    "value": "grammatikalisch OUTDATED",
                     "color": "red"
                   },
                   {
@@ -40028,12 +40036,12 @@
                 "role": [
                   {
                     "id": 14760,
-                    "value": "corrector",
+                    "value": "corrector OUTDATED",
                     "color": "darker-yellow"
                   },
                   {
                     "id": 14763,
-                    "value": "Annotation",
+                    "value": "Annotation OUTDATED",
                     "color": "cyan"
                   }
                 ],
@@ -40078,7 +40086,7 @@
                   },
                   {
                     "id": 15098,
-                    "value": "grammatikalisch",
+                    "value": "grammatikalisch OUTDATED",
                     "color": "red"
                   }
                 ],
@@ -41705,12 +41713,12 @@
         "role": [
           {
             "id": 14763,
-            "value": "Annotation",
+            "value": "Annotation OUTDATED",
             "color": "cyan"
           },
           {
             "id": 14760,
-            "value": "corrector",
+            "value": "corrector OUTDATED",
             "color": "darker-yellow"
           }
         ],
@@ -41755,7 +41763,7 @@
           },
           {
             "id": 15098,
-            "value": "grammatikalisch",
+            "value": "grammatikalisch OUTDATED",
             "color": "red"
           },
           {
@@ -41774,6 +41782,7 @@
     },
     "Last modified": "2024-09-18",
     "strata_filiation": [],
+    "note_filiation": null,
     "view_label": "Clm. 6308, Stratum 2",
     "prev": {
       "id": "hit_strata__6",
@@ -41908,7 +41917,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__80",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "1-207 (?)",
             "hands_role": [
               {
@@ -42480,7 +42489,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__80",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "1-207 (?)",
             "hands_role": [
               {
@@ -43046,7 +43055,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__80",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "1-207 (?)",
             "hands_role": [
               {
@@ -43612,7 +43621,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__80",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "1-207 (?)",
             "hands_role": [
               {
@@ -44086,6 +44095,7 @@
     },
     "Last modified": "2024-10-15",
     "strata_filiation": [],
+    "note_filiation": null,
     "view_label": "Cod. 366, Stratum 1",
     "prev": {
       "id": "hit_strata__7",
@@ -44177,7 +44187,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__103",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "4r-7r",
             "hands_role": [
               {
@@ -45711,6 +45721,7 @@
     },
     "Last modified": "2024-10-15",
     "strata_filiation": [],
+    "note_filiation": null,
     "view_label": "Cod. 387, Stratum 1",
     "prev": {
       "id": "hit_strata__8",
@@ -45790,7 +45801,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__93",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "3r",
             "hands_role": [
               {
@@ -47373,7 +47384,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__92",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "3r",
             "hands_role": [
               {
@@ -48919,6 +48930,7 @@
     },
     "Last modified": "2024-10-15",
     "strata_filiation": [],
+    "note_filiation": null,
     "view_label": "Cod. 387, Stratum 2",
     "prev": {
       "id": "hit_strata__13",
@@ -49010,7 +49022,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__123",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "1v",
             "hands_role": [
               {
@@ -49248,7 +49260,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__137",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "5v",
             "hands_role": [
               {
@@ -49328,7 +49340,7 @@
                 "role": [
                   {
                     "id": 15377,
-                    "value": "continuator/Fortsetzer",
+                    "value": "continuator/Fortsetzer OUTDATED",
                     "color": "darker-pink"
                   }
                 ],
@@ -49540,7 +49552,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__138",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "6r-36r",
             "hands_role": [
               {
@@ -49655,7 +49667,7 @@
                 "role": [
                   {
                     "id": 15377,
-                    "value": "continuator/Fortsetzer",
+                    "value": "continuator/Fortsetzer OUTDATED",
                     "color": "darker-pink"
                   }
                 ],
@@ -49749,7 +49761,7 @@
                 "role": [
                   {
                     "id": 15377,
-                    "value": "continuator/Fortsetzer",
+                    "value": "continuator/Fortsetzer OUTDATED",
                     "color": "darker-pink"
                   }
                 ],
@@ -49796,7 +49808,7 @@
                 "role": [
                   {
                     "id": 15377,
-                    "value": "continuator/Fortsetzer",
+                    "value": "continuator/Fortsetzer OUTDATED",
                     "color": "darker-pink"
                   }
                 ],
@@ -50030,7 +50042,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__119",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "1r",
             "hands_role": [
               {
@@ -50110,7 +50122,7 @@
                 "role": [
                   {
                     "id": 15377,
-                    "value": "continuator/Fortsetzer",
+                    "value": "continuator/Fortsetzer OUTDATED",
                     "color": "darker-pink"
                   }
                 ],
@@ -50174,7 +50186,7 @@
                 "role": [
                   {
                     "id": 15377,
-                    "value": "continuator/Fortsetzer",
+                    "value": "continuator/Fortsetzer OUTDATED",
                     "color": "darker-pink"
                   }
                 ],
@@ -50398,7 +50410,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__127",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "2r-2v",
             "hands_role": [
               {
@@ -50648,7 +50660,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__141",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "2v",
             "hands_role": [
               {
@@ -50837,6 +50849,7 @@
     },
     "Last modified": "2024-10-15",
     "strata_filiation": [],
+    "note_filiation": null,
     "view_label": "Cod. 2090, Stratum 1",
     "prev": {
       "id": "hit_strata__11",
@@ -50878,6 +50891,7 @@
     },
     "Last modified": "2024-10-15",
     "strata_filiation": [],
+    "note_filiation": null,
     "view_label": "Cod. 2090, Stratum 2",
     "prev": {
       "id": "hit_strata__12",
@@ -50957,7 +50971,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__179",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "1r-98v",
             "hands_role": [
               {
@@ -50978,7 +50992,7 @@
                 "role": [
                   {
                     "id": 15378,
-                    "value": "\"Erweiterer\"",
+                    "value": "\"Erweiterer\" OUTDATED",
                     "color": "darker-cyan"
                   }
                 ],
@@ -51085,7 +51099,7 @@
         "role": [
           {
             "id": 15378,
-            "value": "\"Erweiterer\"",
+            "value": "\"Erweiterer\" OUTDATED",
             "color": "darker-cyan"
           }
         ],
@@ -51122,6 +51136,7 @@
     },
     "Last modified": "2024-10-15",
     "strata_filiation": [],
+    "note_filiation": null,
     "view_label": "Cod. 2090, Stratum 3",
     "prev": {
       "id": "hit_strata__14",
@@ -51244,7 +51259,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__124",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "1v",
             "hands_role": [
               {
@@ -51501,7 +51516,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__129",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "2v",
             "hands_role": [
               {
@@ -51709,6 +51724,7 @@
     },
     "Last modified": "2024-10-15",
     "strata_filiation": [],
+    "note_filiation": null,
     "view_label": "Cod. 2090, Stratum 4",
     "prev": {
       "id": "hit_strata__15",
@@ -51848,7 +51864,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__17",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "1r-149r",
             "hands_role": [
               {
@@ -51922,12 +51938,12 @@
                 "role": [
                   {
                     "id": 14763,
-                    "value": "Annotation",
+                    "value": "Annotation OUTDATED",
                     "color": "cyan"
                   },
                   {
                     "id": 14760,
-                    "value": "corrector",
+                    "value": "corrector OUTDATED",
                     "color": "darker-yellow"
                   }
                 ],
@@ -51972,7 +51988,7 @@
                   },
                   {
                     "id": 15098,
-                    "value": "grammatikalisch",
+                    "value": "grammatikalisch OUTDATED",
                     "color": "red"
                   },
                   {
@@ -52001,12 +52017,12 @@
                 "role": [
                   {
                     "id": 14760,
-                    "value": "corrector",
+                    "value": "corrector OUTDATED",
                     "color": "darker-yellow"
                   },
                   {
                     "id": 14763,
-                    "value": "Annotation",
+                    "value": "Annotation OUTDATED",
                     "color": "cyan"
                   }
                 ],
@@ -52051,7 +52067,7 @@
                   },
                   {
                     "id": 15098,
-                    "value": "grammatikalisch",
+                    "value": "grammatikalisch OUTDATED",
                     "color": "red"
                   }
                 ],
@@ -53678,12 +53694,12 @@
         "role": [
           {
             "id": 14760,
-            "value": "corrector",
+            "value": "corrector OUTDATED",
             "color": "darker-yellow"
           },
           {
             "id": 14763,
-            "value": "Annotation",
+            "value": "Annotation OUTDATED",
             "color": "cyan"
           }
         ],
@@ -53728,7 +53744,7 @@
           },
           {
             "id": 15098,
-            "value": "grammatikalisch",
+            "value": "grammatikalisch OUTDATED",
             "color": "red"
           }
         ],
@@ -53742,6 +53758,7 @@
     },
     "Last modified": "2024-09-18",
     "strata_filiation": [],
+    "note_filiation": null,
     "view_label": "Clm. 6308, Stratum 3",
     "prev": {
       "id": "hit_strata__16",
@@ -53888,7 +53905,7 @@
             "final_rubric": "Explicit liber primus",
             "siglum": "",
             "hit_id": "hit_ms_items__18",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "1r-32r",
             "hands_role": [
               {
@@ -54086,7 +54103,7 @@
                 "role": [
                   {
                     "id": 14760,
-                    "value": "corrector",
+                    "value": "corrector OUTDATED",
                     "color": "darker-yellow"
                   }
                 ],
@@ -54137,7 +54154,7 @@
                 "function": [
                   {
                     "id": 15098,
-                    "value": "grammatikalisch",
+                    "value": "grammatikalisch OUTDATED",
                     "color": "red"
                   },
                   {
@@ -55767,7 +55784,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__21",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "117v-122r",
             "hands_role": [
               {
@@ -55965,7 +55982,7 @@
                 "role": [
                   {
                     "id": 14760,
-                    "value": "corrector",
+                    "value": "corrector OUTDATED",
                     "color": "darker-yellow"
                   }
                 ],
@@ -56016,7 +56033,7 @@
                 "function": [
                   {
                     "id": 15098,
-                    "value": "grammatikalisch",
+                    "value": "grammatikalisch OUTDATED",
                     "color": "red"
                   },
                   {
@@ -57499,7 +57516,7 @@
         "role": [
           {
             "id": 14760,
-            "value": "corrector",
+            "value": "corrector OUTDATED",
             "color": "darker-yellow"
           }
         ],
@@ -57550,7 +57567,7 @@
         "function": [
           {
             "id": 15098,
-            "value": "grammatikalisch",
+            "value": "grammatikalisch OUTDATED",
             "color": "red"
           },
           {
@@ -57569,6 +57586,7 @@
     },
     "Last modified": "2024-10-23",
     "strata_filiation": [],
+    "note_filiation": null,
     "view_label": "Clm. 6326, Stratum 2",
     "prev": {
       "id": "hit_strata__17",
@@ -57691,7 +57709,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__26",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "1r",
             "hands_role": [
               {
@@ -58094,7 +58112,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__27",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "1v-2v",
             "hands_role": [
               {
@@ -58547,7 +58565,7 @@
             "final_rubric": "Explicit liber XI mus . Finit utcumque hoc officium. Deo gratias.",
             "siglum": "",
             "hit_id": "hit_ms_items__28",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "2v-227r",
             "hands_role": [
               {
@@ -58568,7 +58586,7 @@
                 "role": [
                   {
                     "id": 14760,
-                    "value": "corrector",
+                    "value": "corrector OUTDATED",
                     "color": "darker-yellow"
                   }
                 ],
@@ -58597,7 +58615,7 @@
                 "function": [
                   {
                     "id": 15098,
-                    "value": "grammatikalisch",
+                    "value": "grammatikalisch OUTDATED",
                     "color": "red"
                   }
                 ],
@@ -59010,7 +59028,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__29",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "227v",
             "hands_role": [
               {
@@ -59415,6 +59433,7 @@
     },
     "Last modified": "2024-10-23",
     "strata_filiation": [],
+    "note_filiation": null,
     "view_label": "Clm. 6375, Stratum 1",
     "prev": {
       "id": "hit_strata__18",
@@ -59587,7 +59606,7 @@
             "final_rubric": "Explicit liber XI mus . Finit utcumque hoc officium. Deo gratias.",
             "siglum": "",
             "hit_id": "hit_ms_items__28",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "2v-227r",
             "hands_role": [
               {
@@ -59608,7 +59627,7 @@
                 "role": [
                   {
                     "id": 14760,
-                    "value": "corrector",
+                    "value": "corrector OUTDATED",
                     "color": "darker-yellow"
                   }
                 ],
@@ -59637,7 +59656,7 @@
                 "function": [
                   {
                     "id": 15098,
-                    "value": "grammatikalisch",
+                    "value": "grammatikalisch OUTDATED",
                     "color": "red"
                   }
                 ],
@@ -59976,7 +59995,7 @@
         "role": [
           {
             "id": 14760,
-            "value": "corrector",
+            "value": "corrector OUTDATED",
             "color": "darker-yellow"
           }
         ],
@@ -60005,7 +60024,7 @@
         "function": [
           {
             "id": 15098,
-            "value": "grammatikalisch",
+            "value": "grammatikalisch OUTDATED",
             "color": "red"
           }
         ],
@@ -60019,6 +60038,7 @@
     },
     "Last modified": "2024-10-23",
     "strata_filiation": [],
+    "note_filiation": null,
     "view_label": "Clm. 6375, Stratum 2",
     "prev": {
       "id": "hit_strata__2",
@@ -60153,7 +60173,7 @@
             "final_rubric": "",
             "siglum": "",
             "hit_id": "hit_ms_items__31",
-            "filiation": [],
+            "filiation": null,
             "locus_grp": "1r-102r",
             "hands_role": [
               {
@@ -60408,6 +60428,7 @@
     },
     "Last modified": "2024-10-23",
     "strata_filiation": [],
+    "note_filiation": null,
     "view_label": "Clm. 6380, Stratum 1",
     "prev": {
       "id": "hit_strata__20",
@@ -60443,6 +60464,7 @@
     },
     "Last modified": "2024-11-13",
     "strata_filiation": [],
+    "note_filiation": null,
     "view_label": "Clm. 6383, Stratum 1",
     "prev": {
       "id": "hit_strata__21",
@@ -60450,53 +60472,101 @@
     },
     "next": {
       "id": "hit_strata__23",
-      "label": "NO MATCH FOR $..label[0].value"
+      "label": "Clm. 6388, Stratum 1"
     }
   },
   "23": {
     "id": 23,
-    "label": [],
+    "label": [
+      {
+        "id": 12,
+        "value": "Clm. 6388, Stratum 1"
+      }
+    ],
     "character": [],
-    "manuscript": [],
-    "number": "0",
+    "manuscript": [
+      {
+        "id": 12,
+        "value": "BSB, Clm. 6388"
+      }
+    ],
+    "number": "1",
     "hit_id": "hit_strata__23",
     "hand_role": [],
-    "note": "",
+    "note": "Das älteste Italienische Teil",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-01-22",
+    "Last modified": "2025-02-12",
     "strata_filiation": [],
-    "view_label": "NO MATCH FOR $..label[0].value",
+    "note_filiation": null,
+    "view_label": "Clm. 6388, Stratum 1",
     "prev": {
       "id": "hit_strata__22",
       "label": "Clm. 6383, Stratum 1"
     },
     "next": {
       "id": "hit_strata__24",
-      "label": "NO MATCH FOR $..label[0].value"
+      "label": "Clm. 6388, Stratum 2"
     }
   },
   "24": {
     "id": 24,
+    "label": [
+      {
+        "id": 12,
+        "value": "Clm. 6388, Stratum 2"
+      }
+    ],
+    "character": [],
+    "manuscript": [
+      {
+        "id": 12,
+        "value": "BSB, Clm. 6388"
+      }
+    ],
+    "number": "2",
+    "hit_id": "hit_strata__24",
+    "hand_role": [],
+    "note": "Das Italienische Teil mit Antapodosis wurde reich korrigiert und interpoliert. Dabei hat der Schreiber oft griechische Wörter und Ausdrücke eingefügt und zwar an den Stellen, die wahrscheinlich leer gelassen worden waren.",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-12",
+    "strata_filiation": [],
+    "note_filiation": null,
+    "view_label": "Clm. 6388, Stratum 2",
+    "prev": {
+      "id": "hit_strata__23",
+      "label": "Clm. 6388, Stratum 1"
+    },
+    "next": {
+      "id": "hit_strata__25",
+      "label": "NO MATCH FOR $..label[0].value"
+    }
+  },
+  "25": {
+    "id": 25,
     "label": [],
     "character": [],
     "manuscript": [],
     "number": null,
-    "hit_id": "hit_strata__24",
+    "hit_id": "hit_strata__25",
     "hand_role": [],
     "note": "",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-01-22",
+    "Last modified": "2025-02-12",
     "strata_filiation": [],
+    "note_filiation": null,
     "view_label": "NO MATCH FOR $..label[0].value",
     "prev": {
-      "id": "hit_strata__23",
-      "label": "NO MATCH FOR $..label[0].value"
+      "id": "hit_strata__24",
+      "label": "Clm. 6388, Stratum 2"
     },
     "next": {
       "id": "hit_strata__3",

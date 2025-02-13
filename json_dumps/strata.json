@@ -191,7 +191,7 @@
     "strata_filiation": [
       {
         "id": 1,
-        "value": "Saint-Omer, Cod. Test, ",
+        "value": "Saint-Omer, Cod. 123, ",
         "order": "1.00000000000000000000"
       },
       {
@@ -199,7 +199,8 @@
         "value": "ÖNB, Cod. TEST, 21-12",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "note_filiation": null
   },
   "2": {
     "id": 2,
@@ -340,7 +341,8 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-10-15",
-    "strata_filiation": []
+    "strata_filiation": [],
+    "note_filiation": null
   },
   "4": {
     "id": 4,
@@ -442,7 +444,8 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-10-15",
-    "strata_filiation": []
+    "strata_filiation": [],
+    "note_filiation": null
   },
   "5": {
     "id": 5,
@@ -530,7 +533,8 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-09-19",
-    "strata_filiation": []
+    "strata_filiation": [],
+    "note_filiation": null
   },
   "10": {
     "id": 10,
@@ -634,7 +638,8 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-09-19",
-    "strata_filiation": []
+    "strata_filiation": [],
+    "note_filiation": null
   },
   "11": {
     "id": 11,
@@ -722,7 +727,8 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-09-19",
-    "strata_filiation": []
+    "strata_filiation": [],
+    "note_filiation": null
   },
   "3": {
     "id": 3,
@@ -962,7 +968,8 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-23",
-    "strata_filiation": []
+    "strata_filiation": [],
+    "note_filiation": null
   },
   "6": {
     "id": 6,
@@ -1119,7 +1126,8 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-18",
-    "strata_filiation": []
+    "strata_filiation": [],
+    "note_filiation": null
   },
   "7": {
     "id": 7,
@@ -1185,7 +1193,8 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-18",
-    "strata_filiation": []
+    "strata_filiation": [],
+    "note_filiation": null
   },
   "8": {
     "id": 8,
@@ -1305,7 +1314,8 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-10-15",
-    "strata_filiation": []
+    "strata_filiation": [],
+    "note_filiation": null
   },
   "9": {
     "id": 9,
@@ -1387,7 +1397,8 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-10-15",
-    "strata_filiation": []
+    "strata_filiation": [],
+    "note_filiation": null
   },
   "14": {
     "id": 14,
@@ -1464,7 +1475,8 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-10-15",
-    "strata_filiation": []
+    "strata_filiation": [],
+    "note_filiation": null
   },
   "12": {
     "id": 12,
@@ -1611,7 +1623,8 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-10-15",
-    "strata_filiation": []
+    "strata_filiation": [],
+    "note_filiation": null
   },
   "13": {
     "id": 13,
@@ -1653,7 +1666,8 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-10-15",
-    "strata_filiation": []
+    "strata_filiation": [],
+    "note_filiation": null
   },
   "15": {
     "id": 15,
@@ -1714,7 +1728,8 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-10-15",
-    "strata_filiation": []
+    "strata_filiation": [],
+    "note_filiation": null
   },
   "16": {
     "id": 16,
@@ -1791,7 +1806,8 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2024-10-15",
-    "strata_filiation": []
+    "strata_filiation": [],
+    "note_filiation": null
   },
   "17": {
     "id": 17,
@@ -1857,7 +1873,8 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-09-18",
-    "strata_filiation": []
+    "strata_filiation": [],
+    "note_filiation": null
   },
   "18": {
     "id": 18,
@@ -1929,7 +1946,8 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-23",
-    "strata_filiation": []
+    "strata_filiation": [],
+    "note_filiation": null
   },
   "19": {
     "id": 19,
@@ -2023,7 +2041,8 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-23",
-    "strata_filiation": []
+    "strata_filiation": [],
+    "note_filiation": null
   },
   "20": {
     "id": 20,
@@ -2084,7 +2103,8 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-23",
-    "strata_filiation": []
+    "strata_filiation": [],
+    "note_filiation": null
   },
   "21": {
     "id": 21,
@@ -2145,7 +2165,8 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-23",
-    "strata_filiation": []
+    "strata_filiation": [],
+    "note_filiation": null
   },
   "22": {
     "id": 22,
@@ -2181,56 +2202,107 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-11-13",
-    "strata_filiation": []
+    "strata_filiation": [],
+    "note_filiation": null
   },
   "23": {
     "id": 23,
     "order": "20.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "id": 12,
+        "value": "Clm. 6388, Stratum 1"
+      }
+    ],
     "character": [],
-    "manuscript": [],
-    "number": "0",
+    "manuscript": [
+      {
+        "id": 12,
+        "value": "BSB, Clm. 6388",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "number": "1",
     "hit_id": "hit_strata__23",
     "hand_role": [],
     "ms_items": [],
     "quires": [],
     "locus": [],
-    "note": "",
+    "note": "Das älteste Italienische Teil",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Created on": "2025-01-22",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-01-22",
-    "strata_filiation": []
+    "Last modified": "2025-02-12",
+    "strata_filiation": [],
+    "note_filiation": null
   },
   "24": {
     "id": 24,
     "order": "21.00000000000000000000",
+    "label": [
+      {
+        "id": 12,
+        "value": "Clm. 6388, Stratum 2"
+      }
+    ],
+    "character": [],
+    "manuscript": [
+      {
+        "id": 12,
+        "value": "BSB, Clm. 6388",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "number": "2",
+    "hit_id": "hit_strata__24",
+    "hand_role": [],
+    "ms_items": [],
+    "quires": [],
+    "locus": [],
+    "note": "Das Italienische Teil mit Antapodosis wurde reich korrigiert und interpoliert. Dabei hat der Schreiber oft griechische Wörter und Ausdrücke eingefügt und zwar an den Stellen, die wahrscheinlich leer gelassen worden waren.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-22",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-12",
+    "strata_filiation": [],
+    "note_filiation": null
+  },
+  "25": {
+    "id": 25,
+    "order": "22.00000000000000000000",
     "label": [],
     "character": [],
     "manuscript": [],
     "number": null,
-    "hit_id": "hit_strata__24",
+    "hit_id": "hit_strata__25",
     "hand_role": [],
     "ms_items": [],
     "quires": [],
     "locus": [],
     "note": "",
     "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Created on": "2025-01-22",
+    "Created on": "2025-02-12",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-01-22",
-    "strata_filiation": []
+    "Last modified": "2025-02-12",
+    "strata_filiation": [],
+    "note_filiation": null
   }
 }

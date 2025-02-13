@@ -1,0 +1,52 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "hit_id": "hit_id_strata_filiation__1",
+    "stratum": [
+      {
+        "id": 1,
+        "value": "Cod. M. p. th. f. 46, Stratum 1",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "filiated_stratum": [
+      {
+        "id": 2,
+        "value": "ÖNB, Cod. TEST, 21-12",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "reason": {
+      "id": 18186,
+      "value": "kodikologisch",
+      "color": "darker-blue"
+    },
+    "filiated_ms": "ÖNB, Cod. blabla, fol. 34-53"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "hit_id": "hit_id_strata_filiation__2",
+    "stratum": [
+      {
+        "id": 1,
+        "value": "Cod. M. p. th. f. 46, Stratum 1",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "filiated_stratum": [
+      {
+        "id": 1,
+        "value": "Saint-Omer, Cod. 123, ",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "reason": {
+      "id": 18188,
+      "value": "layout",
+      "color": "darker-yellow"
+    },
+    "filiated_ms": null
+  }
+}

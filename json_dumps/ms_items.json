@@ -11255,6 +11255,21 @@
         "id": 166,
         "value": "hit_hands_role__166",
         "order": "152.00000000000000000000"
+      },
+      {
+        "id": 168,
+        "value": "hit_hands_role__168",
+        "order": "154.00000000000000000000"
+      },
+      {
+        "id": 169,
+        "value": "hit_hands_role__169",
+        "order": "155.00000000000000000000"
+      },
+      {
+        "id": 185,
+        "value": "hit_hands_role__185",
+        "order": "171.00000000000000000000"
       }
     ],
     "cod_unit": [
@@ -11282,6 +11297,27 @@
           "database_table_3488": 11
         },
         "value": "Saint-Omer, ms. 706_H. 1"
+      },
+      {
+        "ids": {
+          "database_table_3487": 31,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 706_H. 2"
+      },
+      {
+        "ids": {
+          "database_table_3487": 31,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 706_H. 3"
+      },
+      {
+        "ids": {
+          "database_table_3487": 31,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 706_H. 7"
       }
     ],
     "decoration": [],
@@ -11338,7 +11374,13 @@
     "hit_id": "hit_ms_items__194",
     "filiation": null,
     "locus_grp": "118v-144v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 183,
+        "value": "hit_hands_role__183",
+        "order": "169.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 32,
@@ -11357,7 +11399,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 31,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 706_H. 3"
+      }
+    ],
     "decoration": [],
     "facs_url": "",
     "form": [
@@ -11412,7 +11462,13 @@
     "hit_id": "hit_ms_items__196",
     "filiation": null,
     "locus_grp": "140v-144v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 178,
+        "value": "hit_hands_role__178",
+        "order": "164.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 32,
@@ -11431,7 +11487,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "Abweichende Kapitelzählung",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 31,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 706_H. 3"
+      }
+    ],
     "decoration": [],
     "facs_url": "",
     "form": [
@@ -11491,6 +11555,16 @@
         "id": 165,
         "value": "hit_hands_role__165",
         "order": "151.00000000000000000000"
+      },
+      {
+        "id": 172,
+        "value": "hit_hands_role__172",
+        "order": "158.00000000000000000000"
+      },
+      {
+        "id": 175,
+        "value": "hit_hands_role__175",
+        "order": "161.00000000000000000000"
       }
     ],
     "cod_unit": [
@@ -11518,6 +11592,20 @@
           "database_table_3488": 11
         },
         "value": "Saint-Omer, ms. 706_H. 5"
+      },
+      {
+        "ids": {
+          "database_table_3487": 31,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 706_H. 4"
+      },
+      {
+        "ids": {
+          "database_table_3487": 31,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 706_H. 1"
       }
     ],
     "decoration": [],
@@ -11568,7 +11656,28 @@
     "hit_id": "hit_ms_items__193",
     "filiation": null,
     "locus_grp": "170v-223r",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 174,
+        "value": "hit_hands_role__174",
+        "order": "160.00000000000000000000"
+      },
+      {
+        "id": 176,
+        "value": "hit_hands_role__176",
+        "order": "162.00000000000000000000"
+      },
+      {
+        "id": 179,
+        "value": "hit_hands_role__179",
+        "order": "165.00000000000000000000"
+      },
+      {
+        "id": 181,
+        "value": "hit_hands_role__181",
+        "order": "167.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 32,
@@ -11587,7 +11696,36 @@
       "name": "Leon Pürstinger"
     },
     "note": "In der Handschrift nicht von den Annales regni Francorum abgetrennt, sondern als ein Annalenwerk überliefert.",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 31,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 706_H. 4"
+      },
+      {
+        "ids": {
+          "database_table_3487": 31,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 706_H. 3"
+      },
+      {
+        "ids": {
+          "database_table_3487": 31,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 706_H. 1"
+      },
+      {
+        "ids": {
+          "database_table_3487": 31,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 706_H. 2"
+      }
+    ],
     "decoration": [],
     "facs_url": "",
     "form": [],
@@ -11860,5 +11998,208 @@
         "color": "pink"
       }
     ]
+  },
+  "203": {
+    "id": 203,
+    "order": "158.00000000000000000000",
+    "label": [
+      {
+        "id": 31,
+        "value": "ms_706__203"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 31,
+        "value": "Saint-Omer, ms. 706",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 118,
+        "value": "Visio Eucherii",
+        "order": "116.00000000000000000000"
+      }
+    ],
+    "title_note": "Fragment",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__203",
+    "filiation": "",
+    "locus_grp": "223v",
+    "hands_role": [
+      {
+        "id": 188,
+        "value": "hit_hands_role__188",
+        "order": "174.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 32,
+        "value": "Saint-Omer, ms. 706, cod. unit 1",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-02-13",
+    "Created on": "2025-02-13",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "Es handelt sich um eine spezifische Version der Visio Eucherii, die vor allem im 11. Jahrhundert in Nordfrankreich tradiert wurde.",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 31,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 706_H. 8"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "Wurde auf freigebliebenem Pergament geschrieben",
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "role": null,
+    "commented_msitem": [],
+    "function_role": []
+  },
+  "204": {
+    "id": 204,
+    "order": "159.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__204",
+    "filiation": "",
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2025-02-13",
+    "Created on": "2025-02-13",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [],
+    "role": null,
+    "commented_msitem": [],
+    "function_role": []
+  },
+  "205": {
+    "id": 205,
+    "order": "160.00000000000000000000",
+    "label": [
+      {
+        "id": 31,
+        "value": "ms_706__205"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 31,
+        "value": "Saint-Omer, ms. 706",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 139,
+        "value": "Urkunde des Erzbischofs Odalric von Reims (962-969)",
+        "order": "137.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__205",
+    "filiation": "",
+    "locus_grp": "223r",
+    "hands_role": [
+      {
+        "id": 186,
+        "value": "hit_hands_role__186",
+        "order": "172.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 32,
+        "value": "Saint-Omer, ms. 706, cod. unit 1",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-02-13",
+    "Created on": "2025-02-13",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 31,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 706_H. 2"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "role": null,
+    "commented_msitem": [],
+    "function_role": []
   }
 }

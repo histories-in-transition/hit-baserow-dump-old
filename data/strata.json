@@ -187,7 +187,7 @@
                     "color": "dark-blue"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 3,
@@ -246,7 +246,7 @@
                     "color": "light-blue"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -1474,7 +1474,7 @@
             "color": "light-blue"
           }
         ],
-        "role_to_ms_context": []
+        "scribe_type": []
       },
       {
         "id": 18,
@@ -1648,7 +1648,7 @@
                     "color": "light-blue"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 19,
@@ -1707,7 +1707,7 @@
                     "color": "light-blue"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 20,
@@ -1766,7 +1766,7 @@
                     "color": "light-blue"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -3001,7 +3001,7 @@
             "color": "light-blue"
           }
         ],
-        "role_to_ms_context": []
+        "scribe_type": []
       },
       {
         "id": 19,
@@ -3175,7 +3175,7 @@
                     "color": "light-blue"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 19,
@@ -3234,7 +3234,7 @@
                     "color": "light-blue"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 20,
@@ -3293,7 +3293,7 @@
                     "color": "light-blue"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -4528,7 +4528,7 @@
             "color": "light-blue"
           }
         ],
-        "role_to_ms_context": []
+        "scribe_type": []
       },
       {
         "id": 20,
@@ -4702,7 +4702,7 @@
                     "color": "light-blue"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 19,
@@ -4761,7 +4761,7 @@
                     "color": "light-blue"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 20,
@@ -4820,7 +4820,7 @@
                     "color": "light-blue"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -6055,7 +6055,7 @@
             "color": "light-blue"
           }
         ],
-        "role_to_ms_context": []
+        "scribe_type": []
       },
       {
         "id": 24,
@@ -6209,7 +6209,7 @@
                     "color": "darker-brown"
                   }
                 ],
-                "role_to_ms_context": [
+                "scribe_type": [
                   {
                     "id": 18165,
                     "value": "Erweiterung",
@@ -7430,7 +7430,7 @@
             "color": "darker-brown"
           }
         ],
-        "role_to_ms_context": [
+        "scribe_type": [
           {
             "id": 18165,
             "value": "Erweiterung",
@@ -7674,7 +7674,7 @@
                     "color": "darker-orange"
                   }
                 ],
-                "role_to_ms_context": [
+                "scribe_type": [
                   {
                     "id": 18165,
                     "value": "Erweiterung",
@@ -8910,7 +8910,7 @@
             "color": "darker-orange"
           }
         ],
-        "role_to_ms_context": [
+        "scribe_type": [
           {
             "id": 18165,
             "value": "Erweiterung",
@@ -9023,7 +9023,7 @@
                     "color": "darker-orange"
                   }
                 ],
-                "role_to_ms_context": [
+                "scribe_type": [
                   {
                     "id": 18165,
                     "value": "Erweiterung",
@@ -10244,7 +10244,7 @@
             "color": "darker-orange"
           }
         ],
-        "role_to_ms_context": [
+        "scribe_type": [
           {
             "id": 18165,
             "value": "Erweiterung",
@@ -10417,7 +10417,7 @@
                     "color": "darker-brown"
                   }
                 ],
-                "role_to_ms_context": [
+                "scribe_type": [
                   {
                     "id": 18165,
                     "value": "Erweiterung",
@@ -11638,7 +11638,7 @@
             "color": "darker-brown"
           }
         ],
-        "role_to_ms_context": [
+        "scribe_type": [
           {
             "id": 18165,
             "value": "Erweiterung",
@@ -11775,7 +11775,7 @@
                     "color": "dark-blue"
                   }
                 ],
-                "role_to_ms_context": [
+                "scribe_type": [
                   {
                     "id": 18165,
                     "value": "Erweiterung",
@@ -11840,7 +11840,7 @@
                     "color": "dark-blue"
                   }
                 ],
-                "role_to_ms_context": [
+                "scribe_type": [
                   {
                     "id": 18165,
                     "value": "Erweiterung",
@@ -11905,7 +11905,7 @@
                     "color": "dark-blue"
                   }
                 ],
-                "role_to_ms_context": [
+                "scribe_type": [
                   {
                     "id": 18165,
                     "value": "Erweiterung",
@@ -13155,7 +13155,7 @@
             "color": "dark-blue"
           }
         ],
-        "role_to_ms_context": [
+        "scribe_type": [
           {
             "id": 18165,
             "value": "Erweiterung",
@@ -13292,7 +13292,7 @@
                     "color": "dark-blue"
                   }
                 ],
-                "role_to_ms_context": [
+                "scribe_type": [
                   {
                     "id": 18165,
                     "value": "Erweiterung",
@@ -13357,7 +13357,7 @@
                     "color": "dark-blue"
                   }
                 ],
-                "role_to_ms_context": [
+                "scribe_type": [
                   {
                     "id": 18165,
                     "value": "Erweiterung",
@@ -13422,7 +13422,7 @@
                     "color": "dark-blue"
                   }
                 ],
-                "role_to_ms_context": [
+                "scribe_type": [
                   {
                     "id": 18165,
                     "value": "Erweiterung",
@@ -14672,7 +14672,7 @@
             "color": "dark-blue"
           }
         ],
-        "role_to_ms_context": [
+        "scribe_type": [
           {
             "id": 18165,
             "value": "Erweiterung",
@@ -14900,7 +14900,7 @@
                     "color": "dark-blue"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 15,
@@ -14964,7 +14964,7 @@
                     "color": "dark-blue"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 22,
@@ -15023,7 +15023,7 @@
                     "color": "light-blue"
                   }
                 ],
-                "role_to_ms_context": [
+                "scribe_type": [
                   {
                     "id": 18173,
                     "value": "Fortsetzung",
@@ -15725,7 +15725,7 @@
             "color": "light-blue"
           }
         ],
-        "role_to_ms_context": [
+        "scribe_type": [
           {
             "id": 18173,
             "value": "Fortsetzung",
@@ -15917,7 +15917,7 @@
                     "color": "light-blue"
                   }
                 ],
-                "role_to_ms_context": [
+                "scribe_type": [
                   {
                     "id": 18165,
                     "value": "Erweiterung",
@@ -16137,7 +16137,7 @@
             "color": "light-blue"
           }
         ],
-        "role_to_ms_context": [
+        "scribe_type": [
           {
             "id": 18165,
             "value": "Erweiterung",
@@ -16289,7 +16289,7 @@
                     "color": "light-blue"
                   }
                 ],
-                "role_to_ms_context": [
+                "scribe_type": [
                   {
                     "id": 18165,
                     "value": "Erweiterung",
@@ -16509,7 +16509,7 @@
             "color": "light-blue"
           }
         ],
-        "role_to_ms_context": [
+        "scribe_type": [
           {
             "id": 18165,
             "value": "Erweiterung",
@@ -16665,7 +16665,7 @@
                     "color": "dark-purple"
                   }
                 ],
-                "role_to_ms_context": [
+                "scribe_type": [
                   {
                     "id": 18165,
                     "value": "Erweiterung",
@@ -17886,7 +17886,7 @@
             "color": "dark-purple"
           }
         ],
-        "role_to_ms_context": [
+        "scribe_type": [
           {
             "id": 18165,
             "value": "Erweiterung",
@@ -17999,7 +17999,7 @@
                     "color": "dark-purple"
                   }
                 ],
-                "role_to_ms_context": [
+                "scribe_type": [
                   {
                     "id": 18165,
                     "value": "Erweiterung",
@@ -18687,7 +18687,7 @@
             "color": "dark-purple"
           }
         ],
-        "role_to_ms_context": [
+        "scribe_type": [
           {
             "id": 18165,
             "value": "Erweiterung",
@@ -18800,7 +18800,7 @@
                     "color": "dark-purple"
                   }
                 ],
-                "role_to_ms_context": [
+                "scribe_type": [
                   {
                     "id": 18165,
                     "value": "Erweiterung",
@@ -20021,7 +20021,7 @@
             "color": "dark-purple"
           }
         ],
-        "role_to_ms_context": [
+        "scribe_type": [
           {
             "id": 18165,
             "value": "Erweiterung",
@@ -20220,7 +20220,7 @@
                     "color": "dark-purple"
                   }
                 ],
-                "role_to_ms_context": [
+                "scribe_type": [
                   {
                     "id": 18165,
                     "value": "Erweiterung",
@@ -21441,7 +21441,7 @@
             "color": "dark-purple"
           }
         ],
-        "role_to_ms_context": [
+        "scribe_type": [
           {
             "id": 18165,
             "value": "Erweiterung",
@@ -21554,7 +21554,7 @@
                     "color": "dark-purple"
                   }
                 ],
-                "role_to_ms_context": [
+                "scribe_type": [
                   {
                     "id": 18165,
                     "value": "Erweiterung",
@@ -21631,7 +21631,7 @@
             "color": "dark-purple"
           }
         ],
-        "role_to_ms_context": [
+        "scribe_type": [
           {
             "id": 18165,
             "value": "Erweiterung",
@@ -21973,7 +21973,7 @@
                   }
                 ],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 153,
@@ -22057,7 +22057,7 @@
                     "color": "darker-orange"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -23803,7 +23803,7 @@
                   }
                 ],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -25542,7 +25542,7 @@
                   }
                 ],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -27330,7 +27330,7 @@
                   }
                 ],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 153,
@@ -27414,7 +27414,7 @@
                     "color": "darker-orange"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -29204,7 +29204,7 @@
                   }
                 ],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -30943,7 +30943,7 @@
                   }
                 ],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -32726,7 +32726,7 @@
                   }
                 ],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -34453,7 +34453,7 @@
                   }
                 ],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -36137,7 +36137,7 @@
                   }
                 ],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -37725,7 +37725,7 @@
           }
         ],
         "function": [],
-        "role_to_ms_context": []
+        "scribe_type": []
       }
     ],
     "note": "Hauptstratum, umfasst das ganze Codex, außer Korrekturen. Entweder ein oder zwei Hauptschreiber, die zusammen arbeiten.",
@@ -37924,7 +37924,7 @@
                   }
                 ],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 38,
@@ -38003,7 +38003,7 @@
                     "color": "dark-cyan"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 142,
@@ -38077,7 +38077,7 @@
                     "color": "red"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -39733,7 +39733,7 @@
           }
         ],
         "function": [],
-        "role_to_ms_context": []
+        "scribe_type": []
       }
     ],
     "note": "Hauptstratum",
@@ -39937,7 +39937,7 @@
                   }
                 ],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 38,
@@ -40016,7 +40016,7 @@
                     "color": "dark-cyan"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 142,
@@ -40090,7 +40090,7 @@
                     "color": "red"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -41772,7 +41772,7 @@
             "color": "dark-cyan"
           }
         ],
-        "role_to_ms_context": []
+        "scribe_type": []
       }
     ],
     "note": "Textkorrekturen am Rand, mind. 30-40 Jahre später.",
@@ -41971,7 +41971,7 @@
                   }
                 ],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 41,
@@ -42018,7 +42018,7 @@
                 "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 42,
@@ -42065,7 +42065,7 @@
                 "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 43,
@@ -42112,7 +42112,7 @@
                 "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -42387,7 +42387,7 @@
           }
         ],
         "function": [],
-        "role_to_ms_context": []
+        "scribe_type": []
       },
       {
         "id": 41,
@@ -42543,7 +42543,7 @@
                   }
                 ],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 41,
@@ -42590,7 +42590,7 @@
                 "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 42,
@@ -42637,7 +42637,7 @@
                 "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 43,
@@ -42684,7 +42684,7 @@
                 "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -42953,7 +42953,7 @@
         "Last modified": "2025-01-30",
         "locus_layout": [],
         "function": [],
-        "role_to_ms_context": []
+        "scribe_type": []
       },
       {
         "id": 42,
@@ -43109,7 +43109,7 @@
                   }
                 ],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 41,
@@ -43156,7 +43156,7 @@
                 "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 42,
@@ -43203,7 +43203,7 @@
                 "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 43,
@@ -43250,7 +43250,7 @@
                 "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -43519,7 +43519,7 @@
         "Last modified": "2025-01-30",
         "locus_layout": [],
         "function": [],
-        "role_to_ms_context": []
+        "scribe_type": []
       },
       {
         "id": 43,
@@ -43675,7 +43675,7 @@
                   }
                 ],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 41,
@@ -43722,7 +43722,7 @@
                 "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 42,
@@ -43769,7 +43769,7 @@
                 "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 43,
@@ -43816,7 +43816,7 @@
                 "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -44085,7 +44085,7 @@
         "Last modified": "2025-01-30",
         "locus_layout": [],
         "function": [],
-        "role_to_ms_context": []
+        "scribe_type": []
       }
     ],
     "note": "Hauptstratum",
@@ -44247,7 +44247,7 @@
                     "color": "light-blue"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -45711,7 +45711,7 @@
             "color": "light-blue"
           }
         ],
-        "role_to_ms_context": []
+        "scribe_type": []
       }
     ],
     "note": "",
@@ -45861,7 +45861,7 @@
                     "color": "dark-purple"
                   }
                 ],
-                "role_to_ms_context": [
+                "scribe_type": [
                   {
                     "id": 18165,
                     "value": "Erweiterung",
@@ -47331,7 +47331,7 @@
             "color": "dark-purple"
           }
         ],
-        "role_to_ms_context": [
+        "scribe_type": [
           {
             "id": 18165,
             "value": "Erweiterung",
@@ -47444,7 +47444,7 @@
                     "color": "darker-brown"
                   }
                 ],
-                "role_to_ms_context": [
+                "scribe_type": [
                   {
                     "id": 18165,
                     "value": "Erweiterung",
@@ -48914,7 +48914,7 @@
             "color": "darker-brown"
           }
         ],
-        "role_to_ms_context": [
+        "scribe_type": [
           {
             "id": 18165,
             "value": "Erweiterung",
@@ -49082,7 +49082,7 @@
                     "color": "dark-blue"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -49213,7 +49213,7 @@
             "color": "dark-blue"
           }
         ],
-        "role_to_ms_context": []
+        "scribe_type": []
       },
       {
         "id": 63,
@@ -49320,7 +49320,7 @@
                     "color": "darker-orange"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 114,
@@ -49379,7 +49379,7 @@
                     "color": "darker-orange"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -49505,7 +49505,7 @@
             "color": "darker-orange"
           }
         ],
-        "role_to_ms_context": []
+        "scribe_type": []
       },
       {
         "id": 64,
@@ -49600,7 +49600,7 @@
                 "Last modified": "2024-07-28",
                 "locus_layout": [],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 86,
@@ -49647,7 +49647,7 @@
                 "Last modified": "2024-10-03",
                 "locus_layout": [],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 87,
@@ -49694,7 +49694,7 @@
                 "Last modified": "2024-10-03",
                 "locus_layout": [],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 93,
@@ -49741,7 +49741,7 @@
                 "Last modified": "2024-10-03",
                 "locus_layout": [],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 94,
@@ -49788,7 +49788,7 @@
                 "Last modified": "2024-10-03",
                 "locus_layout": [],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 156,
@@ -49847,7 +49847,7 @@
                     "color": "darker-orange"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -49995,7 +49995,7 @@
         "Last modified": "2024-07-28",
         "locus_layout": [],
         "function": [],
-        "role_to_ms_context": []
+        "scribe_type": []
       },
       {
         "id": 70,
@@ -50102,7 +50102,7 @@
                     "color": "darker-brown"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 71,
@@ -50166,7 +50166,7 @@
                     "color": "darker-brown"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 75,
@@ -50230,7 +50230,7 @@
                     "color": "darker-brown"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -50363,7 +50363,7 @@
             "color": "darker-brown"
           }
         ],
-        "role_to_ms_context": []
+        "scribe_type": []
       },
       {
         "id": 78,
@@ -50470,7 +50470,7 @@
                     "color": "dark-blue"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -50601,7 +50601,7 @@
             "color": "dark-blue"
           }
         ],
-        "role_to_ms_context": []
+        "scribe_type": []
       },
       {
         "id": 79,
@@ -50720,7 +50720,7 @@
                     "color": "dark-blue"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -50839,7 +50839,7 @@
             "color": "dark-blue"
           }
         ],
-        "role_to_ms_context": []
+        "scribe_type": []
       }
     ],
     "note": "Dieses Stratum beschreibt die Anlage der Handschrift und besteht u.a. aus den Königs-, Papst- und Bischofslisten und den verbrüderten Geistlichen sowie dem Nekrolog, deren Grundstruktur zu Lebzeiten des Erzbischofs Gebhard entstanden sind.\nCatalogus auch und Fortsetzung des Catalogus. Texte aus spätem 11. Jahrhundert auch eigens zählen?",
@@ -51019,7 +51019,7 @@
                 "Last modified": "2024-10-03",
                 "locus_layout": [],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -51126,7 +51126,7 @@
         "Last modified": "2024-10-03",
         "locus_layout": [],
         "function": [],
-        "role_to_ms_context": []
+        "scribe_type": []
       }
     ],
     "note": "Traditionsnotizen aus der 1. Hälfte des 12. Jahrhunderts als eigenes Stratum?",
@@ -51319,7 +51319,7 @@
                     "color": "darker-brown"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -51457,7 +51457,7 @@
             "color": "darker-brown"
           }
         ],
-        "role_to_ms_context": []
+        "scribe_type": []
       },
       {
         "id": 88,
@@ -51576,7 +51576,7 @@
                     "color": "darker-brown"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -51714,7 +51714,7 @@
             "color": "darker-brown"
           }
         ],
-        "role_to_ms_context": []
+        "scribe_type": []
       }
     ],
     "note": "Dieses Stratum umfasst die Einfügung mehrerer Briefe zu Salzburger Erzbischöfen in der zweiten Hälfte des 12. Jahrhunderts durch 1-2 Hände.",
@@ -51918,7 +51918,7 @@
                   }
                 ],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 38,
@@ -51997,7 +51997,7 @@
                     "color": "dark-cyan"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 142,
@@ -52071,7 +52071,7 @@
                     "color": "red"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -53748,7 +53748,7 @@
             "color": "red"
           }
         ],
-        "role_to_ms_context": []
+        "scribe_type": []
       }
     ],
     "note": "Das Stratum besteht aus vielfaltigen Korrekturen, einschliessend eine Umschreibung des Textes auf 8r, und Annotationen, darunter auch Glossen. Die Hand hat offensichtlich später (mind. +50 Jahre) gearbeitet, weil die Hände des Hauptschreibers und des Korrektors zu verschiedenen Entwicklungsphasen der Minuskel gehören.",
@@ -54079,7 +54079,7 @@
                   }
                 ],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 153,
@@ -54163,7 +54163,7 @@
                     "color": "darker-orange"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -55958,7 +55958,7 @@
                   }
                 ],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 153,
@@ -56042,7 +56042,7 @@
                     "color": "darker-orange"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -57576,7 +57576,7 @@
             "color": "darker-orange"
           }
         ],
-        "role_to_ms_context": []
+        "scribe_type": []
       }
     ],
     "note": "Korrekturen meistens zu Vita sancti Martini",
@@ -57808,7 +57808,7 @@
                   }
                 ],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -58211,7 +58211,7 @@
                   }
                 ],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -58619,7 +58619,7 @@
                     "color": "red"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 139,
@@ -58717,7 +58717,7 @@
                   }
                 ],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -59127,7 +59127,7 @@
                   }
                 ],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -59423,7 +59423,7 @@
           }
         ],
         "function": [],
-        "role_to_ms_context": []
+        "scribe_type": []
       }
     ],
     "note": "Hauptstratum von einer Hand, abgeschrieben von einem voraussichtlich Merowingischen Protograph.",
@@ -59660,7 +59660,7 @@
                     "color": "red"
                   }
                 ],
-                "role_to_ms_context": []
+                "scribe_type": []
               },
               {
                 "id": 139,
@@ -59758,7 +59758,7 @@
                   }
                 ],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -60028,7 +60028,7 @@
             "color": "red"
           }
         ],
-        "role_to_ms_context": []
+        "scribe_type": []
       }
     ],
     "note": "Korrekturen",
@@ -60221,7 +60221,7 @@
                 "Last modified": "2025-01-17",
                 "locus_layout": [],
                 "function": [],
-                "role_to_ms_context": []
+                "scribe_type": []
               }
             ],
             "cod_unit": [
@@ -60418,7 +60418,7 @@
         "Last modified": "2025-01-17",
         "locus_layout": [],
         "function": [],
-        "role_to_ms_context": []
+        "scribe_type": []
       }
     ],
     "note": "",

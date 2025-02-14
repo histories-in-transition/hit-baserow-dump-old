@@ -284,5 +284,128 @@
       "id": 86,
       "name": "Leon Pürstinger"
     }
+  },
+  "15": {
+    "id": 15,
+    "order": "14.00000000000000000000",
+    "name": "Balduinus / Ricolfus",
+    "hit_id": "hit_scribes__15",
+    "description": "Ein im Skriptorium des Abtes Odbert von Saint-Bertin wirkender Kopist, der entweder den Namen Balduinus oder Ricolfus führte. Er wirkte auch an der Handschrift \"Bibliothèque d'agglomération de Saint-Omer, ms. 168\" mit.",
+    "group": false,
+    "hands": [
+      {
+        "id": 123,
+        "value": "Saint-Omer, ms. 706_H. 1",
+        "order": "115.00000000000000000000"
+      },
+      {
+        "id": 139,
+        "value": "Bruxelles KBR, ms. 15835_H. 1",
+        "order": "130.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 31,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 706_H. 1"
+      },
+      {
+        "ids": {
+          "database_table_3487": 33,
+          "database_table_3488": 13
+        },
+        "value": "Bruxelles KBR, ms. 15835_H. 1"
+      }
+    ],
+    "Last modified": "2025-02-13",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "16": {
+    "id": 16,
+    "order": "15.00000000000000000000",
+    "name": "Saint-Bertin_Skriptorium Odbert_1",
+    "hit_id": "hit_scribes__16",
+    "description": "Ein im Skriptorium des Abtes Odbert von Saint-Bertin wirkender Kopist, der in zumindest einer weiteren Handschrift um das Jahr 1000 aufscheint (Bibliothèque d'agglomération de Saint-Omer ms. 97)",
+    "group": false,
+    "hands": [
+      {
+        "id": 125,
+        "value": "Saint-Omer, ms. 706_H. 3",
+        "order": "117.00000000000000000000"
+      },
+      {
+        "id": 140,
+        "value": "Bruxelles KBR, ms. 15835_H. 2",
+        "order": "131.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 31,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 706_H. 3"
+      },
+      {
+        "ids": {
+          "database_table_3487": 33,
+          "database_table_3488": 13
+        },
+        "value": "Bruxelles KBR, ms. 15835_H. 2"
+      }
+    ],
+    "Last modified": "2025-02-13",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "18": {
+    "id": 18,
+    "order": "17.00000000000000000000",
+    "name": "Saint-Bertin_Skriptorium Odbert_2",
+    "hit_id": "hit_scribes__18",
+    "description": "",
+    "group": false,
+    "hands": [
+      {
+        "id": 126,
+        "value": "Saint-Omer, ms. 706_H. 4",
+        "order": "118.00000000000000000000"
+      },
+      {
+        "id": 138,
+        "value": "Saint-Omer, ms. 697_H. 1",
+        "order": "129.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 32,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 697_H. 1"
+      },
+      {
+        "ids": {
+          "database_table_3487": 31,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 706_H. 4"
+      }
+    ],
+    "Last modified": "2025-02-13",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
   }
 }

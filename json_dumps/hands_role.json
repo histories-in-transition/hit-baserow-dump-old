@@ -64,7 +64,7 @@
         "color": "darker-orange"
       }
     ],
-    "role_to_ms_context": [
+    "scribe_type": [
       {
         "id": 18165,
         "value": "Erweiterung",
@@ -137,7 +137,7 @@
         "color": "darker-orange"
       }
     ],
-    "role_to_ms_context": [
+    "scribe_type": [
       {
         "id": 18165,
         "value": "Erweiterung",
@@ -210,7 +210,7 @@
         "color": "darker-brown"
       }
     ],
-    "role_to_ms_context": [
+    "scribe_type": [
       {
         "id": 18165,
         "value": "Erweiterung",
@@ -283,7 +283,7 @@
         "color": "dark-blue"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "2": {
     "id": 2,
@@ -350,7 +350,7 @@
         "color": "darker-brown"
       }
     ],
-    "role_to_ms_context": [
+    "scribe_type": [
       {
         "id": 18165,
         "value": "Erweiterung",
@@ -423,7 +423,7 @@
         "color": "light-blue"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "11": {
     "id": 11,
@@ -490,7 +490,7 @@
         "color": "dark-blue"
       }
     ],
-    "role_to_ms_context": [
+    "scribe_type": [
       {
         "id": 18165,
         "value": "Erweiterung",
@@ -563,7 +563,7 @@
         "color": "dark-blue"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "15": {
     "id": 15,
@@ -635,7 +635,7 @@
         "color": "dark-blue"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "16": {
     "id": 16,
@@ -702,7 +702,7 @@
         "color": "dark-blue"
       }
     ],
-    "role_to_ms_context": [
+    "scribe_type": [
       {
         "id": 18165,
         "value": "Erweiterung",
@@ -775,7 +775,7 @@
         "color": "light-blue"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "19": {
     "id": 19,
@@ -842,7 +842,7 @@
         "color": "light-blue"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "20": {
     "id": 20,
@@ -909,7 +909,7 @@
         "color": "light-blue"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "21": {
     "id": 21,
@@ -976,7 +976,7 @@
         "color": "light-blue"
       }
     ],
-    "role_to_ms_context": [
+    "scribe_type": [
       {
         "id": 18165,
         "value": "Erweiterung",
@@ -1049,7 +1049,7 @@
         "color": "light-blue"
       }
     ],
-    "role_to_ms_context": [
+    "scribe_type": [
       {
         "id": 18173,
         "value": "Fortsetzung",
@@ -1122,7 +1122,7 @@
         "color": "light-blue"
       }
     ],
-    "role_to_ms_context": [
+    "scribe_type": [
       {
         "id": 18165,
         "value": "Erweiterung",
@@ -1195,7 +1195,7 @@
         "color": "darker-brown"
       }
     ],
-    "role_to_ms_context": [
+    "scribe_type": [
       {
         "id": 18165,
         "value": "Erweiterung",
@@ -1268,7 +1268,7 @@
         "color": "dark-purple"
       }
     ],
-    "role_to_ms_context": [
+    "scribe_type": [
       {
         "id": 18165,
         "value": "Erweiterung",
@@ -1341,7 +1341,7 @@
         "color": "darker-brown"
       }
     ],
-    "role_to_ms_context": [
+    "scribe_type": [
       {
         "id": 18165,
         "value": "Erweiterung",
@@ -1414,7 +1414,7 @@
         "color": "darker-brown"
       }
     ],
-    "role_to_ms_context": [
+    "scribe_type": [
       {
         "id": 18165,
         "value": "Erweiterung",
@@ -1487,7 +1487,7 @@
         "color": "darker-brown"
       }
     ],
-    "role_to_ms_context": [
+    "scribe_type": [
       {
         "id": 18165,
         "value": "Erweiterung",
@@ -1560,7 +1560,7 @@
         "color": "dark-purple"
       }
     ],
-    "role_to_ms_context": [
+    "scribe_type": [
       {
         "id": 18165,
         "value": "Erweiterung",
@@ -1633,7 +1633,7 @@
         "color": "dark-purple"
       }
     ],
-    "role_to_ms_context": [
+    "scribe_type": [
       {
         "id": 18165,
         "value": "Erweiterung",
@@ -1706,7 +1706,7 @@
         "color": "dark-purple"
       }
     ],
-    "role_to_ms_context": [
+    "scribe_type": [
       {
         "id": 18165,
         "value": "Erweiterung",
@@ -1779,7 +1779,7 @@
         "color": "dark-purple"
       }
     ],
-    "role_to_ms_context": [
+    "scribe_type": [
       {
         "id": 18165,
         "value": "Erweiterung",
@@ -1846,7 +1846,7 @@
       }
     ],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "38": {
     "id": 38,
@@ -1933,7 +1933,7 @@
         "color": "dark-cyan"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "39": {
     "id": 39,
@@ -1994,7 +1994,7 @@
       }
     ],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "40": {
     "id": 40,
@@ -2061,7 +2061,7 @@
         "color": "light-blue"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "41": {
     "id": 41,
@@ -2116,7 +2116,7 @@
     "Last modified": "2025-01-30",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "42": {
     "id": 42,
@@ -2171,7 +2171,7 @@
     "Last modified": "2025-01-30",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "43": {
     "id": 43,
@@ -2226,7 +2226,7 @@
     "Last modified": "2025-01-30",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "44": {
     "id": 44,
@@ -2281,7 +2281,7 @@
     "Last modified": "2025-01-01",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "45": {
     "id": 45,
@@ -2336,7 +2336,7 @@
     "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "46": {
     "id": 46,
@@ -2391,7 +2391,7 @@
     "Last modified": "2024-07-25",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "47": {
     "id": 47,
@@ -2446,7 +2446,7 @@
     "Last modified": "2024-07-25",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "48": {
     "id": 48,
@@ -2518,7 +2518,7 @@
         "color": "dark-blue"
       }
     ],
-    "role_to_ms_context": [
+    "scribe_type": [
       {
         "id": 18165,
         "value": "Erweiterung",
@@ -2591,7 +2591,7 @@
         "color": "light-blue"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "50": {
     "id": 50,
@@ -2646,7 +2646,7 @@
     "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "51": {
     "id": 51,
@@ -2713,7 +2713,7 @@
         "color": "light-blue"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "52": {
     "id": 52,
@@ -2768,7 +2768,7 @@
     "Last modified": "2024-07-25",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "53": {
     "id": 53,
@@ -2823,7 +2823,7 @@
     "Last modified": "2024-07-25",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "54": {
     "id": 54,
@@ -2878,7 +2878,7 @@
     "Last modified": "2024-07-25",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "55": {
     "id": 55,
@@ -2933,7 +2933,7 @@
     "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "56": {
     "id": 56,
@@ -2988,7 +2988,7 @@
     "Last modified": "2024-07-23",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "57": {
     "id": 57,
@@ -3043,7 +3043,7 @@
     "Last modified": "2024-07-25",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "58": {
     "id": 58,
@@ -3098,7 +3098,7 @@
     "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "59": {
     "id": 59,
@@ -3153,7 +3153,7 @@
     "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "60": {
     "id": 60,
@@ -3213,7 +3213,7 @@
     "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "61": {
     "id": 61,
@@ -3280,7 +3280,7 @@
         "color": "dark-blue"
       }
     ],
-    "role_to_ms_context": [
+    "scribe_type": [
       {
         "id": 18165,
         "value": "Erweiterung",
@@ -3353,7 +3353,7 @@
         "color": "dark-blue"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "63": {
     "id": 63,
@@ -3420,7 +3420,7 @@
         "color": "darker-orange"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "64": {
     "id": 64,
@@ -3475,7 +3475,7 @@
     "Last modified": "2024-07-28",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "65": {
     "id": 65,
@@ -3542,7 +3542,7 @@
         "color": "darker-orange"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "66": {
     "id": 66,
@@ -3597,7 +3597,7 @@
     "Last modified": "2024-07-29",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "67": {
     "id": 67,
@@ -3664,7 +3664,7 @@
         "color": "dark-purple"
       }
     ],
-    "role_to_ms_context": [
+    "scribe_type": [
       {
         "id": 18165,
         "value": "Erweiterung",
@@ -3737,7 +3737,7 @@
         "color": "darker-brown"
       }
     ],
-    "role_to_ms_context": [
+    "scribe_type": [
       {
         "id": 18165,
         "value": "Erweiterung",
@@ -3810,7 +3810,7 @@
         "color": "dark-purple"
       }
     ],
-    "role_to_ms_context": [
+    "scribe_type": [
       {
         "id": 18165,
         "value": "Erweiterung",
@@ -3883,7 +3883,7 @@
         "color": "darker-brown"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "71": {
     "id": 71,
@@ -3955,7 +3955,7 @@
         "color": "darker-brown"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "72": {
     "id": 72,
@@ -4022,7 +4022,7 @@
         "color": "darker-brown"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "75": {
     "id": 75,
@@ -4094,7 +4094,7 @@
         "color": "darker-brown"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "76": {
     "id": 76,
@@ -4149,7 +4149,7 @@
     "Last modified": "2024-10-03",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "77": {
     "id": 77,
@@ -4216,7 +4216,7 @@
         "color": "darker-brown"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "78": {
     "id": 78,
@@ -4283,7 +4283,7 @@
         "color": "dark-blue"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "79": {
     "id": 79,
@@ -4350,7 +4350,7 @@
         "color": "dark-blue"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "80": {
     "id": 80,
@@ -4417,7 +4417,7 @@
         "color": "dark-blue"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "81": {
     "id": 81,
@@ -4484,7 +4484,7 @@
         "color": "dark-blue"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "82": {
     "id": 82,
@@ -4551,7 +4551,7 @@
         "color": "dark-blue"
       }
     ],
-    "role_to_ms_context": [
+    "scribe_type": [
       {
         "id": 18165,
         "value": "Erweiterung",
@@ -4617,7 +4617,7 @@
     "Last modified": "2024-09-25",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "84": {
     "id": 84,
@@ -4672,7 +4672,7 @@
     "Last modified": "2024-08-01",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "85": {
     "id": 85,
@@ -4727,7 +4727,7 @@
     "Last modified": "2024-09-25",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "86": {
     "id": 86,
@@ -4782,7 +4782,7 @@
     "Last modified": "2024-10-03",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "87": {
     "id": 87,
@@ -4837,7 +4837,7 @@
     "Last modified": "2024-10-03",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "88": {
     "id": 88,
@@ -4904,7 +4904,7 @@
         "color": "darker-brown"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "89": {
     "id": 89,
@@ -4965,7 +4965,7 @@
         "color": "darker-orange"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "90": {
     "id": 90,
@@ -5020,7 +5020,7 @@
     "Last modified": "2024-08-06",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "91": {
     "id": 91,
@@ -5075,7 +5075,7 @@
     "Last modified": "2024-08-06",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "92": {
     "id": 92,
@@ -5136,7 +5136,7 @@
         "color": "darker-orange"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "93": {
     "id": 93,
@@ -5191,7 +5191,7 @@
     "Last modified": "2024-10-03",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "94": {
     "id": 94,
@@ -5246,7 +5246,7 @@
     "Last modified": "2024-10-03",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "95": {
     "id": 95,
@@ -5301,7 +5301,7 @@
     "Last modified": "2024-08-26",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "96": {
     "id": 96,
@@ -5356,7 +5356,7 @@
     "Last modified": "2024-08-26",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "101": {
     "id": 101,
@@ -5411,7 +5411,7 @@
     "Last modified": "2024-08-26",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "102": {
     "id": 102,
@@ -5478,7 +5478,7 @@
         "color": "dark-blue"
       }
     ],
-    "role_to_ms_context": [
+    "scribe_type": [
       {
         "id": 18165,
         "value": "Erweiterung",
@@ -5539,7 +5539,7 @@
     "Last modified": "2024-08-26",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "104": {
     "id": 104,
@@ -5594,7 +5594,7 @@
     "Last modified": "2024-08-26",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "105": {
     "id": 105,
@@ -5649,7 +5649,7 @@
     "Last modified": "2024-08-26",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "106": {
     "id": 106,
@@ -5704,7 +5704,7 @@
     "Last modified": "2024-09-25",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "107": {
     "id": 107,
@@ -5759,7 +5759,7 @@
     "Last modified": "2024-09-25",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "108": {
     "id": 108,
@@ -5814,7 +5814,7 @@
     "Last modified": "2024-09-25",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "109": {
     "id": 109,
@@ -5869,7 +5869,7 @@
     "Last modified": "2024-09-25",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "110": {
     "id": 110,
@@ -5924,7 +5924,7 @@
     "Last modified": "2024-09-25",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "111": {
     "id": 111,
@@ -5979,7 +5979,7 @@
     "Last modified": "2024-09-25",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "112": {
     "id": 112,
@@ -6034,7 +6034,7 @@
     "Last modified": "2024-09-25",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "113": {
     "id": 113,
@@ -6089,7 +6089,7 @@
     "Last modified": "2024-09-25",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "114": {
     "id": 114,
@@ -6156,7 +6156,7 @@
         "color": "darker-orange"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "115": {
     "id": 115,
@@ -6211,7 +6211,7 @@
     "Last modified": "2024-12-14",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "116": {
     "id": 116,
@@ -6272,7 +6272,7 @@
         "color": "dark-blue"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "117": {
     "id": 117,
@@ -6327,7 +6327,7 @@
     "Last modified": "2024-08-26",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "120": {
     "id": 120,
@@ -6388,7 +6388,7 @@
       }
     ],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "121": {
     "id": 121,
@@ -6577,7 +6577,7 @@
       }
     ],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "122": {
     "id": 122,
@@ -6638,7 +6638,7 @@
       }
     ],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "123": {
     "id": 123,
@@ -6699,7 +6699,7 @@
       }
     ],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "125": {
     "id": 125,
@@ -6754,7 +6754,7 @@
     "Last modified": "2025-01-17",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "126": {
     "id": 126,
@@ -6803,7 +6803,7 @@
     "Last modified": "2024-11-13",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "127": {
     "id": 127,
@@ -6864,7 +6864,7 @@
       }
     ],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "129": {
     "id": 129,
@@ -6925,7 +6925,7 @@
         "color": "red"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "139": {
     "id": 139,
@@ -7034,7 +7034,7 @@
       }
     ],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "140": {
     "id": 140,
@@ -7083,7 +7083,7 @@
     "Last modified": "2025-01-17",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "142": {
     "id": 142,
@@ -7165,7 +7165,7 @@
         "color": "red"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "143": {
     "id": 143,
@@ -7220,7 +7220,7 @@
     "Last modified": "2024-09-19",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "144": {
     "id": 144,
@@ -7275,7 +7275,7 @@
     "Last modified": "2024-09-19",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "145": {
     "id": 145,
@@ -7336,7 +7336,7 @@
         "color": "darker-orange"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "148": {
     "id": 148,
@@ -7541,7 +7541,7 @@
       }
     ],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "150": {
     "id": 150,
@@ -7762,7 +7762,7 @@
         "color": "darker-orange"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "151": {
     "id": 151,
@@ -7817,7 +7817,7 @@
     "Last modified": "2024-12-04",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "152": {
     "id": 152,
@@ -7872,7 +7872,7 @@
     "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "153": {
     "id": 153,
@@ -7965,7 +7965,7 @@
         "color": "darker-orange"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "154": {
     "id": 154,
@@ -8014,7 +8014,7 @@
     "Last modified": "2025-02-11",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "155": {
     "id": 155,
@@ -8069,7 +8069,7 @@
     "Last modified": "2024-12-05",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "156": {
     "id": 156,
@@ -8136,7 +8136,7 @@
         "color": "darker-orange"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "157": {
     "id": 157,
@@ -8203,7 +8203,7 @@
         "color": "darker-orange"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "158": {
     "id": 158,
@@ -8252,7 +8252,7 @@
     "Last modified": "2025-01-28",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "159": {
     "id": 159,
@@ -8319,7 +8319,7 @@
         "color": "dark-blue"
       }
     ],
-    "role_to_ms_context": [
+    "scribe_type": [
       {
         "id": 18167,
         "value": "Überarbeitung",
@@ -8392,7 +8392,7 @@
         "color": "dark-blue"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "162": {
     "id": 162,
@@ -8479,7 +8479,7 @@
         "color": "dark-blue"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "163": {
     "id": 163,
@@ -8546,7 +8546,7 @@
         "color": "dark-blue"
       }
     ],
-    "role_to_ms_context": [
+    "scribe_type": [
       {
         "id": 18167,
         "value": "Überarbeitung",
@@ -8619,7 +8619,7 @@
         "color": "dark-blue"
       }
     ],
-    "role_to_ms_context": []
+    "scribe_type": []
   },
   "166": {
     "id": 166,
@@ -8646,7 +8646,7 @@
         "color": "darker-red"
       }
     ],
-    "locus": "1v-44r",
+    "locus": "1r-28v, 30r-48v, 49rb-57v",
     "text": [
       {
         "ids": {
@@ -8671,9 +8671,1100 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2025-02-12",
-    "Last modified": "2025-02-12",
+    "Last modified": "2025-02-13",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": []
+  },
+  "167": {
+    "id": 167,
+    "order": "153.00000000000000000000",
+    "hit_id": "hit_hands_role__167",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified": "2025-02-13",
     "locus_layout": [],
     "function": [],
-    "role_to_ms_context": []
+    "scribe_type": []
+  },
+  "168": {
+    "id": 168,
+    "order": "154.00000000000000000000",
+    "hit_id": "hit_hands_role__168",
+    "hand": [
+      {
+        "id": 124,
+        "value": "Saint-Omer, ms. 706_H. 2",
+        "order": "116.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 191,
+        "value": "ms_706__191",
+        "order": "149.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "58r-103v",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 73,
+          "database_table_3491": 191
+        },
+        "value": "Decem libri historiarum"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 191,
+        "value": "1v-144v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified": "2025-02-13",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": []
+  },
+  "169": {
+    "id": 169,
+    "order": "155.00000000000000000000",
+    "hit_id": "hit_hands_role__169",
+    "hand": [
+      {
+        "id": 125,
+        "value": "Saint-Omer, ms. 706_H. 3",
+        "order": "117.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 191,
+        "value": "ms_706__191",
+        "order": "149.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "29r-v, 49ra-b, 104r-118r",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 73,
+          "database_table_3491": 191
+        },
+        "value": "Decem libri historiarum"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 191,
+        "value": "1v-144v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified": "2025-02-13",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": []
+  },
+  "170": {
+    "id": 170,
+    "order": "156.00000000000000000000",
+    "hit_id": "hit_hands_role__170",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified": "2025-02-13",
+    "locus_layout": [],
+    "function": [],
+    "scribe_type": []
+  },
+  "172": {
+    "id": 172,
+    "order": "158.00000000000000000000",
+    "hit_id": "hit_hands_role__172",
+    "hand": [
+      {
+        "id": 126,
+        "value": "Saint-Omer, ms. 706_H. 4",
+        "order": "118.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 192,
+        "value": "ms_706__192",
+        "order": "150.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "162r-170v",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 135,
+          "database_table_3491": 192
+        },
+        "value": "Annales regni Francorum"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 192,
+        "value": "145r-170v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified": "2025-02-13",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": []
+  },
+  "173": {
+    "id": 173,
+    "order": "159.00000000000000000000",
+    "hit_id": "hit_hands_role__173",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified": "2025-02-13",
+    "locus_layout": [],
+    "function": [],
+    "scribe_type": []
+  },
+  "174": {
+    "id": 174,
+    "order": "160.00000000000000000000",
+    "hit_id": "hit_hands_role__174",
+    "hand": [
+      {
+        "id": 126,
+        "value": "Saint-Omer, ms. 706_H. 4",
+        "order": "118.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 193,
+        "value": "ms_706__193",
+        "order": "151.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "170v-177v",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 128,
+          "database_table_3491": 193
+        },
+        "value": "Annales Bertiniani"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 193,
+        "value": "170v-223r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified": "2025-02-13",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": []
+  },
+  "175": {
+    "id": 175,
+    "order": "161.00000000000000000000",
+    "hit_id": "hit_hands_role__175",
+    "hand": [
+      {
+        "id": 123,
+        "value": "Saint-Omer, ms. 706_H. 1",
+        "order": "115.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 192,
+        "value": "ms_706__192",
+        "order": "150.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "145r-161v",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 135,
+          "database_table_3491": 192
+        },
+        "value": "Annales regni Francorum"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 192,
+        "value": "145r-170v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified": "2025-02-13",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": []
+  },
+  "176": {
+    "id": 176,
+    "order": "162.00000000000000000000",
+    "hit_id": "hit_hands_role__176",
+    "hand": [
+      {
+        "id": 125,
+        "value": "Saint-Omer, ms. 706_H. 3",
+        "order": "117.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 193,
+        "value": "ms_706__193",
+        "order": "151.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "178r-193v",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 128,
+          "database_table_3491": 193
+        },
+        "value": "Annales Bertiniani"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 193,
+        "value": "170v-223r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified": "2025-02-13",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": []
+  },
+  "177": {
+    "id": 177,
+    "order": "163.00000000000000000000",
+    "hit_id": "hit_hands_role__177",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified": "2025-02-13",
+    "locus_layout": [],
+    "function": [],
+    "scribe_type": []
+  },
+  "178": {
+    "id": 178,
+    "order": "164.00000000000000000000",
+    "hit_id": "hit_hands_role__178",
+    "hand": [
+      {
+        "id": 125,
+        "value": "Saint-Omer, ms. 706_H. 3",
+        "order": "117.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 196,
+        "value": "ms_706__196",
+        "order": "149.50000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 137,
+          "database_table_3491": 196
+        },
+        "value": "Fredegarii Continuationes"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 196,
+        "value": "140v-144v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified": "2025-02-13",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": []
+  },
+  "179": {
+    "id": 179,
+    "order": "165.00000000000000000000",
+    "hit_id": "hit_hands_role__179",
+    "hand": [
+      {
+        "id": 123,
+        "value": "Saint-Omer, ms. 706_H. 1",
+        "order": "115.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 193,
+        "value": "ms_706__193",
+        "order": "151.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "194r-197v",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 128,
+          "database_table_3491": 193
+        },
+        "value": "Annales Bertiniani"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 193,
+        "value": "170v-223r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified": "2025-02-13",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": []
+  },
+  "180": {
+    "id": 180,
+    "order": "166.00000000000000000000",
+    "hit_id": "hit_hands_role__180",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified": "2025-02-13",
+    "locus_layout": [],
+    "function": [],
+    "scribe_type": []
+  },
+  "181": {
+    "id": 181,
+    "order": "167.00000000000000000000",
+    "hit_id": "hit_hands_role__181",
+    "hand": [
+      {
+        "id": 124,
+        "value": "Saint-Omer, ms. 706_H. 2",
+        "order": "116.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 193,
+        "value": "ms_706__193",
+        "order": "151.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "198r-223r",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 128,
+          "database_table_3491": 193
+        },
+        "value": "Annales Bertiniani"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 193,
+        "value": "170v-223r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified": "2025-02-13",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": []
+  },
+  "182": {
+    "id": 182,
+    "order": "168.00000000000000000000",
+    "hit_id": "hit_hands_role__182",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified": "2025-02-13",
+    "locus_layout": [],
+    "function": [],
+    "scribe_type": []
+  },
+  "183": {
+    "id": 183,
+    "order": "169.00000000000000000000",
+    "hit_id": "hit_hands_role__183",
+    "hand": [
+      {
+        "id": 125,
+        "value": "Saint-Omer, ms. 706_H. 3",
+        "order": "117.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 194,
+        "value": "ms_706__194",
+        "order": "149.33333333333334280724"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 136,
+          "database_table_3491": 194
+        },
+        "value": "Fredegar-Chronik"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 194,
+        "value": "118v-144v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified": "2025-02-13",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": []
+  },
+  "184": {
+    "id": 184,
+    "order": "170.00000000000000000000",
+    "hit_id": "hit_hands_role__184",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified": "2025-02-13",
+    "locus_layout": [],
+    "function": [],
+    "scribe_type": []
+  },
+  "185": {
+    "id": 185,
+    "order": "171.00000000000000000000",
+    "hit_id": "hit_hands_role__185",
+    "hand": [
+      {
+        "id": 136,
+        "value": "Saint-Omer, ms. 706_H. 7",
+        "order": "127.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 191,
+        "value": "ms_706__191",
+        "order": "149.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 18189,
+        "value": "Undefinierter Annotator/Bearbeiter",
+        "color": "light-yellow"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 73,
+          "database_table_3491": 191
+        },
+        "value": "Decem libri historiarum"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 191,
+        "value": "1v-144v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified": "2025-02-13",
+    "locus_layout": [
+      {
+        "id": 15383,
+        "value": "marginal links",
+        "color": "darker-brown"
+      },
+      {
+        "id": 15096,
+        "value": "marginal rechts",
+        "color": "darker-red"
+      },
+      {
+        "id": 18157,
+        "value": "mittig (zweispaltig)",
+        "color": "light-red"
+      }
+    ],
+    "function": [
+      {
+        "id": 15836,
+        "value": "inhaltsbezogen",
+        "color": "darker-orange"
+      }
+    ],
+    "scribe_type": []
+  },
+  "186": {
+    "id": 186,
+    "order": "172.00000000000000000000",
+    "hit_id": "hit_hands_role__186",
+    "hand": [
+      {
+        "id": 124,
+        "value": "Saint-Omer, ms. 706_H. 2",
+        "order": "116.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 205,
+        "value": "ms_706__205",
+        "order": "160.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 139,
+          "database_table_3491": 205
+        },
+        "value": "Urkunde des Erzbischofs Odalric von Reims (962-969)"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 205,
+        "value": "223r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified": "2025-02-13",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": []
+  },
+  "187": {
+    "id": 187,
+    "order": "173.00000000000000000000",
+    "hit_id": "hit_hands_role__187",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified": "2025-02-13",
+    "locus_layout": [],
+    "function": [],
+    "scribe_type": []
+  },
+  "188": {
+    "id": 188,
+    "order": "174.00000000000000000000",
+    "hit_id": "hit_hands_role__188",
+    "hand": [
+      {
+        "id": 137,
+        "value": "Saint-Omer, ms. 706_H. 8",
+        "order": "128.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 203,
+        "value": "ms_706__203",
+        "order": "158.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 118,
+          "database_table_3491": 203
+        },
+        "value": "Visio Eucherii"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 203,
+        "value": "223v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified": "2025-02-13",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18155,
+        "value": "konzeptbezogen",
+        "color": "darker-brown"
+      }
+    ],
+    "scribe_type": [
+      {
+        "id": 18165,
+        "value": "Erweiterung",
+        "color": "darker-blue"
+      }
+    ]
   }
 }

@@ -8962,7 +8962,7 @@
         "value": "Saint-Omer, ms. 706_H. 1"
       }
     ],
-    "description": "",
+    "description": "a",
     "hit_id": "hit_hands__123",
     "similar_hands": [],
     "nr_daniel": "",
@@ -8984,17 +8984,47 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-01-17",
+    "Last modified": "2025-02-13",
     "hands_role": [
       {
         "id": 166,
         "value": "hit_hands_role__166",
         "order": "152.00000000000000000000"
+      },
+      {
+        "id": 175,
+        "value": "hit_hands_role__175",
+        "order": "161.00000000000000000000"
+      },
+      {
+        "id": 179,
+        "value": "hit_hands_role__179",
+        "order": "165.00000000000000000000"
       }
     ],
     "role": [
       {
         "id": 166,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 175,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 179,
         "value": [
           {
             "id": 14758,
@@ -9011,12 +9041,32 @@
           "database_table_3491": 191
         },
         "value": "Decem libri historiarum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 135,
+          "database_table_3491": 192
+        },
+        "value": "Annales regni Francorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 128,
+          "database_table_3491": 193
+        },
+        "value": "Annales Bertiniani"
       }
     ],
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
-    "scribe": [],
+    "scribe": [
+      {
+        "id": 15,
+        "value": "Balduinus / Ricolfus",
+        "order": "14.00000000000000000000"
+      }
+    ],
     "gruppe": false
   },
   "124": {
@@ -9031,7 +9081,7 @@
         "value": "Saint-Omer, ms. 706_H. 2"
       }
     ],
-    "description": "",
+    "description": "b",
     "hit_id": "hit_hands__124",
     "similar_hands": [],
     "nr_daniel": "",
@@ -9053,10 +9103,79 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-01-17",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
+    "Last modified": "2025-02-13",
+    "hands_role": [
+      {
+        "id": 168,
+        "value": "hit_hands_role__168",
+        "order": "154.00000000000000000000"
+      },
+      {
+        "id": 181,
+        "value": "hit_hands_role__181",
+        "order": "167.00000000000000000000"
+      },
+      {
+        "id": 186,
+        "value": "hit_hands_role__186",
+        "order": "172.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 168,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 181,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 186,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 73,
+          "database_table_3491": 191
+        },
+        "value": "Decem libri historiarum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 128,
+          "database_table_3491": 193
+        },
+        "value": "Annales Bertiniani"
+      },
+      {
+        "ids": {
+          "database_table_3489": 139,
+          "database_table_3491": 205
+        },
+        "value": "Urkunde des Erzbischofs Odalric von Reims (962-969)"
+      }
+    ],
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
@@ -9075,7 +9194,7 @@
         "value": "Saint-Omer, ms. 706_H. 3"
       }
     ],
-    "description": "",
+    "description": "c",
     "hit_id": "hit_hands__125",
     "similar_hands": [],
     "nr_daniel": "",
@@ -9097,14 +9216,111 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-01-17",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
+    "Last modified": "2025-02-13",
+    "hands_role": [
+      {
+        "id": 169,
+        "value": "hit_hands_role__169",
+        "order": "155.00000000000000000000"
+      },
+      {
+        "id": 176,
+        "value": "hit_hands_role__176",
+        "order": "162.00000000000000000000"
+      },
+      {
+        "id": 178,
+        "value": "hit_hands_role__178",
+        "order": "164.00000000000000000000"
+      },
+      {
+        "id": 183,
+        "value": "hit_hands_role__183",
+        "order": "169.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 169,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 176,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 178,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 183,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 73,
+          "database_table_3491": 191
+        },
+        "value": "Decem libri historiarum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 128,
+          "database_table_3491": 193
+        },
+        "value": "Annales Bertiniani"
+      },
+      {
+        "ids": {
+          "database_table_3489": 136,
+          "database_table_3491": 194
+        },
+        "value": "Fredegar-Chronik"
+      },
+      {
+        "ids": {
+          "database_table_3489": 137,
+          "database_table_3491": 196
+        },
+        "value": "Fredegarii Continuationes"
+      }
+    ],
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
-    "scribe": [],
+    "scribe": [
+      {
+        "id": 16,
+        "value": "Saint-Bertin_Skriptorium Odbert_1",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "gruppe": false
   },
   "126": {
@@ -9119,7 +9335,7 @@
         "value": "Saint-Omer, ms. 706_H. 4"
       }
     ],
-    "description": "",
+    "description": "d",
     "hit_id": "hit_hands__126",
     "similar_hands": [],
     "nr_daniel": "",
@@ -9141,58 +9357,67 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-01-17",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
-    "scribe": [],
-    "gruppe": false
-  },
-  "131": {
-    "id": 131,
-    "order": "122.00000000000000000000",
-    "label": [
+    "Last modified": "2025-02-13",
+    "hands_role": [
+      {
+        "id": 172,
+        "value": "hit_hands_role__172",
+        "order": "158.00000000000000000000"
+      },
+      {
+        "id": 174,
+        "value": "hit_hands_role__174",
+        "order": "160.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 172,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 174,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
       {
         "ids": {
-          "database_table_3487": 31,
-          "database_table_3488": 11
+          "database_table_3489": 135,
+          "database_table_3491": 192
         },
-        "value": "Saint-Omer, ms. 706_H. "
-      }
-    ],
-    "description": "",
-    "hit_id": "hit_hands__131",
-    "similar_hands": [],
-    "nr_daniel": "",
-    "manuscript": [
+        "value": "Annales regni Francorum"
+      },
       {
-        "id": 31,
-        "value": "Saint-Omer, ms. 706",
-        "order": "24.00000000000000000000"
+        "ids": {
+          "database_table_3489": 128,
+          "database_table_3491": 193
+        },
+        "value": "Annales Bertiniani"
       }
     ],
-    "number": null,
-    "note": "",
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Created on": "2025-02-03",
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified": "2025-02-03",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
-    "scribe": [],
+    "scribe": [
+      {
+        "id": 18,
+        "value": "Saint-Bertin_Skriptorium Odbert_2",
+        "order": "17.00000000000000000000"
+      }
+    ],
     "gruppe": false
   },
   "133": {
@@ -9262,6 +9487,368 @@
     "dating": [],
     "hands_placed": [],
     "scribe": [],
+    "gruppe": false
+  },
+  "134": {
+    "id": 134,
+    "order": "125.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 31,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 706_H. 6"
+      }
+    ],
+    "description": "",
+    "hit_id": "hit_hands__134",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 31,
+        "value": "Saint-Omer, ms. 706",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "number": "6",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-13",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": false
+  },
+  "135": {
+    "id": 135,
+    "order": "126.00000000000000000000",
+    "label": [],
+    "description": "",
+    "hit_id": "hit_hands__135",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [],
+    "number": null,
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-13",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": false
+  },
+  "136": {
+    "id": 136,
+    "order": "127.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 31,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 706_H. 7"
+      }
+    ],
+    "description": "Mindestens eine Anotatorenhand, die neben den veränderten und interpolierten Stellen der Decem libri historiarum Kreuze setzt. Einige dieser Symbole wirken zeitgenössisch.",
+    "hit_id": "hit_hands__136",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 31,
+        "value": "Saint-Omer, ms. 706",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "number": "7",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-13",
+    "hands_role": [
+      {
+        "id": 185,
+        "value": "hit_hands_role__185",
+        "order": "171.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 185,
+        "value": [
+          {
+            "id": 18189,
+            "value": "Undefinierter Annotator/Bearbeiter",
+            "color": "light-yellow"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 73,
+          "database_table_3491": 191
+        },
+        "value": "Decem libri historiarum"
+      }
+    ],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": true
+  },
+  "137": {
+    "id": 137,
+    "order": "128.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 31,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 706_H. 8"
+      }
+    ],
+    "description": "",
+    "hit_id": "hit_hands__137",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 31,
+        "value": "Saint-Omer, ms. 706",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "number": "8",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-13",
+    "hands_role": [
+      {
+        "id": 188,
+        "value": "hit_hands_role__188",
+        "order": "174.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 188,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 118,
+          "database_table_3491": 203
+        },
+        "value": "Visio Eucherii"
+      }
+    ],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": false
+  },
+  "138": {
+    "id": 138,
+    "order": "129.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 32,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 697_H. 1"
+      }
+    ],
+    "description": "d",
+    "hit_id": "hit_hands__138",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 32,
+        "value": "Saint-Omer, ms. 697",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-13",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [
+      {
+        "id": 18,
+        "value": "Saint-Bertin_Skriptorium Odbert_2",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "gruppe": false
+  },
+  "139": {
+    "id": 139,
+    "order": "130.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 33,
+          "database_table_3488": 13
+        },
+        "value": "Bruxelles KBR, ms. 15835_H. 1"
+      }
+    ],
+    "description": "a",
+    "hit_id": "hit_hands__139",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 33,
+        "value": "Bruxelles KBR, ms. 15835",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-13",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [
+      {
+        "id": 15,
+        "value": "Balduinus / Ricolfus",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "gruppe": false
+  },
+  "140": {
+    "id": 140,
+    "order": "131.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 33,
+          "database_table_3488": 13
+        },
+        "value": "Bruxelles KBR, ms. 15835_H. 2"
+      }
+    ],
+    "description": "c",
+    "hit_id": "hit_hands__140",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 33,
+        "value": "Bruxelles KBR, ms. 15835",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "number": "2",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-13",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [
+      {
+        "id": 16,
+        "value": "Saint-Bertin_Skriptorium Odbert_1",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "gruppe": false
   }
 }

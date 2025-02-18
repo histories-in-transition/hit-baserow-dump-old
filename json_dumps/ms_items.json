@@ -12201,5 +12201,551 @@
     "role": null,
     "commented_msitem": [],
     "function_role": []
+  },
+  "206": {
+    "id": 206,
+    "order": "161.00000000000000000000",
+    "label": [
+      {
+        "id": 32,
+        "value": "ms_697__206"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 32,
+        "value": "Saint-Omer, ms. 697",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 140,
+        "value": "Breviarium ab urbe condita",
+        "order": "138.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__206",
+    "filiation": "",
+    "locus_grp": "1r-28v",
+    "hands_role": [
+      {
+        "id": 195,
+        "value": "hit_hands_role__195",
+        "order": "181.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 34,
+        "value": "Saint-Omer, ms. 697, cod. unit 1",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-02-17",
+    "Created on": "2025-02-17",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 32,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 697_H. 1"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [],
+    "role": null,
+    "commented_msitem": [],
+    "function_role": []
+  },
+  "207": {
+    "id": 207,
+    "order": "162.00000000000000000000",
+    "label": [
+      {
+        "id": 32,
+        "value": "ms_697__207"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 32,
+        "value": "Saint-Omer, ms. 697",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 141,
+        "value": "Chronicon",
+        "order": "139.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__207",
+    "filiation": "",
+    "locus_grp": "28v-41v",
+    "hands_role": [
+      {
+        "id": 195,
+        "value": "hit_hands_role__195",
+        "order": "181.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 34,
+        "value": "Saint-Omer, ms. 697, cod. unit 1",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-02-17",
+    "Created on": "2025-02-17",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 32,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 697_H. 1"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [],
+    "role": null,
+    "commented_msitem": [],
+    "function_role": []
+  },
+  "208": {
+    "id": 208,
+    "order": "163.00000000000000000000",
+    "label": [
+      {
+        "id": 32,
+        "value": "ms_697__208"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 32,
+        "value": "Saint-Omer, ms. 697",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 142,
+        "value": "Notitia Gallairum",
+        "order": "140.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__208",
+    "filiation": "",
+    "locus_grp": "42r-v",
+    "hands_role": [
+      {
+        "id": 195,
+        "value": "hit_hands_role__195",
+        "order": "181.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 34,
+        "value": "Saint-Omer, ms. 697, cod. unit 1",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-02-17",
+    "Created on": "2025-02-17",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 32,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 697_H. 1"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [],
+    "role": null,
+    "commented_msitem": [],
+    "function_role": []
+  },
+  "209": {
+    "id": 209,
+    "order": "164.00000000000000000000",
+    "label": [
+      {
+        "id": 33,
+        "value": "ms_15835__209"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 33,
+        "value": "Bruxelles KBR, ms. 15835",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 7,
+        "value": "De temporum ratione",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "title_note": "Auszug Kapitel ?",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__209",
+    "filiation": "",
+    "locus_grp": "1r-2v",
+    "hands_role": [
+      {
+        "id": 189,
+        "value": "hit_hands_role__189",
+        "order": "175.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 35,
+        "value": "Bruxelles KBR, ms. 15835, cod. unit 1",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-02-17",
+    "Created on": "2025-02-17",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "Diese spezifische Überlieferung von Bedas De \ntemporum ratione steht mit dem folgenden Text, dem Chronicon Laurissense breve, in Verbindung.",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 33,
+          "database_table_3488": 13
+        },
+        "value": "Bruxelles KBR, ms. 15835_H. 1"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [],
+    "role": null,
+    "commented_msitem": [],
+    "function_role": []
+  },
+  "210": {
+    "id": 210,
+    "order": "165.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__210",
+    "filiation": "",
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2025-02-17",
+    "Created on": "2025-02-17",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [],
+    "role": null,
+    "commented_msitem": [],
+    "function_role": []
+  },
+  "211": {
+    "id": 211,
+    "order": "166.00000000000000000000",
+    "label": [
+      {
+        "id": 33,
+        "value": "ms_15835__211"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 33,
+        "value": "Bruxelles KBR, ms. 15835",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 143,
+        "value": "Chronicon Laurissense breve",
+        "order": "141.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__211",
+    "filiation": "",
+    "locus_grp": "2v-5r",
+    "hands_role": [
+      {
+        "id": 191,
+        "value": "hit_hands_role__191",
+        "order": "177.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 35,
+        "value": "Bruxelles KBR, ms. 15835, cod. unit 1",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-02-17",
+    "Created on": "2025-02-17",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 33,
+          "database_table_3488": 13
+        },
+        "value": "Bruxelles KBR, ms. 15835_H. 1"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [],
+    "role": null,
+    "commented_msitem": [],
+    "function_role": []
+  },
+  "212": {
+    "id": 212,
+    "order": "167.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__212",
+    "filiation": "",
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2025-02-17",
+    "Created on": "2025-02-17",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [],
+    "role": null,
+    "commented_msitem": [],
+    "function_role": []
+  },
+  "213": {
+    "id": 213,
+    "order": "168.00000000000000000000",
+    "label": [
+      {
+        "id": 33,
+        "value": "ms_15835__213"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 33,
+        "value": "Bruxelles KBR, ms. 15835",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 144,
+        "value": "Annales Vedastini",
+        "order": "142.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__213",
+    "filiation": "",
+    "locus_grp": "6v-16r",
+    "hands_role": [
+      {
+        "id": 192,
+        "value": "hit_hands_role__192",
+        "order": "178.00000000000000000000"
+      },
+      {
+        "id": 194,
+        "value": "hit_hands_role__194",
+        "order": "180.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 35,
+        "value": "Bruxelles KBR, ms. 15835, cod. unit 1",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-02-17",
+    "Created on": "2025-02-17",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 33,
+          "database_table_3488": 13
+        },
+        "value": "Bruxelles KBR, ms. 15835_H. 1"
+      },
+      {
+        "ids": {
+          "database_table_3487": 33,
+          "database_table_3488": 13
+        },
+        "value": "Bruxelles KBR, ms. 15835_H. 2"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [],
+    "role": null,
+    "commented_msitem": [],
+    "function_role": []
   }
 }

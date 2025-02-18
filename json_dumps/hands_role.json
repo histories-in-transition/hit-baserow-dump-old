@@ -9766,5 +9766,420 @@
         "color": "darker-blue"
       }
     ]
+  },
+  "189": {
+    "id": 189,
+    "order": "175.00000000000000000000",
+    "hit_id": "hit_hands_role__189",
+    "hand": [
+      {
+        "id": 139,
+        "value": "Bruxelles KBR, ms. 15835_H. 1",
+        "order": "130.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 209,
+        "value": "ms_15835__209",
+        "order": "164.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 7,
+          "database_table_3491": 209
+        },
+        "value": "De temporum ratione"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 209,
+        "value": "1r-2v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-17",
+    "Last modified": "2025-02-17",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": []
+  },
+  "190": {
+    "id": 190,
+    "order": "176.00000000000000000000",
+    "hit_id": "hit_hands_role__190",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-17",
+    "Last modified": "2025-02-17",
+    "locus_layout": [],
+    "function": [],
+    "scribe_type": []
+  },
+  "191": {
+    "id": 191,
+    "order": "177.00000000000000000000",
+    "hit_id": "hit_hands_role__191",
+    "hand": [
+      {
+        "id": 139,
+        "value": "Bruxelles KBR, ms. 15835_H. 1",
+        "order": "130.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 211,
+        "value": "ms_15835__211",
+        "order": "166.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 143,
+          "database_table_3491": 211
+        },
+        "value": "Chronicon Laurissense breve"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 211,
+        "value": "2v-5r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-17",
+    "Last modified": "2025-02-17",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": []
+  },
+  "192": {
+    "id": 192,
+    "order": "178.00000000000000000000",
+    "hit_id": "hit_hands_role__192",
+    "hand": [
+      {
+        "id": 139,
+        "value": "Bruxelles KBR, ms. 15835_H. 1",
+        "order": "130.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 213,
+        "value": "ms_15835__213",
+        "order": "168.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "6v-7v",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 144,
+          "database_table_3491": 213
+        },
+        "value": "Annales Vedastini"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 213,
+        "value": "6v-16r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-17",
+    "Last modified": "2025-02-17",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": []
+  },
+  "193": {
+    "id": 193,
+    "order": "179.00000000000000000000",
+    "hit_id": "hit_hands_role__193",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-17",
+    "Last modified": "2025-02-17",
+    "locus_layout": [],
+    "function": [],
+    "scribe_type": []
+  },
+  "194": {
+    "id": 194,
+    "order": "180.00000000000000000000",
+    "hit_id": "hit_hands_role__194",
+    "hand": [
+      {
+        "id": 140,
+        "value": "Bruxelles KBR, ms. 15835_H. 2",
+        "order": "131.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 213,
+        "value": "ms_15835__213",
+        "order": "168.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "7v-16r",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 144,
+          "database_table_3491": 213
+        },
+        "value": "Annales Vedastini"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 213,
+        "value": "6v-16r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-17",
+    "Last modified": "2025-02-17",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": []
+  },
+  "195": {
+    "id": 195,
+    "order": "181.00000000000000000000",
+    "hit_id": "hit_hands_role__195",
+    "hand": [
+      {
+        "id": 138,
+        "value": "Saint-Omer, ms. 697_H. 1",
+        "order": "129.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 206,
+        "value": "ms_697__206",
+        "order": "161.00000000000000000000"
+      },
+      {
+        "id": 207,
+        "value": "ms_697__207",
+        "order": "162.00000000000000000000"
+      },
+      {
+        "id": 208,
+        "value": "ms_697__208",
+        "order": "163.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 140,
+          "database_table_3491": 206
+        },
+        "value": "Breviarium ab urbe condita"
+      },
+      {
+        "ids": {
+          "database_table_3489": 141,
+          "database_table_3491": 207
+        },
+        "value": "Chronicon"
+      },
+      {
+        "ids": {
+          "database_table_3489": 142,
+          "database_table_3491": 208
+        },
+        "value": "Notitia Gallairum"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 206,
+        "value": "1r-28v"
+      },
+      {
+        "id": 207,
+        "value": "28v-41v"
+      },
+      {
+        "id": 208,
+        "value": "42r-v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-17",
+    "Last modified": "2025-02-17",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": []
   }
 }

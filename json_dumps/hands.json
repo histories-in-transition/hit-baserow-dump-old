@@ -9736,9 +9736,48 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2025-02-13",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
+    "hands_role": [
+      {
+        "id": 195,
+        "value": "hit_hands_role__195",
+        "order": "181.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 195,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 140,
+          "database_table_3491": 206
+        },
+        "value": "Breviarium ab urbe condita"
+      },
+      {
+        "ids": {
+          "database_table_3489": 141,
+          "database_table_3491": 207
+        },
+        "value": "Chronicon"
+      },
+      {
+        "ids": {
+          "database_table_3489": 142,
+          "database_table_3491": 208
+        },
+        "value": "Notitia Gallairum"
+      }
+    ],
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
@@ -9786,9 +9825,78 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2025-02-13",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
+    "hands_role": [
+      {
+        "id": 189,
+        "value": "hit_hands_role__189",
+        "order": "175.00000000000000000000"
+      },
+      {
+        "id": 191,
+        "value": "hit_hands_role__191",
+        "order": "177.00000000000000000000"
+      },
+      {
+        "id": 192,
+        "value": "hit_hands_role__192",
+        "order": "178.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 189,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 191,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 192,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 7,
+          "database_table_3491": 209
+        },
+        "value": "De temporum ratione"
+      },
+      {
+        "ids": {
+          "database_table_3489": 143,
+          "database_table_3491": 211
+        },
+        "value": "Chronicon Laurissense breve"
+      },
+      {
+        "ids": {
+          "database_table_3489": 144,
+          "database_table_3491": 213
+        },
+        "value": "Annales Vedastini"
+      }
+    ],
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
@@ -9836,9 +9944,34 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2025-02-13",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
+    "hands_role": [
+      {
+        "id": 194,
+        "value": "hit_hands_role__194",
+        "order": "180.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 194,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 144,
+          "database_table_3491": 213
+        },
+        "value": "Annales Vedastini"
+      }
+    ],
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],

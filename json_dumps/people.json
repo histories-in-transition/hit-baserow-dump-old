@@ -1890,7 +1890,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-01-16",
+    "Last modified": "2025-02-17",
     "works": [
       {
         "id": 128,
@@ -1902,6 +1902,80 @@
       {
         "id": 128,
         "value": "Annales Bertiniani"
+      }
+    ]
+  },
+  "51": {
+    "id": 51,
+    "order": "49.00000000000000000000",
+    "name": "Marcellinus, Comes",
+    "gnd_url": "https://d-nb.info/gnd/119336219",
+    "hit_id": "hit_people__51",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-17",
+    "works": [
+      {
+        "id": 141,
+        "value": "Chronicon",
+        "order": "139.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 141,
+        "value": "Chronicon"
+      }
+    ]
+  },
+  "52": {
+    "id": 52,
+    "order": "50.00000000000000000000",
+    "name": "Eutropius",
+    "gnd_url": "",
+    "hit_id": "hit_people__52",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-17",
+    "works": [
+      {
+        "id": 140,
+        "value": "Breviarium ab urbe condita",
+        "order": "138.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 140,
+        "value": "Breviarium ab urbe condita"
       }
     ]
   }

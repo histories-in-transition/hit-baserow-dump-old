@@ -1738,12 +1738,6 @@
           }
         ],
         "number": "1",
-        "prov_place_old": [
-          {
-            "id": 3,
-            "value": "Salzburg"
-          }
-        ],
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -2078,12 +2072,6 @@
         ],
         "quire": [],
         "number": "1",
-        "prov_place_old": [
-          {
-            "id": 3,
-            "value": "Salzburg"
-          }
-        ],
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -2505,12 +2493,6 @@
           }
         ],
         "number": "1",
-        "prov_place_old": [
-          {
-            "id": 3,
-            "value": "Salzburg"
-          }
-        ],
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -2561,7 +2543,6 @@
         ],
         "quire": [],
         "number": "2",
-        "prov_place_old": [],
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -4021,12 +4002,6 @@
           }
         ],
         "number": "1",
-        "prov_place_old": [
-          {
-            "id": 5,
-            "value": "Saint-Amand-les-Eaux"
-          }
-        ],
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -4105,7 +4080,7 @@
             ],
             "page": null,
             "uncertain_from": false,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           },
           {
@@ -4164,7 +4139,7 @@
             "authority": [],
             "page": null,
             "uncertain_from": false,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           }
         ],
@@ -4711,12 +4686,6 @@
           }
         ],
         "number": "2",
-        "prov_place_old": [
-          {
-            "id": 3,
-            "value": "Salzburg"
-          }
-        ],
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -4790,7 +4759,7 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           }
         ],
@@ -4930,12 +4899,6 @@
           }
         ],
         "number": "3",
-        "prov_place_old": [
-          {
-            "id": 5,
-            "value": "Saint-Amand-les-Eaux"
-          }
-        ],
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -5165,12 +5128,6 @@
         ],
         "quire": [],
         "number": "1",
-        "prov_place_old": [
-          {
-            "id": 3,
-            "value": "Salzburg"
-          }
-        ],
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -5244,7 +5201,7 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           }
         ],
@@ -6865,12 +6822,6 @@
           }
         ],
         "number": "1",
-        "prov_place_old": [
-          {
-            "id": 4,
-            "value": "Freising"
-          }
-        ],
         "Last modified by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -6964,7 +6915,7 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           }
         ],
@@ -8737,12 +8688,6 @@
           }
         ],
         "number": "1",
-        "prov_place_old": [
-          {
-            "id": 4,
-            "value": "Freising"
-          }
-        ],
         "Last modified by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -8827,7 +8772,7 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           }
         ],
@@ -8842,8 +8787,8 @@
         ],
         "view_label": "BSB, Clm. 6308, cod. unit 1",
         "prev": {
-          "id": "hit_cod_unit__33",
-          "label": "BSB, Clm. 29226, cod. unit 1"
+          "id": "hit_cod_unit__35",
+          "label": "Bruxelles KBR, ms. 15835, cod. unit 1"
         },
         "next": {
           "id": "hit_cod_unit__5",
@@ -9102,12 +9047,6 @@
         ],
         "quire": [],
         "number": "1",
-        "prov_place_old": [
-          {
-            "id": 4,
-            "value": "Freising"
-          }
-        ],
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -9192,7 +9131,7 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           }
         ],
@@ -9515,12 +9454,6 @@
         ],
         "quire": [],
         "number": "1",
-        "prov_place_old": [
-          {
-            "id": 18,
-            "value": "Südbayern"
-          }
-        ],
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -9600,7 +9533,7 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           },
           {
@@ -9669,7 +9602,7 @@
             "authority": [],
             "page": "",
             "uncertain_from": true,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           }
         ],
@@ -10053,12 +9986,6 @@
         ],
         "quire": [],
         "number": "1",
-        "prov_place_old": [
-          {
-            "id": 11,
-            "value": "Benediktbeuern"
-          }
-        ],
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -10138,7 +10065,7 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           },
           {
@@ -10207,7 +10134,7 @@
             "authority": [],
             "page": "",
             "uncertain_from": true,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           }
         ],
@@ -10535,12 +10462,6 @@
         ],
         "quire": [],
         "number": "1",
-        "prov_place_old": [
-          {
-            "id": 17,
-            "value": "Reims"
-          }
-        ],
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -10620,7 +10541,7 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           },
           {
@@ -10689,7 +10610,7 @@
             "authority": [],
             "page": "",
             "uncertain_from": true,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           }
         ],
@@ -10741,12 +10662,6 @@
         ],
         "quire": [],
         "number": "2",
-        "prov_place_old": [
-          {
-            "id": 4,
-            "value": "Freising"
-          }
-        ],
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -10831,7 +10746,7 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           }
         ],
@@ -11133,12 +11048,6 @@
         ],
         "quire": [],
         "number": "1",
-        "prov_place_old": [
-          {
-            "id": 4,
-            "value": "Freising"
-          }
-        ],
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -11223,7 +11132,7 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           }
         ],
@@ -11520,12 +11429,6 @@
         ],
         "quire": [],
         "number": "1",
-        "prov_place_old": [
-          {
-            "id": 4,
-            "value": "Freising"
-          }
-        ],
         "Last modified by": {
           "id": 86,
           "name": "Leon Pürstinger"
@@ -11604,7 +11507,7 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           }
         ],
@@ -11649,12 +11552,6 @@
         ],
         "quire": [],
         "number": "2",
-        "prov_place_old": [
-          {
-            "id": 9,
-            "value": "Norditalien"
-          }
-        ],
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -11728,7 +11625,7 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           },
           {
@@ -11797,7 +11694,7 @@
             "authority": [],
             "page": "",
             "uncertain_from": true,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           }
         ],
@@ -11849,12 +11746,6 @@
         ],
         "quire": [],
         "number": "3",
-        "prov_place_old": [
-          {
-            "id": 4,
-            "value": "Freising"
-          }
-        ],
         "Last modified by": {
           "id": 86,
           "name": "Leon Pürstinger"
@@ -11933,7 +11824,7 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           }
         ],
@@ -12208,12 +12099,6 @@
         ],
         "quire": [],
         "number": "1",
-        "prov_place_old": [
-          {
-            "id": 4,
-            "value": "Freising"
-          }
-        ],
         "Last modified by": {
           "id": 87,
           "name": "Ksenia Borisova"
@@ -12298,7 +12183,7 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           }
         ],
@@ -12568,12 +12453,6 @@
         ],
         "quire": [],
         "number": "1",
-        "prov_place_old": [
-          {
-            "id": 4,
-            "value": "Freising"
-          }
-        ],
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -12658,7 +12537,7 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           }
         ],
@@ -12933,12 +12812,6 @@
         ],
         "quire": [],
         "number": "1",
-        "prov_place_old": [
-          {
-            "id": 4,
-            "value": "Freising"
-          }
-        ],
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -13023,7 +12896,7 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           }
         ],
@@ -13346,12 +13219,6 @@
         ],
         "quire": [],
         "number": "1",
-        "prov_place_old": [
-          {
-            "id": 19,
-            "value": "Regensburg"
-          }
-        ],
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -13431,7 +13298,7 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           }
         ],
@@ -13754,12 +13621,6 @@
         ],
         "quire": [],
         "number": "1",
-        "prov_place_old": [
-          {
-            "id": 10,
-            "value": "Bistum Eichstätt"
-          }
-        ],
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -13839,7 +13700,7 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           },
           {
@@ -13908,7 +13769,7 @@
             "authority": [],
             "page": "",
             "uncertain_from": true,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           }
         ],
@@ -14066,12 +13927,6 @@
         ],
         "quire": [],
         "number": "1",
-        "prov_place_old": [
-          {
-            "id": 4,
-            "value": "Freising"
-          }
-        ],
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -14155,7 +14010,7 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           }
         ],
@@ -14174,8 +14029,8 @@
           "label": "Saint-Omer, ms. 706, cod. unit 1"
         },
         "next": {
-          "id": "hit_cod_unit__4",
-          "label": "BSB, Clm. 6308, cod. unit 1"
+          "id": "hit_cod_unit__34",
+          "label": "Saint-Omer, ms. 697, cod. unit 1"
         }
       }
     ]
@@ -14471,12 +14326,6 @@
         ],
         "quire": [],
         "number": "1",
-        "prov_place_old": [
-          {
-            "id": 12,
-            "value": "Bodensee"
-          }
-        ],
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -14566,7 +14415,7 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           },
           {
@@ -14635,7 +14484,7 @@
             "authority": [],
             "page": "",
             "uncertain_from": true,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           }
         ],
@@ -14687,12 +14536,6 @@
         ],
         "quire": [],
         "number": "2",
-        "prov_place_old": [
-          {
-            "id": 4,
-            "value": "Freising"
-          }
-        ],
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -14777,7 +14620,7 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           }
         ],
@@ -15717,12 +15560,12 @@
             "label": "986-1007",
             "not_before": "0986-01-01",
             "hit_id": "hit_date__60",
-            "not_after": null,
+            "not_after": "1007-12-31",
             "Last modified by": {
-              "id": 86,
-              "name": "Leon Pürstinger"
+              "id": 36,
+              "name": "Ivana Dobcheva"
             },
-            "Last modified": "2025-01-15"
+            "Last modified": "2025-02-17"
           }
         ],
         "authority": [
@@ -15806,7 +15649,6 @@
         ],
         "quire": [],
         "number": "1",
-        "prov_place_old": [],
         "Last modified by": {
           "id": 36,
           "name": "Ivana Dobcheva"
@@ -15911,7 +15753,7 @@
             ],
             "page": "58-62",
             "uncertain_from": false,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           },
           {
@@ -15975,7 +15817,7 @@
             "authority": [],
             "page": "",
             "uncertain_from": false,
-            "unceratin_till": false,
+            "uncertain_till": false,
             "uncertain_place": false
           }
         ],
@@ -16159,12 +16001,12 @@
             "label": "986-1007",
             "not_before": "0986-01-01",
             "hit_id": "hit_date__60",
-            "not_after": null,
+            "not_after": "1007-12-31",
             "Last modified by": {
-              "id": 86,
-              "name": "Leon Pürstinger"
+              "id": 36,
+              "name": "Ivana Dobcheva"
             },
-            "Last modified": "2025-01-15"
+            "Last modified": "2025-02-17"
           }
         ],
         "authority": [
@@ -16219,7 +16061,58 @@
       "id": "hit_manuscript__33",
       "label": "Bruxelles KBR, ms. 15835"
     },
-    "related__cod_units": []
+    "related__cod_units": [
+      {
+        "id": 34,
+        "label": [
+          {
+            "ids": {
+              "database_table_3487": 32,
+              "database_table_3488": 11
+            },
+            "value": "Saint-Omer, ms. 697, cod. unit 1"
+          }
+        ],
+        "notes": "",
+        "hit_id": "hit_cod_unit__34",
+        "locus": "1r-42v",
+        "manuscript": [
+          {
+            "id": 32,
+            "value": "Saint-Omer, ms. 697"
+          }
+        ],
+        "quire": [],
+        "number": "1",
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-02-17",
+        "orig_date": [],
+        "quires_number": "",
+        "heigth": "",
+        "lines_number": "",
+        "decorations": "",
+        "codicological_reworking": [],
+        "basic_structure": [],
+        "written_width": "",
+        "written_height": "",
+        "width": "",
+        "columns": [],
+        "cod_unit_placed": [],
+        "prov_place": [],
+        "view_label": "Saint-Omer, ms. 697, cod. unit 1",
+        "prev": {
+          "id": "hit_cod_unit__33",
+          "label": "BSB, Clm. 29226, cod. unit 1"
+        },
+        "next": {
+          "id": "hit_cod_unit__35",
+          "label": "Bruxelles KBR, ms. 15835, cod. unit 1"
+        }
+      }
+    ]
   },
   "33": {
     "id": 33,
@@ -16373,12 +16266,12 @@
             "label": "986-1007",
             "not_before": "0986-01-01",
             "hit_id": "hit_date__60",
-            "not_after": null,
+            "not_after": "1007-12-31",
             "Last modified by": {
-              "id": 86,
-              "name": "Leon Pürstinger"
+              "id": 36,
+              "name": "Ivana Dobcheva"
             },
-            "Last modified": "2025-01-15"
+            "Last modified": "2025-02-17"
           }
         ],
         "authority": [
@@ -16433,7 +16326,58 @@
       "id": "hit_manuscript__34",
       "label": "BSB, Clm 14226"
     },
-    "related__cod_units": []
+    "related__cod_units": [
+      {
+        "id": 35,
+        "label": [
+          {
+            "ids": {
+              "database_table_3487": 33,
+              "database_table_3488": 13
+            },
+            "value": "Bruxelles KBR, ms. 15835, cod. unit 1"
+          }
+        ],
+        "notes": "",
+        "hit_id": "hit_cod_unit__35",
+        "locus": "1r-16r",
+        "manuscript": [
+          {
+            "id": 33,
+            "value": "Bruxelles KBR, ms. 15835"
+          }
+        ],
+        "quire": [],
+        "number": "1",
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-02-17",
+        "orig_date": [],
+        "quires_number": "",
+        "heigth": "",
+        "lines_number": "",
+        "decorations": "",
+        "codicological_reworking": [],
+        "basic_structure": [],
+        "written_width": "",
+        "written_height": "",
+        "width": "",
+        "columns": [],
+        "cod_unit_placed": [],
+        "prov_place": [],
+        "view_label": "Bruxelles KBR, ms. 15835, cod. unit 1",
+        "prev": {
+          "id": "hit_cod_unit__34",
+          "label": "Saint-Omer, ms. 697, cod. unit 1"
+        },
+        "next": {
+          "id": "hit_cod_unit__4",
+          "label": "BSB, Clm. 6308, cod. unit 1"
+        }
+      }
+    ]
   },
   "34": {
     "id": 34,

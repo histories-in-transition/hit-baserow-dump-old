@@ -11279,7 +11279,7 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "Last modified": "2025-01-16",
+    "Last modified": "2025-02-18",
     "Created on": "2024-12-13",
     "Created by": {
       "id": 86,
@@ -11320,7 +11320,18 @@
         "value": "Saint-Omer, ms. 706_H. 7"
       }
     ],
-    "decoration": [],
+    "decoration": [
+      {
+        "id": 15102,
+        "value": "Capitalis_Rot",
+        "color": "darker-red"
+      },
+      {
+        "id": 15105,
+        "value": "Capitalis_Braun/Schwarz",
+        "color": "dark-brown"
+      }
+    ],
     "facs_url": "",
     "form": [
       {
@@ -12376,7 +12387,7 @@
     "title_work": [
       {
         "id": 142,
-        "value": "Notitia Gallairum",
+        "value": "Notitia Galliarum",
         "order": "140.00000000000000000000"
       }
     ],

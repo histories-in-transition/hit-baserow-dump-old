@@ -407,5 +407,34 @@
       "id": 86,
       "name": "Leon Pürstinger"
     }
+  },
+  "20": {
+    "id": 20,
+    "order": "18.00000000000000000000",
+    "name": "Bischof Abraham",
+    "hit_id": "hit_scribes__20",
+    "description": "Bischof von Freising, 957-993",
+    "group": false,
+    "hands": [
+      {
+        "id": 102,
+        "value": "BSB, Clm. 6388_H. 1",
+        "order": "94.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 12,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6388_H. 1"
+      }
+    ],
+    "Last modified": "2025-02-20",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   }
 }

@@ -176,12 +176,12 @@
     },
     "view_label": "hit_hands_placed__3",
     "prev": {
-      "id": "hit_hands_placed__28",
-      "label": "hit_hands_placed__28"
+      "id": "hit_hands_placed__29",
+      "label": "hit_hands_placed__29"
     },
     "next": {
-      "id": "hit_hands_placed__4",
-      "label": "hit_hands_placed__4"
+      "id": "hit_hands_placed__30",
+      "label": "hit_hands_placed__30"
     }
   },
   "4": {
@@ -242,8 +242,8 @@
     },
     "view_label": "hit_hands_placed__4",
     "prev": {
-      "id": "hit_hands_placed__3",
-      "label": "hit_hands_placed__3"
+      "id": "hit_hands_placed__38",
+      "label": "hit_hands_placed__38"
     },
     "next": {
       "id": "hit_hands_placed__5",
@@ -1734,8 +1734,648 @@
       "label": "hit_hands_placed__27"
     },
     "next": {
+      "id": "hit_hands_placed__29",
+      "label": "hit_hands_placed__29"
+    }
+  },
+  "29": {
+    "id": 29,
+    "hit_id": "hit_hands_placed__29",
+    "hand": [
+      {
+        "id": 123,
+        "value": "Saint-Omer, ms. 706_H. 1"
+      }
+    ],
+    "authority": [
+      {
+        "id": 14,
+        "author": "Pürstinger",
+        "short_title": "Die Geschichte einer fränkischen Weltgeschichte vom spätkarolingischen Reims zum frühkapetingischen Saint-Bertin.",
+        "zotero_id": "",
+        "hit_id": "hit_bibl__14",
+        "title": null,
+        "year": null,
+        "citation": null,
+        "link": ""
+      }
+    ],
+    "page": "58-62",
+    "place": [
+      {
+        "id": 21,
+        "name": "Abtei Saint-Bertin",
+        "geonames_url": "https://www.geonames.org/12470210/abbaye-saint-bertin.html",
+        "hit_id": "hit_place__21",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q334144",
+        "country": [
+          {
+            "id": 14,
+            "name": "Frankreich",
+            "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+            "hit_id": "hit_place__14",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-16"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "view_label": "hit_hands_placed__29",
+    "prev": {
+      "id": "hit_hands_placed__28",
+      "label": "hit_hands_placed__28"
+    },
+    "next": {
       "id": "hit_hands_placed__3",
       "label": "hit_hands_placed__3"
+    }
+  },
+  "30": {
+    "id": 30,
+    "hit_id": "hit_hands_placed__30",
+    "hand": [
+      {
+        "id": 124,
+        "value": "Saint-Omer, ms. 706_H. 2"
+      }
+    ],
+    "authority": [
+      {
+        "id": 14,
+        "author": "Pürstinger",
+        "short_title": "Die Geschichte einer fränkischen Weltgeschichte vom spätkarolingischen Reims zum frühkapetingischen Saint-Bertin.",
+        "zotero_id": "",
+        "hit_id": "hit_bibl__14",
+        "title": null,
+        "year": null,
+        "citation": null,
+        "link": ""
+      }
+    ],
+    "page": "58-62",
+    "place": [
+      {
+        "id": 21,
+        "name": "Abtei Saint-Bertin",
+        "geonames_url": "https://www.geonames.org/12470210/abbaye-saint-bertin.html",
+        "hit_id": "hit_place__21",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q334144",
+        "country": [
+          {
+            "id": 14,
+            "name": "Frankreich",
+            "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+            "hit_id": "hit_place__14",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-16"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "view_label": "hit_hands_placed__30",
+    "prev": {
+      "id": "hit_hands_placed__3",
+      "label": "hit_hands_placed__3"
+    },
+    "next": {
+      "id": "hit_hands_placed__31",
+      "label": "hit_hands_placed__31"
+    }
+  },
+  "31": {
+    "id": 31,
+    "hit_id": "hit_hands_placed__31",
+    "hand": [
+      {
+        "id": 125,
+        "value": "Saint-Omer, ms. 706_H. 3"
+      }
+    ],
+    "authority": [
+      {
+        "id": 14,
+        "author": "Pürstinger",
+        "short_title": "Die Geschichte einer fränkischen Weltgeschichte vom spätkarolingischen Reims zum frühkapetingischen Saint-Bertin.",
+        "zotero_id": "",
+        "hit_id": "hit_bibl__14",
+        "title": null,
+        "year": null,
+        "citation": null,
+        "link": ""
+      }
+    ],
+    "page": "58-62",
+    "place": [
+      {
+        "id": 21,
+        "name": "Abtei Saint-Bertin",
+        "geonames_url": "https://www.geonames.org/12470210/abbaye-saint-bertin.html",
+        "hit_id": "hit_place__21",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q334144",
+        "country": [
+          {
+            "id": 14,
+            "name": "Frankreich",
+            "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+            "hit_id": "hit_place__14",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-16"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "view_label": "hit_hands_placed__31",
+    "prev": {
+      "id": "hit_hands_placed__30",
+      "label": "hit_hands_placed__30"
+    },
+    "next": {
+      "id": "hit_hands_placed__32",
+      "label": "hit_hands_placed__32"
+    }
+  },
+  "32": {
+    "id": 32,
+    "hit_id": "hit_hands_placed__32",
+    "hand": [
+      {
+        "id": 126,
+        "value": "Saint-Omer, ms. 706_H. 4"
+      }
+    ],
+    "authority": [
+      {
+        "id": 14,
+        "author": "Pürstinger",
+        "short_title": "Die Geschichte einer fränkischen Weltgeschichte vom spätkarolingischen Reims zum frühkapetingischen Saint-Bertin.",
+        "zotero_id": "",
+        "hit_id": "hit_bibl__14",
+        "title": null,
+        "year": null,
+        "citation": null,
+        "link": ""
+      }
+    ],
+    "page": "58-62",
+    "place": [
+      {
+        "id": 21,
+        "name": "Abtei Saint-Bertin",
+        "geonames_url": "https://www.geonames.org/12470210/abbaye-saint-bertin.html",
+        "hit_id": "hit_place__21",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q334144",
+        "country": [
+          {
+            "id": 14,
+            "name": "Frankreich",
+            "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+            "hit_id": "hit_place__14",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-16"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "view_label": "hit_hands_placed__32",
+    "prev": {
+      "id": "hit_hands_placed__31",
+      "label": "hit_hands_placed__31"
+    },
+    "next": {
+      "id": "hit_hands_placed__33",
+      "label": "hit_hands_placed__33"
+    }
+  },
+  "33": {
+    "id": 33,
+    "hit_id": "hit_hands_placed__33",
+    "hand": [
+      {
+        "id": 133,
+        "value": "Saint-Omer, ms. 706_H. 5"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 21,
+        "name": "Abtei Saint-Bertin",
+        "geonames_url": "https://www.geonames.org/12470210/abbaye-saint-bertin.html",
+        "hit_id": "hit_place__21",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q334144",
+        "country": [
+          {
+            "id": 14,
+            "name": "Frankreich",
+            "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+            "hit_id": "hit_place__14",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-16"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "view_label": "hit_hands_placed__33",
+    "prev": {
+      "id": "hit_hands_placed__32",
+      "label": "hit_hands_placed__32"
+    },
+    "next": {
+      "id": "hit_hands_placed__34",
+      "label": "hit_hands_placed__34"
+    }
+  },
+  "34": {
+    "id": 34,
+    "hit_id": "hit_hands_placed__34",
+    "hand": [
+      {
+        "id": 137,
+        "value": "Saint-Omer, ms. 706_H. 7"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 21,
+        "name": "Abtei Saint-Bertin",
+        "geonames_url": "https://www.geonames.org/12470210/abbaye-saint-bertin.html",
+        "hit_id": "hit_place__21",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q334144",
+        "country": [
+          {
+            "id": 14,
+            "name": "Frankreich",
+            "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+            "hit_id": "hit_place__14",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-16"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "view_label": "hit_hands_placed__34",
+    "prev": {
+      "id": "hit_hands_placed__33",
+      "label": "hit_hands_placed__33"
+    },
+    "next": {
+      "id": "hit_hands_placed__35",
+      "label": "hit_hands_placed__35"
+    }
+  },
+  "35": {
+    "id": 35,
+    "hit_id": "hit_hands_placed__35",
+    "hand": [
+      {
+        "id": 138,
+        "value": "Saint-Omer, ms. 697_H. 1"
+      }
+    ],
+    "authority": [
+      {
+        "id": 14,
+        "author": "Pürstinger",
+        "short_title": "Die Geschichte einer fränkischen Weltgeschichte vom spätkarolingischen Reims zum frühkapetingischen Saint-Bertin.",
+        "zotero_id": "",
+        "hit_id": "hit_bibl__14",
+        "title": null,
+        "year": null,
+        "citation": null,
+        "link": ""
+      }
+    ],
+    "page": "58-62",
+    "place": [
+      {
+        "id": 21,
+        "name": "Abtei Saint-Bertin",
+        "geonames_url": "https://www.geonames.org/12470210/abbaye-saint-bertin.html",
+        "hit_id": "hit_place__21",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q334144",
+        "country": [
+          {
+            "id": 14,
+            "name": "Frankreich",
+            "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+            "hit_id": "hit_place__14",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-16"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "view_label": "hit_hands_placed__35",
+    "prev": {
+      "id": "hit_hands_placed__34",
+      "label": "hit_hands_placed__34"
+    },
+    "next": {
+      "id": "hit_hands_placed__36",
+      "label": "hit_hands_placed__36"
+    }
+  },
+  "36": {
+    "id": 36,
+    "hit_id": "hit_hands_placed__36",
+    "hand": [
+      {
+        "id": 139,
+        "value": "Bruxelles KBR, ms. 15835_H. 1"
+      }
+    ],
+    "authority": [
+      {
+        "id": 14,
+        "author": "Pürstinger",
+        "short_title": "Die Geschichte einer fränkischen Weltgeschichte vom spätkarolingischen Reims zum frühkapetingischen Saint-Bertin.",
+        "zotero_id": "",
+        "hit_id": "hit_bibl__14",
+        "title": null,
+        "year": null,
+        "citation": null,
+        "link": ""
+      }
+    ],
+    "page": "58-62",
+    "place": [
+      {
+        "id": 21,
+        "name": "Abtei Saint-Bertin",
+        "geonames_url": "https://www.geonames.org/12470210/abbaye-saint-bertin.html",
+        "hit_id": "hit_place__21",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q334144",
+        "country": [
+          {
+            "id": 14,
+            "name": "Frankreich",
+            "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+            "hit_id": "hit_place__14",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-16"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "view_label": "hit_hands_placed__36",
+    "prev": {
+      "id": "hit_hands_placed__35",
+      "label": "hit_hands_placed__35"
+    },
+    "next": {
+      "id": "hit_hands_placed__37",
+      "label": "hit_hands_placed__37"
+    }
+  },
+  "37": {
+    "id": 37,
+    "hit_id": "hit_hands_placed__37",
+    "hand": [
+      {
+        "id": 140,
+        "value": "Bruxelles KBR, ms. 15835_H. 2"
+      }
+    ],
+    "authority": [
+      {
+        "id": 14,
+        "author": "Pürstinger",
+        "short_title": "Die Geschichte einer fränkischen Weltgeschichte vom spätkarolingischen Reims zum frühkapetingischen Saint-Bertin.",
+        "zotero_id": "",
+        "hit_id": "hit_bibl__14",
+        "title": null,
+        "year": null,
+        "citation": null,
+        "link": ""
+      }
+    ],
+    "page": "58-62",
+    "place": [
+      {
+        "id": 21,
+        "name": "Abtei Saint-Bertin",
+        "geonames_url": "https://www.geonames.org/12470210/abbaye-saint-bertin.html",
+        "hit_id": "hit_place__21",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q334144",
+        "country": [
+          {
+            "id": 14,
+            "name": "Frankreich",
+            "geonames_url": "https://www.geonames.org/3017382/republic-of-france.html",
+            "hit_id": "hit_place__14",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-01-16"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "view_label": "hit_hands_placed__37",
+    "prev": {
+      "id": "hit_hands_placed__36",
+      "label": "hit_hands_placed__36"
+    },
+    "next": {
+      "id": "hit_hands_placed__38",
+      "label": "hit_hands_placed__38"
+    }
+  },
+  "38": {
+    "id": 38,
+    "hit_id": "hit_hands_placed__38",
+    "hand": [
+      {
+        "id": 102,
+        "value": "BSB, Clm. 6388_H. 1"
+      },
+      {
+        "id": 141,
+        "value": "BSB, Clm. 6388_H. 4"
+      }
+    ],
+    "authority": [
+      {
+        "id": 6,
+        "author": "Daniel, N.",
+        "short_title": "Handschriften des zehnten Jahrhunderts aus der Freisinger Dombibliothek",
+        "zotero_id": "",
+        "hit_id": "hit_bibl__6",
+        "title": null,
+        "year": null,
+        "citation": null,
+        "link": ""
+      }
+    ],
+    "page": "105, 146",
+    "place": [
+      {
+        "id": 4,
+        "name": "Freising",
+        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+        "hit_id": "hit_place__4",
+        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+        "country": [
+          {
+            "id": 2,
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "view_label": "hit_hands_placed__38",
+    "prev": {
+      "id": "hit_hands_placed__37",
+      "label": "hit_hands_placed__37"
+    },
+    "next": {
+      "id": "hit_hands_placed__4",
+      "label": "hit_hands_placed__4"
     }
   }
 }

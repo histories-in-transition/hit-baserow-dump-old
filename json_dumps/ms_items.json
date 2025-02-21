@@ -4054,6 +4054,11 @@
         "id": 127,
         "value": "hit_hands_role__127",
         "order": "113.00000000000000000000"
+      },
+      {
+        "id": 167,
+        "value": "hit_hands_role__167",
+        "order": "153.00000000000000000000"
       }
     ],
     "cod_unit": [
@@ -4086,6 +4091,13 @@
           "database_table_3488": 4
         },
         "value": "BSB, Clm. 6383_H. 1"
+      },
+      {
+        "ids": {
+          "database_table_3487": 12,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6388_H. 1"
       }
     ],
     "decoration": [],
@@ -4230,7 +4242,13 @@
     "hit_id": "hit_ms_items__50",
     "filiation": null,
     "locus_grp": "86r-198r",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 167,
+        "value": "hit_hands_role__167",
+        "order": "153.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 9,
@@ -4249,7 +4267,15 @@
       "name": "Ksenia Borisova"
     },
     "note": null,
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 12,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6388_H. 1"
+      }
+    ],
     "decoration": [],
     "facs_url": "",
     "form": [],
@@ -11317,7 +11343,7 @@
           "database_table_3487": 31,
           "database_table_3488": 11
         },
-        "value": "Saint-Omer, ms. 706_H. 7"
+        "value": "Saint-Omer, ms. 706_H. 6"
       }
     ],
     "decoration": [
@@ -12074,7 +12100,7 @@
           "database_table_3487": 31,
           "database_table_3488": 11
         },
-        "value": "Saint-Omer, ms. 706_H. 8"
+        "value": "Saint-Omer, ms. 706_H. 7"
       }
     ],
     "decoration": [],
@@ -12260,7 +12286,7 @@
         "order": "30.00000000000000000000"
       }
     ],
-    "Last modified": "2025-02-17",
+    "Last modified": "2025-02-20",
     "Created on": "2025-02-17",
     "Created by": {
       "id": 86,
@@ -12282,9 +12308,21 @@
     ],
     "decoration": [],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 17437,
+        "value": "Mehrspaltig",
+        "color": "darker-pink"
+      }
+    ],
     "form_note": "",
-    "column": [],
+    "column": [
+      {
+        "id": 17458,
+        "value": "2",
+        "color": "dark-yellow"
+      }
+    ],
     "role": null,
     "commented_msitem": [],
     "function_role": []
@@ -12336,7 +12374,7 @@
         "order": "30.00000000000000000000"
       }
     ],
-    "Last modified": "2025-02-17",
+    "Last modified": "2025-02-20",
     "Created on": "2025-02-17",
     "Created by": {
       "id": 86,
@@ -12358,9 +12396,21 @@
     ],
     "decoration": [],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 17437,
+        "value": "Mehrspaltig",
+        "color": "darker-pink"
+      }
+    ],
     "form_note": "",
-    "column": [],
+    "column": [
+      {
+        "id": 17458,
+        "value": "2",
+        "color": "dark-yellow"
+      }
+    ],
     "role": null,
     "commented_msitem": [],
     "function_role": []
@@ -12412,7 +12462,7 @@
         "order": "30.00000000000000000000"
       }
     ],
-    "Last modified": "2025-02-17",
+    "Last modified": "2025-02-20",
     "Created on": "2025-02-17",
     "Created by": {
       "id": 86,
@@ -12434,9 +12484,21 @@
     ],
     "decoration": [],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 17437,
+        "value": "Mehrspaltig",
+        "color": "darker-pink"
+      }
+    ],
     "form_note": "",
-    "column": [],
+    "column": [
+      {
+        "id": 17458,
+        "value": "2",
+        "color": "dark-yellow"
+      }
+    ],
     "role": null,
     "commented_msitem": [],
     "function_role": []

@@ -191,7 +191,7 @@
     "strata_filiation": [
       {
         "id": 1,
-        "value": "Saint-Omer, Cod. 123, ",
+        "value": "ÖNB, Cod. Test 2, ",
         "order": "1.00000000000000000000"
       },
       {
@@ -2282,27 +2282,495 @@
   "25": {
     "id": 25,
     "order": "22.00000000000000000000",
-    "label": [],
-    "character": [],
-    "manuscript": [],
-    "number": null,
+    "label": [
+      {
+        "id": 31,
+        "value": "ms. 706, Stratum 1"
+      }
+    ],
+    "character": [
+      {
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 31,
+        "value": "Saint-Omer, ms. 706",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "number": "1",
     "hit_id": "hit_strata__25",
-    "hand_role": [],
-    "ms_items": [],
+    "hand_role": [
+      {
+        "id": 166,
+        "value": "hit_hands_role__166",
+        "order": "152.00000000000000000000"
+      },
+      {
+        "id": 168,
+        "value": "hit_hands_role__168",
+        "order": "154.00000000000000000000"
+      },
+      {
+        "id": 169,
+        "value": "hit_hands_role__169",
+        "order": "155.00000000000000000000"
+      },
+      {
+        "id": 172,
+        "value": "hit_hands_role__172",
+        "order": "158.00000000000000000000"
+      },
+      {
+        "id": 174,
+        "value": "hit_hands_role__174",
+        "order": "160.00000000000000000000"
+      },
+      {
+        "id": 175,
+        "value": "hit_hands_role__175",
+        "order": "161.00000000000000000000"
+      },
+      {
+        "id": 176,
+        "value": "hit_hands_role__176",
+        "order": "162.00000000000000000000"
+      },
+      {
+        "id": 178,
+        "value": "hit_hands_role__178",
+        "order": "164.00000000000000000000"
+      },
+      {
+        "id": 179,
+        "value": "hit_hands_role__179",
+        "order": "165.00000000000000000000"
+      },
+      {
+        "id": 181,
+        "value": "hit_hands_role__181",
+        "order": "167.00000000000000000000"
+      },
+      {
+        "id": 183,
+        "value": "hit_hands_role__183",
+        "order": "169.00000000000000000000"
+      },
+      {
+        "id": 186,
+        "value": "hit_hands_role__186",
+        "order": "172.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 73,
+          "database_table_3491": 191
+        },
+        "value": "Decem libri historiarum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 73,
+          "database_table_3491": 191
+        },
+        "value": "Decem libri historiarum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 73,
+          "database_table_3491": 191
+        },
+        "value": "Decem libri historiarum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 135,
+          "database_table_3491": 192
+        },
+        "value": "Annales regni Francorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 128,
+          "database_table_3491": 193
+        },
+        "value": "Annales Bertiniani"
+      },
+      {
+        "ids": {
+          "database_table_3489": 135,
+          "database_table_3491": 192
+        },
+        "value": "Annales regni Francorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 128,
+          "database_table_3491": 193
+        },
+        "value": "Annales Bertiniani"
+      },
+      {
+        "ids": {
+          "database_table_3489": 137,
+          "database_table_3491": 196
+        },
+        "value": "Fredegarii Continuationes"
+      },
+      {
+        "ids": {
+          "database_table_3489": 128,
+          "database_table_3491": 193
+        },
+        "value": "Annales Bertiniani"
+      },
+      {
+        "ids": {
+          "database_table_3489": 128,
+          "database_table_3491": 193
+        },
+        "value": "Annales Bertiniani"
+      },
+      {
+        "ids": {
+          "database_table_3489": 136,
+          "database_table_3491": 194
+        },
+        "value": "Fredegar-Chronik"
+      },
+      {
+        "ids": {
+          "database_table_3489": 139,
+          "database_table_3491": 205
+        },
+        "value": "Urkunde des Erzbischofs Odalric von Reims (962-969)"
+      }
+    ],
     "quires": [],
-    "locus": [],
-    "note": "",
+    "locus": [
+      {
+        "id": 191,
+        "value": "1v-144v"
+      },
+      {
+        "id": 191,
+        "value": "1v-144v"
+      },
+      {
+        "id": 191,
+        "value": "1v-144v"
+      },
+      {
+        "id": 192,
+        "value": "145r-170v"
+      },
+      {
+        "id": 193,
+        "value": "170v-223r"
+      },
+      {
+        "id": 192,
+        "value": "145r-170v"
+      },
+      {
+        "id": 193,
+        "value": "170v-223r"
+      },
+      {
+        "id": 196,
+        "value": "140v-144v"
+      },
+      {
+        "id": 193,
+        "value": "170v-223r"
+      },
+      {
+        "id": 193,
+        "value": "170v-223r"
+      },
+      {
+        "id": 194,
+        "value": "118v-144v"
+      },
+      {
+        "id": 205,
+        "value": "223r"
+      }
+    ],
+    "note": "Dieses Stratum umfasst die Anlage der Handschrift, also in diesem spezifischen Fall die getreue Abschrift eines heute nicht mehr überlieferten Kompendiums durch vier Kopisten, die dem Skriptorium des Abtes Odbert von Saint-Bertin zugeordnet werden können. Das Stratum ist ident mit Stratum 1 der Codices Saint-Omer ms. 697 und Bruxelles KBR ms. 15835, die ursprünglich eine einzelne Handschrift bildeten.",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
     },
     "Created on": "2025-02-12",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-02-12",
+    "Last modified": "2025-02-20",
     "strata_filiation": [],
     "note_filiation": null
+  },
+  "26": {
+    "id": 26,
+    "order": "23.00000000000000000000",
+    "label": [
+      {
+        "id": 33,
+        "value": "ms. 15835, Stratum 1"
+      }
+    ],
+    "character": [
+      {
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 33,
+        "value": "Bruxelles KBR, ms. 15835",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "hit_id": "hit_strata__26",
+    "hand_role": [
+      {
+        "id": 189,
+        "value": "hit_hands_role__189",
+        "order": "175.00000000000000000000"
+      },
+      {
+        "id": 191,
+        "value": "hit_hands_role__191",
+        "order": "177.00000000000000000000"
+      },
+      {
+        "id": 192,
+        "value": "hit_hands_role__192",
+        "order": "178.00000000000000000000"
+      },
+      {
+        "id": 194,
+        "value": "hit_hands_role__194",
+        "order": "180.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 7,
+          "database_table_3491": 209
+        },
+        "value": "De temporum ratione"
+      },
+      {
+        "ids": {
+          "database_table_3489": 143,
+          "database_table_3491": 211
+        },
+        "value": "Chronicon Laurissense breve"
+      },
+      {
+        "ids": {
+          "database_table_3489": 144,
+          "database_table_3491": 213
+        },
+        "value": "Annales Vedastini"
+      },
+      {
+        "ids": {
+          "database_table_3489": 144,
+          "database_table_3491": 213
+        },
+        "value": "Annales Vedastini"
+      }
+    ],
+    "quires": [],
+    "locus": [
+      {
+        "id": 209,
+        "value": "1r-2v"
+      },
+      {
+        "id": 211,
+        "value": "2v-5r"
+      },
+      {
+        "id": 213,
+        "value": "6v-16r"
+      },
+      {
+        "id": 213,
+        "value": "6v-16r"
+      }
+    ],
+    "note": "Dieses Stratum umfasst die Anlage der Handschrift, also in diesem spezifischen Fall die getreue Abschrift eines heute nicht mehr überlieferten Kompendiums durch vier Kopisten, die dem Skriptorium des Abtes Odbert von Saint-Bertin zugeordnet werden können. Das Stratum ist ident mit Stratum 1 der Codices Saint-Omer ms. 697 und Saint-Omer 706, die ursprünglich eine einzelne Handschrift bildeten.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-19",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-20",
+    "strata_filiation": [],
+    "note_filiation": ""
+  },
+  "27": {
+    "id": 27,
+    "order": "24.00000000000000000000",
+    "label": [
+      {
+        "id": 32,
+        "value": "ms. 697, Stratum 1"
+      }
+    ],
+    "character": [
+      {
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 32,
+        "value": "Saint-Omer, ms. 697",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "hit_id": "hit_strata__27",
+    "hand_role": [
+      {
+        "id": 195,
+        "value": "hit_hands_role__195",
+        "order": "181.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 140,
+          "database_table_3491": 206
+        },
+        "value": "Breviarium ab urbe condita"
+      },
+      {
+        "ids": {
+          "database_table_3489": 141,
+          "database_table_3491": 207
+        },
+        "value": "Chronicon"
+      },
+      {
+        "ids": {
+          "database_table_3489": 142,
+          "database_table_3491": 208
+        },
+        "value": "Notitia Galliarum"
+      }
+    ],
+    "quires": [],
+    "locus": [
+      {
+        "id": 206,
+        "value": "1r-28v"
+      },
+      {
+        "id": 207,
+        "value": "28v-41v"
+      },
+      {
+        "id": 208,
+        "value": "42r-v"
+      }
+    ],
+    "note": "Dieses Stratum umfasst die Anlage der Handschrift, also in diesem spezifischen Fall die getreue Abschrift eines heute nicht mehr überlieferten Kompendiums durch vier Kopisten, die dem Skriptorium des Abtes Odbert von Saint-Bertin zugeordnet werden können. Das Stratum ist ident mit Stratum 1 der Codices Saint-Omer ms. 706 und Bruxelles KBR ms. 15835, die ursprünglich eine einzelne Handschrift bildeten.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-20",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-20",
+    "strata_filiation": [],
+    "note_filiation": ""
+  },
+  "28": {
+    "id": 28,
+    "order": "25.00000000000000000000",
+    "label": [
+      {
+        "id": 31,
+        "value": "ms. 706, Stratum 2"
+      }
+    ],
+    "character": [
+      {
+        "id": 15368,
+        "value": "textuelle Veränderung",
+        "color": "dark-yellow"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 31,
+        "value": "Saint-Omer, ms. 706",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "number": "2",
+    "hit_id": "hit_strata__28",
+    "hand_role": [
+      {
+        "id": 165,
+        "value": "hit_hands_role__165",
+        "order": "151.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 135,
+          "database_table_3491": 192
+        },
+        "value": "Annales regni Francorum"
+      }
+    ],
+    "quires": [],
+    "locus": [
+      {
+        "id": 192,
+        "value": "145r-170v"
+      }
+    ],
+    "note": "Dieses Stratum umfasst die Arbeit einer einzelnen Hand, die in den Annales regni Francorum eine Zeile radierte und durch eine Interpolation zu einem Abt von Saint-Bertin einfügte.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-20",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-20",
+    "strata_filiation": [],
+    "note_filiation": ""
   }
 }

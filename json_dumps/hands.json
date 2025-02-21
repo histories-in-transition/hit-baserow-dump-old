@@ -7843,9 +7843,21 @@
         "id": 88,
         "value": "hit_hands_dated__88",
         "order": "87.00000000000000000000"
+      },
+      {
+        "id": 100,
+        "value": "hit_hands_dated__100",
+        "order": "98.00000000000000000000"
       }
     ],
     "dating": [
+      {
+        "ids": {
+          "database_table_3512": 5,
+          "database_table_3520": 100
+        },
+        "value": "10 Jh., zweite Hälfte"
+      },
       {
         "ids": {
           "database_table_3512": 12,
@@ -7876,7 +7888,7 @@
         "value": "BSB, Clm. 6388_H. 2"
       }
     ],
-    "description": "eine italienische Hand",
+    "description": "Eine italienische Haupthand, eines \"Canzellisten\" (Perzt G.H., Archiv\n\n7 (1839), S. 393).",
     "hit_id": "hit_hands__101",
     "similar_hands": [],
     "nr_daniel": "",
@@ -7898,7 +7910,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-02-11",
+    "Last modified": "2025-02-19",
     "hands_role": [
       {
         "id": 160,
@@ -7927,8 +7939,22 @@
         "value": "Antapodosis"
       }
     ],
-    "hands_dated": [],
-    "dating": [],
+    "hands_dated": [
+      {
+        "id": 101,
+        "value": "hit_hands_dated__101",
+        "order": "99.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 5,
+          "database_table_3520": 101
+        },
+        "value": "10 Jh., zweite Hälfte"
+      }
+    ],
     "hands_placed": [],
     "scribe": [],
     "gruppe": false
@@ -7945,7 +7971,7 @@
         "value": "BSB, Clm. 6388_H. 1"
       }
     ],
-    "description": "",
+    "description": "Freisinger Hand des 10. J., mehrere Ligaturen (*ct, st, et,nt*), Verkürzungen *us*, *tur*, *per*, *pro*, *prae*, *bus*, ohne Auszeichnungsschrift. Die Hand schreibt zuerst ziemlich breit in 21 Zeilen, ab Seite 6 viel enger mit mehreren Verkürzungen in 30 Zeilen.",
     "hit_id": "hit_hands__102",
     "similar_hands": [],
     "nr_daniel": "",
@@ -7957,7 +7983,7 @@
       }
     ],
     "number": "1",
-    "note": "",
+    "note": "Dieselbe Hand, die kann, laut N.Daniel, ein Autograph des Bischofs Abraham sein, hat zwei Homilien in Clm 6426 (33v-39v) und einen Martyrolog in Clm 27304 geschrieben.",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -7967,14 +7993,58 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-02-11",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
+    "Last modified": "2025-02-20",
+    "hands_role": [
+      {
+        "id": 167,
+        "value": "hit_hands_role__167",
+        "order": "153.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 167,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 30,
+          "database_table_3491": 48
+        },
+        "value": "Historia Ottonis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 32,
+          "database_table_3491": 50
+        },
+        "value": "Chronica cum Adalberti continuatione"
+      }
+    ],
     "hands_dated": [],
     "dating": [],
-    "hands_placed": [],
-    "scribe": [],
+    "hands_placed": [
+      {
+        "id": 38,
+        "value": "hit_hands_placed__38",
+        "order": "38.00000000000000000000"
+      }
+    ],
+    "scribe": [
+      {
+        "id": 20,
+        "value": "Bischof Abraham",
+        "order": "18.00000000000000000000"
+      }
+    ],
     "gruppe": false
   },
   "103": {
@@ -8325,7 +8395,7 @@
         "value": "BSB, Clm. 6388_H. 3"
       }
     ],
-    "description": "",
+    "description": "von drei bis vier italienischen Hände. Die aktivste Hand wurde von G.H.Petz als die Hand von Liutprand selbst bezeichnet, was aber später von H. Hoffmann abgelehnt wurde. Entwickelte, ordentliche Karolingische Minuskel Zu den Eigenschaften gehören rundes d, Verkürzungen *bus* und *que* durch ;, *tur* durch einen Haken, *rum* durch 4, *us* durch eine runde Decke, *esse*. Die letzte Hand (82v-85v) wirkt etwas kursiver und benutzt dazu manche eigene Verkürzungen, darunter *us* aussehend wie $, Ligaturen *ssus*, *re.*",
     "hit_id": "hit_hands__113",
     "similar_hands": [],
     "nr_daniel": "",
@@ -8347,7 +8417,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-02-11",
+    "Last modified": "2025-02-20",
     "hands_role": [
       {
         "id": 162,
@@ -8386,11 +8456,25 @@
         "value": "Antapodosis"
       }
     ],
-    "hands_dated": [],
-    "dating": [],
+    "hands_dated": [
+      {
+        "id": 101,
+        "value": "hit_hands_dated__101",
+        "order": "99.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 5,
+          "database_table_3520": 101
+        },
+        "value": "10 Jh., zweite Hälfte"
+      }
+    ],
     "hands_placed": [],
     "scribe": [],
-    "gruppe": false
+    "gruppe": true
   },
   "114": {
     "id": 114,
@@ -9057,9 +9141,29 @@
         "value": "Annales Bertiniani"
       }
     ],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
+    "hands_dated": [
+      {
+        "id": 91,
+        "value": "hit_hands_dated__91",
+        "order": "89.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 60,
+          "database_table_3520": 91
+        },
+        "value": "986-1007"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 29,
+        "value": "hit_hands_placed__29",
+        "order": "29.00000000000000000000"
+      }
+    ],
     "scribe": [
       {
         "id": 15,
@@ -9176,9 +9280,29 @@
         "value": "Urkunde des Erzbischofs Odalric von Reims (962-969)"
       }
     ],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
+    "hands_dated": [
+      {
+        "id": 92,
+        "value": "hit_hands_dated__92",
+        "order": "90.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 60,
+          "database_table_3520": 92
+        },
+        "value": "986-1007"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 30,
+        "value": "hit_hands_placed__30",
+        "order": "30.00000000000000000000"
+      }
+    ],
     "scribe": [],
     "gruppe": false
   },
@@ -9311,9 +9435,29 @@
         "value": "Fredegarii Continuationes"
       }
     ],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
+    "hands_dated": [
+      {
+        "id": 93,
+        "value": "hit_hands_dated__93",
+        "order": "91.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 60,
+          "database_table_3520": 93
+        },
+        "value": "986-1007"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 31,
+        "value": "hit_hands_placed__31",
+        "order": "31.00000000000000000000"
+      }
+    ],
     "scribe": [
       {
         "id": 16,
@@ -9408,9 +9552,29 @@
         "value": "Annales Bertiniani"
       }
     ],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
+    "hands_dated": [
+      {
+        "id": 94,
+        "value": "hit_hands_dated__94",
+        "order": "92.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 60,
+          "database_table_3520": 94
+        },
+        "value": "986-1007"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 32,
+        "value": "hit_hands_placed__32",
+        "order": "32.00000000000000000000"
+      }
+    ],
     "scribe": [
       {
         "id": 18,
@@ -9483,53 +9647,29 @@
         "value": "Annales regni Francorum"
       }
     ],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
-    "scribe": [],
-    "gruppe": false
-  },
-  "134": {
-    "id": 134,
-    "order": "125.00000000000000000000",
-    "label": [
+    "hands_dated": [
+      {
+        "id": 95,
+        "value": "hit_hands_dated__95",
+        "order": "93.00000000000000000000"
+      }
+    ],
+    "dating": [
       {
         "ids": {
-          "database_table_3487": 31,
-          "database_table_3488": 11
+          "database_table_3512": 13,
+          "database_table_3520": 95
         },
-        "value": "Saint-Omer, ms. 706_H. 6"
+        "value": "11 Jh."
       }
     ],
-    "description": "",
-    "hit_id": "hit_hands__134",
-    "similar_hands": [],
-    "nr_daniel": "",
-    "manuscript": [
+    "hands_placed": [
       {
-        "id": 31,
-        "value": "Saint-Omer, ms. 706",
-        "order": "24.00000000000000000000"
+        "id": 33,
+        "value": "hit_hands_placed__33",
+        "order": "33.00000000000000000000"
       }
     ],
-    "number": "6",
-    "note": "",
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Created on": "2025-02-13",
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified": "2025-02-13",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
     "scribe": [],
     "gruppe": false
   },
@@ -9572,7 +9712,7 @@
           "database_table_3487": 31,
           "database_table_3488": 11
         },
-        "value": "Saint-Omer, ms. 706_H. 7"
+        "value": "Saint-Omer, ms. 706_H. 6"
       }
     ],
     "description": "Mindestens eine Anotatorenhand, die neben den veränderten und interpolierten Stellen der Decem libri historiarum Kreuze setzt. Einige dieser Symbole wirken zeitgenössisch.",
@@ -9586,7 +9726,7 @@
         "order": "24.00000000000000000000"
       }
     ],
-    "number": "7",
+    "number": "6",
     "note": "",
     "Created by": {
       "id": 86,
@@ -9597,7 +9737,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-02-13",
+    "Last modified": "2025-02-19",
     "hands_role": [
       {
         "id": 185,
@@ -9641,7 +9781,7 @@
           "database_table_3487": 31,
           "database_table_3488": 11
         },
-        "value": "Saint-Omer, ms. 706_H. 8"
+        "value": "Saint-Omer, ms. 706_H. 7"
       }
     ],
     "description": "",
@@ -9655,7 +9795,7 @@
         "order": "24.00000000000000000000"
       }
     ],
-    "number": "8",
+    "number": "7",
     "note": "",
     "Created by": {
       "id": 86,
@@ -9666,7 +9806,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-02-13",
+    "Last modified": "2025-02-19",
     "hands_role": [
       {
         "id": 188,
@@ -9695,9 +9835,29 @@
         "value": "Visio Eucherii"
       }
     ],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
+    "hands_dated": [
+      {
+        "id": 96,
+        "value": "hit_hands_dated__96",
+        "order": "94.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 13,
+          "database_table_3520": 96
+        },
+        "value": "11 Jh."
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 34,
+        "value": "hit_hands_placed__34",
+        "order": "34.00000000000000000000"
+      }
+    ],
     "scribe": [],
     "gruppe": false
   },
@@ -9778,9 +9938,29 @@
         "value": "Notitia Galliarum"
       }
     ],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
+    "hands_dated": [
+      {
+        "id": 97,
+        "value": "hit_hands_dated__97",
+        "order": "95.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 60,
+          "database_table_3520": 97
+        },
+        "value": "986-1007"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 35,
+        "value": "hit_hands_placed__35",
+        "order": "35.00000000000000000000"
+      }
+    ],
     "scribe": [
       {
         "id": 18,
@@ -9897,9 +10077,29 @@
         "value": "Annales Vedastini"
       }
     ],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
+    "hands_dated": [
+      {
+        "id": 98,
+        "value": "hit_hands_dated__98",
+        "order": "96.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 60,
+          "database_table_3520": 98
+        },
+        "value": "986-1007"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 36,
+        "value": "hit_hands_placed__36",
+        "order": "36.00000000000000000000"
+      }
+    ],
     "scribe": [
       {
         "id": 15,
@@ -9972,9 +10172,29 @@
         "value": "Annales Vedastini"
       }
     ],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
+    "hands_dated": [
+      {
+        "id": 99,
+        "value": "hit_hands_dated__99",
+        "order": "97.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 60,
+          "database_table_3520": 99
+        },
+        "value": "986-1007"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 37,
+        "value": "hit_hands_placed__37",
+        "order": "37.00000000000000000000"
+      }
+    ],
     "scribe": [
       {
         "id": 16,
@@ -9982,6 +10202,70 @@
         "order": "15.00000000000000000000"
       }
     ],
+    "gruppe": false
+  },
+  "141": {
+    "id": 141,
+    "order": "132.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 12,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6388_H. 4"
+      }
+    ],
+    "description": "",
+    "hit_id": "hit_hands__141",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 12,
+        "value": "BSB, Clm. 6388",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "number": "4",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-02-19",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-19",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [
+      {
+        "id": 100,
+        "value": "hit_hands_dated__100",
+        "order": "98.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 5,
+          "database_table_3520": 100
+        },
+        "value": "10 Jh., zweite Hälfte"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 38,
+        "value": "hit_hands_placed__38",
+        "order": "38.00000000000000000000"
+      }
+    ],
+    "scribe": [],
     "gruppe": false
   }
 }

@@ -2749,5 +2749,453 @@
     "Last modified": "2024-11-13",
     "Created on": "2024-11-13",
     "note": ""
+  },
+  "91": {
+    "id": 91,
+    "order": "89.00000000000000000000",
+    "hit_id": "hit_hands_dated__91",
+    "authority": [
+      {
+        "id": 14,
+        "value": "Pürstinger",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "page": "58-62",
+    "dated": [
+      {
+        "id": 60,
+        "value": "986-1007",
+        "order": "60.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 123,
+        "value": "Saint-Omer, ms. 706_H. 1",
+        "order": "115.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-19",
+    "Created on": "2025-02-19",
+    "note": ""
+  },
+  "92": {
+    "id": 92,
+    "order": "90.00000000000000000000",
+    "hit_id": "hit_hands_dated__92",
+    "authority": [
+      {
+        "id": 14,
+        "value": "Pürstinger",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "page": "58-62",
+    "dated": [
+      {
+        "id": 60,
+        "value": "986-1007",
+        "order": "60.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 124,
+        "value": "Saint-Omer, ms. 706_H. 2",
+        "order": "116.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-19",
+    "Created on": "2025-02-19",
+    "note": ""
+  },
+  "93": {
+    "id": 93,
+    "order": "91.00000000000000000000",
+    "hit_id": "hit_hands_dated__93",
+    "authority": [
+      {
+        "id": 14,
+        "value": "Pürstinger",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "page": "58-62",
+    "dated": [
+      {
+        "id": 60,
+        "value": "986-1007",
+        "order": "60.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 125,
+        "value": "Saint-Omer, ms. 706_H. 3",
+        "order": "117.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-19",
+    "Created on": "2025-02-19",
+    "note": ""
+  },
+  "94": {
+    "id": 94,
+    "order": "92.00000000000000000000",
+    "hit_id": "hit_hands_dated__94",
+    "authority": [
+      {
+        "id": 14,
+        "value": "Pürstinger",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "page": "58-62",
+    "dated": [
+      {
+        "id": 60,
+        "value": "986-1007",
+        "order": "60.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 126,
+        "value": "Saint-Omer, ms. 706_H. 4",
+        "order": "118.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-19",
+    "Created on": "2025-02-19",
+    "note": ""
+  },
+  "95": {
+    "id": 95,
+    "order": "93.00000000000000000000",
+    "hit_id": "hit_hands_dated__95",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 13,
+        "value": "11 Jh.",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 133,
+        "value": "Saint-Omer, ms. 706_H. 5",
+        "order": "124.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-19",
+    "Created on": "2025-02-19",
+    "note": ""
+  },
+  "96": {
+    "id": 96,
+    "order": "94.00000000000000000000",
+    "hit_id": "hit_hands_dated__96",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 13,
+        "value": "11 Jh.",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 137,
+        "value": "Saint-Omer, ms. 706_H. 7",
+        "order": "128.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-19",
+    "Created on": "2025-02-19",
+    "note": ""
+  },
+  "97": {
+    "id": 97,
+    "order": "95.00000000000000000000",
+    "hit_id": "hit_hands_dated__97",
+    "authority": [
+      {
+        "id": 14,
+        "value": "Pürstinger",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "page": "58-62",
+    "dated": [
+      {
+        "id": 60,
+        "value": "986-1007",
+        "order": "60.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 138,
+        "value": "Saint-Omer, ms. 697_H. 1",
+        "order": "129.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-19",
+    "Created on": "2025-02-19",
+    "note": ""
+  },
+  "98": {
+    "id": 98,
+    "order": "96.00000000000000000000",
+    "hit_id": "hit_hands_dated__98",
+    "authority": [
+      {
+        "id": 14,
+        "value": "Pürstinger",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "page": "58-62",
+    "dated": [
+      {
+        "id": 60,
+        "value": "986-1007",
+        "order": "60.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 139,
+        "value": "Bruxelles KBR, ms. 15835_H. 1",
+        "order": "130.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-19",
+    "Created on": "2025-02-19",
+    "note": ""
+  },
+  "99": {
+    "id": 99,
+    "order": "97.00000000000000000000",
+    "hit_id": "hit_hands_dated__99",
+    "authority": [
+      {
+        "id": 14,
+        "value": "Pürstinger",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "page": "58-62",
+    "dated": [
+      {
+        "id": 60,
+        "value": "986-1007",
+        "order": "60.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 140,
+        "value": "Bruxelles KBR, ms. 15835_H. 2",
+        "order": "131.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-19",
+    "Created on": "2025-02-19",
+    "note": ""
+  },
+  "100": {
+    "id": 100,
+    "order": "98.00000000000000000000",
+    "hit_id": "hit_hands_dated__100",
+    "authority": [
+      {
+        "id": 6,
+        "value": "Daniel, N.",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "page": "105, 146",
+    "dated": [
+      {
+        "id": 5,
+        "value": "10 Jh., zweite Hälfte",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 100,
+        "value": "BSB, Clm. 6383_H. 1",
+        "order": "92.00000000000000000000"
+      },
+      {
+        "id": 141,
+        "value": "BSB, Clm. 6388_H. 4",
+        "order": "132.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-20",
+    "Created on": "2025-02-20",
+    "note": ""
+  },
+  "101": {
+    "id": 101,
+    "order": "99.00000000000000000000",
+    "hit_id": "hit_hands_dated__101",
+    "authority": [
+      {
+        "id": 6,
+        "value": "Daniel, N.",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "page": "105",
+    "dated": [
+      {
+        "id": 5,
+        "value": "10 Jh., zweite Hälfte",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 101,
+        "value": "BSB, Clm. 6388_H. 2",
+        "order": "93.00000000000000000000"
+      },
+      {
+        "id": 113,
+        "value": "BSB, Clm. 6388_H. 3",
+        "order": "105.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-20",
+    "Created on": "2025-02-20",
+    "note": ""
+  },
+  "102": {
+    "id": 102,
+    "order": "100.00000000000000000000",
+    "hit_id": "hit_hands_dated__102",
+    "authority": [],
+    "page": "",
+    "dated": [],
+    "hand": [],
+    "new_dating": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-20",
+    "Created on": "2025-02-20",
+    "note": ""
   }
 }

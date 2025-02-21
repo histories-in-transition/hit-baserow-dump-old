@@ -319,8 +319,8 @@
       "label": "hit_hands_dated__89"
     },
     "next": {
-      "id": "hit_hands_dated__11",
-      "label": "hit_hands_dated__11"
+      "id": "hit_hands_dated__91",
+      "label": "hit_hands_dated__91"
     }
   },
   "11": {
@@ -369,8 +369,8 @@
     "note": "",
     "view_label": "hit_hands_dated__11",
     "prev": {
-      "id": "hit_hands_dated__9",
-      "label": "hit_hands_dated__9"
+      "id": "hit_hands_dated__102",
+      "label": "hit_hands_dated__102"
     },
     "next": {
       "id": "hit_hands_dated__12",
@@ -3660,6 +3660,608 @@
     "next": {
       "id": "hit_hands_dated__9",
       "label": "hit_hands_dated__9"
+    }
+  },
+  "91": {
+    "id": 91,
+    "hit_id": "hit_hands_dated__91",
+    "authority": [
+      {
+        "id": 14,
+        "author": "Pürstinger",
+        "short_title": "Die Geschichte einer fränkischen Weltgeschichte vom spätkarolingischen Reims zum frühkapetingischen Saint-Bertin.",
+        "zotero_id": "",
+        "hit_id": "hit_bibl__14",
+        "title": null,
+        "year": null,
+        "citation": null,
+        "link": ""
+      }
+    ],
+    "page": "58-62",
+    "dated": [
+      {
+        "id": 60,
+        "label": "986-1007",
+        "not_before": "0986-01-01",
+        "hit_id": "hit_date__60",
+        "not_after": "1007-12-31",
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2025-02-17"
+      }
+    ],
+    "hand": [
+      {
+        "id": 123,
+        "value": "Saint-Omer, ms. 706_H. 1"
+      }
+    ],
+    "new_dating": false,
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-19",
+    "note": "",
+    "view_label": "hit_hands_dated__91",
+    "prev": {
+      "id": "hit_hands_dated__9",
+      "label": "hit_hands_dated__9"
+    },
+    "next": {
+      "id": "hit_hands_dated__92",
+      "label": "hit_hands_dated__92"
+    }
+  },
+  "92": {
+    "id": 92,
+    "hit_id": "hit_hands_dated__92",
+    "authority": [
+      {
+        "id": 14,
+        "author": "Pürstinger",
+        "short_title": "Die Geschichte einer fränkischen Weltgeschichte vom spätkarolingischen Reims zum frühkapetingischen Saint-Bertin.",
+        "zotero_id": "",
+        "hit_id": "hit_bibl__14",
+        "title": null,
+        "year": null,
+        "citation": null,
+        "link": ""
+      }
+    ],
+    "page": "58-62",
+    "dated": [
+      {
+        "id": 60,
+        "label": "986-1007",
+        "not_before": "0986-01-01",
+        "hit_id": "hit_date__60",
+        "not_after": "1007-12-31",
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2025-02-17"
+      }
+    ],
+    "hand": [
+      {
+        "id": 124,
+        "value": "Saint-Omer, ms. 706_H. 2"
+      }
+    ],
+    "new_dating": false,
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-19",
+    "note": "",
+    "view_label": "hit_hands_dated__92",
+    "prev": {
+      "id": "hit_hands_dated__91",
+      "label": "hit_hands_dated__91"
+    },
+    "next": {
+      "id": "hit_hands_dated__93",
+      "label": "hit_hands_dated__93"
+    }
+  },
+  "93": {
+    "id": 93,
+    "hit_id": "hit_hands_dated__93",
+    "authority": [
+      {
+        "id": 14,
+        "author": "Pürstinger",
+        "short_title": "Die Geschichte einer fränkischen Weltgeschichte vom spätkarolingischen Reims zum frühkapetingischen Saint-Bertin.",
+        "zotero_id": "",
+        "hit_id": "hit_bibl__14",
+        "title": null,
+        "year": null,
+        "citation": null,
+        "link": ""
+      }
+    ],
+    "page": "58-62",
+    "dated": [
+      {
+        "id": 60,
+        "label": "986-1007",
+        "not_before": "0986-01-01",
+        "hit_id": "hit_date__60",
+        "not_after": "1007-12-31",
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2025-02-17"
+      }
+    ],
+    "hand": [
+      {
+        "id": 125,
+        "value": "Saint-Omer, ms. 706_H. 3"
+      }
+    ],
+    "new_dating": false,
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-19",
+    "note": "",
+    "view_label": "hit_hands_dated__93",
+    "prev": {
+      "id": "hit_hands_dated__92",
+      "label": "hit_hands_dated__92"
+    },
+    "next": {
+      "id": "hit_hands_dated__94",
+      "label": "hit_hands_dated__94"
+    }
+  },
+  "94": {
+    "id": 94,
+    "hit_id": "hit_hands_dated__94",
+    "authority": [
+      {
+        "id": 14,
+        "author": "Pürstinger",
+        "short_title": "Die Geschichte einer fränkischen Weltgeschichte vom spätkarolingischen Reims zum frühkapetingischen Saint-Bertin.",
+        "zotero_id": "",
+        "hit_id": "hit_bibl__14",
+        "title": null,
+        "year": null,
+        "citation": null,
+        "link": ""
+      }
+    ],
+    "page": "58-62",
+    "dated": [
+      {
+        "id": 60,
+        "label": "986-1007",
+        "not_before": "0986-01-01",
+        "hit_id": "hit_date__60",
+        "not_after": "1007-12-31",
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2025-02-17"
+      }
+    ],
+    "hand": [
+      {
+        "id": 126,
+        "value": "Saint-Omer, ms. 706_H. 4"
+      }
+    ],
+    "new_dating": false,
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-19",
+    "note": "",
+    "view_label": "hit_hands_dated__94",
+    "prev": {
+      "id": "hit_hands_dated__93",
+      "label": "hit_hands_dated__93"
+    },
+    "next": {
+      "id": "hit_hands_dated__95",
+      "label": "hit_hands_dated__95"
+    }
+  },
+  "95": {
+    "id": 95,
+    "hit_id": "hit_hands_dated__95",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 13,
+        "label": "11 Jh.",
+        "not_before": "1000-01-01",
+        "hit_id": "hit_date__13",
+        "not_after": "1099-12-31",
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-12"
+      }
+    ],
+    "hand": [
+      {
+        "id": 133,
+        "value": "Saint-Omer, ms. 706_H. 5"
+      }
+    ],
+    "new_dating": false,
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-19",
+    "note": "",
+    "view_label": "hit_hands_dated__95",
+    "prev": {
+      "id": "hit_hands_dated__94",
+      "label": "hit_hands_dated__94"
+    },
+    "next": {
+      "id": "hit_hands_dated__96",
+      "label": "hit_hands_dated__96"
+    }
+  },
+  "96": {
+    "id": 96,
+    "hit_id": "hit_hands_dated__96",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 13,
+        "label": "11 Jh.",
+        "not_before": "1000-01-01",
+        "hit_id": "hit_date__13",
+        "not_after": "1099-12-31",
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-12"
+      }
+    ],
+    "hand": [
+      {
+        "id": 137,
+        "value": "Saint-Omer, ms. 706_H. 7"
+      }
+    ],
+    "new_dating": false,
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-19",
+    "note": "",
+    "view_label": "hit_hands_dated__96",
+    "prev": {
+      "id": "hit_hands_dated__95",
+      "label": "hit_hands_dated__95"
+    },
+    "next": {
+      "id": "hit_hands_dated__97",
+      "label": "hit_hands_dated__97"
+    }
+  },
+  "97": {
+    "id": 97,
+    "hit_id": "hit_hands_dated__97",
+    "authority": [
+      {
+        "id": 14,
+        "author": "Pürstinger",
+        "short_title": "Die Geschichte einer fränkischen Weltgeschichte vom spätkarolingischen Reims zum frühkapetingischen Saint-Bertin.",
+        "zotero_id": "",
+        "hit_id": "hit_bibl__14",
+        "title": null,
+        "year": null,
+        "citation": null,
+        "link": ""
+      }
+    ],
+    "page": "58-62",
+    "dated": [
+      {
+        "id": 60,
+        "label": "986-1007",
+        "not_before": "0986-01-01",
+        "hit_id": "hit_date__60",
+        "not_after": "1007-12-31",
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2025-02-17"
+      }
+    ],
+    "hand": [
+      {
+        "id": 138,
+        "value": "Saint-Omer, ms. 697_H. 1"
+      }
+    ],
+    "new_dating": false,
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-19",
+    "note": "",
+    "view_label": "hit_hands_dated__97",
+    "prev": {
+      "id": "hit_hands_dated__96",
+      "label": "hit_hands_dated__96"
+    },
+    "next": {
+      "id": "hit_hands_dated__98",
+      "label": "hit_hands_dated__98"
+    }
+  },
+  "98": {
+    "id": 98,
+    "hit_id": "hit_hands_dated__98",
+    "authority": [
+      {
+        "id": 14,
+        "author": "Pürstinger",
+        "short_title": "Die Geschichte einer fränkischen Weltgeschichte vom spätkarolingischen Reims zum frühkapetingischen Saint-Bertin.",
+        "zotero_id": "",
+        "hit_id": "hit_bibl__14",
+        "title": null,
+        "year": null,
+        "citation": null,
+        "link": ""
+      }
+    ],
+    "page": "58-62",
+    "dated": [
+      {
+        "id": 60,
+        "label": "986-1007",
+        "not_before": "0986-01-01",
+        "hit_id": "hit_date__60",
+        "not_after": "1007-12-31",
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2025-02-17"
+      }
+    ],
+    "hand": [
+      {
+        "id": 139,
+        "value": "Bruxelles KBR, ms. 15835_H. 1"
+      }
+    ],
+    "new_dating": false,
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-19",
+    "note": "",
+    "view_label": "hit_hands_dated__98",
+    "prev": {
+      "id": "hit_hands_dated__97",
+      "label": "hit_hands_dated__97"
+    },
+    "next": {
+      "id": "hit_hands_dated__99",
+      "label": "hit_hands_dated__99"
+    }
+  },
+  "99": {
+    "id": 99,
+    "hit_id": "hit_hands_dated__99",
+    "authority": [
+      {
+        "id": 14,
+        "author": "Pürstinger",
+        "short_title": "Die Geschichte einer fränkischen Weltgeschichte vom spätkarolingischen Reims zum frühkapetingischen Saint-Bertin.",
+        "zotero_id": "",
+        "hit_id": "hit_bibl__14",
+        "title": null,
+        "year": null,
+        "citation": null,
+        "link": ""
+      }
+    ],
+    "page": "58-62",
+    "dated": [
+      {
+        "id": 60,
+        "label": "986-1007",
+        "not_before": "0986-01-01",
+        "hit_id": "hit_date__60",
+        "not_after": "1007-12-31",
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2025-02-17"
+      }
+    ],
+    "hand": [
+      {
+        "id": 140,
+        "value": "Bruxelles KBR, ms. 15835_H. 2"
+      }
+    ],
+    "new_dating": false,
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-19",
+    "note": "",
+    "view_label": "hit_hands_dated__99",
+    "prev": {
+      "id": "hit_hands_dated__98",
+      "label": "hit_hands_dated__98"
+    },
+    "next": {
+      "id": "hit_hands_dated__100",
+      "label": "hit_hands_dated__100"
+    }
+  },
+  "100": {
+    "id": 100,
+    "hit_id": "hit_hands_dated__100",
+    "authority": [
+      {
+        "id": 6,
+        "author": "Daniel, N.",
+        "short_title": "Handschriften des zehnten Jahrhunderts aus der Freisinger Dombibliothek",
+        "zotero_id": "",
+        "hit_id": "hit_bibl__6",
+        "title": null,
+        "year": null,
+        "citation": null,
+        "link": ""
+      }
+    ],
+    "page": "105, 146",
+    "dated": [
+      {
+        "id": 5,
+        "label": "10 Jh., zweite Hälfte",
+        "not_before": "0950-01-01",
+        "hit_id": "hit_date__5",
+        "not_after": "0999-12-31",
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-12"
+      }
+    ],
+    "hand": [
+      {
+        "id": 100,
+        "value": "BSB, Clm. 6383_H. 1"
+      },
+      {
+        "id": 141,
+        "value": "BSB, Clm. 6388_H. 4"
+      }
+    ],
+    "new_dating": false,
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-20",
+    "note": "",
+    "view_label": "hit_hands_dated__100",
+    "prev": {
+      "id": "hit_hands_dated__99",
+      "label": "hit_hands_dated__99"
+    },
+    "next": {
+      "id": "hit_hands_dated__101",
+      "label": "hit_hands_dated__101"
+    }
+  },
+  "101": {
+    "id": 101,
+    "hit_id": "hit_hands_dated__101",
+    "authority": [
+      {
+        "id": 6,
+        "author": "Daniel, N.",
+        "short_title": "Handschriften des zehnten Jahrhunderts aus der Freisinger Dombibliothek",
+        "zotero_id": "",
+        "hit_id": "hit_bibl__6",
+        "title": null,
+        "year": null,
+        "citation": null,
+        "link": ""
+      }
+    ],
+    "page": "105",
+    "dated": [
+      {
+        "id": 5,
+        "label": "10 Jh., zweite Hälfte",
+        "not_before": "0950-01-01",
+        "hit_id": "hit_date__5",
+        "not_after": "0999-12-31",
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-12"
+      }
+    ],
+    "hand": [
+      {
+        "id": 101,
+        "value": "BSB, Clm. 6388_H. 2"
+      },
+      {
+        "id": 113,
+        "value": "BSB, Clm. 6388_H. 3"
+      }
+    ],
+    "new_dating": false,
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-20",
+    "note": "",
+    "view_label": "hit_hands_dated__101",
+    "prev": {
+      "id": "hit_hands_dated__100",
+      "label": "hit_hands_dated__100"
+    },
+    "next": {
+      "id": "hit_hands_dated__102",
+      "label": "hit_hands_dated__102"
+    }
+  },
+  "102": {
+    "id": 102,
+    "hit_id": "hit_hands_dated__102",
+    "authority": [],
+    "page": "",
+    "dated": [],
+    "hand": [],
+    "new_dating": false,
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-20",
+    "note": "",
+    "view_label": "hit_hands_dated__102",
+    "prev": {
+      "id": "hit_hands_dated__101",
+      "label": "hit_hands_dated__101"
+    },
+    "next": {
+      "id": "hit_hands_dated__11",
+      "label": "hit_hands_dated__11"
     }
   }
 }

@@ -4,8 +4,8 @@
     "order": "1.00000000000000000000",
     "label": [
       {
-        "id": 11,
-        "value": "Saint-Omer, Cod. 123, "
+        "id": 1,
+        "value": "ÖNB, Cod. Test 2, "
       }
     ],
     "work": [
@@ -22,15 +22,15 @@
     ],
     "library": [
       {
-        "id": 11,
-        "value": "Saint-Omer",
-        "order": "10.00000000000000000000"
+        "id": 1,
+        "value": "ÖNB",
+        "order": "1.00000000000000000000"
       }
     ],
-    "idno": "Cod. 123",
+    "idno": "Cod. Test 2",
     "locus": "",
     "catalog_url": "",
-    "hit_id": "hit_filiation__1"
+    "hit_id": "hit_filiated_stratum__1"
   },
   "2": {
     "id": 2,
@@ -52,6 +52,17 @@
     "idno": "Cod. TEST",
     "locus": "21-12",
     "catalog_url": "",
-    "hit_id": "hit_filiation__2"
+    "hit_id": "hit_filiated_stratum__2"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "label": [],
+    "work": [],
+    "library": [],
+    "idno": "",
+    "locus": "",
+    "catalog_url": "",
+    "hit_id": "hit_filiated_stratum__3"
   }
 }

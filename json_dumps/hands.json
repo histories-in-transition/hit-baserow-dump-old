@@ -10239,9 +10239,28 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2025-02-19",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
+    "hands_role": [
+      {
+        "id": 170,
+        "value": "hit_hands_role__170",
+        "order": "156.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 170,
+        "value": []
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 32,
+          "database_table_3491": 50
+        },
+        "value": "Chronica cum Adalberti continuatione"
+      }
+    ],
     "hands_dated": [
       {
         "id": 100,

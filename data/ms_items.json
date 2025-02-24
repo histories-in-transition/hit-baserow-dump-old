@@ -107774,7 +107774,7 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-03",
+        "Last modified": "2025-02-23",
         "locus_layout": [],
         "function": [],
         "scribe_type": []
@@ -108620,7 +108620,7 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2025-01-28",
+        "Last modified": "2025-02-23",
         "locus_layout": [
           {
             "id": 18158,
@@ -128010,16 +128010,28 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-12-14",
-        "locus_layout": [],
-        "function": [
+        "Last modified": "2025-02-23",
+        "locus_layout": [
           {
-            "id": 15836,
-            "value": "inhaltsbezogen",
-            "color": "darker-orange"
+            "id": 18158,
+            "value": "graphisch divers",
+            "color": "darker-green"
           }
         ],
-        "scribe_type": []
+        "function": [
+          {
+            "id": 18155,
+            "value": "konzeptbezogen",
+            "color": "darker-brown"
+          }
+        ],
+        "scribe_type": [
+          {
+            "id": 18165,
+            "value": "Erweiterung",
+            "color": "darker-blue"
+          }
+        ]
       }
     ],
     "cod_unit": [],

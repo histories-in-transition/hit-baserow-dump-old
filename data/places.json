@@ -115,8 +115,8 @@
     "Last modified": "2024-07-11",
     "view_label": "Salzburg",
     "prev": {
-      "id": "hit_place__24",
-      "label": "Brüssel"
+      "id": "hit_place__26",
+      "label": "Fulda"
     },
     "next": {
       "id": "hit_place__4",
@@ -751,6 +751,78 @@
     "prev": {
       "id": "hit_place__23",
       "label": "Belgien"
+    },
+    "next": {
+      "id": "hit_place__25",
+      "label": "St. Emmeram"
+    }
+  },
+  "25": {
+    "id": 25,
+    "name": "St. Emmeram",
+    "geonames_url": "",
+    "hit_id": "hit_place__25",
+    "wikidata_url": "",
+    "country": [
+      {
+        "id": 2,
+        "name": "Deutschland",
+        "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+        "hit_id": "hit_place__2",
+        "wikidata_url": "",
+        "country": [],
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-25",
+    "view_label": "St. Emmeram",
+    "prev": {
+      "id": "hit_place__24",
+      "label": "Brüssel"
+    },
+    "next": {
+      "id": "hit_place__26",
+      "label": "Fulda"
+    }
+  },
+  "26": {
+    "id": 26,
+    "name": "Fulda",
+    "geonames_url": "",
+    "hit_id": "hit_place__26",
+    "wikidata_url": "",
+    "country": [
+      {
+        "id": 2,
+        "name": "Deutschland",
+        "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+        "hit_id": "hit_place__2",
+        "wikidata_url": "",
+        "country": [],
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2024-07-11"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-25",
+    "view_label": "Fulda",
+    "prev": {
+      "id": "hit_place__25",
+      "label": "St. Emmeram"
     },
     "next": {
       "id": "hit_place__3",

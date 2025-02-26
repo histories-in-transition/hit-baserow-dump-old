@@ -16631,7 +16631,7 @@
     "digi_url": "",
     "idno": "Clm 14221",
     "idno_former": "",
-    "quire_structure": "",
+    "quire_structure": "(IV - 1) <sup>7</sup> + 5 IV <sup>54</sup> + III <sup>60</sup>\n",
     "library_full": [
       {
         "id": 4,
@@ -16668,20 +16668,52 @@
         "Last modified": "2024-07-03"
       }
     ],
-    "extent": "",
+    "extent": "60",
     "foliation": "",
     "acc_mat": "",
     "binding": "",
     "binding_date": [],
-    "history": "",
+    "history": "Entstanden im 4. Viertel des 9. Jh. in St. Emmeram ( Bischoff, vgl. unter Literatur). Laut Mengers Katalog aus dem Nachlaß des Subpriors Erasmus Daum (Australis), gest. 1504, in die Bibliothek eingegangen. Bei Menger unter Nr. LXVIII verzeichnet, vgl. 1ʳ dieselbe Ziffer von spätmittelalterlicher Hand. (Neske)",
     "bibliography": [],
-    "height": null,
-    "width": null,
+    "height": "295",
+    "width": "200",
     "material_spec": "",
-    "orig_place": [],
+    "orig_place": [
+      {
+        "id": 25,
+        "name": "St. Emmeram",
+        "geonames_url": "",
+        "hit_id": "hit_place__25",
+        "wikidata_url": "",
+        "country": [
+          {
+            "id": 2,
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2025-02-25"
+      }
+    ],
     "catchwords": "",
     "quiremarks": "",
-    "material": null,
+    "material": {
+      "id": 14782,
+      "value": "parchment",
+      "color": "darker-orange"
+    },
     "provenance": [],
     "manuscripts_dated": [],
     "orig_dated": [],
@@ -16689,10 +16721,16 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-02-11",
+    "Last modified": "2025-02-25",
     "content_summary": "",
     "charakter": [],
-    "case_study": [],
+    "case_study": [
+      {
+        "id": 17456,
+        "value": "Regensburg",
+        "color": "darker-orange"
+      }
+    ],
     "status": [],
     "view_label": "BSB, Clm 14221",
     "prev": {
@@ -16726,7 +16764,7 @@
     "digi_url": "",
     "idno": "Clm 14210",
     "idno_former": "",
-    "quire_structure": "",
+    "quire_structure": "15 IV <sup>120</sup> + (IV - 1) <sup>127</sup>\n",
     "library_full": [
       {
         "id": 4,
@@ -16763,20 +16801,52 @@
         "Last modified": "2024-07-03"
       }
     ],
-    "extent": "",
+    "extent": "127",
     "foliation": "",
     "acc_mat": "",
-    "binding": "",
+    "binding": "Heller spätmittelalterlicher Stempelband auf Holz; gebunden in Regensburg",
     "binding_date": [],
-    "history": "",
+    "history": "Gemäß Schriftbefund im 1. Drittel des 9. Jh. in Fulda entstanden. (2ʳ) Schenkungseintrag: Eranrich dedit istum librum pro anima Riholfi ad altare sancti Emmerammi (aus -o korrigiert), bezieht sich wohl auf Abt Richolf (nach 1000–1028), vgl. Bischoff a. a. O. S. 236 und MBK IV, 1S. 108 Anm. 100. In den Katalogen Pleysteiners und Mengers, hier mit Signatur H 12 verzeichnet. (Neske)",
     "bibliography": [],
-    "height": null,
-    "width": null,
+    "height": "295",
+    "width": "195",
     "material_spec": "",
-    "orig_place": [],
+    "orig_place": [
+      {
+        "id": 26,
+        "name": "Fulda",
+        "geonames_url": "",
+        "hit_id": "hit_place__26",
+        "wikidata_url": "",
+        "country": [
+          {
+            "id": 2,
+            "name": "Deutschland",
+            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+            "hit_id": "hit_place__2",
+            "wikidata_url": "",
+            "country": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2025-02-25"
+      }
+    ],
     "catchwords": "",
     "quiremarks": "",
-    "material": null,
+    "material": {
+      "id": 14782,
+      "value": "parchment",
+      "color": "darker-orange"
+    },
     "provenance": [],
     "manuscripts_dated": [],
     "orig_dated": [],
@@ -16784,10 +16854,16 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-02-11",
+    "Last modified": "2025-02-25",
     "content_summary": "",
     "charakter": [],
-    "case_study": [],
+    "case_study": [
+      {
+        "id": 17456,
+        "value": "Regensburg",
+        "color": "darker-orange"
+      }
+    ],
     "status": [],
     "view_label": "BSB, Clm 14210",
     "prev": {
@@ -16858,20 +16934,24 @@
         "Last modified": "2024-07-03"
       }
     ],
-    "extent": "",
+    "extent": "I + 172 + I",
     "foliation": "",
     "acc_mat": "",
     "binding": "",
     "binding_date": [],
     "history": "",
     "bibliography": [],
-    "height": null,
-    "width": null,
+    "height": "180",
+    "width": "135",
     "material_spec": "",
     "orig_place": [],
     "catchwords": "",
     "quiremarks": "",
-    "material": null,
+    "material": {
+      "id": 14782,
+      "value": "parchment",
+      "color": "darker-orange"
+    },
     "provenance": [],
     "manuscripts_dated": [],
     "orig_dated": [],
@@ -16879,7 +16959,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-02-11",
+    "Last modified": "2025-02-25",
     "content_summary": "",
     "charakter": [],
     "case_study": [],

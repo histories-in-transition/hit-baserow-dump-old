@@ -543,5 +543,55 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2025-01-22"
+  },
+  "25": {
+    "id": 25,
+    "order": "23.00000000000000000000",
+    "name": "St. Emmeram",
+    "geonames_url": "",
+    "hit_id": "hit_place__25",
+    "wikidata_url": "",
+    "country": [
+      {
+        "id": 2,
+        "value": "Deutschland",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-02-25",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-25"
+  },
+  "26": {
+    "id": 26,
+    "order": "24.00000000000000000000",
+    "name": "Fulda",
+    "geonames_url": "",
+    "hit_id": "hit_place__26",
+    "wikidata_url": "",
+    "country": [
+      {
+        "id": 2,
+        "value": "Deutschland",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-02-25",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-25"
   }
 }

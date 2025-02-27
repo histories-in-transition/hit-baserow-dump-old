@@ -10216,7 +10216,7 @@
         "value": "BSB, Clm. 6388_H. 4"
       }
     ],
-    "description": "",
+    "description": "Mehrere Hände, die zusammen in zum Buchstil neigende Manier arbeiten. Rote Überschriften und Initiale können rückwirkend hinzugefügt werden. Ligaturen ct, st,",
     "hit_id": "hit_hands__141",
     "similar_hands": [],
     "nr_daniel": "",
@@ -10238,7 +10238,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-02-19",
+    "Last modified": "2025-02-26",
     "hands_role": [
       {
         "id": 170,
@@ -10284,6 +10284,50 @@
         "order": "38.00000000000000000000"
       }
     ],
+    "scribe": [],
+    "gruppe": false
+  },
+  "142": {
+    "id": 142,
+    "order": "133.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 12,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6388_H. 5"
+      }
+    ],
+    "description": "Zwei kursiven Hände mit mehreren Ligaturen und Verkürzungen, darunter häufig eine runde Decke - us, m und n mit Unterlängen für mi und ni, runde d,",
+    "hit_id": "hit_hands__142",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 12,
+        "value": "BSB, Clm. 6388",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "number": "5",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-02-26",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-26",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
     "scribe": [],
     "gruppe": false
   }

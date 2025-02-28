@@ -2772,5 +2772,129 @@
     "Last modified": "2025-02-20",
     "strata_filiation": [],
     "note_filiation": ""
+  },
+  "31": {
+    "id": 31,
+    "order": "28.00000000000000000000",
+    "label": [
+      {
+        "id": 12,
+        "value": "Clm. 6388, Stratum 3"
+      }
+    ],
+    "character": [
+      {
+        "id": 14761,
+        "value": "base",
+        "color": "yellow"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 12,
+        "value": "BSB, Clm. 6388",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "number": "3",
+    "hit_id": "hit_strata__31",
+    "hand_role": [
+      {
+        "id": 170,
+        "value": "hit_hands_role__170",
+        "order": "156.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 32,
+          "database_table_3491": 50
+        },
+        "value": "Chronica cum Adalberti continuatione"
+      }
+    ],
+    "quires": [],
+    "locus": [
+      {
+        "id": 50,
+        "value": "86r-198r"
+      }
+    ],
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-02-27",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-27",
+    "strata_filiation": [],
+    "note_filiation": ""
+  },
+  "32": {
+    "id": 32,
+    "order": "29.00000000000000000000",
+    "label": [
+      {
+        "id": 12,
+        "value": "Clm. 6388, Stratum 4"
+      }
+    ],
+    "character": [
+      {
+        "id": 14765,
+        "value": "annotation",
+        "color": "light-brown"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 12,
+        "value": "BSB, Clm. 6388",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "number": "4",
+    "hit_id": "hit_strata__32",
+    "hand_role": [
+      {
+        "id": 173,
+        "value": "hit_hands_role__173",
+        "order": "159.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 56,
+          "database_table_3491": 51
+        },
+        "value": "Catalogus regum et imperatorum Frisingensis"
+      }
+    ],
+    "quires": [],
+    "locus": [
+      {
+        "id": 51,
+        "value": "86v"
+      }
+    ],
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-02-27",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-27",
+    "strata_filiation": [],
+    "note_filiation": ""
   }
 }

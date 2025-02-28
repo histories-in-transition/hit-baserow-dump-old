@@ -35219,7 +35219,13 @@
                         "value": "clm_6388__50"
                       }
                     ],
-                    "role": [],
+                    "role": [
+                      {
+                        "id": 14758,
+                        "value": "Schreiber",
+                        "color": "darker-red"
+                      }
+                    ],
                     "locus": "",
                     "text": [
                       {
@@ -35240,8 +35246,14 @@
                       "id": 87,
                       "name": "Ksenia Borisova"
                     },
-                    "Last modified": "2025-02-21",
-                    "locus_layout": [],
+                    "Last modified": "2025-02-27",
+                    "locus_layout": [
+                      {
+                        "id": 15841,
+                        "value": "Schriftraum (einspaltig/mehrspaltig)",
+                        "color": "green"
+                      }
+                    ],
                     "function": [],
                     "scribe_type": []
                   }
@@ -35486,6 +35498,10 @@
               {
                 "id": 141,
                 "value": "BSB, Clm. 6388_H. 4"
+              },
+              {
+                "id": 142,
+                "value": "BSB, Clm. 6388_H. 5"
               }
             ],
             "authority": [

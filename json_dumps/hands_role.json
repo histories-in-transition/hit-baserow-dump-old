@@ -8935,7 +8935,13 @@
         "order": "43.00000000000000000000"
       }
     ],
-    "role": [],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
     "locus": "",
     "text": [
       {
@@ -8961,8 +8967,14 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2025-02-13",
-    "Last modified": "2025-02-21",
-    "locus_layout": [],
+    "Last modified": "2025-02-27",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
     "function": [],
     "scribe_type": []
   },
@@ -9037,25 +9049,74 @@
     "id": 173,
     "order": "159.00000000000000000000",
     "hit_id": "hit_hands_role__173",
-    "hand": [],
-    "ms_item": [],
-    "role": [],
-    "locus": "",
-    "text": [],
-    "locus_text": [],
+    "hand": [
+      {
+        "id": 142,
+        "value": "BSB, Clm. 6388_H. 5",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 51,
+        "value": "clm_6388__51",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "86v unten",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 56,
+          "database_table_3491": 51
+        },
+        "value": "Catalogus regum et imperatorum Frisingensis"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 51,
+        "value": "86v"
+      }
+    ],
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Created on": "2025-02-13",
-    "Last modified": "2025-02-13",
-    "locus_layout": [],
-    "function": [],
-    "scribe_type": []
+    "Last modified": "2025-02-27",
+    "locus_layout": [
+      {
+        "id": 15382,
+        "value": "marginal unten",
+        "color": "cyan"
+      }
+    ],
+    "function": [
+      {
+        "id": 18155,
+        "value": "konzeptbezogen",
+        "color": "darker-brown"
+      }
+    ],
+    "scribe_type": [
+      {
+        "id": 18167,
+        "value": "Überarbeitung",
+        "color": "dark-pink"
+      }
+    ]
   },
   "174": {
     "id": 174,

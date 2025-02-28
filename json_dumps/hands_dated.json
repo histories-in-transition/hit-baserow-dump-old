@@ -3181,10 +3181,28 @@
     "id": 102,
     "order": "100.00000000000000000000",
     "hit_id": "hit_hands_dated__102",
-    "authority": [],
-    "page": "",
-    "dated": [],
-    "hand": [],
+    "authority": [
+      {
+        "id": 6,
+        "value": "Daniel, N.",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "page": "146",
+    "dated": [
+      {
+        "id": 63,
+        "value": "kurz nach 967",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 141,
+        "value": "BSB, Clm. 6388_H. 4",
+        "order": "132.00000000000000000000"
+      }
+    ],
     "new_dating": false,
     "Created by": {
       "id": 87,
@@ -3194,8 +3212,47 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-02-20",
+    "Last modified": "2025-02-27",
     "Created on": "2025-02-20",
+    "note": ""
+  },
+  "103": {
+    "id": 103,
+    "order": "101.00000000000000000000",
+    "hit_id": "hit_hands_dated__103",
+    "authority": [
+      {
+        "id": 3,
+        "value": "Glauche G.",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "page": "165",
+    "dated": [
+      {
+        "id": 5,
+        "value": "10 Jh., zweite Hälfte",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 142,
+        "value": "BSB, Clm. 6388_H. 5",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-27",
+    "Created on": "2025-02-27",
     "note": ""
   }
 }

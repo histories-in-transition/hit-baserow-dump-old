@@ -7955,7 +7955,13 @@
         "value": "10 Jh., zweite Hälfte"
       }
     ],
-    "hands_placed": [],
+    "hands_placed": [
+      {
+        "id": 39,
+        "value": "hit_hands_placed__39",
+        "order": "39.00000000000000000000"
+      }
+    ],
     "scribe": [],
     "gruppe": false
   },
@@ -8472,7 +8478,13 @@
         "value": "10 Jh., zweite Hälfte"
       }
     ],
-    "hands_placed": [],
+    "hands_placed": [
+      {
+        "id": 39,
+        "value": "hit_hands_placed__39",
+        "order": "39.00000000000000000000"
+      }
+    ],
     "scribe": [],
     "gruppe": true
   },
@@ -10219,7 +10231,7 @@
     "description": "Mehrere Hände, die zusammen in zum Buchstil neigende Manier arbeiten. Rote Überschriften und Initiale können rückwirkend hinzugefügt werden. Ligaturen ct, st,",
     "hit_id": "hit_hands__141",
     "similar_hands": [],
-    "nr_daniel": "",
+    "nr_daniel": "38",
     "manuscript": [
       {
         "id": 12,
@@ -10238,7 +10250,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-02-26",
+    "Last modified": "2025-02-27",
     "hands_role": [
       {
         "id": 170,
@@ -10249,7 +10261,13 @@
     "role": [
       {
         "id": 170,
-        "value": []
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
       }
     ],
     "texts": [
@@ -10266,6 +10284,11 @@
         "id": 100,
         "value": "hit_hands_dated__100",
         "order": "98.00000000000000000000"
+      },
+      {
+        "id": 102,
+        "value": "hit_hands_dated__102",
+        "order": "100.00000000000000000000"
       }
     ],
     "dating": [
@@ -10275,6 +10298,13 @@
           "database_table_3520": 100
         },
         "value": "10 Jh., zweite Hälfte"
+      },
+      {
+        "ids": {
+          "database_table_3512": 63,
+          "database_table_3520": 102
+        },
+        "value": "kurz nach 967"
       }
     ],
     "hands_placed": [
@@ -10285,7 +10315,7 @@
       }
     ],
     "scribe": [],
-    "gruppe": false
+    "gruppe": true
   },
   "142": {
     "id": 142,
@@ -10299,10 +10329,10 @@
         "value": "BSB, Clm. 6388_H. 5"
       }
     ],
-    "description": "Zwei kursiven Hände mit mehreren Ligaturen und Verkürzungen, darunter häufig eine runde Decke - us, m und n mit Unterlängen für mi und ni, runde d,",
+    "description": "Zwei kursiven Hände mit mehreren Ligaturen und Verkürzungen, darunter häufig eine runde Decke oder *u* mit einer Überlange für *us*, *m* und *n* mit Unterlängen für *mi* und *ni*, runde *d*. Eine Hand, die wahrscheinlich später die leeren Stellen ausgefüllt hat, sieht sehr eckig und zitterig aus, verwender *v* statt *u*, nach unten verlängerte *r*, *7* für *et*.",
     "hit_id": "hit_hands__142",
     "similar_hands": [],
-    "nr_daniel": "",
+    "nr_daniel": "38",
     "manuscript": [
       {
         "id": 12,
@@ -10321,14 +10351,59 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-02-26",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
+    "Last modified": "2025-02-27",
+    "hands_role": [
+      {
+        "id": 173,
+        "value": "hit_hands_role__173",
+        "order": "159.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 173,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 56,
+          "database_table_3491": 51
+        },
+        "value": "Catalogus regum et imperatorum Frisingensis"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 103,
+        "value": "hit_hands_dated__103",
+        "order": "101.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 5,
+          "database_table_3520": 103
+        },
+        "value": "10 Jh., zweite Hälfte"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 38,
+        "value": "hit_hands_placed__38",
+        "order": "38.00000000000000000000"
+      }
+    ],
     "scribe": [],
-    "gruppe": false
+    "gruppe": true
   }
 }

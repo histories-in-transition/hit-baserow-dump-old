@@ -369,8 +369,8 @@
     "note": "",
     "view_label": "hit_hands_dated__11",
     "prev": {
-      "id": "hit_hands_dated__102",
-      "label": "hit_hands_dated__102"
+      "id": "hit_hands_dated__103",
+      "label": "hit_hands_dated__103"
     },
     "next": {
       "id": "hit_hands_dated__12",
@@ -4243,21 +4243,105 @@
   "102": {
     "id": 102,
     "hit_id": "hit_hands_dated__102",
-    "authority": [],
-    "page": "",
-    "dated": [],
-    "hand": [],
+    "authority": [
+      {
+        "id": 6,
+        "author": "Daniel, N.",
+        "short_title": "Handschriften des zehnten Jahrhunderts aus der Freisinger Dombibliothek",
+        "zotero_id": "",
+        "hit_id": "hit_bibl__6",
+        "title": null,
+        "year": null,
+        "citation": null,
+        "link": ""
+      }
+    ],
+    "page": "146",
+    "dated": [
+      {
+        "id": 63,
+        "label": "kurz nach 967",
+        "not_before": "0967-12-31",
+        "hit_id": "hit_date__63",
+        "not_after": "0999-12-31",
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2025-02-27"
+      }
+    ],
+    "hand": [
+      {
+        "id": 141,
+        "value": "BSB, Clm. 6388_H. 4"
+      }
+    ],
     "new_dating": false,
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-02-20",
+    "Last modified": "2025-02-27",
     "note": "",
     "view_label": "hit_hands_dated__102",
     "prev": {
       "id": "hit_hands_dated__101",
       "label": "hit_hands_dated__101"
+    },
+    "next": {
+      "id": "hit_hands_dated__103",
+      "label": "hit_hands_dated__103"
+    }
+  },
+  "103": {
+    "id": 103,
+    "hit_id": "hit_hands_dated__103",
+    "authority": [
+      {
+        "id": 3,
+        "author": "Glauche G.",
+        "short_title": "Die Pergamenthandschriften aus dem Domkapitel Freising, Bd.: 2, Clm 6317 - 6437",
+        "zotero_id": "",
+        "hit_id": "hit_bibl__3",
+        "title": null,
+        "year": null,
+        "citation": null,
+        "link": ""
+      }
+    ],
+    "page": "165",
+    "dated": [
+      {
+        "id": 5,
+        "label": "10 Jh., zweite Hälfte",
+        "not_before": "0950-01-01",
+        "hit_id": "hit_date__5",
+        "not_after": "0999-12-31",
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-12"
+      }
+    ],
+    "hand": [
+      {
+        "id": 142,
+        "value": "BSB, Clm. 6388_H. 5"
+      }
+    ],
+    "new_dating": false,
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-27",
+    "note": "",
+    "view_label": "hit_hands_dated__103",
+    "prev": {
+      "id": "hit_hands_dated__102",
+      "label": "hit_hands_dated__102"
     },
     "next": {
       "id": "hit_hands_dated__11",

@@ -58531,7 +58531,7 @@
         ]
       }
     ],
-    "Last modified": "2024-09-27",
+    "Last modified": "2025-03-11",
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -58551,9 +58551,24 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": [],
+    "role": {
+      "id": 18159,
+      "value": "Erweiterung",
+      "color": "pink"
+    },
+    "commented_msitem": [
+      {
+        "id": 50,
+        "value": "clm_6388__50"
+      }
+    ],
+    "function_role": [
+      {
+        "id": 18161,
+        "value": "inhaltsbezogen",
+        "color": "dark-red"
+      }
+    ],
     "view_label": "clm_6388__51",
     "prev": {
       "id": "hit_ms_items__50",

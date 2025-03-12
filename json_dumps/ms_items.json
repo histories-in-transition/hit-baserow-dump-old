@@ -4344,7 +4344,7 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "Last modified": "2024-09-27",
+    "Last modified": "2025-03-11",
     "Created on": "2024-07-09",
     "Created by": {
       "id": 87,
@@ -4369,9 +4369,25 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "role": {
+      "id": 18159,
+      "value": "Erweiterung",
+      "color": "pink"
+    },
+    "commented_msitem": [
+      {
+        "id": 50,
+        "value": "clm_6388__50",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "function_role": [
+      {
+        "id": 18161,
+        "value": "inhaltsbezogen",
+        "color": "dark-red"
+      }
+    ]
   },
   "52": {
     "id": 52,

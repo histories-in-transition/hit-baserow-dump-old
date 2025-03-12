@@ -15678,8 +15678,8 @@
     "note_filiation": null,
     "view_label": "Cod. M. p. th. f. 46, Stratum 3",
     "prev": {
-      "id": "hit_strata__32",
-      "label": "Clm. 6388, Stratum 4"
+      "id": "hit_strata__33",
+      "label": "Clm. 6388, Stratum 5"
     },
     "next": {
       "id": "hit_strata__5",
@@ -60211,12 +60211,12 @@
     "number": "2",
     "hit_id": "hit_strata__24",
     "hand_role": [],
-    "note": "Das Italienische Teil mit Antapodosis wurde reich korrigiert und interpoliert. Dabei hat der Schreiber oft griechische Wörter und Ausdrücke eingefügt und zwar an den Stellen, die wahrscheinlich leer gelassen worden waren.",
+    "note": "Das Italienische Teil mit Antapodosis wurde reich korrigiert und interpoliert. Dabei hat der Schreiber oft griechische Wörter und Ausdrücke eingefügt und zwar an den Stellen, die wahrscheinlich leer gelassen worden waren. In dieser Form wurde der Text zu einer wahrscheinlich indirekter Vorlage für zwei Abschriften Brüssel, BR 9904 und Laur. Ashburnham 59.",
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-02-12",
+    "Last modified": "2025-03-11",
     "strata_filiation": [],
     "note_filiation": null,
     "view_label": "Clm. 6388, Stratum 2",
@@ -70173,6 +70173,1026 @@
     "hit_id": "hit_strata__31",
     "hand_role": [
       {
+        "id": 167,
+        "hit_id": "hit_hands_role__167",
+        "hand": [
+          {
+            "id": 102,
+            "value": "BSB, Clm. 6388_H. 1"
+          }
+        ],
+        "ms_item": [
+          {
+            "id": 48,
+            "label": [
+              {
+                "id": 12,
+                "value": "clm_6388__48"
+              }
+            ],
+            "incipit": "",
+            "explicit": "… et non iam Romae sed in exilium ad quod destina‖[mus? …]",
+            "rubric": "",
+            "title_work": [
+              {
+                "id": 30,
+                "title": "Historia Ottonis",
+                "gnd_url": "https://d-nb.info/gnd/4399950-5",
+                "note": "",
+                "hit_id": "hit_works__30",
+                "author": [
+                  {
+                    "id": 10,
+                    "name": "Liutprand, Cremona",
+                    "gnd_url": "https://d-nb.info/gnd/118575171",
+                    "hit_id": "hit_people__10",
+                    "role": [
+                      {
+                        "id": 14753,
+                        "value": "author",
+                        "color": "dark-green"
+                      }
+                    ],
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-07-12",
+                    "works": [
+                      {
+                        "id": 30,
+                        "value": "Historia Ottonis"
+                      },
+                      {
+                        "id": 31,
+                        "value": "Antapodosis"
+                      }
+                    ],
+                    "work": [
+                      {
+                        "id": 30,
+                        "value": "Historia Ottonis"
+                      },
+                      {
+                        "id": 31,
+                        "value": "Antapodosis"
+                      }
+                    ]
+                  }
+                ],
+                "bibliography": [],
+                "source_text": [],
+                "genre": [
+                  {
+                    "id": 4,
+                    "genre": "Chronik",
+                    "hit_id": "hit_genres__4",
+                    "main_genre": [
+                      {
+                        "id": 5,
+                        "genre": "Historiographie",
+                        "hit_id": "hit_genres__5",
+                        "main_genre": [],
+                        "Last modified by": {
+                          "id": 36,
+                          "name": "Ivana Dobcheva"
+                        },
+                        "Last modified": "2024-07-11"
+                      }
+                    ],
+                    "Last modified by": {
+                      "id": 36,
+                      "name": "Ivana Dobcheva"
+                    },
+                    "Last modified": "2024-07-11"
+                  }
+                ],
+                "note_source": "",
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-07-05"
+              }
+            ],
+            "title_note": "",
+            "bibl": [],
+            "final_rubric": "",
+            "siglum": "",
+            "hit_id": "hit_ms_items__48",
+            "filiation": null,
+            "locus_grp": "1r-8r",
+            "hands_role": [
+              {
+                "id": 127,
+                "hit_id": "hit_hands_role__127",
+                "hand": [
+                  {
+                    "id": 100,
+                    "value": "BSB, Clm. 6383_H. 1"
+                  }
+                ],
+                "ms_item": [
+                  {
+                    "id": 48,
+                    "value": "clm_6388__48"
+                  }
+                ],
+                "role": [
+                  {
+                    "id": 14758,
+                    "value": "Schreiber",
+                    "color": "darker-red"
+                  }
+                ],
+                "locus": "",
+                "text": [
+                  {
+                    "ids": {
+                      "database_table_3489": 30,
+                      "database_table_3491": 48
+                    },
+                    "value": "Historia Ottonis"
+                  }
+                ],
+                "locus_text": [
+                  {
+                    "id": 48,
+                    "value": "1r-8r"
+                  }
+                ],
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2025-02-11",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
+                    "color": "green"
+                  }
+                ],
+                "function": [],
+                "scribe_type": []
+              },
+              {
+                "id": 167,
+                "hit_id": "hit_hands_role__167",
+                "hand": [
+                  {
+                    "id": 102,
+                    "value": "BSB, Clm. 6388_H. 1"
+                  }
+                ],
+                "ms_item": [
+                  {
+                    "id": 48,
+                    "value": "clm_6388__48"
+                  },
+                  {
+                    "id": 50,
+                    "value": "clm_6388__50"
+                  }
+                ],
+                "role": [
+                  {
+                    "id": 14758,
+                    "value": "Schreiber",
+                    "color": "darker-red"
+                  }
+                ],
+                "locus": "1r-8r, 86rv",
+                "text": [
+                  {
+                    "ids": {
+                      "database_table_3489": 30,
+                      "database_table_3491": 48
+                    },
+                    "value": "Historia Ottonis"
+                  },
+                  {
+                    "ids": {
+                      "database_table_3489": 32,
+                      "database_table_3491": 50
+                    },
+                    "value": "Chronica cum Adalberti continuatione"
+                  }
+                ],
+                "locus_text": [
+                  {
+                    "id": 48,
+                    "value": "1r-8r"
+                  },
+                  {
+                    "id": 50,
+                    "value": "86r-198r"
+                  }
+                ],
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2025-02-21",
+                "locus_layout": [],
+                "function": [
+                  {
+                    "id": 18156,
+                    "value": "inhaltlich",
+                    "color": "dark-blue"
+                  }
+                ],
+                "scribe_type": []
+              }
+            ],
+            "cod_unit": [
+              {
+                "id": 6,
+                "label": [
+                  {
+                    "ids": {
+                      "database_table_3487": 12,
+                      "database_table_3488": 4
+                    },
+                    "value": "BSB, Clm. 6388, cod. unit 1"
+                  }
+                ],
+                "notes": "",
+                "hit_id": "hit_cod_unit__6",
+                "locus": "1r-7v",
+                "manuscript": [
+                  {
+                    "id": 12,
+                    "value": "BSB, Clm. 6388"
+                  }
+                ],
+                "quire": [],
+                "number": "1",
+                "Last modified by": {
+                  "id": 86,
+                  "name": "Leon Pürstinger"
+                },
+                "Last modified": "2025-01-22",
+                "orig_date": [],
+                "quires_number": "1-2",
+                "heigth": "250",
+                "lines_number": "25-30",
+                "decorations": "",
+                "codicological_reworking": [],
+                "basic_structure": [],
+                "written_width": "133",
+                "written_height": "195-215",
+                "width": "180",
+                "columns": [],
+                "cod_unit_placed": [
+                  {
+                    "id": 8,
+                    "hit_id": "hit_codunit_place__8",
+                    "cod_unit": [
+                      {
+                        "id": 6,
+                        "value": "BSB, Clm. 6388, cod. unit 1"
+                      }
+                    ],
+                    "place": [
+                      {
+                        "id": 4,
+                        "name": "Freising",
+                        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+                        "hit_id": "hit_place__4",
+                        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+                        "country": [
+                          {
+                            "id": 2,
+                            "name": "Deutschland",
+                            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+                            "hit_id": "hit_place__2",
+                            "wikidata_url": "",
+                            "country": [],
+                            "Last modified by": {
+                              "id": 36,
+                              "name": "Ivana Dobcheva"
+                            },
+                            "Last modified": "2024-07-11"
+                          }
+                        ],
+                        "Last modified by": {
+                          "id": 36,
+                          "name": "Ivana Dobcheva"
+                        },
+                        "Last modified": "2024-07-11"
+                      }
+                    ],
+                    "from": [],
+                    "type": [
+                      {
+                        "id": 18150,
+                        "value": "orig",
+                        "color": "deep-dark-orange"
+                      }
+                    ],
+                    "till": [
+                      {
+                        "id": 62,
+                        "value": "1802-1803"
+                      }
+                    ],
+                    "ms": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6388"
+                      }
+                    ],
+                    "authority": [],
+                    "page": "",
+                    "uncertain_from": false,
+                    "uncertain_till": false,
+                    "uncertain_place": false
+                  }
+                ],
+                "prov_place": [
+                  {
+                    "ids": {
+                      "database_table_3492": 4,
+                      "database_table_3840": 8
+                    },
+                    "value": "Freising"
+                  }
+                ]
+              },
+              {
+                "id": 8,
+                "label": [
+                  {
+                    "ids": {
+                      "database_table_3487": 12,
+                      "database_table_3488": 4
+                    },
+                    "value": "BSB, Clm. 6388, cod. unit 2"
+                  }
+                ],
+                "notes": "",
+                "hit_id": "hit_cod_unit__8",
+                "locus": "8r-85v",
+                "manuscript": [
+                  {
+                    "id": 12,
+                    "value": "BSB, Clm. 6388"
+                  }
+                ],
+                "quire": [],
+                "number": "2",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2025-01-22",
+                "orig_date": [],
+                "quires_number": "3-12",
+                "heigth": "250",
+                "lines_number": "22",
+                "decorations": "",
+                "codicological_reworking": [],
+                "basic_structure": [],
+                "written_width": "110-120",
+                "written_height": "180",
+                "width": "180",
+                "columns": [],
+                "cod_unit_placed": [
+                  {
+                    "id": 9,
+                    "hit_id": "hit_codunit_place__9",
+                    "cod_unit": [
+                      {
+                        "id": 8,
+                        "value": "BSB, Clm. 6388, cod. unit 2"
+                      }
+                    ],
+                    "place": [
+                      {
+                        "id": 9,
+                        "name": "Norditalien",
+                        "geonames_url": "",
+                        "hit_id": "hit_place__9",
+                        "wikidata_url": "",
+                        "country": [
+                          {
+                            "id": 13,
+                            "name": "Italien",
+                            "geonames_url": "https://www.geonames.org/3175395/italian-republic.html",
+                            "hit_id": "hit_place__13",
+                            "wikidata_url": "",
+                            "country": [],
+                            "Last modified by": {
+                              "id": 36,
+                              "name": "Ivana Dobcheva"
+                            },
+                            "Last modified": "2024-07-11"
+                          }
+                        ],
+                        "Last modified by": {
+                          "id": 36,
+                          "name": "Ivana Dobcheva"
+                        },
+                        "Last modified": "2024-07-11"
+                      }
+                    ],
+                    "from": [],
+                    "type": [
+                      {
+                        "id": 18150,
+                        "value": "orig",
+                        "color": "deep-dark-orange"
+                      }
+                    ],
+                    "till": [],
+                    "ms": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6388"
+                      }
+                    ],
+                    "authority": [],
+                    "page": "",
+                    "uncertain_from": false,
+                    "uncertain_till": false,
+                    "uncertain_place": false
+                  },
+                  {
+                    "id": 26,
+                    "hit_id": "hit_codunit_place__26",
+                    "cod_unit": [
+                      {
+                        "id": 8,
+                        "value": "BSB, Clm. 6388, cod. unit 2"
+                      }
+                    ],
+                    "place": [
+                      {
+                        "id": 4,
+                        "name": "Freising",
+                        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+                        "hit_id": "hit_place__4",
+                        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+                        "country": [
+                          {
+                            "id": 2,
+                            "name": "Deutschland",
+                            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+                            "hit_id": "hit_place__2",
+                            "wikidata_url": "",
+                            "country": [],
+                            "Last modified by": {
+                              "id": 36,
+                              "name": "Ivana Dobcheva"
+                            },
+                            "Last modified": "2024-07-11"
+                          }
+                        ],
+                        "Last modified by": {
+                          "id": 36,
+                          "name": "Ivana Dobcheva"
+                        },
+                        "Last modified": "2024-07-11"
+                      }
+                    ],
+                    "from": [
+                      {
+                        "id": 36,
+                        "value": "12. Jh."
+                      }
+                    ],
+                    "type": [
+                      {
+                        "id": 18151,
+                        "value": "prov",
+                        "color": "darker-blue"
+                      }
+                    ],
+                    "till": [
+                      {
+                        "id": 62,
+                        "value": "1802-1803"
+                      }
+                    ],
+                    "ms": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6388"
+                      }
+                    ],
+                    "authority": [],
+                    "page": "",
+                    "uncertain_from": true,
+                    "uncertain_till": false,
+                    "uncertain_place": false
+                  }
+                ],
+                "prov_place": [
+                  {
+                    "ids": {
+                      "database_table_3492": 4,
+                      "database_table_3840": 26
+                    },
+                    "value": "Freising"
+                  },
+                  {
+                    "ids": {
+                      "database_table_3492": 9,
+                      "database_table_3840": 9
+                    },
+                    "value": "Norditalien"
+                  }
+                ]
+              }
+            ],
+            "Last modified": "2025-01-15",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "note": null,
+            "hand": [
+              {
+                "ids": {
+                  "database_table_3487": 11,
+                  "database_table_3488": 4
+                },
+                "value": "BSB, Clm. 6383_H. 1"
+              },
+              {
+                "ids": {
+                  "database_table_3487": 12,
+                  "database_table_3488": 4
+                },
+                "value": "BSB, Clm. 6388_H. 1"
+              }
+            ],
+            "decoration": [],
+            "facs_url": "",
+            "form": [],
+            "form_note": null,
+            "column": [],
+            "role": null,
+            "commented_msitem": [],
+            "function_role": []
+          },
+          {
+            "id": 50,
+            "label": [
+              {
+                "id": 12,
+                "value": "clm_6388__50"
+              }
+            ],
+            "incipit": "",
+            "explicit": "‖ in quem suas iniurias … Marsana iuxta Mosam",
+            "rubric": "Incipit praefatio operis subsequentis chronicae uidelicet quam Regino quondam abbas Prumiensis composuit",
+            "title_work": [
+              {
+                "id": 32,
+                "title": "Chronica cum Adalberti continuatione",
+                "gnd_url": "https://d-nb.info/gnd/4227884-3",
+                "note": "",
+                "hit_id": "hit_works__32",
+                "author": [
+                  {
+                    "id": 11,
+                    "name": "Regino, Prüm",
+                    "gnd_url": "https://d-nb.info/gnd/118598996",
+                    "hit_id": "hit_people__11",
+                    "role": [
+                      {
+                        "id": 14753,
+                        "value": "author",
+                        "color": "dark-green"
+                      }
+                    ],
+                    "Last modified by": {
+                      "id": 87,
+                      "name": "Ksenia Borisova"
+                    },
+                    "Last modified": "2024-07-12",
+                    "works": [
+                      {
+                        "id": 32,
+                        "value": "Chronica cum Adalberti continuatione"
+                      }
+                    ],
+                    "work": [
+                      {
+                        "id": 32,
+                        "value": "Chronica cum Adalberti continuatione"
+                      }
+                    ]
+                  }
+                ],
+                "bibliography": [],
+                "source_text": [],
+                "genre": [
+                  {
+                    "id": 4,
+                    "genre": "Chronik",
+                    "hit_id": "hit_genres__4",
+                    "main_genre": [
+                      {
+                        "id": 5,
+                        "genre": "Historiographie",
+                        "hit_id": "hit_genres__5",
+                        "main_genre": [],
+                        "Last modified by": {
+                          "id": 36,
+                          "name": "Ivana Dobcheva"
+                        },
+                        "Last modified": "2024-07-11"
+                      }
+                    ],
+                    "Last modified by": {
+                      "id": 36,
+                      "name": "Ivana Dobcheva"
+                    },
+                    "Last modified": "2024-07-11"
+                  }
+                ],
+                "note_source": "",
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-07-05"
+              }
+            ],
+            "title_note": "",
+            "bibl": [],
+            "final_rubric": "",
+            "siglum": "",
+            "hit_id": "hit_ms_items__50",
+            "filiation": null,
+            "locus_grp": "86r-198r",
+            "hands_role": [
+              {
+                "id": 167,
+                "hit_id": "hit_hands_role__167",
+                "hand": [
+                  {
+                    "id": 102,
+                    "value": "BSB, Clm. 6388_H. 1"
+                  }
+                ],
+                "ms_item": [
+                  {
+                    "id": 48,
+                    "value": "clm_6388__48"
+                  },
+                  {
+                    "id": 50,
+                    "value": "clm_6388__50"
+                  }
+                ],
+                "role": [
+                  {
+                    "id": 14758,
+                    "value": "Schreiber",
+                    "color": "darker-red"
+                  }
+                ],
+                "locus": "1r-8r, 86rv",
+                "text": [
+                  {
+                    "ids": {
+                      "database_table_3489": 30,
+                      "database_table_3491": 48
+                    },
+                    "value": "Historia Ottonis"
+                  },
+                  {
+                    "ids": {
+                      "database_table_3489": 32,
+                      "database_table_3491": 50
+                    },
+                    "value": "Chronica cum Adalberti continuatione"
+                  }
+                ],
+                "locus_text": [
+                  {
+                    "id": 48,
+                    "value": "1r-8r"
+                  },
+                  {
+                    "id": 50,
+                    "value": "86r-198r"
+                  }
+                ],
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2025-02-21",
+                "locus_layout": [],
+                "function": [
+                  {
+                    "id": 18156,
+                    "value": "inhaltlich",
+                    "color": "dark-blue"
+                  }
+                ],
+                "scribe_type": []
+              },
+              {
+                "id": 170,
+                "hit_id": "hit_hands_role__170",
+                "hand": [
+                  {
+                    "id": 141,
+                    "value": "BSB, Clm. 6388_H. 4"
+                  }
+                ],
+                "ms_item": [
+                  {
+                    "id": 50,
+                    "value": "clm_6388__50"
+                  }
+                ],
+                "role": [
+                  {
+                    "id": 14758,
+                    "value": "Schreiber",
+                    "color": "darker-red"
+                  }
+                ],
+                "locus": "",
+                "text": [
+                  {
+                    "ids": {
+                      "database_table_3489": 32,
+                      "database_table_3491": 50
+                    },
+                    "value": "Chronica cum Adalberti continuatione"
+                  }
+                ],
+                "locus_text": [
+                  {
+                    "id": 50,
+                    "value": "86r-198r"
+                  }
+                ],
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2025-02-27",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
+                    "color": "green"
+                  }
+                ],
+                "function": [],
+                "scribe_type": []
+              }
+            ],
+            "cod_unit": [
+              {
+                "id": 9,
+                "label": [
+                  {
+                    "ids": {
+                      "database_table_3487": 12,
+                      "database_table_3488": 4
+                    },
+                    "value": "BSB, Clm. 6388, cod. unit 3"
+                  }
+                ],
+                "notes": "",
+                "hit_id": "hit_cod_unit__9",
+                "locus": "86r-198v",
+                "manuscript": [
+                  {
+                    "id": 12,
+                    "value": "BSB, Clm. 6388"
+                  }
+                ],
+                "quire": [],
+                "number": "3",
+                "Last modified by": {
+                  "id": 86,
+                  "name": "Leon Pürstinger"
+                },
+                "Last modified": "2025-01-22",
+                "orig_date": [],
+                "quires_number": "13-26",
+                "heigth": "250",
+                "lines_number": "25-30",
+                "decorations": "",
+                "codicological_reworking": [],
+                "basic_structure": [],
+                "written_width": "133",
+                "written_height": "195-215",
+                "width": "180",
+                "columns": [],
+                "cod_unit_placed": [
+                  {
+                    "id": 10,
+                    "hit_id": "hit_codunit_place__10",
+                    "cod_unit": [
+                      {
+                        "id": 9,
+                        "value": "BSB, Clm. 6388, cod. unit 3"
+                      }
+                    ],
+                    "place": [
+                      {
+                        "id": 4,
+                        "name": "Freising",
+                        "geonames_url": "https://www.geonames.org/2925034/freising.html",
+                        "hit_id": "hit_place__4",
+                        "wikidata_url": "https://de.wikipedia.org/wiki/Freising",
+                        "country": [
+                          {
+                            "id": 2,
+                            "name": "Deutschland",
+                            "geonames_url": "https://www.geonames.org/2921044/federal-republic-of-germany.html",
+                            "hit_id": "hit_place__2",
+                            "wikidata_url": "",
+                            "country": [],
+                            "Last modified by": {
+                              "id": 36,
+                              "name": "Ivana Dobcheva"
+                            },
+                            "Last modified": "2024-07-11"
+                          }
+                        ],
+                        "Last modified by": {
+                          "id": 36,
+                          "name": "Ivana Dobcheva"
+                        },
+                        "Last modified": "2024-07-11"
+                      }
+                    ],
+                    "from": [],
+                    "type": [
+                      {
+                        "id": 18150,
+                        "value": "orig",
+                        "color": "deep-dark-orange"
+                      }
+                    ],
+                    "till": [
+                      {
+                        "id": 62,
+                        "value": "1802-1803"
+                      }
+                    ],
+                    "ms": [
+                      {
+                        "id": 4,
+                        "value": "BSB, Clm. 6388"
+                      }
+                    ],
+                    "authority": [],
+                    "page": "",
+                    "uncertain_from": false,
+                    "uncertain_till": false,
+                    "uncertain_place": false
+                  }
+                ],
+                "prov_place": [
+                  {
+                    "ids": {
+                      "database_table_3492": 4,
+                      "database_table_3840": 10
+                    },
+                    "value": "Freising"
+                  }
+                ]
+              }
+            ],
+            "Last modified": "2025-01-15",
+            "Last modified by": {
+              "id": 87,
+              "name": "Ksenia Borisova"
+            },
+            "note": null,
+            "hand": [
+              {
+                "ids": {
+                  "database_table_3487": 12,
+                  "database_table_3488": 4
+                },
+                "value": "BSB, Clm. 6388_H. 1"
+              },
+              {
+                "ids": {
+                  "database_table_3487": 12,
+                  "database_table_3488": 4
+                },
+                "value": "BSB, Clm. 6388_H. 4"
+              }
+            ],
+            "decoration": [],
+            "facs_url": "",
+            "form": [],
+            "form_note": null,
+            "column": [],
+            "role": null,
+            "commented_msitem": [],
+            "function_role": []
+          }
+        ],
+        "role": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ],
+        "locus": "1r-8r, 86rv",
+        "text": [
+          {
+            "ids": {
+              "database_table_3489": 30,
+              "database_table_3491": 48
+            },
+            "value": "Historia Ottonis"
+          },
+          {
+            "ids": {
+              "database_table_3489": 32,
+              "database_table_3491": 50
+            },
+            "value": "Chronica cum Adalberti continuatione"
+          }
+        ],
+        "locus_text": [
+          {
+            "id": 48,
+            "value": "1r-8r"
+          },
+          {
+            "id": 50,
+            "value": "86r-198r"
+          }
+        ],
+        "Last modified by": {
+          "id": 87,
+          "name": "Ksenia Borisova"
+        },
+        "Last modified": "2025-02-21",
+        "locus_layout": [],
+        "function": [
+          {
+            "id": 18156,
+            "value": "inhaltlich",
+            "color": "dark-blue"
+          }
+        ],
+        "scribe_type": []
+      }
+    ],
+    "note": "Das Stratum wurde in Freising Ende 10 J. geschaffen. Zu diesem Zeitpunkt wurden die drei Kodikologischen Einheiten der Clm. 6388 schon zusammen gebunden. Das Stratum bringt dazu die Texte von Historia Ottonis (Liutprand von Cremona) und von Praefatio zu der Chronica cum Adalberti continuatione (Regino von Prüm). Danach fehlen drei Lagen.",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-03-11",
+    "strata_filiation": [],
+    "note_filiation": "",
+    "view_label": "Clm. 6388, Stratum 3",
+    "prev": {
+      "id": "hit_strata__3",
+      "label": "Clm. 6326, Stratum 1"
+    },
+    "next": {
+      "id": "hit_strata__32",
+      "label": "Clm. 6388, Stratum 4"
+    }
+  },
+  "32": {
+    "id": 32,
+    "label": [
+      {
+        "id": 12,
+        "value": "Clm. 6388, Stratum 4"
+      }
+    ],
+    "character": [
+      {
+        "id": 14761,
+        "value": "base",
+        "color": "yellow"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 12,
+        "value": "BSB, Clm. 6388"
+      }
+    ],
+    "number": "4",
+    "hit_id": "hit_strata__32",
+    "hand_role": [
+      {
         "id": 170,
         "hit_id": "hit_hands_role__170",
         "hand": [
@@ -70584,30 +71604,30 @@
         "scribe_type": []
       }
     ],
-    "note": "",
+    "note": "Stratum wurde als eine Fortsetzung des Stratums 3 geschaffen und stellt den Text von Chronica cum Adalberti continuatione (Regino von Prüm) dar. Die ersten drei Lagen wurden verloren.",
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-02-27",
+    "Last modified": "2025-03-11",
     "strata_filiation": [],
     "note_filiation": "",
-    "view_label": "Clm. 6388, Stratum 3",
+    "view_label": "Clm. 6388, Stratum 4",
     "prev": {
-      "id": "hit_strata__3",
-      "label": "Clm. 6326, Stratum 1"
+      "id": "hit_strata__31",
+      "label": "Clm. 6388, Stratum 3"
     },
     "next": {
-      "id": "hit_strata__32",
-      "label": "Clm. 6388, Stratum 4"
+      "id": "hit_strata__33",
+      "label": "Clm. 6388, Stratum 5"
     }
   },
-  "32": {
-    "id": 32,
+  "33": {
+    "id": 33,
     "label": [
       {
         "id": 12,
-        "value": "Clm. 6388, Stratum 4"
+        "value": "Clm. 6388, Stratum 5"
       }
     ],
     "character": [
@@ -70623,8 +71643,8 @@
         "value": "BSB, Clm. 6388"
       }
     ],
-    "number": "4",
-    "hit_id": "hit_strata__32",
+    "number": "5",
+    "hit_id": "hit_strata__33",
     "hand_role": [
       {
         "id": 173,
@@ -70868,7 +71888,7 @@
                 ]
               }
             ],
-            "Last modified": "2024-09-27",
+            "Last modified": "2025-03-11",
             "Last modified by": {
               "id": 87,
               "name": "Ksenia Borisova"
@@ -70888,9 +71908,24 @@
             "form": [],
             "form_note": null,
             "column": [],
-            "role": null,
-            "commented_msitem": [],
-            "function_role": []
+            "role": {
+              "id": 18159,
+              "value": "Erweiterung",
+              "color": "pink"
+            },
+            "commented_msitem": [
+              {
+                "id": 50,
+                "value": "clm_6388__50"
+              }
+            ],
+            "function_role": [
+              {
+                "id": 18161,
+                "value": "inhaltsbezogen",
+                "color": "dark-red"
+              }
+            ]
           }
         ],
         "role": [
@@ -70944,18 +71979,18 @@
         ]
       }
     ],
-    "note": "",
+    "note": "Das Stratum besteht aus einem am Rand hinzugefügten Catalogus regum et imperatorum Frisingensis.",
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-02-27",
+    "Last modified": "2025-03-11",
     "strata_filiation": [],
     "note_filiation": "",
-    "view_label": "Clm. 6388, Stratum 4",
+    "view_label": "Clm. 6388, Stratum 5",
     "prev": {
-      "id": "hit_strata__31",
-      "label": "Clm. 6388, Stratum 3"
+      "id": "hit_strata__32",
+      "label": "Clm. 6388, Stratum 4"
     },
     "next": {
       "id": "hit_strata__4",

@@ -200,7 +200,23 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "note_filiation": null
+    "note_filiation": null,
+    "cod_units": [
+      {
+        "id": 3,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
+      }
+    ]
   },
   "2": {
     "id": 2,
@@ -342,7 +358,35 @@
     },
     "Last modified": "2024-10-15",
     "strata_filiation": [],
-    "note_filiation": null
+    "note_filiation": null,
+    "cod_units": [
+      {
+        "id": 3,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 5,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 2",
+        "order": "3.50000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
+      },
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 2"
+      }
+    ]
   },
   "4": {
     "id": 4,
@@ -445,7 +489,23 @@
     },
     "Last modified": "2024-10-15",
     "strata_filiation": [],
-    "note_filiation": null
+    "note_filiation": null,
+    "cod_units": [
+      {
+        "id": 5,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 2",
+        "order": "3.50000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 2"
+      }
+    ]
   },
   "5": {
     "id": 5,
@@ -534,7 +594,23 @@
     },
     "Last modified": "2024-09-19",
     "strata_filiation": [],
-    "note_filiation": null
+    "note_filiation": null,
+    "cod_units": [
+      {
+        "id": 11,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 3",
+        "order": "3.66666666666666651864"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 3"
+      }
+    ]
   },
   "10": {
     "id": 10,
@@ -639,7 +715,9 @@
     },
     "Last modified": "2024-09-19",
     "strata_filiation": [],
-    "note_filiation": null
+    "note_filiation": null,
+    "cod_units": [],
+    "cod_unit": []
   },
   "11": {
     "id": 11,
@@ -728,7 +806,9 @@
     },
     "Last modified": "2024-09-19",
     "strata_filiation": [],
-    "note_filiation": null
+    "note_filiation": null,
+    "cod_units": [],
+    "cod_unit": []
   },
   "3": {
     "id": 3,
@@ -969,7 +1049,9 @@
     },
     "Last modified": "2024-10-23",
     "strata_filiation": [],
-    "note_filiation": null
+    "note_filiation": null,
+    "cod_units": [],
+    "cod_unit": []
   },
   "6": {
     "id": 6,
@@ -1127,7 +1209,9 @@
     },
     "Last modified": "2024-09-18",
     "strata_filiation": [],
-    "note_filiation": null
+    "note_filiation": null,
+    "cod_units": [],
+    "cod_unit": []
   },
   "7": {
     "id": 7,
@@ -1194,7 +1278,9 @@
     },
     "Last modified": "2024-09-18",
     "strata_filiation": [],
-    "note_filiation": null
+    "note_filiation": null,
+    "cod_units": [],
+    "cod_unit": []
   },
   "8": {
     "id": 8,
@@ -1315,7 +1401,9 @@
     },
     "Last modified": "2024-10-15",
     "strata_filiation": [],
-    "note_filiation": null
+    "note_filiation": null,
+    "cod_units": [],
+    "cod_unit": []
   },
   "9": {
     "id": 9,
@@ -1398,7 +1486,9 @@
     },
     "Last modified": "2024-10-15",
     "strata_filiation": [],
-    "note_filiation": null
+    "note_filiation": null,
+    "cod_units": [],
+    "cod_unit": []
   },
   "14": {
     "id": 14,
@@ -1476,7 +1566,9 @@
     },
     "Last modified": "2024-10-15",
     "strata_filiation": [],
-    "note_filiation": null
+    "note_filiation": null,
+    "cod_units": [],
+    "cod_unit": []
   },
   "12": {
     "id": 12,
@@ -1624,7 +1716,9 @@
     },
     "Last modified": "2024-10-15",
     "strata_filiation": [],
-    "note_filiation": null
+    "note_filiation": null,
+    "cod_units": [],
+    "cod_unit": []
   },
   "13": {
     "id": 13,
@@ -1667,7 +1761,9 @@
     },
     "Last modified": "2024-10-15",
     "strata_filiation": [],
-    "note_filiation": null
+    "note_filiation": null,
+    "cod_units": [],
+    "cod_unit": []
   },
   "15": {
     "id": 15,
@@ -1729,7 +1825,9 @@
     },
     "Last modified": "2024-10-15",
     "strata_filiation": [],
-    "note_filiation": null
+    "note_filiation": null,
+    "cod_units": [],
+    "cod_unit": []
   },
   "16": {
     "id": 16,
@@ -1807,7 +1905,9 @@
     },
     "Last modified": "2024-10-15",
     "strata_filiation": [],
-    "note_filiation": null
+    "note_filiation": null,
+    "cod_units": [],
+    "cod_unit": []
   },
   "17": {
     "id": 17,
@@ -1874,7 +1974,9 @@
     },
     "Last modified": "2024-09-18",
     "strata_filiation": [],
-    "note_filiation": null
+    "note_filiation": null,
+    "cod_units": [],
+    "cod_unit": []
   },
   "18": {
     "id": 18,
@@ -1947,7 +2049,9 @@
     },
     "Last modified": "2024-10-23",
     "strata_filiation": [],
-    "note_filiation": null
+    "note_filiation": null,
+    "cod_units": [],
+    "cod_unit": []
   },
   "19": {
     "id": 19,
@@ -2042,7 +2146,9 @@
     },
     "Last modified": "2024-10-23",
     "strata_filiation": [],
-    "note_filiation": null
+    "note_filiation": null,
+    "cod_units": [],
+    "cod_unit": []
   },
   "20": {
     "id": 20,
@@ -2104,7 +2210,9 @@
     },
     "Last modified": "2024-10-23",
     "strata_filiation": [],
-    "note_filiation": null
+    "note_filiation": null,
+    "cod_units": [],
+    "cod_unit": []
   },
   "21": {
     "id": 21,
@@ -2166,7 +2274,9 @@
     },
     "Last modified": "2024-10-23",
     "strata_filiation": [],
-    "note_filiation": null
+    "note_filiation": null,
+    "cod_units": [],
+    "cod_unit": []
   },
   "22": {
     "id": 22,
@@ -2203,7 +2313,9 @@
     },
     "Last modified": "2024-11-13",
     "strata_filiation": [],
-    "note_filiation": null
+    "note_filiation": null,
+    "cod_units": [],
+    "cod_unit": []
   },
   "23": {
     "id": 23,
@@ -2240,7 +2352,9 @@
     },
     "Last modified": "2025-02-12",
     "strata_filiation": [],
-    "note_filiation": null
+    "note_filiation": null,
+    "cod_units": [],
+    "cod_unit": []
   },
   "24": {
     "id": 24,
@@ -2277,7 +2391,9 @@
     },
     "Last modified": "2025-03-11",
     "strata_filiation": [],
-    "note_filiation": null
+    "note_filiation": null,
+    "cod_units": [],
+    "cod_unit": []
   },
   "25": {
     "id": 25,
@@ -2515,7 +2631,9 @@
     },
     "Last modified": "2025-02-20",
     "strata_filiation": [],
-    "note_filiation": null
+    "note_filiation": null,
+    "cod_units": [],
+    "cod_unit": []
   },
   "26": {
     "id": 26,
@@ -2625,7 +2743,9 @@
     },
     "Last modified": "2025-02-20",
     "strata_filiation": [],
-    "note_filiation": ""
+    "note_filiation": "",
+    "cod_units": [],
+    "cod_unit": []
   },
   "27": {
     "id": 27,
@@ -2709,7 +2829,9 @@
     },
     "Last modified": "2025-02-20",
     "strata_filiation": [],
-    "note_filiation": ""
+    "note_filiation": "",
+    "cod_units": [],
+    "cod_unit": []
   },
   "28": {
     "id": 28,
@@ -2771,7 +2893,9 @@
     },
     "Last modified": "2025-02-20",
     "strata_filiation": [],
-    "note_filiation": ""
+    "note_filiation": "",
+    "cod_units": [],
+    "cod_unit": []
   },
   "31": {
     "id": 31,
@@ -2844,7 +2968,9 @@
     },
     "Last modified": "2025-03-11",
     "strata_filiation": [],
-    "note_filiation": ""
+    "note_filiation": "",
+    "cod_units": [],
+    "cod_unit": []
   },
   "32": {
     "id": 32,
@@ -2906,7 +3032,9 @@
     },
     "Last modified": "2025-03-11",
     "strata_filiation": [],
-    "note_filiation": ""
+    "note_filiation": "",
+    "cod_units": [],
+    "cod_unit": []
   },
   "33": {
     "id": 33,
@@ -2968,6 +3096,8 @@
     },
     "Last modified": "2025-03-11",
     "strata_filiation": [],
-    "note_filiation": ""
+    "note_filiation": "",
+    "cod_units": [],
+    "cod_unit": []
   }
 }

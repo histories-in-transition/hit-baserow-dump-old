@@ -82,9 +82,7 @@
     ],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "68": {
     "id": 68,
@@ -158,9 +156,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "10": {
     "id": 10,
@@ -234,23 +230,11 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": {
-      "id": 18159,
-      "value": "Erweiterung",
-      "color": "pink"
-    },
     "commented_msitem": [
       {
         "id": 5,
         "value": "cod_m_p_th_f_46__5",
         "order": "4.00000000000000000000"
-      }
-    ],
-    "function_role": [
-      {
-        "id": 18161,
-        "value": "inhaltsbezogen",
-        "color": "dark-red"
       }
     ]
   },
@@ -344,9 +328,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "12": {
     "id": 12,
@@ -444,23 +426,11 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": {
-      "id": 18159,
-      "value": "Erweiterung",
-      "color": "pink"
-    },
     "commented_msitem": [
       {
         "id": 5,
         "value": "cod_m_p_th_f_46__5",
         "order": "4.00000000000000000000"
-      }
-    ],
-    "function_role": [
-      {
-        "id": 18170,
-        "value": "inhaltlich",
-        "color": "pink"
       }
     ]
   },
@@ -536,9 +506,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "13": {
     "id": 13,
@@ -612,9 +580,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "8": {
     "id": 8,
@@ -718,9 +684,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "11": {
     "id": 11,
@@ -818,9 +782,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "69": {
     "id": 69,
@@ -894,23 +856,11 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": {
-      "id": 18159,
-      "value": "Erweiterung",
-      "color": "pink"
-    },
     "commented_msitem": [
       {
         "id": 11,
         "value": "cod_m_p_th_f_46__11",
         "order": "7.00000000000000000000"
-      }
-    ],
-    "function_role": [
-      {
-        "id": 18170,
-        "value": "inhaltlich",
-        "color": "pink"
       }
     ]
   },
@@ -980,9 +930,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "15": {
     "id": 15,
@@ -1050,9 +998,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "72": {
     "id": 72,
@@ -1120,9 +1066,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "73": {
     "id": 73,
@@ -1190,9 +1134,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "75": {
     "id": 75,
@@ -1266,9 +1208,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "77": {
     "id": 77,
@@ -1342,9 +1282,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "17": {
     "id": 17,
@@ -1442,9 +1380,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "18": {
     "id": 18,
@@ -1498,15 +1434,15 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "Last modified": "2024-12-18",
+    "Last modified": "2025-03-12",
     "Created on": "2024-07-08",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
     },
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "note": null,
     "hand": [
@@ -1536,9 +1472,7 @@
         "color": "light-red"
       }
     ],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "19": {
     "id": 19,
@@ -1618,9 +1552,7 @@
         "color": "light-red"
       }
     ],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "20": {
     "id": 20,
@@ -1700,9 +1632,7 @@
         "color": "light-red"
       }
     ],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "21": {
     "id": 21,
@@ -1794,9 +1724,7 @@
         "color": "light-red"
       }
     ],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "22": {
     "id": 22,
@@ -1876,9 +1804,7 @@
         "color": "light-red"
       }
     ],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "23": {
     "id": 23,
@@ -1958,9 +1884,7 @@
         "color": "light-red"
       }
     ],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "79": {
     "id": 79,
@@ -2040,9 +1964,7 @@
         "color": "light-red"
       }
     ],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "24": {
     "id": 24,
@@ -2122,9 +2044,7 @@
         "color": "light-red"
       }
     ],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "25": {
     "id": 25,
@@ -2204,9 +2124,7 @@
         "color": "light-red"
       }
     ],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "26": {
     "id": 26,
@@ -2280,9 +2198,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "27": {
     "id": 27,
@@ -2356,9 +2272,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "28": {
     "id": 28,
@@ -2444,9 +2358,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "29": {
     "id": 29,
@@ -2520,9 +2432,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "30": {
     "id": 30,
@@ -2582,9 +2492,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "31": {
     "id": 31,
@@ -2669,9 +2577,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "32": {
     "id": 32,
@@ -2742,9 +2648,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "33": {
     "id": 33,
@@ -2842,9 +2746,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "34": {
     "id": 34,
@@ -2930,9 +2832,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "35": {
     "id": 35,
@@ -3018,9 +2918,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "36": {
     "id": 36,
@@ -3106,9 +3004,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "37": {
     "id": 37,
@@ -3194,9 +3090,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "38": {
     "id": 38,
@@ -3282,9 +3176,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "39": {
     "id": 39,
@@ -3370,9 +3262,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "40": {
     "id": 40,
@@ -3458,9 +3348,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "41": {
     "id": 41,
@@ -3546,9 +3434,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "42": {
     "id": 42,
@@ -3634,9 +3520,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "43": {
     "id": 43,
@@ -3722,9 +3606,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "44": {
     "id": 44,
@@ -3798,9 +3680,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "45": {
     "id": 45,
@@ -3860,9 +3740,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "46": {
     "id": 46,
@@ -3936,9 +3814,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "47": {
     "id": 47,
@@ -4012,9 +3888,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "48": {
     "id": 48,
@@ -4105,9 +3979,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "49": {
     "id": 49,
@@ -4205,9 +4077,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "50": {
     "id": 50,
@@ -4293,9 +4163,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "51": {
     "id": 51,
@@ -4369,23 +4237,11 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": {
-      "id": 18159,
-      "value": "Erweiterung",
-      "color": "pink"
-    },
     "commented_msitem": [
       {
         "id": 50,
         "value": "clm_6388__50",
         "order": "43.00000000000000000000"
-      }
-    ],
-    "function_role": [
-      {
-        "id": 18161,
-        "value": "inhaltsbezogen",
-        "color": "dark-red"
       }
     ]
   },
@@ -4490,9 +4346,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "53": {
     "id": 53,
@@ -4552,9 +4406,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "54": {
     "id": 54,
@@ -4614,9 +4466,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "55": {
     "id": 55,
@@ -4676,9 +4526,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "56": {
     "id": 56,
@@ -4738,9 +4586,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "57": {
     "id": 57,
@@ -4800,9 +4646,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "58": {
     "id": 58,
@@ -4862,9 +4706,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "59": {
     "id": 59,
@@ -4924,9 +4766,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "60": {
     "id": 60,
@@ -4986,9 +4826,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "61": {
     "id": 61,
@@ -5048,9 +4886,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "62": {
     "id": 62,
@@ -5110,9 +4946,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "63": {
     "id": 63,
@@ -5172,9 +5006,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "64": {
     "id": 64,
@@ -5234,9 +5066,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "65": {
     "id": 65,
@@ -5296,9 +5126,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "66": {
     "id": 66,
@@ -5358,9 +5186,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "67": {
     "id": 67,
@@ -5414,9 +5240,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "76": {
     "id": 76,
@@ -5470,9 +5294,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "80": {
     "id": 80,
@@ -5582,9 +5404,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "81": {
     "id": 81,
@@ -5658,9 +5478,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "82": {
     "id": 82,
@@ -5734,9 +5552,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "83": {
     "id": 83,
@@ -5810,9 +5626,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "84": {
     "id": 84,
@@ -5872,9 +5686,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "85": {
     "id": 85,
@@ -5948,9 +5760,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "86": {
     "id": 86,
@@ -6024,9 +5834,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "87": {
     "id": 87,
@@ -6080,9 +5888,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "88": {
     "id": 88,
@@ -6130,9 +5936,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "89": {
     "id": 89,
@@ -6180,9 +5984,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "114": {
     "id": 114,
@@ -6268,9 +6070,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "90": {
     "id": 90,
@@ -6344,9 +6144,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "100": {
     "id": 100,
@@ -6420,9 +6218,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "93": {
     "id": 93,
@@ -6496,9 +6292,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "92": {
     "id": 92,
@@ -6572,9 +6366,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "102": {
     "id": 102,
@@ -6648,9 +6440,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "121": {
     "id": 121,
@@ -6736,9 +6526,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "103": {
     "id": 103,
@@ -6812,9 +6600,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "104": {
     "id": 104,
@@ -6912,9 +6698,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "110": {
     "id": 110,
@@ -6988,9 +6772,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "112": {
     "id": 112,
@@ -7064,9 +6846,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "113": {
     "id": 113,
@@ -7176,9 +6956,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "116": {
     "id": 116,
@@ -7252,9 +7030,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "117": {
     "id": 117,
@@ -7328,9 +7104,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "119": {
     "id": 119,
@@ -7428,9 +7202,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "120": {
     "id": 120,
@@ -7504,9 +7276,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "139": {
     "id": 139,
@@ -7580,9 +7350,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "179": {
     "id": 179,
@@ -7656,9 +7424,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "122": {
     "id": 122,
@@ -7718,9 +7484,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "123": {
     "id": 123,
@@ -7806,9 +7570,7 @@
     ],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "124": {
     "id": 124,
@@ -7882,11 +7644,6 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": {
-      "id": 18159,
-      "value": "Erweiterung",
-      "color": "pink"
-    },
     "commented_msitem": [
       {
         "id": 123,
@@ -7897,13 +7654,6 @@
         "id": 125,
         "value": "cod_2090__125",
         "order": "112.00000000000000000000"
-      }
-    ],
-    "function_role": [
-      {
-        "id": 18162,
-        "value": "konzeptbezogen",
-        "color": "dark-brown"
       }
     ]
   },
@@ -7979,23 +7729,11 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": {
-      "id": 18159,
-      "value": "Erweiterung",
-      "color": "pink"
-    },
     "commented_msitem": [
       {
         "id": 123,
         "value": "cod_2090__123",
         "order": "110.00000000000000000000"
-      }
-    ],
-    "function_role": [
-      {
-        "id": 18161,
-        "value": "inhaltsbezogen",
-        "color": "dark-red"
       }
     ]
   },
@@ -8051,9 +7789,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "140": {
     "id": 140,
@@ -8113,9 +7849,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "127": {
     "id": 127,
@@ -8201,9 +7935,7 @@
     ],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "128": {
     "id": 128,
@@ -8295,9 +8027,7 @@
     ],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "141": {
     "id": 141,
@@ -8371,9 +8101,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "129": {
     "id": 129,
@@ -8447,11 +8175,6 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": {
-      "id": 18159,
-      "value": "Erweiterung",
-      "color": "pink"
-    },
     "commented_msitem": [
       {
         "id": 127,
@@ -8462,13 +8185,6 @@
         "id": 128,
         "value": "cod_2090__128",
         "order": "115.00000000000000000000"
-      }
-    ],
-    "function_role": [
-      {
-        "id": 18162,
-        "value": "konzeptbezogen",
-        "color": "dark-brown"
       }
     ]
   },
@@ -8574,9 +8290,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "131": {
     "id": 131,
@@ -8836,9 +8550,7 @@
     ],
     "form_note": "Die Spaltenanzahl der dreiseitigen Annalen nimmt kontinuierlich ab. Die erste Seite der Annalen enthählt drei rot gerahmte Spalten. Die zweite Seite weist zwei Spalten auf und die letzte nur mehr eine.",
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "133": {
     "id": 133,
@@ -8898,9 +8610,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "134": {
     "id": 134,
@@ -8960,9 +8670,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "132": {
     "id": 132,
@@ -9036,9 +8744,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "135": {
     "id": 135,
@@ -9112,9 +8818,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "137": {
     "id": 137,
@@ -9200,9 +8904,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "144": {
     "id": 144,
@@ -9262,9 +8964,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "138": {
     "id": 138,
@@ -9404,9 +9104,7 @@
     ],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "160": {
     "id": 160,
@@ -9460,9 +9158,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "145": {
     "id": 145,
@@ -9530,9 +9226,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "146": {
     "id": 146,
@@ -9600,9 +9294,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "187": {
     "id": 187,
@@ -9656,9 +9348,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "188": {
     "id": 188,
@@ -9712,9 +9402,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "186": {
     "id": 186,
@@ -9768,9 +9456,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "147": {
     "id": 147,
@@ -9830,9 +9516,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "148": {
     "id": 148,
@@ -9923,9 +9607,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "161": {
     "id": 161,
@@ -9979,9 +9661,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "180": {
     "id": 180,
@@ -10035,9 +9715,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "149": {
     "id": 149,
@@ -10091,9 +9769,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "164": {
     "id": 164,
@@ -10147,9 +9823,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "166": {
     "id": 166,
@@ -10203,9 +9877,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "167": {
     "id": 167,
@@ -10259,9 +9931,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "183": {
     "id": 183,
@@ -10315,9 +9985,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "150": {
     "id": 150,
@@ -10371,9 +10039,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "151": {
     "id": 151,
@@ -10427,9 +10093,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "169": {
     "id": 169,
@@ -10483,9 +10147,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "170": {
     "id": 170,
@@ -10539,9 +10201,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "184": {
     "id": 184,
@@ -10595,9 +10255,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "171": {
     "id": 171,
@@ -10651,9 +10309,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "185": {
     "id": 185,
@@ -10707,9 +10363,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "172": {
     "id": 172,
@@ -10763,9 +10417,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "177": {
     "id": 177,
@@ -10819,9 +10471,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "173": {
     "id": 173,
@@ -10875,9 +10525,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "178": {
     "id": 178,
@@ -10931,9 +10579,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "174": {
     "id": 174,
@@ -10987,9 +10633,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "143": {
     "id": 143,
@@ -11057,9 +10701,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "152": {
     "id": 152,
@@ -11113,9 +10755,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "153": {
     "id": 153,
@@ -11169,9 +10809,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "175": {
     "id": 175,
@@ -11225,9 +10863,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "176": {
     "id": 176,
@@ -11281,9 +10917,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "191": {
     "id": 191,
@@ -11416,9 +11050,7 @@
         "color": "dark-yellow"
       }
     ],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "194": {
     "id": 194,
@@ -11504,9 +11136,7 @@
         "color": "dark-yellow"
       }
     ],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "196": {
     "id": 196,
@@ -11592,9 +11222,7 @@
         "color": "dark-yellow"
       }
     ],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "192": {
     "id": 192,
@@ -11698,9 +11326,7 @@
         "color": "light-red"
       }
     ],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "193": {
     "id": 193,
@@ -11816,9 +11442,7 @@
         "color": "light-red"
       }
     ],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "198": {
     "id": 198,
@@ -11890,9 +11514,7 @@
         "color": "dark-yellow"
       }
     ],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "201": {
     "id": 201,
@@ -11966,23 +11588,11 @@
     "form": [],
     "form_note": "",
     "column": [],
-    "role": {
-      "id": 18160,
-      "value": "Kommentar",
-      "color": "light-orange"
-    },
     "commented_msitem": [
       {
         "id": 11,
         "value": "cod_m_p_th_f_46__11",
         "order": "7.00000000000000000000"
-      }
-    ],
-    "function_role": [
-      {
-        "id": 18161,
-        "value": "inhaltsbezogen",
-        "color": "dark-red"
       }
     ]
   },
@@ -12058,23 +11668,11 @@
     "form": [],
     "form_note": "",
     "column": [],
-    "role": {
-      "id": 18159,
-      "value": "Erweiterung",
-      "color": "pink"
-    },
     "commented_msitem": [
       {
         "id": 5,
         "value": "cod_m_p_th_f_46__5",
         "order": "4.00000000000000000000"
-      }
-    ],
-    "function_role": [
-      {
-        "id": 18170,
-        "value": "inhaltlich",
-        "color": "pink"
       }
     ]
   },
@@ -12156,9 +11754,7 @@
         "color": "light-red"
       }
     ],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "204": {
     "id": 204,
@@ -12195,9 +11791,7 @@
     "form": [],
     "form_note": "",
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "205": {
     "id": 205,
@@ -12277,9 +11871,7 @@
         "color": "light-red"
       }
     ],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "206": {
     "id": 206,
@@ -12365,9 +11957,7 @@
         "color": "dark-yellow"
       }
     ],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "207": {
     "id": 207,
@@ -12453,9 +12043,7 @@
         "color": "dark-yellow"
       }
     ],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "208": {
     "id": 208,
@@ -12541,9 +12129,7 @@
         "color": "dark-yellow"
       }
     ],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "209": {
     "id": 209,
@@ -12617,9 +12203,7 @@
     "form": [],
     "form_note": "",
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "210": {
     "id": 210,
@@ -12656,9 +12240,7 @@
     "form": [],
     "form_note": "",
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "211": {
     "id": 211,
@@ -12732,9 +12314,7 @@
     "form": [],
     "form_note": "",
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "212": {
     "id": 212,
@@ -12771,9 +12351,7 @@
     "form": [],
     "form_note": "",
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   },
   "213": {
     "id": 213,
@@ -12859,8 +12437,6 @@
     "form": [],
     "form_note": "",
     "column": [],
-    "role": null,
-    "commented_msitem": [],
-    "function_role": []
+    "commented_msitem": []
   }
 }

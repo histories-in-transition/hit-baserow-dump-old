@@ -1342,10 +1342,10 @@
         ],
         "number": "1",
         "Last modified by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2025-01-22",
+        "Last modified": "2025-03-12",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
@@ -1497,6 +1497,16 @@
             },
             "value": "Saint-Amand-les-Eaux"
           }
+        ],
+        "strata": [
+          {
+            "id": 1,
+            "value": "Cod. M. p. th. f. 46, Stratum 1"
+          },
+          {
+            "id": 2,
+            "value": "Cod. M. p. th. f. 46, Stratum 2"
+          }
         ]
       }
     ],
@@ -1531,9 +1541,7 @@
     ],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_m_p_th_f_46__6",
     "prev": {
       "id": "hit_ms_items__59",
@@ -2887,10 +2895,10 @@
         ],
         "number": "1",
         "Last modified by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2025-01-22",
+        "Last modified": "2025-03-12",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
@@ -3042,6 +3050,16 @@
             },
             "value": "Saint-Amand-les-Eaux"
           }
+        ],
+        "strata": [
+          {
+            "id": 1,
+            "value": "Cod. M. p. th. f. 46, Stratum 1"
+          },
+          {
+            "id": 2,
+            "value": "Cod. M. p. th. f. 46, Stratum 2"
+          }
         ]
       }
     ],
@@ -3065,9 +3083,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_m_p_th_f_46__68",
     "prev": {
       "id": "hit_ms_items__67",
@@ -4500,10 +4516,10 @@
         ],
         "number": "1",
         "Last modified by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2025-01-22",
+        "Last modified": "2025-03-12",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
@@ -4655,6 +4671,16 @@
             },
             "value": "Saint-Amand-les-Eaux"
           }
+        ],
+        "strata": [
+          {
+            "id": 1,
+            "value": "Cod. M. p. th. f. 46, Stratum 1"
+          },
+          {
+            "id": 2,
+            "value": "Cod. M. p. th. f. 46, Stratum 2"
+          }
         ]
       }
     ],
@@ -4678,22 +4704,10 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": {
-      "id": 18159,
-      "value": "Erweiterung",
-      "color": "pink"
-    },
     "commented_msitem": [
       {
         "id": 5,
         "value": "cod_m_p_th_f_46__5"
-      }
-    ],
-    "function_role": [
-      {
-        "id": 18161,
-        "value": "inhaltsbezogen",
-        "color": "dark-red"
       }
     ],
     "view_label": "cod_m_p_th_f_46__10",
@@ -6161,10 +6175,10 @@
         ],
         "number": "1",
         "Last modified by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2025-01-22",
+        "Last modified": "2025-03-12",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
@@ -6316,6 +6330,16 @@
             },
             "value": "Saint-Amand-les-Eaux"
           }
+        ],
+        "strata": [
+          {
+            "id": 1,
+            "value": "Cod. M. p. th. f. 46, Stratum 1"
+          },
+          {
+            "id": 2,
+            "value": "Cod. M. p. th. f. 46, Stratum 2"
+          }
         ]
       }
     ],
@@ -6352,9 +6376,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_m_p_th_f_46__5",
     "prev": {
       "id": "hit_ms_items__49",
@@ -7862,10 +7884,10 @@
         ],
         "number": "1",
         "Last modified by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2025-01-22",
+        "Last modified": "2025-03-12",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
@@ -8017,6 +8039,16 @@
             },
             "value": "Saint-Amand-les-Eaux"
           }
+        ],
+        "strata": [
+          {
+            "id": 1,
+            "value": "Cod. M. p. th. f. 46, Stratum 1"
+          },
+          {
+            "id": 2,
+            "value": "Cod. M. p. th. f. 46, Stratum 2"
+          }
         ]
       }
     ],
@@ -8054,22 +8086,10 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": {
-      "id": 18159,
-      "value": "Erweiterung",
-      "color": "pink"
-    },
     "commented_msitem": [
       {
         "id": 5,
         "value": "cod_m_p_th_f_46__5"
-      }
-    ],
-    "function_role": [
-      {
-        "id": 18170,
-        "value": "inhaltlich",
-        "color": "pink"
       }
     ],
     "view_label": "cod_m_p_th_f_46__12",
@@ -9472,10 +9492,10 @@
         ],
         "number": "1",
         "Last modified by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2025-01-22",
+        "Last modified": "2025-03-12",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
@@ -9627,6 +9647,16 @@
             },
             "value": "Saint-Amand-les-Eaux"
           }
+        ],
+        "strata": [
+          {
+            "id": 1,
+            "value": "Cod. M. p. th. f. 46, Stratum 1"
+          },
+          {
+            "id": 2,
+            "value": "Cod. M. p. th. f. 46, Stratum 2"
+          }
         ]
       }
     ],
@@ -9650,9 +9680,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_m_p_th_f_46__7",
     "prev": {
       "id": "hit_ms_items__69",
@@ -11066,10 +11094,10 @@
         ],
         "number": "1",
         "Last modified by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2025-01-22",
+        "Last modified": "2025-03-12",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
@@ -11221,6 +11249,16 @@
             },
             "value": "Saint-Amand-les-Eaux"
           }
+        ],
+        "strata": [
+          {
+            "id": 1,
+            "value": "Cod. M. p. th. f. 46, Stratum 1"
+          },
+          {
+            "id": 2,
+            "value": "Cod. M. p. th. f. 46, Stratum 2"
+          }
         ]
       }
     ],
@@ -11244,9 +11282,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_m_p_th_f_46__13",
     "prev": {
       "id": "hit_ms_items__129",
@@ -12779,10 +12815,10 @@
         ],
         "number": "1",
         "Last modified by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2025-01-22",
+        "Last modified": "2025-03-12",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
@@ -12934,6 +12970,16 @@
             },
             "value": "Saint-Amand-les-Eaux"
           }
+        ],
+        "strata": [
+          {
+            "id": 1,
+            "value": "Cod. M. p. th. f. 46, Stratum 1"
+          },
+          {
+            "id": 2,
+            "value": "Cod. M. p. th. f. 46, Stratum 2"
+          }
         ]
       }
     ],
@@ -12977,9 +13023,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_m_p_th_f_46__8",
     "prev": {
       "id": "hit_ms_items__79",
@@ -14061,10 +14105,10 @@
         ],
         "number": "2",
         "Last modified by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2025-01-22",
+        "Last modified": "2025-03-12",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
@@ -14145,6 +14189,16 @@
             },
             "value": "Salzburg"
           }
+        ],
+        "strata": [
+          {
+            "id": 2,
+            "value": "Cod. M. p. th. f. 46, Stratum 2"
+          },
+          {
+            "id": 4,
+            "value": "Cod. M. p. th. f. 46, Stratum 3"
+          }
         ]
       }
     ],
@@ -14182,9 +14236,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_m_p_th_f_46__11",
     "prev": {
       "id": "hit_ms_items__104",
@@ -15155,10 +15207,10 @@
         ],
         "number": "2",
         "Last modified by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2025-01-22",
+        "Last modified": "2025-03-12",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
@@ -15239,6 +15291,16 @@
             },
             "value": "Salzburg"
           }
+        ],
+        "strata": [
+          {
+            "id": 2,
+            "value": "Cod. M. p. th. f. 46, Stratum 2"
+          },
+          {
+            "id": 4,
+            "value": "Cod. M. p. th. f. 46, Stratum 3"
+          }
         ]
       }
     ],
@@ -15262,22 +15324,10 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": {
-      "id": 18159,
-      "value": "Erweiterung",
-      "color": "pink"
-    },
     "commented_msitem": [
       {
         "id": 11,
         "value": "cod_m_p_th_f_46__11"
-      }
-    ],
-    "function_role": [
-      {
-        "id": 18170,
-        "value": "inhaltlich",
-        "color": "pink"
       }
     ],
     "view_label": "cod_m_p_th_f_46__69",
@@ -15673,9 +15723,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_m_p_th_f_46__14",
     "prev": {
       "id": "hit_ms_items__139",
@@ -16108,9 +16156,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_m_p_th_f_46__15",
     "prev": {
       "id": "hit_ms_items__149",
@@ -16504,9 +16550,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_m_p_th_f_46__72",
     "prev": {
       "id": "hit_ms_items__7",
@@ -16900,9 +16944,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_m_p_th_f_46__73",
     "prev": {
       "id": "hit_ms_items__72",
@@ -17425,10 +17467,10 @@
         ],
         "number": "3",
         "Last modified by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2025-01-22",
+        "Last modified": "2025-03-12",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
@@ -17441,7 +17483,13 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": [
+          {
+            "id": 5,
+            "value": "Cod. M. p. th. f. 46, Stratum 4"
+          }
+        ]
       }
     ],
     "Last modified": "2024-07-11",
@@ -17464,9 +17512,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_m_p_th_f_46__75",
     "prev": {
       "id": "hit_ms_items__73",
@@ -17997,10 +18043,10 @@
         ],
         "number": "3",
         "Last modified by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2025-01-22",
+        "Last modified": "2025-03-12",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
@@ -18013,7 +18059,13 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": [
+          {
+            "id": 5,
+            "value": "Cod. M. p. th. f. 46, Stratum 4"
+          }
+        ]
       }
     ],
     "Last modified": "2024-07-11",
@@ -18036,9 +18088,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_m_p_th_f_46__77",
     "prev": {
       "id": "hit_ms_items__76",
@@ -20195,7 +20245,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-28",
@@ -20232,9 +20283,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6308__17",
     "prev": {
       "id": "hit_ms_items__169",
@@ -22311,13 +22360,14 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
-    "Last modified": "2024-12-18",
+    "Last modified": "2025-03-12",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "note": null,
     "hand": [
@@ -22347,9 +22397,7 @@
         "color": "light-red"
       }
     ],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6326__18",
     "prev": {
       "id": "hit_ms_items__179",
@@ -24342,7 +24390,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-12-18",
@@ -24371,9 +24420,7 @@
         "color": "light-red"
       }
     ],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6326__19",
     "prev": {
       "id": "hit_ms_items__188",
@@ -26366,7 +26413,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-12-18",
@@ -26395,9 +26443,7 @@
         "color": "light-red"
       }
     ],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6326__20",
     "prev": {
       "id": "hit_ms_items__198",
@@ -28523,7 +28569,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-12-18",
@@ -28559,9 +28606,7 @@
         "color": "light-red"
       }
     ],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6326__21",
     "prev": {
       "id": "hit_ms_items__209",
@@ -30598,7 +30643,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-12-18",
@@ -30627,9 +30673,7 @@
         "color": "light-red"
       }
     ],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6326__22",
     "prev": {
       "id": "hit_ms_items__213",
@@ -32622,7 +32666,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-12-18",
@@ -32651,9 +32696,7 @@
         "color": "light-red"
       }
     ],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6326__23",
     "prev": {
       "id": "hit_ms_items__22",
@@ -34690,7 +34733,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-12-18",
@@ -34719,9 +34763,7 @@
         "color": "light-red"
       }
     ],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6326__79",
     "prev": {
       "id": "hit_ms_items__77",
@@ -36702,7 +36744,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-12-18",
@@ -36731,9 +36774,7 @@
         "color": "light-red"
       }
     ],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6326__24",
     "prev": {
       "id": "hit_ms_items__23",
@@ -38671,7 +38712,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-12-18",
@@ -38700,9 +38742,7 @@
         "color": "light-red"
       }
     ],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6326__25",
     "prev": {
       "id": "hit_ms_items__24",
@@ -39360,7 +39400,8 @@
             },
             "value": "Südbayern"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-11-18",
@@ -39383,9 +39424,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6375__26",
     "prev": {
       "id": "hit_ms_items__25",
@@ -40043,7 +40082,8 @@
             },
             "value": "Südbayern"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-27",
@@ -40066,9 +40106,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6375__27",
     "prev": {
       "id": "hit_ms_items__26",
@@ -40829,7 +40867,8 @@
             },
             "value": "Südbayern"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-11-18",
@@ -40859,9 +40898,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6375__28",
     "prev": {
       "id": "hit_ms_items__27",
@@ -41519,7 +41556,8 @@
             },
             "value": "Südbayern"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-27",
@@ -41542,9 +41580,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6375__29",
     "prev": {
       "id": "hit_ms_items__28",
@@ -42039,7 +42075,8 @@
             },
             "value": "Regensburg"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-10-23",
@@ -42054,9 +42091,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6376__30",
     "prev": {
       "id": "hit_ms_items__29",
@@ -42552,7 +42587,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-11-18",
@@ -42586,9 +42622,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6380__31",
     "prev": {
       "id": "hit_ms_items__30",
@@ -42993,7 +43027,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-11-18",
@@ -43019,9 +43054,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6380__32",
     "prev": {
       "id": "hit_ms_items__31",
@@ -43844,7 +43877,8 @@
             },
             "value": "Benediktbeuern"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-11-18",
@@ -43881,9 +43915,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6381__33",
     "prev": {
       "id": "hit_ms_items__32",
@@ -44798,7 +44830,8 @@
             },
             "value": "Reims"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-27",
@@ -44828,9 +44861,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6382__34",
     "prev": {
       "id": "hit_ms_items__33",
@@ -45808,7 +45839,8 @@
             },
             "value": "Reims"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-27",
@@ -45838,9 +45870,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6382__35",
     "prev": {
       "id": "hit_ms_items__34",
@@ -46786,7 +46816,8 @@
             },
             "value": "Reims"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-27",
@@ -46816,9 +46847,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6382__36",
     "prev": {
       "id": "hit_ms_items__35",
@@ -47772,7 +47801,8 @@
             },
             "value": "Reims"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-27",
@@ -47802,9 +47832,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6382__37",
     "prev": {
       "id": "hit_ms_items__36",
@@ -48782,7 +48810,8 @@
             },
             "value": "Reims"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-27",
@@ -48812,9 +48841,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6382__38",
     "prev": {
       "id": "hit_ms_items__37",
@@ -49729,7 +49756,8 @@
             },
             "value": "Reims"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-27",
@@ -49759,9 +49787,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6382__39",
     "prev": {
       "id": "hit_ms_items__38",
@@ -50707,7 +50733,8 @@
             },
             "value": "Reims"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-27",
@@ -50737,9 +50764,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6382__40",
     "prev": {
       "id": "hit_ms_items__39",
@@ -51717,7 +51742,8 @@
             },
             "value": "Reims"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-27",
@@ -51747,9 +51773,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6382__41",
     "prev": {
       "id": "hit_ms_items__40",
@@ -52664,7 +52688,8 @@
             },
             "value": "Reims"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-27",
@@ -52694,9 +52719,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6382__42",
     "prev": {
       "id": "hit_ms_items__41",
@@ -53599,7 +53622,8 @@
             },
             "value": "Reims"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-27",
@@ -53629,9 +53653,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6382__43",
     "prev": {
       "id": "hit_ms_items__42",
@@ -54161,7 +54183,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-27",
@@ -54184,9 +54207,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6382__44",
     "prev": {
       "id": "hit_ms_items__43",
@@ -54680,7 +54701,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-27",
@@ -54695,9 +54717,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6382__45",
     "prev": {
       "id": "hit_ms_items__44",
@@ -55239,7 +55259,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-27",
@@ -55262,9 +55283,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6382__46",
     "prev": {
       "id": "hit_ms_items__45",
@@ -55819,7 +55838,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-27",
@@ -55842,9 +55862,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6383__47",
     "prev": {
       "id": "hit_ms_items__46",
@@ -56438,7 +56456,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       },
       {
         "id": 8,
@@ -56623,7 +56642,8 @@
             },
             "value": "Norditalien"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2025-01-15",
@@ -56653,9 +56673,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6388__48",
     "prev": {
       "id": "hit_ms_items__47",
@@ -57384,7 +57402,8 @@
             },
             "value": "Norditalien"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-27",
@@ -57421,9 +57440,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6388__49",
     "prev": {
       "id": "hit_ms_items__48",
@@ -58009,7 +58026,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2025-01-15",
@@ -58039,9 +58057,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6388__50",
     "prev": {
       "id": "hit_ms_items__5",
@@ -58528,7 +58544,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2025-03-11",
@@ -58551,22 +58568,10 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": {
-      "id": 18159,
-      "value": "Erweiterung",
-      "color": "pink"
-    },
     "commented_msitem": [
       {
         "id": 50,
         "value": "clm_6388__50"
-      }
-    ],
-    "function_role": [
-      {
-        "id": 18161,
-        "value": "inhaltsbezogen",
-        "color": "dark-red"
       }
     ],
     "view_label": "clm_6388__51",
@@ -59206,7 +59211,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-27",
@@ -59243,9 +59249,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6391__52",
     "prev": {
       "id": "hit_ms_items__51",
@@ -59688,7 +59692,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-28",
@@ -59703,9 +59708,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6392__53",
     "prev": {
       "id": "hit_ms_items__52",
@@ -60147,7 +60150,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-28",
@@ -60162,9 +60166,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6392__54",
     "prev": {
       "id": "hit_ms_items__53",
@@ -60620,7 +60622,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-28",
@@ -60635,9 +60638,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6393__55",
     "prev": {
       "id": "hit_ms_items__54",
@@ -61097,7 +61098,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-28",
@@ -61112,9 +61114,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6393__56",
     "prev": {
       "id": "hit_ms_items__55",
@@ -61574,7 +61574,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-28",
@@ -61589,9 +61590,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6393__57",
     "prev": {
       "id": "hit_ms_items__56",
@@ -62051,7 +62050,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-28",
@@ -62066,9 +62066,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6393__58",
     "prev": {
       "id": "hit_ms_items__57",
@@ -62504,7 +62502,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-28",
@@ -62519,9 +62518,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6393__59",
     "prev": {
       "id": "hit_ms_items__58",
@@ -63080,7 +63077,8 @@
             },
             "value": "Bistum Eichstätt"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-28",
@@ -63095,9 +63093,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_1086__60",
     "prev": {
       "id": "hit_ms_items__6",
@@ -63664,7 +63660,8 @@
             },
             "value": "Bistum Eichstätt"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-28",
@@ -63679,9 +63676,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_1086__61",
     "prev": {
       "id": "hit_ms_items__60",
@@ -64248,7 +64243,8 @@
             },
             "value": "Bistum Eichstätt"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-28",
@@ -64263,9 +64259,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_1086__62",
     "prev": {
       "id": "hit_ms_items__61",
@@ -64823,7 +64817,8 @@
             },
             "value": "Bodensee"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-28",
@@ -64838,9 +64833,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6341__63",
     "prev": {
       "id": "hit_ms_items__62",
@@ -65390,7 +65383,8 @@
             },
             "value": "Bodensee"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-28",
@@ -65405,9 +65399,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6341__64",
     "prev": {
       "id": "hit_ms_items__63",
@@ -65957,7 +65949,8 @@
             },
             "value": "Bodensee"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-28",
@@ -65972,9 +65965,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6341__65",
     "prev": {
       "id": "hit_ms_items__64",
@@ -66451,7 +66442,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-28",
@@ -66466,9 +66458,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6341__66",
     "prev": {
       "id": "hit_ms_items__65",
@@ -66870,7 +66860,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-11-13",
@@ -66885,9 +66876,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6383__67",
     "prev": {
       "id": "hit_ms_items__66",
@@ -68621,7 +68610,8 @@
             },
             "value": "Freising"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2024-07-11",
@@ -68636,9 +68626,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm_6326__76",
     "prev": {
       "id": "hit_ms_items__75",
@@ -69343,7 +69331,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-07-15",
@@ -69387,9 +69376,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_366__80",
     "prev": {
       "id": "hit_ms_items__8",
@@ -70743,10 +70730,10 @@
         ],
         "number": "1",
         "Last modified by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2025-01-22",
+        "Last modified": "2025-03-12",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
@@ -70898,6 +70885,16 @@
             },
             "value": "Saint-Amand-les-Eaux"
           }
+        ],
+        "strata": [
+          {
+            "id": 1,
+            "value": "Cod. M. p. th. f. 46, Stratum 1"
+          },
+          {
+            "id": 2,
+            "value": "Cod. M. p. th. f. 46, Stratum 2"
+          }
         ]
       }
     ],
@@ -70921,9 +70918,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_m_p_th_f_46__81",
     "prev": {
       "id": "hit_ms_items__80",
@@ -72277,10 +72272,10 @@
         ],
         "number": "1",
         "Last modified by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2025-01-22",
+        "Last modified": "2025-03-12",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
@@ -72432,6 +72427,16 @@
             },
             "value": "Saint-Amand-les-Eaux"
           }
+        ],
+        "strata": [
+          {
+            "id": 1,
+            "value": "Cod. M. p. th. f. 46, Stratum 1"
+          },
+          {
+            "id": 2,
+            "value": "Cod. M. p. th. f. 46, Stratum 2"
+          }
         ]
       }
     ],
@@ -72455,9 +72460,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_m_p_th_f_46__82",
     "prev": {
       "id": "hit_ms_items__81",
@@ -73349,10 +73352,10 @@
         ],
         "number": "2",
         "Last modified by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2025-01-22",
+        "Last modified": "2025-03-12",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
@@ -73433,6 +73436,16 @@
             },
             "value": "Salzburg"
           }
+        ],
+        "strata": [
+          {
+            "id": 2,
+            "value": "Cod. M. p. th. f. 46, Stratum 2"
+          },
+          {
+            "id": 4,
+            "value": "Cod. M. p. th. f. 46, Stratum 3"
+          }
         ]
       }
     ],
@@ -73456,9 +73469,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_m_p_th_f_46__83",
     "prev": {
       "id": "hit_ms_items__82",
@@ -74307,10 +74318,10 @@
         ],
         "number": "2",
         "Last modified by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2025-01-22",
+        "Last modified": "2025-03-12",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
@@ -74391,6 +74402,16 @@
             },
             "value": "Salzburg"
           }
+        ],
+        "strata": [
+          {
+            "id": 2,
+            "value": "Cod. M. p. th. f. 46, Stratum 2"
+          },
+          {
+            "id": 4,
+            "value": "Cod. M. p. th. f. 46, Stratum 3"
+          }
         ]
       }
     ],
@@ -74406,9 +74427,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_m_p_th_f_46__84",
     "prev": {
       "id": "hit_ms_items__83",
@@ -75805,10 +75824,10 @@
         ],
         "number": "1",
         "Last modified by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2025-01-22",
+        "Last modified": "2025-03-12",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
@@ -75960,6 +75979,16 @@
             },
             "value": "Saint-Amand-les-Eaux"
           }
+        ],
+        "strata": [
+          {
+            "id": 1,
+            "value": "Cod. M. p. th. f. 46, Stratum 1"
+          },
+          {
+            "id": 2,
+            "value": "Cod. M. p. th. f. 46, Stratum 2"
+          }
         ]
       }
     ],
@@ -75983,9 +76012,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_m_p_th_f_46__85",
     "prev": {
       "id": "hit_ms_items__84",
@@ -76347,7 +76374,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-07-18",
@@ -76370,9 +76398,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_366__86",
     "prev": {
       "id": "hit_ms_items__85",
@@ -76782,9 +76808,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm 27305__87",
     "prev": {
       "id": "hit_ms_items__86",
@@ -77121,9 +77145,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm 27305__88",
     "prev": {
       "id": "hit_ms_items__87",
@@ -77460,9 +77482,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "clm 27305__89",
     "prev": {
       "id": "hit_ms_items__88",
@@ -79395,7 +79415,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-07-25",
@@ -79425,9 +79446,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_387__114",
     "prev": {
       "id": "hit_ms_items__113",
@@ -81302,7 +81321,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-07-23",
@@ -81325,9 +81345,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_387__90",
     "prev": {
       "id": "hit_ms_items__89",
@@ -83195,7 +83213,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-06",
@@ -83218,9 +83237,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_387__100",
     "prev": {
       "id": "hit_ms_items__10",
@@ -85101,7 +85118,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-07-23",
@@ -85124,9 +85142,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_387__93",
     "prev": {
       "id": "hit_ms_items__92",
@@ -87007,7 +87023,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-07-23",
@@ -87030,9 +87047,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_387__92",
     "prev": {
       "id": "hit_ms_items__90",
@@ -88925,7 +88940,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-07-23",
@@ -88948,9 +88964,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_387__102",
     "prev": {
       "id": "hit_ms_items__100",
@@ -90872,7 +90886,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-07-25",
@@ -90902,9 +90917,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_387__121",
     "prev": {
       "id": "hit_ms_items__120",
@@ -92791,7 +92804,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-07-23",
@@ -92814,9 +92828,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_387__103",
     "prev": {
       "id": "hit_ms_items__102",
@@ -94796,7 +94808,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-06",
@@ -94833,9 +94846,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_387__104",
     "prev": {
       "id": "hit_ms_items__103",
@@ -96710,7 +96721,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-07-25",
@@ -96733,9 +96745,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_387__110",
     "prev": {
       "id": "hit_ms_items__11",
@@ -98598,7 +98608,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-07-23",
@@ -98621,9 +98632,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_387__112",
     "prev": {
       "id": "hit_ms_items__110",
@@ -100680,7 +100689,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-07-23",
@@ -100724,9 +100734,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_387__113",
     "prev": {
       "id": "hit_ms_items__112",
@@ -102589,7 +102597,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-07-25",
@@ -102612,9 +102621,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_387__116",
     "prev": {
       "id": "hit_ms_items__114",
@@ -104532,7 +104539,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-07-25",
@@ -104555,9 +104563,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_387__117",
     "prev": {
       "id": "hit_ms_items__116",
@@ -105117,7 +105123,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-07-26",
@@ -105154,9 +105161,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__119",
     "prev": {
       "id": "hit_ms_items__117",
@@ -107019,7 +107024,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-07-25",
@@ -107042,9 +107048,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_387__120",
     "prev": {
       "id": "hit_ms_items__12",
@@ -107476,7 +107480,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-07-30",
@@ -107499,9 +107504,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__139",
     "prev": {
       "id": "hit_ms_items__138",
@@ -107921,7 +107924,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-10-03",
@@ -107944,9 +107948,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__179",
     "prev": {
       "id": "hit_ms_items__178",
@@ -108318,7 +108320,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-06",
@@ -108333,9 +108336,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__122",
     "prev": {
       "id": "hit_ms_items__121",
@@ -108779,7 +108780,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-12-11",
@@ -108814,9 +108816,7 @@
     ],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__123",
     "prev": {
       "id": "hit_ms_items__122",
@@ -109291,7 +109291,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2025-01-30",
@@ -109314,11 +109315,6 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": {
-      "id": 18159,
-      "value": "Erweiterung",
-      "color": "pink"
-    },
     "commented_msitem": [
       {
         "id": 123,
@@ -109327,13 +109323,6 @@
       {
         "id": 125,
         "value": "cod_2090__125"
-      }
-    ],
-    "function_role": [
-      {
-        "id": 18162,
-        "value": "konzeptbezogen",
-        "color": "dark-brown"
       }
     ],
     "view_label": "cod_2090__124",
@@ -109830,7 +109819,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2025-01-30",
@@ -109853,22 +109843,10 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": {
-      "id": 18159,
-      "value": "Erweiterung",
-      "color": "pink"
-    },
     "commented_msitem": [
       {
         "id": 123,
         "value": "cod_2090__123"
-      }
-    ],
-    "function_role": [
-      {
-        "id": 18161,
-        "value": "inhaltsbezogen",
-        "color": "dark-red"
       }
     ],
     "view_label": "cod_2090__125",
@@ -110224,7 +110202,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-07-28",
@@ -110239,9 +110218,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__126",
     "prev": {
       "id": "hit_ms_items__125",
@@ -110613,7 +110590,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-08-02",
@@ -110628,9 +110606,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__140",
     "prev": {
       "id": "hit_ms_items__14",
@@ -111062,7 +111038,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-12-11",
@@ -111097,9 +111074,7 @@
     ],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__127",
     "prev": {
       "id": "hit_ms_items__126",
@@ -111590,7 +111565,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-12-11",
@@ -111626,9 +111602,7 @@
     ],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__128",
     "prev": {
       "id": "hit_ms_items__127",
@@ -112072,7 +112046,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-08-05",
@@ -112095,9 +112070,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__141",
     "prev": {
       "id": "hit_ms_items__140",
@@ -112541,7 +112514,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2025-01-30",
@@ -112564,11 +112538,6 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": {
-      "id": 18159,
-      "value": "Erweiterung",
-      "color": "pink"
-    },
     "commented_msitem": [
       {
         "id": 127,
@@ -112577,13 +112546,6 @@
       {
         "id": 128,
         "value": "cod_2090__128"
-      }
-    ],
-    "function_role": [
-      {
-        "id": 18162,
-        "value": "konzeptbezogen",
-        "color": "dark-brown"
       }
     ],
     "view_label": "cod_2090__129",
@@ -113104,7 +113066,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-05",
@@ -113147,9 +113110,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__130",
     "prev": {
       "id": "hit_ms_items__13",
@@ -114298,7 +114259,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-12-11",
@@ -114432,9 +114394,7 @@
     ],
     "form_note": "Die Spaltenanzahl der dreiseitigen Annalen nimmt kontinuierlich ab. Die erste Seite der Annalen enthählt drei rot gerahmte Spalten. Die zweite Seite weist zwei Spalten auf und die letzte nur mehr eine.",
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__131",
     "prev": {
       "id": "hit_ms_items__130",
@@ -114806,7 +114766,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-06",
@@ -114821,9 +114782,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__133",
     "prev": {
       "id": "hit_ms_items__132",
@@ -115195,7 +115154,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-06",
@@ -115210,9 +115170,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__134",
     "prev": {
       "id": "hit_ms_items__133",
@@ -115662,7 +115620,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-07-28",
@@ -115685,9 +115644,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__132",
     "prev": {
       "id": "hit_ms_items__131",
@@ -116107,7 +116064,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-11",
@@ -116130,9 +116088,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__135",
     "prev": {
       "id": "hit_ms_items__134",
@@ -116623,7 +116579,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-07-28",
@@ -116653,9 +116610,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__137",
     "prev": {
       "id": "hit_ms_items__135",
@@ -117027,7 +116982,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-09-11",
@@ -117042,9 +116998,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__144",
     "prev": {
       "id": "hit_ms_items__143",
@@ -117711,7 +117665,8 @@
         "width": null,
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2024-12-13",
@@ -117775,9 +117730,7 @@
     ],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__138",
     "prev": {
       "id": "hit_ms_items__137",
@@ -118122,9 +118075,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__160",
     "prev": {
       "id": "hit_ms_items__153",
@@ -118570,9 +118521,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__145",
     "prev": {
       "id": "hit_ms_items__144",
@@ -119012,9 +118961,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__146",
     "prev": {
       "id": "hit_ms_items__145",
@@ -119422,9 +119369,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__187",
     "prev": {
       "id": "hit_ms_items__186",
@@ -119769,9 +119714,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__188",
     "prev": {
       "id": "hit_ms_items__187",
@@ -120159,9 +120102,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__186",
     "prev": {
       "id": "hit_ms_items__185",
@@ -120512,9 +120453,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__147",
     "prev": {
       "id": "hit_ms_items__146",
@@ -121029,9 +120968,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__148",
     "prev": {
       "id": "hit_ms_items__147",
@@ -121376,9 +121313,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__161",
     "prev": {
       "id": "hit_ms_items__160",
@@ -121766,9 +121701,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__180",
     "prev": {
       "id": "hit_ms_items__18",
@@ -122113,9 +122046,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__149",
     "prev": {
       "id": "hit_ms_items__148",
@@ -122460,9 +122391,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__164",
     "prev": {
       "id": "hit_ms_items__161",
@@ -122807,9 +122736,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__166",
     "prev": {
       "id": "hit_ms_items__164",
@@ -123154,9 +123081,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__167",
     "prev": {
       "id": "hit_ms_items__166",
@@ -123501,9 +123426,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__183",
     "prev": {
       "id": "hit_ms_items__180",
@@ -123848,9 +123771,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__150",
     "prev": {
       "id": "hit_ms_items__15",
@@ -124195,9 +124116,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__151",
     "prev": {
       "id": "hit_ms_items__150",
@@ -124542,9 +124461,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__169",
     "prev": {
       "id": "hit_ms_items__167",
@@ -124889,9 +124806,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__170",
     "prev": {
       "id": "hit_ms_items__17",
@@ -125236,9 +125151,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__184",
     "prev": {
       "id": "hit_ms_items__183",
@@ -125583,9 +125496,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__171",
     "prev": {
       "id": "hit_ms_items__170",
@@ -125930,9 +125841,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__185",
     "prev": {
       "id": "hit_ms_items__184",
@@ -126277,9 +126186,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__172",
     "prev": {
       "id": "hit_ms_items__171",
@@ -126624,9 +126531,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__177",
     "prev": {
       "id": "hit_ms_items__176",
@@ -126971,9 +126876,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__173",
     "prev": {
       "id": "hit_ms_items__172",
@@ -127349,9 +127252,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__178",
     "prev": {
       "id": "hit_ms_items__177",
@@ -127696,9 +127597,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__174",
     "prev": {
       "id": "hit_ms_items__173",
@@ -128156,9 +128055,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__143",
     "prev": {
       "id": "hit_ms_items__141",
@@ -128503,9 +128400,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__152",
     "prev": {
       "id": "hit_ms_items__151",
@@ -128850,9 +128745,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__153",
     "prev": {
       "id": "hit_ms_items__152",
@@ -129197,9 +129090,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__175",
     "prev": {
       "id": "hit_ms_items__174",
@@ -129544,9 +129435,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "cod_2090__176",
     "prev": {
       "id": "hit_ms_items__175",
@@ -130355,7 +130244,8 @@
             },
             "value": "Abtei Saint-Bertin"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2025-02-18",
@@ -130422,9 +130312,7 @@
         "color": "dark-yellow"
       }
     ],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "ms_706__191",
     "prev": {
       "id": "hit_ms_items__19",
@@ -130987,7 +130875,8 @@
             },
             "value": "Abtei Saint-Bertin"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2025-01-24",
@@ -131022,9 +130911,7 @@
         "color": "dark-yellow"
       }
     ],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "ms_706__194",
     "prev": {
       "id": "hit_ms_items__193",
@@ -131587,7 +131474,8 @@
             },
             "value": "Abtei Saint-Bertin"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2025-01-17",
@@ -131622,9 +131510,7 @@
         "color": "dark-yellow"
       }
     ],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "ms_706__196",
     "prev": {
       "id": "hit_ms_items__194",
@@ -132305,7 +132191,8 @@
             },
             "value": "Abtei Saint-Bertin"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2025-01-16",
@@ -132348,9 +132235,7 @@
         "color": "light-red"
       }
     ],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "ms_706__192",
     "prev": {
       "id": "hit_ms_items__191",
@@ -133159,7 +133044,8 @@
             },
             "value": "Abtei Saint-Bertin"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2025-01-16",
@@ -133209,9 +133095,7 @@
         "color": "light-red"
       }
     ],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "ms_706__193",
     "prev": {
       "id": "hit_ms_items__192",
@@ -133714,7 +133598,8 @@
             },
             "value": "Abtei Saint-Bertin"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2025-01-24",
@@ -133741,9 +133626,7 @@
         "color": "dark-yellow"
       }
     ],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "ms_706__198",
     "prev": {
       "id": "hit_ms_items__196",
@@ -134714,10 +134597,10 @@
         ],
         "number": "2",
         "Last modified by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2025-01-22",
+        "Last modified": "2025-03-12",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
@@ -134798,6 +134681,16 @@
             },
             "value": "Salzburg"
           }
+        ],
+        "strata": [
+          {
+            "id": 2,
+            "value": "Cod. M. p. th. f. 46, Stratum 2"
+          },
+          {
+            "id": 4,
+            "value": "Cod. M. p. th. f. 46, Stratum 3"
+          }
         ]
       }
     ],
@@ -134821,22 +134714,10 @@
     "form": [],
     "form_note": "",
     "column": [],
-    "role": {
-      "id": 18160,
-      "value": "Kommentar",
-      "color": "light-orange"
-    },
     "commented_msitem": [
       {
         "id": 11,
         "value": "cod_m_p_th_f_46__11"
-      }
-    ],
-    "function_role": [
-      {
-        "id": 18161,
-        "value": "inhaltsbezogen",
-        "color": "dark-red"
       }
     ],
     "view_label": "cod_m_p_th_f_46__201",
@@ -136271,10 +136152,10 @@
         ],
         "number": "1",
         "Last modified by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2025-01-22",
+        "Last modified": "2025-03-12",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
@@ -136426,6 +136307,16 @@
             },
             "value": "Saint-Amand-les-Eaux"
           }
+        ],
+        "strata": [
+          {
+            "id": 1,
+            "value": "Cod. M. p. th. f. 46, Stratum 1"
+          },
+          {
+            "id": 2,
+            "value": "Cod. M. p. th. f. 46, Stratum 2"
+          }
         ]
       }
     ],
@@ -136449,22 +136340,10 @@
     "form": [],
     "form_note": "",
     "column": [],
-    "role": {
-      "id": 18159,
-      "value": "Erweiterung",
-      "color": "pink"
-    },
     "commented_msitem": [
       {
         "id": 5,
         "value": "cod_m_p_th_f_46__5"
-      }
-    ],
-    "function_role": [
-      {
-        "id": 18170,
-        "value": "inhaltlich",
-        "color": "pink"
       }
     ],
     "view_label": "cod_m_p_th_f_46__202",
@@ -137050,7 +136929,8 @@
             },
             "value": "Abtei Saint-Bertin"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2025-02-13",
@@ -137079,9 +136959,7 @@
         "color": "light-red"
       }
     ],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "ms_706__203",
     "prev": {
       "id": "hit_ms_items__202",
@@ -137121,9 +136999,7 @@
     "form": [],
     "form_note": "",
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "NO MATCH FOR $..label[0].value",
     "prev": {
       "id": "hit_ms_items__203",
@@ -137674,7 +137550,8 @@
             },
             "value": "Abtei Saint-Bertin"
           }
-        ]
+        ],
+        "strata": []
       }
     ],
     "Last modified": "2025-02-13",
@@ -137703,9 +137580,7 @@
         "color": "light-red"
       }
     ],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "ms_706__205",
     "prev": {
       "id": "hit_ms_items__204",
@@ -138149,7 +138024,8 @@
         "width": "",
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2025-02-20",
@@ -138184,9 +138060,7 @@
         "color": "dark-yellow"
       }
     ],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "ms_697__206",
     "prev": {
       "id": "hit_ms_items__205",
@@ -138630,7 +138504,8 @@
         "width": "",
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2025-02-20",
@@ -138665,9 +138540,7 @@
         "color": "dark-yellow"
       }
     ],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "ms_697__207",
     "prev": {
       "id": "hit_ms_items__206",
@@ -139068,7 +138941,8 @@
         "width": "",
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2025-02-20",
@@ -139103,9 +138977,7 @@
         "color": "dark-yellow"
       }
     ],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "ms_697__208",
     "prev": {
       "id": "hit_ms_items__207",
@@ -139531,7 +139403,8 @@
         "width": "",
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2025-02-17",
@@ -139554,9 +139427,7 @@
     "form": [],
     "form_note": "",
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "ms_15835__209",
     "prev": {
       "id": "hit_ms_items__208",
@@ -139596,9 +139467,7 @@
     "form": [],
     "form_note": "",
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "NO MATCH FOR $..label[0].value",
     "prev": {
       "id": "hit_ms_items__21",
@@ -139981,7 +139850,8 @@
         "width": "",
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2025-02-17",
@@ -140004,9 +139874,7 @@
     "form": [],
     "form_note": "",
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "ms_15835__211",
     "prev": {
       "id": "hit_ms_items__210",
@@ -140046,9 +139914,7 @@
     "form": [],
     "form_note": "",
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "NO MATCH FOR $..label[0].value",
     "prev": {
       "id": "hit_ms_items__211",
@@ -140490,7 +140356,8 @@
         "width": "",
         "columns": [],
         "cod_unit_placed": [],
-        "prov_place": []
+        "prov_place": [],
+        "strata": []
       }
     ],
     "Last modified": "2025-02-17",
@@ -140520,9 +140387,7 @@
     "form": [],
     "form_note": "",
     "column": [],
-    "role": null,
     "commented_msitem": [],
-    "function_role": [],
     "view_label": "ms_15835__213",
     "prev": {
       "id": "hit_ms_items__212",

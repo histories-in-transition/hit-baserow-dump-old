@@ -1772,6 +1772,7 @@
         "columns": [],
         "cod_unit_placed": [],
         "prov_place": [],
+        "strata": [],
         "view_label": "ÖNB, Cod. 387, cod. unit 1",
         "prev": {
           "id": "hit_cod_unit__13",
@@ -2114,6 +2115,7 @@
         "columns": [],
         "cod_unit_placed": [],
         "prov_place": [],
+        "strata": [],
         "view_label": "ÖNB, Cod. 2090, cod. unit 1",
         "prev": {
           "id": "hit_cod_unit__14",
@@ -2539,6 +2541,7 @@
         "columns": [],
         "cod_unit_placed": [],
         "prov_place": [],
+        "strata": [],
         "view_label": "ÖNB, Cod. 366, cod. unit 1",
         "prev": {
           "id": "hit_cod_unit__12",
@@ -2589,6 +2592,7 @@
         "columns": [],
         "cod_unit_placed": [],
         "prov_place": [],
+        "strata": [],
         "view_label": "ÖNB, Cod. 366, cod. unit 2",
         "prev": {
           "id": "hit_cod_unit__11",
@@ -4039,10 +4043,10 @@
         ],
         "number": "1",
         "Last modified by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2025-01-22",
+        "Last modified": "2025-03-12",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
@@ -4193,6 +4197,16 @@
               "database_table_3840": 1
             },
             "value": "Saint-Amand-les-Eaux"
+          }
+        ],
+        "strata": [
+          {
+            "id": 1,
+            "value": "Cod. M. p. th. f. 46, Stratum 1"
+          },
+          {
+            "id": 2,
+            "value": "Cod. M. p. th. f. 46, Stratum 2"
           }
         ],
         "view_label": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1",
@@ -4723,10 +4737,10 @@
         ],
         "number": "2",
         "Last modified by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2025-01-22",
+        "Last modified": "2025-03-12",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
@@ -4806,6 +4820,16 @@
               "database_table_3840": 3
             },
             "value": "Salzburg"
+          }
+        ],
+        "strata": [
+          {
+            "id": 2,
+            "value": "Cod. M. p. th. f. 46, Stratum 2"
+          },
+          {
+            "id": 4,
+            "value": "Cod. M. p. th. f. 46, Stratum 3"
           }
         ],
         "view_label": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 2",
@@ -4936,10 +4960,10 @@
         ],
         "number": "3",
         "Last modified by": {
-          "id": 36,
-          "name": "Ivana Dobcheva"
+          "id": 86,
+          "name": "Leon Pürstinger"
         },
-        "Last modified": "2025-01-22",
+        "Last modified": "2025-03-12",
         "orig_date": [],
         "quires_number": null,
         "heigth": null,
@@ -4953,6 +4977,12 @@
         "columns": [],
         "cod_unit_placed": [],
         "prov_place": [],
+        "strata": [
+          {
+            "id": 5,
+            "value": "Cod. M. p. th. f. 46, Stratum 4"
+          }
+        ],
         "view_label": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 3",
         "prev": {
           "id": "hit_cod_unit__10",
@@ -5250,6 +5280,7 @@
             "value": "Salzburg"
           }
         ],
+        "strata": [],
         "view_label": "BSB, Clm. 210, cod. unit 1",
         "prev": {
           "id": "hit_cod_unit__28",
@@ -6972,6 +7003,7 @@
             "value": "Freising"
           }
         ],
+        "strata": [],
         "view_label": "BSB, Clm. 6326, cod. unit 1",
         "prev": {
           "id": "hit_cod_unit__9",
@@ -8837,6 +8869,7 @@
             "value": "Freising"
           }
         ],
+        "strata": [],
         "view_label": "BSB, Clm. 6308, cod. unit 1",
         "prev": {
           "id": "hit_cod_unit__35",
@@ -9200,6 +9233,7 @@
             "value": "Freising"
           }
         ],
+        "strata": [],
         "view_label": "BSB, Clm. 6380, cod. unit 1",
         "prev": {
           "id": "hit_cod_unit__15",
@@ -9686,6 +9720,7 @@
             "value": "Südbayern"
           }
         ],
+        "strata": [],
         "view_label": "BSB, Clm. 6375, cod. unit 1",
         "prev": {
           "id": "hit_cod_unit__26",
@@ -10226,6 +10261,7 @@
             "value": "Benediktbeuern"
           }
         ],
+        "strata": [],
         "view_label": "BSB, Clm. 6381, cod. unit 1",
         "prev": {
           "id": "hit_cod_unit__16",
@@ -10706,6 +10742,7 @@
             "value": "Reims"
           }
         ],
+        "strata": [],
         "view_label": "BSB, Clm. 6382, cod. unit 1",
         "prev": {
           "id": "hit_cod_unit__17",
@@ -10835,6 +10872,7 @@
             "value": "Freising"
           }
         ],
+        "strata": [],
         "view_label": "BSB, Clm. 6382, cod. unit 2",
         "prev": {
           "id": "hit_cod_unit__18",
@@ -11225,6 +11263,7 @@
             "value": "Freising"
           }
         ],
+        "strata": [],
         "view_label": "BSB, Clm. 6383, cod. unit 1",
         "prev": {
           "id": "hit_cod_unit__19",
@@ -11604,6 +11643,7 @@
             "value": "Freising"
           }
         ],
+        "strata": [],
         "view_label": "BSB, Clm. 6388, cod. unit 1",
         "prev": {
           "id": "hit_cod_unit__5",
@@ -11798,6 +11838,7 @@
             "value": "Norditalien"
           }
         ],
+        "strata": [],
         "view_label": "BSB, Clm. 6388, cod. unit 2",
         "prev": {
           "id": "hit_cod_unit__6",
@@ -11921,6 +11962,7 @@
             "value": "Freising"
           }
         ],
+        "strata": [],
         "view_label": "BSB, Clm. 6388, cod. unit 3",
         "prev": {
           "id": "hit_cod_unit__8",
@@ -12284,6 +12326,7 @@
             "value": "Freising"
           }
         ],
+        "strata": [],
         "view_label": "BSB, Clm. 6391, cod. unit 1",
         "prev": {
           "id": "hit_cod_unit__23",
@@ -12642,6 +12685,7 @@
             "value": "Freising"
           }
         ],
+        "strata": [],
         "view_label": "BSB, Clm. 6392, cod. unit 1",
         "prev": {
           "id": "hit_cod_unit__24",
@@ -13005,6 +13049,7 @@
             "value": "Freising"
           }
         ],
+        "strata": [],
         "view_label": "BSB, Clm. 6393, cod. unit 1",
         "prev": {
           "id": "hit_cod_unit__22",
@@ -13415,6 +13460,7 @@
             "value": "Regensburg"
           }
         ],
+        "strata": [],
         "view_label": "BSB, Clm. 6376, cod. unit 1",
         "prev": {
           "id": "hit_cod_unit__27",
@@ -13901,6 +13947,7 @@
             "value": "Bistum Eichstätt"
           }
         ],
+        "strata": [],
         "view_label": "BSB, Clm. 1086, cod. unit 1",
         "prev": {
           "id": "hit_cod_unit__25",
@@ -14135,6 +14182,7 @@
             "value": "Freising"
           }
         ],
+        "strata": [],
         "view_label": "BSB, Clm. 29226, cod. unit 1",
         "prev": {
           "id": "hit_cod_unit__32",
@@ -14620,6 +14668,7 @@
             "value": "Bodensee"
           }
         ],
+        "strata": [],
         "view_label": "BSB, Clm. 6341, cod. unit 1",
         "prev": {
           "id": "hit_cod_unit__20",
@@ -14749,6 +14798,7 @@
             "value": "Freising"
           }
         ],
+        "strata": [],
         "view_label": "BSB, Clm. 6341, cod. unit 2",
         "prev": {
           "id": "hit_cod_unit__21",
@@ -15965,6 +16015,7 @@
             "value": "Abtei Saint-Bertin"
           }
         ],
+        "strata": [],
         "view_label": "Saint-Omer, ms. 706, cod. unit 1",
         "prev": {
           "id": "hit_cod_unit__3",
@@ -16234,6 +16285,7 @@
         "columns": [],
         "cod_unit_placed": [],
         "prov_place": [],
+        "strata": [],
         "view_label": "Saint-Omer, ms. 697, cod. unit 1",
         "prev": {
           "id": "hit_cod_unit__33",
@@ -16503,6 +16555,7 @@
         "columns": [],
         "cod_unit_placed": [],
         "prov_place": [],
+        "strata": [],
         "view_label": "Bruxelles KBR, ms. 15835, cod. unit 1",
         "prev": {
           "id": "hit_cod_unit__34",

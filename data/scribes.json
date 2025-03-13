@@ -530,7 +530,8 @@
                         },
                         "value": "Freising"
                       }
-                    ]
+                    ],
+                    "strata": []
                   }
                 ],
                 "Last modified": "2024-11-18",
@@ -564,9 +565,7 @@
                 "form": [],
                 "form_note": null,
                 "column": [],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               }
             ],
             "role": [
@@ -1439,7 +1438,8 @@
                         },
                         "value": "Freising"
                       }
-                    ]
+                    ],
+                    "strata": []
                   }
                 ],
                 "Last modified": "2024-09-27",
@@ -1462,9 +1462,7 @@
                 "form": [],
                 "form_note": null,
                 "column": [],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               }
             ],
             "role": [
@@ -2093,7 +2091,8 @@
                     "width": null,
                     "columns": [],
                     "cod_unit_placed": [],
-                    "prov_place": []
+                    "prov_place": [],
+                    "strata": []
                   }
                 ],
                 "Last modified": "2024-10-03",
@@ -2116,9 +2115,7 @@
                 "form": [],
                 "form_note": null,
                 "column": [],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               }
             ],
             "role": [
@@ -2802,7 +2799,8 @@
                     "width": null,
                     "columns": [],
                     "cod_unit_placed": [],
-                    "prov_place": []
+                    "prov_place": [],
+                    "strata": []
                   }
                 ],
                 "Last modified": "2024-12-11",
@@ -2838,9 +2836,7 @@
                 ],
                 "form_note": null,
                 "column": [],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               }
             ],
             "role": [
@@ -3564,7 +3560,8 @@
                     "width": null,
                     "columns": [],
                     "cod_unit_placed": [],
-                    "prov_place": []
+                    "prov_place": [],
+                    "strata": []
                   }
                 ],
                 "Last modified": "2024-09-05",
@@ -3607,9 +3604,7 @@
                 "form": [],
                 "form_note": null,
                 "column": [],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               }
             ],
             "role": [
@@ -4265,7 +4260,8 @@
                     "width": null,
                     "columns": [],
                     "cod_unit_placed": [],
-                    "prov_place": []
+                    "prov_place": [],
+                    "strata": []
                   }
                 ],
                 "Last modified": "2025-01-30",
@@ -4288,11 +4284,6 @@
                 "form": [],
                 "form_note": null,
                 "column": [],
-                "role": {
-                  "id": 18159,
-                  "value": "Erweiterung",
-                  "color": "pink"
-                },
                 "commented_msitem": [
                   {
                     "id": 127,
@@ -4301,13 +4292,6 @@
                   {
                     "id": 128,
                     "value": "cod_2090__128"
-                  }
-                ],
-                "function_role": [
-                  {
-                    "id": 18162,
-                    "value": "konzeptbezogen",
-                    "color": "dark-brown"
                   }
                 ]
               }
@@ -5005,7 +4989,8 @@
                     "width": null,
                     "columns": [],
                     "cod_unit_placed": [],
-                    "prov_place": []
+                    "prov_place": [],
+                    "strata": []
                   }
                 ],
                 "Last modified": "2024-07-28",
@@ -5035,9 +5020,7 @@
                 "form": [],
                 "form_note": null,
                 "column": [],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               }
             ],
             "role": [
@@ -6703,10 +6686,10 @@
                     ],
                     "number": "1",
                     "Last modified by": {
-                      "id": 36,
-                      "name": "Ivana Dobcheva"
+                      "id": 86,
+                      "name": "Leon Pürstinger"
                     },
-                    "Last modified": "2025-01-22",
+                    "Last modified": "2025-03-12",
                     "orig_date": [],
                     "quires_number": null,
                     "heigth": null,
@@ -6858,6 +6841,16 @@
                         },
                         "value": "Saint-Amand-les-Eaux"
                       }
+                    ],
+                    "strata": [
+                      {
+                        "id": 1,
+                        "value": "Cod. M. p. th. f. 46, Stratum 1"
+                      },
+                      {
+                        "id": 2,
+                        "value": "Cod. M. p. th. f. 46, Stratum 2"
+                      }
                     ]
                   }
                 ],
@@ -6881,22 +6874,10 @@
                 "form": [],
                 "form_note": null,
                 "column": [],
-                "role": {
-                  "id": 18159,
-                  "value": "Erweiterung",
-                  "color": "pink"
-                },
                 "commented_msitem": [
                   {
                     "id": 5,
                     "value": "cod_m_p_th_f_46__5"
-                  }
-                ],
-                "function_role": [
-                  {
-                    "id": 18161,
-                    "value": "inhaltsbezogen",
-                    "color": "dark-red"
                   }
                 ]
               }
@@ -8304,10 +8285,10 @@
                     ],
                     "number": "1",
                     "Last modified by": {
-                      "id": 36,
-                      "name": "Ivana Dobcheva"
+                      "id": 86,
+                      "name": "Leon Pürstinger"
                     },
-                    "Last modified": "2025-01-22",
+                    "Last modified": "2025-03-12",
                     "orig_date": [],
                     "quires_number": null,
                     "heigth": null,
@@ -8459,6 +8440,16 @@
                         },
                         "value": "Saint-Amand-les-Eaux"
                       }
+                    ],
+                    "strata": [
+                      {
+                        "id": 1,
+                        "value": "Cod. M. p. th. f. 46, Stratum 1"
+                      },
+                      {
+                        "id": 2,
+                        "value": "Cod. M. p. th. f. 46, Stratum 2"
+                      }
                     ]
                   }
                 ],
@@ -8482,9 +8473,7 @@
                 "form": [],
                 "form_note": null,
                 "column": [],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               }
             ],
             "role": [
@@ -9950,10 +9939,10 @@
                     ],
                     "number": "1",
                     "Last modified by": {
-                      "id": 36,
-                      "name": "Ivana Dobcheva"
+                      "id": 86,
+                      "name": "Leon Pürstinger"
                     },
-                    "Last modified": "2025-01-22",
+                    "Last modified": "2025-03-12",
                     "orig_date": [],
                     "quires_number": null,
                     "heigth": null,
@@ -10105,6 +10094,16 @@
                         },
                         "value": "Saint-Amand-les-Eaux"
                       }
+                    ],
+                    "strata": [
+                      {
+                        "id": 1,
+                        "value": "Cod. M. p. th. f. 46, Stratum 1"
+                      },
+                      {
+                        "id": 2,
+                        "value": "Cod. M. p. th. f. 46, Stratum 2"
+                      }
                     ]
                   }
                 ],
@@ -10128,9 +10127,7 @@
                 "form": [],
                 "form_note": null,
                 "column": [],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               }
             ],
             "role": [
@@ -11648,10 +11645,10 @@
                     ],
                     "number": "1",
                     "Last modified by": {
-                      "id": 36,
-                      "name": "Ivana Dobcheva"
+                      "id": 86,
+                      "name": "Leon Pürstinger"
                     },
-                    "Last modified": "2025-01-22",
+                    "Last modified": "2025-03-12",
                     "orig_date": [],
                     "quires_number": null,
                     "heigth": null,
@@ -11803,6 +11800,16 @@
                         },
                         "value": "Saint-Amand-les-Eaux"
                       }
+                    ],
+                    "strata": [
+                      {
+                        "id": 1,
+                        "value": "Cod. M. p. th. f. 46, Stratum 1"
+                      },
+                      {
+                        "id": 2,
+                        "value": "Cod. M. p. th. f. 46, Stratum 2"
+                      }
                     ]
                   }
                 ],
@@ -11839,9 +11846,7 @@
                 "form": [],
                 "form_note": null,
                 "column": [],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               }
             ],
             "role": [
@@ -13395,10 +13400,10 @@
                     ],
                     "number": "1",
                     "Last modified by": {
-                      "id": 36,
-                      "name": "Ivana Dobcheva"
+                      "id": 86,
+                      "name": "Leon Pürstinger"
                     },
-                    "Last modified": "2025-01-22",
+                    "Last modified": "2025-03-12",
                     "orig_date": [],
                     "quires_number": null,
                     "heigth": null,
@@ -13550,6 +13555,16 @@
                         },
                         "value": "Saint-Amand-les-Eaux"
                       }
+                    ],
+                    "strata": [
+                      {
+                        "id": 1,
+                        "value": "Cod. M. p. th. f. 46, Stratum 1"
+                      },
+                      {
+                        "id": 2,
+                        "value": "Cod. M. p. th. f. 46, Stratum 2"
+                      }
                     ]
                   }
                 ],
@@ -13587,22 +13602,10 @@
                 "form": [],
                 "form_note": null,
                 "column": [],
-                "role": {
-                  "id": 18159,
-                  "value": "Erweiterung",
-                  "color": "pink"
-                },
                 "commented_msitem": [
                   {
                     "id": 5,
                     "value": "cod_m_p_th_f_46__5"
-                  }
-                ],
-                "function_role": [
-                  {
-                    "id": 18170,
-                    "value": "inhaltlich",
-                    "color": "pink"
                   }
                 ]
               }
@@ -14738,10 +14741,10 @@
                     ],
                     "number": "2",
                     "Last modified by": {
-                      "id": 36,
-                      "name": "Ivana Dobcheva"
+                      "id": 86,
+                      "name": "Leon Pürstinger"
                     },
-                    "Last modified": "2025-01-22",
+                    "Last modified": "2025-03-12",
                     "orig_date": [],
                     "quires_number": null,
                     "heigth": null,
@@ -14822,6 +14825,16 @@
                         },
                         "value": "Salzburg"
                       }
+                    ],
+                    "strata": [
+                      {
+                        "id": 2,
+                        "value": "Cod. M. p. th. f. 46, Stratum 2"
+                      },
+                      {
+                        "id": 4,
+                        "value": "Cod. M. p. th. f. 46, Stratum 3"
+                      }
                     ]
                   }
                 ],
@@ -14859,9 +14872,7 @@
                 "form": [],
                 "form_note": null,
                 "column": [],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               }
             ],
             "role": [
@@ -15883,10 +15894,10 @@
                     ],
                     "number": "2",
                     "Last modified by": {
-                      "id": 36,
-                      "name": "Ivana Dobcheva"
+                      "id": 86,
+                      "name": "Leon Pürstinger"
                     },
-                    "Last modified": "2025-01-22",
+                    "Last modified": "2025-03-12",
                     "orig_date": [],
                     "quires_number": null,
                     "heigth": null,
@@ -15967,6 +15978,16 @@
                         },
                         "value": "Salzburg"
                       }
+                    ],
+                    "strata": [
+                      {
+                        "id": 2,
+                        "value": "Cod. M. p. th. f. 46, Stratum 2"
+                      },
+                      {
+                        "id": 4,
+                        "value": "Cod. M. p. th. f. 46, Stratum 3"
+                      }
                     ]
                   }
                 ],
@@ -15990,22 +16011,10 @@
                 "form": [],
                 "form_note": null,
                 "column": [],
-                "role": {
-                  "id": 18159,
-                  "value": "Erweiterung",
-                  "color": "pink"
-                },
                 "commented_msitem": [
                   {
                     "id": 11,
                     "value": "cod_m_p_th_f_46__11"
-                  }
-                ],
-                "function_role": [
-                  {
-                    "id": 18170,
-                    "value": "inhaltlich",
-                    "color": "pink"
                   }
                 ]
               }
@@ -17030,10 +17039,10 @@
                     ],
                     "number": "2",
                     "Last modified by": {
-                      "id": 36,
-                      "name": "Ivana Dobcheva"
+                      "id": 86,
+                      "name": "Leon Pürstinger"
                     },
-                    "Last modified": "2025-01-22",
+                    "Last modified": "2025-03-12",
                     "orig_date": [],
                     "quires_number": null,
                     "heigth": null,
@@ -17114,6 +17123,16 @@
                         },
                         "value": "Salzburg"
                       }
+                    ],
+                    "strata": [
+                      {
+                        "id": 2,
+                        "value": "Cod. M. p. th. f. 46, Stratum 2"
+                      },
+                      {
+                        "id": 4,
+                        "value": "Cod. M. p. th. f. 46, Stratum 3"
+                      }
                     ]
                   }
                 ],
@@ -17137,22 +17156,10 @@
                 "form": [],
                 "form_note": "",
                 "column": [],
-                "role": {
-                  "id": 18160,
-                  "value": "Kommentar",
-                  "color": "light-orange"
-                },
                 "commented_msitem": [
                   {
                     "id": 11,
                     "value": "cod_m_p_th_f_46__11"
-                  }
-                ],
-                "function_role": [
-                  {
-                    "id": 18161,
-                    "value": "inhaltsbezogen",
-                    "color": "dark-red"
                   }
                 ]
               }
@@ -18639,10 +18646,10 @@
                     ],
                     "number": "1",
                     "Last modified by": {
-                      "id": 36,
-                      "name": "Ivana Dobcheva"
+                      "id": 86,
+                      "name": "Leon Pürstinger"
                     },
-                    "Last modified": "2025-01-22",
+                    "Last modified": "2025-03-12",
                     "orig_date": [],
                     "quires_number": null,
                     "heigth": null,
@@ -18794,6 +18801,16 @@
                         },
                         "value": "Saint-Amand-les-Eaux"
                       }
+                    ],
+                    "strata": [
+                      {
+                        "id": 1,
+                        "value": "Cod. M. p. th. f. 46, Stratum 1"
+                      },
+                      {
+                        "id": 2,
+                        "value": "Cod. M. p. th. f. 46, Stratum 2"
+                      }
                     ]
                   }
                 ],
@@ -18817,22 +18834,10 @@
                 "form": [],
                 "form_note": "",
                 "column": [],
-                "role": {
-                  "id": 18159,
-                  "value": "Erweiterung",
-                  "color": "pink"
-                },
                 "commented_msitem": [
                   {
                     "id": 5,
                     "value": "cod_m_p_th_f_46__5"
-                  }
-                ],
-                "function_role": [
-                  {
-                    "id": 18170,
-                    "value": "inhaltlich",
-                    "color": "pink"
                   }
                 ]
               }
@@ -21221,7 +21226,8 @@
                     "width": null,
                     "columns": [],
                     "cod_unit_placed": [],
-                    "prov_place": []
+                    "prov_place": [],
+                    "strata": []
                   }
                 ],
                 "Last modified": "2024-09-06",
@@ -21258,9 +21264,7 @@
                 "form": [],
                 "form_note": null,
                 "column": [],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               }
             ],
             "role": [
@@ -22431,7 +22435,8 @@
                         },
                         "value": "Abtei Saint-Bertin"
                       }
-                    ]
+                    ],
+                    "strata": []
                   }
                 ],
                 "Last modified": "2025-02-18",
@@ -22498,9 +22503,7 @@
                     "color": "dark-yellow"
                   }
                 ],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               }
             ],
             "role": [
@@ -23227,7 +23230,8 @@
                         },
                         "value": "Abtei Saint-Bertin"
                       }
-                    ]
+                    ],
+                    "strata": []
                   }
                 ],
                 "Last modified": "2025-01-16",
@@ -23270,9 +23274,7 @@
                     "color": "light-red"
                   }
                 ],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               }
             ],
             "role": [
@@ -24127,7 +24129,8 @@
                         },
                         "value": "Abtei Saint-Bertin"
                       }
-                    ]
+                    ],
+                    "strata": []
                   }
                 ],
                 "Last modified": "2025-01-16",
@@ -24177,9 +24180,7 @@
                     "color": "light-red"
                   }
                 ],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               }
             ],
             "role": [
@@ -24893,7 +24894,8 @@
                     "width": "",
                     "columns": [],
                     "cod_unit_placed": [],
-                    "prov_place": []
+                    "prov_place": [],
+                    "strata": []
                   }
                 ],
                 "Last modified": "2025-02-17",
@@ -24916,9 +24918,7 @@
                 "form": [],
                 "form_note": "",
                 "column": [],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               }
             ],
             "role": [
@@ -25347,7 +25347,8 @@
                     "width": "",
                     "columns": [],
                     "cod_unit_placed": [],
-                    "prov_place": []
+                    "prov_place": [],
+                    "strata": []
                   }
                 ],
                 "Last modified": "2025-02-17",
@@ -25370,9 +25371,7 @@
                 "form": [],
                 "form_note": "",
                 "column": [],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               }
             ],
             "role": [
@@ -25860,7 +25859,8 @@
                     "width": "",
                     "columns": [],
                     "cod_unit_placed": [],
-                    "prov_place": []
+                    "prov_place": [],
+                    "strata": []
                   }
                 ],
                 "Last modified": "2025-02-17",
@@ -25890,9 +25890,7 @@
                 "form": [],
                 "form_note": "",
                 "column": [],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               }
             ],
             "role": [
@@ -27028,7 +27026,8 @@
                         },
                         "value": "Abtei Saint-Bertin"
                       }
-                    ]
+                    ],
+                    "strata": []
                   }
                 ],
                 "Last modified": "2025-02-18",
@@ -27095,9 +27094,7 @@
                     "color": "dark-yellow"
                   }
                 ],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               }
             ],
             "role": [
@@ -27952,7 +27949,8 @@
                         },
                         "value": "Abtei Saint-Bertin"
                       }
-                    ]
+                    ],
+                    "strata": []
                   }
                 ],
                 "Last modified": "2025-01-16",
@@ -28002,9 +28000,7 @@
                     "color": "light-red"
                   }
                 ],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               }
             ],
             "role": [
@@ -28613,7 +28609,8 @@
                         },
                         "value": "Abtei Saint-Bertin"
                       }
-                    ]
+                    ],
+                    "strata": []
                   }
                 ],
                 "Last modified": "2025-01-17",
@@ -28648,9 +28645,7 @@
                     "color": "dark-yellow"
                   }
                 ],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               }
             ],
             "role": [
@@ -29259,7 +29254,8 @@
                         },
                         "value": "Abtei Saint-Bertin"
                       }
-                    ]
+                    ],
+                    "strata": []
                   }
                 ],
                 "Last modified": "2025-01-24",
@@ -29294,9 +29290,7 @@
                     "color": "dark-yellow"
                   }
                 ],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               }
             ],
             "role": [
@@ -30043,7 +30037,8 @@
                     "width": "",
                     "columns": [],
                     "cod_unit_placed": [],
-                    "prov_place": []
+                    "prov_place": [],
+                    "strata": []
                   }
                 ],
                 "Last modified": "2025-02-17",
@@ -30073,9 +30068,7 @@
                 "form": [],
                 "form_note": "",
                 "column": [],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               }
             ],
             "role": [
@@ -31049,7 +31042,8 @@
                         },
                         "value": "Abtei Saint-Bertin"
                       }
-                    ]
+                    ],
+                    "strata": []
                   }
                 ],
                 "Last modified": "2025-01-16",
@@ -31092,9 +31086,7 @@
                     "color": "light-red"
                   }
                 ],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               }
             ],
             "role": [
@@ -31949,7 +31941,8 @@
                         },
                         "value": "Abtei Saint-Bertin"
                       }
-                    ]
+                    ],
+                    "strata": []
                   }
                 ],
                 "Last modified": "2025-01-16",
@@ -31999,9 +31992,7 @@
                     "color": "light-red"
                   }
                 ],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               }
             ],
             "role": [
@@ -32716,7 +32707,8 @@
                     "width": "",
                     "columns": [],
                     "cod_unit_placed": [],
-                    "prov_place": []
+                    "prov_place": [],
+                    "strata": []
                   }
                 ],
                 "Last modified": "2025-02-20",
@@ -32751,9 +32743,7 @@
                     "color": "dark-yellow"
                   }
                 ],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               },
               {
                 "id": 207,
@@ -33188,7 +33178,8 @@
                     "width": "",
                     "columns": [],
                     "cod_unit_placed": [],
-                    "prov_place": []
+                    "prov_place": [],
+                    "strata": []
                   }
                 ],
                 "Last modified": "2025-02-20",
@@ -33223,9 +33214,7 @@
                     "color": "dark-yellow"
                   }
                 ],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               },
               {
                 "id": 208,
@@ -33617,7 +33606,8 @@
                     "width": "",
                     "columns": [],
                     "cod_unit_placed": [],
-                    "prov_place": []
+                    "prov_place": [],
+                    "strata": []
                   }
                 ],
                 "Last modified": "2025-02-20",
@@ -33652,9 +33642,7 @@
                     "color": "dark-yellow"
                   }
                 ],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               }
             ],
             "role": [
@@ -34577,7 +34565,8 @@
                         },
                         "value": "Freising"
                       }
-                    ]
+                    ],
+                    "strata": []
                   },
                   {
                     "id": 8,
@@ -34762,7 +34751,8 @@
                         },
                         "value": "Norditalien"
                       }
-                    ]
+                    ],
+                    "strata": []
                   }
                 ],
                 "Last modified": "2025-01-15",
@@ -34792,9 +34782,7 @@
                 "form": [],
                 "form_note": null,
                 "column": [],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               },
               {
                 "id": 50,
@@ -35371,7 +35359,8 @@
                         },
                         "value": "Freising"
                       }
-                    ]
+                    ],
+                    "strata": []
                   }
                 ],
                 "Last modified": "2025-01-15",
@@ -35401,9 +35390,7 @@
                 "form": [],
                 "form_note": null,
                 "column": [],
-                "role": null,
-                "commented_msitem": [],
-                "function_role": []
+                "commented_msitem": []
               }
             ],
             "role": [

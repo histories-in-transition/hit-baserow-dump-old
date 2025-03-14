@@ -70,6 +70,13 @@
         "value": "Erweiterung",
         "color": "darker-blue"
       }
+    ],
+    "strata": [
+      {
+        "id": 2,
+        "value": "Cod. M. p. th. f. 46, Stratum 2",
+        "order": "2.00000000000000000000"
+      }
     ]
   },
   "14": {
@@ -142,6 +149,13 @@
         "id": 18165,
         "value": "Erweiterung",
         "color": "darker-blue"
+      }
+    ],
+    "strata": [
+      {
+        "id": 2,
+        "value": "Cod. M. p. th. f. 46, Stratum 2",
+        "order": "2.00000000000000000000"
       }
     ]
   },
@@ -216,6 +230,13 @@
         "value": "Erweiterung",
         "color": "darker-blue"
       }
+    ],
+    "strata": [
+      {
+        "id": 2,
+        "value": "Cod. M. p. th. f. 46, Stratum 2",
+        "order": "2.00000000000000000000"
+      }
     ]
   },
   "5": {
@@ -283,7 +304,8 @@
         "color": "dark-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "2": {
     "id": 2,
@@ -356,7 +378,8 @@
         "value": "Erweiterung",
         "color": "darker-blue"
       }
-    ]
+    ],
+    "strata": []
   },
   "3": {
     "id": 3,
@@ -423,7 +446,14 @@
         "color": "light-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 1,
+        "value": "Cod. M. p. th. f. 46, Stratum 1",
+        "order": "1.00000000000000000000"
+      }
+    ]
   },
   "11": {
     "id": 11,
@@ -496,6 +526,13 @@
         "value": "Erweiterung",
         "color": "darker-blue"
       }
+    ],
+    "strata": [
+      {
+        "id": 2,
+        "value": "Cod. M. p. th. f. 46, Stratum 2",
+        "order": "2.00000000000000000000"
+      }
     ]
   },
   "12": {
@@ -563,7 +600,8 @@
         "color": "dark-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "15": {
     "id": 15,
@@ -635,7 +673,8 @@
         "color": "dark-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "16": {
     "id": 16,
@@ -708,6 +747,13 @@
         "value": "Erweiterung",
         "color": "darker-blue"
       }
+    ],
+    "strata": [
+      {
+        "id": 2,
+        "value": "Cod. M. p. th. f. 46, Stratum 2",
+        "order": "2.00000000000000000000"
+      }
     ]
   },
   "18": {
@@ -775,7 +821,14 @@
         "color": "light-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 1,
+        "value": "Cod. M. p. th. f. 46, Stratum 1",
+        "order": "1.00000000000000000000"
+      }
+    ]
   },
   "19": {
     "id": 19,
@@ -842,7 +895,14 @@
         "color": "light-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 1,
+        "value": "Cod. M. p. th. f. 46, Stratum 1",
+        "order": "1.00000000000000000000"
+      }
+    ]
   },
   "20": {
     "id": 20,
@@ -909,7 +969,14 @@
         "color": "light-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 1,
+        "value": "Cod. M. p. th. f. 46, Stratum 1",
+        "order": "1.00000000000000000000"
+      }
+    ]
   },
   "21": {
     "id": 21,
@@ -981,6 +1048,13 @@
         "id": 18165,
         "value": "Erweiterung",
         "color": "darker-blue"
+      }
+    ],
+    "strata": [
+      {
+        "id": 5,
+        "value": "Cod. M. p. th. f. 46, Stratum 4",
+        "order": "2.66666666666666651864"
       }
     ]
   },
@@ -1055,6 +1129,13 @@
         "value": "Fortsetzung",
         "color": "red"
       }
+    ],
+    "strata": [
+      {
+        "id": 4,
+        "value": "Cod. M. p. th. f. 46, Stratum 3",
+        "order": "2.50000000000000000000"
+      }
     ]
   },
   "23": {
@@ -1127,6 +1208,13 @@
         "id": 18165,
         "value": "Erweiterung",
         "color": "darker-blue"
+      }
+    ],
+    "strata": [
+      {
+        "id": 5,
+        "value": "Cod. M. p. th. f. 46, Stratum 4",
+        "order": "2.66666666666666651864"
       }
     ]
   },
@@ -1201,6 +1289,13 @@
         "value": "Erweiterung",
         "color": "darker-blue"
       }
+    ],
+    "strata": [
+      {
+        "id": 1,
+        "value": "Cod. M. p. th. f. 46, Stratum 1",
+        "order": "1.00000000000000000000"
+      }
     ]
   },
   "25": {
@@ -1273,6 +1368,13 @@
         "id": 18165,
         "value": "Erweiterung",
         "color": "darker-blue"
+      }
+    ],
+    "strata": [
+      {
+        "id": 11,
+        "value": "Cod. M. p. th. f. 46, Stratum 6",
+        "order": "2.79999999999999982236"
       }
     ]
   },
@@ -1347,7 +1449,8 @@
         "value": "Erweiterung",
         "color": "darker-blue"
       }
-    ]
+    ],
+    "strata": []
   },
   "29": {
     "id": 29,
@@ -1420,7 +1523,8 @@
         "value": "Erweiterung",
         "color": "darker-blue"
       }
-    ]
+    ],
+    "strata": []
   },
   "30": {
     "id": 30,
@@ -1493,7 +1597,8 @@
         "value": "Erweiterung",
         "color": "darker-blue"
       }
-    ]
+    ],
+    "strata": []
   },
   "31": {
     "id": 31,
@@ -1565,6 +1670,13 @@
         "id": 18165,
         "value": "Erweiterung",
         "color": "darker-blue"
+      }
+    ],
+    "strata": [
+      {
+        "id": 11,
+        "value": "Cod. M. p. th. f. 46, Stratum 6",
+        "order": "2.79999999999999982236"
       }
     ]
   },
@@ -1639,6 +1751,13 @@
         "value": "Erweiterung",
         "color": "darker-blue"
       }
+    ],
+    "strata": [
+      {
+        "id": 10,
+        "value": "Cod. M. p. th. f. 46, Stratum 5",
+        "order": "2.75000000000000000000"
+      }
     ]
   },
   "33": {
@@ -1711,6 +1830,13 @@
         "id": 18165,
         "value": "Erweiterung",
         "color": "darker-blue"
+      }
+    ],
+    "strata": [
+      {
+        "id": 10,
+        "value": "Cod. M. p. th. f. 46, Stratum 5",
+        "order": "2.75000000000000000000"
       }
     ]
   },
@@ -1785,6 +1911,13 @@
         "value": "Erweiterung",
         "color": "darker-blue"
       }
+    ],
+    "strata": [
+      {
+        "id": 10,
+        "value": "Cod. M. p. th. f. 46, Stratum 5",
+        "order": "2.75000000000000000000"
+      }
     ]
   },
   "36": {
@@ -1846,7 +1979,14 @@
       }
     ],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 6,
+        "value": "Clm. 6308, Stratum 1",
+        "order": "6.00000000000000000000"
+      }
+    ]
   },
   "38": {
     "id": 38,
@@ -1933,7 +2073,14 @@
         "color": "dark-cyan"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 7,
+        "value": "Clm. 6308, Stratum 2",
+        "order": "7.00000000000000000000"
+      }
+    ]
   },
   "39": {
     "id": 39,
@@ -1994,7 +2141,14 @@
       }
     ],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 8,
+        "value": "Cod. 366, Stratum 1",
+        "order": "8.00000000000000000000"
+      }
+    ]
   },
   "40": {
     "id": 40,
@@ -2061,7 +2215,14 @@
         "color": "light-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 9,
+        "value": "Cod. 387, Stratum 1",
+        "order": "9.00000000000000000000"
+      }
+    ]
   },
   "41": {
     "id": 41,
@@ -2116,7 +2277,14 @@
     "Last modified": "2025-01-30",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 8,
+        "value": "Cod. 366, Stratum 1",
+        "order": "8.00000000000000000000"
+      }
+    ]
   },
   "42": {
     "id": 42,
@@ -2171,7 +2339,14 @@
     "Last modified": "2025-01-30",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 8,
+        "value": "Cod. 366, Stratum 1",
+        "order": "8.00000000000000000000"
+      }
+    ]
   },
   "43": {
     "id": 43,
@@ -2226,7 +2401,14 @@
     "Last modified": "2025-01-30",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 8,
+        "value": "Cod. 366, Stratum 1",
+        "order": "8.00000000000000000000"
+      }
+    ]
   },
   "44": {
     "id": 44,
@@ -2281,7 +2463,8 @@
     "Last modified": "2025-01-01",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "45": {
     "id": 45,
@@ -2336,7 +2519,8 @@
     "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "46": {
     "id": 46,
@@ -2391,7 +2575,8 @@
     "Last modified": "2024-07-25",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "47": {
     "id": 47,
@@ -2446,7 +2631,8 @@
     "Last modified": "2024-07-25",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "48": {
     "id": 48,
@@ -2524,7 +2710,8 @@
         "value": "Erweiterung",
         "color": "darker-blue"
       }
-    ]
+    ],
+    "strata": []
   },
   "49": {
     "id": 49,
@@ -2591,7 +2778,8 @@
         "color": "light-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "50": {
     "id": 50,
@@ -2646,7 +2834,8 @@
     "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "51": {
     "id": 51,
@@ -2713,7 +2902,8 @@
         "color": "light-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "52": {
     "id": 52,
@@ -2768,7 +2958,8 @@
     "Last modified": "2024-07-25",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "53": {
     "id": 53,
@@ -2823,7 +3014,8 @@
     "Last modified": "2024-07-25",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "54": {
     "id": 54,
@@ -2878,7 +3070,8 @@
     "Last modified": "2024-07-25",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "55": {
     "id": 55,
@@ -2933,7 +3126,8 @@
     "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "56": {
     "id": 56,
@@ -2988,7 +3182,8 @@
     "Last modified": "2024-07-23",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "57": {
     "id": 57,
@@ -3043,7 +3238,8 @@
     "Last modified": "2024-07-25",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "58": {
     "id": 58,
@@ -3098,7 +3294,8 @@
     "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "59": {
     "id": 59,
@@ -3153,7 +3350,8 @@
     "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "60": {
     "id": 60,
@@ -3213,7 +3411,8 @@
     "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "61": {
     "id": 61,
@@ -3286,7 +3485,8 @@
         "value": "Erweiterung",
         "color": "darker-blue"
       }
-    ]
+    ],
+    "strata": []
   },
   "62": {
     "id": 62,
@@ -3353,7 +3553,14 @@
         "color": "dark-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 12,
+        "value": "Cod. 2090, Stratum 1",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "63": {
     "id": 63,
@@ -3420,7 +3627,14 @@
         "color": "darker-orange"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 12,
+        "value": "Cod. 2090, Stratum 1",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "64": {
     "id": 64,
@@ -3475,7 +3689,14 @@
     "Last modified": "2024-07-28",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 12,
+        "value": "Cod. 2090, Stratum 1",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "65": {
     "id": 65,
@@ -3542,7 +3763,8 @@
         "color": "darker-orange"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "66": {
     "id": 66,
@@ -3597,7 +3819,8 @@
     "Last modified": "2024-07-29",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "67": {
     "id": 67,
@@ -3669,6 +3892,13 @@
         "id": 18165,
         "value": "Erweiterung",
         "color": "darker-blue"
+      }
+    ],
+    "strata": [
+      {
+        "id": 14,
+        "value": "Cod. 387, Stratum 2",
+        "order": "9.50000000000000000000"
       }
     ]
   },
@@ -3743,6 +3973,13 @@
         "value": "Erweiterung",
         "color": "darker-blue"
       }
+    ],
+    "strata": [
+      {
+        "id": 14,
+        "value": "Cod. 387, Stratum 2",
+        "order": "9.50000000000000000000"
+      }
     ]
   },
   "69": {
@@ -3816,7 +4053,8 @@
         "value": "Erweiterung",
         "color": "darker-blue"
       }
-    ]
+    ],
+    "strata": []
   },
   "70": {
     "id": 70,
@@ -3883,7 +4121,14 @@
         "color": "darker-brown"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 12,
+        "value": "Cod. 2090, Stratum 1",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "71": {
     "id": 71,
@@ -3955,7 +4200,8 @@
         "color": "darker-brown"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "72": {
     "id": 72,
@@ -4022,7 +4268,14 @@
         "color": "darker-brown"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 16,
+        "value": "Cod. 2090, Stratum 4",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "75": {
     "id": 75,
@@ -4094,7 +4347,8 @@
         "color": "darker-brown"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "76": {
     "id": 76,
@@ -4149,7 +4403,14 @@
     "Last modified": "2025-02-23",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 15,
+        "value": "Cod. 2090, Stratum 3",
+        "order": "12.00000000000000000000"
+      }
+    ]
   },
   "77": {
     "id": 77,
@@ -4216,7 +4477,8 @@
         "color": "darker-brown"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "78": {
     "id": 78,
@@ -4283,7 +4545,14 @@
         "color": "dark-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 12,
+        "value": "Cod. 2090, Stratum 1",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "79": {
     "id": 79,
@@ -4350,7 +4619,14 @@
         "color": "dark-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 12,
+        "value": "Cod. 2090, Stratum 1",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "80": {
     "id": 80,
@@ -4417,7 +4693,8 @@
         "color": "dark-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "81": {
     "id": 81,
@@ -4484,7 +4761,8 @@
         "color": "dark-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "82": {
     "id": 82,
@@ -4557,7 +4835,8 @@
         "value": "Erweiterung",
         "color": "darker-blue"
       }
-    ]
+    ],
+    "strata": []
   },
   "83": {
     "id": 83,
@@ -4617,7 +4896,8 @@
     "Last modified": "2024-09-25",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "84": {
     "id": 84,
@@ -4672,7 +4952,8 @@
     "Last modified": "2024-08-01",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "85": {
     "id": 85,
@@ -4727,7 +5008,8 @@
     "Last modified": "2024-09-25",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "86": {
     "id": 86,
@@ -4782,7 +5064,8 @@
     "Last modified": "2024-10-03",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "87": {
     "id": 87,
@@ -4837,7 +5120,8 @@
     "Last modified": "2024-10-03",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "88": {
     "id": 88,
@@ -4904,7 +5188,14 @@
         "color": "darker-brown"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 16,
+        "value": "Cod. 2090, Stratum 4",
+        "order": "13.00000000000000000000"
+      }
+    ]
   },
   "89": {
     "id": 89,
@@ -4965,7 +5256,8 @@
         "color": "darker-orange"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "90": {
     "id": 90,
@@ -5020,7 +5312,8 @@
     "Last modified": "2024-08-06",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "91": {
     "id": 91,
@@ -5075,7 +5368,8 @@
     "Last modified": "2024-08-06",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "92": {
     "id": 92,
@@ -5148,7 +5442,8 @@
         "value": "Erweiterung",
         "color": "darker-blue"
       }
-    ]
+    ],
+    "strata": []
   },
   "93": {
     "id": 93,
@@ -5203,7 +5498,8 @@
     "Last modified": "2024-10-03",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "94": {
     "id": 94,
@@ -5258,7 +5554,8 @@
     "Last modified": "2024-10-03",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "95": {
     "id": 95,
@@ -5313,7 +5610,8 @@
     "Last modified": "2024-08-26",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "96": {
     "id": 96,
@@ -5368,7 +5666,8 @@
     "Last modified": "2024-08-26",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "101": {
     "id": 101,
@@ -5423,7 +5722,8 @@
     "Last modified": "2024-08-26",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "102": {
     "id": 102,
@@ -5496,7 +5796,8 @@
         "value": "Erweiterung",
         "color": "darker-blue"
       }
-    ]
+    ],
+    "strata": []
   },
   "103": {
     "id": 103,
@@ -5551,7 +5852,8 @@
     "Last modified": "2024-08-26",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "104": {
     "id": 104,
@@ -5606,7 +5908,8 @@
     "Last modified": "2024-08-26",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "105": {
     "id": 105,
@@ -5661,7 +5964,8 @@
     "Last modified": "2024-08-26",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "106": {
     "id": 106,
@@ -5716,7 +6020,8 @@
     "Last modified": "2024-09-25",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "107": {
     "id": 107,
@@ -5771,7 +6076,8 @@
     "Last modified": "2024-09-25",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "108": {
     "id": 108,
@@ -5826,7 +6132,8 @@
     "Last modified": "2024-09-25",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "109": {
     "id": 109,
@@ -5881,7 +6188,8 @@
     "Last modified": "2024-09-25",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "110": {
     "id": 110,
@@ -5936,7 +6244,8 @@
     "Last modified": "2024-09-25",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "111": {
     "id": 111,
@@ -5991,7 +6300,8 @@
     "Last modified": "2024-09-25",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "112": {
     "id": 112,
@@ -6046,7 +6356,8 @@
     "Last modified": "2024-09-25",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "113": {
     "id": 113,
@@ -6101,7 +6412,8 @@
     "Last modified": "2024-09-25",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "114": {
     "id": 114,
@@ -6168,7 +6480,8 @@
         "color": "darker-orange"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "115": {
     "id": 115,
@@ -6223,7 +6536,8 @@
     "Last modified": "2024-12-14",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "116": {
     "id": 116,
@@ -6284,7 +6598,8 @@
         "color": "dark-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "117": {
     "id": 117,
@@ -6339,7 +6654,8 @@
     "Last modified": "2024-08-26",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "120": {
     "id": 120,
@@ -6400,7 +6716,8 @@
       }
     ],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "121": {
     "id": 121,
@@ -6589,7 +6906,14 @@
       }
     ],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 3,
+        "value": "Clm. 6326, Stratum 1",
+        "order": "3.00000000000000000000"
+      }
+    ]
   },
   "122": {
     "id": 122,
@@ -6650,7 +6974,8 @@
       }
     ],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "123": {
     "id": 123,
@@ -6711,7 +7036,8 @@
       }
     ],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "125": {
     "id": 125,
@@ -6766,7 +7092,14 @@
     "Last modified": "2025-01-17",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 21,
+        "value": "Clm. 6380, Stratum 1",
+        "order": "18.00000000000000000000"
+      }
+    ]
   },
   "126": {
     "id": 126,
@@ -6815,7 +7148,8 @@
     "Last modified": "2024-11-13",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "127": {
     "id": 127,
@@ -6876,7 +7210,8 @@
       }
     ],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "129": {
     "id": 129,
@@ -6937,7 +7272,14 @@
         "color": "red"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 20,
+        "value": "Clm. 6375, Stratum 2",
+        "order": "17.00000000000000000000"
+      }
+    ]
   },
   "139": {
     "id": 139,
@@ -7046,7 +7388,14 @@
       }
     ],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 19,
+        "value": "Clm. 6375, Stratum 1",
+        "order": "16.00000000000000000000"
+      }
+    ]
   },
   "140": {
     "id": 140,
@@ -7095,7 +7444,8 @@
     "Last modified": "2025-01-17",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "142": {
     "id": 142,
@@ -7177,7 +7527,14 @@
         "color": "red"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 17,
+        "value": "Clm. 6308, Stratum 3",
+        "order": "14.00000000000000000000"
+      }
+    ]
   },
   "143": {
     "id": 143,
@@ -7232,7 +7589,8 @@
     "Last modified": "2024-09-19",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "144": {
     "id": 144,
@@ -7287,7 +7645,8 @@
     "Last modified": "2024-09-19",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "145": {
     "id": 145,
@@ -7348,7 +7707,8 @@
         "color": "darker-orange"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "148": {
     "id": 148,
@@ -7357,7 +7717,7 @@
     "hand": [
       {
         "id": 97,
-        "value": "BSB, Clm. 6382_H. 3",
+        "value": "BSB, Clm. 6382_H. 5",
         "order": "89.00000000000000000000"
       }
     ],
@@ -7553,7 +7913,8 @@
       }
     ],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "150": {
     "id": 150,
@@ -7620,14 +7981,14 @@
     ],
     "role": [
       {
-        "id": 14760,
-        "value": "corrector OUTDATED",
-        "color": "darker-yellow"
+        "id": 15373,
+        "value": "Korrektor",
+        "color": "darker-brown"
       },
       {
-        "id": 14763,
-        "value": "Annotation OUTDATED",
-        "color": "cyan"
+        "id": 18175,
+        "value": "Überarbeiter",
+        "color": "dark-gray"
       }
     ],
     "locus": "",
@@ -7754,7 +8115,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-10-03",
-    "Last modified": "2024-12-05",
+    "Last modified": "2025-03-13",
     "locus_layout": [
       {
         "id": 15096,
@@ -7774,7 +8135,8 @@
         "color": "darker-orange"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "151": {
     "id": 151,
@@ -7826,10 +8188,17 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-10-03",
-    "Last modified": "2024-12-04",
-    "locus_layout": [],
+    "Last modified": "2025-03-13",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "152": {
     "id": 152,
@@ -7884,7 +8253,8 @@
     "Last modified": "2024-10-09",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "153": {
     "id": 153,
@@ -7911,9 +8281,9 @@
     ],
     "role": [
       {
-        "id": 14760,
-        "value": "corrector OUTDATED",
-        "color": "darker-yellow"
+        "id": 15373,
+        "value": "Korrektor",
+        "color": "darker-brown"
       }
     ],
     "locus": "Durchgehend",
@@ -7952,7 +8322,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-10-23",
-    "Last modified": "2024-12-13",
+    "Last modified": "2025-03-13",
     "locus_layout": [
       {
         "id": 15097,
@@ -7977,7 +8347,14 @@
         "color": "darker-orange"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 18,
+        "value": "Clm. 6326, Stratum 2",
+        "order": "15.00000000000000000000"
+      }
+    ]
   },
   "154": {
     "id": 154,
@@ -8026,7 +8403,8 @@
     "Last modified": "2025-02-11",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "155": {
     "id": 155,
@@ -8053,7 +8431,7 @@
         "color": "darker-red"
       }
     ],
-    "locus": "",
+    "locus": "45ra-172rb",
     "text": [
       {
         "ids": {
@@ -8078,10 +8456,17 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-12-05",
-    "Last modified": "2024-12-05",
-    "locus_layout": [],
+    "Last modified": "2025-03-13",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "156": {
     "id": 156,
@@ -8148,7 +8533,8 @@
         "color": "darker-orange"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "157": {
     "id": 157,
@@ -8215,7 +8601,8 @@
         "color": "darker-orange"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "158": {
     "id": 158,
@@ -8264,7 +8651,8 @@
     "Last modified": "2025-01-28",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "159": {
     "id": 159,
@@ -8337,7 +8725,8 @@
         "value": "Überarbeitung",
         "color": "dark-pink"
       }
-    ]
+    ],
+    "strata": []
   },
   "160": {
     "id": 160,
@@ -8404,7 +8793,8 @@
         "color": "dark-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "162": {
     "id": 162,
@@ -8497,7 +8887,8 @@
         "value": "Erweiterung",
         "color": "darker-blue"
       }
-    ]
+    ],
+    "strata": []
   },
   "163": {
     "id": 163,
@@ -8570,7 +8961,8 @@
         "value": "Überarbeitung",
         "color": "dark-pink"
       }
-    ]
+    ],
+    "strata": []
   },
   "165": {
     "id": 165,
@@ -8637,7 +9029,14 @@
         "color": "dark-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 28,
+        "value": "ms. 706, Stratum 2",
+        "order": "25.00000000000000000000"
+      }
+    ]
   },
   "166": {
     "id": 166,
@@ -8704,7 +9103,14 @@
         "color": "light-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 25,
+        "value": "ms. 706, Stratum 1",
+        "order": "22.00000000000000000000"
+      }
+    ]
   },
   "167": {
     "id": 167,
@@ -8781,7 +9187,14 @@
         "color": "dark-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 31,
+        "value": "Clm. 6388, Stratum 3",
+        "order": "28.00000000000000000000"
+      }
+    ]
   },
   "168": {
     "id": 168,
@@ -8848,7 +9261,14 @@
         "color": "light-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 25,
+        "value": "ms. 706, Stratum 1",
+        "order": "22.00000000000000000000"
+      }
+    ]
   },
   "169": {
     "id": 169,
@@ -8915,7 +9335,14 @@
         "color": "light-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 25,
+        "value": "ms. 706, Stratum 1",
+        "order": "22.00000000000000000000"
+      }
+    ]
   },
   "170": {
     "id": 170,
@@ -8976,7 +9403,14 @@
       }
     ],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 32,
+        "value": "Clm. 6388, Stratum 4",
+        "order": "29.00000000000000000000"
+      }
+    ]
   },
   "172": {
     "id": 172,
@@ -9043,7 +9477,14 @@
         "color": "light-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 25,
+        "value": "ms. 706, Stratum 1",
+        "order": "22.00000000000000000000"
+      }
+    ]
   },
   "173": {
     "id": 173,
@@ -9116,6 +9557,13 @@
         "value": "Überarbeitung",
         "color": "dark-pink"
       }
+    ],
+    "strata": [
+      {
+        "id": 33,
+        "value": "Clm. 6388, Stratum 5",
+        "order": "30.00000000000000000000"
+      }
     ]
   },
   "174": {
@@ -9183,7 +9631,14 @@
         "color": "light-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 25,
+        "value": "ms. 706, Stratum 1",
+        "order": "22.00000000000000000000"
+      }
+    ]
   },
   "175": {
     "id": 175,
@@ -9250,7 +9705,14 @@
         "color": "light-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 25,
+        "value": "ms. 706, Stratum 1",
+        "order": "22.00000000000000000000"
+      }
+    ]
   },
   "176": {
     "id": 176,
@@ -9317,31 +9779,45 @@
         "color": "light-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 25,
+        "value": "ms. 706, Stratum 1",
+        "order": "22.00000000000000000000"
+      }
+    ]
   },
   "177": {
     "id": 177,
     "order": "163.00000000000000000000",
     "hit_id": "hit_hands_role__177",
-    "hand": [],
+    "hand": [
+      {
+        "id": 135,
+        "value": "BSB, Clm. 6382_H. 3",
+        "order": "126.00000000000000000000"
+      }
+    ],
     "ms_item": [],
     "role": [],
     "locus": "",
     "text": [],
     "locus_text": [],
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Created on": "2025-02-13",
-    "Last modified": "2025-02-13",
+    "Last modified": "2025-03-13",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "178": {
     "id": 178,
@@ -9408,7 +9884,14 @@
         "color": "light-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 25,
+        "value": "ms. 706, Stratum 1",
+        "order": "22.00000000000000000000"
+      }
+    ]
   },
   "179": {
     "id": 179,
@@ -9475,31 +9958,45 @@
         "color": "light-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 25,
+        "value": "ms. 706, Stratum 1",
+        "order": "22.00000000000000000000"
+      }
+    ]
   },
   "180": {
     "id": 180,
     "order": "166.00000000000000000000",
     "hit_id": "hit_hands_role__180",
-    "hand": [],
+    "hand": [
+      {
+        "id": 120,
+        "value": "BSB, Clm. 6382_H. 4",
+        "order": "112.00000000000000000000"
+      }
+    ],
     "ms_item": [],
     "role": [],
     "locus": "",
     "text": [],
     "locus_text": [],
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Created on": "2025-02-13",
-    "Last modified": "2025-02-13",
+    "Last modified": "2025-03-13",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "181": {
     "id": 181,
@@ -9566,31 +10063,45 @@
         "color": "light-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 25,
+        "value": "ms. 706, Stratum 1",
+        "order": "22.00000000000000000000"
+      }
+    ]
   },
   "182": {
     "id": 182,
     "order": "168.00000000000000000000",
     "hit_id": "hit_hands_role__182",
-    "hand": [],
+    "hand": [
+      {
+        "id": 97,
+        "value": "BSB, Clm. 6382_H. 5",
+        "order": "89.00000000000000000000"
+      }
+    ],
     "ms_item": [],
     "role": [],
     "locus": "",
     "text": [],
     "locus_text": [],
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Created on": "2025-02-13",
-    "Last modified": "2025-02-13",
+    "Last modified": "2025-03-13",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "183": {
     "id": 183,
@@ -9657,7 +10168,14 @@
         "color": "light-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 25,
+        "value": "ms. 706, Stratum 1",
+        "order": "22.00000000000000000000"
+      }
+    ]
   },
   "184": {
     "id": 184,
@@ -9681,7 +10199,8 @@
     "Last modified": "2025-02-13",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "185": {
     "id": 185,
@@ -9758,7 +10277,8 @@
         "color": "darker-orange"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "186": {
     "id": 186,
@@ -9825,7 +10345,14 @@
         "color": "light-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 25,
+        "value": "ms. 706, Stratum 1",
+        "order": "22.00000000000000000000"
+      }
+    ]
   },
   "187": {
     "id": 187,
@@ -9849,7 +10376,8 @@
     "Last modified": "2025-02-13",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "188": {
     "id": 188,
@@ -9922,7 +10450,8 @@
         "value": "Erweiterung",
         "color": "darker-blue"
       }
-    ]
+    ],
+    "strata": []
   },
   "189": {
     "id": 189,
@@ -9989,7 +10518,14 @@
         "color": "light-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 26,
+        "value": "ms. 15835, Stratum 1",
+        "order": "23.00000000000000000000"
+      }
+    ]
   },
   "190": {
     "id": 190,
@@ -10013,7 +10549,8 @@
     "Last modified": "2025-02-17",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "191": {
     "id": 191,
@@ -10080,7 +10617,14 @@
         "color": "light-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 26,
+        "value": "ms. 15835, Stratum 1",
+        "order": "23.00000000000000000000"
+      }
+    ]
   },
   "192": {
     "id": 192,
@@ -10147,7 +10691,14 @@
         "color": "light-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 26,
+        "value": "ms. 15835, Stratum 1",
+        "order": "23.00000000000000000000"
+      }
+    ]
   },
   "193": {
     "id": 193,
@@ -10171,7 +10722,8 @@
     "Last modified": "2025-02-17",
     "locus_layout": [],
     "function": [],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": []
   },
   "194": {
     "id": 194,
@@ -10238,7 +10790,14 @@
         "color": "light-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 26,
+        "value": "ms. 15835, Stratum 1",
+        "order": "23.00000000000000000000"
+      }
+    ]
   },
   "195": {
     "id": 195,
@@ -10337,6 +10896,13 @@
         "color": "light-blue"
       }
     ],
-    "scribe_type": []
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 27,
+        "value": "ms. 697, Stratum 1",
+        "order": "24.00000000000000000000"
+      }
+    ]
   }
 }

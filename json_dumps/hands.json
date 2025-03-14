@@ -1680,9 +1680,9 @@
         "id": 153,
         "value": [
           {
-            "id": 14760,
-            "value": "corrector OUTDATED",
-            "color": "darker-yellow"
+            "id": 15373,
+            "value": "Korrektor",
+            "color": "darker-brown"
           }
         ]
       }
@@ -7469,7 +7469,7 @@
         "value": "BSB, Clm. 6382_H. 1"
       }
     ],
-    "description": "Vorkarolingische Minuskel, u in Form von v am Ende der Zeilen, Q in spezifischer Form von zwei Arken auf einem Basis. (Daniel)",
+    "description": "Vorkarolingische Minuskel, u in Form von v am Ende der Zeilen, Q in spezifischer Form von zwei Arken auf einem Basis.",
     "hit_id": "hit_hands__96",
     "similar_hands": [],
     "nr_daniel": "",
@@ -7491,7 +7491,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-01-17",
+    "Last modified": "2025-03-13",
     "hands_role": [
       {
         "id": 155,
@@ -7555,7 +7555,7 @@
           "database_table_3487": 10,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6382_H. 3"
+        "value": "BSB, Clm. 6382_H. 5"
       }
     ],
     "description": "",
@@ -7569,7 +7569,7 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "number": "3",
+    "number": "5",
     "note": "",
     "Created by": {
       "id": 87,
@@ -7580,12 +7580,17 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-04",
+    "Last modified": "2025-03-13",
     "hands_role": [
       {
         "id": 148,
         "value": "hit_hands_role__148",
         "order": "134.00000000000000000000"
+      },
+      {
+        "id": 182,
+        "value": "hit_hands_role__182",
+        "order": "168.00000000000000000000"
       }
     ],
     "role": [
@@ -7598,6 +7603,10 @@
             "color": "darker-red"
           }
         ]
+      },
+      {
+        "id": 182,
+        "value": []
       }
     ],
     "texts": [
@@ -8824,12 +8833,17 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-12-05",
+    "Last modified": "2025-03-13",
     "hands_role": [
       {
         "id": 150,
         "value": "hit_hands_role__150",
         "order": "136.00000000000000000000"
+      },
+      {
+        "id": 180,
+        "value": "hit_hands_role__180",
+        "order": "166.00000000000000000000"
       }
     ],
     "role": [
@@ -8837,16 +8851,20 @@
         "id": 150,
         "value": [
           {
-            "id": 14760,
-            "value": "corrector OUTDATED",
-            "color": "darker-yellow"
+            "id": 15373,
+            "value": "Korrektor",
+            "color": "darker-brown"
           },
           {
-            "id": 14763,
-            "value": "Annotation OUTDATED",
-            "color": "cyan"
+            "id": 18175,
+            "value": "Überarbeiter",
+            "color": "dark-gray"
           }
         ]
+      },
+      {
+        "id": 180,
+        "value": []
       }
     ],
     "texts": [
@@ -9688,13 +9706,27 @@
   "135": {
     "id": 135,
     "order": "126.00000000000000000000",
-    "label": [],
-    "description": "",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 3"
+      }
+    ],
+    "description": "Eine Anglosächsische Hand aus Freising, die wahscheinlich unmittelbar nach der Schaffung der Texte von der Hand 1, die Fehler korrigiert hat.",
     "hit_id": "hit_hands__135",
     "similar_hands": [],
     "nr_daniel": "",
-    "manuscript": [],
-    "number": null,
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "number": "3",
     "note": "",
     "Created by": {
       "id": 86,
@@ -9702,12 +9734,23 @@
     },
     "Created on": "2025-02-13",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-02-13",
-    "hands_role": [],
-    "role": [],
+    "Last modified": "2025-03-13",
+    "hands_role": [
+      {
+        "id": 177,
+        "value": "hit_hands_role__177",
+        "order": "163.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 177,
+        "value": []
+      }
+    ],
     "texts": [],
     "hands_dated": [],
     "dating": [],

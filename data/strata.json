@@ -187,7 +187,8 @@
                     "color": "dark-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": []
               },
               {
                 "id": 3,
@@ -246,7 +247,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 1,
+                    "value": "Cod. M. p. th. f. 46, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -1476,7 +1483,13 @@
             "color": "light-blue"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 1,
+            "value": "Cod. M. p. th. f. 46, Stratum 1"
+          }
+        ]
       },
       {
         "id": 18,
@@ -1650,7 +1663,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 1,
+                    "value": "Cod. M. p. th. f. 46, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 19,
@@ -1709,7 +1728,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 1,
+                    "value": "Cod. M. p. th. f. 46, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 20,
@@ -1768,7 +1793,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 1,
+                    "value": "Cod. M. p. th. f. 46, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -3005,7 +3036,13 @@
             "color": "light-blue"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 1,
+            "value": "Cod. M. p. th. f. 46, Stratum 1"
+          }
+        ]
       },
       {
         "id": 19,
@@ -3179,7 +3216,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 1,
+                    "value": "Cod. M. p. th. f. 46, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 19,
@@ -3238,7 +3281,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 1,
+                    "value": "Cod. M. p. th. f. 46, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 20,
@@ -3297,7 +3346,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 1,
+                    "value": "Cod. M. p. th. f. 46, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -4534,7 +4589,13 @@
             "color": "light-blue"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 1,
+            "value": "Cod. M. p. th. f. 46, Stratum 1"
+          }
+        ]
       },
       {
         "id": 20,
@@ -4708,7 +4769,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 1,
+                    "value": "Cod. M. p. th. f. 46, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 19,
@@ -4767,7 +4834,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 1,
+                    "value": "Cod. M. p. th. f. 46, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 20,
@@ -4826,7 +4899,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 1,
+                    "value": "Cod. M. p. th. f. 46, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -6063,7 +6142,13 @@
             "color": "light-blue"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 1,
+            "value": "Cod. M. p. th. f. 46, Stratum 1"
+          }
+        ]
       },
       {
         "id": 24,
@@ -6222,6 +6307,12 @@
                     "id": 18165,
                     "value": "Erweiterung",
                     "color": "darker-blue"
+                  }
+                ],
+                "strata": [
+                  {
+                    "id": 1,
+                    "value": "Cod. M. p. th. f. 46, Stratum 1"
                   }
                 ]
               }
@@ -7446,6 +7537,12 @@
             "value": "Erweiterung",
             "color": "darker-blue"
           }
+        ],
+        "strata": [
+          {
+            "id": 1,
+            "value": "Cod. M. p. th. f. 46, Stratum 1"
+          }
         ]
       }
     ],
@@ -7704,6 +7801,12 @@
                     "id": 18165,
                     "value": "Erweiterung",
                     "color": "darker-blue"
+                  }
+                ],
+                "strata": [
+                  {
+                    "id": 2,
+                    "value": "Cod. M. p. th. f. 46, Stratum 2"
                   }
                 ]
               }
@@ -8933,6 +9036,12 @@
             "value": "Erweiterung",
             "color": "darker-blue"
           }
+        ],
+        "strata": [
+          {
+            "id": 2,
+            "value": "Cod. M. p. th. f. 46, Stratum 2"
+          }
         ]
       },
       {
@@ -9045,6 +9154,12 @@
                     "id": 18165,
                     "value": "Erweiterung",
                     "color": "darker-blue"
+                  }
+                ],
+                "strata": [
+                  {
+                    "id": 2,
+                    "value": "Cod. M. p. th. f. 46, Stratum 2"
                   }
                 ]
               }
@@ -10269,6 +10384,12 @@
             "value": "Erweiterung",
             "color": "darker-blue"
           }
+        ],
+        "strata": [
+          {
+            "id": 2,
+            "value": "Cod. M. p. th. f. 46, Stratum 2"
+          }
         ]
       },
       {
@@ -10441,6 +10562,12 @@
                     "id": 18165,
                     "value": "Erweiterung",
                     "color": "darker-blue"
+                  }
+                ],
+                "strata": [
+                  {
+                    "id": 2,
+                    "value": "Cod. M. p. th. f. 46, Stratum 2"
                   }
                 ]
               }
@@ -11665,6 +11792,12 @@
             "value": "Erweiterung",
             "color": "darker-blue"
           }
+        ],
+        "strata": [
+          {
+            "id": 2,
+            "value": "Cod. M. p. th. f. 46, Stratum 2"
+          }
         ]
       },
       {
@@ -11802,6 +11935,12 @@
                     "value": "Erweiterung",
                     "color": "darker-blue"
                   }
+                ],
+                "strata": [
+                  {
+                    "id": 2,
+                    "value": "Cod. M. p. th. f. 46, Stratum 2"
+                  }
                 ]
               },
               {
@@ -11866,6 +12005,12 @@
                     "id": 18165,
                     "value": "Erweiterung",
                     "color": "darker-blue"
+                  }
+                ],
+                "strata": [
+                  {
+                    "id": 2,
+                    "value": "Cod. M. p. th. f. 46, Stratum 2"
                   }
                 ]
               },
@@ -11932,7 +12077,8 @@
                     "value": "Erweiterung",
                     "color": "darker-blue"
                   }
-                ]
+                ],
+                "strata": []
               }
             ],
             "cod_unit": [
@@ -13173,6 +13319,12 @@
             "id": 18165,
             "value": "Erweiterung",
             "color": "darker-blue"
+          }
+        ],
+        "strata": [
+          {
+            "id": 2,
+            "value": "Cod. M. p. th. f. 46, Stratum 2"
           }
         ]
       },
@@ -13311,6 +13463,12 @@
                     "value": "Erweiterung",
                     "color": "darker-blue"
                   }
+                ],
+                "strata": [
+                  {
+                    "id": 2,
+                    "value": "Cod. M. p. th. f. 46, Stratum 2"
+                  }
                 ]
               },
               {
@@ -13375,6 +13533,12 @@
                     "id": 18165,
                     "value": "Erweiterung",
                     "color": "darker-blue"
+                  }
+                ],
+                "strata": [
+                  {
+                    "id": 2,
+                    "value": "Cod. M. p. th. f. 46, Stratum 2"
                   }
                 ]
               },
@@ -13441,7 +13605,8 @@
                     "value": "Erweiterung",
                     "color": "darker-blue"
                   }
-                ]
+                ],
+                "strata": []
               }
             ],
             "cod_unit": [
@@ -14682,6 +14847,12 @@
             "id": 18165,
             "value": "Erweiterung",
             "color": "darker-blue"
+          }
+        ],
+        "strata": [
+          {
+            "id": 2,
+            "value": "Cod. M. p. th. f. 46, Stratum 2"
           }
         ]
       }
@@ -14931,7 +15102,8 @@
                     "color": "dark-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": []
               },
               {
                 "id": 15,
@@ -14995,7 +15167,8 @@
                     "color": "dark-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": []
               },
               {
                 "id": 22,
@@ -15059,6 +15232,12 @@
                     "id": 18173,
                     "value": "Fortsetzung",
                     "color": "red"
+                  }
+                ],
+                "strata": [
+                  {
+                    "id": 4,
+                    "value": "Cod. M. p. th. f. 46, Stratum 3"
                   }
                 ]
               }
@@ -15764,6 +15943,12 @@
             "value": "Fortsetzung",
             "color": "red"
           }
+        ],
+        "strata": [
+          {
+            "id": 4,
+            "value": "Cod. M. p. th. f. 46, Stratum 3"
+          }
         ]
       }
     ],
@@ -15970,6 +16155,12 @@
                     "id": 18165,
                     "value": "Erweiterung",
                     "color": "darker-blue"
+                  }
+                ],
+                "strata": [
+                  {
+                    "id": 5,
+                    "value": "Cod. M. p. th. f. 46, Stratum 4"
                   }
                 ]
               }
@@ -16189,6 +16380,12 @@
             "value": "Erweiterung",
             "color": "darker-blue"
           }
+        ],
+        "strata": [
+          {
+            "id": 5,
+            "value": "Cod. M. p. th. f. 46, Stratum 4"
+          }
         ]
       },
       {
@@ -16340,6 +16537,12 @@
                     "id": 18165,
                     "value": "Erweiterung",
                     "color": "darker-blue"
+                  }
+                ],
+                "strata": [
+                  {
+                    "id": 5,
+                    "value": "Cod. M. p. th. f. 46, Stratum 4"
                   }
                 ]
               }
@@ -16559,6 +16762,12 @@
             "value": "Erweiterung",
             "color": "darker-blue"
           }
+        ],
+        "strata": [
+          {
+            "id": 5,
+            "value": "Cod. M. p. th. f. 46, Stratum 4"
+          }
         ]
       }
     ],
@@ -16729,6 +16938,12 @@
                     "id": 18165,
                     "value": "Erweiterung",
                     "color": "darker-blue"
+                  }
+                ],
+                "strata": [
+                  {
+                    "id": 10,
+                    "value": "Cod. M. p. th. f. 46, Stratum 5"
                   }
                 ]
               }
@@ -17953,6 +18168,12 @@
             "value": "Erweiterung",
             "color": "darker-blue"
           }
+        ],
+        "strata": [
+          {
+            "id": 10,
+            "value": "Cod. M. p. th. f. 46, Stratum 5"
+          }
         ]
       },
       {
@@ -18065,6 +18286,12 @@
                     "id": 18165,
                     "value": "Erweiterung",
                     "color": "darker-blue"
+                  }
+                ],
+                "strata": [
+                  {
+                    "id": 10,
+                    "value": "Cod. M. p. th. f. 46, Stratum 5"
                   }
                 ]
               }
@@ -18756,6 +18983,12 @@
             "value": "Erweiterung",
             "color": "darker-blue"
           }
+        ],
+        "strata": [
+          {
+            "id": 10,
+            "value": "Cod. M. p. th. f. 46, Stratum 5"
+          }
         ]
       },
       {
@@ -18868,6 +19101,12 @@
                     "id": 18165,
                     "value": "Erweiterung",
                     "color": "darker-blue"
+                  }
+                ],
+                "strata": [
+                  {
+                    "id": 10,
+                    "value": "Cod. M. p. th. f. 46, Stratum 5"
                   }
                 ]
               }
@@ -20092,6 +20331,12 @@
             "value": "Erweiterung",
             "color": "darker-blue"
           }
+        ],
+        "strata": [
+          {
+            "id": 10,
+            "value": "Cod. M. p. th. f. 46, Stratum 5"
+          }
         ]
       }
     ],
@@ -20292,6 +20537,12 @@
                     "id": 18165,
                     "value": "Erweiterung",
                     "color": "darker-blue"
+                  }
+                ],
+                "strata": [
+                  {
+                    "id": 11,
+                    "value": "Cod. M. p. th. f. 46, Stratum 6"
                   }
                 ]
               }
@@ -21516,6 +21767,12 @@
             "value": "Erweiterung",
             "color": "darker-blue"
           }
+        ],
+        "strata": [
+          {
+            "id": 11,
+            "value": "Cod. M. p. th. f. 46, Stratum 6"
+          }
         ]
       },
       {
@@ -21629,6 +21886,12 @@
                     "value": "Erweiterung",
                     "color": "darker-blue"
                   }
+                ],
+                "strata": [
+                  {
+                    "id": 11,
+                    "value": "Cod. M. p. th. f. 46, Stratum 6"
+                  }
                 ]
               }
             ],
@@ -21703,6 +21966,12 @@
             "id": 18165,
             "value": "Erweiterung",
             "color": "darker-blue"
+          }
+        ],
+        "strata": [
+          {
+            "id": 11,
+            "value": "Cod. M. p. th. f. 46, Stratum 6"
           }
         ]
       }
@@ -22042,7 +22311,13 @@
                   }
                 ],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 3,
+                    "value": "Clm. 6326, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 153,
@@ -22065,9 +22340,9 @@
                 ],
                 "role": [
                   {
-                    "id": 14760,
-                    "value": "corrector OUTDATED",
-                    "color": "darker-yellow"
+                    "id": 15373,
+                    "value": "Korrektor",
+                    "color": "darker-brown"
                   }
                 ],
                 "locus": "Durchgehend",
@@ -22101,7 +22376,7 @@
                   "id": 87,
                   "name": "Ksenia Borisova"
                 },
-                "Last modified": "2024-12-13",
+                "Last modified": "2025-03-13",
                 "locus_layout": [
                   {
                     "id": 15097,
@@ -22126,7 +22401,13 @@
                     "color": "darker-orange"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 18,
+                    "value": "Clm. 6326, Stratum 2"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -23865,7 +24146,13 @@
                   }
                 ],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 3,
+                    "value": "Clm. 6326, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -25597,7 +25884,13 @@
                   }
                 ],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 3,
+                    "value": "Clm. 6326, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -27378,7 +27671,13 @@
                   }
                 ],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 3,
+                    "value": "Clm. 6326, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 153,
@@ -27401,9 +27700,9 @@
                 ],
                 "role": [
                   {
-                    "id": 14760,
-                    "value": "corrector OUTDATED",
-                    "color": "darker-yellow"
+                    "id": 15373,
+                    "value": "Korrektor",
+                    "color": "darker-brown"
                   }
                 ],
                 "locus": "Durchgehend",
@@ -27437,7 +27736,7 @@
                   "id": 87,
                   "name": "Ksenia Borisova"
                 },
-                "Last modified": "2024-12-13",
+                "Last modified": "2025-03-13",
                 "locus_layout": [
                   {
                     "id": 15097,
@@ -27462,7 +27761,13 @@
                     "color": "darker-orange"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 18,
+                    "value": "Clm. 6326, Stratum 2"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -29245,7 +29550,13 @@
                   }
                 ],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 3,
+                    "value": "Clm. 6326, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -30977,7 +31288,13 @@
                   }
                 ],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 3,
+                    "value": "Clm. 6326, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -32753,7 +33070,13 @@
                   }
                 ],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 3,
+                    "value": "Clm. 6326, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -34473,7 +34796,13 @@
                   }
                 ],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 3,
+                    "value": "Clm. 6326, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -36150,7 +36479,13 @@
                   }
                 ],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 3,
+                    "value": "Clm. 6326, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -37731,7 +38066,13 @@
           }
         ],
         "function": [],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 3,
+            "value": "Clm. 6326, Stratum 1"
+          }
+        ]
       }
     ],
     "note": "Hauptstratum, umfasst das ganze Codex, außer Korrekturen. Entweder ein oder zwei Hauptschreiber, die zusammen arbeiten.",
@@ -37932,7 +38273,13 @@
                   }
                 ],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 6,
+                    "value": "Clm. 6308, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 38,
@@ -38011,7 +38358,13 @@
                     "color": "dark-cyan"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 7,
+                    "value": "Clm. 6308, Stratum 2"
+                  }
+                ]
               },
               {
                 "id": 142,
@@ -38085,7 +38438,13 @@
                     "color": "red"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 17,
+                    "value": "Clm. 6308, Stratum 3"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -39734,7 +40093,13 @@
           }
         ],
         "function": [],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 6,
+            "value": "Clm. 6308, Stratum 1"
+          }
+        ]
       }
     ],
     "note": "Hauptstratum",
@@ -39940,7 +40305,13 @@
                   }
                 ],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 6,
+                    "value": "Clm. 6308, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 38,
@@ -40019,7 +40390,13 @@
                     "color": "dark-cyan"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 7,
+                    "value": "Clm. 6308, Stratum 2"
+                  }
+                ]
               },
               {
                 "id": 142,
@@ -40093,7 +40470,13 @@
                     "color": "red"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 17,
+                    "value": "Clm. 6308, Stratum 3"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -41768,7 +42151,13 @@
             "color": "dark-cyan"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 7,
+            "value": "Clm. 6308, Stratum 2"
+          }
+        ]
       }
     ],
     "note": "Textkorrekturen am Rand, mind. 30-40 Jahre später.",
@@ -41969,7 +42358,13 @@
                   }
                 ],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 8,
+                    "value": "Cod. 366, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 41,
@@ -42016,7 +42411,13 @@
                 "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 8,
+                    "value": "Cod. 366, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 42,
@@ -42063,7 +42464,13 @@
                 "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 8,
+                    "value": "Cod. 366, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 43,
@@ -42110,7 +42517,13 @@
                 "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 8,
+                    "value": "Cod. 366, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -42378,7 +42791,13 @@
           }
         ],
         "function": [],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 8,
+            "value": "Cod. 366, Stratum 1"
+          }
+        ]
       },
       {
         "id": 41,
@@ -42534,7 +42953,13 @@
                   }
                 ],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 8,
+                    "value": "Cod. 366, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 41,
@@ -42581,7 +43006,13 @@
                 "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 8,
+                    "value": "Cod. 366, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 42,
@@ -42628,7 +43059,13 @@
                 "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 8,
+                    "value": "Cod. 366, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 43,
@@ -42675,7 +43112,13 @@
                 "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 8,
+                    "value": "Cod. 366, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -42937,7 +43380,13 @@
         "Last modified": "2025-01-30",
         "locus_layout": [],
         "function": [],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 8,
+            "value": "Cod. 366, Stratum 1"
+          }
+        ]
       },
       {
         "id": 42,
@@ -43093,7 +43542,13 @@
                   }
                 ],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 8,
+                    "value": "Cod. 366, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 41,
@@ -43140,7 +43595,13 @@
                 "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 8,
+                    "value": "Cod. 366, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 42,
@@ -43187,7 +43648,13 @@
                 "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 8,
+                    "value": "Cod. 366, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 43,
@@ -43234,7 +43701,13 @@
                 "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 8,
+                    "value": "Cod. 366, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -43496,7 +43969,13 @@
         "Last modified": "2025-01-30",
         "locus_layout": [],
         "function": [],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 8,
+            "value": "Cod. 366, Stratum 1"
+          }
+        ]
       },
       {
         "id": 43,
@@ -43652,7 +44131,13 @@
                   }
                 ],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 8,
+                    "value": "Cod. 366, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 41,
@@ -43699,7 +44184,13 @@
                 "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 8,
+                    "value": "Cod. 366, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 42,
@@ -43746,7 +44237,13 @@
                 "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 8,
+                    "value": "Cod. 366, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 43,
@@ -43793,7 +44290,13 @@
                 "Last modified": "2025-01-30",
                 "locus_layout": [],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 8,
+                    "value": "Cod. 366, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -44055,7 +44558,13 @@
         "Last modified": "2025-01-30",
         "locus_layout": [],
         "function": [],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 8,
+            "value": "Cod. 366, Stratum 1"
+          }
+        ]
       }
     ],
     "note": "Hauptstratum",
@@ -44219,7 +44728,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 9,
+                    "value": "Cod. 387, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -45676,7 +46191,13 @@
             "color": "light-blue"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 9,
+            "value": "Cod. 387, Stratum 1"
+          }
+        ]
       }
     ],
     "note": "",
@@ -45833,6 +46354,12 @@
                     "id": 18165,
                     "value": "Erweiterung",
                     "color": "darker-blue"
+                  }
+                ],
+                "strata": [
+                  {
+                    "id": 14,
+                    "value": "Cod. 387, Stratum 2"
                   }
                 ]
               }
@@ -47297,6 +47824,12 @@
             "value": "Erweiterung",
             "color": "darker-blue"
           }
+        ],
+        "strata": [
+          {
+            "id": 14,
+            "value": "Cod. 387, Stratum 2"
+          }
         ]
       },
       {
@@ -47409,6 +47942,12 @@
                     "id": 18165,
                     "value": "Erweiterung",
                     "color": "darker-blue"
+                  }
+                ],
+                "strata": [
+                  {
+                    "id": 14,
+                    "value": "Cod. 387, Stratum 2"
                   }
                 ]
               }
@@ -48873,6 +49412,12 @@
             "value": "Erweiterung",
             "color": "darker-blue"
           }
+        ],
+        "strata": [
+          {
+            "id": 14,
+            "value": "Cod. 387, Stratum 2"
+          }
         ]
       }
     ],
@@ -49037,7 +49582,13 @@
                     "color": "dark-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 12,
+                    "value": "Cod. 2090, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -49161,7 +49712,13 @@
             "color": "dark-blue"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 12,
+            "value": "Cod. 2090, Stratum 1"
+          }
+        ]
       },
       {
         "id": 63,
@@ -49268,7 +49825,13 @@
                     "color": "darker-orange"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 12,
+                    "value": "Cod. 2090, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 114,
@@ -49327,7 +49890,8 @@
                     "color": "darker-orange"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": []
               }
             ],
             "cod_unit": [
@@ -49446,7 +50010,13 @@
             "color": "darker-orange"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 12,
+            "value": "Cod. 2090, Stratum 1"
+          }
+        ]
       },
       {
         "id": 64,
@@ -49541,7 +50111,13 @@
                 "Last modified": "2024-07-28",
                 "locus_layout": [],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 12,
+                    "value": "Cod. 2090, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 86,
@@ -49588,7 +50164,8 @@
                 "Last modified": "2024-10-03",
                 "locus_layout": [],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": []
               },
               {
                 "id": 87,
@@ -49635,7 +50212,8 @@
                 "Last modified": "2024-10-03",
                 "locus_layout": [],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": []
               },
               {
                 "id": 93,
@@ -49682,7 +50260,8 @@
                 "Last modified": "2024-10-03",
                 "locus_layout": [],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": []
               },
               {
                 "id": 94,
@@ -49729,7 +50308,8 @@
                 "Last modified": "2024-10-03",
                 "locus_layout": [],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": []
               },
               {
                 "id": 156,
@@ -49788,7 +50368,8 @@
                     "color": "darker-orange"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": []
               }
             ],
             "cod_unit": [
@@ -49929,7 +50510,13 @@
         "Last modified": "2024-07-28",
         "locus_layout": [],
         "function": [],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 12,
+            "value": "Cod. 2090, Stratum 1"
+          }
+        ]
       },
       {
         "id": 70,
@@ -50036,7 +50623,13 @@
                     "color": "darker-brown"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 12,
+                    "value": "Cod. 2090, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 71,
@@ -50100,7 +50693,8 @@
                     "color": "darker-brown"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": []
               },
               {
                 "id": 75,
@@ -50164,7 +50758,8 @@
                     "color": "darker-brown"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": []
               }
             ],
             "cod_unit": [
@@ -50290,7 +50885,13 @@
             "color": "darker-brown"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 12,
+            "value": "Cod. 2090, Stratum 1"
+          }
+        ]
       },
       {
         "id": 78,
@@ -50397,7 +50998,13 @@
                     "color": "dark-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 12,
+                    "value": "Cod. 2090, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -50521,7 +51128,13 @@
             "color": "dark-blue"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 12,
+            "value": "Cod. 2090, Stratum 1"
+          }
+        ]
       },
       {
         "id": 79,
@@ -50640,7 +51253,13 @@
                     "color": "dark-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 12,
+                    "value": "Cod. 2090, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -50752,7 +51371,13 @@
             "color": "dark-blue"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 12,
+            "value": "Cod. 2090, Stratum 1"
+          }
+        ]
       }
     ],
     "note": "Dieses Stratum beschreibt die Anlage der Handschrift und besteht u.a. aus den Königs-, Papst- und Bischofslisten und den verbrüderten Geistlichen sowie dem Nekrolog, deren Grundstruktur zu Lebzeiten des Erzbischofs Gebhard entstanden sind.\nCatalogus auch und Fortsetzung des Catalogus. Texte aus spätem 11. Jahrhundert auch eigens zählen?",
@@ -50936,7 +51561,13 @@
                 "Last modified": "2025-02-23",
                 "locus_layout": [],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 15,
+                    "value": "Cod. 2090, Stratum 3"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -51036,7 +51667,13 @@
         "Last modified": "2025-02-23",
         "locus_layout": [],
         "function": [],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 15,
+            "value": "Cod. 2090, Stratum 3"
+          }
+        ]
       }
     ],
     "note": "Traditionsnotizen aus der 1. Hälfte des 12. Jahrhunderts als eigenes Stratum?",
@@ -51231,7 +51868,13 @@
                     "color": "darker-brown"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 16,
+                    "value": "Cod. 2090, Stratum 4"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -51352,7 +51995,13 @@
             "color": "darker-brown"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 16,
+            "value": "Cod. 2090, Stratum 4"
+          }
+        ]
       },
       {
         "id": 88,
@@ -51471,7 +52120,13 @@
                     "color": "darker-brown"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 16,
+                    "value": "Cod. 2090, Stratum 4"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -51592,7 +52247,13 @@
             "color": "darker-brown"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 16,
+            "value": "Cod. 2090, Stratum 4"
+          }
+        ]
       }
     ],
     "note": "Dieses Stratum umfasst die Einfügung mehrerer Briefe zu Salzburger Erzbischöfen in der zweiten Hälfte des 12. Jahrhunderts durch 1-2 Hände.",
@@ -51798,7 +52459,13 @@
                   }
                 ],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 6,
+                    "value": "Clm. 6308, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 38,
@@ -51877,7 +52544,13 @@
                     "color": "dark-cyan"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 7,
+                    "value": "Clm. 6308, Stratum 2"
+                  }
+                ]
               },
               {
                 "id": 142,
@@ -51951,7 +52624,13 @@
                     "color": "red"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 17,
+                    "value": "Clm. 6308, Stratum 3"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -53621,7 +54300,13 @@
             "color": "red"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 17,
+            "value": "Clm. 6308, Stratum 3"
+          }
+        ]
       }
     ],
     "note": "Das Stratum besteht aus vielfaltigen Korrekturen, einschliessend eine Umschreibung des Textes auf 8r, und Annotationen, darunter auch Glossen. Die Hand hat offensichtlich später (mind. +50 Jahre) gearbeitet, weil die Hände des Hauptschreibers und des Korrektors zu verschiedenen Entwicklungsphasen der Minuskel gehören.",
@@ -53954,7 +54639,13 @@
                   }
                 ],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 3,
+                    "value": "Clm. 6326, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 153,
@@ -53977,9 +54668,9 @@
                 ],
                 "role": [
                   {
-                    "id": 14760,
-                    "value": "corrector OUTDATED",
-                    "color": "darker-yellow"
+                    "id": 15373,
+                    "value": "Korrektor",
+                    "color": "darker-brown"
                   }
                 ],
                 "locus": "Durchgehend",
@@ -54013,7 +54704,7 @@
                   "id": 87,
                   "name": "Ksenia Borisova"
                 },
-                "Last modified": "2024-12-13",
+                "Last modified": "2025-03-13",
                 "locus_layout": [
                   {
                     "id": 15097,
@@ -54038,7 +54729,13 @@
                     "color": "darker-orange"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 18,
+                    "value": "Clm. 6326, Stratum 2"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -55826,7 +56523,13 @@
                   }
                 ],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 3,
+                    "value": "Clm. 6326, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 153,
@@ -55849,9 +56552,9 @@
                 ],
                 "role": [
                   {
-                    "id": 14760,
-                    "value": "corrector OUTDATED",
-                    "color": "darker-yellow"
+                    "id": 15373,
+                    "value": "Korrektor",
+                    "color": "darker-brown"
                   }
                 ],
                 "locus": "Durchgehend",
@@ -55885,7 +56588,7 @@
                   "id": 87,
                   "name": "Ksenia Borisova"
                 },
-                "Last modified": "2024-12-13",
+                "Last modified": "2025-03-13",
                 "locus_layout": [
                   {
                     "id": 15097,
@@ -55910,7 +56613,13 @@
                     "color": "darker-orange"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 18,
+                    "value": "Clm. 6326, Stratum 2"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -57376,9 +58085,9 @@
         ],
         "role": [
           {
-            "id": 14760,
-            "value": "corrector OUTDATED",
-            "color": "darker-yellow"
+            "id": 15373,
+            "value": "Korrektor",
+            "color": "darker-brown"
           }
         ],
         "locus": "Durchgehend",
@@ -57412,7 +58121,7 @@
           "id": 87,
           "name": "Ksenia Borisova"
         },
-        "Last modified": "2024-12-13",
+        "Last modified": "2025-03-13",
         "locus_layout": [
           {
             "id": 15097,
@@ -57437,7 +58146,13 @@
             "color": "darker-orange"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 18,
+            "value": "Clm. 6326, Stratum 2"
+          }
+        ]
       }
     ],
     "note": "Korrekturen meistens zu Vita sancti Martini",
@@ -57671,7 +58386,13 @@
                   }
                 ],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 19,
+                    "value": "Clm. 6375, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -58067,7 +58788,13 @@
                   }
                 ],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 19,
+                    "value": "Clm. 6375, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -58468,7 +59195,13 @@
                     "color": "red"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 20,
+                    "value": "Clm. 6375, Stratum 2"
+                  }
+                ]
               },
               {
                 "id": 139,
@@ -58566,7 +59299,13 @@
                   }
                 ],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 19,
+                    "value": "Clm. 6375, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -58969,7 +59708,13 @@
                   }
                 ],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 19,
+                    "value": "Clm. 6375, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -59258,7 +60003,13 @@
           }
         ],
         "function": [],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 19,
+            "value": "Clm. 6375, Stratum 1"
+          }
+        ]
       }
     ],
     "note": "Hauptstratum von einer Hand, abgeschrieben von einem voraussichtlich Merowingischen Protograph.",
@@ -59497,7 +60248,13 @@
                     "color": "red"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 20,
+                    "value": "Clm. 6375, Stratum 2"
+                  }
+                ]
               },
               {
                 "id": 139,
@@ -59595,7 +60352,13 @@
                   }
                 ],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 19,
+                    "value": "Clm. 6375, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -59858,7 +60621,13 @@
             "color": "red"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 20,
+            "value": "Clm. 6375, Stratum 2"
+          }
+        ]
       }
     ],
     "note": "Korrekturen",
@@ -60053,7 +60822,13 @@
                 "Last modified": "2025-01-17",
                 "locus_layout": [],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 21,
+                    "value": "Clm. 6380, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -60243,7 +61018,13 @@
         "Last modified": "2025-01-17",
         "locus_layout": [],
         "function": [],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 21,
+            "value": "Clm. 6380, Stratum 1"
+          }
+        ]
       }
     ],
     "note": "",
@@ -60592,7 +61373,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 168,
@@ -60651,7 +61438,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 169,
@@ -60710,7 +61503,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 185,
@@ -60779,7 +61578,8 @@
                     "color": "darker-orange"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": []
               }
             ],
             "cod_unit": [
@@ -61105,7 +61905,13 @@
             "color": "light-blue"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 25,
+            "value": "ms. 706, Stratum 1"
+          }
+        ]
       },
       {
         "id": 168,
@@ -61295,7 +62101,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 168,
@@ -61354,7 +62166,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 169,
@@ -61413,7 +62231,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 185,
@@ -61482,7 +62306,8 @@
                     "color": "darker-orange"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": []
               }
             ],
             "cod_unit": [
@@ -61808,7 +62633,13 @@
             "color": "light-blue"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 25,
+            "value": "ms. 706, Stratum 1"
+          }
+        ]
       },
       {
         "id": 169,
@@ -61998,7 +62829,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 168,
@@ -62057,7 +62894,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 169,
@@ -62116,7 +62959,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 185,
@@ -62185,7 +63034,8 @@
                     "color": "darker-orange"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": []
               }
             ],
             "cod_unit": [
@@ -62511,7 +63361,13 @@
             "color": "light-blue"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 25,
+            "value": "ms. 706, Stratum 1"
+          }
+        ]
       },
       {
         "id": 172,
@@ -62642,7 +63498,13 @@
                     "color": "dark-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 28,
+                    "value": "ms. 706, Stratum 2"
+                  }
+                ]
               },
               {
                 "id": 172,
@@ -62701,7 +63563,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 175,
@@ -62760,7 +63628,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -63062,7 +63936,13 @@
             "color": "light-blue"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 25,
+            "value": "ms. 706, Stratum 1"
+          }
+        ]
       },
       {
         "id": 174,
@@ -63262,7 +64142,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 176,
@@ -63321,7 +64207,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 179,
@@ -63380,7 +64272,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 181,
@@ -63439,7 +64337,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -63748,7 +64652,13 @@
             "color": "light-blue"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 25,
+            "value": "ms. 706, Stratum 1"
+          }
+        ]
       },
       {
         "id": 175,
@@ -63879,7 +64789,13 @@
                     "color": "dark-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 28,
+                    "value": "ms. 706, Stratum 2"
+                  }
+                ]
               },
               {
                 "id": 172,
@@ -63938,7 +64854,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 175,
@@ -63997,7 +64919,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -64299,7 +65227,13 @@
             "color": "light-blue"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 25,
+            "value": "ms. 706, Stratum 1"
+          }
+        ]
       },
       {
         "id": 176,
@@ -64499,7 +65433,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 176,
@@ -64558,7 +65498,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 179,
@@ -64617,7 +65563,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 181,
@@ -64676,7 +65628,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -64985,7 +65943,13 @@
             "color": "light-blue"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 25,
+            "value": "ms. 706, Stratum 1"
+          }
+        ]
       },
       {
         "id": 178,
@@ -65116,7 +66080,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -65410,7 +66380,13 @@
             "color": "light-blue"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 25,
+            "value": "ms. 706, Stratum 1"
+          }
+        ]
       },
       {
         "id": 179,
@@ -65610,7 +66586,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 176,
@@ -65669,7 +66651,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 179,
@@ -65728,7 +66716,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 181,
@@ -65787,7 +66781,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -66096,7 +67096,13 @@
             "color": "light-blue"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 25,
+            "value": "ms. 706, Stratum 1"
+          }
+        ]
       },
       {
         "id": 181,
@@ -66296,7 +67302,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 176,
@@ -66355,7 +67367,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 179,
@@ -66414,7 +67432,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 181,
@@ -66473,7 +67497,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -66782,7 +67812,13 @@
             "color": "light-blue"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 25,
+            "value": "ms. 706, Stratum 1"
+          }
+        ]
       },
       {
         "id": 183,
@@ -66913,7 +67949,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -67207,7 +68249,13 @@
             "color": "light-blue"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 25,
+            "value": "ms. 706, Stratum 1"
+          }
+        ]
       },
       {
         "id": 186,
@@ -67326,7 +68374,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -67614,7 +68668,13 @@
             "color": "light-blue"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 25,
+            "value": "ms. 706, Stratum 1"
+          }
+        ]
       }
     ],
     "note": "Dieses Stratum umfasst die Anlage der Handschrift, also in diesem spezifischen Fall die getreue Abschrift eines heute nicht mehr überlieferten Kompendiums durch vier Kopisten, die dem Skriptorium des Abtes Odbert von Saint-Bertin zugeordnet werden können. Das Stratum ist ident mit Stratum 1 der Codices Saint-Omer ms. 697 und Bruxelles KBR ms. 15835, die ursprünglich eine einzelne Handschrift bildeten.",
@@ -67833,7 +68893,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 26,
+                    "value": "ms. 15835, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -67945,7 +69011,13 @@
             "color": "light-blue"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 26,
+            "value": "ms. 15835, Stratum 1"
+          }
+        ]
       },
       {
         "id": 191,
@@ -68076,7 +69148,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 26,
+                    "value": "ms. 15835, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -68188,7 +69266,13 @@
             "color": "light-blue"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 26,
+            "value": "ms. 15835, Stratum 1"
+          }
+        ]
       },
       {
         "id": 192,
@@ -68319,7 +69403,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 26,
+                    "value": "ms. 15835, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 194,
@@ -68378,7 +69468,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 26,
+                    "value": "ms. 15835, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -68497,7 +69593,13 @@
             "color": "light-blue"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 26,
+            "value": "ms. 15835, Stratum 1"
+          }
+        ]
       },
       {
         "id": 194,
@@ -68628,7 +69730,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 26,
+                    "value": "ms. 15835, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 194,
@@ -68687,7 +69795,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 26,
+                    "value": "ms. 15835, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -68806,7 +69920,13 @@
             "color": "light-blue"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 26,
+            "value": "ms. 15835, Stratum 1"
+          }
+        ]
       }
     ],
     "note": "Dieses Stratum umfasst die Anlage der Handschrift, also in diesem spezifischen Fall die getreue Abschrift eines heute nicht mehr überlieferten Kompendiums durch vier Kopisten, die dem Skriptorium des Abtes Odbert von Saint-Bertin zugeordnet werden können. Das Stratum ist ident mit Stratum 1 der Codices Saint-Omer ms. 697 und Saint-Omer 706, die ursprünglich eine einzelne Handschrift bildeten.",
@@ -69043,7 +70163,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 27,
+                    "value": "ms. 697, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -69304,7 +70430,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 27,
+                    "value": "ms. 697, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -69522,7 +70654,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 27,
+                    "value": "ms. 697, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -69668,7 +70806,13 @@
             "color": "light-blue"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 27,
+            "value": "ms. 697, Stratum 1"
+          }
+        ]
       }
     ],
     "note": "Dieses Stratum umfasst die Anlage der Handschrift, also in diesem spezifischen Fall die getreue Abschrift eines heute nicht mehr überlieferten Kompendiums durch vier Kopisten, die dem Skriptorium des Abtes Odbert von Saint-Bertin zugeordnet werden können. Das Stratum ist ident mit Stratum 1 der Codices Saint-Omer ms. 706 und Bruxelles KBR ms. 15835, die ursprünglich eine einzelne Handschrift bildeten.",
@@ -69844,7 +70988,13 @@
                     "color": "dark-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 28,
+                    "value": "ms. 706, Stratum 2"
+                  }
+                ]
               },
               {
                 "id": 172,
@@ -69903,7 +71053,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               },
               {
                 "id": 175,
@@ -69962,7 +71118,13 @@
                     "color": "light-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 25,
+                    "value": "ms. 706, Stratum 1"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -70264,7 +71426,13 @@
             "color": "dark-blue"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 28,
+            "value": "ms. 706, Stratum 2"
+          }
+        ]
       }
     ],
     "note": "Dieses Stratum umfasst die Arbeit einer einzelnen Hand, die in den Annales regni Francorum eine Zeile radierte und durch eine Interpolation zu einem Abt von Saint-Bertin einfügte.",
@@ -70473,7 +71641,8 @@
                   }
                 ],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": []
               },
               {
                 "id": 167,
@@ -70541,7 +71710,13 @@
                     "color": "dark-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 31,
+                    "value": "Clm. 6388, Stratum 3"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -71035,7 +72210,13 @@
                     "color": "dark-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 31,
+                    "value": "Clm. 6388, Stratum 3"
+                  }
+                ]
               },
               {
                 "id": 170,
@@ -71088,7 +72269,13 @@
                   }
                 ],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 32,
+                    "value": "Clm. 6388, Stratum 4"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -71285,7 +72472,13 @@
             "color": "dark-blue"
           }
         ],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 31,
+            "value": "Clm. 6388, Stratum 3"
+          }
+        ]
       }
     ],
     "note": "Das Stratum wurde in Freising Ende 10 J. geschaffen. Zu diesem Zeitpunkt wurden die drei Kodikologischen Einheiten der Clm. 6388 schon zusammen gebunden. Das Stratum bringt dazu die Texte von Historia Ottonis (Liutprand von Cremona) und von Praefatio zu der Chronica cum Adalberti continuatione (Regino von Prüm). Danach fehlen drei Lagen.",
@@ -71501,7 +72694,13 @@
                     "color": "dark-blue"
                   }
                 ],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 31,
+                    "value": "Clm. 6388, Stratum 3"
+                  }
+                ]
               },
               {
                 "id": 170,
@@ -71554,7 +72753,13 @@
                   }
                 ],
                 "function": [],
-                "scribe_type": []
+                "scribe_type": [],
+                "strata": [
+                  {
+                    "id": 32,
+                    "value": "Clm. 6388, Stratum 4"
+                  }
+                ]
               }
             ],
             "cod_unit": [
@@ -71740,7 +72945,13 @@
           }
         ],
         "function": [],
-        "scribe_type": []
+        "scribe_type": [],
+        "strata": [
+          {
+            "id": 32,
+            "value": "Clm. 6388, Stratum 4"
+          }
+        ]
       }
     ],
     "note": "Stratum wurde als eine Fortsetzung des Stratums 3 geschaffen und stellt den Text von Chronica cum Adalberti continuatione (Regino von Prüm) dar. Die ersten drei Lagen wurden verloren.",
@@ -71909,6 +73120,12 @@
                     "id": 18167,
                     "value": "Überarbeitung",
                     "color": "dark-pink"
+                  }
+                ],
+                "strata": [
+                  {
+                    "id": 33,
+                    "value": "Clm. 6388, Stratum 5"
                   }
                 ]
               }
@@ -72105,6 +73322,12 @@
             "id": 18167,
             "value": "Überarbeitung",
             "color": "dark-pink"
+          }
+        ],
+        "strata": [
+          {
+            "id": 33,
+            "value": "Clm. 6388, Stratum 5"
           }
         ]
       }

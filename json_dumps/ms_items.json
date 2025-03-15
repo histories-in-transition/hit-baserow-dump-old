@@ -7459,7 +7459,13 @@
     "hit_id": "hit_ms_items__122",
     "filiation": null,
     "locus_grp": "1r",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 196,
+        "value": "hit_hands_role__196",
+        "order": "182.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 15,
@@ -7478,7 +7484,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "3-4 Hände",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 7"
+      }
+    ],
     "decoration": [],
     "facs_url": "",
     "form": [],
@@ -7619,15 +7633,15 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2025-01-30",
+    "Last modified": "2025-03-14",
     "Created on": "2024-07-26",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "note": "",
     "hand": [
@@ -7644,18 +7658,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "commented_msitem": [
-      {
-        "id": 123,
-        "value": "cod_2090__123",
-        "order": "110.00000000000000000000"
-      },
-      {
-        "id": 125,
-        "value": "cod_2090__125",
-        "order": "112.00000000000000000000"
-      }
-    ]
+    "commented_msitem": []
   },
   "125": {
     "id": 125,
@@ -8150,15 +8153,15 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2025-01-30",
+    "Last modified": "2025-03-14",
     "Created on": "2024-07-28",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "note": "",
     "hand": [
@@ -8175,18 +8178,7 @@
     "form": [],
     "form_note": null,
     "column": [],
-    "commented_msitem": [
-      {
-        "id": 127,
-        "value": "cod_2090__127",
-        "order": "114.00000000000000000000"
-      },
-      {
-        "id": 128,
-        "value": "cod_2090__128",
-        "order": "115.00000000000000000000"
-      }
-    ]
+    "commented_msitem": []
   },
   "130": {
     "id": 130,
@@ -9561,11 +9553,6 @@
         "id": 157,
         "value": "hit_hands_role__157",
         "order": "143.00000000000000000000"
-      },
-      {
-        "id": 158,
-        "value": "hit_hands_role__158",
-        "order": "144.00000000000000000000"
       }
     ],
     "cod_unit": [],

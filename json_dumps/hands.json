@@ -3934,9 +3934,9 @@
         "id": 71,
         "value": [
           {
-            "id": 15377,
-            "value": "continuator/Fortsetzer OUTDATED",
-            "color": "darker-pink"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       }
@@ -4017,9 +4017,9 @@
         "id": 75,
         "value": [
           {
-            "id": 15377,
-            "value": "continuator/Fortsetzer OUTDATED",
-            "color": "darker-pink"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       }
@@ -4100,9 +4100,9 @@
         "id": 77,
         "value": [
           {
-            "id": 15378,
-            "value": "\"Erweiterer\" OUTDATED",
-            "color": "darker-cyan"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       }
@@ -4176,6 +4176,11 @@
         "id": 76,
         "value": "hit_hands_role__76",
         "order": "66.00000000000000000000"
+      },
+      {
+        "id": 196,
+        "value": "hit_hands_role__196",
+        "order": "182.00000000000000000000"
       }
     ],
     "role": [
@@ -4183,9 +4188,19 @@
         "id": 76,
         "value": [
           {
-            "id": 15378,
-            "value": "\"Erweiterer\" OUTDATED",
-            "color": "darker-cyan"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 196,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       }
@@ -4195,6 +4210,13 @@
         "ids": {
           "database_table_3489": 103,
           "database_table_3491": 179
+        },
+        "value": "Traditionsnotizen des Salzburger Domstiftes"
+      },
+      {
+        "ids": {
+          "database_table_3489": 103,
+          "database_table_3491": 122
         },
         "value": "Traditionsnotizen des Salzburger Domstiftes"
       }
@@ -4583,9 +4605,9 @@
         "id": 81,
         "value": [
           {
-            "id": 15377,
-            "value": "continuator/Fortsetzer OUTDATED",
-            "color": "darker-pink"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       }
@@ -4681,11 +4703,6 @@
             "id": 14758,
             "value": "Schreiber",
             "color": "darker-red"
-          },
-          {
-            "id": 15377,
-            "value": "continuator/Fortsetzer OUTDATED",
-            "color": "darker-pink"
           }
         ]
       }
@@ -4965,9 +4982,9 @@
         "id": 89,
         "value": [
           {
-            "id": 15377,
-            "value": "continuator/Fortsetzer OUTDATED",
-            "color": "darker-pink"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       }
@@ -5055,9 +5072,9 @@
         "id": 85,
         "value": [
           {
-            "id": 15377,
-            "value": "continuator/Fortsetzer OUTDATED",
-            "color": "darker-pink"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       }
@@ -6824,9 +6841,9 @@
         "id": 114,
         "value": [
           {
-            "id": 15377,
-            "value": "continuator/Fortsetzer OUTDATED",
-            "color": "darker-pink"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       }

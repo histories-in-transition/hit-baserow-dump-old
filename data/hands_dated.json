@@ -369,8 +369,8 @@
     "note": "",
     "view_label": "hit_hands_dated__11",
     "prev": {
-      "id": "hit_hands_dated__103",
-      "label": "hit_hands_dated__103"
+      "id": "hit_hands_dated__104",
+      "label": "hit_hands_dated__104"
     },
     "next": {
       "id": "hit_hands_dated__12",
@@ -4342,6 +4342,48 @@
     "prev": {
       "id": "hit_hands_dated__102",
       "label": "hit_hands_dated__102"
+    },
+    "next": {
+      "id": "hit_hands_dated__104",
+      "label": "hit_hands_dated__104"
+    }
+  },
+  "104": {
+    "id": 104,
+    "hit_id": "hit_hands_dated__104",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 7,
+        "label": "9 Jh., erstes Viertel",
+        "not_before": "0801-01-01",
+        "hit_id": "hit_date__7",
+        "not_after": "0825-12-31",
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-07-12"
+      }
+    ],
+    "hand": [
+      {
+        "id": 122,
+        "value": "ÖNB, Cod. 420_H. 1"
+      }
+    ],
+    "new_dating": false,
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-03-18",
+    "note": "",
+    "view_label": "hit_hands_dated__104",
+    "prev": {
+      "id": "hit_hands_dated__103",
+      "label": "hit_hands_dated__103"
     },
     "next": {
       "id": "hit_hands_dated__11",

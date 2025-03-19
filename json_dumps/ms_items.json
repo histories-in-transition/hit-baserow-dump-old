@@ -12306,22 +12306,50 @@
   "212": {
     "id": 212,
     "order": "167.00000000000000000000",
-    "label": [],
-    "manuscript": [],
+    "label": [
+      {
+        "id": 30,
+        "value": "cod_420__212"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 30,
+        "value": "ÖNB, Cod. 420",
+        "order": "23.00000000000000000000"
+      }
+    ],
     "incipit": "",
     "explicit": "",
     "rubric": "",
-    "title_work": [],
+    "title_work": [
+      {
+        "id": 145,
+        "value": "Vitae sanctorum",
+        "order": "143.00000000000000000000"
+      }
+    ],
     "title_note": "",
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
     "hit_id": "hit_ms_items__212",
     "filiation": "",
-    "locus_grp": "",
-    "hands_role": [],
+    "locus_grp": "2r-172v",
+    "hands_role": [
+      {
+        "id": 190,
+        "value": "hit_hands_role__190",
+        "order": "176.00000000000000000000"
+      },
+      {
+        "id": 193,
+        "value": "hit_hands_role__193",
+        "order": "179.00000000000000000000"
+      }
+    ],
     "cod_unit": [],
-    "Last modified": "2025-02-17",
+    "Last modified": "2025-03-18",
     "Created on": "2025-02-17",
     "Created by": {
       "id": 86,
@@ -12332,7 +12360,22 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 30,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 420_H. 1"
+      },
+      {
+        "ids": {
+          "database_table_3487": 30,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 420_H. 2"
+      }
+    ],
     "decoration": [],
     "facs_url": "",
     "form": [],

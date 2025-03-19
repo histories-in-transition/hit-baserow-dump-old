@@ -2641,9 +2641,9 @@
         "id": 45,
         "value": [
           {
-            "id": 15378,
-            "value": "\"Erweiterer\" OUTDATED",
-            "color": "darker-cyan"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       }
@@ -9066,11 +9066,50 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2025-01-13",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
+    "hands_role": [
+      {
+        "id": 190,
+        "value": "hit_hands_role__190",
+        "order": "176.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 190,
+        "value": [
+          {
+            "id": 15373,
+            "value": "Korrektor",
+            "color": "darker-brown"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 145,
+          "database_table_3491": 212
+        },
+        "value": "Vitae sanctorum"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 104,
+        "value": "hit_hands_dated__104",
+        "order": "102.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 7,
+          "database_table_3520": 104
+        },
+        "value": "9 Jh., erstes Viertel"
+      }
+    ],
     "hands_placed": [],
     "scribe": [
       {
@@ -10465,5 +10504,74 @@
     ],
     "scribe": [],
     "gruppe": true
+  },
+  "143": {
+    "id": 143,
+    "order": "134.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 30,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 420_H. 2"
+      }
+    ],
+    "description": "Fügt eine althochdeutsche Glosse hinzu.",
+    "hit_id": "hit_hands__143",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 30,
+        "value": "ÖNB, Cod. 420",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "number": "2",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-03-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-03-18",
+    "hands_role": [
+      {
+        "id": 193,
+        "value": "hit_hands_role__193",
+        "order": "179.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 193,
+        "value": [
+          {
+            "id": 15375,
+            "value": "Glossator",
+            "color": "darker-purple"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 145,
+          "database_table_3491": 212
+        },
+        "value": "Vitae sanctorum"
+      }
+    ],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": false
   }
 }

@@ -93655,9 +93655,9 @@
         ],
         "role": [
           {
-            "id": 15378,
-            "value": "\"Erweiterer\" OUTDATED",
-            "color": "darker-cyan"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ],
         "locus": "7r, 9v, 10r, 10v, 15v",
@@ -93680,10 +93680,28 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-09",
-        "locus_layout": [],
-        "function": [],
-        "scribe_type": [],
+        "Last modified": "2025-03-18",
+        "locus_layout": [
+          {
+            "id": 15096,
+            "value": "marginal rechts",
+            "color": "darker-red"
+          }
+        ],
+        "function": [
+          {
+            "id": 18156,
+            "value": "inhaltlich",
+            "color": "dark-blue"
+          }
+        ],
+        "scribe_type": [
+          {
+            "id": 18165,
+            "value": "Erweiterung",
+            "color": "darker-blue"
+          }
+        ],
         "strata": []
       },
       {
@@ -140573,40 +140591,297 @@
     },
     "next": {
       "id": "hit_ms_items__212",
-      "label": "NO MATCH FOR $..label[0].value"
+      "label": "cod_420__212"
     }
   },
   "212": {
     "id": 212,
-    "label": [],
-    "manuscript": [],
+    "label": [
+      {
+        "id": 30,
+        "value": "cod_420__212"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 30,
+        "shelfmark": [
+          {
+            "id": 1,
+            "value": "ÖNB, Cod. 420"
+          }
+        ],
+        "hit_id": "hit_manuscript__30",
+        "library": [
+          {
+            "id": 1,
+            "value": "ÖNB"
+          }
+        ],
+        "manuscripta_url": "",
+        "handschriftenportal_url": "",
+        "catalog_url": "",
+        "digi_url": "",
+        "idno": "Cod. 420",
+        "idno_former": "",
+        "quire_structure": "",
+        "library_full": [
+          {
+            "id": 1,
+            "label": "ÖNB",
+            "hit_id": "hit_org__1",
+            "gnd_url": "https://d-nb.info/gnd/2020893-5",
+            "library_full": "Österreichische Nationalbibliothek",
+            "library_website": "https://www.onb.ac.at/",
+            "settlement": [
+              {
+                "id": 6,
+                "name": "Wien",
+                "geonames_url": "https://www.geonames.org/2761369/vienna.html",
+                "hit_id": "hit_place__6",
+                "wikidata_url": "",
+                "country": [
+                  {
+                    "id": 1,
+                    "value": "Österreich"
+                  }
+                ],
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-07-09"
+              }
+            ],
+            "wikidata": "",
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-03"
+          }
+        ],
+        "extent": "",
+        "foliation": "",
+        "acc_mat": "",
+        "binding": "",
+        "binding_date": [],
+        "history": "",
+        "bibliography": [],
+        "height": null,
+        "width": null,
+        "material_spec": "",
+        "orig_place": [],
+        "catchwords": "",
+        "quiremarks": "",
+        "material": null,
+        "provenance": [],
+        "manuscripts_dated": [],
+        "orig_dated": [],
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-12-21",
+        "content_summary": "",
+        "charakter": [],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "in Bearbeitung",
+            "color": "light-brown"
+          }
+        ]
+      }
+    ],
     "incipit": "",
     "explicit": "",
     "rubric": "",
-    "title_work": [],
+    "title_work": [
+      {
+        "id": 145,
+        "title": "Vitae sanctorum",
+        "gnd_url": "",
+        "note": "",
+        "hit_id": "hit_works__145",
+        "author": [],
+        "bibliography": [],
+        "source_text": [],
+        "genre": [
+          {
+            "id": 1,
+            "genre": "Vita",
+            "hit_id": "hit_genres__1",
+            "main_genre": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-06-21"
+          }
+        ],
+        "note_source": "",
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-03-18"
+      }
+    ],
     "title_note": "",
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
     "hit_id": "hit_ms_items__212",
     "filiation": "",
-    "locus_grp": "",
-    "hands_role": [],
+    "locus_grp": "2r-172v",
+    "hands_role": [
+      {
+        "id": 190,
+        "hit_id": "hit_hands_role__190",
+        "hand": [
+          {
+            "id": 122,
+            "value": "ÖNB, Cod. 420_H. 1"
+          }
+        ],
+        "ms_item": [
+          {
+            "id": 212,
+            "value": "cod_420__212"
+          }
+        ],
+        "role": [
+          {
+            "id": 15373,
+            "value": "Korrektor",
+            "color": "darker-brown"
+          }
+        ],
+        "locus": "160r",
+        "text": [
+          {
+            "ids": {
+              "database_table_3489": 145,
+              "database_table_3491": 212
+            },
+            "value": "Vitae sanctorum"
+          }
+        ],
+        "locus_text": [
+          {
+            "id": 212,
+            "value": "2r-172v"
+          }
+        ],
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-03-18",
+        "locus_layout": [],
+        "function": [
+          {
+            "id": 16045,
+            "value": "sprachlich",
+            "color": "dark-cyan"
+          }
+        ],
+        "scribe_type": [],
+        "strata": []
+      },
+      {
+        "id": 193,
+        "hit_id": "hit_hands_role__193",
+        "hand": [
+          {
+            "id": 143,
+            "value": "ÖNB, Cod. 420_H. 2"
+          }
+        ],
+        "ms_item": [
+          {
+            "id": 212,
+            "value": "cod_420__212"
+          }
+        ],
+        "role": [
+          {
+            "id": 15375,
+            "value": "Glossator",
+            "color": "darker-purple"
+          }
+        ],
+        "locus": "",
+        "text": [
+          {
+            "ids": {
+              "database_table_3489": 145,
+              "database_table_3491": 212
+            },
+            "value": "Vitae sanctorum"
+          }
+        ],
+        "locus_text": [
+          {
+            "id": 212,
+            "value": "2r-172v"
+          }
+        ],
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-03-18",
+        "locus_layout": [],
+        "function": [
+          {
+            "id": 16045,
+            "value": "sprachlich",
+            "color": "dark-cyan"
+          }
+        ],
+        "scribe_type": [],
+        "strata": []
+      }
+    ],
     "cod_unit": [],
-    "Last modified": "2025-02-17",
+    "Last modified": "2025-03-18",
     "Last modified by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 30,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 420_H. 1"
+      },
+      {
+        "ids": {
+          "database_table_3487": 30,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 420_H. 2"
+      }
+    ],
     "decoration": [],
     "facs_url": "",
     "form": [],
     "form_note": "",
     "column": [],
     "commented_msitem": [],
-    "view_label": "NO MATCH FOR $..label[0].value",
+    "view_label": "cod_420__212",
     "prev": {
       "id": "hit_ms_items__211",
       "label": "ms_15835__211"
@@ -141094,7 +141369,7 @@
     "view_label": "ms_15835__213",
     "prev": {
       "id": "hit_ms_items__212",
-      "label": "NO MATCH FOR $..label[0].value"
+      "label": "cod_420__212"
     },
     "next": {
       "id": "hit_ms_items__22",

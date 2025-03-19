@@ -3254,5 +3254,38 @@
     "Last modified": "2025-03-11",
     "Created on": "2025-02-27",
     "note": ""
+  },
+  "104": {
+    "id": 104,
+    "order": "102.00000000000000000000",
+    "hit_id": "hit_hands_dated__104",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 7,
+        "value": "9 Jh., erstes Viertel",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 122,
+        "value": "ÖNB, Cod. 420_H. 1",
+        "order": "114.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-03-18",
+    "Created on": "2025-03-18",
+    "note": ""
   }
 }

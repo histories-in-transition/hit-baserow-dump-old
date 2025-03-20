@@ -4965,6 +4965,11 @@
         "id": 89,
         "value": "hit_hands_role__89",
         "order": "79.00000000000000000000"
+      },
+      {
+        "id": 187,
+        "value": "hit_hands_role__187",
+        "order": "173.00000000000000000000"
       }
     ],
     "role": [
@@ -4972,14 +4977,24 @@
         "id": 87,
         "value": [
           {
-            "id": 15377,
-            "value": "continuator/Fortsetzer OUTDATED",
-            "color": "darker-pink"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       },
       {
         "id": 89,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 187,
         "value": [
           {
             "id": 14758,
@@ -5003,6 +5018,13 @@
           "database_table_3491": 132
         },
         "value": "Annales breves Sancti Rudperti Salisburgensis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 146,
+          "database_table_3491": 214
+        },
+        "value": "Historiographische Ergänzungen"
       }
     ],
     "hands_dated": [
@@ -6758,9 +6780,9 @@
         "id": 94,
         "value": [
           {
-            "id": 15377,
-            "value": "continuator/Fortsetzer OUTDATED",
-            "color": "darker-pink"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       }
@@ -8607,7 +8629,7 @@
         "value": "ÖNB, Cod. 2090_H. 39"
       }
     ],
-    "description": "",
+    "description": "Schreibergruppe, die die Institutiones Aquisgranenses in häufig wechselnden Händen anfertigt",
     "hit_id": "hit_hands__116",
     "similar_hands": [],
     "nr_daniel": "",
@@ -8619,7 +8641,7 @@
       }
     ],
     "number": "39",
-    "note": "Platzhalter: Schreibergruppe, die die Institutiones Aquisgranenses in häufig wechselnden Händen anfertigt",
+    "note": "",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -8629,7 +8651,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-12-15",
+    "Last modified": "2025-03-19",
     "hands_role": [
       {
         "id": 152,
@@ -8711,9 +8733,9 @@
         "id": 156,
         "value": [
           {
-            "id": 15377,
-            "value": "continuator/Fortsetzer OUTDATED",
-            "color": "darker-pink"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       }

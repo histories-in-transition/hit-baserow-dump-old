@@ -12468,5 +12468,79 @@
     "form_note": "",
     "column": [],
     "commented_msitem": []
+  },
+  "214": {
+    "id": 214,
+    "order": "169.00000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__214"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 146,
+        "value": "Historiographische Ergänzungen",
+        "order": "144.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__214",
+    "filiation": "",
+    "locus_grp": "13v, 16v",
+    "hands_role": [
+      {
+        "id": 187,
+        "value": "hit_hands_role__187",
+        "order": "173.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 15,
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-03-19",
+    "Created on": "2025-03-19",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 15"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [],
+    "commented_msitem": []
   }
 }

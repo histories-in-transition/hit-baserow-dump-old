@@ -50114,9 +50114,21 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-07-28",
-                "locus_layout": [],
-                "function": [],
+                "Last modified": "2025-03-19",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
+                    "color": "green"
+                  }
+                ],
+                "function": [
+                  {
+                    "id": 18168,
+                    "value": "anlegend / Anlage",
+                    "color": "light-blue"
+                  }
+                ],
                 "scribe_type": [],
                 "strata": [
                   {
@@ -50167,8 +50179,14 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-10-03",
-                "locus_layout": [],
+                "Last modified": "2025-03-19",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
+                    "color": "green"
+                  }
+                ],
                 "function": [],
                 "scribe_type": [],
                 "strata": []
@@ -50190,12 +50208,12 @@
                 ],
                 "role": [
                   {
-                    "id": 15377,
-                    "value": "continuator/Fortsetzer OUTDATED",
-                    "color": "darker-pink"
+                    "id": 14758,
+                    "value": "Schreiber",
+                    "color": "darker-red"
                   }
                 ],
-                "locus": "13v",
+                "locus": "13v; 16v",
                 "text": [
                   {
                     "ids": {
@@ -50215,10 +50233,28 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-10-03",
-                "locus_layout": [],
-                "function": [],
-                "scribe_type": [],
+                "Last modified": "2025-03-19",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
+                    "color": "green"
+                  }
+                ],
+                "function": [
+                  {
+                    "id": 18156,
+                    "value": "inhaltlich",
+                    "color": "dark-blue"
+                  }
+                ],
+                "scribe_type": [
+                  {
+                    "id": 18173,
+                    "value": "Fortsetzung",
+                    "color": "red"
+                  }
+                ],
                 "strata": []
               },
               {
@@ -50263,8 +50299,14 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-10-03",
-                "locus_layout": [],
+                "Last modified": "2025-03-19",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
+                    "color": "green"
+                  }
+                ],
                 "function": [],
                 "scribe_type": [],
                 "strata": []
@@ -50286,9 +50328,9 @@
                 ],
                 "role": [
                   {
-                    "id": 15377,
-                    "value": "continuator/Fortsetzer OUTDATED",
-                    "color": "darker-pink"
+                    "id": 14758,
+                    "value": "Schreiber",
+                    "color": "darker-red"
                   }
                 ],
                 "locus": "TBD",
@@ -50311,10 +50353,28 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-10-03",
-                "locus_layout": [],
-                "function": [],
-                "scribe_type": [],
+                "Last modified": "2025-03-19",
+                "locus_layout": [
+                  {
+                    "id": 15841,
+                    "value": "Schriftraum (einspaltig/mehrspaltig)",
+                    "color": "green"
+                  }
+                ],
+                "function": [
+                  {
+                    "id": 18156,
+                    "value": "inhaltlich",
+                    "color": "dark-blue"
+                  }
+                ],
+                "scribe_type": [
+                  {
+                    "id": 18173,
+                    "value": "Fortsetzung",
+                    "color": "red"
+                  }
+                ],
                 "strata": []
               },
               {
@@ -50334,9 +50394,9 @@
                 ],
                 "role": [
                   {
-                    "id": 15377,
-                    "value": "continuator/Fortsetzer OUTDATED",
-                    "color": "darker-pink"
+                    "id": 14758,
+                    "value": "Schreiber",
+                    "color": "darker-red"
                   }
                 ],
                 "locus": "",
@@ -50359,7 +50419,7 @@
                   "id": 86,
                   "name": "Leon Pürstinger"
                 },
-                "Last modified": "2024-12-13",
+                "Last modified": "2025-03-19",
                 "locus_layout": [
                   {
                     "id": 15841,
@@ -50369,12 +50429,18 @@
                 ],
                 "function": [
                   {
-                    "id": 15836,
-                    "value": "inhaltsbezogen",
-                    "color": "darker-orange"
+                    "id": 18156,
+                    "value": "inhaltlich",
+                    "color": "dark-blue"
                   }
                 ],
-                "scribe_type": [],
+                "scribe_type": [
+                  {
+                    "id": 18173,
+                    "value": "Fortsetzung",
+                    "color": "red"
+                  }
+                ],
                 "strata": []
               }
             ],
@@ -50513,9 +50579,21 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-07-28",
-        "locus_layout": [],
-        "function": [],
+        "Last modified": "2025-03-19",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum (einspaltig/mehrspaltig)",
+            "color": "green"
+          }
+        ],
+        "function": [
+          {
+            "id": 18168,
+            "value": "anlegend / Anlage",
+            "color": "light-blue"
+          }
+        ],
         "scribe_type": [],
         "strata": [
           {
@@ -51696,6 +51774,249 @@
         },
         "Last modified": "2025-03-14",
         "locus_layout": [],
+        "function": [
+          {
+            "id": 18155,
+            "value": "konzeptbezogen",
+            "color": "darker-brown"
+          }
+        ],
+        "scribe_type": [
+          {
+            "id": 18165,
+            "value": "Erweiterung",
+            "color": "darker-blue"
+          }
+        ],
+        "strata": [
+          {
+            "id": 15,
+            "value": "Cod. 2090, Stratum 3"
+          }
+        ]
+      },
+      {
+        "id": 196,
+        "hit_id": "hit_hands_role__196",
+        "hand": [
+          {
+            "id": 49,
+            "value": "ÖNB, Cod. 2090_H. 7"
+          }
+        ],
+        "ms_item": [
+          {
+            "id": 122,
+            "label": [
+              {
+                "id": 21,
+                "value": "cod_2090__122"
+              }
+            ],
+            "incipit": "",
+            "explicit": "",
+            "rubric": "",
+            "title_work": [
+              {
+                "id": 103,
+                "title": "Traditionsnotizen des Salzburger Domstiftes",
+                "gnd_url": "",
+                "note": "",
+                "hit_id": "hit_works__103",
+                "author": [],
+                "bibliography": [],
+                "source_text": [],
+                "genre": [],
+                "note_source": "",
+                "Last modified by": {
+                  "id": 86,
+                  "name": "Leon Pürstinger"
+                },
+                "Last modified": "2024-07-26"
+              }
+            ],
+            "title_note": "Nr. 4, 5, 6 (bis 1147); Nr. 7a (vor 1140); Nr. 8 (um 1127)",
+            "bibl": [],
+            "final_rubric": "",
+            "siglum": "",
+            "hit_id": "hit_ms_items__122",
+            "filiation": null,
+            "locus_grp": "1r",
+            "hands_role": [
+              {
+                "id": 196,
+                "hit_id": "hit_hands_role__196",
+                "hand": [
+                  {
+                    "id": 49,
+                    "value": "ÖNB, Cod. 2090_H. 7"
+                  }
+                ],
+                "ms_item": [
+                  {
+                    "id": 122,
+                    "value": "cod_2090__122"
+                  }
+                ],
+                "role": [
+                  {
+                    "id": 14758,
+                    "value": "Schreiber",
+                    "color": "darker-red"
+                  }
+                ],
+                "locus": "",
+                "text": [
+                  {
+                    "ids": {
+                      "database_table_3489": 103,
+                      "database_table_3491": 122
+                    },
+                    "value": "Traditionsnotizen des Salzburger Domstiftes"
+                  }
+                ],
+                "locus_text": [
+                  {
+                    "id": 122,
+                    "value": "1r"
+                  }
+                ],
+                "Last modified by": {
+                  "id": 86,
+                  "name": "Leon Pürstinger"
+                },
+                "Last modified": "2025-03-19",
+                "locus_layout": [
+                  {
+                    "id": 18158,
+                    "value": "graphisch divers",
+                    "color": "darker-green"
+                  }
+                ],
+                "function": [
+                  {
+                    "id": 18155,
+                    "value": "konzeptbezogen",
+                    "color": "darker-brown"
+                  }
+                ],
+                "scribe_type": [
+                  {
+                    "id": 18165,
+                    "value": "Erweiterung",
+                    "color": "darker-blue"
+                  }
+                ],
+                "strata": [
+                  {
+                    "id": 15,
+                    "value": "Cod. 2090, Stratum 3"
+                  }
+                ]
+              }
+            ],
+            "cod_unit": [
+              {
+                "id": 15,
+                "label": [
+                  {
+                    "ids": {
+                      "database_table_3487": 21,
+                      "database_table_3488": 1
+                    },
+                    "value": "ÖNB, Cod. 2090, cod. unit 1"
+                  }
+                ],
+                "notes": "",
+                "hit_id": "hit_cod_unit__15",
+                "locus": "",
+                "manuscript": [
+                  {
+                    "id": 21,
+                    "value": "ÖNB, Cod. 2090"
+                  }
+                ],
+                "quire": [],
+                "number": "1",
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2025-01-22",
+                "orig_date": [],
+                "quires_number": null,
+                "heigth": null,
+                "lines_number": null,
+                "decorations": "",
+                "codicological_reworking": [],
+                "basic_structure": [],
+                "written_width": null,
+                "written_height": null,
+                "width": null,
+                "columns": [],
+                "cod_unit_placed": [],
+                "prov_place": [],
+                "strata": []
+              }
+            ],
+            "Last modified": "2024-09-06",
+            "Last modified by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "note": "3-4 Hände",
+            "hand": [
+              {
+                "ids": {
+                  "database_table_3487": 21,
+                  "database_table_3488": 1
+                },
+                "value": "ÖNB, Cod. 2090_H. 7"
+              }
+            ],
+            "decoration": [],
+            "facs_url": "",
+            "form": [],
+            "form_note": null,
+            "column": [],
+            "commented_msitem": []
+          }
+        ],
+        "role": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ],
+        "locus": "",
+        "text": [
+          {
+            "ids": {
+              "database_table_3489": 103,
+              "database_table_3491": 122
+            },
+            "value": "Traditionsnotizen des Salzburger Domstiftes"
+          }
+        ],
+        "locus_text": [
+          {
+            "id": 122,
+            "value": "1r"
+          }
+        ],
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-03-19",
+        "locus_layout": [
+          {
+            "id": 18158,
+            "value": "graphisch divers",
+            "color": "darker-green"
+          }
+        ],
         "function": [
           {
             "id": 18155,

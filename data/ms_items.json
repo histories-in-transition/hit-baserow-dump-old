@@ -30829,8 +30829,8 @@
     "commented_msitem": [],
     "view_label": "clm_6326__22",
     "prev": {
-      "id": "hit_ms_items__213",
-      "label": "ms_15835__213"
+      "id": "hit_ms_items__214",
+      "label": "cod_2090__214"
     },
     "next": {
       "id": "hit_ms_items__23",
@@ -108749,7 +108749,7 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2025-03-14",
+        "Last modified": "2025-03-19",
         "locus_layout": [
           {
             "id": 18158,
@@ -108771,7 +108771,12 @@
             "color": "darker-blue"
           }
         ],
-        "strata": []
+        "strata": [
+          {
+            "id": 15,
+            "value": "Cod. 2090, Stratum 3"
+          }
+        ]
       }
     ],
     "cod_unit": [
@@ -117978,9 +117983,21 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-07-28",
-        "locus_layout": [],
-        "function": [],
+        "Last modified": "2025-03-19",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum (einspaltig/mehrspaltig)",
+            "color": "green"
+          }
+        ],
+        "function": [
+          {
+            "id": 18168,
+            "value": "anlegend / Anlage",
+            "color": "light-blue"
+          }
+        ],
         "scribe_type": [],
         "strata": [
           {
@@ -118031,8 +118048,14 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-03",
-        "locus_layout": [],
+        "Last modified": "2025-03-19",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum (einspaltig/mehrspaltig)",
+            "color": "green"
+          }
+        ],
         "function": [],
         "scribe_type": [],
         "strata": []
@@ -118054,12 +118077,12 @@
         ],
         "role": [
           {
-            "id": 15377,
-            "value": "continuator/Fortsetzer OUTDATED",
-            "color": "darker-pink"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ],
-        "locus": "13v",
+        "locus": "13v; 16v",
         "text": [
           {
             "ids": {
@@ -118079,10 +118102,28 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-03",
-        "locus_layout": [],
-        "function": [],
-        "scribe_type": [],
+        "Last modified": "2025-03-19",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum (einspaltig/mehrspaltig)",
+            "color": "green"
+          }
+        ],
+        "function": [
+          {
+            "id": 18156,
+            "value": "inhaltlich",
+            "color": "dark-blue"
+          }
+        ],
+        "scribe_type": [
+          {
+            "id": 18173,
+            "value": "Fortsetzung",
+            "color": "red"
+          }
+        ],
         "strata": []
       },
       {
@@ -118127,8 +118168,14 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-03",
-        "locus_layout": [],
+        "Last modified": "2025-03-19",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum (einspaltig/mehrspaltig)",
+            "color": "green"
+          }
+        ],
         "function": [],
         "scribe_type": [],
         "strata": []
@@ -118150,9 +118197,9 @@
         ],
         "role": [
           {
-            "id": 15377,
-            "value": "continuator/Fortsetzer OUTDATED",
-            "color": "darker-pink"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ],
         "locus": "TBD",
@@ -118175,10 +118222,28 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-10-03",
-        "locus_layout": [],
-        "function": [],
-        "scribe_type": [],
+        "Last modified": "2025-03-19",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum (einspaltig/mehrspaltig)",
+            "color": "green"
+          }
+        ],
+        "function": [
+          {
+            "id": 18156,
+            "value": "inhaltlich",
+            "color": "dark-blue"
+          }
+        ],
+        "scribe_type": [
+          {
+            "id": 18173,
+            "value": "Fortsetzung",
+            "color": "red"
+          }
+        ],
         "strata": []
       },
       {
@@ -118198,9 +118263,9 @@
         ],
         "role": [
           {
-            "id": 15377,
-            "value": "continuator/Fortsetzer OUTDATED",
-            "color": "darker-pink"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ],
         "locus": "",
@@ -118223,7 +118288,7 @@
           "id": 86,
           "name": "Leon Pürstinger"
         },
-        "Last modified": "2024-12-13",
+        "Last modified": "2025-03-19",
         "locus_layout": [
           {
             "id": 15841,
@@ -118233,12 +118298,18 @@
         ],
         "function": [
           {
-            "id": 15836,
-            "value": "inhaltsbezogen",
-            "color": "darker-orange"
+            "id": 18156,
+            "value": "inhaltlich",
+            "color": "dark-blue"
           }
         ],
-        "scribe_type": [],
+        "scribe_type": [
+          {
+            "id": 18173,
+            "value": "Fortsetzung",
+            "color": "red"
+          }
+        ],
         "strata": []
       }
     ],
@@ -141370,6 +141441,481 @@
     "prev": {
       "id": "hit_ms_items__212",
       "label": "cod_420__212"
+    },
+    "next": {
+      "id": "hit_ms_items__214",
+      "label": "cod_2090__214"
+    }
+  },
+  "214": {
+    "id": 214,
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__214"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "shelfmark": [
+          {
+            "id": 1,
+            "value": "ÖNB, Cod. 2090"
+          }
+        ],
+        "hit_id": "hit_manuscript__21",
+        "library": [
+          {
+            "id": 1,
+            "value": "ÖNB"
+          }
+        ],
+        "manuscripta_url": "https://manuscripta.at/?ID=5187",
+        "handschriftenportal_url": "",
+        "catalog_url": "http://data.onb.ac.at/rec/AC13961404",
+        "digi_url": "http://data.onb.ac.at/dtl/8931254",
+        "idno": "Cod. 2090",
+        "idno_former": "Salisb. 311",
+        "quire_structure": "TBD.\n",
+        "library_full": [
+          {
+            "id": 1,
+            "label": "ÖNB",
+            "hit_id": "hit_org__1",
+            "gnd_url": "https://d-nb.info/gnd/2020893-5",
+            "library_full": "Österreichische Nationalbibliothek",
+            "library_website": "https://www.onb.ac.at/",
+            "settlement": [
+              {
+                "id": 6,
+                "name": "Wien",
+                "geonames_url": "https://www.geonames.org/2761369/vienna.html",
+                "hit_id": "hit_place__6",
+                "wikidata_url": "",
+                "country": [
+                  {
+                    "id": 1,
+                    "value": "Österreich"
+                  }
+                ],
+                "Last modified by": {
+                  "id": 87,
+                  "name": "Ksenia Borisova"
+                },
+                "Last modified": "2024-07-09"
+              }
+            ],
+            "wikidata": "",
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-03"
+          }
+        ],
+        "extent": "98",
+        "foliation": "",
+        "acc_mat": "Spiegel, spätmittelalterliches Fragment.",
+        "binding": "Hellbrauner Ledereinband über Holzdeckeln aus Salzburg. Verzierter, gerahmter Deckel mit einem Diagonalkreuz aus doppelt gestrichenen Linien. Reste von Schließen. Auf dem Hinterdeckel sind Spuren eines Haken. Am Vorderdeckel ein Pergamentstreifen mit einer Teilinhaltsangabe.",
+        "binding_date": [
+          {
+            "id": 21,
+            "value": "um 1433"
+          }
+        ],
+        "history": "Zur Zeit Erzbischofs Gebhard (1060-1088) angelegt und bis in das Episkopat Adalbert (1168-1177) weitergeführt. Die Handschrift verblieb bis zum Jahr 1806 im Besitz der Salzburger Dombibliothek und kam anschließend in die damalige Hofblibliothek.",
+        "bibliography": [],
+        "height": "365",
+        "width": "260",
+        "material_spec": "",
+        "orig_place": [
+          {
+            "id": 3,
+            "name": "Salzburg",
+            "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
+            "hit_id": "hit_place__3",
+            "wikidata_url": "",
+            "country": [
+              {
+                "id": 1,
+                "name": "Österreich",
+                "geonames_url": "https://www.geonames.org/2782113/republic-of-austria.html",
+                "hit_id": "hit_place__1",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q40",
+                "country": [],
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-06-09"
+              }
+            ],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "catchwords": "",
+        "quiremarks": "",
+        "material": {
+          "id": 14782,
+          "value": "parchment",
+          "color": "darker-orange"
+        },
+        "provenance": [
+          {
+            "id": 8,
+            "label": "Dombibliothek Salzburg",
+            "hit_id": "hit_org__8",
+            "gnd_url": "https://d-nb.info/gnd/4220685-6",
+            "library_full": "Domkapitelbibliothek Salzburg",
+            "library_website": "",
+            "settlement": [
+              {
+                "id": 3,
+                "name": "Salzburg",
+                "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
+                "hit_id": "hit_place__3",
+                "wikidata_url": "",
+                "country": [
+                  {
+                    "id": 1,
+                    "value": "Österreich"
+                  }
+                ],
+                "Last modified by": {
+                  "id": 36,
+                  "name": "Ivana Dobcheva"
+                },
+                "Last modified": "2024-07-11"
+              }
+            ],
+            "wikidata": "",
+            "Last modified by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Last modified": "2024-07-18"
+          }
+        ],
+        "manuscripts_dated": [
+          {
+            "id": 30,
+            "hit_id": "hit_dated__30",
+            "manuscript": [
+              {
+                "id": 21,
+                "value": "ÖNB, Cod. 2090"
+              }
+            ],
+            "date": [
+              {
+                "id": 38,
+                "label": "1060-1065",
+                "not_before": "1060-04-08",
+                "hit_id": "hit_date__38",
+                "not_after": "1065-07-23",
+                "Last modified by": {
+                  "id": 86,
+                  "name": "Leon Pürstinger"
+                },
+                "Last modified": "2024-07-26"
+              }
+            ],
+            "authority": [
+              {
+                "id": 7,
+                "author": "Unterkircher",
+                "short_title": "Die datierten Handschriften der Österreichischen Nationalbibliothek bis zum Jahre 1400",
+                "zotero_id": "",
+                "hit_id": "hit_bibl__7",
+                "title": null,
+                "year": null,
+                "citation": null,
+                "link": ""
+              }
+            ],
+            "page": "47",
+            "preferred_date": true,
+            "Last modified by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Last modified": "2024-07-26T13:28:35.850202Z",
+            "note": ""
+          },
+          {
+            "id": 31,
+            "hit_id": "hit_dated__31",
+            "manuscript": [
+              {
+                "id": 21,
+                "value": "ÖNB, Cod. 2090"
+              }
+            ],
+            "date": [
+              {
+                "id": 39,
+                "label": "11. Jh., zweite Hälfte",
+                "not_before": "1050-01-01",
+                "hit_id": "hit_date__39",
+                "not_after": "1099-12-31",
+                "Last modified by": {
+                  "id": 86,
+                  "name": "Leon Pürstinger"
+                },
+                "Last modified": "2024-07-26"
+              }
+            ],
+            "authority": [
+              {
+                "id": 8,
+                "author": "Hermann",
+                "short_title": "Die deutschen romanischen Handschriften",
+                "zotero_id": "",
+                "hit_id": "hit_bibl__8",
+                "title": null,
+                "year": null,
+                "citation": null,
+                "link": ""
+              }
+            ],
+            "page": "35",
+            "preferred_date": false,
+            "Last modified by": {
+              "id": 86,
+              "name": "Leon Pürstinger"
+            },
+            "Last modified": "2024-07-26T13:28:29.988028Z",
+            "note": "\"In Salzburg in der 2. Hälfte des XI. Jahrhunderts, vermutlich zur Zeit des Erzbischofs Gebhard (1060-1088) oder des Erzbischofs Thiemo (1090-1101) geschrieben\"."
+          }
+        ],
+        "orig_dated": [
+          {
+            "ids": {
+              "database_table_3512": 38,
+              "database_table_3516": 30
+            },
+            "value": "1060-1065"
+          },
+          {
+            "ids": {
+              "database_table_3512": 39,
+              "database_table_3516": 31
+            },
+            "value": "11. Jh., zweite Hälfte"
+          }
+        ],
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2024-12-13",
+        "content_summary": null,
+        "charakter": [
+          {
+            "id": 17451,
+            "value": "Gebrauchshandschrift",
+            "color": "light-orange"
+          }
+        ],
+        "case_study": [
+          {
+            "id": 17442,
+            "value": "Salzburg",
+            "color": "purple"
+          }
+        ],
+        "status": [
+          {
+            "id": 17449,
+            "value": "in Bearbeitung",
+            "color": "light-brown"
+          }
+        ]
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 146,
+        "title": "Historiographische Ergänzungen",
+        "gnd_url": "",
+        "note": "",
+        "hit_id": "hit_works__146",
+        "author": [],
+        "bibliography": [],
+        "source_text": [],
+        "genre": [
+          {
+            "id": 5,
+            "genre": "Historiographie",
+            "hit_id": "hit_genres__5",
+            "main_genre": [],
+            "Last modified by": {
+              "id": 36,
+              "name": "Ivana Dobcheva"
+            },
+            "Last modified": "2024-07-11"
+          }
+        ],
+        "note_source": "",
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-03-19"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__214",
+    "filiation": "",
+    "locus_grp": "13v, 16v",
+    "hands_role": [
+      {
+        "id": 187,
+        "hit_id": "hit_hands_role__187",
+        "hand": [
+          {
+            "id": 57,
+            "value": "ÖNB, Cod. 2090_H. 15"
+          }
+        ],
+        "ms_item": [
+          {
+            "id": 214,
+            "value": "cod_2090__214"
+          }
+        ],
+        "role": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ],
+        "locus": "",
+        "text": [
+          {
+            "ids": {
+              "database_table_3489": 146,
+              "database_table_3491": 214
+            },
+            "value": "Historiographische Ergänzungen"
+          }
+        ],
+        "locus_text": [
+          {
+            "id": 214,
+            "value": "13v, 16v"
+          }
+        ],
+        "Last modified by": {
+          "id": 86,
+          "name": "Leon Pürstinger"
+        },
+        "Last modified": "2025-03-19",
+        "locus_layout": [
+          {
+            "id": 15841,
+            "value": "Schriftraum (einspaltig/mehrspaltig)",
+            "color": "green"
+          }
+        ],
+        "function": [
+          {
+            "id": 18156,
+            "value": "inhaltlich",
+            "color": "dark-blue"
+          }
+        ],
+        "scribe_type": [
+          {
+            "id": 18165,
+            "value": "Erweiterung",
+            "color": "darker-blue"
+          }
+        ],
+        "strata": []
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 15,
+        "label": [
+          {
+            "ids": {
+              "database_table_3487": 21,
+              "database_table_3488": 1
+            },
+            "value": "ÖNB, Cod. 2090, cod. unit 1"
+          }
+        ],
+        "notes": "",
+        "hit_id": "hit_cod_unit__15",
+        "locus": "",
+        "manuscript": [
+          {
+            "id": 21,
+            "value": "ÖNB, Cod. 2090"
+          }
+        ],
+        "quire": [],
+        "number": "1",
+        "Last modified by": {
+          "id": 36,
+          "name": "Ivana Dobcheva"
+        },
+        "Last modified": "2025-01-22",
+        "orig_date": [],
+        "quires_number": null,
+        "heigth": null,
+        "lines_number": null,
+        "decorations": "",
+        "codicological_reworking": [],
+        "basic_structure": [],
+        "written_width": null,
+        "written_height": null,
+        "width": null,
+        "columns": [],
+        "cod_unit_placed": [],
+        "prov_place": [],
+        "strata": []
+      }
+    ],
+    "Last modified": "2025-03-19",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 15"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [],
+    "commented_msitem": [],
+    "view_label": "cod_2090__214",
+    "prev": {
+      "id": "hit_ms_items__213",
+      "label": "ms_15835__213"
     },
     "next": {
       "id": "hit_ms_items__22",

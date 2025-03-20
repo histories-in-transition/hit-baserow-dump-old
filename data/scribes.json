@@ -2585,7 +2585,7 @@
                       "id": 86,
                       "name": "Leon Pürstinger"
                     },
-                    "Last modified": "2025-03-14",
+                    "Last modified": "2025-03-19",
                     "locus_layout": [
                       {
                         "id": 18158,
@@ -2607,7 +2607,12 @@
                         "color": "darker-blue"
                       }
                     ],
-                    "strata": []
+                    "strata": [
+                      {
+                        "id": 15,
+                        "value": "Cod. 2090, Stratum 3"
+                      }
+                    ]
                   }
                 ],
                 "cod_unit": [
@@ -2704,7 +2709,7 @@
               "id": 86,
               "name": "Leon Pürstinger"
             },
-            "Last modified": "2025-03-14",
+            "Last modified": "2025-03-19",
             "locus_layout": [
               {
                 "id": 18158,
@@ -2726,7 +2731,12 @@
                 "color": "darker-blue"
               }
             ],
-            "strata": []
+            "strata": [
+              {
+                "id": 15,
+                "value": "Cod. 2090, Stratum 3"
+              }
+            ]
           }
         ],
         "role": [

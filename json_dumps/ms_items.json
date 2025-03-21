@@ -12501,12 +12501,17 @@
     "siglum": "",
     "hit_id": "hit_ms_items__214",
     "filiation": "",
-    "locus_grp": "13v, 16v",
+    "locus_grp": "13v, 16v, 21r",
     "hands_role": [
       {
         "id": 187,
         "value": "hit_hands_role__187",
         "order": "173.00000000000000000000"
+      },
+      {
+        "id": 197,
+        "value": "hit_hands_role__197",
+        "order": "183.00000000000000000000"
       }
     ],
     "cod_unit": [
@@ -12516,7 +12521,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2025-03-19",
+    "Last modified": "2025-03-20",
     "Created on": "2025-03-19",
     "Created by": {
       "id": 86,
@@ -12534,6 +12539,13 @@
           "database_table_3488": 1
         },
         "value": "ÖNB, Cod. 2090_H. 15"
+      },
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 23"
       }
     ],
     "decoration": [],

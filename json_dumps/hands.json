@@ -5710,11 +5710,26 @@
         "id": 104,
         "value": "hit_hands_role__104",
         "order": "90.00000000000000000000"
+      },
+      {
+        "id": 197,
+        "value": "hit_hands_role__197",
+        "order": "183.00000000000000000000"
       }
     ],
     "role": [
       {
         "id": 104,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 197,
         "value": [
           {
             "id": 14758,
@@ -5731,6 +5746,13 @@
           "database_table_3491": 131
         },
         "value": "Annales breves Sancti Rudperti Salisburgensis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 146,
+          "database_table_3491": 214
+        },
+        "value": "Historiographische Ergänzungen"
       }
     ],
     "hands_dated": [
@@ -5883,9 +5905,9 @@
         "id": 106,
         "value": [
           {
-            "id": 15377,
-            "value": "continuator/Fortsetzer OUTDATED",
-            "color": "darker-pink"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       }
@@ -6056,9 +6078,9 @@
         "id": 107,
         "value": [
           {
-            "id": 15377,
-            "value": "continuator/Fortsetzer OUTDATED",
-            "color": "darker-pink"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       }
@@ -6139,9 +6161,9 @@
         "id": 108,
         "value": [
           {
-            "id": 15377,
-            "value": "continuator/Fortsetzer OUTDATED",
-            "color": "darker-pink"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       }
@@ -6222,9 +6244,9 @@
         "id": 110,
         "value": [
           {
-            "id": 15377,
-            "value": "continuator/Fortsetzer OUTDATED",
-            "color": "darker-pink"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       }
@@ -6312,9 +6334,9 @@
         "id": 111,
         "value": [
           {
-            "id": 15377,
-            "value": "continuator/Fortsetzer OUTDATED",
-            "color": "darker-pink"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       }
@@ -6402,9 +6424,9 @@
         "id": 112,
         "value": [
           {
-            "id": 15377,
-            "value": "continuator/Fortsetzer OUTDATED",
-            "color": "darker-pink"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       }
@@ -6496,9 +6518,9 @@
         "id": 109,
         "value": [
           {
-            "id": 15377,
-            "value": "continuator/Fortsetzer OUTDATED",
-            "color": "darker-pink"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       },
@@ -6506,9 +6528,9 @@
         "id": 113,
         "value": [
           {
-            "id": 15377,
-            "value": "continuator/Fortsetzer OUTDATED",
-            "color": "darker-pink"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       }

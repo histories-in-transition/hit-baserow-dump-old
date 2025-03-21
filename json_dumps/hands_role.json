@@ -6119,9 +6119,15 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-08-26",
-    "Last modified": "2024-08-26",
+    "Last modified": "2025-03-20",
     "locus_layout": [],
-    "function": [],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
     "scribe_type": [],
     "strata": []
   },
@@ -6145,9 +6151,9 @@
     ],
     "role": [
       {
-        "id": 15377,
-        "value": "continuator/Fortsetzer OUTDATED",
-        "color": "darker-pink"
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
       }
     ],
     "locus": "3v",
@@ -6175,10 +6181,16 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-08-26",
-    "Last modified": "2024-09-25",
+    "Last modified": "2025-03-20",
     "locus_layout": [],
     "function": [],
-    "scribe_type": [],
+    "scribe_type": [
+      {
+        "id": 18173,
+        "value": "Fortsetzung",
+        "color": "red"
+      }
+    ],
     "strata": []
   },
   "107": {
@@ -6201,9 +6213,9 @@
     ],
     "role": [
       {
-        "id": 15377,
-        "value": "continuator/Fortsetzer OUTDATED",
-        "color": "darker-pink"
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
       }
     ],
     "locus": "4r",
@@ -6231,10 +6243,16 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-08-26",
-    "Last modified": "2024-09-25",
+    "Last modified": "2025-03-20",
     "locus_layout": [],
     "function": [],
-    "scribe_type": [],
+    "scribe_type": [
+      {
+        "id": 18173,
+        "value": "Fortsetzung",
+        "color": "red"
+      }
+    ],
     "strata": []
   },
   "108": {
@@ -6257,9 +6275,9 @@
     ],
     "role": [
       {
-        "id": 15377,
-        "value": "continuator/Fortsetzer OUTDATED",
-        "color": "darker-pink"
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
       }
     ],
     "locus": "4r",
@@ -6287,10 +6305,16 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-08-26",
-    "Last modified": "2024-09-25",
+    "Last modified": "2025-03-20",
     "locus_layout": [],
     "function": [],
-    "scribe_type": [],
+    "scribe_type": [
+      {
+        "id": 18173,
+        "value": "Fortsetzung",
+        "color": "red"
+      }
+    ],
     "strata": []
   },
   "109": {
@@ -6313,9 +6337,9 @@
     ],
     "role": [
       {
-        "id": 15377,
-        "value": "continuator/Fortsetzer OUTDATED",
-        "color": "darker-pink"
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
       }
     ],
     "locus": "4r",
@@ -6343,10 +6367,16 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-08-26",
-    "Last modified": "2024-09-25",
+    "Last modified": "2025-03-20",
     "locus_layout": [],
     "function": [],
-    "scribe_type": [],
+    "scribe_type": [
+      {
+        "id": 18173,
+        "value": "Fortsetzung",
+        "color": "red"
+      }
+    ],
     "strata": []
   },
   "110": {
@@ -6369,9 +6399,9 @@
     ],
     "role": [
       {
-        "id": 15377,
-        "value": "continuator/Fortsetzer OUTDATED",
-        "color": "darker-pink"
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
       }
     ],
     "locus": "4r",
@@ -6399,10 +6429,16 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-08-26",
-    "Last modified": "2024-09-25",
+    "Last modified": "2025-03-20",
     "locus_layout": [],
     "function": [],
-    "scribe_type": [],
+    "scribe_type": [
+      {
+        "id": 18173,
+        "value": "Fortsetzung",
+        "color": "red"
+      }
+    ],
     "strata": []
   },
   "111": {
@@ -6425,9 +6461,9 @@
     ],
     "role": [
       {
-        "id": 15377,
-        "value": "continuator/Fortsetzer OUTDATED",
-        "color": "darker-pink"
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
       }
     ],
     "locus": "4r",
@@ -6455,10 +6491,16 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-08-26",
-    "Last modified": "2024-09-25",
+    "Last modified": "2025-03-20",
     "locus_layout": [],
     "function": [],
-    "scribe_type": [],
+    "scribe_type": [
+      {
+        "id": 18173,
+        "value": "Fortsetzung",
+        "color": "red"
+      }
+    ],
     "strata": []
   },
   "112": {
@@ -6481,9 +6523,9 @@
     ],
     "role": [
       {
-        "id": 15377,
-        "value": "continuator/Fortsetzer OUTDATED",
-        "color": "darker-pink"
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
       }
     ],
     "locus": "4r",
@@ -6511,10 +6553,16 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-08-26",
-    "Last modified": "2024-09-25",
+    "Last modified": "2025-03-20",
     "locus_layout": [],
     "function": [],
-    "scribe_type": [],
+    "scribe_type": [
+      {
+        "id": 18173,
+        "value": "Fortsetzung",
+        "color": "red"
+      }
+    ],
     "strata": []
   },
   "113": {
@@ -6537,9 +6585,9 @@
     ],
     "role": [
       {
-        "id": 15377,
-        "value": "continuator/Fortsetzer OUTDATED",
-        "color": "darker-pink"
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
       }
     ],
     "locus": "4r",
@@ -6567,10 +6615,16 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-08-26",
-    "Last modified": "2024-09-25",
+    "Last modified": "2025-03-20",
     "locus_layout": [],
     "function": [],
-    "scribe_type": [],
+    "scribe_type": [
+      {
+        "id": 18173,
+        "value": "Fortsetzung",
+        "color": "red"
+      }
+    ],
     "strata": []
   },
   "114": {
@@ -10516,7 +10570,7 @@
         "color": "darker-red"
       }
     ],
-    "locus": "",
+    "locus": "13v, 16v",
     "text": [
       {
         "ids": {
@@ -10529,7 +10583,7 @@
     "locus_text": [
       {
         "id": 214,
-        "value": "13v, 16v"
+        "value": "13v, 16v, 21r"
       }
     ],
     "Last modified by": {
@@ -10541,7 +10595,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2025-02-13",
-    "Last modified": "2025-03-19",
+    "Last modified": "2025-03-20",
     "locus_layout": [
       {
         "id": 15841,
@@ -11244,5 +11298,79 @@
         "order": "12.00000000000000000000"
       }
     ]
+  },
+  "197": {
+    "id": 197,
+    "order": "183.00000000000000000000",
+    "hit_id": "hit_hands_role__197",
+    "hand": [
+      {
+        "id": 66,
+        "value": "ÖNB, Cod. 2090_H. 23",
+        "order": "58.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 214,
+        "value": "cod_2090__214",
+        "order": "169.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "21r",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 146,
+          "database_table_3491": 214
+        },
+        "value": "Historiographische Ergänzungen"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 214,
+        "value": "13v, 16v, 21r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-03-20",
+    "Last modified": "2025-03-20",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": [
+      {
+        "id": 18165,
+        "value": "Erweiterung",
+        "color": "darker-blue"
+      }
+    ],
+    "strata": []
   }
 }

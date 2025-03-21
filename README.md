@@ -1,5 +1,8 @@
 # Histories in transition Entities
 
+> [!NOTE]  
+> This repo was archived, see [hit-baserow-dump](https://github.com/histories-in-transition/hit-baserow-dump)
+
 Automagically export data from [Baserow](https://baserow.io/) 
 
 ## initial (local) set up
